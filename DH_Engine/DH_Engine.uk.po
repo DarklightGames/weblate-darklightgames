@@ -1,2 +1,166 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-06 19:08+0000\n"
+"Last-Translator: Birdy <shiftybirds@gmail.com>\n"
+"Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_engine/uk/>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "DHATCannonMessage.VehicleIsEnemy"
+msgstr "Не можливо оперувати ворожою гарматою"
+
+msgid "DHATCannonMessage.CannotEnter"
+msgstr "Гармата вже зайнята"
+
+msgid "DHATGunRotateControlsMessage.Controls[0].Text"
+msgstr "Закінчити обертати"
+
+msgid "DHATGunRotateControlsMessage.Controls[1].Text"
+msgstr "Обернути"
+
+msgid "DHATGunTouchMessage.RotateHintString"
+msgstr "Тримайте {0} щоб обернути"
+
+msgid "DHATLoadMessage.LoadedGunner"
+msgstr "Ви перезарядили {0}"
+
+msgid "DHAccessControl.IPBanned"
+msgstr "Ви не можете приєднатися до цього сервера. Вас забанено."
+
+msgid "DHAdminMessage.KickedFromSquadMessage"
+msgstr "Адміністратор '{0}' кікнув '{1}' з загіну '{2}'."
+
+msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
+msgstr "Адміністратор '{0}' підвищив '{1}' до командира загіна '{2}'."
+
+msgid "DHAlliedAssaultRoles.AltName"
+msgstr "Штурмовик"
+
+msgid "DHAlliedAssaultRoles.PluralName"
+msgstr "Штурмовики"
+
+msgid "DHAlliedAutoRifleRoles.MyName"
+msgstr "Легкий Кулеметник"
+
+msgid "DHAlliedAutoRifleRoles.PluralName"
+msgstr "Легкі Кулементники"
+
+msgid "DHAlliedCorporalRoles.MyName"
+msgstr "Капрал"
+
+msgid "DHAlliedEngineerRoles.MyName"
+msgstr "Сапер"
+
+msgid "DHAlliedEngineerRoles.PluralName"
+msgstr "Сапери"
+
+msgid "DHAlliedMachineGunnerRoles.MyName"
+msgstr "Кулеметник"
+
+msgid "DHAlliedMachineGunnerRoles.PluralName"
+msgstr "Кулеметники"
+
+msgid "DHAlliedMortarmanRoles.MyName"
+msgstr "Мінометник"
+
+msgid "DHAlliedMortarmanRoles.PluralName"
+msgstr "Мінометники"
+
+msgid "DHATGunCannonPawn.HudName"
+msgstr "Навідник"
+
+msgid "DHAlliedAntiTankRoles.AltName"
+msgstr "Протитанковий Солдат"
+
+msgid "DHAlliedAssaultRoles.MyName"
+msgstr "Штурмовик"
+
+msgid "DHAlliedAntiTankRoles.PluralName"
+msgstr "Протитанкові Солдати"
+
+msgid "DHAlliedAutoRifleRoles.AltName"
+msgstr "Легкий Кулеметник"
+
+msgid "DHAlliedCorporalRoles.AltName"
+msgstr "Капрал"
+
+msgid "DHATCannonMessage.NotQualified"
+msgstr "Не має кваліфікаціЇ для оперування цією гарматою"
+
+msgid "DHATLoadMessage.BeenLoaded"
+msgstr "Вас перезарядив {0}"
+
+msgid "DHAlliedRadioOperatorRoles.PluralName"
+msgstr "Радисти"
+
+msgid "DHAlliedRiflemanRoles.MyName"
+msgstr "Стрілець"
+
+msgid "DHAlliedRiflemanRoles.PluralName"
+msgstr "Стрільці"
+
+msgid "DHAlliedSergeantRoles.MyName"
+msgstr "Сержант"
+
+msgid "DHAlliedSergeantRoles.PluralName"
+msgstr "Сержанти"
+
+msgid "DHAlliedSniperRoles.PluralName"
+msgstr "Снайпери"
+
+msgid "DHAlliedTankCrewmanRoles.MyName"
+msgstr "Екіпаж Танка"
+
+msgid "DHAlliedTankCrewmanRoles.PluralName"
+msgstr "Екіпажі Танків"
+
+msgid "DHAmericanCannonPawn.RangeText"
+msgstr "ярдів"
+
+msgid "DHAntiTankProjectileDamageType.DeathString"
+msgstr "%k підірвав %o з %w."
+
+msgid "DHArtillery105DamageType.DeathString"
+msgstr "%o розірвало артилерійським снарядом."
+
+msgid "DHArtillery105DamageType.MaleSuicide"
+msgstr "%o підірвав себе артилерійським снарядом."
+
+msgid "DHArtilleryKillDamageType.DeathString"
+msgstr "%o розірвало артилерійським снарядом."
+
+msgid "DHATCannonMessage.GunIsRotating"
+msgstr "Гармата обертається"
+
+msgid "DHAccessControl.SessionBanned"
+msgstr "Ви не можете приєднатися до цього сервера доки не зміниться мапа."
+
+msgid "DHAlliedCorporalRoles.PluralName"
+msgstr "Капрали"
+
+msgid "DHAlliedRadioOperatorRoles.MyName"
+msgstr "Радист"
+
+msgid "DHAlliedSniperRoles.MyName"
+msgstr "Снайпер"
+
+msgid "DHArtillery.MenuName"
+msgstr "Далекобійна Артилерія"
+
+msgid "DHArtillery105DamageType.FemaleSuicide"
+msgstr "%o підірвала себе артилерійським снарядом."
+
+msgid "DHAlliedMachineGunnerRoles.AltName"
+msgstr "Кулеметник"
+
+msgid "DHAlliedAntiTankRoles.MyName"
+msgstr "Протитанковий Солдат"
+
+msgid "DHArtilleryMessage.ActiveTargetChosen"
+msgstr "Ціль для вогневої підримки обрана."
