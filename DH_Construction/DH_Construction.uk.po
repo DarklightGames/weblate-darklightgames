@@ -1,2 +1,88 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-06 19:08+0000\n"
+"Last-Translator: Birdy <shiftybirds@gmail.com>\n"
+"Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_construction/uk/>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "DHConstructionControlsMessage.Controls[2].Text"
+msgstr "Обернути"
+
+msgid "DHConstruction_Sandbags_Bunker.MenuName"
+msgstr "Мішки з піском (Бункер)"
+
+msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
+msgstr "Вичерпано"
+
+msgid "DHConstructionGroup_Obstacles.GroupName"
+msgstr "Загородження"
+
+msgid "DHConstructionGroup_Logistics.GroupName"
+msgstr "Логістика"
+
+msgid "DHConstructionGroup_Ammunition.GroupName"
+msgstr "Амуніція"
+
+msgid "DHConstruction_Resupply.ConstructionVerb"
+msgstr "встановити"
+
+msgid "DHConstruction_Resupply_Players.MenuName"
+msgstr "Ящик з боєприпасами (Піхота)"
+
+msgid "DHConstruction_Hedgehog.MenuName"
+msgstr "Протитанковий Їжак"
+
+msgid "DHCameraWeapon.ItemName"
+msgstr "Камера"
+
+msgid "DHConstruction_Sandbags_Crescent.MenuName"
+msgstr "Мішки з піском (Півмісяць)"
+
+msgid "DHConstruction_Foxhole.MenuName"
+msgstr "Окоп"
+
+msgid "DHConstructionGroup_Defenses.GroupName"
+msgstr "Оборонні Спорудження"
+
+msgid "DHConstruction_Foxhole.ConstructionVerb"
+msgstr "копати"
+
+msgid "DHConstructionControlsMessage.Controls[0].Text"
+msgstr "Підтвердити"
+
+msgid "DHCommandMenu_ConstructionGroup.RemainingText"
+msgstr "Залишилось"
+
+msgid "DHConstruction_ConcertinaWire.MenuName"
+msgstr "Концерина"
+
+msgid "DHConstruction_DragonsTooth.MenuName"
+msgstr "Зуби Дракона"
+
+msgid "DHConstruction_Radio.MenuName"
+msgstr "Радіо"
+
+msgid "DHConstruction_Resupply_Vehicles.MenuName"
+msgstr "Ящик з боєприпасами"
+
+msgid "DHConstructionControlsMessage.Controls[1].Text"
+msgstr "Відмінити"
+
+msgid "DHCommandMenu_ConstructionGroup.NotAvailableText"
+msgstr "Не Доступно"
+
+msgid "DHConstruction_InventorySpawner.ConstructionVerb"
+msgstr "встановити"
+
+msgid "DHConstruction_Sandbags_Line.MenuName"
+msgstr "Мішки з піском (Лінія)"
+
+msgid "DHConstruction_SupplyCache.ConstructionVerb"
+msgstr "встановити"
