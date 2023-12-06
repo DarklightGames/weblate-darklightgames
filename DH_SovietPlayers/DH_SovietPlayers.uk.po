@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 22:40+0000\n"
+"PO-Revision-Date: 2023-12-06 22:48+0000\n"
 "Last-Translator: Birdy <shiftybirds@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_sovietplayers/uk/>\n"
@@ -25,7 +25,7 @@ msgid "DHSOVRadioOperatorRoles.AltName"
 msgstr "Радист"
 
 msgid "DHSOVSergeantRoles.AltName"
-msgstr "Командир відділення"
+msgstr "Командир отделения"
 
 msgid "DHPOLEngineerRoles.AltName"
 msgstr ""
