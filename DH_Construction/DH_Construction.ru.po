@@ -1,2 +1,147 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-06 19:08+0000\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"Language-Team: Russian <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_construction/ru/>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "DHConstructionControlsMessage.Controls[2].Text"
+msgstr "Вращать"
+
+msgid "DHConstruction_SupplyCache.MenuDescription"
+msgstr "Хранит и генерирует запасы с течением времени."
+
+msgid "DHConstructionGroup_Debug.GroupName"
+msgstr "Отлаживать"
+
+msgid "DHConstruction_WoodFence.MenuName"
+msgstr "Деревянный Забор"
+
+msgid "DHConstruction_Sandbags_Bunker.MenuName"
+msgstr "Мешки с песком (Бункер)"
+
+msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
+msgstr "Измученный"
+
+msgid "DHConstructionGroup_Obstacles.GroupName"
+msgstr "Препятствия"
+
+msgid "DHConstruction_VehiclePool.MenuName"
+msgstr "Точка возрождения для транспортных средств"
+
+msgid "DHConstruction_Resupply_Players.MenuDescription"
+msgstr "Обеспечивает точку пополнения припасов для пехоты."
+
+msgid "DHConstructionGroup_Logistics.GroupName"
+msgstr "Логистика"
+
+msgid "DHConstruction_Watchtower.MenuName"
+msgstr "Сторожевая башня"
+
+msgid "DHConstruction_ConcertinaWire.MenuDescription"
+msgstr "Эффективна при блокировки пехоты и легкой техники."
+
+msgid "DHConstruction_SupplyCache.MenuName"
+msgstr "Тайник с припасами"
+
+msgid "DHConstruction_PlatoonHQ.MenuName"
+msgstr "Штаб взвода"
+
+msgid "DHConstruction_VehiclePool.MenuDescription"
+msgstr "Обеспечивает точку появления транспортных средств для всей команды."
+
+msgid "DHConstructionGroup_Ammunition.GroupName"
+msgstr "Боеприпасы"
+
+msgid "DHConstruction_Resupply.ConstructionVerb"
+msgstr "бросить"
+
+msgid "DHConstruction_Resupply_Players.MenuName"
+msgstr "Ящик с боеприпасами (пехота)"
+
+msgid "DHConstruction_Hedgehog.MenuName"
+msgstr "Противотранспортный ежик"
+
+msgid "DHCameraWeapon.ItemName"
+msgstr "Камера"
+
+msgid "DHConstruction_Sandbags_Crescent.MenuName"
+msgstr "Мешки с песком (Полукруг)"
+
+msgid "DHConstruction_Hedgehog.MenuDescription"
+msgstr "Эффективен для блокировки легкой и средней техники."
+
+msgid "DHConstruction_Foxhole.MenuName"
+msgstr "Защитная яма"
+
+msgid "DHConstructionGroup_Defenses.GroupName"
+msgstr "Укрепления"
+
+msgid "DHConstruction_Foxhole.ConstructionVerb"
+msgstr "копать"
+
+msgid "DHConstructionControlsMessage.Controls[0].Text"
+msgstr "Подтвердить"
+
+msgid "DHConstruction_PlatoonHQ.CustomErrorString"
+msgstr ""
+"Вы не можете построить {verb} здесь {name}, {string} вы должны находиться в "
+"пределах {integer}м от контролируемой территории."
+
+msgid "DHCommandMenu_ConstructionGroup.RemainingText"
+msgstr "Оставшийся"
+
+msgid "DHConstruction_ConcertinaWire.MenuName"
+msgstr "Концертиновая проволока"
+
+msgid "DHConstruction_DragonsTooth.MenuName"
+msgstr "Каменные зубы"
+
+msgid "DHConstruction_Radio.MenuName"
+msgstr "Радио"
+
+msgid "DHConstruction_DragonsTooth.MenuDescription"
+msgstr "Эффективна для блокировки всех транспортных средств."
+
+msgid "DHConstruction_Resupply_Vehicles.MenuName"
+msgstr "Ящик с боеприпасами (транспорт)"
+
+msgid "DHConstructionControlsMessage.Controls[1].Text"
+msgstr "Отмена"
+
+msgid "DHConstruction_Radio.MenuDescription"
+msgstr "Разрешает вызов артиллерии."
+
+msgid "DHCommandMenu_ConstructionGroup.TeamLimitText"
+msgstr "Достигнут предел"
+
+msgid "DHCommandMenu_ConstructionGroup.NotAvailableText"
+msgstr "Нету в наличии"
+
+msgid "DHConstruction_InventorySpawner.ConstructionVerb"
+msgstr "бросить"
+
+msgid "DHConstruction_Resupply_Vehicles.MenuDescription"
+msgstr "Обеспечивает точку пополнения припасов транспортных средств и орудий."
+
+msgid "DHConstruction_PlatoonHQ.MenuDescription"
+msgstr "Обеспечивает точку появления для всей команды."
+
+msgid "DHConstruction_Sandbags_Line.MenuName"
+msgstr "Мешки с песком (Линия)"
+
+msgid "DHConstruction_MortarPit.MenuName"
+msgstr "Минометная яма"
+
+msgid "DHConstruction_SupplyCache.ConstructionVerb"
+msgstr "бросить"
+
+msgid "DHCommandMenu_ConstructionGroup.BusyText"
+msgstr "Занят"
