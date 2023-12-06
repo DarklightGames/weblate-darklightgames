@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 19:08+0000\n"
+"PO-Revision-Date: 2023-12-06 21:45+0000\n"
 "Last-Translator: Birdy <shiftybirds@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_gerplayers/uk/>\n"
@@ -59,3 +59,15 @@ msgstr "Потрібен Панцершрек"
 
 msgid "DH_ZLeader.AltName"
 msgstr "Вожак Зомбі"
+
+msgid "DH_12thSSSquadLeader.AltName"
+msgstr "Scharführer"
+
+msgid "DH_12thSSFireteamLeader.AltName"
+msgstr "Rottenführer"
+
+msgid "DHNation_Germany.NativeNationName"
+msgstr "Deutschland"
+
+msgid "DH_OstTruppenRifleman.AltName"
+msgstr "Schütze Osttruppe"
