@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 19:08+0000\n"
+"PO-Revision-Date: 2023-12-06 21:45+0000\n"
 "Last-Translator: Birdy <shiftybirds@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
@@ -40,7 +40,7 @@ msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
 msgstr "Адміністратор '{0}' підвищив '{1}' до командира загіна '{2}'."
 
 msgid "DHAlliedAssaultRoles.AltName"
-msgstr "Штурмовик"
+msgstr ""
 
 msgid "DHAlliedAssaultRoles.PluralName"
 msgstr "Штурмовики"
@@ -76,7 +76,7 @@ msgid "DHATGunCannonPawn.HudName"
 msgstr "Навідник"
 
 msgid "DHAlliedAntiTankRoles.AltName"
-msgstr "Протитанковий Солдат"
+msgstr ""
 
 msgid "DHAlliedAssaultRoles.MyName"
 msgstr "Штурмовик"
@@ -85,10 +85,10 @@ msgid "DHAlliedAntiTankRoles.PluralName"
 msgstr "Протитанкові Солдати"
 
 msgid "DHAlliedAutoRifleRoles.AltName"
-msgstr "Легкий Кулеметник"
+msgstr ""
 
 msgid "DHAlliedCorporalRoles.AltName"
-msgstr "Капрал"
+msgstr ""
 
 msgid "DHATCannonMessage.NotQualified"
 msgstr "Не має кваліфікаціЇ для оперування цією гарматою"
@@ -157,10 +157,38 @@ msgid "DHArtillery105DamageType.FemaleSuicide"
 msgstr "%o підірвала себе артилерійським снарядом."
 
 msgid "DHAlliedMachineGunnerRoles.AltName"
-msgstr "Кулеметник"
+msgstr ""
 
 msgid "DHAlliedAntiTankRoles.MyName"
 msgstr "Протитанковий Солдат"
 
 msgid "DHArtilleryMessage.ActiveTargetChosen"
 msgstr "Ціль для вогневої підримки обрана."
+
+msgid "DarkestHourGame.ROHints[20]"
+msgstr ""
+"Протитанкова зброя буде автоматично розряджена, якщо ви змінете зброю. "
+"Дотримуйтесь товариша по команді, щоб прискорити перезарядку, коли це "
+"необхідно."
+
+msgid "DarkestHourGame.ROHints[19]"
+msgstr ""
+"Протитанкові солдати завжди повинні брати з собою помічника для додаткового "
+"боєзапасу, швидших перезарядок та захисту."
+
+#, fuzzy
+msgid "DarkestHourGame.ROHints[18]"
+msgstr ""
+"Не стійте прямо за ракетною зброєю, коли вона стріляє; ви можете отримати "
+"серйозні травми від вихлопу!"
+
+msgid "DarkestHourGame.ROHints[16]"
+msgstr ""
+"Кулеметники мають обмежене поле зору, коли іх кулемет встановлено на "
+"позиціЇ, тому намагайтесь атакувати їх с флангів."
+
+msgid "DarkestHourGame.ROHints[17]"
+msgstr ""
+"Після постріла з Базуки або Панцершреку, швидко знайдіть нове укриття, "
+"оскільки дим від вихлопу розкриє ваше місцезнаходження. По вам обов'язково "
+"відкриють зворотний вогонь!"
