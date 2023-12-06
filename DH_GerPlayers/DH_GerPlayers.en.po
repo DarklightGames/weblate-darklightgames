@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Language: en"
+"MIME-Version: 1.0"
+"Content-Type: text/plain"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "DHGerVoice.SupportStringAxis[5]"
+msgstr "We need a Panzerschreck!"
+
+msgid "DHGerVoice.SupportAbbrevAxis[5]"
+msgstr "Need a Panzerschreck"
+
+msgid "DHNation_Germany.NationName"
+msgstr "Germany"
+
+msgid "DHNation_Germany.NativeNationName"
+msgstr "Deutschland"
+
+msgid "DHZVoice.SupportStringAxis[5]"
+msgstr "We need a Panzerschreck!"
+
+msgid "DHZVoice.SupportAbbrevAxis[5]"
+msgstr "Need a Panzerschreck"
+
+msgid "DH_12thSSFireteamLeader.AltName"
+msgstr "Rottenführer"
+
+msgid "DH_12thSSSquadLeader.AltName"
+msgstr "Scharführer"
+
+msgid "DH_OstTruppenRifleman.MyName"
+msgstr "Osttruppe Rifleman"
+
+msgid "DH_OstTruppenRifleman.AltName"
+msgstr "Schütze Osttruppe"
+
+msgid "DH_OstTruppenRifleman.PluralName"
+msgstr "Osttruppe Riflemen"
+
+msgid "DH_WHArtilleryGunner.MyName"
+msgstr "Artillery Gunner"
+
+msgid "DH_WHArtilleryGunner.AltName"
+msgstr "Artillerie Schütze"
+
+msgid "DH_WHArtilleryGunner.PluralName"
+msgstr "Artillery Gunners"
+
+msgid "DH_WHArtilleryOfficer.MyName"
+msgstr "Artillery Officer"
+
+msgid "DH_WHArtilleryOfficer.AltName"
+msgstr "Artillerie Offizier"
+
+msgid "DH_WHArtilleryOfficer.PluralName"
+msgstr "Artillery Officers"
+
+msgid "DH_WHSPCrew.MyName"
+msgstr "Assault Gun Crewman"
+
+msgid "DH_WHSPCrew.AltName"
+msgstr "Stugbesatzung"
+
+msgid "DH_WHSPCrew.PluralName"
+msgstr "Assault Gun Crewmen"
+
+msgid "DH_WKSquadLeader.AltName"
+msgstr "Scharführer"
+
+msgid "DH_WSSFireteamLeader.AltName"
+msgstr "Rottenführer"
+
+msgid "DH_WSSFireteamLeader_Autumn.AltName"
+msgstr "Rottenführer"
+
+msgid "DH_WSSFireteamLeader_Winter.AltName"
+msgstr "Rottenführer"
+
+msgid "DH_WSSGreatcoatFireteamLeader.AltName"
+msgstr "Rottenführer"
+
+msgid "DH_WSSGreatcoatFireteamLeader_Winter.AltName"
+msgstr "Rottenführer"
+
+msgid "DH_WSSGreatcoatSquadLeader.AltName"
+msgstr "Scharführer"
+
+msgid "DH_WSSGreatcoatSquadLeader_Winter.AltName"
+msgstr "Scharführer"
+
+msgid "DH_WSSSquadLeader.AltName"
+msgstr "Scharführer"
+
+msgid "DH_WSSSquadLeader_Autumn.AltName"
+msgstr "Scharführer"
+
+msgid "DH_WSSSquadLeader_Snow.AltName"
+msgstr "Scharführer"
+
+msgid "DH_ZBerserker.MyName"
+msgstr "Berserker"
+
+msgid "DH_ZBerserker.AltName"
+msgstr "Berserker"
+
+msgid "DH_ZBerserker.Article"
+msgstr "a "
+
+msgid "DH_ZBerserker.PluralName"
+msgstr "Berserkers"
+
+msgid "DH_ZLeader.MyName"
+msgstr "Zombie Leader"
+
+msgid "DH_ZLeader.AltName"
+msgstr "Zombie Leader"
+

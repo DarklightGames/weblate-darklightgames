@@ -1,0 +1,10 @@
+msgid ""
+msgstr ""
+"Language: en"
+"MIME-Version: 1.0"
+"Content-Type: text/plain"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "DHArtillery_Paratroopers.MenuName"
+msgstr "Paratroopers"
+

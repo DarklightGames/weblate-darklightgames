@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Language: en"
+"MIME-Version: 1.0"
+"Content-Type: text/plain"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "DateTime.DayOfWeekNames[0]"
+msgstr "Sunday"
+
+msgid "DateTime.DayOfWeekNames[1]"
+msgstr "Monday"
+
+msgid "DateTime.DayOfWeekNames[2]"
+msgstr "Tuesday"
+
+msgid "DateTime.DayOfWeekNames[3]"
+msgstr "Wednesday"
+
+msgid "DateTime.DayOfWeekNames[4]"
+msgstr "Thursday"
+
+msgid "DateTime.DayOfWeekNames[5]"
+msgstr "Friday"
+
+msgid "DateTime.DayOfWeekNames[6]"
+msgstr "Saturday"
+

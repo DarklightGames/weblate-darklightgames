@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Language: en"
+"MIME-Version: 1.0"
+"Content-Type: text/plain"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "DHBinocularsItem.ItemName"
+msgstr "Binoculars"
+
+msgid "DHBinocularsItemAllied.ItemName"
+msgstr "M13 Binoculars 6x30"
+
+msgid "DHBinocularsItemGerman.ItemName"
+msgstr "Zeiss Dienstglas 6x30"
+
+msgid "DHBinocularsItemSoviet.ItemName"
+msgstr "BPP Optik 6x30"
+
+msgid "DHRadioItem.ItemName"
+msgstr "Radio"
+
+msgid "DHShovelItem.ItemName"
+msgstr "Shovel"
+
+msgid "DHShovelWarningMessage.CannotBeCrawling"
+msgstr "You cannot dig while crawling."
+
+msgid "DHShovelWarningMessage.NeedMoreFriendliesToBuildMessage"
+msgstr "You must have another squadmate nearby to use your shovel to build!"
+
+msgid "DHTrenchMaceItem.ItemName"
+msgstr "Trench Club"
+
+msgid "DHTrenchMaceItem_Bone.ItemName"
+msgstr "Bone Club"
+
+msgid "DHTrenchMaceItem_Grenade.ItemName"
+msgstr "Trench Mace"
+
+msgid "DHWireCuttersItem.ItemName"
+msgstr "Wire Cutters"
+
+msgid "DH_NebelGranate39Weapon.ItemName"
+msgstr "NB 39 Smoke Grenade"
+
+msgid "DH_OrangeSmokeWeapon.ItemName"
+msgstr "RauchSichtzeichen Orange 160 Signal Grenade"
+
+msgid "DH_ParachuteItem.ItemName"
+msgstr "Parachute"
+
+msgid "DH_ParachuteStaticLine.ItemName"
+msgstr "Staticline"
+
+msgid "DH_RDG1SmokeGrenadeWeapon.ItemName"
+msgstr "RDG-1 Smoke Grenade"
+
+msgid "DH_RedSmokeWeapon.ItemName"
+msgstr "M16 Signal Grenade"
+
+msgid "DH_USSmokeGrenadeWeapon.ItemName"
+msgstr "M8 Smoke Grenade"
+

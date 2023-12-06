@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Language: en"
+"MIME-Version: 1.0"
+"Content-Type: text/plain"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "DHBritishVoice.SupportString[5]"
+msgstr "We need a PIAT!"
+
+msgid "DHBritishVoice.SupportAbbrev[5]"
+msgstr "Need a PIAT"
+
+msgid "DHCWAntiTankRoles.MyName"
+msgstr "Tank Hunter"
+
+msgid "DHCWAntiTankRoles.AltName"
+msgstr "Tank Hunter"
+
+msgid "DHCWAntiTankRoles.Article"
+msgstr "a "
+
+msgid "DHCWAntiTankRoles.PluralName"
+msgstr "Tank Hunters"
+
+msgid "DHCWCorporalRoles.MyName"
+msgstr "Lance Corporal"
+
+msgid "DHCWCorporalRoles.AltName"
+msgstr "Lance Corporal"
+
+msgid "DHCWCorporalRoles.PluralName"
+msgstr "Lance Corporals"
+
+msgid "DHCWSergeantRoles.MyName"
+msgstr "Corporal"
+
+msgid "DHCWSergeantRoles.AltName"
+msgstr "Corporal"
+
+msgid "DHCWSergeantRoles.PluralName"
+msgstr "Corporals"
+
+msgid "DHCanadianVoice.SupportString[5]"
+msgstr "We need a PIAT!"
+
+msgid "DHCanadianVoice.SupportAbbrev[5]"
+msgstr "Need a PIAT"
+
+msgid "DHNation_Britain.NationName"
+msgstr "Great Britain"
+
+msgid "DHNation_Canada.NationName"
+msgstr "Canada"
+

@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Language: en"
+"MIME-Version: 1.0"
+"Content-Type: text/plain"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "DHITAAntiTankRoles.AltName"
+msgstr "Anticarro Fuciliere"
+
+msgid "DHITAMachineGunnerRoles.AltName"
+msgstr "Mitragliere"
+
+msgid "DHITARadioOperatorRoles.AltName"
+msgstr "Radiotelegrafista"
+
+msgid "DHITARiflemanRoles.AltName"
+msgstr "Fuciliere"
+
+msgid "DHITASergeantRoles.AltName"
+msgstr "Sergente"
+
+msgid "DHITATankCrewmanRoles.AltName"
+msgstr "Carrista"
+
+msgid "DHItalyVoice.SupportStringAxis[5]"
+msgstr "We need a Panzerschreck!"
+
+msgid "DHItalyVoice.SupportAbbrevAxis[5]"
+msgstr "Need a Panzerschreck"
+
+msgid "DHNation_Italy.NationName"
+msgstr "Kingdom of Italy"
+
+msgid "DHNation_Italy.NativeNationName"
+msgstr "Regno d'Italia"
+

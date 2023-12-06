@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Language: en"
+"MIME-Version: 1.0"
+"Content-Type: text/plain"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "DHCSAntiTankRoles.AltName"
+msgstr "Protitankovy strelec"
+
+msgid "DHCSAssaultRoles.AltName"
+msgstr "Samopalnik"
+
+msgid "DHCSCorporalRoles.AltName"
+msgstr "Desatnik"
+
+msgid "DHCSEngineerRoles.AltName"
+msgstr "Zenista"
+
+msgid "DHCSMachineGunnerRoles.AltName"
+msgstr "Kulometcik"
+
+msgid "DHCSRiflemanRoles.AltName"
+msgstr "Strelec"
+
+msgid "DHCSSergeantRoles.AltName"
+msgstr "Cetar"
+
+msgid "DHCSSniperRoles.AltName"
+msgstr "Odstrelovac"
+
+msgid "DHCSTankCrewmanRoles.AltName"
+msgstr "Tankista"
+
+msgid "DHNation_Czechoslovakia.NationName"
+msgstr "Czechoslovakia"
+
+msgid "DHNation_Poland.NationName"
+msgstr "Polish People's Army"
+
+msgid "DHNation_Poland.NativeNationName"
+msgstr "Ludowe Wojsko Polskie"
+
+msgid "DHNation_USSR.NationName"
+msgstr "Union of Soviet Socialist Republics"
+
+msgid "DHPOLAntiTankRoles.AltName"
+msgstr "Strzelec przeciwpancerny"
+
+msgid "DHPOLAssaultRoles.AltName"
+msgstr "Szturmowiec"
+
+msgid "DHPOLCorporalRoles.AltName"
+msgstr "Kapral"
+
+msgid "DHPOLEngineerRoles.AltName"
+msgstr "Saper"
+
+msgid "DHPOLMachineGunnerRoles.AltName"
+msgstr "Celowniczy KM"
+
+msgid "DHPOLRadioOperatorRoles.AltName"
+msgstr "Radzista"
+
+msgid "DHPOLRiflemanRoles.AltName"
+msgstr "Strzelec"
+
+msgid "DHPOLSergeantRoles.AltName"
+msgstr "Plutonowy"
+
+msgid "DHPOLSniperRoles.AltName"
+msgstr "Strzelec wyborowy"
+
+msgid "DHPOLTankCrewmanRoles.AltName"
+msgstr "Czolgista"
+
+msgid "DHSOVAntiTankRoles.AltName"
+msgstr "Broneboyschik"
+
+msgid "DHSOVAssaultRoles.AltName"
+msgstr "Avtomatchik"
+
+msgid "DHSOVCorporalRoles.MyName"
+msgstr "Fireteam leader"
+
+msgid "DHSOVCorporalRoles.AltName"
+msgstr "Komandir zvena"
+
+msgid "DHSOVCorporalRoles.PluralName"
+msgstr "Fireteam leaders"
+
+msgid "DHSOVEngineerRoles.AltName"
+msgstr "Saper"
+
+msgid "DHSOVMachineGunnerRoles.AltName"
+msgstr "Pulemetchik"
+
+msgid "DHSOVRadioOperatorRoles.AltName"
+msgstr "Radist"
+
+msgid "DHSOVRiflemanRoles.AltName"
+msgstr "Strelok"
+
+msgid "DHSOVSergeantRoles.MyName"
+msgstr "Squad leader"
+
+msgid "DHSOVSergeantRoles.AltName"
+msgstr "Komandir otdeleniya"
+
+msgid "DHSOVSergeantRoles.PluralName"
+msgstr "Squad leaders"
+
+msgid "DHSOVTankCrewmanRoles.AltName"
+msgstr "Ekipazh tanka"
+

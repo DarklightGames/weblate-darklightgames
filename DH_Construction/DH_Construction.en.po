@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Language: en"
+"MIME-Version: 1.0"
+"Content-Type: text/plain"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "DHCameraWeapon.ItemName"
+msgstr "Camera"
+
+msgid "DHCommandMenu_ConstructionGroup.NotAvailableText"
+msgstr "Not Available"
+
+msgid "DHCommandMenu_ConstructionGroup.TeamLimitText"
+msgstr "Limit Reached"
+
+msgid "DHCommandMenu_ConstructionGroup.BusyText"
+msgstr "Busy"
+
+msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
+msgstr "Exhausted"
+
+msgid "DHCommandMenu_ConstructionGroup.RemainingText"
+msgstr "Remaining"
+
+msgid "DHConstructionControlsMessage.Controls[0].Text"
+msgstr "Confirm"
+
+msgid "DHConstructionControlsMessage.Controls[1].Text"
+msgstr "Cancel"
+
+msgid "DHConstructionControlsMessage.Controls[2].Text"
+msgstr "Rotate"
+
+msgid "DHConstructionGroup_Ammunition.GroupName"
+msgstr "Ammunition"
+
+msgid "DHConstructionGroup_Debug.GroupName"
+msgstr "Debug"
+
+msgid "DHConstructionGroup_Defenses.GroupName"
+msgstr "Defenses"
+
+msgid "DHConstructionGroup_Logistics.GroupName"
+msgstr "Logistics"
+
+msgid "DHConstructionGroup_Obstacles.GroupName"
+msgstr "Obstacles"
+
+msgid "DHConstruction_ConcertinaWire.MenuName"
+msgstr "Concertina Wire"
+
+msgid "DHConstruction_ConcertinaWire.MenuDescription"
+msgstr "Effective at blocking infantry and light vehicles."
+
+msgid "DHConstruction_DragonsTooth.MenuName"
+msgstr "Dragon's Teeth"
+
+msgid "DHConstruction_DragonsTooth.MenuDescription"
+msgstr "Effective at blocking all vehicles."
+
+msgid "DHConstruction_Foxhole.MenuName"
+msgstr "Foxhole"
+
+msgid "DHConstruction_Foxhole.ConstructionVerb"
+msgstr "dig"
+
+msgid "DHConstruction_Hedgehog.MenuName"
+msgstr "Hedgehog"
+
+msgid "DHConstruction_Hedgehog.MenuDescription"
+msgstr "Effective at blocking light and medium vehicles."
+
+msgid "DHConstruction_InventorySpawner.ConstructionVerb"
+msgstr "drop"
+
+msgid "DHConstruction_MortarPit.MenuName"
+msgstr "Mortar Pit"
+
+msgid "DHConstruction_PlatoonHQ.CustomErrorString"
+msgstr "Cannot {verb} a {name} close to {string} unless within {integer}m of controlled territory."
+
+msgid "DHConstruction_PlatoonHQ.MenuName"
+msgstr "Platoon HQ"
+
+msgid "DHConstruction_PlatoonHQ.MenuDescription"
+msgstr "Provides a team-wide spawn point."
+
+msgid "DHConstruction_Radio.MenuName"
+msgstr "Radio"
+
+msgid "DHConstruction_Radio.MenuDescription"
+msgstr "Allows artillery call-ins."
+
+msgid "DHConstruction_Resupply.ConstructionVerb"
+msgstr "drop"
+
+msgid "DHConstruction_Resupply_Players.MenuName"
+msgstr "Ammo Crate (Infantry)"
+
+msgid "DHConstruction_Resupply_Players.MenuDescription"
+msgstr "Provides a resupply point for infantry."
+
+msgid "DHConstruction_Resupply_Vehicles.MenuName"
+msgstr "Ammo Crate (Vehicles)"
+
+msgid "DHConstruction_Resupply_Vehicles.MenuDescription"
+msgstr "Provides a resupply point for vehicles and guns."
+
+msgid "DHConstruction_Sandbags_Bunker.MenuName"
+msgstr "Sandbags (Bunker)"
+
+msgid "DHConstruction_Sandbags_Crescent.MenuName"
+msgstr "Sandbags (Crescent)"
+
+msgid "DHConstruction_Sandbags_Line.MenuName"
+msgstr "Sandbags (Line)"
+
+msgid "DHConstruction_SupplyCache.MenuName"
+msgstr "Supply Cache"
+
+msgid "DHConstruction_SupplyCache.MenuDescription"
+msgstr "Stores and generates supplies over time."
+
+msgid "DHConstruction_SupplyCache.ConstructionVerb"
+msgstr "drop"
+
+msgid "DHConstruction_VehiclePool.MenuName"
+msgstr "Vehicle Pool"
+
+msgid "DHConstruction_VehiclePool.MenuDescription"
+msgstr "Provides a team-wide vehicle spawn point."
+
+msgid "DHConstruction_Watchtower.MenuName"
+msgstr "Watchtower"
+
+msgid "DHConstruction_WoodFence.MenuName"
+msgstr "Wood Fence"
+

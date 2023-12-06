@@ -1,0 +1,16 @@
+msgid ""
+msgstr ""
+"Language: en"
+"MIME-Version: 1.0"
+"Content-Type: text/plain"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "DHNation_USA.NationName"
+msgstr "United States of America"
+
+msgid "DHUSVoice.SupportString[5]"
+msgstr "We need a Bazooka!"
+
+msgid "DHUSVoice.SupportAbbrev[5]"
+msgstr "Need a Bazooka"
+

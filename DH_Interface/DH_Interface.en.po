@@ -1,0 +1,1651 @@
+msgid ""
+msgstr ""
+"Language: en"
+"MIME-Version: 1.0"
+"Content-Type: text/plain"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "DHBrowser_Footer.BrowserBack.Caption"
+msgstr "Back"
+
+msgid "DHBrowser_Footer.BrowserFilter.Caption"
+msgstr "Filters"
+
+msgid "DHBrowser_Footer.BrowserJoin.Caption"
+msgstr "Join"
+
+msgid "DHBrowser_Footer.BrowserMain.Caption"
+msgstr "Main"
+
+msgid "DHBrowser_Footer.BrowserRefresh.Caption"
+msgstr "Refresh"
+
+msgid "DHBrowser_Footer.BrowserSpec.Caption"
+msgstr "Spectate"
+
+msgid "DHBrowser_Footer.OnlyStandardCheckBox.Caption"
+msgstr "Standard Servers Only"
+
+msgid "DHBrowser_OpenIP.CancelButton.Caption"
+msgstr "CANCEL"
+
+msgid "DHBrowser_OpenIP.IPDesc.Caption"
+msgstr "Enter New IP Address"
+
+msgid "DHBrowser_OpenIP.IpEntryBox.Caption"
+msgstr "IP Address: "
+
+msgid "DHBrowser_OpenIP.OkButton.Caption"
+msgstr "OK"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[0]"
+msgstr "Join Server"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[1]"
+msgstr "Join As Spectator"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[2]"
+msgstr "-"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[3]"
+msgstr "Refresh Server Info"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[4]"
+msgstr "Refresh List"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[5]"
+msgstr "-"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[6]"
+msgstr "Configure Filters"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[7]"
+msgstr "Create Template"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[8]"
+msgstr "Deactivate All Filters"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[9]"
+msgstr "-"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[10]"
+msgstr "Add To Favorites"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[11]"
+msgstr "Copy server address"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[12]"
+msgstr "Open IP"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[1]"
+msgstr "Server Name"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[2]"
+msgstr "Health"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[3]"
+msgstr "Location"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[4]"
+msgstr "Version"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[5]"
+msgstr "Map"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[6]"
+msgstr "Players"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[7]"
+msgstr "Ping"
+
+msgid "DHButtonFont.FontArrayNames[0]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHButtonFont.FontArrayNames[1]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHButtonFont.FontArrayNames[2]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHButtonFont.FontArrayNames[3]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHButtonFont.FontArrayNames[4]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHButtonFont.FontArrayNames[5]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHButtonFont.FontArrayNames[6]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHButtonFont.FontArrayNames[7]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHButtonFont.FontArrayNames[8]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHButtonFont.FontArrayNames[9]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHButtonFont.FontArrayNames[10]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHButtonFont.FontArrayNames[11]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHButtonFont.FontArrayNames[12]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHButtonFont.FontArrayNames[13]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHButtonFont.FontArrayNames[14]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHCommunicationPage.Panels[0].Caption"
+msgstr "Communication"
+
+msgid "DHCommunicationPage.Panels[0].Caption.Hint"
+msgstr "Manage communication with other players"
+
+msgid "DHContextMenu_SquadMembers.AdminPrefixText"
+msgstr "ADMIN:"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[0]"
+msgstr "-"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[1]"
+msgstr "Invite {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[2]"
+msgstr "Kick {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[3]"
+msgstr "Ban {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[4]"
+msgstr "Promote {0} to squad leader"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[5]"
+msgstr "Assign {0} as assistant"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[6]"
+msgstr "Unassign {0} as assistant"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[7]"
+msgstr "Volunteer as assistant"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[8]"
+msgstr "Request to merge squads"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[9]"
+msgstr "{1} Paradrop {0} to squad leader"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[10]"
+msgstr "{1} Paradrop {0} to marker"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[11]"
+msgstr "{1} Paradrop SQUAD to squad leader"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[12]"
+msgstr "{1} Paradrop SQUAD to marker"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[13]"
+msgstr "{1} Paradrop unassigned players to marker"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[14]"
+msgstr "{1} Promote {0} to squad leader"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[15]"
+msgstr "{1} Kick {0} from squad"
+
+msgid "DHCreditsPage.WindowName"
+msgstr "Credits"
+
+msgid "DHCreditsPage.CloseButton.Caption"
+msgstr "Close"
+
+msgid "DHDeployMenu.NoneText"
+msgstr "None"
+
+msgid "DHDeployMenu.SelectRoleText"
+msgstr "Select a role"
+
+msgid "DHDeployMenu.SelectSpawnPointText"
+msgstr "Select a spawn point"
+
+msgid "DHDeployMenu.DeployInTimeText"
+msgstr "Press Continue to deploy ({0})"
+
+msgid "DHDeployMenu.DeployNowText"
+msgstr "Press Continue to deploy now!"
+
+msgid "DHDeployMenu.ReservedString"
+msgstr "Reserved"
+
+msgid "DHDeployMenu.ChangeTeamConfirmText"
+msgstr "Are you sure you want to change teams? (you will not be able to change back for {s} seconds)"
+
+msgid "DHDeployMenu.FreeChangeTeamConfirmText"
+msgstr "Are you sure you want to change teams?"
+
+msgid "DHDeployMenu.CantChangeTeamYetText"
+msgstr "You must wait {s} before you can change teams"
+
+msgid "DHDeployMenu.LockText"
+msgstr "Lock"
+
+msgid "DHDeployMenu.UnlockText"
+msgstr "Unlock"
+
+msgid "DHDeployMenu.VehicleUnavailableString"
+msgstr "The vehicle you had selected is no longer available."
+
+msgid "DHDeployMenu.LockedText"
+msgstr "Locked"
+
+msgid "DHDeployMenu.BotsText"
+msgstr "BOTS"
+
+msgid "DHDeployMenu.SquadOnlyText"
+msgstr "SQUADS ONLY"
+
+msgid "DHDeployMenu.SquadLeadershipOnlyText"
+msgstr "LEADERS ONLY"
+
+msgid "DHDeployMenu.RecommendJoiningSquadText"
+msgstr "It it HIGHLY RECOMMENDED that you JOIN A SQUAD before deploying! Joining a squad grants you additional deployment options and lets you get to the fight faster.||Do you want to automatically join a squad now?"
+
+msgid "DHDeployMenu.UnassignedPlayersCaptionText"
+msgstr "Unassigned"
+
+msgid "DHDeployMenu.NonSquadLeaderOnlyText"
+msgstr "NON-LEADERS ONLY"
+
+msgid "DHDeployMenu.SurrenderConfirmBaseText"
+msgstr "Are you sure you want to surrender?"
+
+msgid "DHDeployMenu.SurrenderConfirmNominationText"
+msgstr "This action will nominate the team wide vote. The vote will begin after {0}% of the team has opted to retreat."
+
+msgid "DHDeployMenu.SurrenderConfirmEndRoundText"
+msgstr "This will immediately end the round in favor of the opposite team."
+
+msgid "DHDeployMenu.SurrenderButtonText[0]"
+msgstr "Retreat"
+
+msgid "DHDeployMenu.SurrenderButtonText[1]"
+msgstr "Keep fighting"
+
+msgid "DHDeployMenu.SurrenderResponseMessages[0]"
+msgstr "Fatal error!"
+
+msgid "DHDeployMenu.SurrenderResponseMessages[1]"
+msgstr "You haven't picked a team."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[2]"
+msgstr "Round hasn't started yet."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[3]"
+msgstr "Retreat vote is disabled."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[4]"
+msgstr "Vote is already in progress."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[5]"
+msgstr "You've already retreated."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[6]"
+msgstr "Your team already had a vote to retreat earlier. Try again later."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[7]"
+msgstr "You cannot retreat after the round is over."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[9]"
+msgstr "You cannot retreat this early."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[10]"
+msgstr "You cannot retreat during the setup phase."
+
+msgid "DHDeployMenu.AlliesButtonObject.Hint"
+msgstr "Join Allies"
+
+msgid "DHDeployMenu.ArtilleryVehicleImageObject.Hint"
+msgstr "Artillery Vehicle"
+
+msgid "DHDeployMenu.AxisButtonObject.Hint"
+msgstr "Join Axis"
+
+msgid "DHDeployMenu.ContinueButtonObject.Caption"
+msgstr "Continue"
+
+msgid "DHDeployMenu.DisconnectButtonObject.Caption"
+msgstr "Disconnect"
+
+msgid "DHDeployMenu.EquipmentButtonObject.Hint"
+msgstr "Equipment"
+
+msgid "DHDeployMenu.MapButtonObject.Hint"
+msgstr "Map [F1]"
+
+msgid "DHDeployMenu.MapVoteButtonObject.Caption"
+msgstr "Map Vote"
+
+msgid "DHDeployMenu.MaxVehiclesImageObject.Hint"
+msgstr "Tanks Available"
+
+msgid "DHDeployMenu.RetreatButtonObject.Caption"
+msgstr "Retreat"
+
+msgid "DHDeployMenu.RoundTimeLabelObject.Hint"
+msgstr "Time Remaining"
+
+msgid "DHDeployMenu.ServersButtonObject.Caption"
+msgstr "Servers"
+
+msgid "DHDeployMenu.SettingsButtonObject.Caption"
+msgstr "Settings"
+
+msgid "DHDeployMenu.SpawnVehicleImageObject.Hint"
+msgstr "Spawn Vehicle"
+
+msgid "DHDeployMenu.SpectateButtonObject.Hint"
+msgstr "Spectate"
+
+msgid "DHDeployMenu.SquadsButtonObject.Hint"
+msgstr "Squads [F1]"
+
+msgid "DHDeployMenu.SuicideButtonObject.Caption"
+msgstr "Suicide"
+
+msgid "DHDeployMenu.SupplyVehicleImageObject.Hint"
+msgstr "Construction Supply Vehicle"
+
+msgid "DHDeployMenu.VehicleButtonObject.Hint"
+msgstr "Vehicles"
+
+msgid "DHEditFavoritePage.UnknownText"
+msgstr "Unknown Server"
+
+msgid "DHEditFavoritePage.IpEntryBox.Caption"
+msgstr "IP Address: "
+
+msgid "DHFilterEdit.ComboOpts[0]"
+msgstr "Does Not Matter"
+
+msgid "DHFilterEdit.ComboOpts[1]"
+msgstr "Must Be On"
+
+msgid "DHFilterEdit.ComboOpts[2]"
+msgstr "Must Be Off"
+
+msgid "DHFilterEdit.MutOpts[0]"
+msgstr "No Mutators"
+
+msgid "DHFilterEdit.MutOpts[1]"
+msgstr "Any Mutator"
+
+msgid "DHFilterEdit.MutOpts[2]"
+msgstr "Custom"
+
+msgid "DHFilterEdit.WindowName"
+msgstr "Edit Filter Rules..."
+
+msgid "DHFilterEdit.bCancel.Caption"
+msgstr "Cancel"
+
+msgid "DHFilterEdit.bOk.Caption"
+msgstr "OK"
+
+msgid "DHFilterEdit.cbMutators.Caption"
+msgstr "Mutators:"
+
+msgid "DHFilterEdit.cbStats.Caption"
+msgstr "Stats Servers:"
+
+msgid "DHFilterEdit.cbTranslocator.Caption"
+msgstr "Translocator:"
+
+msgid "DHFilterEdit.cbWeaponStay.Caption"
+msgstr "Weapon Stay:"
+
+msgid "DHFilterEdit.ckBots.Caption"
+msgstr "No Bots"
+
+msgid "DHFilterEdit.ckEmpty.Caption"
+msgstr "No Empty Servers"
+
+msgid "DHFilterEdit.ckFull.Caption"
+msgstr "No Full Servers"
+
+msgid "DHFilterEdit.ckPassworded.Caption"
+msgstr "No Passworded Servers"
+
+msgid "DHFilterEdit.ckVACOnly.Caption"
+msgstr "Valve Anti-Cheat Protected Only"
+
+msgid "DHFilterEdit.ebName.Caption"
+msgstr "Filter Name:"
+
+msgid "DHFilterEdit.sbMutators.Caption"
+msgstr "Custom Mutator Config"
+
+msgid "DHFilterEdit.sbOptions.Caption"
+msgstr "Options..."
+
+msgid "DHFilterListPage.bCancel.Caption"
+msgstr "Cancel"
+
+msgid "DHFilterListPage.bCreate.Caption"
+msgstr "Create"
+
+msgid "DHFilterListPage.bEdit.Caption"
+msgstr "Edit"
+
+msgid "DHFilterListPage.bOk.Caption"
+msgstr "OK"
+
+msgid "DHFilterListPage.bRemove.Caption"
+msgstr "Remove"
+
+msgid "DHFilterListPage.sbBackground.Caption"
+msgstr "Filters..."
+
+msgid "DHGUIDynArrayPage.LockedCancelButton.Caption"
+msgstr "Cancel"
+
+msgid "DHGUIDynArrayPage.LockedOKButton.Caption"
+msgstr "OK"
+
+msgid "DHGUIMapComponent.SquadRallyPointDestroyText"
+msgstr "Destroy Rally"
+
+msgid "DHGUIMapComponent.SquadRallyPointSetAsSecondaryText"
+msgstr "Set as Secondary"
+
+msgid "DHGUIMapComponent.RemoveText"
+msgstr "Remove {0}"
+
+msgid "DHGUIMapComponent.ActiveTargetSelectText"
+msgstr "Select as Active Target"
+
+msgid "DHGUIMapComponent.ActiveTargetDeselectText"
+msgstr "Deselect Active Target"
+
+msgid "DHGUISquadComponent.CreateSquadButton.Caption"
+msgstr "Create Squad"
+
+msgid "DHGUISquadComponent.JoinSquadButton.Caption"
+msgstr "Join Squad"
+
+msgid "DHGUISquadComponent.LeaveSquadButton.Caption"
+msgstr "Leave Squad"
+
+msgid "DHGUISquadComponent.NoRallyPointsImage.Hint"
+msgstr "This squad has had no rally points in a while. Deployment options may be limited!"
+
+msgid "DHGUITeamSelection.SizeBonusText"
+msgstr "army size"
+
+msgid "DHGUITeamSelection.UnitsText"
+msgstr " players"
+
+msgid "DHGUITeamSelection.AutoSelect.Caption"
+msgstr "Auto-Select"
+
+msgid "DHGUITeamSelection.Disconnect.Caption"
+msgstr "Disconnect"
+
+msgid "DHGUITeamSelection.SettingsButtonObject.Caption"
+msgstr "Settings"
+
+msgid "DHGUITeamSelection.Spectate.Caption"
+msgstr "Spectate"
+
+msgid "DHGUITeamSelection.TeamsCount.Caption"
+msgstr "? players"
+
+msgid "DHGUITeamSelection.TeamsCount2.Caption"
+msgstr "? players"
+
+msgid "DHGameFooterMP.GameBackButton.Caption"
+msgstr "Back"
+
+msgid "DHGameFooterSP.GameBackButton.Caption"
+msgstr "Back"
+
+msgid "DHGamePageMP.MPFooter.PrimaryCaption"
+msgstr "Listen"
+
+msgid "DHGamePageMP.MPFooter.SecondaryCaption"
+msgstr "Dedicated"
+
+msgid "DHGamePageSP.NoBotsWarningText"
+msgstr "Darkest Hour: Europe '44-'45 is focused solely on multi-player and, as a result, does NOT include support for bots in Practice mode."
+
+msgid "DHGamePageSP.PageCaption"
+msgstr "Practice"
+
+msgid "DHGamePageSP.SPFooter.PrimaryCaption"
+msgstr "Start Practice Game"
+
+msgid "DHGetDataMenu.CancelButton.Caption"
+msgstr "CANCEL"
+
+msgid "DHGetDataMenu.CancelButton.Hint"
+msgstr "Close this menu, discarding changes."
+
+msgid "DHGetDataMenu.OkButton.Caption"
+msgstr "OK"
+
+msgid "DHHugeButtonFont.FontArrayNames[0]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHHugeButtonFont.FontArrayNames[1]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHHugeButtonFont.FontArrayNames[2]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHHugeButtonFont.FontArrayNames[3]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHHugeButtonFont.FontArrayNames[4]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHHugeButtonFont.FontArrayNames[5]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHHugeButtonFont.FontArrayNames[6]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHHugeButtonFont.FontArrayNames[7]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHHugeButtonFont.FontArrayNames[8]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHHugeButtonFont.FontArrayNames[9]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHHugeButtonFont.FontArrayNames[10]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHHugeButtonFont.FontArrayNames[11]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHHugeButtonFont.FontArrayNames[12]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHHugeButtonFont.FontArrayNames[13]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHHugeButtonFont.FontArrayNames[14]"
+msgstr "DHFonts.DHFontB22"
+
+msgid "DHIAMultiColumnRulesPanel.AdvancedButton.Caption"
+msgstr "View Advanced Options"
+
+msgid "DHLargeFont.FontArrayNames[0]"
+msgstr "DHFonts.DHFont14"
+
+msgid "DHLargeFont.FontArrayNames[1]"
+msgstr "DHFonts.DHFont14"
+
+msgid "DHLargeFont.FontArrayNames[2]"
+msgstr "DHFonts.DHFont14"
+
+msgid "DHLargeFont.FontArrayNames[3]"
+msgstr "DHFonts.DHFont14"
+
+msgid "DHLargeFont.FontArrayNames[4]"
+msgstr "DHFonts.DHFont14"
+
+msgid "DHLearnToPlayFooter.GameBackButton.Caption"
+msgstr "Back"
+
+msgid "DHLearnToPlayPage.PanelCaption[0]"
+msgstr "Video Guides"
+
+msgid "DHLearnToPlayPage.PanelHint[0]"
+msgstr "Learn about the game by watching a video"
+
+msgid "DHLearnToPlayPage.LearnToPlayHeader.Caption"
+msgstr "Learn To Play"
+
+msgid "DHMOTDConfigPage.LockedCancelButton.Caption"
+msgstr "Cancel"
+
+msgid "DHMOTDConfigPage.LockedOKButton.Caption"
+msgstr "OK"
+
+msgid "DHMainMenu.JoinTestServerString"
+msgstr "Join Test Server"
+
+msgid "DHMainMenu.ConnectingString"
+msgstr "Joining"
+
+msgid "DHMainMenu.SteamMustBeRunningText"
+msgstr "Steam must be running and you must have an active internet connection to play multiplayer"
+
+msgid "DHMainMenu.SinglePlayerDisabledText"
+msgstr "Practice mode is only available in the full version."
+
+msgid "DHMainMenu.MOTDErrorString"
+msgstr "Error: Could not download news feed ({0})"
+
+msgid "DHMainMenu.ControlsChangedMessage"
+msgstr "New controls have been added to the game. As a result, your previous control bindings may have been changed.||Do you want to review your control settings?"
+
+msgid "DHMainMenu.BadConfigMessage"
+msgstr "A problem exists with your configuration file, click continue to quit the game and open a guide on how to fix your configuration file."
+
+msgid "DHMainMenu.CreditsButton.Caption"
+msgstr "Credits"
+
+msgid "DHMainMenu.DiscordButton.Hint"
+msgstr "Join us in Discord!"
+
+msgid "DHMainMenu.FacebookButton.Hint"
+msgstr "Follow us on Facebook!"
+
+msgid "DHMainMenu.GitHubButton.Hint"
+msgstr "Join us on GitHub!"
+
+msgid "DHMainMenu.InstantActionButton.Caption"
+msgstr "Practice"
+
+msgid "DHMainMenu.PatreonButton.Hint"
+msgstr "Support us on Patreon!"
+
+msgid "DHMainMenu.QuitButton.Caption"
+msgstr "Exit"
+
+msgid "DHMainMenu.ServerButton.Caption"
+msgstr "Server Browser"
+
+msgid "DHMainMenu.SettingsButton.Caption"
+msgstr "Settings"
+
+msgid "DHMainMenu.SteamCommunityButton.Hint"
+msgstr "Join the Steam Community!"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings[0]"
+msgstr "Nominated Maps"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings[1]"
+msgstr "Vote Weight"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings[2]"
+msgstr "Map Size"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints[0]"
+msgstr "The map's name."
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints[1]"
+msgstr "The combined voting power of players for the map."
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints[2]"
+msgstr "Recommended players for the map."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings[0]"
+msgstr "Map Name"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings[1]"
+msgstr "Allied Nation"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings[2]"
+msgstr "Game Type"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings[3]"
+msgstr "Map Size"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints[0]"
+msgstr "The map's name."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints[1]"
+msgstr "The Allied country for the map."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints[2]"
+msgstr "What type of game or battle for the map."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints[3]"
+msgstr "Recommended players for the map."
+
+msgid "DHMapVotingPage.lmsgMapOutOfBounds"
+msgstr "Please vote for a map suitable for the current player count. You can still vote for this map on the full list."
+
+msgid "DHMapVotingPage.lmsgMode[0]"
+msgstr "Majority Wins"
+
+msgid "DHMapVotingPage.FilterClearButton.Caption"
+msgstr "Clear"
+
+msgid "DHMapVotingPage.FilterEditbox.Caption"
+msgstr "Search"
+
+msgid "DHMapVotingPage.GameTypeCombo.Caption"
+msgstr "Filter Game Type:"
+
+msgid "DHMaplistEditor.ActiveBackground.Caption"
+msgstr "Selected Maps"
+
+msgid "DHMaplistEditor.AddAllButton.Caption"
+msgstr "Add All"
+
+msgid "DHMaplistEditor.AddButton.Caption"
+msgstr "Add"
+
+msgid "DHMaplistEditor.AvailBackground.Caption"
+msgstr "Available Maps"
+
+msgid "DHMaplistEditor.DeleteMaplistButton.Caption"
+msgstr "Delete"
+
+msgid "DHMaplistEditor.MapListSectionBackground.Caption"
+msgstr "Saved Map Lists"
+
+msgid "DHMaplistEditor.MoveDownButton.Caption"
+msgstr "Move Down"
+
+msgid "DHMaplistEditor.MoveUpButton.Caption"
+msgstr "Move Up"
+
+msgid "DHMaplistEditor.NewMaplistButton.Caption"
+msgstr "New"
+
+msgid "DHMaplistEditor.RemoveAllButton.Caption"
+msgstr "Remove All"
+
+msgid "DHMaplistEditor.RemoveButton.Caption"
+msgstr "Remove"
+
+msgid "DHMaplistEditor.RenameMaplistButton.Caption"
+msgstr "Rename"
+
+msgid "DHMenuFont.FontArrayNames[0]"
+msgstr "DHFonts.DHFontB18"
+
+msgid "DHMenuFont.FontArrayNames[1]"
+msgstr "DHFonts.DHFontB18"
+
+msgid "DHMenuFont.FontArrayNames[2]"
+msgstr "DHFonts.DHFontB18"
+
+msgid "DHMenuFont.FontArrayNames[3]"
+msgstr "DHFonts.DHFontB18"
+
+msgid "DHMenuFont.FontArrayNames[4]"
+msgstr "DHFonts.DHFontB18"
+
+msgid "DHMenuFont.FontArrayNames[5]"
+msgstr "DHFonts.DHFontB18"
+
+msgid "DHMenuFont.FontArrayNames[6]"
+msgstr "DHFonts.DHFontB18"
+
+msgid "DHMenuFont.FontArrayNames[7]"
+msgstr "DHFonts.DHFontB18"
+
+msgid "DHMenuFont.FontArrayNames[8]"
+msgstr "DHFonts.DHFontB18"
+
+msgid "DHMenuFont.FontArrayNames[9]"
+msgstr "DHFonts.DHFontB18"
+
+msgid "DHMenuFont.FontArrayNames[10]"
+msgstr "DHFonts.DHFontB18"
+
+msgid "DHMenuFont.FontArrayNames[11]"
+msgstr "DHFonts.DHFontB18"
+
+msgid "DHMenuFont.FontArrayNames[12]"
+msgstr "DHFonts.DHFontB18"
+
+msgid "DHMenuFont.FontArrayNames[13]"
+msgstr "DHFonts.DHFontB18"
+
+msgid "DHMenuFont.FontArrayNames[14]"
+msgstr "DHFonts.DHFontB18"
+
+msgid "DHMidGameVoiceChat.NOSPEECH.Caption"
+msgstr "Ignore Voice Commands"
+
+msgid "DHMutatorConfigMenu.AdvancedButton.Caption"
+msgstr "View Advanced Options"
+
+msgid "DHMutatorConfigMenu.LockedCancelButton.Caption"
+msgstr "Cancel"
+
+msgid "DHMutatorConfigMenu.LockedOKButton.Caption"
+msgstr "OK"
+
+msgid "DHNetworkStatusMessage.NetStatOk.Caption"
+msgstr "OK"
+
+msgid "DHNetworkStatusMsg.StatusMessages[12]"
+msgstr "You have been kicked for the remainder of the current level.||If an admin did not punish you, this is the default punishment for team killing, so don't do it."
+
+msgid "DHNetworkStatusMsg.StatusTitle[12]"
+msgstr "Session Kicked"
+
+msgid "DHPlayerSetupPage.psTitleBar.Caption"
+msgstr "Player Setup"
+
+msgid "DHQuitPage.NoButton.Caption"
+msgstr "NO"
+
+msgid "DHQuitPage.QuitDesc.Caption"
+msgstr "Are you sure you wish to quit?"
+
+msgid "DHQuitPage.YesButton.Caption"
+msgstr "YES"
+
+msgid "DHScoreBoard.MunitionPercentageText"
+msgstr "Munitions"
+
+msgid "DHScoreBoard.PlayersText"
+msgstr "Players"
+
+msgid "DHScoreBoard.TickHealthText"
+msgstr "Tick: "
+
+msgid "DHScoreBoard.NetHealthText"
+msgstr "Loss: "
+
+msgid "DHScoreBoard.ScoreboardColumns[0].Title"
+msgstr "#"
+
+msgid "DHScoreBoard.ScoreboardColumns[3].Title"
+msgstr "Role"
+
+msgid "DHScoreBoard.ScoreboardColumns[6].Title"
+msgstr "K"
+
+msgid "DHScoreBoard.ScoreboardColumns[7].Title"
+msgstr "D"
+
+msgid "DHScoreBoard.ScoreboardColumns[8].Title"
+msgstr "Score"
+
+msgid "DHScoreBoard.ScoreboardColumns[9].Title"
+msgstr "Ping"
+
+msgid "DHServerBrowser.BetaMessageText"
+msgstr "Welcome to the Darkest Hour: Europe '44-'45 live beta! Be sure to join the 500+ strong Discord community to discuss the game, make suggestions, or report any bugs! See you on the battlefield!"
+
+msgid "DHServerBrowser.PanelCaption[0]"
+msgstr "Favorites"
+
+msgid "DHServerBrowser.PanelCaption[1]"
+msgstr "LAN"
+
+msgid "DHServerBrowser.PanelCaption[2]"
+msgstr "Internet"
+
+msgid "DHServerBrowser.PanelCaption[3]"
+msgstr "LAN"
+
+msgid "DHServerBrowser.PanelCaption[4]"
+msgstr "Internet"
+
+msgid "DHServerBrowser.PanelCaption[5]"
+msgstr "Internet"
+
+msgid "DHServerBrowser.PanelHint[0]"
+msgstr "Choose a server to join from among your favorites"
+
+msgid "DHServerBrowser.PanelHint[1]"
+msgstr "View all DH servers currently running on your LAN"
+
+msgid "DHServerBrowser.PanelHint[2]"
+msgstr "Choose from DH servers across the world"
+
+msgid "DHServerBrowser.PanelHint[3]"
+msgstr "View all RO servers currently running on your LAN"
+
+msgid "DHServerBrowser.PanelHint[4]"
+msgstr "Choose from hundreds of RO servers across the world"
+
+msgid "DHServerBrowser.PanelHint[5]"
+msgstr "Choose from hundreds of RO servers across the world"
+
+msgid "DHServerBrowser.GameTypeCombo.Caption"
+msgstr "Game Type"
+
+msgid "DHServerBrowser.ServerBrowserHeader.Caption"
+msgstr "Server Browser"
+
+msgid "DHServerLoading.DeployingText"
+msgstr "Deploying to {0}"
+
+msgid "DHServerLoading.AuthorText"
+msgstr "Author: {0}"
+
+msgid "DHServerLoading.EnabledText"
+msgstr "Enabled"
+
+msgid "DHServerLoading.DisabledText"
+msgstr "Disabled"
+
+msgid "DHServerLoading.GameTypeText"
+msgstr "Game Type: {0}"
+
+msgid "DHSettingsPage.PanelCaption[0]"
+msgstr "Game"
+
+msgid "DHSettingsPage.PanelCaption[1]"
+msgstr "Display"
+
+msgid "DHSettingsPage.PanelCaption[2]"
+msgstr "Audio"
+
+msgid "DHSettingsPage.PanelCaption[3]"
+msgstr "Controls"
+
+msgid "DHSettingsPage.PanelCaption[4]"
+msgstr "Input"
+
+msgid "DHSettingsPage.PanelCaption[5]"
+msgstr "HUD"
+
+msgid "DHSettingsPage.PanelHint[0]"
+msgstr "Configure game and network related settings..."
+
+msgid "DHSettingsPage.PanelHint[1]"
+msgstr "Select your resolution or change your display and detail settings..."
+
+msgid "DHSettingsPage.PanelHint[2]"
+msgstr "Adjust your audio experience..."
+
+msgid "DHSettingsPage.PanelHint[3]"
+msgstr "Configure your keyboard and mouse controls..."
+
+msgid "DHSettingsPage.PanelHint[4]"
+msgstr "Configure misc. input options..."
+
+msgid "DHSettingsPage.PanelHint[5]"
+msgstr "Customize your HUD..."
+
+msgid "DHSettingsPage.PanelHint[6]"
+msgstr "how did you get this?"
+
+msgid "DHSettingsPage.SettingHeader.Caption"
+msgstr "Settings"
+
+msgid "DHSettings_Footer.BackB.Caption"
+msgstr "Back"
+
+msgid "DHSettings_Footer.DefaultB.Caption"
+msgstr "Defaults"
+
+msgid "DHSmallFont.FontArrayNames[0]"
+msgstr "DHFonts.DHFont12"
+
+msgid "DHSmallFont.FontArrayNames[1]"
+msgstr "DHFonts.DHFont12"
+
+msgid "DHSmallFont.FontArrayNames[2]"
+msgstr "DHFonts.DHFont12"
+
+msgid "DHSmallFont.FontArrayNames[3]"
+msgstr "DHFonts.DHFont12"
+
+msgid "DHSmallFont.FontArrayNames[4]"
+msgstr "DHFonts.DHFont12"
+
+msgid "DHTab_AudioSettings.AudioBK1.Caption"
+msgstr "Sound System"
+
+msgid "DHTab_AudioSettings.AudioBK3.Caption"
+msgstr "Voice Chat"
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Caption"
+msgstr "Max Audio Channels"
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Hint"
+msgstr "Number of sound channels the game can use at once"
+
+msgid "DHTab_AudioSettings.AudioDefaultDriver.Caption"
+msgstr "System Driver"
+
+msgid "DHTab_AudioSettings.AudioEffectsVolumeSlider.Caption"
+msgstr "Effects Volume"
+
+msgid "DHTab_AudioSettings.AudioLowDetail.Caption"
+msgstr "Low Sound Detail"
+
+msgid "DHTab_AudioSettings.AudioMessageBeep.Caption"
+msgstr "Message Beep"
+
+msgid "DHTab_AudioSettings.AudioMode.Caption"
+msgstr "Audio Mode"
+
+msgid "DHTab_AudioSettings.AudioMusicVolume.Caption"
+msgstr "Music Volume"
+
+msgid "DHTab_AudioSettings.AudioPlayVoices.Caption"
+msgstr "Play Voice Messages"
+
+msgid "DHTab_AudioSettings.AudioReverseStereo.Caption"
+msgstr "Reverse Stereo"
+
+msgid "DHTab_AudioSettings.AutoJoinPublic.Caption"
+msgstr "Autojoin Public Channel"
+
+msgid "DHTab_AudioSettings.AutoSpeakCheckbox.Caption"
+msgstr "Auto-select Active Channel"
+
+msgid "DHTab_AudioSettings.ChatPasswordEdit.Caption"
+msgstr "Chat Password"
+
+msgid "DHTab_AudioSettings.Dampen.Caption"
+msgstr "Dampen Game Volume When Using VOIP"
+
+msgid "DHTab_AudioSettings.DefaultActiveChannelEditBox.Caption"
+msgstr "Default Channel Name"
+
+msgid "DHTab_AudioSettings.DisableGameMusic.Caption"
+msgstr "Disable Music During Gameplay"
+
+msgid "DHTab_AudioSettings.EnableVoiceChat.Caption"
+msgstr "Enable Voice Chat"
+
+msgid "DHTab_AudioSettings.VoiceQuality.Caption"
+msgstr "Internet Quality"
+
+msgid "DHTab_AudioSettings.VoiceQualityLAN.Caption"
+msgstr "LAN Quality"
+
+msgid "DHTab_AudioSettings.VoiceVolume.Caption"
+msgstr "Voice Receive Volume"
+
+msgid "DHTab_Controls.Section_Inventory"
+msgstr "Inventory"
+
+msgid "DHTab_Controls.Captions_Inventory[0]"
+msgstr "Inventory Slot 1"
+
+msgid "DHTab_Controls.Captions_Inventory[1]"
+msgstr "Inventory Slot 2"
+
+msgid "DHTab_Controls.Captions_Inventory[2]"
+msgstr "Inventory Slot 3"
+
+msgid "DHTab_Controls.Captions_Inventory[3]"
+msgstr "Inventory Slot 4"
+
+msgid "DHTab_Controls.Captions_Inventory[4]"
+msgstr "Inventory Slot 5"
+
+msgid "DHTab_Controls.Captions_Inventory[5]"
+msgstr "Inventory Slot 6"
+
+msgid "DHTab_Controls.Captions_Inventory[6]"
+msgstr "Inventory Slot 7"
+
+msgid "DHTab_Controls.Captions_Inventory[7]"
+msgstr "Inventory Slot 8"
+
+msgid "DHTab_Controls.Captions_Inventory[8]"
+msgstr "Inventory Slot 9"
+
+msgid "DHTab_Controls.Captions_Inventory[9]"
+msgstr "Inventory Slot 0"
+
+msgid "DHTab_Controls.ControlProfiles[0]"
+msgstr "Current"
+
+msgid "DHTab_Controls.ControlProfiles[1]"
+msgstr "Defaults (Reset)"
+
+msgid "DHTab_Controls.ControlProfiles[2]"
+msgstr "RO Classic"
+
+msgid "DHTab_Controls.ControlProfiles[3]"
+msgstr "Pro 104"
+
+msgid "DHTab_Controls.ControlProfiles[4]"
+msgstr "Pro 105"
+
+msgid "DHTab_Controls.ControlProfiles[5]"
+msgstr "XBox 360 Controller"
+
+msgid "DHTab_Controls.captions_movement[12]"
+msgstr "Toggle Run"
+
+msgid "DHTab_Controls.captions_weapons[9]"
+msgstr "Change MG Barrel"
+
+msgid "DHTab_Controls.captions_weapons[10]"
+msgstr "Switch Fire Mode"
+
+msgid "DHTab_Controls.captions_weapons[11]"
+msgstr "Deploy MG / Attach Bayonet / Fire Vehicle Smoke Launcher"
+
+msgid "DHTab_Controls.captions_weapons[12]"
+msgstr "Increase Vehicle Smoke Launcher Range/Rotation Setting"
+
+msgid "DHTab_Controls.captions_weapons[13]"
+msgstr "Decrease Vehicle Smoke Launcher Range/Rotation Setting"
+
+msgid "DHTab_Controls.captions_weapons[14]"
+msgstr "Toggle Selected Artillery Target"
+
+msgid "DHTab_Controls.captions_comm[3]"
+msgstr "Squad Say"
+
+msgid "DHTab_Controls.captions_comm[4]"
+msgstr "Voice Command Menu"
+
+msgid "DHTab_Controls.captions_comm[5]"
+msgstr "View In-game Chat"
+
+msgid "DHTab_Controls.captions_comm[6]"
+msgstr "Activate Microphone"
+
+msgid "DHTab_Controls.captions_comm[7]"
+msgstr "Switch to Command Voice Channel"
+
+msgid "DHTab_Controls.captions_comm[8]"
+msgstr "Switch to Local Voice Channel"
+
+msgid "DHTab_Controls.captions_comm[9]"
+msgstr "Switch to Unassigned Voice Channel"
+
+msgid "DHTab_Controls.captions_comm[10]"
+msgstr "Switch to Squad Voice Channel"
+
+msgid "DHTab_Controls.captions_comm[11]"
+msgstr "Start typing a chat message"
+
+msgid "DHTab_Controls.captions_comm[12]"
+msgstr "Mute Menu"
+
+msgid "DHTab_Controls.captions_game[4]"
+msgstr "Lock/Unlock Armored Vehicle"
+
+msgid "DHTab_Controls.captions_game[5]"
+msgstr "Squad Orders Menu"
+
+msgid "DHTab_Controls.captions_game[6]"
+msgstr "Squad Menu"
+
+msgid "DHTab_Controls.captions_game[7]"
+msgstr "Auto-Join Squad"
+
+msgid "DHTab_Controls.captions_game[8]"
+msgstr "Place Rally Point"
+
+msgid "DHTab_Controls.PanelCaption"
+msgstr "Controls"
+
+msgid "DHTab_Controls.ControlProfilesComboBox.Caption"
+msgstr "Control Profiles"
+
+msgid "DHTab_Controls.InputBK1.Caption"
+msgstr "Bindings"
+
+msgid "DHTab_DetailSettings.RenderModeText[0]"
+msgstr "Direct3D 9.0 (Recommended)"
+
+msgid "DHTab_DetailSettings.RenderModeText[1]"
+msgstr "Direct3D 8.0 (Rendering Issues)"
+
+msgid "DHTab_DetailSettings.RenderModeText[2]"
+msgstr "OpenGL (Unstable)"
+
+msgid "DHTab_DetailSettings.RelaunchQuestion"
+msgstr "The graphics mode has been successfully changed.  However, it will not take effect until the next time the game is started.  Would you like to restart the game right now?"
+
+msgid "DHTab_DetailSettings.BrightnessSlider.Caption"
+msgstr "Brightness"
+
+msgid "DHTab_DetailSettings.ContrastSlider.Caption"
+msgstr "Contrast"
+
+msgid "DHTab_DetailSettings.CorpseStayTime.Caption"
+msgstr "Corpse Stay Time (Seconds)"
+
+msgid "DHTab_DetailSettings.DetailAnisotropy.Caption"
+msgstr "Anisotropic Filtering"
+
+msgid "DHTab_DetailSettings.DetailAntialiasing.Caption"
+msgstr "Antialiasing"
+
+msgid "DHTab_DetailSettings.DetailCharacterDetail.Caption"
+msgstr "Character Detail"
+
+msgid "DHTab_DetailSettings.DetailCharacterShadows.Caption"
+msgstr "Character Shadows"
+
+msgid "DHTab_DetailSettings.DetailCoronas.Caption"
+msgstr "Coronas"
+
+msgid "DHTab_DetailSettings.DetailDecalStay.Caption"
+msgstr "Decal Stay"
+
+msgid "DHTab_DetailSettings.DetailDecals.Caption"
+msgstr "Decals"
+
+msgid "DHTab_DetailSettings.DetailDecoLayers.Caption"
+msgstr "Ground Details"
+
+msgid "DHTab_DetailSettings.DetailDetailTextures.Caption"
+msgstr "Detail Textures"
+
+msgid "DHTab_DetailSettings.DetailDynamicLighting.Caption"
+msgstr "Dynamic Lighting"
+
+msgid "DHTab_DetailSettings.DetailForceFSAASS.Caption"
+msgstr "Force FSAA Screenshots"
+
+msgid "DHTab_DetailSettings.DetailPhysics.Caption"
+msgstr "Physics Detail"
+
+msgid "DHTab_DetailSettings.DetailProjectors.Caption"
+msgstr "Projectors"
+
+msgid "DHTab_DetailSettings.DetailTextureDetail.Caption"
+msgstr "Texture Detail"
+
+msgid "DHTab_DetailSettings.DetailTrilinear.Caption"
+msgstr "Trilinear Filtering"
+
+msgid "DHTab_DetailSettings.DetailWorldDetail.Caption"
+msgstr "World Detail"
+
+msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
+msgstr "Fog Distance"
+
+msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
+msgstr "Dynamic Fog Distance (Recommended)"
+
+msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
+msgstr "Keeps FPS as high as possible by adjusting the fog distance automatically based on FPS"
+
+msgid "DHTab_DetailSettings.GammaSlider.Caption"
+msgstr "Gamma"
+
+msgid "DHTab_DetailSettings.GlobalDetails.Caption"
+msgstr "Game details"
+
+msgid "DHTab_DetailSettings.HDRCheckbox.Caption"
+msgstr "HDR Bloom"
+
+msgid "DHTab_DetailSettings.MeshLOD.Caption"
+msgstr "Dynamic Mesh LOD"
+
+msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
+msgstr "Min Desired FPS"
+
+msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
+msgstr "Used by Dynamic Fog Distance to determine when to start lowing fog distance"
+
+msgid "DHTab_DetailSettings.MotionBlur.Caption"
+msgstr "Blur Effects"
+
+msgid "DHTab_DetailSettings.RenderDeviceCombo.Caption"
+msgstr "Render Device"
+
+msgid "DHTab_DetailSettings.ScopeDetail.Caption"
+msgstr "Scope Detail"
+
+msgid "DHTab_DetailSettings.UseVSyncCheckBox.Caption"
+msgstr "VSync (Not Recommended)"
+
+msgid "DHTab_DetailSettings.UseVSyncCheckBox.Hint"
+msgstr "VSync is used to reduce screen tearing at the high cost of input lag (GPU settings can override many graphic settings such as this)"
+
+msgid "DHTab_DetailSettings.VideoColorDepth.Caption"
+msgstr "Color Depth"
+
+msgid "DHTab_DetailSettings.VideoFullScreen.Caption"
+msgstr "Full Screen"
+
+msgid "DHTab_DetailSettings.VideoResolution.Caption"
+msgstr "Resolution"
+
+msgid "DHTab_DetailSettings.WeatherEffects.Caption"
+msgstr "Weather Effects"
+
+msgid "DHTab_DetailSettings.sbSection1.Caption"
+msgstr "Basic Rendering"
+
+msgid "DHTab_DetailSettings.sbSection2.Caption"
+msgstr "Game Details"
+
+msgid "DHTab_DetailSettings.sbSection3.Caption"
+msgstr "Gamma Test"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[0]"
+msgstr "Never"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[1]"
+msgstr "Monthly"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[2]"
+msgstr "Yearly"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[3]"
+msgstr "Custom (from ini file) - every %NumDays% days"
+
+msgid "DHTab_GameSettings.IDText"
+msgstr "ID:"
+
+msgid "DHTab_GameSettings.NoROIDText"
+msgstr "Must join multiplayer first"
+
+msgid "DHTab_GameSettings.DegreesText"
+msgstr "degrees"
+
+msgid "DHTab_GameSettings.NetSpeedText[0]"
+msgstr "Lowest ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[1]"
+msgstr "Low ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[2]"
+msgstr "Medium ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[3]"
+msgstr "Recommended ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[4]"
+msgstr "High ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[5]"
+msgstr "Extreme ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[6]"
+msgstr "User Defined (%NetSpeed%)"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[0]"
+msgstr "Never"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[1]"
+msgstr "Only with crewmates"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[2]"
+msgstr "Always"
+
+msgid "DHTab_GameSettings.PanelCaption"
+msgstr "Game"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Caption"
+msgstr "Automatic Vehicle Alerts"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Hint"
+msgstr "When to send automatic vehicle voice alerts"
+
+msgid "DHTab_GameSettings.BayonetSpawn.Caption"
+msgstr "Spawn with bayonet attached"
+
+msgid "DHTab_GameSettings.BayonetSpawn.Hint"
+msgstr "Useful if you always want to have your bayonet attached and don't like having to attach it each spawn"
+
+msgid "DHTab_GameSettings.CopyROIDButton.Caption"
+msgstr "Copy ID To Clipboard"
+
+msgid "DHTab_GameSettings.CopyROIDButton.Hint"
+msgstr "This will allow you to paste your ROID as text"
+
+msgid "DHTab_GameSettings.DynamicNetspeed.Caption"
+msgstr "Dynamic Netspeed"
+
+msgid "DHTab_GameSettings.DynamicNetspeed.Hint"
+msgstr "Will lower NetSpeed to 6000 or until 40 ping is achieved, useful for those who want better ping vs stable NetSpeed"
+
+msgid "DHTab_GameSettings.GameBK1.Caption"
+msgstr "Gameplay"
+
+msgid "DHTab_GameSettings.GameBK2.Caption"
+msgstr "Vehicle"
+
+msgid "DHTab_GameSettings.GameBK3.Caption"
+msgstr "Network"
+
+msgid "DHTab_GameSettings.Incognito.Caption"
+msgstr "Incognito Mode"
+
+msgid "DHTab_GameSettings.Incognito.Hint"
+msgstr "Do not display my Patron or Developer status on the scoreboard"
+
+msgid "DHTab_GameSettings.LockTankOnEntry.Caption"
+msgstr "Lock tank when entering it"
+
+msgid "DHTab_GameSettings.LockTankOnEntry.Hint"
+msgstr "Automatically lock a tank (or other armored vehicle) when you spawn into it, or if you enter an empty tank. This stops other players from using tank crew positions."
+
+msgid "DHTab_GameSettings.ManualReloading.Caption"
+msgstr "Manual Tank Shell Reloading"
+
+msgid "DHTab_GameSettings.ManualReloading.Hint"
+msgstr "Rounds will not reload until you click after firing, useful if you decide you want to change round types after firing"
+
+msgid "DHTab_GameSettings.Netspeed.Caption"
+msgstr "NetSpeed (Bytes Per Second)"
+
+msgid "DHTab_GameSettings.Netspeed.Hint"
+msgstr "Your maximum desired internet speed used by the game (in Bytes Per Second). Servers can set a maximum client speed, which will override clients."
+
+msgid "DHTab_GameSettings.NoGore.Caption"
+msgstr "No Gore"
+
+msgid "DHTab_GameSettings.NoGore.Hint"
+msgstr "Recommended to have this unchecked"
+
+msgid "DHTab_GameSettings.PlayerName.Caption"
+msgstr "Player Name"
+
+msgid "DHTab_GameSettings.PlayersROID.Caption"
+msgstr "You must first join a multiplayer game before your ID is displayed"
+
+msgid "DHTab_GameSettings.PurgeCacheDays.Caption"
+msgstr "Purge Cache"
+
+msgid "DHTab_GameSettings.PurgeCacheDays.Hint"
+msgstr "How often to delete custom downloaded files from servers"
+
+msgid "DHTab_GameSettings.ThrottleOtherVehicles.Caption"
+msgstr "Incremental Throttle - Other Vehicles"
+
+msgid "DHTab_GameSettings.ThrottleOtherVehicles.Hint"
+msgstr "Uses a throttle for non-tank vehicles, not recommended"
+
+msgid "DHTab_GameSettings.ThrottleTanks.Caption"
+msgstr "Incremental Throttle - Tanks"
+
+msgid "DHTab_GameSettings.ThrottleTanks.Hint"
+msgstr "Uses a throttle for tanks, useful for long drives"
+
+msgid "DHTab_GameSettings.ViewFOV.Caption"
+msgstr "Normal Field Of View"
+
+msgid "DHTab_GameSettings.ViewFOV.Hint"
+msgstr "How much of the world can be seen across the width of your screen. A lower FOV gives a slightly more zoomed view, while a higher FOV is more zoomed out but gives extra peripheral vision. Note a widescreen monitor does not give extra width of vision; the same view is spread across the wider screen and the top and bottom get cropped."
+
+msgid "DHTab_Hud.GameBK.Caption"
+msgstr "Options"
+
+msgid "DHTab_Hud.GameBK1.Caption"
+msgstr "Style"
+
+msgid "DHTab_Hud.GameHudMessageCount.Caption"
+msgstr "Max. Chat Count"
+
+msgid "DHTab_Hud.GameHudMessageOffset.Caption"
+msgstr "Message Font Offset"
+
+msgid "DHTab_Hud.GameHudMessageScale.Caption"
+msgstr "Chat Font Size"
+
+msgid "DHTab_Hud.GameHudShowDeathMessages.Caption"
+msgstr "Show Death Messages"
+
+msgid "DHTab_Hud.GameHudShowIndicators.Caption"
+msgstr "Show Packet Loss Indicator"
+
+msgid "DHTab_Hud.GameHudShowPersonalInfo.Caption"
+msgstr "Show Personal Info"
+
+msgid "DHTab_Hud.GameHudShowVehicleVisionCone.Caption"
+msgstr "Show Vehicle Vision Cone"
+
+msgid "DHTab_Hud.GameHudShowWeaponInfo.Caption"
+msgstr "Show Weapon Info"
+
+msgid "DHTab_Hud.GameHudSimpleColours.Caption"
+msgstr "Simple HUD Colours"
+
+msgid "DHTab_Hud.GameHudSimpleColours.Hint"
+msgstr "Red/Blue team HUD colours only, for colorblind players."
+
+msgid "DHTab_Hud.GameHudVisible.Caption"
+msgstr "Hide HUD"
+
+msgid "DHTab_Hud.HintsCombo.Caption"
+msgstr "Hint Level"
+
+msgid "DHTab_Hud.ShowChatMessages.Caption"
+msgstr "Show Chat Messages"
+
+msgid "DHTab_Hud.ShowChatMessages.Hint"
+msgstr "Show chat messages from players and server. Messages can still be read in the console."
+
+msgid "DHTab_Hud.ShowCompass.Caption"
+msgstr "Show Compass"
+
+msgid "DHTab_Hud.ShowMapFirstSpawn.Caption"
+msgstr "Show Map On Initial Spawn"
+
+msgid "DHTab_Hud.ShowRallyPoint.Caption"
+msgstr "Show Squad Rally Point Status"
+
+msgid "DHTab_Hud.UseNativeItemNames.Caption"
+msgstr "Use Native Item Names"
+
+msgid "DHTab_Hud.UseNativeRoleNames.Caption"
+msgstr "Use Native Role Names"
+
+msgid "DHTab_Hud.UseTechnicalAmmoNames.Caption"
+msgstr "Use Technical Ammo Names (Tanks/AT Guns)"
+
+msgid "DHTab_Hud.myGameHudOpacity.Caption"
+msgstr "HUD Opacity"
+
+msgid "DHTab_Hud.myHudScale.Caption"
+msgstr "HUD Scaling"
+
+msgid "DHTab_Input.InputAutoSlope.Caption"
+msgstr "Auto Slope"
+
+msgid "DHTab_Input.InputBK1.Caption"
+msgstr "Options"
+
+msgid "DHTab_Input.InputBK3.Caption"
+msgstr "Fine Tuning"
+
+msgid "DHTab_Input.InputInvertMouse.Caption"
+msgstr "Invert Mouse"
+
+msgid "DHTab_Input.InputIronSightBipodFactor.Caption"
+msgstr "Bipod Sensitivity Factor"
+
+msgid "DHTab_Input.InputIronSightFactor.Caption"
+msgstr "Iron Sight Sensitivity Factor"
+
+msgid "DHTab_Input.InputMenuSensitivity.Caption"
+msgstr "Mouse Sensitivity (Menus)"
+
+msgid "DHTab_Input.InputMouseAccel.Caption"
+msgstr "Mouse Accel. Threshold"
+
+msgid "DHTab_Input.InputMouseLag.Caption"
+msgstr "Reduce Mouse Lag"
+
+msgid "DHTab_Input.InputMouseLag.Hint"
+msgstr "Enable this option will reduce the amount of lag in your mouse."
+
+msgid "DHTab_Input.InputMousePollRate.Caption"
+msgstr "Mouse Polling Rate"
+
+msgid "DHTab_Input.InputMouseSensitivity.Caption"
+msgstr "Mouse Sensitivity (Game)"
+
+msgid "DHTab_Input.InputMouseSmoothStr.Caption"
+msgstr "Mouse Smoothing Strength"
+
+msgid "DHTab_Input.InputMouseSmoothing.Caption"
+msgstr "Mouse Smoothing"
+
+msgid "DHTab_Input.InputScopedFactor.Caption"
+msgstr "Scope and Binocular Sensitivity Factor"
+
+msgid "DHTab_Input.InputUseJoystick.Caption"
+msgstr "Enable Joystick"
+
+msgid "DHTab_MainSP.DifficultyCombo.Caption"
+msgstr "Difficulty"
+
+msgid "DHTab_MainSP.MapAuthorLabel.Caption"
+msgstr "Testing"
+
+msgid "DHTab_MainSP.MaplistButton.ButtonCaption"
+msgstr "Maplist Configuration"
+
+msgid "DHTab_MainSP.NoPreview.Caption"
+msgstr "No Preview Available"
+
+msgid "DHTab_MainSP.OptionsContainer.Caption"
+msgstr "Options"
+
+msgid "DHTab_MainSP.PreviewGroup.Caption"
+msgstr "Preview"
+
+msgid "DHTab_MainSP.RecommendedPlayers.Caption"
+msgstr "Best for 4 to 8 players"
+
+msgid "DHTab_MainSP.ScrollSection.Caption"
+msgstr "Map Description"
+
+msgid "DHTab_MainSP.SelectionGroup.Caption"
+msgstr "Map Selection"
+
+msgid "DHTab_MutatorSP.ActiveBackground.Caption"
+msgstr "Active Mutators"
+
+msgid "DHTab_MutatorSP.AvailBackground.Caption"
+msgstr "Available Mutators"
+
+msgid "DHTab_MutatorSP.DescriptionBackground.Caption"
+msgstr "Mutator Details"
+
+msgid "DHTab_MutatorSP.IAMutatorAdd.Caption"
+msgstr "Add"
+
+msgid "DHTab_MutatorSP.IAMutatorAll.Caption"
+msgstr "Add All"
+
+msgid "DHTab_MutatorSP.IAMutatorClear.Caption"
+msgstr "Remove All"
+
+msgid "DHTab_MutatorSP.IAMutatorConfig.Caption"
+msgstr "Configure Mutators"
+
+msgid "DHTab_MutatorSP.IAMutatorRemove.Caption"
+msgstr "Remove"
+
+msgid "DHTab_ServerRulesPanel.AdvancedButton.Caption"
+msgstr "View Advanced Options"
+
+msgid "DHTab_ServerRulesPanel.EnableWebadmin.Caption"
+msgstr "Enable WebAdmin"
+
+msgid "DHTab_ServerRulesPanel.LANServer.Caption"
+msgstr "LAN Server"
+
+msgid "DHTab_ServerRulesPanel.WebadminPort.Caption"
+msgstr "WebAdmin Port"
+
