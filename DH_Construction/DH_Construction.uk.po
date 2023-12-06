@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 19:08+0000\n"
-"Last-Translator: Birdy <shiftybirds@gmail.com>\n"
+"PO-Revision-Date: 2023-12-06 22:36+0000\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/uk/>\n"
 "Language: uk\n"
@@ -86,3 +86,6 @@ msgstr "Мішки з піском (Лінія)"
 
 msgid "DHConstruction_SupplyCache.ConstructionVerb"
 msgstr "встановити"
+
+msgid "DHConstruction_VehiclePool.MenuName"
+msgstr "Точка відродженя для транспортних засобів"
