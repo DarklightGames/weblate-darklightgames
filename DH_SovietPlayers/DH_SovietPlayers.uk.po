@@ -1,2 +1,121 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-06 19:08+0000\n"
+"Last-Translator: Birdy <shiftybirds@gmail.com>\n"
+"Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_sovietplayers/uk/>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "DHSOVMachineGunnerRoles.AltName"
+msgstr "Пулеметчик"
+
+msgid "DHSOVSergeantRoles.PluralName"
+msgstr "Командири загонів"
+
+msgid "DHPOLMachineGunnerRoles.AltName"
+msgstr "Celowniczy KM"
+
+msgid "DHSOVRadioOperatorRoles.AltName"
+msgstr "Радист"
+
+msgid "DHSOVSergeantRoles.AltName"
+msgstr "Командир відділення"
+
+msgid "DHPOLEngineerRoles.AltName"
+msgstr "Saper"
+
+msgid "DHPOLAntiTankRoles.AltName"
+msgstr "Strzelec przeciwpancerny"
+
+msgid "DHPOLRiflemanRoles.AltName"
+msgstr "Strzelec"
+
+msgid "DHCSEngineerRoles.AltName"
+msgstr "Zenista"
+
+msgid "DHSOVAntiTankRoles.AltName"
+msgstr "Бронебойщик"
+
+msgid "DHCSCorporalRoles.AltName"
+msgstr "Desatnik"
+
+msgid "DHNation_USSR.NationName"
+msgstr "Союз Радянських Соціалістичних Республік"
+
+msgid "DHPOLRadioOperatorRoles.AltName"
+msgstr "Radzista"
+
+msgid "DHSOVCorporalRoles.AltName"
+msgstr "Командир звена"
+
+msgid "DHCSTankCrewmanRoles.AltName"
+msgstr "Tankista"
+
+msgid "DHPOLAssaultRoles.AltName"
+msgstr "Szturmowiec"
+
+msgid "DHCSMachineGunnerRoles.AltName"
+msgstr "Kulometcik"
+
+msgid "DHCSRiflemanRoles.AltName"
+msgstr "Strelec"
+
+msgid "DHPOLSergeantRoles.AltName"
+msgstr "Plutonowy"
+
+msgid "DHPOLCorporalRoles.AltName"
+msgstr "Kapral"
+
+msgid "DHSOVEngineerRoles.AltName"
+msgstr "Сапёр"
+
+msgid "DHSOVTankCrewmanRoles.AltName"
+msgstr "Экипаж танка"
+
+msgid "DHPOLTankCrewmanRoles.AltName"
+msgstr "Czolgista"
+
+msgid "DHCSAntiTankRoles.AltName"
+msgstr "Protitankovy strelec"
+
+msgid "DHSOVSergeantRoles.MyName"
+msgstr "Командир загону"
+
+msgid "DHSOVAssaultRoles.AltName"
+msgstr "Автоматчик"
+
+msgid "DHCSAssaultRoles.AltName"
+msgstr "Samopalnik"
+
+msgid "DHSOVCorporalRoles.PluralName"
+msgstr "Командири вогневих груп"
+
+msgid "DHNation_Czechoslovakia.NationName"
+msgstr "Чехословаччина"
+
+msgid "DHSOVRiflemanRoles.AltName"
+msgstr "Стрелок"
+
+msgid "DHSOVCorporalRoles.MyName"
+msgstr "Командир вогневої группи"
+
+msgid "DHCSSergeantRoles.AltName"
+msgstr "Cetar"
+
+msgid "DHNation_Poland.NationName"
+msgstr "Польська Народна Армія"
+
+msgid "DHNation_Poland.NativeNationName"
+msgstr "Ludowe Wojsko Polskie"
+
+msgid "DHPOLSniperRoles.AltName"
+msgstr "Strzelec wyborowy"
+
+msgid "DHCSSniperRoles.AltName"
+msgstr "Odstrelovac"
