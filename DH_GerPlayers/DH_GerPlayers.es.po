@@ -1,2 +1,81 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-06 19:08+0000\n"
+"Last-Translator: Argilas <argilas@hotmail.com>\n"
+"Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_gerplayers/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "DH_WSSFireteamLeader_Autumn.AltName"
+msgstr "Rottenführer"
+
+msgid "DH_ZBerserker.AltName"
+msgstr "Berserker"
+
+msgid "DHGerVoice.SupportStringAxis[5]"
+msgstr "¡Necesitamos un Panzerschreck!"
+
+msgid "DH_12thSSSquadLeader.AltName"
+msgstr "Scharführer"
+
+msgid "DHNation_Germany.NationName"
+msgstr "Alemania"
+
+msgid "DH_WHSPCrew.PluralName"
+msgstr "Tripulantes de Cañón de Asalto"
+
+msgid "DH_ZLeader.MyName"
+msgstr "Líder Zombie"
+
+msgid "DH_OstTruppenRifleman.MyName"
+msgstr "Fusilero de Tropa del Este"
+
+msgid "DH_12thSSFireteamLeader.AltName"
+msgstr "Rottenführer"
+
+msgid "DH_WSSFireteamLeader.AltName"
+msgstr "Rottenführer"
+
+msgid "DHNation_Germany.NativeNationName"
+msgstr "Deutschland"
+
+msgid "DH_WHSPCrew.AltName"
+msgstr "Stugbesatzung"
+
+msgid "DH_WHSPCrew.MyName"
+msgstr "Tripulante de Cañón de Asalto"
+
+msgid "DH_ZBerserker.PluralName"
+msgstr "Berserkers"
+
+msgid "DH_WHArtilleryOfficer.AltName"
+msgstr "Artillerie Offizier"
+
+msgid "DH_OstTruppenRifleman.PluralName"
+msgstr "Fusileros de Tropa del Este"
+
+msgid "DH_WHArtilleryOfficer.PluralName"
+msgstr "Oficiales de artillería"
+
+msgid "DH_WKSquadLeader.AltName"
+msgstr "Scharführer"
+
+msgid "DH_ZBerserker.MyName"
+msgstr "Berserker"
+
+msgid "DH_WHArtilleryOfficer.MyName"
+msgstr "Oficial de Artillería"
+
+msgid "DHZVoice.SupportStringAxis[5]"
+msgstr "¡Necesitamos un Panzerschreck!"
+
+msgid "DH_OstTruppenRifleman.AltName"
+msgstr "Soldado de Tropa del Este"
+
+msgid "DH_ZLeader.AltName"
+msgstr "Líder Zombi"
