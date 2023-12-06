@@ -1,2 +1,90 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-06 19:08+0000\n"
+"Last-Translator: Argilas <argilas@hotmail.com>\n"
+"Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_construction/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "DHConstruction_SupplyCache.MenuDescription"
+msgstr "Almacena y genera suministros con el paso del tiempo."
+
+msgid "DHConstruction_WoodFence.MenuName"
+msgstr "Valla de madera"
+
+msgid "DHConstruction_Sandbags_Bunker.MenuName"
+msgstr "Sacos de arena (Búnker)"
+
+msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
+msgstr "Exhausto"
+
+msgid "DHConstructionGroup_Obstacles.GroupName"
+msgstr "Obstáculos"
+
+msgid "DHConstruction_Resupply_Players.MenuDescription"
+msgstr "Proporciona un punto de reabastecimiento para la infantería."
+
+msgid "DHConstruction_Watchtower.MenuName"
+msgstr "Torre de vigilancia"
+
+msgid "DHConstruction_ConcertinaWire.MenuDescription"
+msgstr "Eficaz para bloquear infantería y vehículos ligeros."
+
+msgid "DHConstruction_SupplyCache.MenuName"
+msgstr "Depósito de suministros"
+
+msgid "DHConstructionGroup_Ammunition.GroupName"
+msgstr "Munición"
+
+msgid "DHConstruction_Resupply_Players.MenuName"
+msgstr "Caja de munición (infantería)"
+
+msgid "DHCameraWeapon.ItemName"
+msgstr "Cámara"
+
+msgid "DHConstruction_Hedgehog.MenuDescription"
+msgstr "Eficaz para bloquear vehículos ligeros y medios."
+
+msgid "DHConstruction_Foxhole.MenuName"
+msgstr "Hoyo de protección"
+
+msgid "DHConstructionGroup_Defenses.GroupName"
+msgstr "Defensas"
+
+msgid "DHCommandMenu_ConstructionGroup.RemainingText"
+msgstr "Restante"
+
+msgid "DHConstruction_ConcertinaWire.MenuName"
+msgstr "Alambre de concertina"
+
+msgid "DHConstruction_DragonsTooth.MenuName"
+msgstr "Diente de dragón"
+
+msgid "DHConstruction_Radio.MenuName"
+msgstr "Radio"
+
+msgid "DHConstruction_DragonsTooth.MenuDescription"
+msgstr "Eficaz para bloquear todos los vehículos."
+
+msgid "DHConstruction_Resupply_Vehicles.MenuName"
+msgstr "Caja de munición (Vehículos)"
+
+msgid "DHCommandMenu_ConstructionGroup.TeamLimitText"
+msgstr "Límite alcanzado"
+
+msgid "DHCommandMenu_ConstructionGroup.NotAvailableText"
+msgstr "No disponible"
+
+msgid "DHConstruction_Resupply_Vehicles.MenuDescription"
+msgstr "Proporciona un punto de reabastecimiento para vehículos y cañones."
+
+msgid "DHConstruction_MortarPit.MenuName"
+msgstr "Pozo de mortero"
+
+msgid "DHCommandMenu_ConstructionGroup.BusyText"
+msgstr "Ocupado"
