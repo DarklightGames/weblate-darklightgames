@@ -1,2 +1,33 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-06 19:08+0000\n"
+"Last-Translator: Argilas <argilas@hotmail.com>\n"
+"Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_britishplayers/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "DHCWSergeantRoles.MyName"
+msgstr "Cabo"
+
+msgid "DHCWSergeantRoles.AltName"
+msgstr "Cabo"
+
+msgid "DHCWSergeantRoles.PluralName"
+msgstr "Cabos"
+
+msgid "DHNation_Britain.NationName"
+msgstr "Gran Bretaña"
+
+msgid "DHNation_Canada.NationName"
+msgstr "Canadá"
+
+msgid "DHBritishVoice.SupportString[5]"
+msgstr "¡Necesitamos un PIAT!"
+
+msgid "DHCanadianVoice.SupportString[5]"
+msgstr "¡Necesitamos un PIAT!"
