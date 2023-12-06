@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 21:45+0000\n"
+"PO-Revision-Date: 2023-12-06 21:52+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_gerplayers/ru/>\n"
@@ -22,7 +22,7 @@ msgid "DHGerVoice.SupportStringAxis[5]"
 msgstr "Нам нужен Панцершрек!"
 
 msgid "DH_12thSSSquadLeader.AltName"
-msgstr "Scharführer"
+msgstr ""
 
 msgid "DHNation_Germany.NationName"
 msgstr "Германия"
@@ -49,7 +49,7 @@ msgid "DH_OstTruppenRifleman.MyName"
 msgstr "Osttruppe Стрелок"
 
 msgid "DH_12thSSFireteamLeader.AltName"
-msgstr "Rottenführer"
+msgstr ""
 
 msgid "DHZVoice.SupportAbbrevAxis[5]"
 msgstr "Нужен Панцершрек"
@@ -94,7 +94,7 @@ msgid "DH_ZBerserker.MyName"
 msgstr "Берсеркер"
 
 msgid "DH_WHArtilleryGunner.AltName"
-msgstr "Artillerie Schütze"
+msgstr ""
 
 msgid "DH_WHArtilleryOfficer.MyName"
 msgstr "Офицер артиллерии"
@@ -115,7 +115,7 @@ msgid "DH_WSSGreatcoatSquadLeader_Winter.AltName"
 msgstr ""
 
 msgid "DH_OstTruppenRifleman.AltName"
-msgstr "Schütze Osttruppe"
+msgstr ""
 
 msgid "DH_ZLeader.AltName"
 msgstr ""
