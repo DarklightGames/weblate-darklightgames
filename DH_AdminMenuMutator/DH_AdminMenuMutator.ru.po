@@ -1,2 +1,126 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-06 19:08+0000\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"Language-Team: Russian <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_adminmenumutator/ru/>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmMatchLive"
+msgstr ""
+"Нажмите Enter, чтобы подтвердить, что вы хотите обеспечить соответствие "
+"реализма в прямом эфире"
+
+msgid "DHAdminMenu_AdminMessages.EnterPrivateMessage"
+msgstr "Введите личное сообщение игроку, затем нажмите Enter."
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableCapProgress"
+msgstr ""
+"Нажмите Enter, чтобы подтвердить, что вы хотите ВКЛЮЧИТЬ индикатор "
+"выполнения ограничения на карте"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableRealism"
+msgstr ""
+"Нажмите Enter, чтобы подтвердить, что вы хотите отключить режим реализма"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAtObjective"
+msgstr ""
+"Нажмите Enter, чтобы подтвердить, что вы хотите десантировать этого игрока к "
+"выбранной цели"
+
+msgid "DHAdminMenu_AdminMessages.EnterKickReason"
+msgstr ""
+"Введите сообщение о изгнанию игроку, а затем нажмите Enter, чтобы выгнать его"
+
+msgid "DHAdminMenu_AdminMessages.EnterWarningMessage"
+msgstr "Введите предупреждающее сообщение игроку, затем нажмите Enter"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmKillPlayer"
+msgstr "Нажмите Enter, чтобы подтвердить, что вы хотите УБИТЬ этого игрока."
+
+msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAxisRole"
+msgstr ""
+"Нажмите Enter, чтобы подтвердить, что вы хотите присоединить этого игрока к "
+"войскам Германии"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisablePlayerIcon"
+msgstr ""
+"Нажмите Enter, чтобы подтвердить, что вы хотите ОТКЛЮЧИТЬ значок "
+"местоположения игрока на карте"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableRealism"
+msgstr "Нажмите Enter, чтобы подтвердить, что вы хотите включить режим реализма"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnablePlayerIcon"
+msgstr ""
+"Нажмите Enter, чтобы подтвердить, что вы хотите ПОВТОРНО ВКЛЮЧИТЬ значок "
+"местоположения игрока на карте"
+
+msgid "DHAdminMenuMutator.Description"
+msgstr ""
+"Параметры экранного меню, позволяющие администратору лучше контролировать "
+"игроков, реалистичный матч или во время тестирования."
+
+msgid "DHAdminMenu_AdminMessages.EnterNewPlayerName"
+msgstr "Пожалуйста, введите новое имя для игрока, затем нажмите Enter."
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAlliesAtObjective"
+msgstr ""
+"Нажмите Enter, чтобы подтвердить, что вы хотите высадить всех союзников к "
+"выбранной цели"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAllAtObjective"
+msgstr ""
+"Нажмите Enter, чтобы подтвердить, что вы хотите переместить ВСЕХ ИГРОКОВ к "
+"выбранной цели"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableMines"
+msgstr ""
+"Нажмите Enter, чтобы подтвердить, что вы хотите ОТКЛЮЧИТЬ все минные поля"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmKillAll"
+msgstr "Нажмите Enter, чтобы подтвердить, что вы хотите УБИТЬ ВСЕХ игроков"
+
+msgid "DHAdminMenu_AdminMessages.EnterGridLocation"
+msgstr ""
+"Пожалуйста, укажите местоположение сетки (пример: для сетки E2 клавиатуры 5 "
+"введите «E25»)"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableMines"
+msgstr ""
+"Нажмите Enter, чтобы подтвердить, что вы хотите ПОВТОРНО ВКЛЮЧИТЬ все минные "
+"поля"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmGagPlayer"
+msgstr ""
+"Нажмите Enter, чтобы подтвердить, что вы хотите отключить сообщения этому "
+"игроку"
+
+msgid "DHAdminMenuMutator.FriendlyName"
+msgstr "Меню администратора"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAxisAtObjective"
+msgstr ""
+"Нажмите Enter, чтобы подтвердить, что вы хотите переместить все войска "
+"Германии к выбранной цели"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAtCurrentLocation"
+msgstr ""
+"Нажмите Enter, чтобы подтвердить, что вы хотите десантировать этого игрока к "
+"текущему местоположению"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableCapProgress"
+msgstr ""
+"Нажмите Enter, чтобы подтвердить, что вы хотите ОТКЛЮЧИТЬ индикатор "
+"выполнения ограничения на карте"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAlliesRole"
+msgstr ""
+"Нажмите Enter, чтобы подтвердить, что вы хотите присоединить этого игрока к "
+"войскам Германии"
