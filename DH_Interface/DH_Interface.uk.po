@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 19:08+0000\n"
+"PO-Revision-Date: 2023-12-06 21:45+0000\n"
 "Last-Translator: Birdy <shiftybirds@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
@@ -14,3 +14,84 @@ msgstr ""
 
 msgid "DHBrowser_Footer.BrowserFilter.Caption"
 msgstr "Фільтри"
+
+msgid "DHBrowser_Footer.BrowserBack.Caption"
+msgstr "Назад"
+
+msgid "DHBrowser_Footer.BrowserJoin.Caption"
+msgstr "Приєднатися"
+
+msgid "DHBrowser_Footer.BrowserMain.Caption"
+msgstr "Меню"
+
+msgid "DHBrowser_Footer.BrowserRefresh.Caption"
+msgstr "Оновити"
+
+msgid "DHBrowser_Footer.BrowserSpec.Caption"
+msgstr "Споглядати"
+
+msgid "DHBrowser_Footer.OnlyStandardCheckBox.Caption"
+msgstr "Тільки стандартні сервери"
+
+msgid "DHBrowser_OpenIP.CancelButton.Caption"
+msgstr "СКАСУВАТИ"
+
+msgid "DHBrowser_OpenIP.IPDesc.Caption"
+msgstr "Введіть нову IP-адресу"
+
+msgid "DHBrowser_OpenIP.IpEntryBox.Caption"
+msgstr "IP Адреса: "
+
+msgid "DHBrowser_OpenIP.OkButton.Caption"
+msgstr "OK"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[0]"
+msgstr "Приєднатися до серверу"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[1]"
+msgstr "Приєднатися як глядач"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[2]"
+msgstr "-"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[3]"
+msgstr "Оновити інформацію про сервер"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[4]"
+msgstr "Оновити список"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[5]"
+msgstr "-"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[6]"
+msgstr "Налаштування фильтрів"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[7]"
+msgstr "Створити шаблон"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[8]"
+msgstr "Вимкнути всї фільтри"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[9]"
+msgstr "-"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[12]"
+msgstr "Відкрити IP"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[2]"
+msgstr "Стан"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[3]"
+msgstr "Локація"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[4]"
+msgstr "Версія"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[5]"
+msgstr "Карта"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[11]"
+msgstr "Скопіювати адресу серверу"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[1]"
+msgstr "Ім'я серверу"
