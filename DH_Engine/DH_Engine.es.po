@@ -1,2 +1,108 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-06 19:08+0000\n"
+"Last-Translator: Argilas <argilas@hotmail.com>\n"
+"Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_engine/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "DHATLoadMessage.LoadedGunner"
+msgstr "Has recargado a {0}"
+
+msgid "DHATLoadMessage.BeenLoaded"
+msgstr "Has sido recargado por {0}"
+
+msgid "DHATLoadMessage.UnLoaded"
+msgstr "Se ha descargado el cohete"
+
+msgid "DHAccessControl.IPBanned"
+msgstr "No puedes unirte a este servidor, has sido vetado."
+
+msgid "DHAlliedAntiTankRoles.MyName"
+msgstr "Soldado Antitanque"
+
+msgid "DHAlliedAntiTankRoles.AltName"
+msgstr "Soldado Antitanque"
+
+msgid "DHAlliedAntiTankRoles.PluralName"
+msgstr "Soldados Antitanque"
+
+msgid "DHAlliedAssaultRoles.MyName"
+msgstr "Tropa de Asalto"
+
+msgid "DHAlliedCorporalRoles.MyName"
+msgstr "Cabo"
+
+msgid "DHAlliedCorporalRoles.PluralName"
+msgstr "Cabos"
+
+msgid "DHAlliedEngineerRoles.MyName"
+msgstr "Zapador"
+
+msgid "DHAlliedEngineerRoles.AltName"
+msgstr "Zapador"
+
+msgid "DHAlliedEngineerRoles.PluralName"
+msgstr "Zapadores"
+
+msgid "DHAlliedRiflemanRoles.AltName"
+msgstr "Fusilero"
+
+msgid "DHAlliedRiflemanRoles.PluralName"
+msgstr "Fusileros"
+
+msgid "DHAlliedSergeantRoles.MyName"
+msgstr "Sargento"
+
+msgid "DHAlliedSergeantRoles.AltName"
+msgstr "Sargento"
+
+msgid "DHAlliedSniperRoles.MyName"
+msgstr "Francotirador"
+
+msgid "DHAlliedSniperRoles.AltName"
+msgstr "Francotirador"
+
+msgid "DHAlliedSniperRoles.PluralName"
+msgstr "Francotiradores"
+
+msgid "DHAlliedTankCrewmanRoles.MyName"
+msgstr "Tripulante de tanque"
+
+msgid "DHAlliedTankCrewmanRoles.AltName"
+msgstr "Tripulante de tanque"
+
+msgid "DHAlliedTankCrewmanRoles.PluralName"
+msgstr "Tripulantes de tanque"
+
+msgid "DHAmericanCannonPawn.RangeText"
+msgstr "yardas"
+
+msgid "DHATCannonMessage.NotQualified"
+msgstr "No cualificado para operar este cañón"
+
+msgid "DHATCannonMessage.VehicleIsEnemy"
+msgstr "No puede usar un cañón enemigo"
+
+msgid "DHAlliedAssaultRoles.AltName"
+msgstr "Tropa de Asalto"
+
+msgid "DHAlliedAssaultRoles.PluralName"
+msgstr "Tropas de Asalto"
+
+msgid "DHAlliedCorporalRoles.AltName"
+msgstr "Cabo"
+
+msgid "DHAlliedRiflemanRoles.MyName"
+msgstr "Fusilero"
+
+msgid "DHAlliedSergeantRoles.PluralName"
+msgstr "Sargentos"
+
+msgid "DHArtillery.MenuName"
+msgstr "Artillería de largo alcance"
