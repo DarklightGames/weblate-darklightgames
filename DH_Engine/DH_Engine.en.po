@@ -1,0 +1,2089 @@
+msgid ""
+msgstr ""
+"Language: en"
+"MIME-Version: 1.0"
+"Content-Type: text/plain"
+"Content-Transfer-Encoding: 8bit; charset=UTF-8"
+
+msgid "DHATCannonMessage.GunIsRotating"
+msgstr "The gun is being rotated"
+
+msgid "DHATCannonMessage.NotQualified"
+msgstr "Not qualified to operate this gun"
+
+msgid "DHATCannonMessage.VehicleIsEnemy"
+msgstr "Cannot use an enemy gun"
+
+msgid "DHATCannonMessage.CannotEnter"
+msgstr "The gun is already manned"
+
+msgid "DHATGun.TouchMessage"
+msgstr "Use the "
+
+msgid "DHATGunCannonPawn.HudName"
+msgstr "Gunner"
+
+msgid "DHATGunRotateControlsMessage.Controls[0].Text"
+msgstr "Finish rotating"
+
+msgid "DHATGunRotateControlsMessage.Controls[1].Text"
+msgstr "Rotate"
+
+msgid "DHATGunTouchMessage.RotateHintString"
+msgstr "hold {0} to rotate"
+
+msgid "DHATLoadFailMessage.CantLoad"
+msgstr "{0} must be deployed to be reloaded"
+
+msgid "DHATLoadMessage.LoadedGunner"
+msgstr "You have reloaded {0}"
+
+msgid "DHATLoadMessage.BeenLoaded"
+msgstr "You have been reloaded by {0}"
+
+msgid "DHATLoadMessage.UnLoaded"
+msgstr "Rocket has been unloaded"
+
+msgid "DHAccessControl.IPBanned"
+msgstr "You cannot join this server, you have been banned."
+
+msgid "DHAccessControl.SessionBanned"
+msgstr "You cannot join this server until it changes level."
+
+msgid "DHAdminMessage.KickedFromSquadMessage"
+msgstr "Admin '{0}' kicked '{1}' from squad '{2}'."
+
+msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
+msgstr "Admin '{0}' promoted '{1}' to lead squad '{2}'."
+
+msgid "DHAlliedAntiTankRoles.MyName"
+msgstr "Anti-Tank Soldier"
+
+msgid "DHAlliedAntiTankRoles.AltName"
+msgstr "Anti-Tank Soldier"
+
+msgid "DHAlliedAntiTankRoles.Article"
+msgstr "an "
+
+msgid "DHAlliedAntiTankRoles.PluralName"
+msgstr "Anti-Tank Soldiers"
+
+msgid "DHAlliedAssaultRoles.MyName"
+msgstr "Assault Trooper"
+
+msgid "DHAlliedAssaultRoles.AltName"
+msgstr "Assault Trooper"
+
+msgid "DHAlliedAssaultRoles.Article"
+msgstr "an "
+
+msgid "DHAlliedAssaultRoles.PluralName"
+msgstr "Assault Troops"
+
+msgid "DHAlliedAutoRifleRoles.MyName"
+msgstr "Light Machine-Gunner"
+
+msgid "DHAlliedAutoRifleRoles.AltName"
+msgstr "Light Machine-Gunner"
+
+msgid "DHAlliedAutoRifleRoles.Article"
+msgstr "a "
+
+msgid "DHAlliedAutoRifleRoles.PluralName"
+msgstr "Light Machine-Gunners"
+
+msgid "DHAlliedCorporalRoles.MyName"
+msgstr "Corporal"
+
+msgid "DHAlliedCorporalRoles.AltName"
+msgstr "Corporal"
+
+msgid "DHAlliedCorporalRoles.Article"
+msgstr "a "
+
+msgid "DHAlliedCorporalRoles.PluralName"
+msgstr "Corporals"
+
+msgid "DHAlliedEngineerRoles.MyName"
+msgstr "Combat Engineer"
+
+msgid "DHAlliedEngineerRoles.AltName"
+msgstr "Combat Engineer"
+
+msgid "DHAlliedEngineerRoles.Article"
+msgstr "a "
+
+msgid "DHAlliedEngineerRoles.PluralName"
+msgstr "Combat Engineers"
+
+msgid "DHAlliedMachineGunnerRoles.MyName"
+msgstr "Machine-Gunner"
+
+msgid "DHAlliedMachineGunnerRoles.AltName"
+msgstr "Machine-Gunner"
+
+msgid "DHAlliedMachineGunnerRoles.Article"
+msgstr "a "
+
+msgid "DHAlliedMachineGunnerRoles.PluralName"
+msgstr "Machine-Gunners"
+
+msgid "DHAlliedMortarmanRoles.MyName"
+msgstr "Mortar Operator"
+
+msgid "DHAlliedMortarmanRoles.AltName"
+msgstr "Mortar Operator"
+
+msgid "DHAlliedMortarmanRoles.Article"
+msgstr "a "
+
+msgid "DHAlliedMortarmanRoles.PluralName"
+msgstr "Mortar Operators"
+
+msgid "DHAlliedRadioOperatorRoles.MyName"
+msgstr "Radio Operator"
+
+msgid "DHAlliedRadioOperatorRoles.AltName"
+msgstr "Radio Operator"
+
+msgid "DHAlliedRadioOperatorRoles.Article"
+msgstr "a "
+
+msgid "DHAlliedRadioOperatorRoles.PluralName"
+msgstr "Radio Operators"
+
+msgid "DHAlliedRiflemanRoles.MyName"
+msgstr "Rifleman"
+
+msgid "DHAlliedRiflemanRoles.AltName"
+msgstr "Rifleman"
+
+msgid "DHAlliedRiflemanRoles.Article"
+msgstr "a "
+
+msgid "DHAlliedRiflemanRoles.PluralName"
+msgstr "Riflemen"
+
+msgid "DHAlliedSergeantRoles.MyName"
+msgstr "Sergeant"
+
+msgid "DHAlliedSergeantRoles.AltName"
+msgstr "Sergeant"
+
+msgid "DHAlliedSergeantRoles.Article"
+msgstr "a "
+
+msgid "DHAlliedSergeantRoles.PluralName"
+msgstr "Sergeants"
+
+msgid "DHAlliedSniperRoles.MyName"
+msgstr "Sniper"
+
+msgid "DHAlliedSniperRoles.AltName"
+msgstr "Sniper"
+
+msgid "DHAlliedSniperRoles.Article"
+msgstr "a "
+
+msgid "DHAlliedSniperRoles.PluralName"
+msgstr "Snipers"
+
+msgid "DHAlliedTankCrewmanRoles.MyName"
+msgstr "Tank Crewman"
+
+msgid "DHAlliedTankCrewmanRoles.AltName"
+msgstr "Tank Crewman"
+
+msgid "DHAlliedTankCrewmanRoles.Article"
+msgstr "a "
+
+msgid "DHAlliedTankCrewmanRoles.PluralName"
+msgstr "Tank Crewmen"
+
+msgid "DHAmericanCannonPawn.RangeText"
+msgstr "yards"
+
+msgid "DHAntiTankProjectileDamageType.DeathString"
+msgstr "%o was blown up by %k's %w."
+
+msgid "DHAntiTankProjectileDamageType.FemaleSuicide"
+msgstr "%o was blown up by her own %w."
+
+msgid "DHAntiTankProjectileDamageType.MaleSuicide"
+msgstr "%o was blown up by his own %w."
+
+msgid "DHArtillery.MenuName"
+msgstr "Long-Range Artillery"
+
+msgid "DHArtillery105DamageType.DeathString"
+msgstr "%o was torn apart by an artillery shell."
+
+msgid "DHArtillery105DamageType.FemaleSuicide"
+msgstr "%o was careless with her own artillery shell."
+
+msgid "DHArtillery105DamageType.MaleSuicide"
+msgstr "%o was careless with his own artillery shell."
+
+msgid "DHArtilleryKillDamageType.DeathString"
+msgstr "%o was torn apart by an artillery shell."
+
+msgid "DHArtilleryKillDamageType.FemaleSuicide"
+msgstr "%o was careless with her own artillery shell."
+
+msgid "DHArtilleryKillDamageType.MaleSuicide"
+msgstr "%o was careless with his own artillery shell."
+
+msgid "DHArtilleryMessage.RequestText"
+msgstr "Requesting {name}."
+
+msgid "DHArtilleryMessage.ConfirmText"
+msgstr "{name} confirmed."
+
+msgid "DHArtilleryMessage.DenyText"
+msgstr "{name} denied."
+
+msgid "DHArtilleryMessage.TooSoonText"
+msgstr "{name} is currently in use. Try again soon."
+
+msgid "DHArtilleryMessage.ExhaustedText"
+msgstr "{name} has been exhausted."
+
+msgid "DHArtilleryMessage.UnavailableText"
+msgstr "{name} is unavailable at this time."
+
+msgid "DHArtilleryMessage.BadLocationText"
+msgstr "Invalid target location for {name}."
+
+msgid "DHArtilleryMessage.NoTargetText"
+msgstr "No target location."
+
+msgid "DHArtilleryMessage.NotQualifiedText"
+msgstr "You are not qualified to request a {name}."
+
+msgid "DHArtilleryMessage.CancelledText"
+msgstr "{name} has been cancelled."
+
+msgid "DHArtilleryMessage.ActiveTargetChosen"
+msgstr "Fire support target selected."
+
+msgid "DHArtillerySpottingScope.RangeHeaderString"
+msgstr "Range"
+
+msgid "DHArtillerySpottingScope.PitchHeaderString"
+msgstr "Pitch"
+
+msgid "DHArtillerySpottingScope.TargetToggleHint"
+msgstr "Press {0} to toggle between artillery targets"
+
+msgid "DHArtillerySpottingScope.SelectTargetHint"
+msgstr "Press {0} to select an artillery target"
+
+msgid "DHArtillerySpottingScope.NoTargetsHint"
+msgstr "No targets available"
+
+msgid "DHArtilleryTargetMessage.TargetInvalid"
+msgstr "Invalid artillery target"
+
+msgid "DHArtilleryTargetMessage.TargetMarkedHE"
+msgstr "{0} has marked an artillery high-explosive target"
+
+msgid "DHArtilleryTargetMessage.TargetMarkedSmoke"
+msgstr "{0} has marked a artillery smoke target"
+
+msgid "DHArtilleryTargetMessage.CannotMarkTargetYet"
+msgstr "You cannot mark another artillery target marker yet"
+
+msgid "DHArtilleryTargetMessage.TooManyArtilleryTargets"
+msgstr "There are too many active artillery targets"
+
+msgid "DHAxisAntiTankRoles.MyName"
+msgstr "Tank Hunter"
+
+msgid "DHAxisAntiTankRoles.AltName"
+msgstr "Panzerjäger"
+
+msgid "DHAxisAntiTankRoles.Article"
+msgstr "a "
+
+msgid "DHAxisAntiTankRoles.PluralName"
+msgstr "Tank Hunters"
+
+msgid "DHAxisAssaultRoles.MyName"
+msgstr "Assault Trooper"
+
+msgid "DHAxisAssaultRoles.AltName"
+msgstr "Stoßtruppe"
+
+msgid "DHAxisAssaultRoles.Article"
+msgstr "an "
+
+msgid "DHAxisAssaultRoles.PluralName"
+msgstr "Assault Troopers"
+
+msgid "DHAxisCorporalRoles.MyName"
+msgstr "Corporal"
+
+msgid "DHAxisCorporalRoles.AltName"
+msgstr "Gefreiter"
+
+msgid "DHAxisCorporalRoles.Article"
+msgstr "a "
+
+msgid "DHAxisCorporalRoles.PluralName"
+msgstr "Corporals"
+
+msgid "DHAxisEngineerRoles.MyName"
+msgstr "Combat Engineer"
+
+msgid "DHAxisEngineerRoles.AltName"
+msgstr "Sturmpionier"
+
+msgid "DHAxisEngineerRoles.Article"
+msgstr "a "
+
+msgid "DHAxisEngineerRoles.PluralName"
+msgstr "Combat Engineers"
+
+msgid "DHAxisMachineGunnerRoles.MyName"
+msgstr "Machine-Gunner"
+
+msgid "DHAxisMachineGunnerRoles.AltName"
+msgstr "Maschinengewehrschütze"
+
+msgid "DHAxisMachineGunnerRoles.Article"
+msgstr "a "
+
+msgid "DHAxisMachineGunnerRoles.PluralName"
+msgstr "Machine-Gunners"
+
+msgid "DHAxisMarksmanRoles.MyName"
+msgstr "Marksman"
+
+msgid "DHAxisMarksmanRoles.AltName"
+msgstr "Scharfschütze"
+
+msgid "DHAxisMarksmanRoles.Article"
+msgstr "a "
+
+msgid "DHAxisMarksmanRoles.PluralName"
+msgstr "Snipers"
+
+msgid "DHAxisMortarmanRoles.MyName"
+msgstr "Mortar Operator"
+
+msgid "DHAxisMortarmanRoles.AltName"
+msgstr "Werferschütze"
+
+msgid "DHAxisMortarmanRoles.Article"
+msgstr "a "
+
+msgid "DHAxisMortarmanRoles.PluralName"
+msgstr "Mortar Operators"
+
+msgid "DHAxisRadioOperatorRoles.MyName"
+msgstr "Radio Operator"
+
+msgid "DHAxisRadioOperatorRoles.AltName"
+msgstr "Funktruppe"
+
+msgid "DHAxisRadioOperatorRoles.Article"
+msgstr "a "
+
+msgid "DHAxisRadioOperatorRoles.PluralName"
+msgstr "Radio Operator"
+
+msgid "DHAxisRiflemanRoles.MyName"
+msgstr "Rifleman"
+
+msgid "DHAxisRiflemanRoles.AltName"
+msgstr "Schütze"
+
+msgid "DHAxisRiflemanRoles.Article"
+msgstr "a "
+
+msgid "DHAxisRiflemanRoles.PluralName"
+msgstr "Riflemen"
+
+msgid "DHAxisSergeantRoles.MyName"
+msgstr "Sergeant"
+
+msgid "DHAxisSergeantRoles.AltName"
+msgstr "Unteroffizier"
+
+msgid "DHAxisSergeantRoles.Article"
+msgstr "a "
+
+msgid "DHAxisSergeantRoles.PluralName"
+msgstr "Sergeants"
+
+msgid "DHAxisSniperRoles.MyName"
+msgstr "Sniper"
+
+msgid "DHAxisSniperRoles.AltName"
+msgstr "Scharfschütze"
+
+msgid "DHAxisSniperRoles.Article"
+msgstr "a "
+
+msgid "DHAxisSniperRoles.PluralName"
+msgstr "Snipers"
+
+msgid "DHAxisTankCrewmanRoles.MyName"
+msgstr "Tank Crewman"
+
+msgid "DHAxisTankCrewmanRoles.AltName"
+msgstr "Panzerbesatzung"
+
+msgid "DHAxisTankCrewmanRoles.Article"
+msgstr "a "
+
+msgid "DHAxisTankCrewmanRoles.PluralName"
+msgstr "Tank Crewmen"
+
+msgid "DHBritishCannonPawn.RangeText"
+msgstr "yards"
+
+msgid "DHBurningDamageType.DeathString"
+msgstr "%o was burned to a crisp by a fire that %k started."
+
+msgid "DHBurningDamageType.FemaleSuicide"
+msgstr "%o burned herself to a crisp."
+
+msgid "DHBurningDamageType.MaleSuicide"
+msgstr "%o burned himself to a crisp."
+
+msgid "DHCanisterShotDamageType.DeathString"
+msgstr "%o was filled with holes by %k's canister shot."
+
+msgid "DHCanisterShotDamageType.FemaleSuicide"
+msgstr "%o was filled with holes by her own canister shot."
+
+msgid "DHCanisterShotDamageType.MaleSuicide"
+msgstr "%o was filled with holes by his own canister shot."
+
+msgid "DHChatRoomMessage.CannotJoinSquadChannelText"
+msgstr "Couldn't join channel `%title%`. You must to be in a squad."
+
+msgid "DHChatRoomMessage.CannotJoinCommandChannelText"
+msgstr "Couldn't join channel `%title%`. You must be a squad leader or an assistant, and your squad must have at least 2 members."
+
+msgid "DHCommandMenu_ATGun.EnemyGunText"
+msgstr "Cannot rotate an enemy gun"
+
+msgid "DHCommandMenu_ATGun.CannotBeRotatedText"
+msgstr "Cannot be rotated"
+
+msgid "DHCommandMenu_ATGun.OccupiedText"
+msgstr "Gun is occupied"
+
+msgid "DHCommandMenu_ATGun.FatalText"
+msgstr "Rotation unavailable"
+
+msgid "DHCommandMenu_ATGun.CooldownText"
+msgstr "Wait"
+
+msgid "DHCommandMenu_FireSupport.UnavailableText"
+msgstr "Unavailable"
+
+msgid "DHCommandMenu_FireSupport.InvalidTargetText"
+msgstr "Invalid target"
+
+msgid "DHCommandMenu_FireSupport.OffMapSupportExhaustedText"
+msgstr "Exhausted"
+
+msgid "DHCommandMenu_FireSupport.AvailableArtilleryText"
+msgstr "Artillery: {0}"
+
+msgid "DHCommandMenu_FireSupport.AvailableParadropsText"
+msgstr "Paradrops: {0}"
+
+msgid "DHCommandMenu_FireSupport.AvailableAirstrikesText"
+msgstr "Airstrikes: {0}"
+
+msgid "DHCommandMenu_LoneWolf.AutoJoinSquadDisabledText"
+msgstr "No eligible squads"
+
+msgid "DHCommandMenu_Radio.UnavailableText"
+msgstr "Unavailable"
+
+msgid "DHCommandMenu_Radio.ExhaustedText"
+msgstr "Exhausted"
+
+msgid "DHCommandMenu_Radio.UnqualifiedText"
+msgstr "Unqualified"
+
+msgid "DHCommandMenu_Radio.OngoingText"
+msgstr "Ongoing"
+
+msgid "DHCommandMenu_Radio.AvailableText"
+msgstr "Available"
+
+msgid "DHCommandMenu_Radio.CancelText"
+msgstr "Ongoing (Cancel)"
+
+msgid "DHCommandMenu_SquadLeader.InEnemyTerritory"
+msgstr "In enemy territory"
+
+msgid "DHCommandMenu_SquadManageNonMember.AlreadyInASquadText"
+msgstr "Already in a squad"
+
+msgid "DHCommandMenu_SquadManageNonMember.SquadIsFullText"
+msgstr "Squad is full"
+
+msgid "DHCommandSayMessage.MessagePrefix"
+msgstr "[COMMAND]"
+
+msgid "DHCommunicationMessage.AllChatDisabledMessage"
+msgstr "Public all chat is currently disabled."
+
+msgid "DHConstruction.ConstructionVerb"
+msgstr "build"
+
+msgid "DHConstructionErrorMessage.ErrorMessages[2]"
+msgstr "You must {verb} a {name} on solid ground."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[3]"
+msgstr "The ground is too steep here to {verb} a {name}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[4]"
+msgstr "You cannot {verb} a {name} in water."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[5]"
+msgstr "You cannot {verb} a {name} at this location."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[6]"
+msgstr "Not enough room here to {verb} a {name}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[7]"
+msgstr "You must {verb} a {name} on earthen terrain."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[8]"
+msgstr "Too close to an existing friendly {name}, it must be {integer}m further away."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[9]"
+msgstr "Too close to an existing enemy {name}, it must be {integer}m further away."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[10]"
+msgstr "You cannot {verb} a {name} in a minefield."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[11]"
+msgstr "You cannot {verb} a {name} near a spawn point."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[12]"
+msgstr "You cannot {verb} a {name} indoors."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[13]"
+msgstr "You cannot {verb} a {name} inside an objective."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[14]"
+msgstr "Your team cannot {verb} any more {name} (limit reached: {integer})."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[15]"
+msgstr "There are no supply caches within {integer} meters."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[16]"
+msgstr "There are insufficient supplies to {verb} a {name}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[17]"
+msgstr "You cannot {verb} a {name} on this surface."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[18]"
+msgstr "The ground is too hard to {verb} a {name} at this location."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[20]"
+msgstr "You must have {integer} members in your squad to {verb} a {name}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[21]"
+msgstr "You cannot {verb} a {name} while you are busy."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[22]"
+msgstr "Too close to an objective ({string}), it must be {integer}m further away."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[23]"
+msgstr "Too close to an uncontrolled objective ({string}), it must be {integer}m further away."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[24]"
+msgstr "You must {verb} a {name} within {integer}m of a friendly {string}"
+
+msgid "DHConstructionErrorMessage.ErrorMessages[25]"
+msgstr "You cannot {verb} a {name} in enemy territory"
+
+msgid "DHConstructionErrorMessage.ErrorMessages[26]"
+msgstr "There are no more {name} available"
+
+msgid "DHConstructionGroup_Guns.GroupName"
+msgstr "Guns"
+
+msgid "DHConstructionSupplyAttachment.HumanReadableName"
+msgstr "Supply Cache"
+
+msgid "DHConstructionSupplyAttachment_Static_Main.HumanReadableName"
+msgstr "Main Supply Cache"
+
+msgid "DHConstruction_Vehicle.ConstructionVerb"
+msgstr "emplace"
+
+msgid "DHEnemyInformationMsg.EnemyIsWeak"
+msgstr "The enemy is nearly out of reinforcements, victory is near!"
+
+msgid "DHEnemyInformationMsg.EnemyIsSurrendering"
+msgstr "The enemy is retreating, the battle will be over shortly!"
+
+msgid "DHExitMovingVehicleDamageType.DeathString"
+msgstr "%o was killed jumping from a speeding vehicle."
+
+msgid "DHExitMovingVehicleDamageType.FemaleSuicide"
+msgstr "%o was killed jumping from a speeding vehicle."
+
+msgid "DHExitMovingVehicleDamageType.MaleSuicide"
+msgstr "%o was killed jumping from a speeding vehicle."
+
+msgid "DHFireSupportMessage.OnMapArtilleryRequestConfirmedText"
+msgstr "Fire support target has been marked."
+
+msgid "DHFireSupportMessage.OffMapArtilleryRequestConfirmedText"
+msgstr "Long-range fire support target has been marked."
+
+msgid "DHFireSupportMessage.OnMapArtilleryRequestingLocked"
+msgstr "You cannot place another fire support marker for another {seconds} seconds."
+
+msgid "DHFireSupportMessage.RadiomanNotification"
+msgstr "{squad} squad has marked a target for long-range fire support."
+
+msgid "DHFireSupportMessage.ArtilleryOperatorNotification"
+msgstr "{squad} squad has marked a {type} target for fire support."
+
+msgid "DHFireSupportMessage.ErrorText"
+msgstr "Could not place fire support marker."
+
+msgid "DHFriendlyInformationMsg.TeamSurrendered"
+msgstr "Your team has decided to retreat, the battle will be over shortly!"
+
+msgid "DHGameMessage.VehicleDestroyedMessage"
+msgstr "{0} has been destroyed."
+
+msgid "DHGameMessage.VehicleDepletedMessage"
+msgstr "{0} reinforcements have been depleted."
+
+msgid "DHGameMessage.VehicleArrivedMessage"
+msgstr "{0} reinforcements have arrived."
+
+msgid "DHGameMessage.VehicleCutOffMessage"
+msgstr "{0} reinforcements have been cut off."
+
+msgid "DHGameMessage.VehicleTeamKilledMessage"
+msgstr "{0} killed a friendly {1}."
+
+msgid "DHGameMessage.RoleInvalidatedMessage"
+msgstr "You are no longer qualified to be {article}{name}."
+
+msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
+msgstr "You must have another teammate nearby to deconstruct an enemy Platoon HQ!"
+
+msgid "DHGameReplicationInfo.ForceScaleText"
+msgstr "Size"
+
+msgid "DHGameReplicationInfo.ReinforcementsInfiniteText"
+msgstr "Infinite"
+
+msgid "DHGameType.GameTypeName"
+msgstr "Unknown Game Type"
+
+msgid "DHGameType_Advance.GameTypeName"
+msgstr "Advance"
+
+msgid "DHGameType_Armored_Advance.GameTypeName"
+msgstr "Armored Advance"
+
+msgid "DHGameType_Clash.GameTypeName"
+msgstr "Clash"
+
+msgid "DHGameType_Cutoff.GameTypeName"
+msgstr "Cutoff"
+
+msgid "DHGameType_Defence.GameTypeName"
+msgstr "Defence"
+
+msgid "DHGameType_Domination.GameTypeName"
+msgstr "Domination"
+
+msgid "DHGameType_Push.GameTypeName"
+msgstr "Push"
+
+msgid "DHGameType_Stalemate.GameTypeName"
+msgstr "Stalemate"
+
+msgid "DHHintManager.Hints[0].Title"
+msgstr "Welcome to Darkest Hour!"
+
+msgid "DHHintManager.Hints[0].Text"
+msgstr "These hint messages will show up periodically in the game. Pay attention to them, your survival might depend on it! They can be disabled from the HUD tab in the configuration menu."
+
+msgid "DHHintManager.Hints[1].Title"
+msgstr "Mantling"
+
+msgid "DHHintManager.Hints[1].Text"
+msgstr "You are able to mantle on to small obstacles! To mantle, stand in front of any low obstacle until the mantling icon to appears then press %JUMP% to mantle on top of the obstacle."
+
+msgid "DHHintManager.Hints[2].Title"
+msgstr "Parachutes"
+
+msgid "DHHintManager.Hints[2].Text"
+msgstr "You can guide your parachute's trajectory with your movement keys!"
+
+msgid "DHHintManager.Hints[3].Title"
+msgstr "Coloured Smoke Grenades"
+
+msgid "DHHintManager.Hints[3].Text"
+msgstr "Coloured smoke grenades are used to communicate on the battlefield with your teammates. Be sure to tell your teammates what the coloured smoke indicates."
+
+msgid "DHHintManager.Hints[6].Title"
+msgstr "Mortars"
+
+msgid "DHHintManager.Hints[6].Text"
+msgstr "While you are holding a mortar you cannot change weapons, sprint, prone or mantle. To deploy your mortar, crouch on flat ground and press %DEPLOY%."
+
+msgid "DHHintManager.Hints[7].Title"
+msgstr "Mortar Operation"
+
+msgid "DHHintManager.Hints[7].Text"
+msgstr "To adjust the traverse of your mortar, hold the A or D keys. To increase the elevation, press the S key. To decrease the elevation, press the W key. To select the next round type, press the %SwitchFireMode% key. To fire a round, press the %Fire% key."
+
+msgid "DHHintManager.Hints[8].Title"
+msgstr "Artillery Targets"
+
+msgid "DHHintManager.Hints[8].Text"
+msgstr "Squad leaders can mark targets that become visible on your map. When a round lands near a target marker, the location of the impact will be marked your map. Use these markers to zero in on your target."
+
+msgid "DHHintManager.Hints[9].Title"
+msgstr "Mortar Leaving"
+
+msgid "DHHintManager.Hints[9].Text"
+msgstr "You may leave your mortar at any time by pressing the %Use% key. While you are off your mortar, you can retrieve ammunition at a resupply area or from your teammates."
+
+msgid "DHHintManager.Hints[10].Title"
+msgstr "Mortar Undeploy"
+
+msgid "DHHintManager.Hints[10].Text"
+msgstr "To undeploy your mortar, press the %Deploy% key. Undeploying your mortar will reset your elevation and traverse settings."
+
+msgid "DHHintManager.Hints[12].Title"
+msgstr "Binoculars"
+
+msgid "DHHintManager.Hints[12].Text"
+msgstr "You can mark targets for fire support with your binoculars. Bring up your binoculars with %ROIRONSIGHTS%, then press and hold %FIRE% to bring up the fire support menu."
+
+msgid "DHHintManager.Hints[13].Title"
+msgstr "Radio Operator"
+
+msgid "DHHintManager.Hints[13].Text"
+msgstr "You are a radio operator! Stay close to squad leaders so they can call in long-range fire support!"
+
+msgid "DHHintManager.Hints[40].Title"
+msgstr "Vehicle Engines"
+
+msgid "DHHintManager.Hints[40].Text"
+msgstr "You have entered a vehicle. To start or stop the engine, press %FIRE%."
+
+msgid "DHHintManager.Hints[42].Title"
+msgstr "Higgins Boat"
+
+msgid "DHHintManager.Hints[42].Text"
+msgstr "You are driving a Higgins boat. Lower the bow ramp by pressing %PREVWEAPON% so passengers and yourself can exit. To raise the bow ramp hit %NEXTWEAPON%."
+
+msgid "DHHintManager.Hints[43].Title"
+msgstr "Resupply Trucks"
+
+msgid "DHHintManager.Hints[43].Text"
+msgstr "You are close to a resupply truck. Stand outside the back of the truck to resupply your ammunition."
+
+msgid "DHHintManager.Hints[44].Title"
+msgstr "Resupply Trucks"
+
+msgid "DHHintManager.Hints[44].Text"
+msgstr "You are driving a resupply truck. This vehicle can resupply vehicles, mortars and infantry. Be sure to park it in a safe place."
+
+msgid "DHHintManager.Hints[46].Title"
+msgstr "Externally Mounted MG"
+
+msgid "DHHintManager.Hints[46].Text"
+msgstr "This machine gun is externally mounted and can only be fired or reloaded if you unbutton the hatch"
+
+msgid "DHHintManager.Hints[47].Title"
+msgstr "Remote Controlled MG"
+
+msgid "DHHintManager.Hints[47].Text"
+msgstr "This machine gun can only be fired from inside the vehicle, but it is externally mounted and you must unbutton the hatch to reload"
+
+msgid "DHHintManager.Hints[48].Title"
+msgstr "Externally Mounted MG Reload"
+
+msgid "DHHintManager.Hints[48].Text"
+msgstr "You need to unbutton the hatch (& not be using binoculars) to reload this externally mounted machine gun"
+
+msgid "DHHintManager.Hints[49].Title"
+msgstr "Spotting Scope"
+
+msgid "DHHintManager.Hints[49].Text"
+msgstr "You are operating an artillery piece equipped with a spotting scope. Press %NEXTWEAPON% to look through the spotting scope."
+
+msgid "DHHintManager.Hints[50].Title"
+msgstr "Artillery Operators"
+
+msgid "DHHintManager.Hints[50].Text"
+msgstr "Open map to coordinate fire. Use [RIGHTMOUSE] on a fire support request to select it as the active target or use the Ruler marker to measure distances from you to a given spot on the map."
+
+msgid "DHHintManager.Hints[51].Title"
+msgstr "Map Interaction"
+
+msgid "DHHintManager.Hints[51].Text"
+msgstr "You can interact with the map by pressing %JUMP%."
+
+msgid "DHHintManager.Hints[52].Title"
+msgstr "Map Navigation"
+
+msgid "DHHintManager.Hints[52].Text"
+msgstr "To zoom the map, hover the cursor over the map and use the scroll wheel. To pan the map, press and hold [LEFTMOUSE] then move the cursor."
+
+msgid "DHHintManager.Hints[53].Title"
+msgstr "Map Markers"
+
+msgid "DHHintManager.Hints[53].Text"
+msgstr "To add and interact with markers on the map, hover the cursor over the area or object of interest and press [RIGHTMOUSE] to bring up the context menu."
+
+msgid "DHHintManager.Hints[54].Title"
+msgstr "Find a Radio"
+
+msgid "DHHintManager.Hints[54].Text"
+msgstr "You have marked a target for long-range fire support. Find a radio so that you can call it in!"
+
+msgid "DHHintManager.Hints[60].Title"
+msgstr "Firing Range"
+
+msgid "DHHintManager.Hints[60].Text"
+msgstr "This weapon has an adjustable sight! Press %SWITCHFIREMODE% to change the range of the sight."
+
+msgid "DHHintManager.Hints[61].Title"
+msgstr "Desperate measures"
+
+msgid "DHHintManager.Hints[61].Text"
+msgstr "This weapon uses non-standard ammunition that cannot be resupplied. Don't waste your shots!"
+
+msgid "DHHintManager.Hints[62].Title"
+msgstr "Barrel Overheating"
+
+msgid "DHHintManager.Hints[62].Text"
+msgstr "Your weapon's barrel is overheating! Overheating barrels will result in reduced accuracy and eventual destruction of the barrel."
+
+msgid "DHHintManager.Hints[63].Title"
+msgstr "Barrel Swapping"
+
+msgid "DHHintManager.Hints[63].Text"
+msgstr "You can swap the barrel of this weapon. Press %ROMGOPERATION% while deployed to change to your secondary barrel."
+
+msgid "DHHintManager.Hints[64].Title"
+msgstr "Barrel Destroyed"
+
+msgid "DHHintManager.Hints[64].Text"
+msgstr "Your weapon's barrel has been destroyed by overheating! You can no longer fire this weapon."
+
+msgid "DHHud.ServerNameText"
+msgstr "Server: "
+
+msgid "DHHud.MapNameText"
+msgstr "Map: "
+
+msgid "DHHud.MapGameTypeText"
+msgstr "Gametype: "
+
+msgid "DHHud.NoTimeLimitText"
+msgstr "Unlimited"
+
+msgid "DHHud.AndMoreText"
+msgstr "and more..."
+
+msgid "DHHud.LegendCarriedArtilleryRadioText"
+msgstr "Artillery Radioman"
+
+msgid "DHHud.TimeElapsedText"
+msgstr "Time Elapsed: "
+
+msgid "DHHud.JoinTeamText"
+msgstr "Press [ESC] to join a team"
+
+msgid "DHHud.InvalidSpawnSettingsText"
+msgstr "Press [ESC] to confirm your role, vehicle, and spawnpoint selections"
+
+msgid "DHHud.NotReadyToSpawnText"
+msgstr "Spawning will enable in {s} (Use this time to organize squads and plan)"
+
+msgid "DHHud.SelectSpawnPointText"
+msgstr "Press [ESC] to select a spawn point"
+
+msgid "DHHud.SpawnInfantryText"
+msgstr "You will deploy as a {0} in {2} | Press [ESC] to change"
+
+msgid "DHHud.SpawnVehicleText"
+msgstr "You will deploy as a {0} driving a {3} in {2} | Press [ESC] to change"
+
+msgid "DHHud.SpawnAtVehicleText"
+msgstr "You will deploy as a {0} at a {1} in {2} | Press [ESC] to change"
+
+msgid "DHHud.SpawnRallyPointText"
+msgstr "You will deploy as a {0} at your squad rally point in {2} | Press [ESC] to change"
+
+msgid "DHHud.SpawnNoRoleText"
+msgstr "Press [ESC] to select a role"
+
+msgid "DHHud.NeedReloadText"
+msgstr "Needs reloading"
+
+msgid "DHHud.CanReloadText"
+msgstr "Press %THROWMGAMMO% to assist reload"
+
+msgid "DHHud.ConnectedObjectivesNotSecuredText"
+msgstr "Connected objective(s) not secured"
+
+msgid "DHHud.NeedsClearedText"
+msgstr " (Not Secured)"
+
+msgid "DHHud.BlackoutText"
+msgstr "Blackout"
+
+msgid "DHHud.ReinforcementText"
+msgstr "You will deploy as a {0} in {2} | Press [ESC] to change"
+
+msgid "DHHud.TeamMessagePrefix"
+msgstr "[TEAM] "
+
+msgid "DHHud.SpectateInstructionText1"
+msgstr "Press [%FIRE%] to switch Viewpoint/Players"
+
+msgid "DHHud.SpectateInstructionText2"
+msgstr "Press [%ALTFIRE%] to switch Spectating Modes"
+
+msgid "DHHud.SpectateInstructionText3"
+msgstr "Press [%ROIRONSIGHTS%] to toggle First/Third Person View"
+
+msgid "DHHud.SpectateInstructionText4"
+msgstr "Press [%JUMP%] to return to viewing yourself"
+
+msgid "DHHud.LegendAxisObjectiveText"
+msgstr "Axis territory"
+
+msgid "DHHud.LegendAlliesObjectiveText"
+msgstr "Allied territory"
+
+msgid "DHHud.LegendArtilleryRadioText"
+msgstr "Artillery Radio"
+
+msgid "DHHud.OverrideConsoleFontName"
+msgstr "DHFonts.DHFont14"
+
+msgid "DHIQMessage.LeaderAWOLMessage"
+msgstr "You're neglecting your squad and your supply lines."
+
+msgid "DHIQMessage.MemberAWOLMessage"
+msgstr "You're abandoning your squad."
+
+msgid "DHIQMessage.NotInSquadMessage"
+msgstr "You're not in a squad."
+
+msgid "DHIQMessage.Congratulations[0]"
+msgstr "Wow! Such smarts!"
+
+msgid "DHIQMessage.Congratulations[1]"
+msgstr "Amazing!"
+
+msgid "DHIQMessage.Congratulations[2]"
+msgstr "You're a tactical genius!"
+
+msgid "DHIQMessage.Congratulations[3]"
+msgstr "Well done!"
+
+msgid "DHIQMessage.Congratulations[4]"
+msgstr "Absolute madman!"
+
+msgid "DHIQMessage.Congratulations[6]"
+msgstr "Brilliant!"
+
+msgid "DHIQMessage.Congratulations[7]"
+msgstr "You're the smartest!"
+
+msgid "DHInventorySpawner.ContainerNoun"
+msgstr "crate"
+
+msgid "DHLastObjectiveMessage.AxisAboutToWinMessage"
+msgstr "Last objective -- the Axis have almost won the battle!"
+
+msgid "DHLastObjectiveMessage.AlliesAboutToWinMessage"
+msgstr "Last objective -- the Allies have almost won the battle!"
+
+msgid "DHLib.ServerHealthStages[0].Text"
+msgstr "Excellent"
+
+msgid "DHLib.ServerHealthStages[1].Text"
+msgstr "Good"
+
+msgid "DHLib.ServerHealthStages[2].Text"
+msgstr "Fair"
+
+msgid "DHLib.ServerHealthStages[3].Text"
+msgstr "Poor"
+
+msgid "DHLib.ServerHealthStages[4].Text"
+msgstr "Abysmal"
+
+msgid "DHLocalMessage.SquadLeaderID"
+msgstr "SL"
+
+msgid "DHLocalMessage.SquadAssistantID"
+msgstr "A"
+
+msgid "DHMainMenuGame.GameName"
+msgstr "Game"
+
+msgid "DHMapMarker_AdminParadrop.MarkerName"
+msgstr "ADMIN: Paradrop"
+
+msgid "DHMapMarker_Enemy_ATGun.MarkerName"
+msgstr "Enemy AT Gun"
+
+msgid "DHMapMarker_Enemy_Infantry.MarkerName"
+msgstr "Enemy Infantry"
+
+msgid "DHMapMarker_Enemy_PlatoonHQ.MarkerName"
+msgstr "Enemy HQ"
+
+msgid "DHMapMarker_Enemy_Tank.MarkerName"
+msgstr "Enemy Tank"
+
+msgid "DHMapMarker_Enemy_Vehicle.MarkerName"
+msgstr "Enemy Vehicle"
+
+msgid "DHMapMarker_FireSupport_HE.MarkerName"
+msgstr "HE Request"
+
+msgid "DHMapMarker_FireSupport_OffMap.MarkerName"
+msgstr "Long-Range Fire Support"
+
+msgid "DHMapMarker_FireSupport_Smoke.MarkerName"
+msgstr "Smoke Request"
+
+msgid "DHMapMarker_Friendly_PlatoonHQ.MarkerName"
+msgstr "Request Platoon HQ"
+
+msgid "DHMapMarker_Friendly_Supplies.MarkerName"
+msgstr "Request Supplies"
+
+msgid "DHMapMarker_OngoingBarrage.MarkerName"
+msgstr "Ongoing Barrage"
+
+msgid "DHMapMarker_Ruler.MarkerName"
+msgstr "Measure"
+
+msgid "DHMapMarker_Squad_Attack.MarkerName"
+msgstr "Squad Attack"
+
+msgid "DHMapMarker_Squad_Attention.MarkerName"
+msgstr "Squad Attention"
+
+msgid "DHMapMarker_Squad_Defend.MarkerName"
+msgstr "Squad Defend"
+
+msgid "DHMapMarker_Squad_Move.MarkerName"
+msgstr "Squad Move"
+
+msgid "DHMortarDamageType.DeathString"
+msgstr "%o was blown up by %k's mortar shell."
+
+msgid "DHMortarDamageType.FemaleSuicide"
+msgstr "%o was blown up by her own mortar shell."
+
+msgid "DHMortarDamageType.MaleSuicide"
+msgstr "%o was blown up by his own mortar shell."
+
+msgid "DHMortarMessage.MustCrouch"
+msgstr "You must be crouched to deploy your mortar"
+
+msgid "DHMortarMessage.MustBeStill"
+msgstr "You cannot deploy your mortar while moving"
+
+msgid "DHMortarMessage.CannotLean"
+msgstr "You cannot deploy your mortar while leaning"
+
+msgid "DHMortarMessage.BadSurface"
+msgstr "You cannot deploy your mortar on this surface"
+
+msgid "DHMortarMessage.NotEnoughRoom"
+msgstr "You do not have enough room to deploy your mortar here"
+
+msgid "DHMortarMessage.CannotDeploy"
+msgstr "You cannot deploy your mortar here"
+
+msgid "DHMortarMessage.InWater"
+msgstr "You cannot deploy your mortar in water"
+
+msgid "DHMortarMessage.NotQualified"
+msgstr "You are not qualified to operate this mortar"
+
+msgid "DHMortarMessage.InUse"
+msgstr "You cannot operate this mortar as it is currently in use"
+
+msgid "DHMortarMessage.EnemyMortar"
+msgstr "You cannot operate enemy mortars"
+
+msgid "DHObjectiveMessage.TeamStrings[0]"
+msgstr "Axis"
+
+msgid "DHObjectiveMessage.TeamStrings[1]"
+msgstr "Allies"
+
+msgid "DHObjectiveMessage.NotificationTypes[0]"
+msgstr "neutralized"
+
+msgid "DHObjectiveMessage.NotificationTypes[1]"
+msgstr "captured"
+
+msgid "DHObjectiveMessage.NotificationTypes[2]"
+msgstr "secured"
+
+msgid "DHObjectiveMessage.NotificationMessage"
+msgstr "The {0} have {1} {2}"
+
+msgid "DHPassengerPawn.HudName"
+msgstr "Rider"
+
+msgid "DHPawnTouchMessage.Messages[0]"
+msgstr "Press [%THROWMGAMMO%] to resupply {0}"
+
+msgid "DHPawnTouchMessage.Messages[1]"
+msgstr "Press [%THROWMGAMMO%] to reload {0}"
+
+msgid "DHPawnTouchMessage.Messages[2]"
+msgstr "Press [%THROWMGAMMO%] to resupply and reload {0}"
+
+msgid "DHPawnTouchMessage.FallbackPlayerName"
+msgstr "friendly soldier"
+
+msgid "DHPlatoonHQMessage.ActivatedMessage"
+msgstr "A Platoon HQ has been established."
+
+msgid "DHPlatoonHQMessage.OverrunMessage"
+msgstr "A Platoon HQ has been overrun by the enemy."
+
+msgid "DHPlatoonHQMessage.DestroyedMessage"
+msgstr "A Platoon HQ has been destroyed."
+
+msgid "DHPlatoonHQMessage.ConstructedMessage"
+msgstr "A Platoon HQ has been constructed and will be established in {0} seconds."
+
+msgid "DHPlayerReplicationInfo.SquadLeaderAbbreviation"
+msgstr "SL"
+
+msgid "DHPlayerReplicationInfo.AssistantAbbreviation"
+msgstr "A"
+
+msgid "DHRadioTouchMessage.RequestMessage"
+msgstr "Hold [%SHOWORDERMENU | ONRELEASE HIDEORDERMENU%] to request artillery"
+
+msgid "DHRadioTouchMessage.NotQualifiedMessage"
+msgstr "You are not qualified to use this radio"
+
+msgid "DHRadioTouchMessage.NoTargetMessage"
+msgstr "No artillery target marked"
+
+msgid "DHRadioTouchMessage.NotOwnedMessage"
+msgstr "You cannot use enemy radios"
+
+msgid "DHRadioTouchMessage.BusyMessage"
+msgstr "Radio is currently in use"
+
+msgid "DHReinforcementAwardMsg.ObjectiveString"
+msgstr "an objective"
+
+msgid "DHReinforcementAwardMsg.ReinforcementAward"
+msgstr "Your team was awarded {0} reinforcements for capturing {1}!"
+
+msgid "DHReinforcementAwardMsg.ReinforcementLoss"
+msgstr "Your team lost {0} reinforcements for losing {1}!"
+
+msgid "DHReinforcementAwardMsg.ReinforcementAttrition"
+msgstr "Your team is losing significant reinforcemetns from attrition!!!"
+
+msgid "DHReinforcementMsg.ReinforcementsRemaining"
+msgstr "Your team has {0}% reinforcements remaining!"
+
+msgid "DHReinforcementMsg.ReinforcementsDepleted"
+msgstr "Your team has ran out of reinforcements!"
+
+msgid "DHResupplyMessage.HaveResupplied"
+msgstr "You have resupplied {0}"
+
+msgid "DHResupplyMessage.BeenResupplied"
+msgstr "You have been resupplied by {0}"
+
+msgid "DHResupplyMessage.HaveResuppliedFriendlyMortar"
+msgstr "You have resupplied a friendly mortar"
+
+msgid "DHRocketExhaustDamageType.DeathString"
+msgstr "%o was cooked by the exhaust from %k's %w."
+
+msgid "DHRocketExhaustDamageType.FemaleSuicide"
+msgstr "%o was cooked by the exhaust from her own %w."
+
+msgid "DHRocketExhaustDamageType.MaleSuicide"
+msgstr "%o was cooked by the exhaust from his own %w."
+
+msgid "DHRocketImpactDamage.DeathString"
+msgstr "%o was killed by %k's %w."
+
+msgid "DHRocketImpactDamage.FemaleSuicide"
+msgstr "%o was killed by her own %w."
+
+msgid "DHRocketImpactDamage.MaleSuicide"
+msgstr "%o was killed by his own %w."
+
+msgid "DHRocketWarningMessage.NoHipFire"
+msgstr "You cannot fire the {0} from the hip"
+
+msgid "DHRocketWarningMessage.CrouchOrRestToFire"
+msgstr "You must be crouched or weapon rested to fire the {0}"
+
+msgid "DHRocketWarningMessage.ProneOrRestToFire"
+msgstr "You need to be prone or weapon rested to fire the {0}"
+
+msgid "DHRocketWarningMessage.NoProneReload"
+msgstr "You cannot reload the {0} while prone"
+
+msgid "DHRocketWarningMessage.RestToReload"
+msgstr "You need to be prone to reload the {0}"
+
+msgid "DHRocketWarningMessage.ShoulderForAssistedReload"
+msgstr "You must shoulder the {0} for an assisted reload"
+
+msgid "DHRocketWarningMessage.CantBeMoving"
+msgstr "You must be stationary to fire the {0}"
+
+msgid "DHScoreCategory_Combat.HumanReadableName"
+msgstr "Combat"
+
+msgid "DHScoreCategory_Support.HumanReadableName"
+msgstr "Support"
+
+msgid "DHScoreEvent_ConstructionCompleted.HumanReadableName"
+msgstr "Construction Built"
+
+msgid "DHScoreEvent_FireSupportSpottingAssist.HumanReadableName"
+msgstr "Fire Support Spotting Assist"
+
+msgid "DHScoreEvent_FriendlyReload.HumanReadableName"
+msgstr "Friendly Reload"
+
+msgid "DHScoreEvent_FriendlyResupply.HumanReadableName"
+msgstr "Friendly Resupply"
+
+msgid "DHScoreEvent_Kill.HumanReadableName"
+msgstr "Kill"
+
+msgid "DHScoreEvent_ObjectiveCapture.HumanReadableName"
+msgstr "Objective Captured"
+
+msgid "DHScoreEvent_ObjectiveNeutralize.HumanReadableName"
+msgstr "Objective Neutralized"
+
+msgid "DHScoreEvent_SquadRallyPointEstablished.HumanReadableName"
+msgstr "Squad Rally Point Established"
+
+msgid "DHScoreEvent_SquadRallyPointEstablishedAssist.HumanReadableName"
+msgstr "Squad Rally Point Established (Assist)"
+
+msgid "DHScoreEvent_SquadRallyPointSpawn.HumanReadableName"
+msgstr "Squad Rally Point Spawn"
+
+msgid "DHScoreEvent_Suicide.HumanReadableName"
+msgstr "Suicide"
+
+msgid "DHScoreEvent_TeamKill.HumanReadableName"
+msgstr "Team Kill"
+
+msgid "DHScoreEvent_TeamKillPunish.HumanReadableName"
+msgstr "Team Kill Punish"
+
+msgid "DHScoreEvent_VehicleKill.HumanReadableName"
+msgstr "Vehicle Kill"
+
+msgid "DHServerSayMessage.MessagePrefix"
+msgstr "[SERVER]"
+
+msgid "DHSetupPhaseMessage.PhaseMessage"
+msgstr "The battle begins in {0}"
+
+msgid "DHSetupPhaseMessage.PhaseEndMessage"
+msgstr "The battle has begun!"
+
+msgid "DHShellExplosionDamageType.DeathString"
+msgstr "%o was blown up by %k's cannon shell."
+
+msgid "DHShellExplosionDamageType.FemaleSuicide"
+msgstr "%o was blown up by her own cannon shell."
+
+msgid "DHShellExplosionDamageType.MaleSuicide"
+msgstr "%o was blown up his own cannon shell."
+
+msgid "DHShellImpactDamageType.DeathString"
+msgstr "%o was killed by %k's cannon shell."
+
+msgid "DHShellImpactDamageType.FemaleSuicide"
+msgstr "%o was killed by her own cannon shell."
+
+msgid "DHShellImpactDamageType.MaleSuicide"
+msgstr "%o was killed by his own cannon shell."
+
+msgid "DHShellSmokeWPDamageType.DeathString"
+msgstr "%o was burned by white phosphorus that %k launched."
+
+msgid "DHShellSmokeWPDamageType.FemaleSuicide"
+msgstr "%o burned herself to a crisp."
+
+msgid "DHShellSmokeWPDamageType.MaleSuicide"
+msgstr "%o burned himself to a crisp."
+
+msgid "DHShellSmokeWPGasDamageType.DeathString"
+msgstr "%o was choked by white phosphorus that %k launched."
+
+msgid "DHShellSmokeWPGasDamageType.FemaleSuicide"
+msgstr "%o choked herself to death on white phosphorus."
+
+msgid "DHShellSmokeWPGasDamageType.MaleSuicide"
+msgstr "%o choked himself to death on white phosphorus."
+
+msgid "DHSignal_Fire.SignalName"
+msgstr "Fire"
+
+msgid "DHSignal_Move.SignalName"
+msgstr "Move"
+
+msgid "DHSpawnKillDamageType.DeathString"
+msgstr "%o was spawn killed by %k."
+
+msgid "DHSpawnKillDamageType.FemaleSuicide"
+msgstr "%o spawn killed herself."
+
+msgid "DHSpawnKillDamageType.MaleSuicide"
+msgstr "%o spawn killed himself."
+
+msgid "DHSpawnProtectMineVolume.SafePeriodWarningMessage"
+msgstr "This is now an enemy controlled area! You have %remaining% seconds to return to your lines!"
+
+msgid "DHSpawnProtectMineVolume.SpawnMFActivatedMessage"
+msgstr "This is now an enemy controlled area, fall back!"
+
+msgid "DHSpawnProtectMineVolume.ExitedMinefieldMessage"
+msgstr "You have left enemy territory. Returning again will be considered desertion!"
+
+msgid "DHSpawnProtectMineVolume.UnprotectedVehicleWarning"
+msgstr "This vehicle has been spotted by the enemy!"
+
+msgid "DHSpawnProtectMineVolume.WarningMessage"
+msgstr "You have entered an enemy controlled area, fall back!"
+
+msgid "DHSquadInviteInteraction.PromptText"
+msgstr "{0} has invited you to join {1} squad."
+
+msgid "DHSquadInviteInteraction.Options[0].Text"
+msgstr "Accept"
+
+msgid "DHSquadInviteInteraction.Options[1].Text"
+msgstr "Decline"
+
+msgid "DHSquadInviteInteraction.Options[2].Text"
+msgstr "Ignore All"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.PromptText"
+msgstr "{volunteer} has volunteered to be the squad's assistant."
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options[0].Text"
+msgstr "Accept"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options[1].Text"
+msgstr "Decline"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options[2].Text"
+msgstr "Ignore All"
+
+msgid "DHSquadLeaderSayDeadMessage.MessagePrefix"
+msgstr "(DEAD) [SQUAD LEADER]"
+
+msgid "DHSquadLeaderSayMessage.MessagePrefix"
+msgstr "[SQUAD LEADER]"
+
+msgid "DHSquadLeaderVolunteerInteraction.PromptText"
+msgstr "Your squad needs a leader! Volunteer to be squad leader? ({time})"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options[0].Text"
+msgstr "Volunteer"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options[1].Text"
+msgstr "Decline"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options[2].Text"
+msgstr "Ignore All"
+
+msgid "DHSquadMergeRequestInteraction.PromptText"
+msgstr "{0} has offered to merge your squad into {1} squad."
+
+msgid "DHSquadMergeRequestInteraction.Options[0].Text"
+msgstr "Accept"
+
+msgid "DHSquadMergeRequestInteraction.Options[1].Text"
+msgstr "Decline"
+
+msgid "DHSquadMergeRequestInteraction.Options[2].Text"
+msgstr "Ignore All"
+
+msgid "DHSquadMessage.JoinedMessage"
+msgstr "{0} has joined the squad."
+
+msgid "DHSquadMessage.LeftMessage"
+msgstr "{0} has left the squad."
+
+msgid "DHSquadMessage.KickedMessage"
+msgstr "You have been kicked from the squad."
+
+msgid "DHSquadMessage.NoLongerLeaderMessage"
+msgstr "You are no longer the squad leader."
+
+msgid "DHSquadMessage.YouAreNowLeaderMessage"
+msgstr "You are now the squad leader."
+
+msgid "DHSquadMessage.NewLeaderMessage"
+msgstr "{0} has become the squad leader."
+
+msgid "DHSquadMessage.InviteAlreadyInSquadMessage"
+msgstr "{0} is already in a squad."
+
+msgid "DHSquadMessage.FullMessage"
+msgstr "You cannot be send invitations because the squad is full."
+
+msgid "DHSquadMessage.InvitePendingMessage"
+msgstr "{0} has already been invited to join a squad. Please try again later."
+
+msgid "DHSquadMessage.InviteSentMessage"
+msgstr "{0} has been invited to join the squad."
+
+msgid "DHSquadMessage.NoLeaderMessage"
+msgstr "The squad leader has left the squad."
+
+msgid "DHSquadMessage.LockedMessage"
+msgstr "The squad has been locked."
+
+msgid "DHSquadMessage.UnlockedMessage"
+msgstr "The squad has been unlocked."
+
+msgid "DHSquadMessage.CreatedMessage"
+msgstr "You have created a squad."
+
+msgid "DHSquadMessage.RallyPointActiveMessage"
+msgstr "Your squad has established a new rally point."
+
+msgid "DHSquadMessage.RallyPointTooCloseMessage"
+msgstr "You cannot create a rally point so close to an existing one, you must be {0} meters further away."
+
+msgid "DHSquadMessage.RallyPointExhaustedMessage"
+msgstr "A squad rally point has been exhausted."
+
+msgid "DHSquadMessage.RallyPointNeedSquadmateNearby"
+msgstr "You must have at least one other squadmate nearby to create a squad rally point."
+
+msgid "DHSquadMessage.RallyPointCreatedMessage"
+msgstr "You have created a squad rally point. Secure the area with your squad to establish this rally point."
+
+msgid "DHSquadMessage.RallyPointOverrunMessage"
+msgstr "A squad rally point has been overrun by enemies."
+
+msgid "DHSquadMessage.RallyPointGroundTooSteep"
+msgstr "The ground is too steep to establish a rally point here."
+
+msgid "DHSquadMessage.RallyPointInMinefield"
+msgstr "You cannot create a squad rally point in a minefield."
+
+msgid "DHSquadMessage.RallyPointInWater"
+msgstr "You cannot create a squad rally point in water."
+
+msgid "DHSquadMessage.RallyPointNotOnFoot"
+msgstr "You must be on foot to create a rally point."
+
+msgid "DHSquadMessage.RallyPointTooSoon"
+msgstr "You must wait {0} seconds until your squad can create a rally point."
+
+msgid "DHSquadMessage.RallyPointAbandoned"
+msgstr "A squad rally point failed to be established because it was abandoned."
+
+msgid "DHSquadMessage.RallyPointBadLocation"
+msgstr "A squad rally point cannot be created at this location."
+
+msgid "DHSquadMessage.RallyPointRemoved"
+msgstr "The squad leader has forcibly removed a rally point."
+
+msgid "DHSquadMessage.RallyPointAbandonmentWarning"
+msgstr "A newly created squad rally point is being abandoned!"
+
+msgid "DHSquadMessage.RallyPointSwapped"
+msgstr "The squad leader has forcibly changed the currently active rally point."
+
+msgid "DHSquadMessage.RallyPointTooCloseToConstruction"
+msgstr "You cannot create a squad rally point so close to a {0}."
+
+msgid "DHSquadMessage.RallyPointDestroyed"
+msgstr "A squad rally point has been destroyed."
+
+msgid "DHSquadMessage.RallyPointInUncontrolledObjective"
+msgstr "You cannot create a squad rally point inside an uncontrolled objective."
+
+msgid "DHSquadMessage.RallyPointExposed"
+msgstr "A squad rally point has been spotted by the enemy!"
+
+msgid "DHSquadMessage.RallyPointBehindEnemyLines"
+msgstr "A squad rally point cannot be created in enemy-controlled territory."
+
+msgid "DHSquadMessage.BannedPlayer"
+msgstr "{0} has been banned from the squad."
+
+msgid "DHSquadMessage.BannedCannotJoin"
+msgstr "You are unable to join this squad as you have been banned."
+
+msgid "DHSquadMessage.AutoJoinFailed"
+msgstr "There are no squads that you are eligible to join."
+
+msgid "DHSquadMessage.YouLeft"
+msgstr "You have left the squad."
+
+msgid "DHSquadMessage.YouVolunteeredToBeSquadLeader"
+msgstr "You have volunteered to be the squad leader. The new squad leader will be selected shortly."
+
+msgid "DHSquadMessage.NoVolunteers"
+msgstr "No members volunteered to be squad leader."
+
+msgid "DHSquadMessage.NoVolunteersDisbanded"
+msgstr "Your squad has been disbanded because the squad is too small and no members volunteered to be squad leader."
+
+msgid "DHSquadMessage.AlreadyInSquad"
+msgstr "You are already in a squad."
+
+msgid "DHSquadMessage.YouAreNowAssistantMessage"
+msgstr "You are now the squad leader's assistant."
+
+msgid "DHSquadMessage.YouAreNoLongerAssistantMessage"
+msgstr "You are no longer the squad leader's assistant."
+
+msgid "DHSquadMessage.NewAssistantMessage"
+msgstr "{0} has been promoted to squad leader's assistant."
+
+msgid "DHSquadMessage.NotInSquadMessage"
+msgstr "You are not in a squad. Press [%SQUADMENU%] to enter the squad menu or press [%SQUADJOINAUTO%] to automatically join a squad."
+
+msgid "DHSquadMessage.SquadMergedSourceMessage"
+msgstr "Your squad has been merged into {0} squad. Your new squad leader is {1}."
+
+msgid "DHSquadMessage.SquadMergedSourceGenericMessage"
+msgstr "Your squad has been merged into another squad."
+
+msgid "DHSquadMessage.SquadMergedDestinationMessage"
+msgstr "Another squad has been merged into your squad."
+
+msgid "DHSquadMessage.SquadMergeRequestDeniedMessage"
+msgstr "Your squad merge request was denied by {0} squad."
+
+msgid "DHSquadMessage.SquadMergeRequestDeniedGenericMessage"
+msgstr "Your squad merge was denied."
+
+msgid "DHSquadMessage.SquadMergeFailedMessage"
+msgstr "The squad merge failed,"
+
+msgid "DHSquadMessage.SquadTargetSelectionRefused"
+msgstr "You are an artillery spotter. You cannot switch the active artillery target to your own marker."
+
+msgid "DHSquadMessage.SquadPromotionRequestDeniedMessage"
+msgstr "Your squad leader promotion request was denied by {0}."
+
+msgid "DHSquadMessage.SquadPromotionRequestAcceptedMessage"
+msgstr "Your squad leader promotion request was accepted by {0}."
+
+msgid "DHSquadMessage.SquadPromotionRequestSentMessage"
+msgstr "A squad leader promotion request has been sent to {0}."
+
+msgid "DHSquadMessage.SquadPromotionRequestDuplicateMessage"
+msgstr "You have already sent {0} a squad promotion request."
+
+msgid "DHSquadOrderMessage.WaitText"
+msgstr "Please wait before making a new order"
+
+msgid "DHSquadOrderMessage.AttackText"
+msgstr "Squad leader has issued a new Attack order"
+
+msgid "DHSquadOrderMessage.DefendText"
+msgstr "Squad leader has issued a new Defend order"
+
+msgid "DHSquadOrderMessage.MoveText"
+msgstr "Squad leader has issued a new Move order"
+
+msgid "DHSquadOrderMessage.AttentionText"
+msgstr "Squad leader has issued a new Attention order"
+
+msgid "DHSquadPromotionRequestInteraction.PromptText"
+msgstr "{0} wants to promote you to leader of {1} squad."
+
+msgid "DHSquadPromotionRequestInteraction.Options[0].Text"
+msgstr "Accept"
+
+msgid "DHSquadPromotionRequestInteraction.Options[1].Text"
+msgstr "Decline"
+
+msgid "DHSquadPromotionRequestInteraction.Options[2].Text"
+msgstr "Ignore All"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings[0]"
+msgstr "Please wait a short time before sending another squad merge request."
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings[1]"
+msgstr "An error occurred while sending the squad merge request."
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings[2]"
+msgstr "A merge request cannot be sent to this squad."
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings[3]"
+msgstr "There is already an existing merge request for this squad."
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings[4]"
+msgstr "Squad merge request has been sent."
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings[0]"
+msgstr "An error occurred while sending the squad merge request."
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings[1]"
+msgstr "There is already an existing squad leader promotion request for this player."
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings[2]"
+msgstr "Squad leader promotion request has been sent."
+
+msgid "DHSquadSayMessage.MessagePrefix"
+msgstr "[SQUAD]"
+
+msgid "DHSupplyMessage.SuppliesUnloaded"
+msgstr "{0} supplies have been unloaded from the vehicle to a nearby {1}"
+
+msgid "DHSupplyMessage.SuppliesLoaded"
+msgstr "{0} supplies have been loaded into the vehicle from a nearby {1}"
+
+msgid "DHSupplyMessage.VehicleFull"
+msgstr "The vehicle's supply cache is full."
+
+msgid "DHSupplyMessage.VehicleEmpty"
+msgstr "The vehicle's supply cache is empty."
+
+msgid "DHSupplyMessage.NoSupplyCaches"
+msgstr "There are no nearby supply caches."
+
+msgid "DHSupplyMessage.SupplyCacheEmpty"
+msgstr "The nearby supply cache is empty."
+
+msgid "DHSupplyMessage.SupplyCacheFull"
+msgstr "The nearby supply cache is full."
+
+msgid "DHSupplyMessage.SupplyCacheFallbackName"
+msgstr "supply cache"
+
+msgid "DHSupplyVehicleMessage.Controls[0].Text"
+msgstr "Load Supplies"
+
+msgid "DHSupplyVehicleMessage.Controls[1].Text"
+msgstr "Unload Supplies"
+
+msgid "DHTeamKillInteraction.PromptText"
+msgstr "{0} has team-killed you!"
+
+msgid "DHTeamKillInteraction.Options[0].Text"
+msgstr "Forgive"
+
+msgid "DHTeamKillInteraction.Options[1].Text"
+msgstr "Punish"
+
+msgid "DHTeamSayMessage.MessagePrefix"
+msgstr "[TEAM]"
+
+msgid "DHTeamSurrenderVoteMessage.VoteSucceededText"
+msgstr "The vote to retreat has succeeded ({0})."
+
+msgid "DHTeamSurrenderVoteMessage.VoteFailedText"
+msgstr "The vote to retreat has failed ({0})."
+
+msgid "DHTeamSurrenderVoteMessage.VoteSummaryText"
+msgstr "Yes: {0}, Needed: {1}"
+
+msgid "DHTeamSurrenderVoteMessage.VoteNominatedText"
+msgstr "{0} has nominated to retreat."
+
+msgid "DHTeamSurrenderVoteMessage.VoteNominationsRemainingText"
+msgstr "Need {0} more nomination{1} to start the vote."
+
+msgid "DHThrowableExplosiveDamageType.DeathString"
+msgstr "%o was blown up by %k's %w."
+
+msgid "DHThrowableExplosiveDamageType.FemaleSuicide"
+msgstr "%o was blown up by her own %w."
+
+msgid "DHThrowableExplosiveDamageType.MaleSuicide"
+msgstr "%o was blown up by his own %w."
+
+msgid "DHVehicle.VehicleNameString"
+msgstr "ADD VehicleNameString !!"
+
+msgid "DHVehicleBurningDamageType.DeathString"
+msgstr "%o was burned up in a vehicle fire that %k started."
+
+msgid "DHVehicleBurningDamageType.FemaleSuicide"
+msgstr "%o burned up in a vehicle fire."
+
+msgid "DHVehicleBurningDamageType.MaleSuicide"
+msgstr "%o burned up in a vehicle fire."
+
+msgid "DHVehicleCannon.ProjectileDescriptions[0]"
+msgstr "APCBC"
+
+msgid "DHVehicleCannon.ProjectileDescriptions[1]"
+msgstr "HE"
+
+msgid "DHVehicleCannonPawn.RangeText"
+msgstr "metres"
+
+msgid "DHVehicleCannonPawn.HudName"
+msgstr "Cmdr"
+
+msgid "DHVehicleCollisionDamageType.DeathString"
+msgstr "%o was killed in a crash with %k's vehicle."
+
+msgid "DHVehicleCollisionDamageType.FemaleSuicide"
+msgstr "%o was killed in a vehicle crash."
+
+msgid "DHVehicleCollisionDamageType.MaleSuicide"
+msgstr "%o was killed in a vehicle crash."
+
+msgid "DHVehicleMGPawn.HudName"
+msgstr "MG"
+
+msgid "DHVehicleMessage.AllRiderPositionsFull"
+msgstr "All rider positions are occupied"
+
+msgid "DHVehicleMessage.NoRiderPositions"
+msgstr "Cannot ride on this vehicle"
+
+msgid "DHVehicleMessage.VehicleBurning"
+msgstr "Vehicle is on fire!"
+
+msgid "DHVehicleMessage.OpenHatchToExit"
+msgstr "You must unbutton the hatch {0} to exit"
+
+msgid "DHVehicleMessage.ExitCommandersHatch"
+msgstr "You must exit through commander's hatch"
+
+msgid "DHVehicleMessage.ExitDriverOrComHatch"
+msgstr "Exit through driver's or commander's hatch"
+
+msgid "DHVehicleMessage.ExitCommandersOrMGHatch"
+msgstr "Exit through commander's or MG hatch"
+
+msgid "DHVehicleMessage.CantFindExitPosition"
+msgstr "No exit location can be found"
+
+msgid "DHVehicleMessage.VehicleNowLocked"
+msgstr "Tank crew positions in this vehicle have now been locked"
+
+msgid "DHVehicleMessage.VehicleNowUnlocked"
+msgstr "Tank crew positions in this vehicle have now been unlocked"
+
+msgid "DHVehicleMessage.AbandonedVehicleUnlocked"
+msgstr "You left your locked vehicle for too long and it's now unlocked"
+
+msgid "DHVehicleMessage.CantEnterLockedVehicle"
+msgstr "This vehicle has been locked by its crew"
+
+msgid "DHVehicleMessage.MapDisabledVehicleLocking"
+msgstr "This map doesn't allow vehicles to be locked"
+
+msgid "DHVehicleMessage.CantLockNonCrewVehicle"
+msgstr "Can't lock vehicle as it can be driven by non-tank crew roles"
+
+msgid "DHVehicleMessage.OnlyTankCrewCanLockVehicle"
+msgstr "Only tank crew roles can lock or unlock vehicle"
+
+msgid "DHVehicleMessage.CanOnlyLockFromCrewPosition"
+msgstr "Can only lock or unlock vehicle if you are in a tank crew position"
+
+msgid "DHVehicleMessage.OtherCrewmanCanLockVehicle"
+msgstr "Only the most senior crew position can lock or unlock vehicle"
+
+msgid "DHVehicleMessage.UnbuttonToReload"
+msgstr "You must unbutton the hatch {0} to reload"
+
+msgid "DHVehicleMessage.VehicleScuttleInitiated"
+msgstr "currently deprecated"
+
+msgid "DHVehicleMessage.UnbuttonHatchToChangePosition"
+msgstr "You must unbutton the hatch {0} to change position"
+
+msgid "DHVehicleMessage.NotQualified"
+msgstr "Not qualified to operate this vehicle"
+
+msgid "DHVehicleMessage.VehicleIsEnemy"
+msgstr "Cannot use an enemy vehicle"
+
+msgid "DHVehicleMessage.CannotEnter"
+msgstr "Vehicle is full"
+
+msgid "DHVehiclePoolMessage.ActivatedMessage"
+msgstr "A Vehicle Pool has been activated."
+
+msgid "DHVehiclePoolMessage.DestroyedMessage"
+msgstr "A Vehicle Pool has been destroyed."
+
+msgid "DHVehicleSayMessage.MessagePrefix"
+msgstr "[VEHICLE]"
+
+msgid "DHVehicleTouchMessage.TouchMessage"
+msgstr "Press [%USE%] to enter {0}"
+
+msgid "DHVehicleVoiceSayMessage.MessagePrefix"
+msgstr "[VOICE]"
+
+msgid "DHVoicePack.EnemyAbbrevAxis[3]"
+msgstr "Pioneer"
+
+msgid "DHVoiceReplicationInfo.LocalChannelText"
+msgstr "Local"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[0]"
+msgstr "Command"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[1]"
+msgstr "Command"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[2]"
+msgstr "Unassigned"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[3]"
+msgstr "Unassigned"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[4]"
+msgstr "Squad"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[5]"
+msgstr "Squad"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[6]"
+msgstr "Squad"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[7]"
+msgstr "Squad"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[8]"
+msgstr "Squad"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[9]"
+msgstr "Squad"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[10]"
+msgstr "Squad"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[11]"
+msgstr "Squad"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[12]"
+msgstr "Squad"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[13]"
+msgstr "Squad"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[14]"
+msgstr "Squad"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[15]"
+msgstr "Squad"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[16]"
+msgstr "Squad"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[17]"
+msgstr "Squad"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[18]"
+msgstr "Squad"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames[19]"
+msgstr "Squad"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec[0].CodecName"
+msgstr "Better Quality"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec[0].CodecName.CodecDescription"
+msgstr "(9.6kbps) - Uses more bandwidth, but sound is much clearer."
+
+msgid "DHVoiceReplicationInfo.InstalledCodec[1].CodecName"
+msgstr "Better Quality"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec[1].CodecName.CodecDescription"
+msgstr "(9.6kbps) - Uses more bandwidth, but sound is much clearer."
+
+msgid "DHVoiceSayMessage.MessagePrefix"
+msgstr "[VOICE]"
+
+msgid "DHVoteInfo.Options[0].Text"
+msgstr "Yes"
+
+msgid "DHVoteInfo.Options[1].Text"
+msgstr "No"
+
+msgid "DHVoteInfo_TeamSurrender.QuestionText"
+msgstr "Do you want to retreat to fight another day?"
+
+msgid "DHVoteMessage.VoteReceievedText"
+msgstr "Your vote has been received."
+
+msgid "DHVoteMessage.VoteConcludedText"
+msgstr "The vote has concluded."
+
+msgid "DHVotingHandler.lmsgMapVotedTooRecently"
+msgstr "Please wait %seconds% seconds before voting another map!"
+
+msgid "DHVotingHandler.SwapAndRestartText"
+msgstr "DH-[Swap Teams and Restart]"
+
+msgid "DHWeaponBashDamageType.DeathString"
+msgstr "%o was bludgeoned to death by %k's %w."
+
+msgid "DHWeaponBashDamageType.FemaleSuicide"
+msgstr "%o bludgeoned herself to death with her own %w."
+
+msgid "DHWeaponBashDamageType.MaleSuicide"
+msgstr "%o bludgeoned himself to death with his own %w."
+
+msgid "DHWeaponBayonetDamageType.DeathString"
+msgstr "%o was skewered on %k's %w bayonet."
+
+msgid "DHWeaponBayonetDamageType.FemaleSuicide"
+msgstr "%o skewered herself on her own %w bayonet."
+
+msgid "DHWeaponBayonetDamageType.MaleSuicide"
+msgstr "%o skewered himself on his own %w bayonet."
+
+msgid "DHWeaponPickup.TouchMessage"
+msgstr "Press {1} to pick up {0}"
+
+msgid "DHWeaponPickup.PickupMessage"
+msgstr "You got the {0}"
+
+msgid "DHWeaponProjectileDamageType.DeathString"
+msgstr "%o was killed by %k's %w."
+
+msgid "DHWeaponProjectileDamageType.FemaleSuicide"
+msgstr "%o was killed by her own %w."
+
+msgid "DHWeaponProjectileDamageType.MaleSuicide"
+msgstr "%o was killed by his own %w."
+
+msgid "DHWeaponsLockedMessage.LockedFFMessage"
+msgstr "Your weapons have been locked due to friendly fire!"
+
+msgid "DHWeaponsLockedMessage.LockedSKMessage"
+msgstr "Your weapons have been locked due to excessive spawn killing!"
+
+msgid "DHWeaponsLockedMessage.LockedWithTimerMessage"
+msgstr "Your weapons are locked for {0} seconds"
+
+msgid "DHWeaponsLockedMessage.LockedSetupPhaseMessage"
+msgstr "Your weapons are locked during the setup phase"
+
+msgid "DHWeaponsLockedMessage.UnlockedMessage"
+msgstr "Your weapons are now unlocked"
+
+msgid "DHWeaponsLockedMessage.LockedFFSKMessage"
+msgstr "Your weapons have been locked due to spawn killing a friendly!"
+
+msgid "DH_ModifyRoundTimeMessage.IncreasedText"
+msgstr "increased"
+
+msgid "DH_ModifyRoundTimeMessage.DecreasedText"
+msgstr "decreased"
+
+msgid "DH_ModifyRoundTimeMessage.ChangedText"
+msgstr "changed"
+
+msgid "DH_ModifyRoundTimeMessage.RoundTimeModifiedText"
+msgstr "Time remaining has been {0}."
+
+msgid "DarkestHourGame.ROHints[0]"
+msgstr "You can see a map of the objectives that need to be captured or defended by pressing %SHOWOBJECTIVES%."
+
+msgid "DarkestHourGame.ROHints[1]"
+msgstr "You can 'cook' a Mk II grenade by pressing %FIRE3% while holding the grenade back."
+
+msgid "DarkestHourGame.ROHints[2]"
+msgstr "To capture an objective, you must first enter the objective area. You'll likely need more than one additional teammate to initiate and complete the capture."
+
+msgid "DarkestHourGame.ROHints[3]"
+msgstr "Press %PLAYERMENU 2% to change your player role while in-game, %PLAYERMENU% to change your team."
+
+msgid "DarkestHourGame.ROHints[4]"
+msgstr "To aim down the sights of your weapon and thus have better precision and accuracy, press the %ROIRONSIGHTS% key."
+
+msgid "DarkestHourGame.ROHints[5]"
+msgstr "You receive 10 points for helping to capture an objective."
+
+msgid "DarkestHourGame.ROHints[6]"
+msgstr "Crouching and going prone stabilizes your weapon and lowers recoil when firing."
+
+msgid "DarkestHourGame.ROHints[7]"
+msgstr "To regenerate stamina, stop and rest for a bit."
+
+msgid "DarkestHourGame.ROHints[8]"
+msgstr "You can deploy a Machine Gun on almost any object - press %DEPLOY% when you see the deployment icon appear to deploy it."
+
+msgid "DarkestHourGame.ROHints[9]"
+msgstr "When reloading, 'Magazine Heavy' indicates that the magazine you're loading into your weapon is more than half full of ammunition."
+
+msgid "DarkestHourGame.ROHints[10]"
+msgstr "You can reload your Machine Gun only when in the deployed state."
+
+msgid "DarkestHourGame.ROHints[11]"
+msgstr "Players receive 1 point for resupplying Machine Gunners who need ammo."
+
+msgid "DarkestHourGame.ROHints[12]"
+msgstr "The Machine Gun is more effective when fired in short, controllable bursts."
+
+msgid "DarkestHourGame.ROHints[13]"
+msgstr "You cannot change the 30 Cal barrel, be careful not to overheat!"
+
+msgid "DarkestHourGame.ROHints[14]"
+msgstr "When taking an objective, the presence of an officer boosts moral and makes your task easier!"
+
+msgid "DarkestHourGame.ROHints[15]"
+msgstr "Machine Gunners should never setup alone, find a comrade to watch your back."
+
+msgid "DarkestHourGame.ROHints[16]"
+msgstr "Machine Gunners have a limited field of vision while deployed, so try attacking them from the side."
+
+msgid "DarkestHourGame.ROHints[17]"
+msgstr "Once you've fired the Bazooka or Panzerschreck get to fresh cover FAST, as the smoke of your backblast will reveal your location. Return fire will almost certainly follow!"
+
+msgid "DarkestHourGame.ROHints[18]"
+msgstr "Do not stand directly behind rocket weapons when they're firing; you can sustain serious injury from the exhaust!"
+
+msgid "DarkestHourGame.ROHints[19]"
+msgstr "AT soldiers should always take a friend with them for ammo supplies, faster reloads and protection."
+
+msgid "DarkestHourGame.ROHints[20]"
+msgstr "AT weapons will be automatically unloaded if you change to another weapon. It is a good idea to stick with a teammate to speed up reloading when needed."
+
+msgid "DarkestHourGame.GameName"
+msgstr "DarkestHourGame"
+
