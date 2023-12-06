@@ -1,2 +1,67 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-07 00:37+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_equipment/uk/>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "DH_RedSmokeWeapon.ItemName"
+msgstr "Сигнальна граната M16"
+
+msgid "DHTrenchMaceItem_Bone.ItemName"
+msgstr "Костяна дубина"
+
+msgid "DH_NebelGranate39Weapon.ItemName"
+msgstr "Димова граната NB 39"
+
+msgid "DHShovelWarningMessage.CannotBeCrawling"
+msgstr "Ви не можете копати плазом."
+
+msgid "DHShovelItem.ItemName"
+msgstr "Лопата"
+
+msgid "DHWireCuttersItem.ItemName"
+msgstr "Болторіз"
+
+msgid "DHBinocularsItemAllied.ItemName"
+msgstr "Бінокль M13 6х30"
+
+msgid "DHTrenchMaceItem.ItemName"
+msgstr "Окопна палиця"
+
+msgid "DH_USSmokeGrenadeWeapon.ItemName"
+msgstr "Димова граната M8"
+
+msgid "DHTrenchMaceItem_Grenade.ItemName"
+msgstr "Окопна булава"
+
+msgid "DHBinocularsItemSoviet.ItemName"
+msgstr "Бінокль БПП 6x30"
+
+msgid "DHBinocularsItem.ItemName"
+msgstr "Бінокль"
+
+msgid "DHBinocularsItemGerman.ItemName"
+msgstr "Бінокль Zeiss Dienstglas 6x30"
+
+msgid "DH_RDG1SmokeGrenadeWeapon.ItemName"
+msgstr "Димова граната РДГ-1"
+
+msgid "DH_OrangeSmokeWeapon.ItemName"
+msgstr "Сигнальна граната RauchSichtzeichen Orange 160"
+
+msgid "DH_ParachuteItem.ItemName"
+msgstr "Парашут"
+
+msgid "DH_ParachuteStaticLine.ItemName"
+msgstr "Витяжний строп"
+
+msgid "DHRadioItem.ItemName"
+msgstr "Радіо"
