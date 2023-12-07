@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 21:45+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2023-12-07 02:01+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_italyplayers/ru/>\n"
 "Language: ru\n"
@@ -13,10 +13,10 @@ msgstr ""
 "X-Generator: Weblate 5.2.1\n"
 
 msgid "DHITAAntiTankRoles.AltName"
-msgstr "Anticarro Fuciliere"
+msgstr ""
 
 msgid "DHITASergeantRoles.AltName"
-msgstr "Sergente"
+msgstr ""
 
 msgid "DHItalyVoice.SupportStringAxis[5]"
 msgstr "We need a Panzerschreck!"
@@ -25,19 +25,19 @@ msgid "DHNation_Italy.NationName"
 msgstr "Kingdom of Italy"
 
 msgid "DHNation_Italy.NativeNationName"
-msgstr "Regno d'Italia"
+msgstr ""
 
 msgid "DHITARadioOperatorRoles.AltName"
-msgstr "Radiotelegrafista"
+msgstr ""
 
 msgid "DHITAMachineGunnerRoles.AltName"
-msgstr "Mitragliere"
+msgstr ""
 
 msgid "DHItalyVoice.SupportAbbrevAxis[5]"
 msgstr "Need a Panzerschreck"
 
 msgid "DHITATankCrewmanRoles.AltName"
-msgstr "Carrista"
+msgstr ""
 
 msgid "DHITARiflemanRoles.AltName"
-msgstr "Fuciliere"
+msgstr ""
