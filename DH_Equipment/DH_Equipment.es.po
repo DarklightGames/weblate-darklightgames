@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 19:08+0000\n"
+"PO-Revision-Date: 2023-12-08 01:15+0000\n"
 "Last-Translator: Argilas <argilas@hotmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/es/>\n"
@@ -43,3 +43,12 @@ msgstr "Paracaídas"
 
 msgid "DHRadioItem.ItemName"
 msgstr "Radio"
+
+msgid "DH_RedSmokeWeapon.ItemName"
+msgstr "Granada Señalizadora M16"
+
+msgid "DHBinocularsItemAllied.ItemName"
+msgstr "Binoculares M13 6x30"
+
+msgid "DH_OrangeSmokeWeapon.ItemName"
+msgstr "Granada Señalizadora RauchSichtzeichen Orange 160"
