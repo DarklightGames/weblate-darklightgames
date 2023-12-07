@@ -652,10 +652,16 @@ msgid "DHVehicleCannonPawn.HudName"
 msgstr "Командир"
 
 msgid "DHVehicleCollisionDamageType.FemaleSuicide"
-msgstr "%o погиб в автокатастрофе."
+msgstr "%o погибла в автокатастрофе."
 
 msgid "DHVehicleCannon.ProjectileDescriptions[0]"
 msgstr "Бронебойный (APCBC)"
 
 msgid "DHVehicleCollisionDamageType.DeathString"
 msgstr "%o погиб в результате столкновения с автомобилем %k."
+
+msgid "DHVehicleCollisionDamageType.MaleSuicide"
+msgstr "%o погиб в автокатастрофе."
+
+msgid "DHVehicleMGPawn.HudName"
+msgstr "MG"
