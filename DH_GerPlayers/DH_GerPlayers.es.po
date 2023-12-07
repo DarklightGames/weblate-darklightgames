@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 19:08+0000\n"
-"Last-Translator: Argilas <argilas@hotmail.com>\n"
+"PO-Revision-Date: 2023-12-07 01:35+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_gerplayers/es/>\n"
 "Language: es\n"
@@ -12,16 +12,16 @@ msgstr ""
 "X-Generator: Weblate 5.2.1\n"
 
 msgid "DH_WSSFireteamLeader_Autumn.AltName"
-msgstr "Rottenführer"
+msgstr ""
 
 msgid "DH_ZBerserker.AltName"
-msgstr "Berserker"
+msgstr ""
 
 msgid "DHGerVoice.SupportStringAxis[5]"
 msgstr "¡Necesitamos un Panzerschreck!"
 
 msgid "DH_12thSSSquadLeader.AltName"
-msgstr "Scharführer"
+msgstr ""
 
 msgid "DHNation_Germany.NationName"
 msgstr "Alemania"
@@ -36,16 +36,16 @@ msgid "DH_OstTruppenRifleman.MyName"
 msgstr "Fusilero de Tropa del Este"
 
 msgid "DH_12thSSFireteamLeader.AltName"
-msgstr "Rottenführer"
+msgstr ""
 
 msgid "DH_WSSFireteamLeader.AltName"
-msgstr "Rottenführer"
+msgstr ""
 
 msgid "DHNation_Germany.NativeNationName"
-msgstr "Deutschland"
+msgstr ""
 
 msgid "DH_WHSPCrew.AltName"
-msgstr "Stugbesatzung"
+msgstr ""
 
 msgid "DH_WHSPCrew.MyName"
 msgstr "Tripulante de Cañón de Asalto"
@@ -54,7 +54,7 @@ msgid "DH_ZBerserker.PluralName"
 msgstr "Berserkers"
 
 msgid "DH_WHArtilleryOfficer.AltName"
-msgstr "Artillerie Offizier"
+msgstr ""
 
 msgid "DH_OstTruppenRifleman.PluralName"
 msgstr "Fusileros de Tropa del Este"
@@ -63,7 +63,7 @@ msgid "DH_WHArtilleryOfficer.PluralName"
 msgstr "Oficiales de artillería"
 
 msgid "DH_WKSquadLeader.AltName"
-msgstr "Scharführer"
+msgstr ""
 
 msgid "DH_ZBerserker.MyName"
 msgstr "Berserker"
@@ -75,7 +75,7 @@ msgid "DHZVoice.SupportStringAxis[5]"
 msgstr "¡Necesitamos un Panzerschreck!"
 
 msgid "DH_OstTruppenRifleman.AltName"
-msgstr "Soldado de Tropa del Este"
+msgstr ""
 
 msgid "DH_ZLeader.AltName"
-msgstr "Líder Zombi"
+msgstr ""
