@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 09:25+0000\n"
+"PO-Revision-Date: 2023-12-08 01:15+0000\n"
 "Last-Translator: Argilas <argilas@hotmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
@@ -136,3 +136,440 @@ msgstr "Alcance"
 
 msgid "DHArtillerySpottingScope.NoTargetsHint"
 msgstr ""
+
+msgid "DHAxisCorporalRoles.MyName"
+msgstr "Cabo"
+
+msgid "DHAxisCorporalRoles.PluralName"
+msgstr "Cabos"
+
+msgid "DHAxisEngineerRoles.MyName"
+msgstr "Zapador"
+
+msgid "DHAxisEngineerRoles.PluralName"
+msgstr "Zapadores"
+
+msgid "DHAxisMachineGunnerRoles.MyName"
+msgstr "Ametrallador"
+
+msgid "DHAxisMortarmanRoles.MyName"
+msgstr "Operador de Mortero"
+
+msgid "DHAxisMachineGunnerRoles.PluralName"
+msgstr "Ametralladores"
+
+msgid "DHAxisMarksmanRoles.MyName"
+msgstr "Tirador"
+
+msgid "DHAxisMortarmanRoles.PluralName"
+msgstr "Operadores de Mortero"
+
+msgid "DHAxisRadioOperatorRoles.MyName"
+msgstr "Operador de Radio"
+
+msgid "DHAxisRadioOperatorRoles.PluralName"
+msgstr "Operador de Radio"
+
+msgid "DHAxisRiflemanRoles.MyName"
+msgstr "Fusilero"
+
+msgid "DHAxisRiflemanRoles.PluralName"
+msgstr "Fusileros"
+
+msgid "DHAxisSergeantRoles.MyName"
+msgstr "Sargento"
+
+msgid "DHAxisSergeantRoles.PluralName"
+msgstr "Sargentos"
+
+msgid "DHAxisSniperRoles.MyName"
+msgstr "Francotirador"
+
+msgid "DHAxisSniperRoles.PluralName"
+msgstr "Francotiradores"
+
+msgid "DHAxisTankCrewmanRoles.MyName"
+msgstr "Tanquista"
+
+msgid "DHAxisTankCrewmanRoles.PluralName"
+msgstr "Tanquistas"
+
+msgid "DHBritishCannonPawn.RangeText"
+msgstr "yardas"
+
+msgid "DHCommandMenu_ATGun.CooldownText"
+msgstr "Espera"
+
+msgid "DHCommandMenu_FireSupport.UnavailableText"
+msgstr "No disponible"
+
+msgid "DHCommandMenu_Radio.AvailableText"
+msgstr "Disponible"
+
+msgid "DHCommandMenu_SquadLeader.InEnemyTerritory"
+msgstr "En territorio enemigo"
+
+msgid "DHConstructionSupplyAttachment.HumanReadableName"
+msgstr "Depósito de Suministros"
+
+msgid "DHEnemyInformationMsg.EnemyIsWeak"
+msgstr "El enemigo está casi sin refuerzos, ¡la victoria está cerca!"
+
+msgid "DHEnemyInformationMsg.EnemyIsSurrendering"
+msgstr "¡El enemigo se está retirando, la batalla terminará pronto!"
+
+msgid "DHFriendlyInformationMsg.TeamSurrendered"
+msgstr "¡Tu equipo ha decidido retirarse, la batalla terminará pronto!"
+
+msgid "DHGameMessage.RoleInvalidatedMessage"
+msgstr "Ya no estás cualificado para ser {article}{name}."
+
+msgid "DHGameReplicationInfo.ForceScaleText"
+msgstr "Tamaño"
+
+msgid "DHGameType_Defence.GameTypeName"
+msgstr "Defensa"
+
+msgid "DHGameType_Domination.GameTypeName"
+msgstr "Dominación"
+
+msgid "DHHintManager.Hints[0].Title"
+msgstr "¡Bienvenido a Darkest Hour!"
+
+msgid "DHHintManager.Hints[0].Text"
+msgstr ""
+"Estos mensajes con pistas aparecerán periódicamente en el juego. ¡Préstales "
+"atención, tu supervivencia podría depender de ello! Se pueden desactivar "
+"desde la pestaña HUD en el menú de configuración."
+
+msgid "DHHintManager.Hints[2].Title"
+msgstr "Paracaídas"
+
+msgid "DHHintManager.Hints[2].Text"
+msgstr ""
+"¡Puedes guiar la trayectoria de tu paracaídas con tus teclas de movimiento!"
+
+msgid "DHHintManager.Hints[3].Title"
+msgstr "Granadas de humo coloreado"
+
+msgid "DHHintManager.Hints[3].Text"
+msgstr ""
+"Las granadas de humo coloreado se utilizan para comunicarte en el campo de "
+"batalla con tus compañeros de equipo. Asegúrate de decir a tus compañeros de "
+"equipo lo que indica el color de humo."
+
+msgid "DHHintManager.Hints[6].Title"
+msgstr "Morteros"
+
+msgid "DHHintManager.Hints[12].Title"
+msgstr "Binoculares"
+
+msgid "DHHintManager.Hints[13].Title"
+msgstr "Operador de Radio"
+
+msgid "DHHintManager.Hints[62].Title"
+msgstr "Sobrecalentamiento del Cañón"
+
+msgid "DHHintManager.Hints[62].Text"
+msgstr ""
+"¡El cañón de tu arma se está sobrecalentando! El sobrecalentamiento de los "
+"cañones reducirá su precisión y acabará destruyéndolos."
+
+msgid "DHHintManager.Hints[64].Title"
+msgstr "Cañón destruido"
+
+msgid "DHHud.NoTimeLimitText"
+msgstr "Ilimitado"
+
+msgid "DHHud.AndMoreText"
+msgstr "Y más..."
+
+msgid "DHHud.LegendAlliesObjectiveText"
+msgstr "Territorio Aliado"
+
+msgid "DHIQMessage.MemberAWOLMessage"
+msgstr "Estás abandonando tu escuadrón."
+
+msgid "DHIQMessage.NotInSquadMessage"
+msgstr "No estás en un escuadrón."
+
+msgid "DHIQMessage.Congratulations[0]"
+msgstr "¡Guau! ¡Qué inteligente!"
+
+msgid "DHIQMessage.Congratulations[1]"
+msgstr "¡Asombroso!"
+
+msgid "DHIQMessage.Congratulations[2]"
+msgstr "¡Eres un genio táctico!"
+
+msgid "DHIQMessage.Congratulations[3]"
+msgstr "¡Bien hecho!"
+
+msgid "DHIQMessage.Congratulations[6]"
+msgstr "¡Brillante!"
+
+msgid "DHIQMessage.Congratulations[7]"
+msgstr "¡Eres el más listo!"
+
+msgid "DHInventorySpawner.ContainerNoun"
+msgstr "Caja"
+
+msgid "DHLastObjectiveMessage.AlliesAboutToWinMessage"
+msgstr "Último objetivo -- ¡Los Aliados casi han ganado la batalla!"
+
+msgid "DHLib.ServerHealthStages[0].Text"
+msgstr "Excelente"
+
+msgid "DHLib.ServerHealthStages[1].Text"
+msgstr "Bueno"
+
+msgid "DHLib.ServerHealthStages[3].Text"
+msgstr "Pobre"
+
+msgid "DHLib.ServerHealthStages[2].Text"
+msgstr "Regular"
+
+msgid "DHLib.ServerHealthStages[4].Text"
+msgstr "Pésimo"
+
+msgid "DHMapMarker_Enemy_ATGun.MarkerName"
+msgstr "Cañón AT enemigo"
+
+msgid "DHMapMarker_Enemy_Infantry.MarkerName"
+msgstr "Infantería enemiga"
+
+msgid "DHMapMarker_Enemy_Tank.MarkerName"
+msgstr "Tanque enemigo"
+
+msgid "DHMapMarker_Enemy_Vehicle.MarkerName"
+msgstr "Vehículo enemigo"
+
+msgid "DHObjectiveMessage.TeamStrings[0]"
+msgstr "Eje"
+
+msgid "DHObjectiveMessage.TeamStrings[1]"
+msgstr "Aliados"
+
+msgid "DHObjectiveMessage.NotificationTypes[1]"
+msgstr "capturado"
+
+msgid "DHObjectiveMessage.NotificationTypes[0]"
+msgstr "neutralizado"
+
+msgid "DHObjectiveMessage.NotificationTypes[2]"
+msgstr "asegurado"
+
+msgid "DHPawnTouchMessage.Messages[0]"
+msgstr "Pulsa [%THROWMGAMMO%] para reabastecer {0}"
+
+msgid "DHPawnTouchMessage.Messages[1]"
+msgstr "Pulsa [%THROWMGAMMO%] para recargar {0}"
+
+msgid "DHRadioTouchMessage.NotOwnedMessage"
+msgstr "No puedes usar radios enemigas"
+
+msgid "DHRadioTouchMessage.BusyMessage"
+msgstr "La Radio está actualmente en uso"
+
+msgid "DHReinforcementAwardMsg.ReinforcementLoss"
+msgstr "¡Tu equipo ha perdido {0} refuerzos por perder {1}!"
+
+msgid "DHReinforcementAwardMsg.ReinforcementAttrition"
+msgstr "¡¡¡Tu equipo está perdiendo refuerzos considerables por desgaste!!!"
+
+msgid "DHReinforcementMsg.ReinforcementsRemaining"
+msgstr "¡A tu equipo le queda {0}% de refuerzos!"
+
+msgid "DHReinforcementMsg.ReinforcementsDepleted"
+msgstr "¡Tu equipo se ha quedado sin refuerzos!"
+
+msgid "DHResupplyMessage.HaveResupplied"
+msgstr "Has reabastecido a {0}"
+
+msgid "DHResupplyMessage.BeenResupplied"
+msgstr "Has sido reabastecido por {0}"
+
+msgid "DHScoreCategory_Combat.HumanReadableName"
+msgstr "Combate"
+
+msgid "DHScoreCategory_Support.HumanReadableName"
+msgstr "Apoyo"
+
+msgid "DHScoreEvent_ObjectiveCapture.HumanReadableName"
+msgstr "Objetivo Capturado"
+
+msgid "DHScoreEvent_ObjectiveNeutralize.HumanReadableName"
+msgstr "Objetivo Neutralizado"
+
+msgid "DHSetupPhaseMessage.PhaseMessage"
+msgstr "La batalla comienza dentro de {0}"
+
+msgid "DHSetupPhaseMessage.PhaseEndMessage"
+msgstr "¡La batalla ha comenzado!"
+
+msgid "DHSignal_Fire.SignalName"
+msgstr "Fuego"
+
+msgid "DHSpawnProtectMineVolume.SafePeriodWarningMessage"
+msgstr ""
+"¡Esta es ahora una zona controlada por el enemigo! ¡Tienes %remaining% "
+"segundos para regresar a tus líneas!"
+
+msgid "DHSpawnProtectMineVolume.SpawnMFActivatedMessage"
+msgstr "¡Esta es ahora una zona controlada por el enemigo, retrocede!"
+
+msgid "DHSpawnProtectMineVolume.ExitedMinefieldMessage"
+msgstr ""
+"Has abandonado territorio enemigo. ¡Volver allí será considerado deserción!"
+
+msgid "DHSpawnProtectMineVolume.UnprotectedVehicleWarning"
+msgstr "¡Este vehículo ha sido visto por el enemigo!"
+
+msgid "DHSpawnProtectMineVolume.WarningMessage"
+msgstr "¡Has entrado en una zona controlada por el enemigo, retrocede!"
+
+msgid "DHSquadInviteInteraction.Options[1].Text"
+msgstr "Declina"
+
+msgid "DHSquadInviteInteraction.Options[2].Text"
+msgstr "Haz caso omiso a todo"
+
+msgid "DHSquadMessage.KickedMessage"
+msgstr "Has sido expulsado del escuadrón."
+
+msgid "DHVoiceReplicationInfo.InstalledCodec[0].CodecName"
+msgstr "Mejor Calidad"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec[0].CodecName.CodecDescription"
+msgstr ""
+"(9,6kbps) - Utiliza más ancho de banda, pero el sonido es mucho más claro."
+
+msgid "DHVoiceReplicationInfo.InstalledCodec[1].CodecName"
+msgstr "Mejor Calidad"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec[1].CodecName.CodecDescription"
+msgstr ""
+"(9,6kbps) - Utiliza más ancho de banda, pero el sonido es mucho más claro."
+
+msgid "DHVoteInfo.Options[0].Text"
+msgstr "Sí"
+
+msgid "DHVoteInfo.Options[1].Text"
+msgstr "No"
+
+msgid "DHVoteInfo_TeamSurrender.QuestionText"
+msgstr "¿Quieres retirarte para luchar otro día?"
+
+msgid "DHVoteMessage.VoteReceievedText"
+msgstr "Tu voto se ha recibido."
+
+msgid "DHVoteMessage.VoteConcludedText"
+msgstr "La votación ha concluido."
+
+msgid "DHVotingHandler.lmsgMapVotedTooRecently"
+msgstr "Por favor, ¡espera %segundos% segundos antes de votar otro mapa!"
+
+msgid "DHVotingHandler.SwapAndRestartText"
+msgstr "DH-[Intercambiar equipos y reiniciar]"
+
+msgid "DHWeaponsLockedMessage.LockedFFMessage"
+msgstr "¡Tus armas han sido bloqueadas debido a fuego amigo!"
+
+msgid "DHWeaponsLockedMessage.UnlockedMessage"
+msgstr "Tus armas han sido desbloqueadas ahora"
+
+msgid "DarkestHourGame.ROHints[2]"
+msgstr ""
+"Para capturar un objetivo, primero debes entrar en la zona del objetivo. Es "
+"probable que necesites más de un compañero de equipo adicional para iniciar "
+"y completar la captura."
+
+msgid "DarkestHourGame.ROHints[5]"
+msgstr "Recibes 10 puntos por ayudar a capturar un objetivo."
+
+msgid "DarkestHourGame.ROHints[11]"
+msgstr ""
+"Los jugadores reciben 1 punto por reabastecer a los ametralladores que "
+"necesitan munición."
+
+msgid "DarkestHourGame.ROHints[14]"
+msgstr ""
+"¡Al tomar un objetivo, la presencia de un oficial aumenta la moral y "
+"facilita la tarea!"
+
+msgid "DarkestHourGame.ROHints[15]"
+msgstr ""
+"Los ametralladores nunca deben situarse solos, busca un camarada que te "
+"cubra las espaldas."
+
+msgid "DarkestHourGame.ROHints[16]"
+msgstr ""
+"Los ametralladores tienen un campo de visión limitado mientras están "
+"desplegados, así que intenta atacarlos por los lados."
+
+msgid "DarkestHourGame.ROHints[18]"
+msgstr ""
+"¡No permanezcas directamente detrás de los lanzacohetes cuando estén "
+"disparando, puedes sufrir graves heridas por los gases de escape!"
+
+msgid "DarkestHourGame.ROHints[19]"
+msgstr ""
+"Los soldados AT deberían llevar siempre consigo a un amigo para abastecerse "
+"de munición, recargar más rápido y protegerse."
+
+msgid "DarkestHourGame.GameName"
+msgstr "DarkestHourGame"
+
+msgid "DHHintManager.Hints[42].Title"
+msgstr "Bote Higgins"
+
+msgid "DHHintManager.Hints[61].Text"
+msgstr ""
+"Esta arma utiliza munición no estándar que no se puede reabastecer. ¡No "
+"desperdicies tus disparos!"
+
+msgid "DHHud.LegendAxisObjectiveText"
+msgstr "Territorio del Eje"
+
+msgid "DHHintManager.Hints[61].Title"
+msgstr "Medidas desesperadas"
+
+msgid "DHIQMessage.LeaderAWOLMessage"
+msgstr "Estás descuidando tu escuadrón y tus líneas de suministro."
+
+msgid "DHHintManager.Hints[51].Text"
+msgstr "Puedes interactuar con el mapa pulsando %JUMP%."
+
+msgid "DHHintManager.Hints[64].Text"
+msgstr ""
+"¡El cañón de tu arma se ha destruido por sobrecalentamiento! Ya no puedes "
+"disparar esta arma."
+
+msgid "DHHud.JoinTeamText"
+msgstr "Pulsa [ESC] para unirte a un equipo"
+
+msgid "DHHud.SpawnNoRoleText"
+msgstr "Pulsa [ESC] para seleccionar un rol"
+
+msgid "DHRadioTouchMessage.NotQualifiedMessage"
+msgstr "No estás cualificado para usar esta radio"
+
+msgid "DHLastObjectiveMessage.AxisAboutToWinMessage"
+msgstr "Último objetivo -- ¡El Eje casi ha ganado la batalla!"
+
+msgid "DHPawnTouchMessage.Messages[2]"
+msgstr "Pulsa [%THROWMGAMMO%] para reabastecer y recargar {0}"
+
+msgid "DHReinforcementAwardMsg.ReinforcementAward"
+msgstr "¡Tu equipo ha sido premiado con {0} refuerzos por capturar {1}!"
+
+msgid "DarkestHourGame.ROHints[12]"
+msgstr ""
+"La ametralladora es más eficaz cuando se dispara en ráfagas cortas y "
+"controlables."
+
+msgid "DarkestHourGame.ROHints[20]"
+msgstr ""
+"Las armas AT se descargarán automáticamente si cambias a otra arma. Es una "
+"buena idea pegarse a un compañero de equipo para acelerar la recarga cuando "
+"sea necesario."
