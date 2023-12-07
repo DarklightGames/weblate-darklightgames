@@ -1,2 +1,266 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-08 01:15+0000\n"
+"Last-Translator: Argilas <argilas@hotmail.com>\n"
+"Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_interface/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "DHBrowser_OpenIP.IPDesc.Caption"
+msgstr "Introduce nueva dirección IP"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[3]"
+msgstr "Veta a {0}"
+
+msgid "DHDeployMenu.SurrenderResponseMessages[6]"
+msgstr ""
+"Tu equipo ya tuvo una votación sobre la retirada antes. Inténtalo de nuevo "
+"más tarde."
+
+msgid "DHFilterEdit.bOk.Caption"
+msgstr "OK"
+
+msgid "DHBrowser_Footer.OnlyStandardCheckBox.Caption"
+msgstr "Sólo Servidores Estándar"
+
+msgid "DHDeployMenu.SurrenderConfirmEndRoundText"
+msgstr "Esto terminará inmediatamente la ronda a favor del equipo contrario."
+
+msgid "DHGUITeamSelection.SettingsButtonObject.Caption"
+msgstr "Ajustes"
+
+msgid "DHGetDataMenu.CancelButton.Caption"
+msgstr "CANCELA"
+
+msgid "DHCommunicationPage.Panels[0].Caption"
+msgstr "Comunicación"
+
+msgid "DHDeployMenu.ChangeTeamConfirmText"
+msgstr ""
+"¿Estás seguro de que quieres cambiar de equipo? (no podrás volver a cambiar "
+"durante {s} segundos)"
+
+msgid "DHDeployMenu.SurrenderConfirmBaseText"
+msgstr "¿Estás seguro de que quieres rendirte?"
+
+msgid "DHGamePageSP.NoBotsWarningText"
+msgstr ""
+"Darkest Hour: Europe '44-'45 se centra únicamente en multijugador y, como "
+"resultado, NO incluye soporte para bots en el modo Práctica."
+
+msgid "DHMainMenu.SettingsButton.Caption"
+msgstr "Ajustes"
+
+msgid "DHMainMenu.SteamMustBeRunningText"
+msgstr ""
+"Steam debe estar en funcionamiento y debes tener una conexión a Internet "
+"activa para jugar en multijugador."
+
+msgid "DHMainMenu.SteamCommunityButton.Hint"
+msgstr "¡Únete a la comunidad en Steam!"
+
+msgid "DHServerLoading.AuthorText"
+msgstr "Autor: {0}"
+
+msgid "DHSettingsPage.SettingHeader.Caption"
+msgstr "Ajustes"
+
+msgid "DHBrowser_OpenIP.CancelButton.Caption"
+msgstr "CANCELA"
+
+msgid "DHBrowser_OpenIP.IpEntryBox.Caption"
+msgstr "Dirección IP: "
+
+msgid "DHBrowser_OpenIP.OkButton.Caption"
+msgstr "OK"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[0]"
+msgstr "Únete al servidor"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[1]"
+msgstr "Únete como espectador"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[2]"
+msgstr "-"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[10]"
+msgstr "Añade a Favoritos"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[1]"
+msgstr "Nombre del Servidor"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[3]"
+msgstr "Ubicación"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[4]"
+msgstr "Versión"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[5]"
+msgstr "Mapa"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[6]"
+msgstr "Jugadores"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[7]"
+msgstr "Ping"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[2]"
+msgstr "Expulsa a {0}"
+
+msgid "DHCreditsPage.WindowName"
+msgstr "Créditos"
+
+msgid "DHCreditsPage.CloseButton.Caption"
+msgstr "Cierra"
+
+msgid "DHDeployMenu.SelectRoleText"
+msgstr "Selecciona un rol"
+
+msgid "DHDeployMenu.FreeChangeTeamConfirmText"
+msgstr "¿Estás seguro de que quieres cambiar de equipo?"
+
+msgid "DHDeployMenu.CantChangeTeamYetText"
+msgstr "Debes esperar {s} antes de poder cambiar de equipo"
+
+msgid "DHDeployMenu.LockText"
+msgstr "Bloquea"
+
+msgid "DHDeployMenu.UnlockText"
+msgstr "Desbloquea"
+
+msgid "DHDeployMenu.VehicleUnavailableString"
+msgstr "El vehículo que has seleccionado ya no está disponible."
+
+msgid "DHDeployMenu.LockedText"
+msgstr "Bloqueado"
+
+msgid "DHDeployMenu.BotsText"
+msgstr "BOTS"
+
+msgid "DHDeployMenu.SurrenderButtonText[0]"
+msgstr "Retirada"
+
+msgid "DHDeployMenu.SurrenderButtonText[1]"
+msgstr "Seguir Luchando"
+
+msgid "DHDeployMenu.SurrenderResponseMessages[0]"
+msgstr "¡Error fatal!"
+
+msgid "DHDeployMenu.SurrenderResponseMessages[1]"
+msgstr "No has elegido equipo."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[2]"
+msgstr "La ronda aún no ha empezado."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[3]"
+msgstr "El voto para retirada está desactivado."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[4]"
+msgstr "La votación ya está en marcha."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[5]"
+msgstr "Ya te has retirado."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[7]"
+msgstr "No puedes retirarte una vez finalizada la ronda."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[9]"
+msgstr "No puedes retirarte tan pronto."
+
+msgid "DHDeployMenu.MapButtonObject.Hint"
+msgstr "Mapa [F1]"
+
+msgid "DHDeployMenu.MapVoteButtonObject.Caption"
+msgstr "Votar Mapa"
+
+msgid "DHDeployMenu.MaxVehiclesImageObject.Hint"
+msgstr "Tanques disponibles"
+
+msgid "DHDeployMenu.RetreatButtonObject.Caption"
+msgstr "Retirada"
+
+msgid "DHDeployMenu.RoundTimeLabelObject.Hint"
+msgstr "Tiempo restante"
+
+msgid "DHDeployMenu.ServersButtonObject.Caption"
+msgstr "Servidores"
+
+msgid "DHDeployMenu.SettingsButtonObject.Caption"
+msgstr "Ajustes"
+
+msgid "DHDeployMenu.SuicideButtonObject.Caption"
+msgstr "Suicidio"
+
+msgid "DHDeployMenu.VehicleButtonObject.Hint"
+msgstr "Vehículos"
+
+msgid "DHEditFavoritePage.UnknownText"
+msgstr "Servidor desconocido"
+
+msgid "DHEditFavoritePage.IpEntryBox.Caption"
+msgstr "Dirección IP: "
+
+msgid "DHFilterEdit.ckBots.Caption"
+msgstr "Sin Bots"
+
+msgid "DHFilterEdit.sbOptions.Caption"
+msgstr "Opciones..."
+
+msgid "DHFilterListPage.bOk.Caption"
+msgstr "OK"
+
+msgid "DHGUITeamSelection.TeamsCount.Caption"
+msgstr "? jugadores"
+
+msgid "DHGUITeamSelection.TeamsCount2.Caption"
+msgstr "? jugadores"
+
+msgid "DHGamePageSP.PageCaption"
+msgstr "Práctica"
+
+msgid "DHGamePageSP.SPFooter.PrimaryCaption"
+msgstr "Inicia juego de práctica"
+
+msgid "DHGetDataMenu.OkButton.Caption"
+msgstr "OK"
+
+msgid "DHIAMultiColumnRulesPanel.AdvancedButton.Caption"
+msgstr "Ver Opciones Avanzadas"
+
+msgid "DHLearnToPlayPage.PanelHint[0]"
+msgstr "Aprende sobre el juego viendo un vídeo"
+
+msgid "DHLearnToPlayPage.LearnToPlayHeader.Caption"
+msgstr "Aprende a jugar"
+
+msgid "DHMOTDConfigPage.LockedOKButton.Caption"
+msgstr "OK"
+
+msgid "DHMainMenu.SinglePlayerDisabledText"
+msgstr "El modo de Práctica está disponible sólo en la versión completa."
+
+msgid "DHMainMenu.CreditsButton.Caption"
+msgstr "Créditos"
+
+msgid "DHMainMenu.DiscordButton.Hint"
+msgstr "¡Únete a nosotros en Discord!"
+
+msgid "DHMainMenu.FacebookButton.Hint"
+msgstr "¡Síguenos en Facebook!"
+
+msgid "DHMainMenu.GitHubButton.Hint"
+msgstr "¡Únete a nosotros en GitHub!"
+
+msgid "DHMainMenu.InstantActionButton.Caption"
+msgstr "Práctica"
+
+msgid "DHMainMenu.PatreonButton.Hint"
+msgstr "¡Apóyanos en Patreon!"
+
+msgid "DHMainMenu.QuitButton.Caption"
+msgstr "Salida"
