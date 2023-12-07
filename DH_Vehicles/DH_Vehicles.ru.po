@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 19:08+0000\n"
+"PO-Revision-Date: 2023-12-07 07:30+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
@@ -16,10 +16,10 @@ msgid "DH_50CalDamType.FemaleSuicide"
 msgstr "%o была убита из собственного пулемета 50-го калибра."
 
 msgid "DH_AchillesCannon.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_AchillesCannon.ProjectileDescriptions[2]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_AchillesCannon.nProjectileDescriptions[0]"
 msgstr "БТР Мк.IV"
@@ -55,7 +55,7 @@ msgid "DH_BT7Cannon.nProjectileDescriptions[1]"
 msgstr "O-240"
 
 msgid "DH_BT7Tank.VehicleNameString"
-msgstr "BT-7"
+msgstr "БT-7"
 
 msgid "DH_BesaDamType.FemaleSuicide"
 msgstr "%o была убита из собственного пулемета Беса."
@@ -103,31 +103,31 @@ msgid "DH_AchillesCannon.nProjectileDescriptions[1]"
 msgstr "Mk.I APDS"
 
 msgid "DH_BT7Cannon.ProjectileDescriptions[0]"
-msgstr "APHE-T"
+msgstr "Бронебойный (APHE-T)"
 
 msgid "DH_BT7Cannon.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions[2]"
 msgstr "M89 WP"
 
 msgid "DH_Cromwell6PdrCannon.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_Cromwell6PdrCannon.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_Cromwell95mmCannon.ProjectileDescriptions[0]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_Cromwell95mmCannon.ProjectileDescriptions[2]"
-msgstr "HEAT"
+msgstr "Кумультивный (HEAT)"
 
 msgid "DH_Cromwell95mmCannon.nProjectileDescriptions[2]"
 msgstr "Mk.I HEAT"
@@ -169,7 +169,7 @@ msgid "DH_GreyhoundArmoredCar.VehicleNameString"
 msgstr "Бронеавтомобиль М8"
 
 msgid "DH_GreyhoundCannon.ProjectileDescriptions[2]"
-msgstr "Канистра"
+msgstr "Картечь"
 
 msgid "DH_GreyhoundCannon.nProjectileDescriptions[0]"
 msgstr "БТР М51Б1"
@@ -226,16 +226,16 @@ msgid "DH_GreyhoundCannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
 
 msgid "DH_GreyhoundCannon.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_HellcatCannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
 
 msgid "DH_HellcatCannon.ProjectileDescriptions[1]"
-msgstr "HVAP"
+msgstr "Подкалиберный (HVAP)"
 
 msgid "DH_HellcatCannon.ProjectileDescriptions[2]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_HellcatCannon.nProjectileDescriptions[1]"
 msgstr "M93 HVAP"
@@ -331,7 +331,7 @@ msgid "DH_ISU152Cannon.ProjectileDescriptions[1]"
 msgstr "AP"
 
 msgid "DH_ISU152Cannon_Late.ProjectileDescriptions[0]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_ISU152Cannon_Late.ProjectileDescriptions[1]"
 msgstr "APBC"
@@ -340,10 +340,10 @@ msgid "DH_JacksonCannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
 
 msgid "DH_JacksonCannon.ProjectileDescriptions[1]"
-msgstr "HVAP"
+msgstr "Подкалиберный (HVAP)"
 
 msgid "DH_JacksonCannon.ProjectileDescriptions[2]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_JacksonCannon.nProjectileDescriptions[1]"
 msgstr "M304 HVAP"
@@ -373,7 +373,7 @@ msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
 
 msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
@@ -388,7 +388,7 @@ msgid "DH_KubelwagenCar_WH.VehicleNameString"
 msgstr "Фольксваген Тип 82"
 
 msgid "DH_LocustCannon.ProjectileDescriptions[2]"
-msgstr "Канистра"
+msgstr "Картечь"
 
 msgid "DH_LocustCannon.nProjectileDescriptions[0]"
 msgstr "БТР М51Б1"
@@ -457,7 +457,7 @@ msgid "DH_KV1sCannon.nProjectileDescriptions[1]"
 msgstr "OF-350"
 
 msgid "DH_KV1sCannon_Late.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_KV1sCannon_Late.ProjectileDescriptions[2]"
 msgstr "APCR"
@@ -478,13 +478,13 @@ msgid "DH_LocustCannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
 
 msgid "DH_LocustCannon.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_M7PriestCannon.ProjectileDescriptions[0]"
 msgstr "HE-1"
 
 msgid "DH_M7PriestCannon.ProjectileDescriptions[2]"
-msgstr "HEAT"
+msgstr "Кумультивный (HEAT)"
 
 msgid "DH_M7PriestCannon.nProjectileDescriptions[1]"
 msgstr "M60 WP"
@@ -502,7 +502,7 @@ msgid "DH_PantherDCannon.ProjectileDescriptions[1]"
 msgstr "APCR"
 
 msgid "DH_PantherDCannon.ProjectileDescriptions[2]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_PanzerIIILCannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
@@ -523,7 +523,7 @@ msgid "DH_PanzerIIILTank_Camo.VehicleNameString"
 msgstr "Panzer III Ausf.M"
 
 msgid "DH_PanzerIIINCannon.ProjectileDescriptions[2]"
-msgstr "Канистра"
+msgstr "Картечь"
 
 msgid "DH_PanzerIIINCannon.nProjectileDescriptions[2]"
 msgstr "Kt.Kw.K"
@@ -568,7 +568,7 @@ msgid "DH_PanzerIIINCannon.ProjectileDescriptions[0]"
 msgstr "HE"
 
 msgid "DH_PanzerIIINCannon.ProjectileDescriptions[1]"
-msgstr "HEAT"
+msgstr "Кумультивный (HEAT)"
 
 msgid "DH_PanzerIIINCannon.nProjectileDescriptions[1]"
 msgstr "Gr.38 Hl/C"
@@ -577,10 +577,10 @@ msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
 
 msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions[1]"
-msgstr "HEAT"
+msgstr "Кумультивный (HEAT)"
 
 msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions[2]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_PanzerIVF1Cannon.nProjectileDescriptions[1]"
 msgstr "Gr.38 Hl/B"
@@ -592,7 +592,7 @@ msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions[1]"
 msgstr "HE"
 
 msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions[2]"
-msgstr "HEAT"
+msgstr "Кумультивный (HEAT)"
 
 msgid "DH_PanzerIVGEarlyCannon.nProjectileDescriptions[2]"
 msgstr "Gr.38 Hl/B"
@@ -601,10 +601,10 @@ msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
 
 msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions[2]"
-msgstr "HEAT"
+msgstr "Кумультивный (HEAT)"
 
 msgid "DH_PanzerIVGLateCannon.nProjectileDescriptions[2]"
 msgstr "Gr.38 Hl/C"
@@ -631,7 +631,7 @@ msgid "DH_SU76Destroyer.VehicleNameString"
 msgstr "SU-76M"
 
 msgid "DH_SdKfz2519DCannon.ProjectileDescriptions[0]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_SdKfz2519DCannon.ProjectileDescriptions[2]"
 msgstr "Дым"
@@ -706,19 +706,19 @@ msgid "DH_ShermanCannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
 
 msgid "DH_ShermanCannon.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_ShermanCannon.nProjectileDescriptions[1]"
 msgstr "M48 HE-T"
 
 msgid "DH_ShermanCannonA_76mm.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_ShermanCannonA_76mm.ProjectileDescriptions[1]"
-msgstr "HVAP"
+msgstr "Подкалиберный (HVAP)"
 
 msgid "DH_ShermanCannonA_76mm.ProjectileDescriptions[2]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_ShermanCannonA_76mm.nProjectileDescriptions[0]"
 msgstr "M62 APC"
@@ -745,7 +745,7 @@ msgid "DH_ShermanCannonA_76mm_Early.nProjectileDescriptions[2]"
 msgstr "M88 HC"
 
 msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions[2]"
-msgstr "HEAT"
+msgstr "Кумультивный (HEAT)"
 
 msgid "DH_ShermanCannon_M4A3105_Howitzer.nProjectileDescriptions[0]"
 msgstr "M1 HE-T"
@@ -793,7 +793,7 @@ msgid "DH_ShermanCannon_M4A3E2_Jumbo.ProjectileDescriptions[0]"
 msgstr "APCBC"
 
 msgid "DH_ShermanCannon_M4A3E2_Jumbo.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_ShermanCannon_M4A3E2_Jumbo.nProjectileDescriptions[0]"
 msgstr "M61 APC"
@@ -826,7 +826,7 @@ msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions[1]"
 msgstr "APDS"
 
 msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions[2]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_ShermanFireFlyCannon.nProjectileDescriptions[1]"
 msgstr "Mk.I APDS"
@@ -841,13 +841,13 @@ msgid "DH_ShermanTank_M4A3E8_ZombieSlayer.VehicleNameString"
 msgstr "Шерман M4A3E8 'Убийца зомби'"
 
 msgid "DH_StuH42Cannon.ProjectileDescriptions[0]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_StuH42Cannon.ProjectileDescriptions[1]"
 msgstr "Дым"
 
 msgid "DH_StuH42Cannon.ProjectileDescriptions[2]"
-msgstr "HEAT"
+msgstr "Кумультивный (HEAT)"
 
 msgid "DH_StuH42Cannon.nProjectileDescriptions[0]"
 msgstr "Sprgr.Patr."
@@ -868,7 +868,7 @@ msgid "DH_StuartCannon.ProjectileDescriptions[1]"
 msgstr "HE"
 
 msgid "DH_StuartCannon.ProjectileDescriptions[2]"
-msgstr "Канистра"
+msgstr "Картечь"
 
 msgid "DH_StuartCannon.nProjectileDescriptions[1]"
 msgstr "M63 HE-T"
@@ -883,7 +883,7 @@ msgid "DH_Stug3GCannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
 
 msgid "DH_Stug3GCannon.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_Stug3GCannon.ProjectileDescriptions[2]"
 msgstr "Дым"
@@ -922,7 +922,7 @@ msgid "DH_T3476_42Cannon.ProjectileDescriptions[0]"
 msgstr "APBC"
 
 msgid "DH_T3476_42Cannon.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_T3476_42Cannon.nProjectileDescriptions[0]"
 msgstr "BR-350BSP"
@@ -988,7 +988,7 @@ msgid "DH_T60Cannon.ProjectileDescriptions[0]"
 msgstr "AP-T"
 
 msgid "DH_T60Cannon.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_T60Cannon.nProjectileDescriptions[0]"
 msgstr "BZT"
@@ -1030,10 +1030,10 @@ msgid "DH_WolverineCannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
 
 msgid "DH_WolverineCannon.ProjectileDescriptions[1]"
-msgstr "HVAP"
+msgstr "Подкалиберный (HVAP)"
 
 msgid "DH_WolverineCannon.ProjectileDescriptions[2]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_WolverineCannon.nProjectileDescriptions[0]"
 msgstr "БТР М62"
@@ -1072,7 +1072,7 @@ msgid "DH_ZiS5vTruckSupport.VehicleNameString"
 msgstr "ZiS-5V (Логистика)"
 
 msgid "DH_ZiS5vTruckTransport.VehicleNameString"
-msgstr "ZiS-5V (Транспорт)"
+msgstr "ЗиС-5М (Транспорт)"
 
 msgid "DH_50CalDamType.DeathString"
 msgstr "%o был убит из пулемета %k калибра 50."
@@ -1102,7 +1102,7 @@ msgid "DH_JacksonTank.VehicleNameString"
 msgstr "М36 Джексон"
 
 msgid "DH_AchillesCannon.ProjectileDescriptions[1]"
-msgstr "APDS"
+msgstr "Подкалиберный (APDS)"
 
 msgid "DH_CromwellCannon.nProjectileDescriptions[1]"
 msgstr "M48 HE-T"
@@ -1141,10 +1141,10 @@ msgid "DH_CromwellCannon.nProjectileDescriptions[2]"
 msgstr "M64 WP"
 
 msgid "DH_PanzerIIILCannon.ProjectileDescriptions[2]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_SdKfz2519DCannon.ProjectileDescriptions[1]"
-msgstr "HEAT"
+msgstr "Кумультивный (HEAT)"
 
 msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions[0]"
 msgstr "HE"
