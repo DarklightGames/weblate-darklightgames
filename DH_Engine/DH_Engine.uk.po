@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 07:30+0000\n"
+"PO-Revision-Date: 2023-12-07 09:25+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
@@ -277,3 +277,96 @@ msgstr "Екіпажі танків"
 
 msgid "DHBritishCannonPawn.RangeText"
 msgstr "ярдів"
+
+msgid "DHEnemyInformationMsg.EnemyIsSurrendering"
+msgstr "Ворог відступає, битва скоро закінчиться!"
+
+msgid "DHConstructionErrorMessage.ErrorMessages[22]"
+msgstr ""
+"Занадто близько до контрольної точки ({string}), відійдіть на {integer}м "
+"далі."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[25]"
+msgstr "{name} не можливо {verb} на ворожій території"
+
+#, fuzzy
+msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
+msgstr ""
+"Щоб деконструювати ворожий штаб, поруч з вами повинен бути товариш по "
+"команді!"
+
+#, fuzzy
+msgid "DHConstructionErrorMessage.ErrorMessages[21]"
+msgstr "{name} не можливо {verb}, поки ви зайняті."
+
+msgid "DHExitMovingVehicleDamageType.MaleSuicide"
+msgstr "%o загинув, стрибаючи з транспортного засобу."
+
+msgid "DHFireSupportMessage.OnMapArtilleryRequestingLocked"
+msgstr ""
+"Ви не можете позначити нову ціль для вогневої підтримки ще {seconds} секунд."
+
+msgid "DHFriendlyInformationMsg.TeamSurrendered"
+msgstr "Ваша команда вирішила відступити, битва скоро закінчиться!"
+
+msgid "DHGameMessage.VehicleTeamKilledMessage"
+msgstr "{0} вбив товариша по команді {1}."
+
+#, fuzzy
+msgid "DHConstructionErrorMessage.ErrorMessages[24]"
+msgstr "{name} можливо {verb} лише в межах {integer}м від дружнього {string}."
+
+#, fuzzy
+msgid "DHConstructionErrorMessage.ErrorMessages[23]"
+msgstr ""
+"Занадто близько до неконтрольованої точки ({string}), відійдіть на {integer}"
+"м далі."
+
+msgid "DHConstructionGroup_Guns.GroupName"
+msgstr "Гармати"
+
+msgid "DHConstructionSupplyAttachment_Static_Main.HumanReadableName"
+msgstr "Головна база постачання"
+
+msgid "DHConstructionSupplyAttachment.HumanReadableName"
+msgstr "База постачання"
+
+msgid "DHConstruction_Vehicle.ConstructionVerb"
+msgstr "встановити"
+
+msgid "DHEnemyInformationMsg.EnemyIsWeak"
+msgstr "У ворога майже закінчилися підкріплення, перемога близька!"
+
+msgid "DHExitMovingVehicleDamageType.DeathString"
+msgstr "%o загинув, стрибаючи з транспортного засобу."
+
+msgid "DHExitMovingVehicleDamageType.FemaleSuicide"
+msgstr "%o загинула, стрибаючи з транспортного засобу."
+
+msgid "DHFireSupportMessage.OnMapArtilleryRequestConfirmedText"
+msgstr "Ціль для вогневої підтримки позначено."
+
+msgid "DHFireSupportMessage.OffMapArtilleryRequestConfirmedText"
+msgstr "Ціль для далекобійної артилерії позначено."
+
+msgid "DHFireSupportMessage.RadiomanNotification"
+msgstr "Загін {squad} позначив ціль для далекобійної артилерії."
+
+#, fuzzy
+msgid "DHFireSupportMessage.ArtilleryOperatorNotification"
+msgstr "Загін {squad} позначив ціль для вогневої підтрмки ({type})."
+
+msgid "DHFireSupportMessage.ErrorText"
+msgstr "Не можливо позначити ціль для вогневої підтримки."
+
+#, fuzzy
+msgid "DHGameMessage.VehicleDestroyedMessage"
+msgstr "{0} - знищено."
+
+#, fuzzy
+msgid "DHGameMessage.RoleInvalidatedMessage"
+msgstr "Посада '{name}' для вас більше не доступна."
+
+#, fuzzy
+msgid "DHGameReplicationInfo.ForceScaleText"
+msgstr "Розмір"
