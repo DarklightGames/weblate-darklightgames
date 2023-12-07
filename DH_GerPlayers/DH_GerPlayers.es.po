@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 01:35+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2023-12-07 09:25+0000\n"
+"Last-Translator: Argilas <argilas@hotmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_gerplayers/es/>\n"
 "Language: es\n"
@@ -30,7 +30,7 @@ msgid "DH_WHSPCrew.PluralName"
 msgstr "Tripulantes de Cañón de Asalto"
 
 msgid "DH_ZLeader.MyName"
-msgstr "Líder Zombie"
+msgstr "Líder Zombi"
 
 msgid "DH_OstTruppenRifleman.MyName"
 msgstr "Fusilero de Tropa del Este"
@@ -79,3 +79,9 @@ msgstr ""
 
 msgid "DH_ZLeader.AltName"
 msgstr ""
+
+msgid "DH_WHArtilleryGunner.PluralName"
+msgstr "Artilleros"
+
+msgid "DH_WHArtilleryGunner.MyName"
+msgstr "Artillero"
