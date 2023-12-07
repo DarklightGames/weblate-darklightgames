@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 19:08+0000\n"
+"PO-Revision-Date: 2023-12-08 01:15+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -140,3 +140,916 @@ msgstr "Назначить {0} помощником"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts[9]"
 msgstr "{1} Парашют {0} к командиру отделения"
+
+msgid "DHDeployMenu.ChangeTeamConfirmText"
+msgstr ""
+"Вы уверены, что хотите сменить команду? (вы не сможете вернуться назад в "
+"течение {s} секунд)"
+
+msgid "DHDeployMenu.VehicleUnavailableString"
+msgstr "Выбранный вами транспортное средство больше не доступно."
+
+msgid "DHDeployMenu.RecommendJoiningSquadText"
+msgstr ""
+"Настоятельно рекомендуется присоединиться к отряду перед возрождением! "
+"Присоединение к отряду открывает вам дополнительные возможности "
+"развертывания и позволяет быстрее вступить в бой.||Хотите автоматически "
+"присоединиться к отряду сейчас?"
+
+msgid "DHDeployMenu.AxisButtonObject.Hint"
+msgstr "Присоединиться к Войскам Оси"
+
+msgid "DHDeployMenu.SurrenderResponseMessages[5]"
+msgstr "Вы уже отступили."
+
+msgid "DHDeployMenu.SurrenderConfirmEndRoundText"
+msgstr "Это немедленно завершит раунд в пользу противоположной команды."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[3]"
+msgstr "Голосование за отступление отключено."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[7]"
+msgstr "Вы не можете отступить после окончания раунда."
+
+msgid "DHDeployMenu.SupplyVehicleImageObject.Hint"
+msgstr "Автомобиль строительного снабжения"
+
+msgid "DHFilterEdit.sbMutators.Caption"
+msgstr "Пользовательская конфигурация мутатора"
+
+msgid "DHGUIDynArrayPage.LockedOKButton.Caption"
+msgstr "Хорошо"
+
+msgid "DHMainMenu.SteamMustBeRunningText"
+msgstr ""
+"Для многопользовательской игры Steam должен быть запущен, и у вас должно "
+"быть активное подключение к Интернету"
+
+msgid "DHMainMenu.GitHubButton.Hint"
+msgstr "Присоединяйтесь к нам на GitHub!"
+
+msgid "DHDeployMenu.ServersButtonObject.Caption"
+msgstr "Серверы"
+
+msgid "DHFilterEdit.ComboOpts[2]"
+msgstr "Должен быть выключенный"
+
+msgid "DHFilterEdit.ckEmpty.Caption"
+msgstr "Никаких пустых серверов"
+
+msgid "DHFilterEdit.ckVACOnly.Caption"
+msgstr "Только защита от мошенничества Valve"
+
+msgid "DHGUISquadComponent.NoRallyPointsImage.Hint"
+msgstr ""
+"У этой команды уже давно нет очков для сбора. Возможности возрождения могут "
+"быть ограничены!"
+
+msgid "DHGamePageSP.NoBotsWarningText"
+msgstr ""
+"Darkest Hour: Europe '44-'45 ориентирована исключительно на "
+"многопользовательскую игру и, как следствие, НЕ включает поддержку ботов в "
+"режиме одиночной игры."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints[0]"
+msgstr "Название карты."
+
+msgid "DHMaplistEditor.NewMaplistButton.Caption"
+msgstr "Новый"
+
+msgid "DHFilterEdit.bCancel.Caption"
+msgstr "Отмена"
+
+msgid "DHGUIMapComponent.ActiveTargetSelectText"
+msgstr "Выбрать в качестве активной цели"
+
+msgid "DHIAMultiColumnRulesPanel.AdvancedButton.Caption"
+msgstr "Показать дополнительные параметры"
+
+msgid "DHLearnToPlayPage.LearnToPlayHeader.Caption"
+msgstr "Научиться играть"
+
+msgid "DHMainMenu.ControlsChangedMessage"
+msgstr ""
+"В игру добавлены новые элементы управления. В результате ваши предыдущие "
+"привязки элементов управления могли быть изменены.||Хотите просмотреть "
+"настройки вашего элемента управления?"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings[3]"
+msgstr "Размер карты"
+
+msgid "DHMainMenu.SteamCommunityButton.Hint"
+msgstr "Присоединяйтесь к сообществу Steam!"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints[1]"
+msgstr "Суммарное количество голосов игроков за карту."
+
+msgid "DHMutatorConfigMenu.AdvancedButton.Caption"
+msgstr "Показать дополнительные параметры"
+
+msgid "DHQuitPage.QuitDesc.Caption"
+msgstr "Вы уверены, что хотите выйти?"
+
+msgid "DHMapVotingPage.lmsgMapOutOfBounds"
+msgstr ""
+"Пожалуйста, проголосуйте за карту, подходящую для текущего количества "
+"игроков. Вы все еще можете проголосовать за эту карту в полном списке."
+
+msgid "DHNetworkStatusMsg.StatusMessages[12]"
+msgstr ""
+"Вас исключили до конца текущего уровня.||Если администратор не наказал вас, "
+"это наказание по умолчанию за командное убийство, поэтому не делайте этого."
+
+msgid "DHServerBrowser.PanelHint[1]"
+msgstr ""
+"Просмотрите все серверы DH, работающие в настоящее время в вашей локальной "
+"сети"
+
+msgid "DHServerBrowser.PanelHint[4]"
+msgstr "Выбирайте из сотен RO-серверов по всему миру"
+
+msgid "DHServerBrowser.BetaMessageText"
+msgstr ""
+"Добро пожаловать в Darkest Hour: Europe '44-'45, живое бета-тестирование! "
+"Обязательно присоединяйтесь к более чем 500 сообществам Discord, чтобы "
+"обсуждать игру, вносить предложения или сообщать об ошибках! Увидимся на "
+"поле боя!"
+
+msgid "DHSettingsPage.PanelHint[0]"
+msgstr "Настройте параметры игры и сети..."
+
+msgid "DHSettingsPage.PanelCaption[2]"
+msgstr "Аудио"
+
+msgid "DHTab_Controls.captions_comm[7]"
+msgstr "Переключиться на командный голосовой канал"
+
+msgid "DHTab_Controls.captions_game[7]"
+msgstr "Автоматическое присоединение к отряду"
+
+msgid "DHSettingsPage.PanelHint[3]"
+msgstr "Настройте элементы управления клавиатурой и мышью..."
+
+msgid "DHSettings_Footer.BackB.Caption"
+msgstr "Назад"
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Hint"
+msgstr ""
+"Количество звуковых каналов, которые игра может использовать одновременно"
+
+msgid "DHTab_AudioSettings.VoiceVolume.Caption"
+msgstr "Громкость голосового приема"
+
+msgid "DHTab_Controls.Captions_Inventory[5]"
+msgstr "Слот инвентаря 6"
+
+msgid "DHTab_Controls.ControlProfiles[1]"
+msgstr "По умолчанию (Сброс)"
+
+msgid "DHTab_Controls.captions_movement[12]"
+msgstr "Бежать"
+
+msgid "DHTab_Controls.captions_weapons[10]"
+msgstr "Переключить режим стрельбы"
+
+msgid "DHTab_Controls.captions_weapons[11]"
+msgstr "Развернуть пулемет / прикрепить штык / дымовую установку"
+
+msgid "DHTab_Controls.captions_comm[10]"
+msgstr "Переключиться на голосовой канал отряда"
+
+msgid "DHTab_AudioSettings.AudioBK3.Caption"
+msgstr "Голосовой чат"
+
+msgid "DHTab_AudioSettings.AutoJoinPublic.Caption"
+msgstr "Автоподключение к общедоступному каналу"
+
+msgid "DHTab_AudioSettings.Dampen.Caption"
+msgstr "Уменьшите громкость игры при использовании VOIP"
+
+msgid "DHTab_Controls.captions_comm[4]"
+msgstr "Меню голосовых команд"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[0]"
+msgstr "-"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[10]"
+msgstr "{1} Парашют {0} к маркеру"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[11]"
+msgstr "{1} парашютировать командира отделения"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[12]"
+msgstr "{1} Парашютировать отряд к маркеру"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[13]"
+msgstr "{1} Парашютирование неназначенных игроков к маркеру"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[14]"
+msgstr "{1} Повышен {0} до лидера отряда"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[15]"
+msgstr "{1} Исключить {0} из отряда"
+
+msgid "DHCreditsPage.WindowName"
+msgstr "Информация"
+
+msgid "DHCreditsPage.CloseButton.Caption"
+msgstr "Назад"
+
+msgid "DHDeployMenu.NoneText"
+msgstr "Ничего"
+
+msgid "DHDeployMenu.SelectRoleText"
+msgstr "Выберите роль"
+
+msgid "DHDeployMenu.SelectSpawnPointText"
+msgstr "Выберите точку появления"
+
+msgid "DHDeployMenu.DeployInTimeText"
+msgstr "Нажмите Продолжить для возрождения ({0})"
+
+msgid "DHDeployMenu.DeployNowText"
+msgstr "Нажмите Продолжить, чтобы возродиться сейчас!"
+
+msgid "DHDeployMenu.ReservedString"
+msgstr "Зарезервированно"
+
+msgid "DHDeployMenu.FreeChangeTeamConfirmText"
+msgstr "Вы уверены, что хотите сменить команду?"
+
+msgid "DHDeployMenu.CantChangeTeamYetText"
+msgstr ""
+"Вам придется подождать {s} секунд, прежде чем вы сможете сменить команду"
+
+msgid "DHDeployMenu.UnlockText"
+msgstr "Разблокировано"
+
+msgid "DHDeployMenu.LockText"
+msgstr "Заблокировано"
+
+msgid "DHDeployMenu.LockedText"
+msgstr "Заблокировано"
+
+msgid "DHDeployMenu.BotsText"
+msgstr "BOTS"
+
+msgid "DHDeployMenu.SquadOnlyText"
+msgstr "Только отряды"
+
+msgid "DHDeployMenu.SquadLeadershipOnlyText"
+msgstr "Только командиры"
+
+msgid "DHDeployMenu.UnassignedPlayersCaptionText"
+msgstr "Неназначенные"
+
+msgid "DHDeployMenu.NonSquadLeaderOnlyText"
+msgstr "Только некомандиры"
+
+msgid "DHDeployMenu.SurrenderConfirmBaseText"
+msgstr "Вы уверены, что хотите сдаться?"
+
+msgid "DHDeployMenu.SurrenderConfirmNominationText"
+msgstr ""
+"Это действие приведет к голосованию всей команды. Голосование начнется после "
+"того, как {0}% команды решат отступить."
+
+msgid "DHDeployMenu.SurrenderButtonText[0]"
+msgstr "Отступить"
+
+msgid "DHDeployMenu.SurrenderButtonText[1]"
+msgstr "Продолжить сражаться"
+
+msgid "DHDeployMenu.SurrenderResponseMessages[1]"
+msgstr "Вы не выбрали команду."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[0]"
+msgstr "Ошибка!"
+
+msgid "DHDeployMenu.SurrenderResponseMessages[2]"
+msgstr "Раунд еще не начался."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[4]"
+msgstr "Голосование уже идет."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[6]"
+msgstr "Ранее ваша команда уже проголосовала за отступление. Попробуйте позже."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[9]"
+msgstr "Вы не можете отступить так рано."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[10]"
+msgstr "Вы не можете отступить на этапе настройки."
+
+msgid "DHDeployMenu.AlliesButtonObject.Hint"
+msgstr "Присоединиться к Союзникам"
+
+msgid "DHDeployMenu.ArtilleryVehicleImageObject.Hint"
+msgstr "Артиллерийский транспорт"
+
+msgid "DHDeployMenu.ContinueButtonObject.Caption"
+msgstr "Продолжить"
+
+msgid "DHDeployMenu.DisconnectButtonObject.Caption"
+msgstr "Отключиться"
+
+msgid "DHDeployMenu.EquipmentButtonObject.Hint"
+msgstr "Снаряжение"
+
+msgid "DHDeployMenu.MapButtonObject.Hint"
+msgstr "Карта [F1]"
+
+msgid "DHDeployMenu.MapVoteButtonObject.Caption"
+msgstr "Голосование"
+
+msgid "DHDeployMenu.MaxVehiclesImageObject.Hint"
+msgstr "Доступные танки"
+
+msgid "DHDeployMenu.RetreatButtonObject.Caption"
+msgstr "Отступить"
+
+msgid "DHDeployMenu.RoundTimeLabelObject.Hint"
+msgstr "Времени осталось"
+
+msgid "DHDeployMenu.SettingsButtonObject.Caption"
+msgstr "Настройки"
+
+msgid "DHDeployMenu.SpawnVehicleImageObject.Hint"
+msgstr "Развернуть транспортное средство"
+
+msgid "DHDeployMenu.SpectateButtonObject.Hint"
+msgstr "Наблюдать"
+
+msgid "DHDeployMenu.SquadsButtonObject.Hint"
+msgstr "Отряды [F1]"
+
+msgid "DHDeployMenu.SuicideButtonObject.Caption"
+msgstr "Самоубийство"
+
+msgid "DHDeployMenu.VehicleButtonObject.Hint"
+msgstr "Транспортные средства"
+
+msgid "DHEditFavoritePage.UnknownText"
+msgstr "Неизвестный сервер"
+
+msgid "DHEditFavoritePage.IpEntryBox.Caption"
+msgstr "Айпи адрес: "
+
+msgid "DHFilterEdit.ComboOpts[0]"
+msgstr "Не имеет значения"
+
+msgid "DHFilterEdit.ComboOpts[1]"
+msgstr "Должен быть включенный"
+
+msgid "DHFilterEdit.MutOpts[0]"
+msgstr "Нет мутаторов"
+
+msgid "DHFilterEdit.MutOpts[1]"
+msgstr "Любой Мутатор"
+
+msgid "DHFilterEdit.MutOpts[2]"
+msgstr "Пользовательский"
+
+msgid "DHFilterEdit.WindowName"
+msgstr "Изменить правила фильтрации..."
+
+msgid "DHFilterEdit.bOk.Caption"
+msgstr "Хорошо"
+
+msgid "DHFilterEdit.cbMutators.Caption"
+msgstr "Мутаторы:"
+
+msgid "DHFilterEdit.cbStats.Caption"
+msgstr "Статистика Сервера:"
+
+msgid "DHFilterEdit.cbTranslocator.Caption"
+msgstr "Транслокатор:"
+
+msgid "DHFilterEdit.cbWeaponStay.Caption"
+msgstr "Оружие остается:"
+
+msgid "DHFilterEdit.ckBots.Caption"
+msgstr "Нет ботов"
+
+msgid "DHFilterEdit.ckFull.Caption"
+msgstr "Нет полных серверов"
+
+msgid "DHFilterEdit.ckPassworded.Caption"
+msgstr "Нет серверов с паролем"
+
+msgid "DHFilterEdit.ebName.Caption"
+msgstr "Имя фильтра:"
+
+msgid "DHFilterEdit.sbOptions.Caption"
+msgstr "Параметры..."
+
+msgid "DHFilterListPage.bCancel.Caption"
+msgstr "Отмена"
+
+msgid "DHFilterListPage.bCreate.Caption"
+msgstr "Создать"
+
+msgid "DHFilterListPage.bEdit.Caption"
+msgstr "Редактировать"
+
+msgid "DHFilterListPage.bOk.Caption"
+msgstr "Хорошо"
+
+msgid "DHFilterListPage.bRemove.Caption"
+msgstr "Убрать"
+
+msgid "DHFilterListPage.sbBackground.Caption"
+msgstr "Фильтры..."
+
+msgid "DHGUIDynArrayPage.LockedCancelButton.Caption"
+msgstr "Отмена"
+
+msgid "DHGUIMapComponent.SquadRallyPointDestroyText"
+msgstr "Уничтожить точку сбора"
+
+msgid "DHGUIMapComponent.SquadRallyPointSetAsSecondaryText"
+msgstr "Установить как второстепенный"
+
+msgid "DHGUIMapComponent.RemoveText"
+msgstr "Убрать {0}"
+
+msgid "DHGUIMapComponent.ActiveTargetDeselectText"
+msgstr "Отменить выбор активной цели"
+
+msgid "DHGUISquadComponent.CreateSquadButton.Caption"
+msgstr "Создать отряд"
+
+msgid "DHGUISquadComponent.JoinSquadButton.Caption"
+msgstr "Присоединиться к отряду"
+
+msgid "DHGUISquadComponent.LeaveSquadButton.Caption"
+msgstr "Покинуть отряд"
+
+msgid "DHGUITeamSelection.SizeBonusText"
+msgstr "размер армии"
+
+msgid "DHGUITeamSelection.UnitsText"
+msgstr " игроки"
+
+msgid "DHGUITeamSelection.AutoSelect.Caption"
+msgstr "Авто Выбор"
+
+msgid "DHGUITeamSelection.Disconnect.Caption"
+msgstr "Отключиться"
+
+msgid "DHGUITeamSelection.SettingsButtonObject.Caption"
+msgstr "Настройки"
+
+msgid "DHGUITeamSelection.Spectate.Caption"
+msgstr "Наблюдать"
+
+msgid "DHGUITeamSelection.TeamsCount.Caption"
+msgstr "? игроки"
+
+msgid "DHGUITeamSelection.TeamsCount2.Caption"
+msgstr "? игроки"
+
+msgid "DHGameFooterMP.GameBackButton.Caption"
+msgstr "Назад"
+
+msgid "DHGameFooterSP.GameBackButton.Caption"
+msgstr "Назад"
+
+msgid "DHGamePageMP.MPFooter.PrimaryCaption"
+msgstr "Слушать"
+
+msgid "DHGamePageMP.MPFooter.SecondaryCaption"
+msgstr "Преданный"
+
+msgid "DHGamePageSP.PageCaption"
+msgstr "Одиночная игра"
+
+msgid "DHGamePageSP.SPFooter.PrimaryCaption"
+msgstr "Начать одиночную игру"
+
+msgid "DHGetDataMenu.CancelButton.Caption"
+msgstr "Отмена"
+
+msgid "DHGetDataMenu.CancelButton.Hint"
+msgstr "Закройте это меню, отменив изменения."
+
+msgid "DHGetDataMenu.OkButton.Caption"
+msgstr "Хорошо"
+
+msgid "DHLearnToPlayFooter.GameBackButton.Caption"
+msgstr "Назад"
+
+msgid "DHLearnToPlayPage.PanelCaption[0]"
+msgstr "Видео-Обучение"
+
+msgid "DHLearnToPlayPage.PanelHint[0]"
+msgstr "Узнайте об игре, посмотрев видео"
+
+msgid "DHMOTDConfigPage.LockedCancelButton.Caption"
+msgstr "Отмена"
+
+msgid "DHMOTDConfigPage.LockedOKButton.Caption"
+msgstr "Хорошо"
+
+msgid "DHMainMenu.JoinTestServerString"
+msgstr "Присоединиться к тестовому серверу"
+
+msgid "DHMainMenu.ConnectingString"
+msgstr "Присоединение"
+
+msgid "DHMainMenu.SinglePlayerDisabledText"
+msgstr "Режим одиночной игры доступен только в полной версии."
+
+msgid "DHMainMenu.MOTDErrorString"
+msgstr "Ошибка: не удалось загрузить ленту новостей ({0})"
+
+msgid "DHMainMenu.BadConfigMessage"
+msgstr ""
+"Возникла проблема с вашим файлом конфигурации. Нажмите «Продолжить», чтобы "
+"выйти из игры и открыть руководство по исправлению файла конфигурации."
+
+msgid "DHMainMenu.CreditsButton.Caption"
+msgstr "Информация об игре"
+
+msgid "DHMainMenu.DiscordButton.Hint"
+msgstr "Присоединяйтесь к нам в Дискорде!"
+
+msgid "DHMainMenu.FacebookButton.Hint"
+msgstr "Следите за нами на Facebook!"
+
+msgid "DHMainMenu.InstantActionButton.Caption"
+msgstr "Одиночная игра"
+
+msgid "DHMainMenu.PatreonButton.Hint"
+msgstr "Поддержите нас на Patreon!"
+
+msgid "DHMainMenu.QuitButton.Caption"
+msgstr "Выйти из игры"
+
+msgid "DHMainMenu.ServerButton.Caption"
+msgstr "Серверы"
+
+msgid "DHMainMenu.SettingsButton.Caption"
+msgstr "Настройки"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings[0]"
+msgstr "Номинированные карты"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings[1]"
+msgstr "Вес голоса"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings[2]"
+msgstr "Размер карты"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints[0]"
+msgstr "Название карты."
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints[2]"
+msgstr "Рекомендованно игроков для этой карты."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings[0]"
+msgstr "Название карты"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings[1]"
+msgstr "Союзная нация"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings[2]"
+msgstr "Тип игры"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints[1]"
+msgstr "Страна Союзников на карте."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints[2]"
+msgstr "Что за игра или битва на карте."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints[3]"
+msgstr "Рекомендованно игроков для этой карты."
+
+msgid "DHMapVotingPage.lmsgMode[0]"
+msgstr "Победа большинства"
+
+msgid "DHMapVotingPage.FilterClearButton.Caption"
+msgstr "Очистить"
+
+msgid "DHMapVotingPage.FilterEditbox.Caption"
+msgstr "Поиск"
+
+msgid "DHMapVotingPage.GameTypeCombo.Caption"
+msgstr "Фильтр Тип игры:"
+
+msgid "DHMaplistEditor.ActiveBackground.Caption"
+msgstr "Избранные карты"
+
+msgid "DHMaplistEditor.AddAllButton.Caption"
+msgstr "Добавить все"
+
+msgid "DHMaplistEditor.AddButton.Caption"
+msgstr "Добавить"
+
+msgid "DHMaplistEditor.AvailBackground.Caption"
+msgstr "Доступные карты"
+
+msgid "DHMaplistEditor.DeleteMaplistButton.Caption"
+msgstr "Удалить"
+
+msgid "DHMaplistEditor.MapListSectionBackground.Caption"
+msgstr "Сохраненные списки карт"
+
+msgid "DHMaplistEditor.MoveDownButton.Caption"
+msgstr "Вниз"
+
+msgid "DHMaplistEditor.MoveUpButton.Caption"
+msgstr "Вверх"
+
+msgid "DHMaplistEditor.RemoveAllButton.Caption"
+msgstr "Убрать все"
+
+msgid "DHMaplistEditor.RemoveButton.Caption"
+msgstr "Убрать"
+
+msgid "DHMaplistEditor.RenameMaplistButton.Caption"
+msgstr "Переименовать"
+
+msgid "DHMidGameVoiceChat.NOSPEECH.Caption"
+msgstr "Игнорировать голосовые команды"
+
+msgid "DHMutatorConfigMenu.LockedCancelButton.Caption"
+msgstr "Отмена"
+
+msgid "DHMutatorConfigMenu.LockedOKButton.Caption"
+msgstr "Хорошо"
+
+msgid "DHNetworkStatusMessage.NetStatOk.Caption"
+msgstr "Хорошо"
+
+msgid "DHNetworkStatusMsg.StatusTitle[12]"
+msgstr "Вы были исключенны"
+
+msgid "DHPlayerSetupPage.psTitleBar.Caption"
+msgstr "Настройка проигрывателя"
+
+msgid "DHQuitPage.NoButton.Caption"
+msgstr "Нет"
+
+msgid "DHQuitPage.YesButton.Caption"
+msgstr "Да"
+
+msgid "DHScoreBoard.MunitionPercentageText"
+msgstr "Боеприпасы"
+
+msgid "DHScoreBoard.PlayersText"
+msgstr "Игроки"
+
+msgid "DHScoreBoard.TickHealthText"
+msgstr "Тикрейт: "
+
+msgid "DHScoreBoard.NetHealthText"
+msgstr "Потери: "
+
+msgid "DHScoreBoard.ScoreboardColumns[0].Title"
+msgstr "#"
+
+msgid "DHScoreBoard.ScoreboardColumns[3].Title"
+msgstr "Роль"
+
+msgid "DHScoreBoard.ScoreboardColumns[6].Title"
+msgstr "У"
+
+msgid "DHScoreBoard.ScoreboardColumns[7].Title"
+msgstr "С"
+
+msgid "DHScoreBoard.ScoreboardColumns[8].Title"
+msgstr "Счет"
+
+msgid "DHScoreBoard.ScoreboardColumns[9].Title"
+msgstr "Пинг"
+
+msgid "DHServerBrowser.PanelCaption[0]"
+msgstr "Избранное"
+
+msgid "DHServerBrowser.PanelCaption[1]"
+msgstr "Локальная сеть"
+
+msgid "DHServerBrowser.PanelCaption[2]"
+msgstr "Интернет"
+
+msgid "DHServerBrowser.PanelCaption[3]"
+msgstr "Локальная сеть"
+
+msgid "DHServerBrowser.PanelCaption[4]"
+msgstr "Интернет"
+
+msgid "DHServerBrowser.PanelCaption[5]"
+msgstr "Интернет"
+
+msgid "DHServerBrowser.PanelHint[0]"
+msgstr "Выберите сервер для присоединения из числа ваших любимых"
+
+msgid "DHServerBrowser.PanelHint[2]"
+msgstr "Выбирайте из серверов DH по всему миру"
+
+msgid "DHServerBrowser.PanelHint[3]"
+msgstr ""
+"Просмотрите все серверы RO, работающие в настоящее время в вашей локальной "
+"сети"
+
+msgid "DHServerBrowser.PanelHint[5]"
+msgstr "Выбирайте из сотен RO-серверов по всему миру"
+
+msgid "DHServerBrowser.GameTypeCombo.Caption"
+msgstr "Тип игры"
+
+msgid "DHServerBrowser.ServerBrowserHeader.Caption"
+msgstr "Серверы"
+
+msgid "DHServerLoading.DeployingText"
+msgstr "Загрузка карты: {0}"
+
+msgid "DHServerLoading.AuthorText"
+msgstr "Автор: {0}"
+
+msgid "DHServerLoading.EnabledText"
+msgstr "Включено"
+
+msgid "DHServerLoading.DisabledText"
+msgstr "Выключено"
+
+msgid "DHServerLoading.GameTypeText"
+msgstr "Тип игры: {0}"
+
+msgid "DHSettingsPage.PanelCaption[0]"
+msgstr "Игра"
+
+msgid "DHSettingsPage.PanelCaption[1]"
+msgstr "Видео"
+
+msgid "DHSettingsPage.PanelCaption[3]"
+msgstr "Управление"
+
+msgid "DHSettingsPage.PanelCaption[4]"
+msgstr "Мышь"
+
+msgid "DHSettingsPage.PanelCaption[5]"
+msgstr "Интерфейс"
+
+msgid "DHSettingsPage.PanelHint[1]"
+msgstr "Выберите разрешение или измените настройки дисплея и детализации..."
+
+msgid "DHSettingsPage.PanelHint[2]"
+msgstr "Настройте качество звука..."
+
+msgid "DHSettingsPage.PanelHint[4]"
+msgstr "Настроить разное. варианты ввода..."
+
+msgid "DHSettingsPage.PanelHint[5]"
+msgstr "Настройте свой интерфейс..."
+
+msgid "DHSettingsPage.PanelHint[6]"
+msgstr "как ты это получил?"
+
+msgid "DHSettingsPage.SettingHeader.Caption"
+msgstr "Настройки"
+
+msgid "DHSettings_Footer.DefaultB.Caption"
+msgstr "По умолчанию"
+
+msgid "DHTab_AudioSettings.AudioBK1.Caption"
+msgstr "Аудиосистема"
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Caption"
+msgstr "Макс. аудиоканалов"
+
+msgid "DHTab_AudioSettings.AudioDefaultDriver.Caption"
+msgstr "Системный драйвер"
+
+msgid "DHTab_AudioSettings.AudioEffectsVolumeSlider.Caption"
+msgstr "Громкость эффектов"
+
+msgid "DHTab_AudioSettings.AudioLowDetail.Caption"
+msgstr "Низкая детализация аудио"
+
+msgid "DHTab_AudioSettings.AudioMessageBeep.Caption"
+msgstr "Звуковой сигнал сообщения"
+
+msgid "DHTab_AudioSettings.AudioMode.Caption"
+msgstr "Режим аудио"
+
+msgid "DHTab_AudioSettings.AudioMusicVolume.Caption"
+msgstr "Громкость музыки"
+
+msgid "DHTab_AudioSettings.AudioPlayVoices.Caption"
+msgstr "Воспроизведение голосовых сообщений"
+
+msgid "DHTab_AudioSettings.AudioReverseStereo.Caption"
+msgstr "Обратное стерео"
+
+msgid "DHTab_AudioSettings.AutoSpeakCheckbox.Caption"
+msgstr "Автоматический выбор активного канала"
+
+msgid "DHTab_AudioSettings.ChatPasswordEdit.Caption"
+msgstr "Пароль чата"
+
+msgid "DHTab_AudioSettings.DefaultActiveChannelEditBox.Caption"
+msgstr "Имя канала по умолчанию"
+
+msgid "DHTab_AudioSettings.DisableGameMusic.Caption"
+msgstr "Отключить музыку во время игры"
+
+msgid "DHTab_AudioSettings.EnableVoiceChat.Caption"
+msgstr "Включить голосовой чат"
+
+msgid "DHTab_AudioSettings.VoiceQuality.Caption"
+msgstr "Качество Интернета"
+
+msgid "DHTab_AudioSettings.VoiceQualityLAN.Caption"
+msgstr "Качество локальной сети"
+
+msgid "DHTab_Controls.Section_Inventory"
+msgstr "Инвентарь"
+
+msgid "DHTab_Controls.Captions_Inventory[0]"
+msgstr "Слот инвентаря 1"
+
+msgid "DHTab_Controls.Captions_Inventory[1]"
+msgstr "Слот инвентаря 2"
+
+msgid "DHTab_Controls.Captions_Inventory[2]"
+msgstr "Слот инвентаря 3"
+
+msgid "DHTab_Controls.Captions_Inventory[3]"
+msgstr "Слот инвентаря 4"
+
+msgid "DHTab_Controls.Captions_Inventory[4]"
+msgstr "Слот инвентаря 5"
+
+msgid "DHTab_Controls.Captions_Inventory[6]"
+msgstr "Слот инвентаря 7"
+
+msgid "DHTab_Controls.Captions_Inventory[7]"
+msgstr "Слот инвентаря 8"
+
+msgid "DHTab_Controls.Captions_Inventory[8]"
+msgstr "Слот инвентаря 9"
+
+msgid "DHTab_Controls.Captions_Inventory[9]"
+msgstr "Слот инвентаря 0"
+
+msgid "DHTab_Controls.ControlProfiles[0]"
+msgstr "Текущий"
+
+msgid "DHTab_Controls.ControlProfiles[2]"
+msgstr "RO Classic"
+
+msgid "DHTab_Controls.ControlProfiles[3]"
+msgstr "Pro 104"
+
+msgid "DHTab_Controls.ControlProfiles[4]"
+msgstr "Pro 105"
+
+msgid "DHTab_Controls.ControlProfiles[5]"
+msgstr "XBox 360 Controller"
+
+msgid "DHTab_Controls.captions_weapons[9]"
+msgstr "Сменить ствол пулемета"
+
+msgid "DHTab_Controls.captions_weapons[12]"
+msgstr "Увеличьте дальность/поворот дымовой установки транспортного средства"
+
+msgid "DHTab_Controls.captions_weapons[13]"
+msgstr "Уменьшить дальность/поворот дымовой установки транспортного средства"
+
+msgid "DHTab_Controls.captions_weapons[14]"
+msgstr "Переключить выбранную артиллерийскую цель"
+
+msgid "DHTab_Controls.captions_comm[3]"
+msgstr "Сказать отряду"
+
+msgid "DHTab_Controls.captions_comm[5]"
+msgstr "Посмотреть внутриигровой чат"
+
+msgid "DHTab_Controls.captions_comm[6]"
+msgstr "Активировать микрофон"
+
+msgid "DHTab_Controls.captions_comm[8]"
+msgstr "Переключиться на местный голосовой канал"
+
+msgid "DHTab_Controls.captions_comm[9]"
+msgstr "Переключиться на неназначенный голосовой канал"
+
+msgid "DHTab_Controls.captions_comm[11]"
+msgstr "Нажать вводить сообщение в чат"
+
+msgid "DHTab_Controls.captions_comm[12]"
+msgstr "Отключить звук"
+
+msgid "DHTab_Controls.captions_game[4]"
+msgstr "Блокировка/разблокировка бронеавтомобиля"
+
+msgid "DHTab_Controls.captions_game[5]"
+msgstr "Меню приказов отряда"
+
+msgid "DHTab_Controls.captions_game[6]"
+msgstr "Меню отряда"
+
+msgid "DHTab_Controls.captions_game[8]"
+msgstr "Разместить точку сбора"
