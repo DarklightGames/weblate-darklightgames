@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 07:30+0000\n"
+"PO-Revision-Date: 2023-12-07 07:33+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -641,3 +641,21 @@ msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
 msgstr ""
 "Чтобы разрушить штаб вражеского взвода, поблизости должен быть еще один "
 "товарищ по команде!"
+
+msgid "DHVehicleCannon.ProjectileDescriptions[1]"
+msgstr "Осколочно-фугасный (HE)"
+
+msgid "DHVehicleCannonPawn.RangeText"
+msgstr "метры"
+
+msgid "DHVehicleCannonPawn.HudName"
+msgstr "Командир"
+
+msgid "DHVehicleCollisionDamageType.FemaleSuicide"
+msgstr "%o погиб в автокатастрофе."
+
+msgid "DHVehicleCannon.ProjectileDescriptions[0]"
+msgstr "Бронебойный (APCBC)"
+
+msgid "DHVehicleCollisionDamageType.DeathString"
+msgstr "%o погиб в результате столкновения с автомобилем %k."
