@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 05:43+0000\n"
+"PO-Revision-Date: 2023-12-07 07:30+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/uk/>\n"
@@ -68,3 +68,6 @@ msgstr "20-мм зенітна гармата FlaK 38"
 
 msgid "DH_Bofors40mmCannon.ProjectileDescriptions[1]"
 msgstr "Бронебійний (AP)"
+
+msgid "DH_M116Cannon.ProjectileDescriptions[1]"
+msgstr "Комулятивний (HEAT)"
