@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 07:49+0000\n"
+"PO-Revision-Date: 2023-12-07 09:25+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -142,7 +142,7 @@ msgid "DHAlliedSergeantRoles.AltName"
 msgstr ""
 
 msgid "DHAlliedSergeantRoles.PluralName"
-msgstr ""
+msgstr "Сержанты"
 
 msgid "DHAlliedSniperRoles.AltName"
 msgstr ""
@@ -739,3 +739,48 @@ msgstr ""
 
 msgid "DHVehicleMessage.UnbuttonHatchToChangePosition"
 msgstr "Чтобы изменить положение, необходимо открыть люк {0}"
+
+msgid "DHGameType_Armored_Advance.GameTypeName"
+msgstr "Танковое Наступление"
+
+msgid "DHGameType.GameTypeName"
+msgstr "Неизвестный тип игры"
+
+msgid "DHGameType_Advance.GameTypeName"
+msgstr "Наступление"
+
+msgid "DHGameType_Cutoff.GameTypeName"
+msgstr "Отсечение войск"
+
+msgid "DHGameType_Defence.GameTypeName"
+msgstr "Оборона"
+
+msgid "DHGameType_Domination.GameTypeName"
+msgstr "Доминация"
+
+msgid "DHGameType_Push.GameTypeName"
+msgstr "Штурм"
+
+msgid "DHHintManager.Hints[0].Title"
+msgstr "Добро пожаловать в Darkest Hour!"
+
+msgid "DHHintManager.Hints[1].Title"
+msgstr "Погружение в бой"
+
+msgid "DHVehicleMessage.CannotEnter"
+msgstr "Нет места в транспорте"
+
+msgid "DHVehiclePoolMessage.ActivatedMessage"
+msgstr "Точка возрождения транспортных средств активирована."
+
+msgid "DHGameType_Clash.GameTypeName"
+msgstr "Столкновение"
+
+msgid "DHGameType_Stalemate.GameTypeName"
+msgstr "Безвыходная ситуация"
+
+msgid "DHHintManager.Hints[0].Text"
+msgstr ""
+"Эти подсказки будут периодически появляться в игре. Обратите на них "
+"внимание, от этого может зависить ваше выживание! Их можно отключить на "
+"вкладке Интерфейс в настройках."
