@@ -1,2 +1,66 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-08 01:15+0000\n"
+"Last-Translator: Argilas <argilas@hotmail.com>\n"
+"Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_guns/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "DH_17PounderGunCannonPawn.RangeText"
+msgstr "Yardas"
+
+msgid "DH_45mmM1937Gun.VehicleNameString"
+msgstr "Cañón AT 45mm 53-K (1937)"
+
+msgid "DH_45mmM1937GunCannon.nProjectileDescriptions[0]"
+msgstr "BR-240"
+
+msgid "DH_45mmM1937GunCannon.nProjectileDescriptions[1]"
+msgstr "O-240"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions[0]"
+msgstr "BR-240"
+
+msgid "DH_17PounderGun.VehicleNameString"
+msgstr "Cañón AT 17 Pounder"
+
+msgid "DH_45mmM1942Gun.VehicleNameString"
+msgstr "Cañón AT M-42 45 mm"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions[1]"
+msgstr "O-240"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions[2]"
+msgstr "BR-240P"
+
+msgid "DH_6PounderGun.VehicleNameString"
+msgstr "Cañón AT 6 Pounder Mk.IV"
+
+msgid "DH_6PounderGunCannonPawn.RangeText"
+msgstr "Yardas"
+
+msgid "DH_AT57Gun.VehicleNameString"
+msgstr "Cañón AT M1 57mm"
+
+msgid "DH_Bofors40mmGun.VehicleNameString"
+msgstr "Cañón Bofors 40mm"
+
+msgid "DH_Flak38Gun.VehicleNameString"
+msgstr "Cañón FlaK 38 2cm"
+
+msgid "DH_Flak88Gun.VehicleNameString"
+msgstr "Cañón FlaK 36 8,8cm"
+
+msgid "DH_Flakvierling38Gun.VehicleNameString"
+msgstr "Cañón Flakvierling 38 2cm"
+
+msgid "DH_LeIG18Gun.VehicleNameString"
+msgstr "7.5 cm leichtes Infanteriegeschütz 18"
+
+msgid "DH_M45QuadmountGun.VehicleNameString"
+msgstr "M45 Quadmount"
