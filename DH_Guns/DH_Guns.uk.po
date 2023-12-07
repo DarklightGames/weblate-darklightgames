@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 03:14+0000\n"
+"PO-Revision-Date: 2023-12-07 05:43+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/uk/>\n"
@@ -22,13 +22,49 @@ msgid "DH_45mmM1942Gun.VehicleNameString"
 msgstr "45-мм протитанкова гармата М-42"
 
 msgid "DH_45mmM1942GunCannon.ProjectileDescriptions[0]"
-msgstr "БСБН"
+msgstr "Бронебійний (APBC)"
 
 msgid "DH_45mmM1942GunCannon.ProjectileDescriptions[1]"
-msgstr "ОФС"
+msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_45mmM1937GunCannon.ProjectileDescriptions[1]"
-msgstr "ОФС"
+msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_45mmM1937GunCannon.ProjectileDescriptions[0]"
-msgstr "БСБН"
+msgstr "Бронебійний (APBC)"
+
+msgid "DH_17PounderGun.VehicleNameString"
+msgstr "Протитанкова гармата QF 17-pounder"
+
+msgid "DH_17PounderGunCannonPawn.RangeText"
+msgstr "Ярдів"
+
+msgid "DH_45mmM1937Gun.VehicleNameString"
+msgstr "45-мм протитанкова гармата 53-К"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions[1]"
+msgstr "О-240"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions[2]"
+msgstr "БР-240П"
+
+msgid "DH_6PounderGun.VehicleNameString"
+msgstr "Протитанкова гармата QF 6-pounder Mk.IV"
+
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions[2]"
+msgstr "Підкаліберний (APCR)"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions[0]"
+msgstr "БР-240"
+
+msgid "DH_6PounderGunCannonPawn.RangeText"
+msgstr "Ярдів"
+
+msgid "DH_Bofors40mmGun.VehicleNameString"
+msgstr "40-мм автоматична гармата Bofors L60"
+
+msgid "DH_Flak38Gun.VehicleNameString"
+msgstr "20-мм зенітна гармата FlaK 38"
+
+msgid "DH_Bofors40mmCannon.ProjectileDescriptions[1]"
+msgstr "Бронебійний (AP)"
