@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 07:30+0000\n"
+"PO-Revision-Date: 2023-12-08 01:14+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/uk/>\n"
@@ -142,7 +142,7 @@ msgid "DH_ISU152Cannon_Late.nProjectileDescriptions[1]"
 msgstr "БР-540Б"
 
 msgid "DH_BT7Cannon.ProjectileDescriptions[0]"
-msgstr "Бронебійний (APHE-T)"
+msgstr "Каморний (APHE-T)"
 
 msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions[0]"
 msgstr "Бронебійний (APCBC)"
