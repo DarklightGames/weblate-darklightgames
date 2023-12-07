@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 03:07+0000\n"
+"PO-Revision-Date: 2023-12-07 03:14+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/uk/>\n"
@@ -22,4 +22,13 @@ msgid "DH_45mmM1942Gun.VehicleNameString"
 msgstr "45-мм протитанкова гармата М-42"
 
 msgid "DH_45mmM1942GunCannon.ProjectileDescriptions[0]"
+msgstr "БСБН"
+
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions[1]"
+msgstr "ОФС"
+
+msgid "DH_45mmM1937GunCannon.ProjectileDescriptions[1]"
+msgstr "ОФС"
+
+msgid "DH_45mmM1937GunCannon.ProjectileDescriptions[0]"
 msgstr "БСБН"
