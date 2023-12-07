@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 21:45+0000\n"
-"Last-Translator: Birdy <shiftybirds@gmail.com>\n"
+"PO-Revision-Date: 2023-12-07 07:30+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
 "Language: uk\n"
@@ -192,3 +192,88 @@ msgstr ""
 "Після постріла з Базуки або Панцершреку, швидко знайдіть нове укриття, "
 "оскільки дим від вихлопу розкриє ваше місцезнаходження. По вам обов'язково "
 "відкриють зворотний вогонь!"
+
+msgid "DHAxisSniperRoles.PluralName"
+msgstr "Снайпери"
+
+msgid "DHArtilleryMessage.ExhaustedText"
+msgstr ""
+
+#, fuzzy
+msgid "DHArtillerySpottingScope.NoTargetsHint"
+msgstr "Немає доступних цілей"
+
+msgid "DHArtilleryTargetMessage.TooManyArtilleryTargets"
+msgstr "Занадто багато активних цілей для артилерії"
+
+msgid "DHAxisAntiTankRoles.MyName"
+msgstr "Протитанковий солдат"
+
+msgid "DHAxisAntiTankRoles.PluralName"
+msgstr "Протитанкові солдати"
+
+msgid "DHAxisAssaultRoles.MyName"
+msgstr "Штурмовик"
+
+msgid "DHAxisAssaultRoles.PluralName"
+msgstr "Штурмовики"
+
+msgid "DHAxisCorporalRoles.MyName"
+msgstr "Капрал"
+
+msgid "DHAxisCorporalRoles.PluralName"
+msgstr "Капрали"
+
+msgid "DHAxisEngineerRoles.MyName"
+msgstr "Сапер"
+
+msgid "DHAxisEngineerRoles.PluralName"
+msgstr "Сапери"
+
+msgid "DHAxisMachineGunnerRoles.MyName"
+msgstr "Кулеметник"
+
+msgid "DHAxisMachineGunnerRoles.PluralName"
+msgstr "Кулеметники"
+
+msgid "DHAxisMarksmanRoles.MyName"
+msgstr "Марксмен"
+
+msgid "DHAxisMarksmanRoles.PluralName"
+msgstr "Марксмени"
+
+msgid "DHAxisMortarmanRoles.MyName"
+msgstr "Мінометник"
+
+msgid "DHAxisMortarmanRoles.PluralName"
+msgstr "Мінометники"
+
+msgid "DHAxisRadioOperatorRoles.MyName"
+msgstr "Радист"
+
+msgid "DHAxisRadioOperatorRoles.PluralName"
+msgstr "Радисти"
+
+msgid "DHAxisRiflemanRoles.MyName"
+msgstr "Стрілець"
+
+msgid "DHAxisRiflemanRoles.PluralName"
+msgstr "Стрільці"
+
+msgid "DHAxisSergeantRoles.MyName"
+msgstr "Сержант"
+
+msgid "DHAxisSergeantRoles.PluralName"
+msgstr "Сержанти"
+
+msgid "DHAxisSniperRoles.MyName"
+msgstr "Снайпер"
+
+msgid "DHAxisTankCrewmanRoles.MyName"
+msgstr "Екіпаж танка"
+
+msgid "DHAxisTankCrewmanRoles.PluralName"
+msgstr "Екіпажі танків"
+
+msgid "DHBritishCannonPawn.RangeText"
+msgstr "ярдів"
