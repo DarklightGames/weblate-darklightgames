@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 21:45+0000\n"
+"PO-Revision-Date: 2023-12-07 07:30+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -461,7 +461,7 @@ msgid "DHFireSupportMessage.ErrorText"
 msgstr "Не удалось разместить маркер огневой поддержки."
 
 msgid "DHGameMessage.VehicleDestroyedMessage"
-msgstr "{0} уничтожен."
+msgstr "{0} уничтожено."
 
 msgid "DHGameMessage.VehicleDepletedMessage"
 msgstr "Подкрепления: {0} исчерпаны."
