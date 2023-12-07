@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 03:07+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2023-12-07 07:30+0000\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/ru/>\n"
 "Language: ru\n"
@@ -61,7 +61,7 @@ msgid "DHConstructionGroup_Ammunition.GroupName"
 msgstr "Боеприпасы"
 
 msgid "DHConstruction_Resupply.ConstructionVerb"
-msgstr "бросить"
+msgstr "установить"
 
 msgid "DHConstruction_Resupply_Players.MenuName"
 msgstr "Ящик с боеприпасами (пехота)"
@@ -126,7 +126,7 @@ msgid "DHCommandMenu_ConstructionGroup.NotAvailableText"
 msgstr "Нету в наличии"
 
 msgid "DHConstruction_InventorySpawner.ConstructionVerb"
-msgstr "бросить"
+msgstr "установить"
 
 msgid "DHConstruction_Resupply_Vehicles.MenuDescription"
 msgstr "Обеспечивает точку пополнения припасов транспортных средств и орудий."
@@ -141,7 +141,7 @@ msgid "DHConstruction_MortarPit.MenuName"
 msgstr "Минометная яма"
 
 msgid "DHConstruction_SupplyCache.ConstructionVerb"
-msgstr "бросить"
+msgstr "установить"
 
 msgid "DHCommandMenu_ConstructionGroup.BusyText"
 msgstr "Занят"
