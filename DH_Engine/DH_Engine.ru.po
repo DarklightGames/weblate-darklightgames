@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 07:33+0000\n"
+"PO-Revision-Date: 2023-12-07 07:49+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -665,3 +665,77 @@ msgstr "%o погиб в автокатастрофе."
 
 msgid "DHVehicleMGPawn.HudName"
 msgstr "MG"
+
+msgid "DHVehicleMessage.AllRiderPositionsFull"
+msgstr "Все места водителей заняты"
+
+msgid "DHVehicleMessage.NoRiderPositions"
+msgstr "Вы не можете управлять этим транспортным средством"
+
+msgid "DHVehicleMessage.VehicleBurning"
+msgstr "Транспортное средство горит!"
+
+msgid "DHVehicleMessage.OpenHatchToExit"
+msgstr "Чтобы выйти, необходимо открыть люк {0}"
+
+msgid "DHVehicleMessage.ExitCommandersHatch"
+msgstr "Вы должны выйти через командирский люк"
+
+msgid "DHVehicleMessage.ExitDriverOrComHatch"
+msgstr "Выход через люк механика-водителя или командира"
+
+msgid "DHVehicleMessage.ExitCommandersOrMGHatch"
+msgstr "Выход через командирский или пулеметный люк"
+
+msgid "DHVehicleMessage.CantFindExitPosition"
+msgstr "Нет места для выхода"
+
+msgid "DHVehicleMessage.VehicleNowUnlocked"
+msgstr "Позиции экипажа танка в этой машине теперь разблокированы"
+
+msgid "DHVehicleMessage.CantEnterLockedVehicle"
+msgstr "Это транспортное средство было заблокировано его экипажем"
+
+msgid "DHVehicleMessage.OnlyTankCrewCanLockVehicle"
+msgstr "Только члены экипажа танка могут запирать и разблокировать машину"
+
+msgid "DHVehicleMessage.OtherCrewmanCanLockVehicle"
+msgstr ""
+"Только самый старший член экипажа может запереть или разблокировать "
+"транспортное средство"
+
+msgid "DHVehicleMessage.UnbuttonToReload"
+msgstr "Для перезагрузрядкинеобходимо открыть люк {0}"
+
+msgid "DHVehicleMessage.VehicleScuttleInitiated"
+msgstr "в настоящее время устарел"
+
+msgid "DHVehicleMessage.NotQualified"
+msgstr "Вы не имеете квалификации для управления данным транспортом"
+
+msgid "DHVehicleMessage.VehicleIsEnemy"
+msgstr "Вы не можете использовать вражескую технику"
+
+msgid "DHVehicleMessage.VehicleNowLocked"
+msgstr "Позиции экипажа теперь заблокированы"
+
+msgid "DHVehicleMessage.AbandonedVehicleUnlocked"
+msgstr ""
+"Вы слишком долго оставили запертое транспортное средство, и теперь он "
+"разблокирован"
+
+msgid "DHVehicleMessage.CantLockNonCrewVehicle"
+msgstr ""
+"Невозможно заблокировать транспортное средство, поскольку ею могут управлять "
+"члены экипажа, не являющиеся танкистами"
+
+msgid "DHVehicleMessage.MapDisabledVehicleLocking"
+msgstr "Эта карта не позволяет блокировать транспортные средства"
+
+msgid "DHVehicleMessage.CanOnlyLockFromCrewPosition"
+msgstr ""
+"Заблокировать или разблокировать транспортное средство можно только в том "
+"случае, если вы находитесь в позиции экипажа танка"
+
+msgid "DHVehicleMessage.UnbuttonHatchToChangePosition"
+msgstr "Чтобы изменить положение, необходимо открыть люк {0}"
