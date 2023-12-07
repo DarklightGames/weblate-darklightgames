@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 07:33+0000\n"
+"PO-Revision-Date: 2023-12-08 01:15+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
@@ -133,10 +133,10 @@ msgid "DH_Cromwell95mmCannon.nProjectileDescriptions[2]"
 msgstr "Mk.I HEAT"
 
 msgid "DH_CromwellCannon.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_CromwellCannon.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_CromwellTank.VehicleNameString"
 msgstr "Кромвель Мк.IV"
@@ -217,19 +217,19 @@ msgid "DH_Fiat626TruckTransport.VehicleNameString"
 msgstr "Fiat 626 (Транспорт)"
 
 msgid "DH_Flak38Cannon.ProjectileDescriptions[1]"
-msgstr "AP"
+msgstr "Бронебойный (AP)"
 
 msgid "DH_Flak38Cannon.ProjectileDescriptions[2]"
 msgstr "HE-T"
 
 msgid "DH_GreyhoundCannon.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_GreyhoundCannon.ProjectileDescriptions[1]"
 msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_HellcatCannon.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_HellcatCannon.ProjectileDescriptions[1]"
 msgstr "Подкалиберный (HVAP)"
@@ -247,16 +247,16 @@ msgid "DH_HellcatTank.VehicleNameString"
 msgstr "М18 Адский кот"
 
 msgid "DH_HetzerCannon.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_HetzerCannon.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_IS2Cannon.ProjectileDescriptions[0]"
-msgstr "AP"
+msgstr "Бронебойный (AP)"
 
 msgid "DH_IS2Cannon.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_IS2Cannon_Late.nProjectileDescriptions[0]"
 msgstr "БР-471Б"
@@ -322,13 +322,13 @@ msgid "DH_JagdtigerCannon.nProjectileDescriptions[1]"
 msgstr "Schw.Spgr.Patr"
 
 msgid "DH_IS2Cannon_Late.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_ISU152Cannon.ProjectileDescriptions[0]"
 msgstr "HE"
 
 msgid "DH_ISU152Cannon.ProjectileDescriptions[1]"
-msgstr "AP"
+msgstr "Бронебойный (AP)"
 
 msgid "DH_ISU152Cannon_Late.ProjectileDescriptions[0]"
 msgstr "Осколочно-фугасный (HE)"
@@ -337,7 +337,7 @@ msgid "DH_ISU152Cannon_Late.ProjectileDescriptions[1]"
 msgstr "APBC"
 
 msgid "DH_JacksonCannon.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_JacksonCannon.ProjectileDescriptions[1]"
 msgstr "Подкалиберный (HVAP)"
@@ -352,10 +352,10 @@ msgid "DH_JacksonCannon.nProjectileDescriptions[2]"
 msgstr "M71 HE-T"
 
 msgid "DH_JacksonCannon_Early.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_JacksonCannon_Early.ProjectileDescriptions[1]"
-msgstr "AP"
+msgstr "Бронебойный (AP)"
 
 msgid "DH_JacksonCannon_Early.ProjectileDescriptions[2]"
 msgstr "HE"
@@ -370,7 +370,7 @@ msgid "DH_JagdpantherTank.VehicleNameString"
 msgstr "Jagdpanzer V 'Ягдпантера'"
 
 msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions[1]"
 msgstr "Осколочно-фугасный (HE)"
@@ -379,10 +379,10 @@ msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
 
 msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions[1]"
-msgstr "APCR"
+msgstr "Подкалиберный (APCR)"
 
 msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions[2]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_KubelwagenCar_WH.VehicleNameString"
 msgstr "Фольксваген Тип 82"
@@ -460,7 +460,7 @@ msgid "DH_KV1sCannon_Late.ProjectileDescriptions[1]"
 msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_KV1sCannon_Late.ProjectileDescriptions[2]"
-msgstr "APCR"
+msgstr "Подкалиберный (APCR)"
 
 msgid "DH_KV1sCannon_Late.nProjectileDescriptions[0]"
 msgstr "BR-350B"
@@ -475,7 +475,7 @@ msgid "DH_KV1sTank.VehicleNameString"
 msgstr "KV-1S"
 
 msgid "DH_LocustCannon.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_LocustCannon.ProjectileDescriptions[1]"
 msgstr "Осколочно-фугасный (HE)"
@@ -496,16 +496,16 @@ msgid "DH_Marder3MDestroyer.VehicleNameString"
 msgstr "Marder III Ausf.M"
 
 msgid "DH_PantherDCannon.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_PantherDCannon.ProjectileDescriptions[1]"
-msgstr "APCR"
+msgstr "Подкалиберный (APCR)"
 
 msgid "DH_PantherDCannon.ProjectileDescriptions[2]"
 msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_PanzerIIILCannon.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_PanzerIIILCannon.nProjectileDescriptions[0]"
 msgstr "PzGr.39"
@@ -574,7 +574,7 @@ msgid "DH_PanzerIIINCannon.nProjectileDescriptions[1]"
 msgstr "Gr.38 Hl/C"
 
 msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions[1]"
 msgstr "Кумультивный (HEAT)"
@@ -586,10 +586,10 @@ msgid "DH_PanzerIVF1Cannon.nProjectileDescriptions[1]"
 msgstr "Gr.38 Hl/B"
 
 msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions[2]"
 msgstr "Кумультивный (HEAT)"
@@ -598,7 +598,7 @@ msgid "DH_PanzerIVGEarlyCannon.nProjectileDescriptions[2]"
 msgstr "Gr.38 Hl/B"
 
 msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions[1]"
 msgstr "Осколочно-фугасный (HE)"
@@ -616,7 +616,7 @@ msgid "DH_SU76Cannon.ProjectileDescriptions[1]"
 msgstr "HE"
 
 msgid "DH_SU76Cannon.ProjectileDescriptions[2]"
-msgstr "APCR"
+msgstr "Подкалиберный (APCR)"
 
 msgid "DH_SU76Cannon.nProjectileDescriptions[0]"
 msgstr "BR-350B"
@@ -703,7 +703,7 @@ msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions[2]"
 msgstr "APCR-T"
 
 msgid "DH_ShermanCannon.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_ShermanCannon.ProjectileDescriptions[1]"
 msgstr "Осколочно-фугасный (HE)"
@@ -733,7 +733,7 @@ msgid "DH_ShermanCannonA_76mm_Early.ProjectileDescriptions[0]"
 msgstr "APCBC"
 
 msgid "DH_ShermanCannonA_76mm_Early.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_ShermanCannonA_76mm_Early.nProjectileDescriptions[0]"
 msgstr "M62 APC"
@@ -862,10 +862,10 @@ msgid "DH_StuH42Destroyer.VehicleNameString"
 msgstr "StuH42 Ausf.G"
 
 msgid "DH_StuartCannon.ProjectileDescriptions[0]"
-msgstr "APCBC"
+msgstr "Бронебойный (APCBC)"
 
 msgid "DH_StuartCannon.ProjectileDescriptions[1]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_StuartCannon.ProjectileDescriptions[2]"
 msgstr "Картечь"
@@ -955,10 +955,10 @@ msgid "DH_T3485Cannon.ProjectileDescriptions[0]"
 msgstr "APBC"
 
 msgid "DH_T3485Cannon.ProjectileDescriptions[1]"
-msgstr "APCR"
+msgstr "Подкалиберный (APCR)"
 
 msgid "DH_T3485Cannon.ProjectileDescriptions[2]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_T3485Cannon.nProjectileDescriptions[0]"
 msgstr "BR-365"
@@ -1147,7 +1147,7 @@ msgid "DH_SdKfz2519DCannon.ProjectileDescriptions[1]"
 msgstr "Кумультивный (HEAT)"
 
 msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions[0]"
-msgstr "HE"
+msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_ShermanTank_M4A3E8_Fury.VehicleNameString"
 msgstr "Шерман M4A3E8 'Ярость'"
@@ -1168,7 +1168,7 @@ msgid "DH_M7PriestCannon.nProjectileDescriptions[0]"
 msgstr "M1 HE-T"
 
 msgid "DH_PanzerIIILCannon.ProjectileDescriptions[1]"
-msgstr "APCR"
+msgstr "Подкалиберный (APCR)"
 
 msgid "DH_SdKfz2519DTransport.VehicleNameString"
 msgstr "Sd.Kfz.251/9 Ausf.D Stummel"
@@ -1204,7 +1204,7 @@ msgid "DH_StuartCannon.nProjectileDescriptions[2]"
 msgstr "Канистра М2"
 
 msgid "DH_T3476_43Cannon.ProjectileDescriptions[2]"
-msgstr "APCR"
+msgstr "Подкалиберный (APCR)"
 
 msgid "DH_T60Tank.VehicleNameString"
 msgstr "Легкий танк Т-60"
