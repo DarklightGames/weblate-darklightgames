@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 19:08+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2023-12-07 01:16+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_sovietplayers/ru/>\n"
 "Language: ru\n"
@@ -19,7 +19,7 @@ msgid "DHSOVSergeantRoles.PluralName"
 msgstr "Командиры отрядов"
 
 msgid "DHPOLMachineGunnerRoles.AltName"
-msgstr "Celowniczy KM"
+msgstr ""
 
 msgid "DHSOVRadioOperatorRoles.AltName"
 msgstr "Радист"
@@ -28,49 +28,49 @@ msgid "DHSOVSergeantRoles.AltName"
 msgstr "Командир отделения"
 
 msgid "DHPOLEngineerRoles.AltName"
-msgstr "Saper"
+msgstr ""
 
 msgid "DHPOLAntiTankRoles.AltName"
-msgstr "Strzelec przeciwpancerny"
+msgstr ""
 
 msgid "DHPOLRiflemanRoles.AltName"
-msgstr "Radzista"
+msgstr ""
 
 msgid "DHCSEngineerRoles.AltName"
-msgstr "Zenista"
+msgstr ""
 
 msgid "DHSOVAntiTankRoles.AltName"
 msgstr "Бронебойщик"
 
 msgid "DHCSCorporalRoles.AltName"
-msgstr "Desatnik"
+msgstr ""
 
 msgid "DHNation_USSR.NationName"
 msgstr "Союз Советских Социалистических Республик"
 
 msgid "DHPOLRadioOperatorRoles.AltName"
-msgstr "Radzista"
+msgstr ""
 
 msgid "DHSOVCorporalRoles.AltName"
 msgstr "Командир звена"
 
 msgid "DHCSTankCrewmanRoles.AltName"
-msgstr "Tankista"
+msgstr ""
 
 msgid "DHPOLAssaultRoles.AltName"
-msgstr "Szturmowiec"
+msgstr ""
 
 msgid "DHCSMachineGunnerRoles.AltName"
-msgstr "Kulоmetcik"
+msgstr ""
 
 msgid "DHCSRiflemanRoles.AltName"
-msgstr "Strelec"
+msgstr ""
 
 msgid "DHPOLSergeantRoles.AltName"
-msgstr "Plutonowy"
+msgstr ""
 
 msgid "DHPOLCorporalRoles.AltName"
-msgstr "Kapral"
+msgstr ""
 
 msgid "DHSOVEngineerRoles.AltName"
 msgstr "Сапер"
@@ -79,10 +79,10 @@ msgid "DHSOVTankCrewmanRoles.AltName"
 msgstr "Экипаж танка"
 
 msgid "DHPOLTankCrewmanRoles.AltName"
-msgstr "Czolgista"
+msgstr ""
 
 msgid "DHCSAntiTankRoles.AltName"
-msgstr "Protitankovy strelec"
+msgstr ""
 
 msgid "DHSOVSergeantRoles.MyName"
 msgstr "Командир отряда"
@@ -91,7 +91,7 @@ msgid "DHSOVAssaultRoles.AltName"
 msgstr "Автоматчик"
 
 msgid "DHCSAssaultRoles.AltName"
-msgstr "Samopalnik"
+msgstr ""
 
 msgid "DHSOVCorporalRoles.PluralName"
 msgstr "Лидеры огневой группы"
@@ -106,16 +106,16 @@ msgid "DHSOVCorporalRoles.MyName"
 msgstr "Лидер боевой группы"
 
 msgid "DHCSSergeantRoles.AltName"
-msgstr "Cetar"
+msgstr ""
 
 msgid "DHNation_Poland.NationName"
 msgstr "Польская Народная армия"
 
 msgid "DHNation_Poland.NativeNationName"
-msgstr "Ludowe Wojsko Polskie"
+msgstr ""
 
 msgid "DHPOLSniperRoles.AltName"
-msgstr "Strzelec wyborowy"
+msgstr ""
 
 msgid "DHCSSniperRoles.AltName"
-msgstr "Odstrelovac"
+msgstr ""
