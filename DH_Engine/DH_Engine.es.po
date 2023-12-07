@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 19:08+0000\n"
-"Last-Translator: Argilas <argilas@hotmail.com>\n"
+"PO-Revision-Date: 2023-12-07 01:45+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
 "Language: es\n"
@@ -27,7 +27,7 @@ msgid "DHAlliedAntiTankRoles.MyName"
 msgstr "Soldado Antitanque"
 
 msgid "DHAlliedAntiTankRoles.AltName"
-msgstr "Soldado Antitanque"
+msgstr ""
 
 msgid "DHAlliedAntiTankRoles.PluralName"
 msgstr "Soldados Antitanque"
@@ -45,13 +45,13 @@ msgid "DHAlliedEngineerRoles.MyName"
 msgstr "Zapador"
 
 msgid "DHAlliedEngineerRoles.AltName"
-msgstr "Zapador"
+msgstr ""
 
 msgid "DHAlliedEngineerRoles.PluralName"
 msgstr "Zapadores"
 
 msgid "DHAlliedRiflemanRoles.AltName"
-msgstr "Fusilero"
+msgstr ""
 
 msgid "DHAlliedRiflemanRoles.PluralName"
 msgstr "Fusileros"
@@ -60,13 +60,13 @@ msgid "DHAlliedSergeantRoles.MyName"
 msgstr "Sargento"
 
 msgid "DHAlliedSergeantRoles.AltName"
-msgstr "Sargento"
+msgstr ""
 
 msgid "DHAlliedSniperRoles.MyName"
 msgstr "Francotirador"
 
 msgid "DHAlliedSniperRoles.AltName"
-msgstr "Francotirador"
+msgstr ""
 
 msgid "DHAlliedSniperRoles.PluralName"
 msgstr "Francotiradores"
@@ -75,7 +75,7 @@ msgid "DHAlliedTankCrewmanRoles.MyName"
 msgstr "Tripulante de tanque"
 
 msgid "DHAlliedTankCrewmanRoles.AltName"
-msgstr "Tripulante de tanque"
+msgstr ""
 
 msgid "DHAlliedTankCrewmanRoles.PluralName"
 msgstr "Tripulantes de tanque"
@@ -90,13 +90,13 @@ msgid "DHATCannonMessage.VehicleIsEnemy"
 msgstr "No puede usar un cañón enemigo"
 
 msgid "DHAlliedAssaultRoles.AltName"
-msgstr "Tropa de Asalto"
+msgstr ""
 
 msgid "DHAlliedAssaultRoles.PluralName"
 msgstr "Tropas de Asalto"
 
 msgid "DHAlliedCorporalRoles.AltName"
-msgstr "Cabo"
+msgstr ""
 
 msgid "DHAlliedRiflemanRoles.MyName"
 msgstr "Fusilero"
