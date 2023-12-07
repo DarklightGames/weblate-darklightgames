@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 09:25+0000\n"
+"PO-Revision-Date: 2023-12-08 01:15+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ru/>\n"
@@ -19,7 +19,7 @@ msgid "DH_M1927Cannon.ProjectileDescriptions[0]"
 msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_PantherturmCannon.ProjectileDescriptions[1]"
-msgstr "Бронебойный (APCR)"
+msgstr "Подкалиберный (APCR)"
 
 msgid "DH_6PounderGunCannonPawn.RangeText"
 msgstr "Ярды"
@@ -46,7 +46,7 @@ msgid "DH_17PounderGun.VehicleNameString"
 msgstr "17-фунтовое противотанковое орудие"
 
 msgid "DH_Pak39Cannon.ProjectileDescriptions[1]"
-msgstr "Бронебойный (APCR)"
+msgstr "Подкалиберный (APCR)"
 
 msgid "DH_M116Cannon.nProjectileDescriptions[1]"
 msgstr "Фугас М66"
@@ -112,7 +112,7 @@ msgid "DH_45mmM1937GunCannon.nProjectileDescriptions[1]"
 msgstr "О-240"
 
 msgid "DH_Pak40Cannon.ProjectileDescriptions[2]"
-msgstr "Бронебойный (APCR)"
+msgstr "Подкалиберный (APCR)"
 
 msgid "DH_ZiS3CannonLate.nProjectileDescriptions[1]"
 msgstr "ОФ-350"
@@ -127,7 +127,7 @@ msgid "DH_PantherturmCannon.nProjectileDescriptions[0]"
 msgstr "PzGr.39/42"
 
 msgid "DH_ZiS3CannonLate.ProjectileDescriptions[2]"
-msgstr "Бронебойный (APCR)"
+msgstr "Подкалиберный (APCR)"
 
 msgid "DH_ZiS3Cannon.nProjectileDescriptions[0]"
 msgstr "БР-350Б"
@@ -154,7 +154,7 @@ msgid "DH_Pak40Cannon.nProjectileDescriptions[2]"
 msgstr "PzGr.40"
 
 msgid "DH_Pak38Cannon.ProjectileDescriptions[1]"
-msgstr "Бронебойный (APCR)"
+msgstr "Подкалиберный (APCR)"
 
 msgid "DH_Pak38Cannon.ProjectileDescriptions[2]"
 msgstr "Осколочно-фугасный (HE)"
@@ -196,7 +196,7 @@ msgid "DH_PantherturmCannon.ProjectileDescriptions[2]"
 msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_ZiS2Cannon.ProjectileDescriptions[2]"
-msgstr "Бронебойный (APCR)"
+msgstr "Подкалиберный (APCR)"
 
 msgid "DH_Pak40Cannon.ProjectileDescriptions[1]"
 msgstr "Осколочно-фугасный (HE)"
