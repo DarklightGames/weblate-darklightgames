@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 22:36+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2023-12-07 03:07+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/uk/>\n"
 "Language: uk\n"
@@ -49,10 +49,10 @@ msgid "DHConstruction_Foxhole.MenuName"
 msgstr "Окоп"
 
 msgid "DHConstructionGroup_Defenses.GroupName"
-msgstr "Оборонні Спорудження"
+msgstr "Укріплення"
 
 msgid "DHConstruction_Foxhole.ConstructionVerb"
-msgstr "копати"
+msgstr "викопати"
 
 msgid "DHConstructionControlsMessage.Controls[0].Text"
 msgstr "Підтвердити"
@@ -64,7 +64,7 @@ msgid "DHConstruction_ConcertinaWire.MenuName"
 msgstr "Концерина"
 
 msgid "DHConstruction_DragonsTooth.MenuName"
-msgstr "Зуби Дракона"
+msgstr "Зуби дракона"
 
 msgid "DHConstruction_Radio.MenuName"
 msgstr "Радіо"
@@ -76,7 +76,7 @@ msgid "DHConstructionControlsMessage.Controls[1].Text"
 msgstr "Відмінити"
 
 msgid "DHCommandMenu_ConstructionGroup.NotAvailableText"
-msgstr "Не Доступно"
+msgstr "Не доступно"
 
 msgid "DHConstruction_InventorySpawner.ConstructionVerb"
 msgstr "встановити"
@@ -89,3 +89,30 @@ msgstr "встановити"
 
 msgid "DHConstruction_VehiclePool.MenuName"
 msgstr "Точка відродженя для транспортних засобів"
+
+msgid "DHConstruction_ConcertinaWire.MenuDescription"
+msgstr "Ефективна для блокуванні піхоти та легких машин."
+
+msgid "DHConstruction_PlatoonHQ.MenuName"
+msgstr "Штаб взводу"
+
+msgid "DHConstruction_Hedgehog.MenuDescription"
+msgstr "Ефективні для блокування легких і середніх транспортних засобів."
+
+msgid "DHConstruction_PlatoonHQ.CustomErrorString"
+msgstr ""
+"{name} не можливо {verb} поряд з {string}, якщо не в межах {integer}м від "
+"котрольованої територіЇ."
+
+msgid "DHConstruction_DragonsTooth.MenuDescription"
+msgstr "Ефективні для блокування всіх транспортних засобів."
+
+msgid "DHConstruction_Radio.MenuDescription"
+msgstr "Дозволяє викликати артилерію."
+
+#, fuzzy
+msgid "DHConstruction_MortarPit.MenuName"
+msgstr "Мінометна яма"
+
+msgid "DHCommandMenu_ConstructionGroup.BusyText"
+msgstr "Зайняте"
