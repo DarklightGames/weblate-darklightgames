@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-08 01:15+0000\n"
+"PO-Revision-Date: 2023-12-09 07:59+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -1053,3 +1053,511 @@ msgstr "Меню отряда"
 
 msgid "DHTab_Controls.captions_game[8]"
 msgstr "Разместить точку сбора"
+
+msgid "DHTab_DetailSettings.DetailProjectors.Caption"
+msgstr "Проекторы"
+
+msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
+msgstr "Динамическое расстояние тумана (рекомендуется)"
+
+msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
+msgstr ""
+"Поддерживает FPS на максимально высоком уровне, автоматически регулируя "
+"расстояние тумана в зависимости от FPS"
+
+msgid "DHTab_DetailSettings.ScopeDetail.Caption"
+msgstr "Детали прицела"
+
+msgid "DHTab_GameSettings.NoROIDText"
+msgstr "Сначала необходимо присоединиться к мультиплееру"
+
+msgid "DHTab_GameSettings.LockTankOnEntry.Hint"
+msgstr ""
+"Автоматически блокировать танк (или другую бронетехнику) при появлении в нем "
+"или при входе в пустой танк. Это не позволяет другим игрокам использовать "
+"позиции экипажа танка."
+
+msgid "DHTab_GameSettings.ManualReloading.Hint"
+msgstr ""
+"Снаряды не будут перезаряджаться, пока вы не нажмете кнопку после выстрела. "
+"Это полезно, если вы решите изменить тип снарядов после выстрела"
+
+msgid "DHTab_Hud.GameHudShowWeaponInfo.Caption"
+msgstr "Показать информацию об оружии"
+
+msgid "DHTab_DetailSettings.UseVSyncCheckBox.Hint"
+msgstr ""
+"VSync используется для уменьшения разрывов экрана за счет высокой задержки "
+"ввода (настройки графического процессора могут переопределять многие "
+"графические настройки, такие как эта)"
+
+msgid "DHTab_GameSettings.NetSpeedText[6]"
+msgstr "Определяется пользователем (%NetSpeed%)"
+
+msgid "DHTab_GameSettings.BayonetSpawn.Hint"
+msgstr ""
+"Полезно, если вы всегда хотите, чтобы штык был прикреплен к вам, и вам не "
+"нравится прикреплять его при каждом появлении"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Hint"
+msgstr "Когда отправлять автоматические голосовые оповещения автомобиля"
+
+msgid "DHTab_GameSettings.DynamicNetspeed.Hint"
+msgstr ""
+"Снизит NetSpeed до 6000 или до тех пор, пока пинг не достигнет 40, полезно "
+"для тех, кто хочет лучший пинг по сравнению со стабильным NetSpeed"
+
+msgid "DHTab_GameSettings.PlayersROID.Caption"
+msgstr ""
+"Прежде чем отобразится ваш ID, необходимо сначала присоединиться к "
+"многопользовательской игре"
+
+msgid "DHTab_Hud.ShowChatMessages.Hint"
+msgstr ""
+"Показывать сообщения чата от игроков и сервера. Сообщения по-прежнему можно "
+"читать в консоли."
+
+msgid "DHTab_Input.InputScopedFactor.Caption"
+msgstr "Прицел и коэффициент бинокулярной чувствительности"
+
+msgid "DHTab_MutatorSP.IAMutatorAll.Caption"
+msgstr "Добавить все"
+
+msgid "DHTab_GameSettings.ThrottleOtherVehicles.Caption"
+msgstr ""
+"Инкрементальный дроссель -\n"
+"другие транспортные средства"
+
+msgid "DHTab_GameSettings.ThrottleTanks.Hint"
+msgstr ""
+"Использует дроссельную заслонку для танков, что полезно при длительных "
+"поездках"
+
+msgid "DHTab_GameSettings.ViewFOV.Hint"
+msgstr ""
+"Какую часть мира можно увидеть по ширине экрана. Более низкое поле зрения "
+"дает немного больший масштаб изображения, а более высокое поле зрения "
+"увеличивает масштаб, но дает дополнительное периферийное зрение. Обратите "
+"внимание, что широкоэкранный монитор не обеспечивает дополнительной ширины "
+"обзора; тот же вид распространяется на более широкий экран, а верхняя и "
+"нижняя часть обрезаются."
+
+msgid "DHTab_Hud.GameHudSimpleColours.Hint"
+msgstr "Только красные/синие цвета HUD команды, для игроков с дальтонизмом."
+
+msgid "DHTab_Hud.UseTechnicalAmmoNames.Caption"
+msgstr "Используйте технические названия боеприпасов (Танки/ПТ-орудия)"
+
+msgid "DHTab_Input.InputIronSightBipodFactor.Caption"
+msgstr "Коэффициент чувствительности сошек"
+
+msgid "DHTab_Input.InputMouseLag.Hint"
+msgstr "Включение этой опции уменьшит задержку мыши."
+
+msgid "DHTab_MainSP.NoPreview.Caption"
+msgstr "Предварительный просмотр недоступен"
+
+msgid "DHTab_Controls.PanelCaption"
+msgstr "Управление"
+
+msgid "DHTab_Controls.ControlProfilesComboBox.Caption"
+msgstr "Профили управления"
+
+msgid "DHTab_Controls.InputBK1.Caption"
+msgstr "Привязки"
+
+msgid "DHTab_DetailSettings.RenderModeText[0]"
+msgstr "Direct3D 9.0 (рекомендуется)"
+
+msgid "DHTab_DetailSettings.RenderModeText[1]"
+msgstr "Direct3D 8.0 (проблемы с рендерингом)"
+
+msgid "DHTab_DetailSettings.RenderModeText[2]"
+msgstr "OpenGL (нестабильный)"
+
+msgid "DHTab_DetailSettings.RelaunchQuestion"
+msgstr ""
+"Графические настройки успешно изменены. Однако они не вступят в силу до "
+"следующего запуска игры. Хотите перезапустить игру прямо сейчас?"
+
+msgid "DHTab_DetailSettings.BrightnessSlider.Caption"
+msgstr "Яркость"
+
+msgid "DHTab_DetailSettings.ContrastSlider.Caption"
+msgstr "Контраст"
+
+msgid "DHTab_DetailSettings.CorpseStayTime.Caption"
+msgstr "Время пребывания трупа (секунды)"
+
+msgid "DHTab_DetailSettings.DetailAnisotropy.Caption"
+msgstr "Анизотропная фильтрация"
+
+msgid "DHTab_DetailSettings.DetailAntialiasing.Caption"
+msgstr "Сглаживание"
+
+msgid "DHTab_DetailSettings.DetailCharacterDetail.Caption"
+msgstr "Детали персонажа"
+
+msgid "DHTab_DetailSettings.DetailCharacterShadows.Caption"
+msgstr "Тени персонажей"
+
+msgid "DHTab_DetailSettings.DetailCoronas.Caption"
+msgstr "Короны"
+
+msgid "DHTab_DetailSettings.DetailDecalStay.Caption"
+msgstr "Детали надписей"
+
+msgid "DHTab_DetailSettings.DetailDecals.Caption"
+msgstr "Надписи"
+
+msgid "DHTab_DetailSettings.DetailDecoLayers.Caption"
+msgstr "Детали земли"
+
+msgid "DHTab_DetailSettings.DetailDetailTextures.Caption"
+msgstr "Детали текстур"
+
+msgid "DHTab_DetailSettings.DetailDynamicLighting.Caption"
+msgstr "Динамическое освещение"
+
+msgid "DHTab_DetailSettings.DetailForceFSAASS.Caption"
+msgstr "Скриншоты Force FSAA"
+
+msgid "DHTab_DetailSettings.DetailPhysics.Caption"
+msgstr "Детали физики"
+
+msgid "DHTab_DetailSettings.DetailTextureDetail.Caption"
+msgstr "Детализация текстур"
+
+msgid "DHTab_DetailSettings.DetailTrilinear.Caption"
+msgstr "Трилинейная фильтрация"
+
+msgid "DHTab_DetailSettings.DetailWorldDetail.Caption"
+msgstr "Детали мира"
+
+msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
+msgstr "Расстояние тумана"
+
+msgid "DHTab_DetailSettings.GammaSlider.Caption"
+msgstr "Гамма"
+
+msgid "DHTab_DetailSettings.GlobalDetails.Caption"
+msgstr "Детали игры"
+
+msgid "DHTab_DetailSettings.HDRCheckbox.Caption"
+msgstr "HDR Освещение"
+
+msgid "DHTab_DetailSettings.MeshLOD.Caption"
+msgstr "Динамическая сетка LOD"
+
+msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
+msgstr "Минимальный желаемый FPS"
+
+msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
+msgstr ""
+"Используется функцией Dynamic Fog Distance, чтобы определить, когда начинать "
+"уменьшать расстояние тумана"
+
+msgid "DHTab_DetailSettings.MotionBlur.Caption"
+msgstr "Эффекты размытия"
+
+msgid "DHTab_DetailSettings.RenderDeviceCombo.Caption"
+msgstr "Устройство рендеринга"
+
+msgid "DHTab_DetailSettings.UseVSyncCheckBox.Caption"
+msgstr "VSync (не рекомендуется)"
+
+msgid "DHTab_DetailSettings.VideoColorDepth.Caption"
+msgstr "Глубина цвета"
+
+msgid "DHTab_DetailSettings.VideoResolution.Caption"
+msgstr "Разрешение"
+
+msgid "DHTab_DetailSettings.WeatherEffects.Caption"
+msgstr "Погодные эффекты"
+
+msgid "DHTab_DetailSettings.VideoFullScreen.Caption"
+msgstr "Полный экран"
+
+msgid "DHTab_DetailSettings.sbSection1.Caption"
+msgstr "Базовый рендеринг"
+
+msgid "DHTab_DetailSettings.sbSection2.Caption"
+msgstr "Детали игры"
+
+msgid "DHTab_DetailSettings.sbSection3.Caption"
+msgstr "Тест гаммы"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[0]"
+msgstr "Никогда"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[1]"
+msgstr "Ежемесячно"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[2]"
+msgstr "Ежегодно"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[3]"
+msgstr "Пользовательский (из ini-файла) — каждые %NumDays% дней"
+
+msgid "DHTab_GameSettings.IDText"
+msgstr "ID:"
+
+msgid "DHTab_GameSettings.DegreesText"
+msgstr "степень"
+
+msgid "DHTab_GameSettings.NetSpeedText[0]"
+msgstr "Самые низкие {0}"
+
+msgid "DHTab_GameSettings.NetSpeedText[1]"
+msgstr "Низкие {0}"
+
+msgid "DHTab_GameSettings.NetSpeedText[2]"
+msgstr "Средние {0}"
+
+msgid "DHTab_GameSettings.NetSpeedText[3]"
+msgstr "Рекомендуемые ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[4]"
+msgstr "Высокий ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[5]"
+msgstr "Самые высокие {0}"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[0]"
+msgstr "Никогда"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[1]"
+msgstr "Только с товарищами по команде"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[2]"
+msgstr "Всегда"
+
+msgid "DHTab_GameSettings.PanelCaption"
+msgstr "Игра"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Caption"
+msgstr "Автоматические оповещения транспортных средств"
+
+msgid "DHTab_GameSettings.BayonetSpawn.Caption"
+msgstr "Возрождение с прикрепленным штыком"
+
+msgid "DHTab_GameSettings.CopyROIDButton.Caption"
+msgstr "Скопировать ID в буфер обмена"
+
+msgid "DHTab_GameSettings.CopyROIDButton.Hint"
+msgstr "Это позволит вам вставить свой ROID в виде текста"
+
+msgid "DHTab_GameSettings.GameBK1.Caption"
+msgstr "Геймплей"
+
+msgid "DHTab_GameSettings.GameBK2.Caption"
+msgstr "Транспортное средство"
+
+msgid "DHTab_GameSettings.GameBK3.Caption"
+msgstr "Сеть"
+
+msgid "DHTab_GameSettings.DynamicNetspeed.Caption"
+msgstr "Динамическая скорость сети"
+
+msgid "DHTab_GameSettings.Incognito.Caption"
+msgstr "Режим инкогнито"
+
+msgid "DHTab_GameSettings.Incognito.Hint"
+msgstr "Не отображать мой статус спонсора или разработчика"
+
+msgid "DHTab_GameSettings.LockTankOnEntry.Caption"
+msgstr "Запирать транспорт при входе в него"
+
+msgid "DHTab_GameSettings.ManualReloading.Caption"
+msgstr "Ручная перезарядка танка или орудия"
+
+msgid "DHTab_GameSettings.Netspeed.Caption"
+msgstr "Скорость сети (байт в секунду)"
+
+msgid "DHTab_GameSettings.Netspeed.Hint"
+msgstr ""
+"Максимальная желаемая скорость интернета, используемая игрой (в байтах в "
+"секунду). Серверы могут устанавливать максимальную скорость клиента, которая "
+"будет переопределять клиенты."
+
+msgid "DHTab_GameSettings.NoGore.Caption"
+msgstr "Отключить кровь"
+
+msgid "DHTab_GameSettings.NoGore.Hint"
+msgstr "Рекомендуется снять этот флажок"
+
+msgid "DHTab_GameSettings.PlayerName.Caption"
+msgstr "Имя игрока"
+
+msgid "DHTab_GameSettings.PurgeCacheDays.Caption"
+msgstr "Очищать кэш"
+
+msgid "DHTab_GameSettings.PurgeCacheDays.Hint"
+msgstr "Как часто удалять пользовательские загруженные файлы с серверов"
+
+msgid "DHTab_GameSettings.ThrottleOtherVehicles.Hint"
+msgstr ""
+"Использует дроссельную заслонку для транспортных средств, не являющихся "
+"цистернами, не рекомендуется"
+
+msgid "DHTab_GameSettings.ThrottleTanks.Caption"
+msgstr "Инкрементальный дроссель - Танки"
+
+msgid "DHTab_GameSettings.ViewFOV.Caption"
+msgstr "Поле зрения"
+
+msgid "DHTab_Hud.GameBK.Caption"
+msgstr "Настройки"
+
+msgid "DHTab_Hud.GameBK1.Caption"
+msgstr "Стиль"
+
+msgid "DHTab_Hud.GameHudMessageCount.Caption"
+msgstr "Количество строк в чате"
+
+msgid "DHTab_Hud.GameHudMessageOffset.Caption"
+msgstr "Размер всплывающего сообщения"
+
+msgid "DHTab_Hud.GameHudMessageScale.Caption"
+msgstr "Размер шрифта чата"
+
+msgid "DHTab_Hud.GameHudShowDeathMessages.Caption"
+msgstr "Показать сообщения о смерти"
+
+msgid "DHTab_Hud.GameHudShowIndicators.Caption"
+msgstr "Показать индикатор потери пакетов"
+
+msgid "DHTab_Hud.GameHudShowPersonalInfo.Caption"
+msgstr "Показать личную информацию"
+
+msgid "DHTab_Hud.GameHudShowVehicleVisionCone.Caption"
+msgstr "Показать меню управления транспорта"
+
+msgid "DHTab_Hud.GameHudSimpleColours.Caption"
+msgstr "Простые цвета интерфейса"
+
+msgid "DHTab_Hud.GameHudVisible.Caption"
+msgstr "Показать интерфейс"
+
+msgid "DHTab_Hud.HintsCombo.Caption"
+msgstr "Подсказки"
+
+msgid "DHTab_Hud.ShowChatMessages.Caption"
+msgstr "Показать сообщения чата"
+
+msgid "DHTab_Hud.ShowCompass.Caption"
+msgstr "Показать компас"
+
+msgid "DHTab_Hud.ShowMapFirstSpawn.Caption"
+msgstr "Показать карту при первом входе входе на сервер"
+
+msgid "DHTab_Hud.ShowRallyPoint.Caption"
+msgstr "Показать статус точки сбора отряда"
+
+msgid "DHTab_Hud.UseNativeItemNames.Caption"
+msgstr "Использовать родные названия ролей и войск"
+
+msgid "DHTab_Hud.UseNativeRoleNames.Caption"
+msgstr "Использовать родные названия войск"
+
+msgid "DHTab_Hud.myGameHudOpacity.Caption"
+msgstr "Прозрачность интерфейса"
+
+msgid "DHTab_Hud.myHudScale.Caption"
+msgstr "Масштаб интерфейса"
+
+msgid "DHTab_Input.InputAutoSlope.Caption"
+msgstr "Автоматический наклон"
+
+msgid "DHTab_Input.InputBK1.Caption"
+msgstr "Настройки"
+
+msgid "DHTab_Input.InputBK3.Caption"
+msgstr "Отличная настройка"
+
+msgid "DHTab_Input.InputInvertMouse.Caption"
+msgstr "Инверсия мышки"
+
+msgid "DHTab_Input.InputIronSightFactor.Caption"
+msgstr "Коэффициент чувствительности прицела"
+
+msgid "DHTab_Input.InputMenuSensitivity.Caption"
+msgstr "Чувствительность мыши (Меню)"
+
+msgid "DHTab_Input.InputMouseAccel.Caption"
+msgstr "Ускорение мыши"
+
+msgid "DHTab_Input.InputMouseLag.Caption"
+msgstr "Уменьшить задержку мыши"
+
+msgid "DHTab_Input.InputMousePollRate.Caption"
+msgstr "Скорость отклика мыши"
+
+msgid "DHTab_Input.InputMouseSensitivity.Caption"
+msgstr "Чувствительность мыши (Игра)"
+
+msgid "DHTab_Input.InputMouseSmoothStr.Caption"
+msgstr "Сила сглаживания мыши"
+
+msgid "DHTab_Input.InputMouseSmoothing.Caption"
+msgstr "Сглаживание мыши"
+
+msgid "DHTab_Input.InputUseJoystick.Caption"
+msgstr "Включить джойстик"
+
+msgid "DHTab_MainSP.DifficultyCombo.Caption"
+msgstr "Сложность"
+
+msgid "DHTab_MainSP.MapAuthorLabel.Caption"
+msgstr "Тестирование"
+
+msgid "DHTab_MainSP.MaplistButton.ButtonCaption"
+msgstr "Настройка списка карт"
+
+msgid "DHTab_MainSP.OptionsContainer.Caption"
+msgstr "Настройки"
+
+msgid "DHTab_MainSP.PreviewGroup.Caption"
+msgstr "Предварительный просмотр"
+
+msgid "DHTab_MainSP.RecommendedPlayers.Caption"
+msgstr "Лучше всего для 4-8 игроков"
+
+msgid "DHTab_MainSP.ScrollSection.Caption"
+msgstr "Описание карты"
+
+msgid "DHTab_MainSP.SelectionGroup.Caption"
+msgstr "Выбор карты"
+
+msgid "DHTab_MutatorSP.ActiveBackground.Caption"
+msgstr "Активные мутаторы"
+
+msgid "DHTab_MutatorSP.AvailBackground.Caption"
+msgstr "Доступные мутаторы"
+
+msgid "DHTab_MutatorSP.DescriptionBackground.Caption"
+msgstr "Детали мутатора"
+
+msgid "DHTab_MutatorSP.IAMutatorAdd.Caption"
+msgstr "Добавить"
+
+msgid "DHTab_MutatorSP.IAMutatorClear.Caption"
+msgstr "Убрать все"
+
+msgid "DHTab_MutatorSP.IAMutatorConfig.Caption"
+msgstr "Настройка мутаторов"
+
+msgid "DHTab_MutatorSP.IAMutatorRemove.Caption"
+msgstr "Убрать"
+
+msgid "DHTab_ServerRulesPanel.AdvancedButton.Caption"
+msgstr "Посмотреть дополнительные параметры"
+
+msgid "DHTab_ServerRulesPanel.EnableWebadmin.Caption"
+msgstr "Включить Веб-Администратора"
+
+msgid "DHTab_ServerRulesPanel.LANServer.Caption"
+msgstr "Локальный сервер"
+
+msgid "DHTab_ServerRulesPanel.WebadminPort.Caption"
+msgstr "Порт веб-администратора"
