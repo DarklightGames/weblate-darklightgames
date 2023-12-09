@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 19:08+0000\n"
+"PO-Revision-Date: 2023-12-09 07:59+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/ru/>\n"
@@ -202,7 +202,7 @@ msgid "DH_MG42Weapon.ItemName"
 msgstr "MG 42"
 
 msgid "DH_BHPWeapon.ItemName"
-msgstr "Браунинг Высокая-Мощность"
+msgstr "Браунинг высокой-мощности"
 
 msgid "DH_M9531Weapon.ItemName"
 msgstr "31.М Винтовка"
