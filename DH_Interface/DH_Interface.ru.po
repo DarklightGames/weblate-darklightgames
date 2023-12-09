@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-09 07:59+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
 "Language: ru\n"
@@ -200,6 +200,7 @@ msgstr "Никаких пустых серверов"
 msgid "DHFilterEdit.ckVACOnly.Caption"
 msgstr "Только защита от мошенничества Valve"
 
+#, fuzzy
 msgid "DHGUISquadComponent.NoRallyPointsImage.Hint"
 msgstr ""
 "У этой команды уже давно нет очков для сбора. Возможности возрождения могут "
