@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-08 01:15+0000\n"
+"PO-Revision-Date: 2023-12-10 13:42+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ru/>\n"
@@ -286,7 +286,7 @@ msgid "DH_M116Cannon.ProjectileDescriptions[0]"
 msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_LeIG18Gun.VehicleNameString"
-msgstr "7,5-см легкое противотанковое орудие 18"
+msgstr "7.5 cm leichtes Infanteriegeschütz 18"
 
 msgid "DH_Pak43ATGun.VehicleNameString"
 msgstr "8,8-см противотанковое орудие Pak43/41"
