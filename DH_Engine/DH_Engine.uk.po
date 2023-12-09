@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-10 13:42+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
 "Language: uk\n"
@@ -199,7 +199,6 @@ msgstr "Снайпери"
 msgid "DHArtilleryMessage.ExhaustedText"
 msgstr "{name} вичерпано."
 
-#, fuzzy
 msgid "DHArtillerySpottingScope.NoTargetsHint"
 msgstr "Немає доступних цілей"
 
@@ -632,3 +631,12 @@ msgstr "Точка збору не може бути створена на ко�
 
 msgid "DHSquadMessage.BannedPlayer"
 msgstr "{0} було забанено з загону."
+
+msgid "DHArtilleryTargetMessage.TargetMarkedHE"
+msgstr "{0} позначив артилерійську фугасну ціль"
+
+msgid "DHArtilleryTargetMessage.TargetMarkedSmoke"
+msgstr "{0} позначив артилерійську димову ціль"
+
+msgid "DHArtilleryTargetMessage.CannotMarkTargetYet"
+msgstr "Ви ще не можете позначити інший маркер артилерійської цілі"
