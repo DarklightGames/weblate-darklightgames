@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 01:08+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2023-12-09 07:59+0000\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/uk/>\n"
 "Language: uk\n"
@@ -65,3 +65,6 @@ msgstr "Витяжний строп"
 
 msgid "DHRadioItem.ItemName"
 msgstr "Радіо"
+
+msgid "DHShovelWarningMessage.NeedMoreFriendliesToBuildMessage"
+msgstr "Щоб будувати, поблизу повинен бути одногрупник загону!"
