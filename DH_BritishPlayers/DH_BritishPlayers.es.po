@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 01:25+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2023-12-09 07:59+0000\n"
+"Last-Translator: Argilas <argilas@hotmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_britishplayers/es/>\n"
 "Language: es\n"
@@ -31,3 +31,9 @@ msgstr "¡Necesitamos un PIAT!"
 
 msgid "DHCanadianVoice.SupportString[5]"
 msgstr "¡Necesitamos un PIAT!"
+
+msgid "DHCanadianVoice.SupportAbbrev[5]"
+msgstr "Petición de PIAT"
+
+msgid "DHBritishVoice.SupportAbbrev[5]"
+msgstr "Petición de PIAT"
