@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-08 01:14+0000\n"
+"PO-Revision-Date: 2023-12-10 13:42+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/ru/>\n"
@@ -123,7 +123,7 @@ msgstr ""
 msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAlliesRole"
 msgstr ""
 "Нажмите Enter, чтобы подтвердить, что вы хотите присоединить этого игрока к "
-"войскам Германии"
+"войскам Союзников"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[1]"
 msgstr ""
@@ -252,7 +252,7 @@ msgid "DHAdminMenu_AdminMessages.ChangeAlliesSquadSize"
 msgstr "Укажите новый размер союзного отряда (от 8 до 12 или 0 для сброса)"
 
 msgid "DHAdminMenu_AdminMessages.ChangeAxisSquadSize"
-msgstr "Укажите новый размер отряда по оси (8 и 12 или 0 для сброса)"
+msgstr "Укажите новый размер отряда оси (8 и 12 или 0 для сброса)"
 
 msgid "DHAdminMenu_AdminMessages.SetGamePasswordText"
 msgstr "Пожалуйста, укажите новый пароль к игре"
@@ -263,7 +263,7 @@ msgstr ""
 "точек сбора"
 
 msgid "DHAdminMenu_DamageType.DeathString"
-msgstr "%o был повторно создан администратором"
+msgstr "%o был повторно возрожден администратором"
 
 msgid "DHAdminMenu_ErrorMessages.MissingNameText"
 msgstr "<отсутствующее имя>"
@@ -398,13 +398,13 @@ msgid "DHAdminMenu_PlayerActionsMenu.MenuText[6]"
 msgstr "Переключить игрока на роль Союзников"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText[8]"
-msgstr "Игрок с парашютом у цели"
+msgstr "Выбросить игрока из парашюта возле цели"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText[10]"
-msgstr "Парашютировать игрока в текущем месте"
+msgstr "Выбросить игрока з парашюта в текущем месте"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText[9]"
-msgstr "Парашютник у сетки"
+msgstr "Выбросить игрока з парашюта на сетку"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuTitle"
 msgstr "ДЕЙСТВИЯ ИГРОКА:"
@@ -434,7 +434,7 @@ msgid "DHAdminMenu_RealismMenu.MenuText[5]"
 msgstr "Выбросить все войска Оси на цель"
 
 msgid "DHAdminMenu_RealismMenu.MenuText[6]"
-msgstr "Выбросьте всех игроков к цели"
+msgstr "Выбросить всех игроков на цель из парашюта"
 
 msgid "DHAdminMenu_RealismMenu.MenuText[7]"
 msgstr "Выбросить всех Союзников к сетке"
