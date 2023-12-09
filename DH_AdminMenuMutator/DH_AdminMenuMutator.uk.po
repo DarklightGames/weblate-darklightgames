@@ -1,2 +1,484 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-10 13:42+0000\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_adminmenumutator/uk/>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "DHAdminMenuMutator.FriendlyName"
+msgstr "Меню адміністратора"
+
+msgid "DHAdminMenu_AdminMessages.EnterWarningMessage"
+msgstr "Введіть своє попередження для гравця та натисніть enter"
+
+msgid "DHAdminMenuMutator.Description"
+msgstr ""
+"Параметри екранного меню дозволяють адміністратору краще контролювати "
+"гравців, реалістичний матч або під час тестування"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmKillPlayer"
+msgstr "Натисніть Enter, щоб підтвердити, що ви хочете ВБИТИ цього гравця"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAxisAtObjective"
+msgstr ""
+"Натисніть Enter, щоб підтвердити, що ви хочете скинути ВСІХ СОЮЗНИКІВ на "
+"вибрану ціль"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisablePlayerIcon"
+msgstr ""
+"Натисніть enter, щоб підтвердити, що ви бажаєте ВИМКНУТИ значок розташування "
+"гравця на карті"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAxisRole"
+msgstr ""
+"Натисніть клавішу Enter, щоб підтвердити, що ви хочете приєднати цього "
+"гравця до військ Осі"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAlliesAtObjective"
+msgstr ""
+"Натисніть Enter, щоб підтвердити, що ви хочете скинути ВСІХ СОЮЗНИКІВ з "
+"парашута на вибрану ціль"
+
+msgid "DHAdminMenu_AdminMessages.EnterGameSpeed"
+msgstr "Будь ласка, вкажіть новий множник швидкості гри (1 нормальний)"
+
+msgid "DHAdminMenu_DamageType.DeathString"
+msgstr "%o було повторно відроджено адміністратором"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[2]"
+msgstr "Викинути гравця з парашуту на цьому сервері заборонено"
+
+msgid "DHAdminMenu_MenuBase.Label_ExitMenu"
+msgstr "Esc = вихід з меню адміністратора"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressEnabled"
+msgstr "Захоплення індикаторів прогресу ПОВТОРНО УВІМКНЕНО адміністратором"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[12]"
+msgstr "Вимкніть/увімкніть панель прогресу"
+
+msgid "DHAdminMenu_ServerMenu.MenuText[1]"
+msgstr "Встановіть пароль гри (залиште порожнім, щоб видалити пароль)"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAtObjective"
+msgstr ""
+"Натисніть клавішу Enter, щоб підтвердити, що ви хочете десантувати цього "
+"гравця до вибраної цілі"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableRealism"
+msgstr ""
+"Натисніть enter, щоб підтвердити, що ви бажаєте УВІМКНУТИ режим реалізму"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableCapProgress"
+msgstr ""
+"Натисніть клавішу Enter, щоб підтвердити, що ви бажаєте ВИМКНУТИ індикатор "
+"прогресу на карті"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmToggleAdminCanPause"
+msgstr ""
+"Натисніть клавішу Enter, щоб підтвердити, що ви хочете перемкнути параметр «"
+"адміністратор може призупинити»"
+
+msgid "DHAdminMenu_AdminMessages.DestroyActorInSights"
+msgstr ""
+"Натисніть клавішу Enter, щоб підтвердити, що ви хочете ЗНИЩИТИ гравця, який "
+"на вас прицілюється"
+
+msgid "DHAdminMenu_AdminMessages.ToggleWeaponLockText"
+msgstr ""
+"Натисніть enter, щоб підтвердити, що ви хочете ввімкнути/вимкнути блокування "
+"зброї"
+
+msgid "DHAdminMenu_MenuBase.Label_PreviousPage"
+msgstr "PgUp = попередня сторінка"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastAlliesSquadSizeChanged"
+msgstr "Адміністратор змінив розмір загону Союзників"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[3]"
+msgstr "Вигнати з повідомленням"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[10]"
+msgstr "Викинути гравця з парашуту у поточному місці"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[4]"
+msgstr "Викинути з парашуту всіх Союзників на ціль"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[16]"
+msgstr "Установити новий час, що залишився до раунду (хвилини)"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[20]"
+msgstr "Змініть розмір загону військ Осі"
+
+msgid "DHAdminMenu_WarningMessage.WarningHeader"
+msgstr "Ви отримали попередження від адміністратора"
+
+msgid "DHAdminMenu_AdminMessages.ChangeAlliesSquadSize"
+msgstr ""
+"Будь ласка, вкажіть новий розмір загону союзників (від 8 до 12 або 0 для "
+"скидання)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[5]"
+msgstr "ПОМИЛКА: не вдалося знайти гравця під назвою \"%insert_name%\""
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[6]"
+msgstr ""
+"ПРОБЛЕМА: знайдено більше одного гравця з іменем \"%insert_name%\", тому "
+"продовжувати цю дію небезпечно"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[13]"
+msgstr ""
+"ПОМИЛКА: не вдалося викинути '%insert_name%' (зауважте, що ви не зможете "
+"викинути гравця, який увійшов як адміністратор)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[14]"
+msgstr ""
+"ПОМИЛКА: неможливо викинути жодного гравця, оскільки необхідного актора "
+"«AccessControl» немає на сервері (зауважте, що це нормально для одиночної "
+"гри)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[21]"
+msgstr ""
+"ПОМИЛКА: не вказано дійсний тип місця вивантаження (тобто AtObjective, "
+"AtGrid або AtCurrentLocation"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[25]"
+msgstr ""
+"Цей ігровий режим не дозволяє збирати точки збору, тому ви не можете "
+"використовувати цю опцію"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyKill"
+msgstr "Ви були повторно відроджені адміністратором"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastMinesDisabled"
+msgstr "Усі мінні поля ВИМКНЕНО адміністратором"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastKilledAllPlayers"
+msgstr "Усі гравці були вбиті адміністратором"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyToggleAdminCanPause"
+msgstr ""
+"Ви перемкнули параметр \"адміністратор може призупинити\" на #bAdminCanPause#"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[7]"
+msgstr "Переключити гравця на роль військ Осі"
+
+msgid "DHAdminMenu_PlayerMenu.Label_RealismMenu"
+msgstr "R = меню відповідності реалістичності (або тестування)"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[7]"
+msgstr "Викинути з парашуту всіх Союзників на сітці"
+
+msgid "DHAdminMenu_AdminMessages.EnterNewPlayerName"
+msgstr "Будь ласка, введіть нове ім'я для гравця - потім натисніть enter"
+
+msgid "DHAdminMenu_AdminMessages.EnterPrivateMessage"
+msgstr "Введіть своє приватне повідомлення для гравця - потім натисніть enter"
+
+msgid "DHAdminMenu_AdminMessages.EnterKickReason"
+msgstr ""
+"Введіть гравцеві повідомлення про удар, а потім натисніть клавішу enter, щоб "
+"вигнати його"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmGagPlayer"
+msgstr ""
+"Натисніть клавішу Enter, щоб підтвердити, що ви хочете надіслати цього гравця"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAlliesRole"
+msgstr ""
+"Натисніть Enter, щоб підтвердити, що ви хочете приєднати цього гравця до "
+"військ Союзників"
+
+msgid "DHAdminMenu_AdminMessages.EnterGridLocation"
+msgstr ""
+"Будь ласка, вкажіть розташування сітки (приклад: для сітки E2 клавіатури 5 "
+"введіть 'e25')"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAtCurrentLocation"
+msgstr ""
+"Натисніть Enter, щоб підтвердити, що ви хочете скинути цього гравця з "
+"парашута в його ПОТОЧНЕ місцезнаходження"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableRealism"
+msgstr "Натисніть enter, щоб підтвердити, що ви бажаєте ВИМКНУТИ режим реалізму"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmMatchLive"
+msgstr ""
+"Натисніть клавішу Enter, щоб підтвердити, що ви хочете примусово збігатися з "
+"реалістичністю НАЖИВО"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAllAtObjective"
+msgstr ""
+"Натисніть клавішу Enter, щоб підтвердити, що ви хочете скинути ВСІХ ГРАВЦІВ "
+"на вибрану мету"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableMines"
+msgstr "Натисніть enter, щоб підтвердити, що ви хочете ВИМКНУТИ всі мінні поля"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableMines"
+msgstr ""
+"Натисніть enter, щоб підтвердити, що ви бажаєте ЗНОВУ УВІМКНУТИ всі мінні "
+"поля"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableCapProgress"
+msgstr ""
+"Натисніть enter, щоб підтвердити, що ви бажаєте ЗНОВУ УВІМКНУТИ смугу "
+"прогресу обмеження на карті"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnablePlayerIcon"
+msgstr ""
+"Натисніть enter, щоб підтвердити, що ви бажаєте ЗНОВУ УВІМКНУТИ значок "
+"розташування гравця на карті"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmKillAll"
+msgstr "Натисніть Enter, щоб підтвердити, що ви хочете ВБИТИ ВСІХ гравців"
+
+msgid "DHAdminMenu_AdminMessages.EnterTimeRemaining"
+msgstr "Будь ласка, вкажіть час нового раунду, що залишився (у хвилинах)"
+
+msgid "DHAdminMenu_MenuBase.Label_PreviousMenu"
+msgstr "PgUp = попереднє меню"
+
+msgid "DHAdminMenu_AdminMessages.ChangeAxisSquadSize"
+msgstr "Будь ласка, вкажіть новий розмір загону осі (8 і 12 або 0 для скидання)"
+
+msgid "DHAdminMenu_AdminMessages.SetGamePasswordText"
+msgstr "Будь ласка, вкажіть новий пароль гри"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableRallyPoints"
+msgstr ""
+"Натисніть Enter, щоб підтвердити, що ви бажаєте ВИМКНУТИ розміщення точок "
+"збору"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableRallyPoints"
+msgstr ""
+"Натисніть enter, щоб підтвердити, що ви бажаєте ЗНОВУ УВІМКНУТИ розміщення "
+"точок збору"
+
+msgid "DHAdminMenu_ErrorMessages.MissingNameText"
+msgstr "<відсутнє ім'я>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[1]"
+msgstr ""
+"Ви повинні увійти як адміністратор (через консоль), щоб використовувати цю "
+"функцію"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[3]"
+msgstr ""
+"Мутатор відповідності реалізму не завантажується на сервер, тому ви не "
+"можете використовувати цю опцію"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[4]"
+msgstr "ПОМИЛКА: не вказано ім'я гравця"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[7]"
+msgstr "<ПОМИЛКА: немає імені гравця>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[8]"
+msgstr "<ПОМИЛКА: немає імені адміністратора>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[9]"
+msgstr ""
+"Програвач \"%insert_name%\" наразі не активний, тому ви не можете "
+"використовувати цю опцію"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[10]"
+msgstr "'%insert_name%' вже виконує цю роль"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[11]"
+msgstr "На жаль, неможливо виконати цю дію з ботом"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[12]"
+msgstr "ПОМИЛКА: повідомлення не вказано"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[15]"
+msgstr "На цьому рівні немає мінних полів"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[16]"
+msgstr "Мінні поля вже відключені"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[17]"
+msgstr "Мінні поля вже включені"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[18]"
+msgstr "ПОМИЛКА: не вказано дійсну назву команди"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[19]"
+msgstr "ПОМИЛКА: неможливо знайти роль гравця %insert_name%"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[20]"
+msgstr "ПОМИЛКА: не вдається знайти ціль %insert_name%"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[22]"
+msgstr "ПОМИЛКА: недійсні координати сітки карти"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[23]"
+msgstr ""
+"Для автоматичного входу ви повинні налаштувати файл DarkestHour.ini з даними "
+"для входу адміністратора"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[24]"
+msgstr "Гравця не знайдено в полі зору"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[26]"
+msgstr "Розміщення точок збору вже вимкнено"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[27]"
+msgstr "Розміщення точок збору вже ввімкнено"
+
+msgid "DHAdminMenu_MenuBase.Label_PageNumber"
+msgstr "Сторінка %X% з %Y%"
+
+msgid "DHAdminMenu_MenuBase.Label_NextPage"
+msgstr "PgDn = наступна сторінка"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyRename"
+msgstr "Назву вашої гри було змінено адміністратором"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyGag"
+msgstr "Адміністратор заборонив вам спілкуватися"
+
+msgid "DHAdminMenu_NotifyMessages.NotifySwitch"
+msgstr "Адміністратор перевів вас на нову роль або команду"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyParaDrop"
+msgstr "Вас кудись закинув адмін"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastMinesEnabled"
+msgstr "Усі мінні поля ПОВТОРНО УВІМКНЕНО адміністратором"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressDisabled"
+msgstr "Захоплення індикаторів прогресу ВИМКНЕНО адміністратором"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconDisabled"
+msgstr "Піктограми гравців на карті ВИМКНЕНО адміністратором"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconEnabled"
+msgstr "Значки гравців на карті ПОВТОРНО УВІМКНЕНО адміністратором"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastChangedGameSpeed"
+msgstr "Адміністратор змінив швидкість гри на x #insert_number#"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastSetTimeRemaining"
+msgstr "Час, що залишився, змінено адміністратором"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastAxisSquadSizeChanged"
+msgstr "Адміністратор змінив розмір загону військ Осі"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsDisabled"
+msgstr "Розміщення точок збору ВИМКНЕНО адміністратором"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsEnabled"
+msgstr "Розміщення точки збору УВІМКНЕНО адміністратором"
+
+msgid "DHAdminMenu_ObjectivesMenu.MenuTitle"
+msgstr "МЕНЮ ВИБОРУ ЦІЛІ"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[0]"
+msgstr "Перейменувати гравця"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[1]"
+msgstr "Надіслати приватне повідомлення"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[2]"
+msgstr "Надіслати попередження (зі звуком)"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[4]"
+msgstr "Вбити цього гравця"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[5]"
+msgstr "Заборонити спілкуватися цьому гравцю"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[6]"
+msgstr "Переключити гравця на роль Союзників"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[8]"
+msgstr "Викинути гравця з парашуту біля цілі"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[9]"
+msgstr "Викинути гравця з парашуту на сітці"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuTitle"
+msgstr "ДІЇ ГРАВЦЯ:"
+
+msgid "DHAdminMenu_PlayerMenu.Label_AimedPlayer"
+msgstr "[Гравець у вашому полі зору]"
+
+msgid "DHAdminMenu_PlayerMenu.Label_ServerMenu"
+msgstr "M = меню сервера (загальні налаштування сервера)"
+
+msgid "DHAdminMenu_PlayerMenu.MenuTitle"
+msgstr "МЕНЮ АДМІНІСТРАТОРА ГРАВЦЯ"
+
+msgid "DHAdminMenu_PrivateMessage.MessageHeader"
+msgstr "Ви отримали приватне повідомлення від адміністратора"
+
+msgid "DHAdminMenu_PrivateMessage.MessageChatPrefix"
+msgstr "ПОВІДОМЛЕННЯ АДМІНІСТРАТОРА від"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[1]"
+msgstr "Увімкнути збіг реалістичності"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[2]"
+msgstr "Вимкнути збіг реалістичності"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[3]"
+msgstr "Перейти до матчу реалізму НАЖИВО"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[5]"
+msgstr "Викинути з парашуту всі війська Осі на ціль"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[6]"
+msgstr "Викинути всіх гравців на ціль з парашуту"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[8]"
+msgstr "Викинути з парашуту всі війська Осі на сітці"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[9]"
+msgstr "Викинути всіх гравці з парашуту на сітці"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[11]"
+msgstr "Вимкнути/увімкнути мінні поля"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[13]"
+msgstr "Вимкнути/увімкнути значок розташування гравця"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[14]"
+msgstr "Убити всіх гравців (завершити реалістичний матч)"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[15]"
+msgstr "Встановити нову швидкість гри"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[17]"
+msgstr "Увімкніть, чи може адміністратор призупинити гру"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[18]"
+msgstr "Знищити гравця під прицілом"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[19]"
+msgstr "Змініть розмір загону Союзників"
+
+msgid "DHAdminMenu_RealismMenu.MenuText[21]"
+msgstr "Увімкнути/вимкнути розміщення точки збору"
+
+msgid "DHAdminMenu_RealismMenu.MenuTitle"
+msgstr "РЕАЛІЗМ МАТЧ (АБО ТЕСТУВАННЯ) МЕНЮ"
+
+msgid "DHAdminMenu_RolesMenu.MenuTitle"
+msgstr "МЕНЮ ВИБОРУ РОЛІ"
+
+msgid "DHAdminMenu_ServerMenu.MenuText[2]"
+msgstr "Переключити блокування зброї"
+
+msgid "DHAdminMenu_ServerMenu.MenuTitle"
+msgstr "МЕНЮ СЕРВЕРА (ДЛЯ РІЗНИХ НАЛАШТУВАНЬ)"
+
+msgid "DHAdminMenu_WarningMessage.WarningChatPrefix"
+msgstr "ПОПЕРЕДЖЕННЯ АДМІНІСТРАТОРА від"
