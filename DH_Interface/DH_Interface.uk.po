@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 07:49+0000\n"
+"PO-Revision-Date: 2023-12-09 07:59+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
@@ -101,3 +101,328 @@ msgstr "АДМІН:"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts[0]"
 msgstr "-"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[9]"
+msgstr "{1} Десантувати {0} до командира загону"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[3]"
+msgstr "Забанити {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[4]"
+msgstr "Підвищити {0} до командира загону"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[13]"
+msgstr "{1} Десантувати непризначених гравців до маркера"
+
+msgid "DHDeployMenu.SelectRoleText"
+msgstr "Виберіть роль"
+
+msgid "DHDeployMenu.ChangeTeamConfirmText"
+msgstr ""
+"Ви впевнені, що хочете змінити команду? (ви не зможете повернутися назад "
+"протягом {s} секунд)"
+
+msgid "DHDeployMenu.VehicleUnavailableString"
+msgstr "Траспортний засіб, який ви вибрали, більше не доступний."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[6]"
+msgstr "Ваша команда вже голосувала нещодавно. Спробуйте пізніше."
+
+msgid "DHDeployMenu.ContinueButtonObject.Caption"
+msgstr "Продовжити"
+
+msgid "DHDeployMenu.SurrenderConfirmBaseText"
+msgstr "Ви впевнені, що хочете здатися?"
+
+msgid "DHDeployMenu.SurrenderConfirmNominationText"
+msgstr ""
+"Ця дія висуне відступ на голосування. Голосування розпочнеться коли {0}% "
+"команди запропонує відступити."
+
+msgid "DHDeployMenu.RoundTimeLabelObject.Hint"
+msgstr "Залишилось часу"
+
+msgid "DHEditFavoritePage.IpEntryBox.Caption"
+msgstr "IP Адреса: "
+
+msgid "DHSettings_Footer.BackB.Caption"
+msgstr "Назад"
+
+msgid "DHGUITeamSelection.TeamsCount.Caption"
+msgstr "? гравців"
+
+msgid "DHMutatorConfigMenu.LockedCancelButton.Caption"
+msgstr "Скасувати"
+
+msgid "DHGetDataMenu.CancelButton.Caption"
+msgstr "СКАСУВАТИ"
+
+msgid "DHTab_MutatorSP.IAMutatorRemove.Caption"
+msgstr "Видалити"
+
+msgid "DHServerLoading.GameTypeText"
+msgstr "Тип гри: {0}"
+
+msgid "DHGUIMapComponent.SquadRallyPointDestroyText"
+msgstr "Знищити точку збору"
+
+msgid "DHGUISquadComponent.CreateSquadButton.Caption"
+msgstr "Створити загін"
+
+msgid "DHTab_ServerRulesPanel.AdvancedButton.Caption"
+msgstr "Додаткові параметри"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[1]"
+msgstr "Запросити {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[2]"
+msgstr "Вигнати {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[5]"
+msgstr "Призначити {0} як помічника"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[6]"
+msgstr "Звільнити {0} з посади помічника"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[8]"
+msgstr "Запросити об'єднати загони"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[10]"
+msgstr "{1} Десантувати {0} до маркера"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[11]"
+msgstr "{1} Десантувати ЗАГІН до командира"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[12]"
+msgstr "{1} Десантувати ЗАГІН до маркера"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[14]"
+msgstr "{1} Підвищити {0} до командира загону"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[15]"
+msgstr "{1} Вигнати {0} з загону"
+
+msgid "DHCreditsPage.WindowName"
+msgstr "Тітри"
+
+msgid "DHCreditsPage.CloseButton.Caption"
+msgstr "Закрити"
+
+msgid "DHDeployMenu.SelectSpawnPointText"
+msgstr "Виберіть місце респавну"
+
+msgid "DHDeployMenu.ReservedString"
+msgstr "Зарезервовано"
+
+msgid "DHDeployMenu.FreeChangeTeamConfirmText"
+msgstr "Ви впевнені, що хочете змінити команду?"
+
+msgid "DHDeployMenu.CantChangeTeamYetText"
+msgstr "Ви повинні почекати {s} секунд, перш ніж ви зможете змінити команду"
+
+msgid "DHDeployMenu.LockedText"
+msgstr "Замкнено"
+
+msgid "DHDeployMenu.UnlockText"
+msgstr "Відімкнути"
+
+msgid "DHDeployMenu.LockText"
+msgstr "Замкнути"
+
+msgid "DHDeployMenu.BotsText"
+msgstr "БОТИ"
+
+msgid "DHDeployMenu.SquadOnlyText"
+msgstr "ТІЛЬКИ У ЗАГОНАХ"
+
+msgid "DHDeployMenu.SquadLeadershipOnlyText"
+msgstr "ТІЛЬКИ ДЛЯ КОМАНДИРІВ"
+
+msgid "DHDeployMenu.UnassignedPlayersCaptionText"
+msgstr "Непризначені"
+
+msgid "DHDeployMenu.NonSquadLeaderOnlyText"
+msgstr "НЕ ДЛЯ КОМАНДИРІВ"
+
+msgid "DHDeployMenu.SurrenderButtonText[0]"
+msgstr "Відступити"
+
+msgid "DHDeployMenu.SurrenderButtonText[1]"
+msgstr "Продовжити боротьбу"
+
+msgid "DHDeployMenu.SurrenderResponseMessages[0]"
+msgstr "Фатальна помилка!"
+
+msgid "DHDeployMenu.SurrenderResponseMessages[1]"
+msgstr "Ви не обрали команду."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[2]"
+msgstr "Раунд ще не розпочався."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[3]"
+msgstr "Голосування за відступ вимкнено."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[4]"
+msgstr "Голосування вже триває."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[5]"
+msgstr "Ви вже відступили."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[7]"
+msgstr "Ви не можете відступити після закінчення раунду."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[9]"
+msgstr "Ви не можете відступити так рано."
+
+msgid "DHDeployMenu.SurrenderResponseMessages[10]"
+msgstr "Ви не можете відступити під час етапу организіції."
+
+msgid "DHDeployMenu.AlliesButtonObject.Hint"
+msgstr "Приєднатися до Союзників"
+
+msgid "DHDeployMenu.ArtilleryVehicleImageObject.Hint"
+msgstr "Артилерійська машина"
+
+msgid "DHDeployMenu.AxisButtonObject.Hint"
+msgstr "Приєднатися до Військ Осі"
+
+msgid "DHDeployMenu.DisconnectButtonObject.Caption"
+msgstr "Від'єднатися"
+
+msgid "DHDeployMenu.EquipmentButtonObject.Hint"
+msgstr "Спорядження"
+
+msgid "DHDeployMenu.RetreatButtonObject.Caption"
+msgstr "Відступити"
+
+msgid "DHDeployMenu.SpectateButtonObject.Hint"
+msgstr "Споглядати"
+
+msgid "DHDeployMenu.SquadsButtonObject.Hint"
+msgstr "Загони [F1]"
+
+msgid "DHDeployMenu.SuicideButtonObject.Caption"
+msgstr "Суїцид"
+
+msgid "DHEditFavoritePage.UnknownText"
+msgstr "Невідомий сервер"
+
+msgid "DHFilterEdit.ComboOpts[0]"
+msgstr "Не має значення"
+
+msgid "DHGUIDynArrayPage.LockedCancelButton.Caption"
+msgstr "Скасувати"
+
+msgid "DHFilterListPage.bCancel.Caption"
+msgstr "Скасувати"
+
+msgid "DHFilterEdit.bCancel.Caption"
+msgstr "Скасувати"
+
+msgid "DHFilterEdit.bOk.Caption"
+msgstr "ОК"
+
+msgid "DHFilterListPage.bOk.Caption"
+msgstr "ОК"
+
+msgid "DHGUIDynArrayPage.LockedOKButton.Caption"
+msgstr "ОК"
+
+msgid "DHFilterListPage.bCreate.Caption"
+msgstr "Створити"
+
+msgid "DHFilterListPage.bEdit.Caption"
+msgstr "Редагувати"
+
+msgid "DHFilterListPage.bRemove.Caption"
+msgstr "Видалити"
+
+msgid "DHGUIMapComponent.SquadRallyPointSetAsSecondaryText"
+msgstr "Встановити як вторичну"
+
+msgid "DHGUIMapComponent.RemoveText"
+msgstr "Видалити {0}"
+
+msgid "DHGUIMapComponent.ActiveTargetSelectText"
+msgstr "Вибрати як активну ціль"
+
+msgid "DHGUIMapComponent.ActiveTargetDeselectText"
+msgstr "Зняти вибір активної цілі"
+
+msgid "DHGUISquadComponent.JoinSquadButton.Caption"
+msgstr "Приєднатися до загону"
+
+msgid "DHGUISquadComponent.LeaveSquadButton.Caption"
+msgstr "Залишити загін"
+
+msgid "DHMOTDConfigPage.LockedCancelButton.Caption"
+msgstr "Скасувати"
+
+msgid "DHGetDataMenu.OkButton.Caption"
+msgstr "ОК"
+
+msgid "DHMOTDConfigPage.LockedOKButton.Caption"
+msgstr "ОК"
+
+msgid "DHGameFooterMP.GameBackButton.Caption"
+msgstr "Назад"
+
+msgid "DHGameFooterSP.GameBackButton.Caption"
+msgstr "Назад"
+
+msgid "DHLearnToPlayFooter.GameBackButton.Caption"
+msgstr "Назад"
+
+msgid "DHGUITeamSelection.Disconnect.Caption"
+msgstr "Від'єднатися"
+
+msgid "DHGUITeamSelection.TeamsCount2.Caption"
+msgstr "? гравців"
+
+msgid "DHGamePageSP.PageCaption"
+msgstr "Практика"
+
+msgid "DHGetDataMenu.CancelButton.Hint"
+msgstr "Закрити це меню, скасувавши зміни."
+
+msgid "DHMutatorConfigMenu.LockedOKButton.Caption"
+msgstr "ОК"
+
+msgid "DHNetworkStatusMessage.NetStatOk.Caption"
+msgstr "ОК"
+
+msgid "DHMaplistEditor.RemoveButton.Caption"
+msgstr "Видалити"
+
+msgid "DHServerBrowser.GameTypeCombo.Caption"
+msgstr "Тип гри"
+
+msgid "DHServerBrowser.ServerBrowserHeader.Caption"
+msgstr "Сервери"
+
+msgid "DHServerLoading.AuthorText"
+msgstr "Автор: {0}"
+
+msgid "DHServerLoading.EnabledText"
+msgstr "Увімкнено"
+
+msgid "DHServerLoading.DisabledText"
+msgstr "Вимкнено"
+
+msgid "DHSettingsPage.PanelCaption[0]"
+msgstr "Гра"
+
+msgid "DHSettingsPage.PanelCaption[1]"
+msgstr "Відео"
+
+msgid "DHSettingsPage.PanelCaption[2]"
+msgstr "Аудіо"
+
+msgid "DHTab_ServerRulesPanel.EnableWebadmin.Caption"
+msgstr "Увімкнути WebAdmin"
+
+msgid "DHTab_ServerRulesPanel.LANServer.Caption"
+msgstr "Локальний сервер"
+
+msgid "DHTab_ServerRulesPanel.WebadminPort.Caption"
+msgstr "WebAdmin Порт"
