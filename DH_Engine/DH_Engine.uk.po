@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 09:25+0000\n"
+"PO-Revision-Date: 2023-12-09 07:59+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
@@ -370,3 +370,37 @@ msgstr "Посада '{name}' для вас більше не доступна."
 #, fuzzy
 msgid "DHGameReplicationInfo.ForceScaleText"
 msgstr "Розмір"
+
+msgid "DHHud.NoTimeLimitText"
+msgstr "Без ліміту"
+
+msgid "DHHintManager.Hints[64].Text"
+msgstr ""
+"Ствол був зруйнований перегрівом! Ви більше не можете стріляти з цієї зброї."
+
+msgid "DHATGun.TouchMessage"
+msgstr "Задіяти "
+
+msgid "DHHud.MapGameTypeText"
+msgstr "Тип гри: "
+
+msgid "DHATLoadMessage.UnLoaded"
+msgstr "Ракету розряджено"
+
+msgid "DHArtillerySpottingScope.SelectTargetHint"
+msgstr "Натисніть {0}, щоб вибрати артилерійську ціль"
+
+msgid "DHArtilleryTargetMessage.TargetInvalid"
+msgstr "Недійсна артилерійська ціль"
+
+msgid "DHConstructionErrorMessage.ErrorMessages[26]"
+msgstr "{name} більше не доступно"
+
+msgid "DHHud.MapNameText"
+msgstr "Карта: "
+
+msgid "DHHud.ServerNameText"
+msgstr "Сервер: "
+
+msgid "DHHintManager.Hints[64].Title"
+msgstr "Ствол зруйнован"
