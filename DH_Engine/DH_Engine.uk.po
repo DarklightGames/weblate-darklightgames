@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-09 07:59+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2023-12-10 13:42+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
 "Language: uk\n"
@@ -455,3 +455,180 @@ msgstr "Довжина"
 
 msgid "DHArtillerySpottingScope.PitchHeaderString"
 msgstr "Висота"
+
+msgid "DHSpawnKillDamageType.FemaleSuicide"
+msgstr "%o вбила себе під час респавну."
+
+msgid "DHSpawnProtectMineVolume.SafePeriodWarningMessage"
+msgstr ""
+"Ця територія тепер контролюється ворогом! У вас є %remaining% секунд, щоб "
+"повернутися до своїх позицій!"
+
+msgid "DHSquadPromotionRequestInteraction.Options[0].Text"
+msgstr "Прийняти"
+
+msgid "DHSpawnKillDamageType.MaleSuicide"
+msgstr "%o вбив себе під час респавну."
+
+msgid "DHSquadMergeRequestInteraction.Options[1].Text"
+msgstr "Відхилити"
+
+msgid "DHSquadMessage.NoLongerLeaderMessage"
+msgstr "Ви більше не командир загону."
+
+msgid "DHSquadMessage.RallyPointAbandoned"
+msgstr "Не вдалося встановити точку збору, оскільки вона була покинута."
+
+msgid "DHSpawnProtectMineVolume.WarningMessage"
+msgstr "Ви увійшли до контрольованої ворогом території. Повертайте назад!"
+
+msgid "DHSquadMergeRequestInteraction.Options[0].Text"
+msgstr "Прийняти"
+
+msgid "DHSquadMessage.FullMessage"
+msgstr "Ви не можете надсилати запрошення, оскільки загін вже повний."
+
+msgid "DHSquadMessage.UnlockedMessage"
+msgstr "Загін відкрито."
+
+msgid "DHSquadMessage.RallyPointNeedSquadmateNearby"
+msgstr ""
+"З вами повинен бути принаймні один товариш по загону, щоб встановити точку "
+"збору."
+
+msgid "DHSquadMessage.RallyPointInMinefield"
+msgstr "Ви не можете встановити точку збору на мінному полі."
+
+msgid "DHSquadMessage.RallyPointSwapped"
+msgstr "Командир загону примусово змінив діючу точку збору."
+
+msgid "DHSquadMessage.RallyPointInUncontrolledObjective"
+msgstr "Ви не можете створити точку збору всередині неконтрольованої цілі."
+
+msgid "DHSquadMessage.RallyPointTooCloseMessage"
+msgstr ""
+"Ви не можете встановити точку збору так близько до існуючої, ви повинні бути "
+"на {0} метрів далі."
+
+msgid "DHSquadMessage.RallyPointExposed"
+msgstr "Точка збору була помічена ворогом!"
+
+msgid "DHSquadMessage.BannedCannotJoin"
+msgstr "Ви не можете приєднатися до цього загону, оскільки вас забанено."
+
+msgid "DHSpawnKillDamageType.DeathString"
+msgstr "%k вбив %o на респавні."
+
+msgid "DHSpawnProtectMineVolume.SpawnMFActivatedMessage"
+msgstr "Ця територія тепер контролюється ворогом. Відступайте!"
+
+msgid "DHSpawnProtectMineVolume.ExitedMinefieldMessage"
+msgstr ""
+"Ви покинули ворожу територію. Повторне повернення буде вважатися "
+"дезертирством!"
+
+msgid "DHSpawnProtectMineVolume.UnprotectedVehicleWarning"
+msgstr "Ця машина була помічена ворогом!"
+
+msgid "DHSquadInviteInteraction.PromptText"
+msgstr "{0} запросив вас до загону {1}."
+
+msgid "DHSquadInviteInteraction.Options[0].Text"
+msgstr "Прийняти"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options[0].Text"
+msgstr "Прийняти"
+
+msgid "DHSquadInviteInteraction.Options[1].Text"
+msgstr "Відхилити"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options[1].Text"
+msgstr "Відхилити"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options[1].Text"
+msgstr "Відхилити"
+
+msgid "DHSquadMergeRequestInteraction.Options[2].Text"
+msgstr "Ігнорувати всі"
+
+msgid "DHSquadMessage.JoinedMessage"
+msgstr "{0} приєднався до загону."
+
+msgid "DHSquadMessage.LeftMessage"
+msgstr "{0} покинув загін."
+
+msgid "DHSquadMessage.KickedMessage"
+msgstr "Вас вигнали із загону."
+
+msgid "DHSquadMessage.YouAreNowLeaderMessage"
+msgstr "Ви тепер командир загону."
+
+msgid "DHSquadMessage.NewLeaderMessage"
+msgstr "{0} став командиром загону."
+
+msgid "DHSquadMessage.InviteAlreadyInSquadMessage"
+msgstr "{0} вже в загоні."
+
+msgid "DHSquadMessage.InvitePendingMessage"
+msgstr "{0} вже запрошено до загону. Спробуйте ще раз пізніше."
+
+msgid "DHSquadMessage.InviteSentMessage"
+msgstr "{0} було запрошено приєднатися до загону."
+
+msgid "DHSquadMessage.NoLeaderMessage"
+msgstr "Командир покинув команду загін."
+
+msgid "DHSquadMessage.LockedMessage"
+msgstr "Загін закрито."
+
+msgid "DHSquadMessage.CreatedMessage"
+msgstr "Ви створили загін."
+
+msgid "DHSquadMessage.RallyPointActiveMessage"
+msgstr "Ваш загін встановив нову точку збору."
+
+msgid "DHSquadMessage.RallyPointExhaustedMessage"
+msgstr "Точку збору вичерпано."
+
+msgid "DHSquadMessage.RallyPointCreatedMessage"
+msgstr ""
+"Ви встановили точку збору. Зачистите теріторію, щоб активувати цю точку."
+
+msgid "DHSquadMessage.RallyPointOverrunMessage"
+msgstr "Точка збору була знищена ворогом."
+
+msgid "DHSquadMessage.RallyPointGroundTooSteep"
+msgstr "Ландшафт занадто крутий, щоб встановити тут точку збору."
+
+msgid "DHSquadMessage.RallyPointInWater"
+msgstr "Ви не можете встановити точку збору у воді."
+
+msgid "DHSquadMessage.RallyPointNotOnFoot"
+msgstr "Ви повинні бути пішки шоб встановити точку збору."
+
+msgid "DHSquadMessage.RallyPointTooSoon"
+msgstr "Зачекайте {0} секунд, поки ваш загін не зможе встановити точку збору."
+
+msgid "DHSquadMessage.RallyPointBadLocation"
+msgstr "Точку збору не можливо створити в цьому місці."
+
+msgid "DHSquadMessage.RallyPointRemoved"
+msgstr "Комадир загону примусово видалив точку збору."
+
+msgid "DHSquadMessage.RallyPointAbandonmentWarning"
+msgstr "Нещодавно створену точку збору покинуто!"
+
+msgid "DHSquadMessage.RallyPointTooCloseToConstruction"
+msgstr "Ви не можете створити точку збору так близько до {0}."
+
+msgid "DHSquadMessage.RallyPointDestroyed"
+msgstr "Точку збору знищено."
+
+msgid "DHSquadPromotionRequestInteraction.Options[1].Text"
+msgstr "Відхилити"
+
+msgid "DHSquadMessage.RallyPointBehindEnemyLines"
+msgstr "Точка збору не може бути створена на контрольованій ворогом території."
+
+msgid "DHSquadMessage.BannedPlayer"
+msgstr "{0} було забанено з загону."
