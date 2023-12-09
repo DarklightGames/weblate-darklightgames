@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 09:25+0000\n"
+"PO-Revision-Date: 2023-12-09 07:59+0000\n"
 "Last-Translator: Argilas <argilas@hotmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_gerplayers/es/>\n"
@@ -33,7 +33,7 @@ msgid "DH_ZLeader.MyName"
 msgstr "Líder Zombi"
 
 msgid "DH_OstTruppenRifleman.MyName"
-msgstr "Fusilero de Tropa del Este"
+msgstr "Fusilero Osttruppe"
 
 msgid "DH_12thSSFireteamLeader.AltName"
 msgstr ""
@@ -57,7 +57,7 @@ msgid "DH_WHArtilleryOfficer.AltName"
 msgstr ""
 
 msgid "DH_OstTruppenRifleman.PluralName"
-msgstr "Fusileros de Tropa del Este"
+msgstr "Fusileros Osttruppe"
 
 msgid "DH_WHArtilleryOfficer.PluralName"
 msgstr "Oficiales de artillería"
@@ -85,3 +85,9 @@ msgstr "Artilleros"
 
 msgid "DH_WHArtilleryGunner.MyName"
 msgstr "Artillero"
+
+msgid "DHGerVoice.SupportAbbrevAxis[5]"
+msgstr "Petición de Panzerschreck"
+
+msgid "DHZVoice.SupportAbbrevAxis[5]"
+msgstr "Petición de Panzerschreck"
