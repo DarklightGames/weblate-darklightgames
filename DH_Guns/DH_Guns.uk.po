@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 07:30+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2023-12-10 13:42+0000\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/uk/>\n"
 "Language: uk\n"
@@ -71,3 +71,135 @@ msgstr "Бронебійний (AP)"
 
 msgid "DH_M116Cannon.ProjectileDescriptions[1]"
 msgstr "Комулятивний (HEAT)"
+
+msgid "DH_Pak39Cannon.ProjectileDescriptions[1]"
+msgstr "Підкаліберний (APCR)"
+
+msgid "DH_Pak40Cannon.ProjectileDescriptions[0]"
+msgstr "Бронебійний (APCBC)"
+
+msgid "DH_ZiS2Gun.VehicleNameString"
+msgstr "57-мм протитанкова гармата ЗІС-2"
+
+msgid "DH_PantherturmCannon.ProjectileDescriptions[1]"
+msgstr "Підкаліберний (APCR)"
+
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions[2]"
+msgstr "Підкаліберний (APCR)"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions[0]"
+msgstr "Бронебійний (APCBC)"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions[1]"
+msgstr "Підкаліберний (APDS)"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions[2]"
+msgstr "Осколково-фугасний (HE)"
+
+msgid "DH_AT57Gun.VehicleNameString"
+msgstr "57-мм протитанкова гармата M1"
+
+msgid "DH_Bofors40mmCannon.ProjectileDescriptions[0]"
+msgstr "Осколково-фугасний (HE)"
+
+msgid "DH_Flak88Gun.VehicleNameString"
+msgstr "Гармата 8,8 cм FlaK 36"
+
+msgid "DH_Flakvierling38Gun.VehicleNameString"
+msgstr "2-см гармата Flakvierling 38"
+
+msgid "DH_LeIG18Cannon.ProjectileDescriptions[0]"
+msgstr "Осколково-фугасний (HE)"
+
+msgid "DH_LeIG18Cannon.ProjectileDescriptions[1]"
+msgstr "Комулятивний (HEAT)"
+
+msgid "DH_M116Cannon.ProjectileDescriptions[0]"
+msgstr "Осколково-фугасний (HE)"
+
+msgid "DH_LeIG18Gun.VehicleNameString"
+msgstr "7.5 cm leichtes Infanteriegeschütz 18"
+
+msgid "DH_M116Gun.VehicleNameString"
+msgstr "75-мм ранцева гаубиця М1"
+
+msgid "DH_M1927Cannon.ProjectileDescriptions[0]"
+msgstr "Осколково-фугасний (HE)"
+
+msgid "DH_M1927Cannon.ProjectileDescriptions[1]"
+msgstr "Комулятивний (HEAT)"
+
+msgid "DH_M1927Gun.VehicleNameString"
+msgstr "76-мм полкова гармата М1927"
+
+msgid "DH_M45QuadmountGun.VehicleNameString"
+msgstr "M45 Quadmount"
+
+msgid "DH_M5Gun.VehicleNameString"
+msgstr "3-дюймова гармата М5"
+
+msgid "DH_Pak38ATGun.VehicleNameString"
+msgstr "5.0-см протитанкова гармата Pak38"
+
+msgid "DH_Pak38Cannon.ProjectileDescriptions[0]"
+msgstr "Бронебійний (APCBC)"
+
+msgid "DH_Pak38Cannon.ProjectileDescriptions[1]"
+msgstr "Підкаліберний (APCR)"
+
+msgid "DH_Pak38Cannon.ProjectileDescriptions[2]"
+msgstr "Осколково-фугасний (HE)"
+
+msgid "DH_Pak39Cannon.ProjectileDescriptions[0]"
+msgstr "Бронебійний (APCBC)"
+
+msgid "DH_Pak39Cannon.ProjectileDescriptions[2]"
+msgstr "Осколково-фугасний (HE)"
+
+msgid "DH_Pak39Gun.VehicleNameString"
+msgstr "5,0 см гармата KwK 39"
+
+msgid "DH_Pak40ATGun.VehicleNameString"
+msgstr "7,5 см протитанкова гармата Pak40"
+
+msgid "DH_Pak40Cannon.ProjectileDescriptions[1]"
+msgstr "Осколково-фугасний (HE)"
+
+msgid "DH_Pak40Cannon.ProjectileDescriptions[2]"
+msgstr "Підкаліберний (APCR)"
+
+msgid "DH_Pak43ATGun.VehicleNameString"
+msgstr "8,8 см протитанкова гармата Pak 43/41"
+
+msgid "DH_PantherturmCannon.ProjectileDescriptions[0]"
+msgstr "Бронебійний (APCBC)"
+
+msgid "DH_PantherturmCannon.ProjectileDescriptions[2]"
+msgstr "Осколково-фугасний (HE)"
+
+msgid "DH_PantherturmGun.VehicleNameString"
+msgstr "Пантертурм"
+
+msgid "DH_ZiS2Cannon.ProjectileDescriptions[0]"
+msgstr "Бронебійний (APBC)"
+
+msgid "DH_ZiS2Cannon.ProjectileDescriptions[1]"
+msgstr "Осколково-фугасний (HE)"
+
+msgid "DH_ZiS2Cannon.ProjectileDescriptions[2]"
+msgstr "Підкаліберний (APCR)"
+
+msgid "DH_ZiS3Cannon.ProjectileDescriptions[0]"
+msgstr "Бронебійний (APBC)"
+
+msgid "DH_ZiS3Cannon.ProjectileDescriptions[1]"
+msgstr "Осколково-фугасний (HE)"
+
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions[0]"
+msgstr "Бронебійний (APBC)"
+
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions[1]"
+msgstr "Осколково-фугасний (HE)"
+
+msgid "DH_ZiS3Gun.VehicleNameString"
+msgstr "76-мм дивізійна гармата ЗІС-3"
