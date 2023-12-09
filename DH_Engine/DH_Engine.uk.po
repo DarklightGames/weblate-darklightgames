@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-09 07:59+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
 "Language: uk\n"
@@ -197,7 +197,7 @@ msgid "DHAxisSniperRoles.PluralName"
 msgstr "Снайпери"
 
 msgid "DHArtilleryMessage.ExhaustedText"
-msgstr ""
+msgstr "{name} вичерпано."
 
 #, fuzzy
 msgid "DHArtillerySpottingScope.NoTargetsHint"
@@ -404,3 +404,54 @@ msgstr "Сервер: "
 
 msgid "DHHintManager.Hints[64].Title"
 msgstr "Ствол зруйнован"
+
+msgid "DHArtilleryMessage.BadLocationText"
+msgstr "Недійсне цільове розташування для {name}."
+
+msgid "DHArtillerySpottingScope.TargetToggleHint"
+msgstr "Натисніть {0}, щоб переключатися між артилерійськими цілями"
+
+msgid "DHATLoadFailMessage.CantLoad"
+msgstr "Для перезарядки {0} потрібно розгорнути"
+
+msgid "DHArtilleryMessage.RequestText"
+msgstr "Запит на {name}."
+
+msgid "DHAntiTankProjectileDamageType.FemaleSuicide"
+msgstr "%o була підірвана власним %w."
+
+msgid "DHAntiTankProjectileDamageType.MaleSuicide"
+msgstr "%o був підірваний власним %w."
+
+msgid "DHArtilleryKillDamageType.FemaleSuicide"
+msgstr "%o була підірвана власним артилерійським снарядом."
+
+msgid "DHArtilleryKillDamageType.MaleSuicide"
+msgstr "%o був підірваний власним артилерійським снарядом."
+
+msgid "DHArtilleryMessage.ConfirmText"
+msgstr "{name} підтверджено."
+
+msgid "DHArtilleryMessage.DenyText"
+msgstr "{name} відхилено."
+
+msgid "DHArtilleryMessage.TooSoonText"
+msgstr "{name} зараз використовується. Спробуйте ще раз незабаром."
+
+msgid "DHArtilleryMessage.UnavailableText"
+msgstr "{name} зараз недоступно."
+
+msgid "DHArtilleryMessage.NoTargetText"
+msgstr "Немає цільового розташування."
+
+msgid "DHArtilleryMessage.NotQualifiedText"
+msgstr "Ви не маєте права запитувати {name}."
+
+msgid "DHArtilleryMessage.CancelledText"
+msgstr "{name} скасовано."
+
+msgid "DHArtillerySpottingScope.RangeHeaderString"
+msgstr "Довжина"
+
+msgid "DHArtillerySpottingScope.PitchHeaderString"
+msgstr "Висота"
