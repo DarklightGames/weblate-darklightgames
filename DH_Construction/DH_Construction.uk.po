@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-07 03:07+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2023-12-09 07:59+0000\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/uk/>\n"
 "Language: uk\n"
@@ -116,3 +116,33 @@ msgstr "Мінометна яма"
 
 msgid "DHCommandMenu_ConstructionGroup.BusyText"
 msgstr "Зайняте"
+
+msgid "DHConstruction_Resupply_Vehicles.MenuDescription"
+msgstr "Забезпечує пункт поповнення боєприпасів транспортних засобів і гармат."
+
+msgid "DHConstruction_WoodFence.MenuName"
+msgstr "Дерев'яний паркан"
+
+msgid "DHConstruction_PlatoonHQ.MenuDescription"
+msgstr "Забезпечує точку відродження для всієї команди."
+
+msgid "DHCommandMenu_ConstructionGroup.TeamLimitText"
+msgstr "Ліміт досягнуто"
+
+msgid "DHConstructionGroup_Debug.GroupName"
+msgstr "Відлагоджувати"
+
+msgid "DHConstruction_Resupply_Players.MenuDescription"
+msgstr "Забезпечує пункт постачання боєприпасів для піхоти."
+
+msgid "DHConstruction_SupplyCache.MenuName"
+msgstr "Схованка припасів"
+
+msgid "DHConstruction_SupplyCache.MenuDescription"
+msgstr "Зберігає та генерує запаси з часом."
+
+msgid "DHConstruction_VehiclePool.MenuDescription"
+msgstr "Забезпечує точку появи транспортних засобів для всієї команди."
+
+msgid "DHConstruction_Watchtower.MenuName"
+msgstr "Сторожова вежа"
