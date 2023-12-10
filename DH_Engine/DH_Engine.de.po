@@ -5,3 +5,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Weblate\n"
+
+#, fuzzy
+msgid "DHATCannonMessage.GunIsRotating"
+msgstr "Das Geschütz wird ausgerichtet"
+
+#, fuzzy
+msgid "DHATCannonMessage.NotQualified"
+msgstr "Nicht ausgebildet dieses Geschütz zu bedienen"
