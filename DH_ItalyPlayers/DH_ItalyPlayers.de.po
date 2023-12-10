@@ -5,3 +5,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Weblate\n"
+
+#, fuzzy
+msgid "DHItalyVoice.SupportStringAxis[5]"
+msgstr "Bringt den Panzerschreckschützen!"
+
+msgid "DHNation_Italy.NationName"
+msgstr "Königreich Italien"
+
+#, fuzzy
+msgid "DHItalyVoice.SupportAbbrevAxis[5]"
+msgstr "Benötige eine Panzerschreck"
