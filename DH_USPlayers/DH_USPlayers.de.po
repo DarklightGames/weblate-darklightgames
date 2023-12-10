@@ -5,3 +5,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Weblate\n"
+
+#, fuzzy
+msgid "DHUSVoice.SupportString[5]"
+msgstr "Bringt den Bazookaschützen!"
+
+msgid "DHUSVoice.SupportAbbrev[5]"
+msgstr "Benötige eine Bazooka"
+
+msgid "DHNation_USA.NationName"
+msgstr "Vereinigte Staaten von Amerika"
