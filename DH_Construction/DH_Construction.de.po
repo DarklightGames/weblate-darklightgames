@@ -3,7 +3,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-06 19:08+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
-"Language-Team: German <https://weblate.darklightgames.com/projects/darkesthour/dh_construction/de/>\n"
+"Language-Team: German <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_construction/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -11,23 +12,18 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.2.1\n"
 
-#, fuzzy
 msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
 msgstr "Erschöpft"
 
-#, fuzzy
 msgid "DHConstructionGroup_Obstacles.GroupName"
 msgstr "Hindernisse"
 
-#, fuzzy
 msgid "DHConstructionGroup_Logistics.GroupName"
 msgstr "Logistik"
 
-#, fuzzy
 msgid "DHConstructionGroup_Ammunition.GroupName"
 msgstr "Munition"
 
-#, fuzzy
 msgid "DHCameraWeapon.ItemName"
 msgstr "Kamera"
 
@@ -35,14 +31,96 @@ msgstr "Kamera"
 msgid "DHConstructionControlsMessage.Controls<1>.Text"
 msgstr "Stornieren"
 
-#, fuzzy
 msgid "DHCommandMenu_ConstructionGroup.TeamLimitText"
 msgstr "Limit erreicht"
 
-#, fuzzy
 msgid "DHCommandMenu_ConstructionGroup.NotAvailableText"
 msgstr "Nicht verfügbar"
 
-#, fuzzy
 msgid "DHCommandMenu_ConstructionGroup.BusyText"
 msgstr "Beschäftigt"
+
+#, fuzzy
+msgid "DHConstructionControlsMessage.Controls[1].Text"
+msgstr "Stornieren"
+
+msgid "DHConstructionControlsMessage.Controls[2].Text"
+msgstr "Drehen"
+
+msgid "DHCommandMenu_ConstructionGroup.RemainingText"
+msgstr "Verbleibend"
+
+msgid "DHConstruction_DragonsTooth.MenuName"
+msgstr "Drachenzahn"
+
+msgid "DHConstruction_DragonsTooth.MenuDescription"
+msgstr "Wirksam im blockieren aller Fahrzeuge."
+
+msgid "DHConstruction_Foxhole.MenuName"
+msgstr "Schützenloch"
+
+msgid "DHConstruction_Foxhole.ConstructionVerb"
+msgstr "graben"
+
+msgid "DHConstruction_Hedgehog.MenuName"
+msgstr "Panzersperre"
+
+#, fuzzy
+msgid "DHConstruction_InventorySpawner.ConstructionVerb"
+msgstr "setzen"
+
+msgid "DHConstruction_MortarPit.MenuName"
+msgstr "Mörserstellung"
+
+#, fuzzy
+msgid "DHConstruction_Radio.MenuName"
+msgstr "Funkgerät"
+
+msgid "DHConstruction_Resupply_Players.MenuName"
+msgstr "Munitionskiste (Infanterie)"
+
+#, fuzzy
+msgid "DHConstruction_Resupply_Players.MenuDescription"
+msgstr "Liefert Nachschub für die Infaterie."
+
+msgid "DHConstruction_Resupply_Vehicles.MenuDescription"
+msgstr "Liefert Nachschub für Fahrzeuge und Geschütze."
+
+#, fuzzy
+msgid "DHConstruction_Sandbags_Crescent.MenuName"
+msgstr "Sandsäcke (Sichel)"
+
+#, fuzzy
+msgid "DHConstruction_Sandbags_Line.MenuName"
+msgstr "Sandsäcke (Reihe)"
+
+#, fuzzy
+msgid "DHConstruction_SupplyCache.MenuName"
+msgstr "Nachschublager"
+
+#, fuzzy
+msgid "DHConstruction_SupplyCache.ConstructionVerb"
+msgstr "setzen"
+
+msgid "DHConstruction_Watchtower.MenuName"
+msgstr "Wachturm"
+
+msgid "DHConstruction_WoodFence.MenuName"
+msgstr "Holzzaun"
+
+msgid "DHConstruction_ConcertinaWire.MenuDescription"
+msgstr "Wirksam im blockieren von Infanterie und leichten Fahrzeugen."
+
+msgid "DHConstruction_Hedgehog.MenuDescription"
+msgstr "Wirksam im blockieren leichter und mittelschwerer Fahrzeuge."
+
+#, fuzzy
+msgid "DHConstruction_Radio.MenuDescription"
+msgstr "Erlaubt es Artillerie anzufordern."
+
+msgid "DHConstruction_SupplyCache.MenuDescription"
+msgstr "Lagert und erzeugt Nachschub über Zeit."
+
+#, fuzzy
+msgid "DHConstruction_Sandbags_Bunker.MenuName"
+msgstr "Sandsäcke (Bunker)"
