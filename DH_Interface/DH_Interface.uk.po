@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-10 13:42+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"Last-Translator: Владислав Коваленко <kovalenkov222@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
 "Language: uk\n"
@@ -64,7 +64,7 @@ msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[5]"
 msgstr "-"
 
 msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[6]"
-msgstr "Налаштування фильтрів"
+msgstr "Налаштування фільтрів"
 
 msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[7]"
 msgstr "Створити шаблон"
@@ -203,7 +203,7 @@ msgid "DHContextMenu_SquadMembers.EntryTexts[15]"
 msgstr "{1} Вигнати {0} з загону"
 
 msgid "DHCreditsPage.WindowName"
-msgstr "Тітри"
+msgstr "Титри"
 
 msgid "DHCreditsPage.CloseButton.Caption"
 msgstr "Закрити"
@@ -1268,3 +1268,6 @@ msgstr "Повний екран"
 
 msgid "DHTab_DetailSettings.VideoResolution.Caption"
 msgstr "Роздільна здатність"
+
+msgid "DHCommunicationPage.Panels[0].Caption"
+msgstr "Комунікація"
