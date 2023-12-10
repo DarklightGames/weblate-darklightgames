@@ -124,3 +124,6 @@ msgstr "Lagert und erzeugt Nachschub über Zeit."
 #, fuzzy
 msgid "DHConstruction_Sandbags_Bunker.MenuName"
 msgstr "Sandsäcke (Bunker)"
+
+msgid "DHConstructionControlsMessage.Controls[0].Text"
+msgstr "Bestätigen"
