@@ -5,3 +5,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Weblate\n"
+
+#, fuzzy
+msgid "DHBritishVoice.SupportString[5]"
+msgstr "Bringt den PIAT Schützen!"
+
+#, fuzzy
+msgid "DHBritishVoice.SupportAbbrev[5]"
+msgstr "Benötige eine PIAT"
+
+msgid "DHCWAntiTankRoles.MyName"
+msgstr "Panzerjäger"
+
+msgid "DHCWAntiTankRoles.PluralName"
+msgstr "Panzerjäger"
+
+msgid "DHCanadianVoice.SupportString[5]"
+msgstr "Bringt den PIAT Schützen!"
+
+msgid "DHCanadianVoice.SupportAbbrev[5]"
+msgstr "Benötige eine PIAT"
+
+msgid "DHNation_Britain.NationName"
+msgstr "Großbritannien"
+
+msgid "DHNation_Canada.NationName"
+msgstr "Kanada"
