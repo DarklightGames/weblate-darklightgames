@@ -3,12 +3,14 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-10 13:42+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
-"Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/darkesthour/dh_engine/uk/>\n"
+"Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_engine/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.2.1\n"
 
 msgid "DHATCannonMessage.VehicleIsEnemy"
@@ -317,8 +319,8 @@ msgstr "{name} можливо {verb} лише в межах {integer}м від �
 #, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<23>"
 msgstr ""
-"Занадто близько до неконтрольованої точки ({string}), відійдіть на "
-"{integer}м далі."
+"Занадто близько до неконтрольованої точки ({string}), відійдіть на {integer}"
+"м далі."
 
 msgid "DHConstructionGroup_Guns.GroupName"
 msgstr "Гармати"
@@ -401,7 +403,7 @@ msgid "DHHud.ServerNameText"
 msgstr "Сервер: "
 
 msgid "DHHintManager.Hints[64].Title"
-msgstr "Ствол зруйнован"
+msgstr "Ствол зруйнований"
 
 msgid "DHArtilleryMessage.BadLocationText"
 msgstr "Недійсне цільове розташування для {name}."
@@ -505,8 +507,8 @@ msgstr "Ви не можете створити точку збору всере
 
 msgid "DHSquadMessage.RallyPointTooCloseMessage"
 msgstr ""
-"Ви не можете встановити точку збору так близько до існуючої, ви повинні бути"
-" на {0} метрів далі."
+"Ви не можете встановити точку збору так близько до існуючої, ви повинні бути "
+"на {0} метрів далі."
 
 msgid "DHSquadMessage.RallyPointExposed"
 msgstr "Точка збору була помічена ворогом!"
@@ -626,8 +628,7 @@ msgid "DHSquadPromotionRequestInteraction.Options<1>.Text"
 msgstr "Відхилити"
 
 msgid "DHSquadMessage.RallyPointBehindEnemyLines"
-msgstr ""
-"Точка збору не може бути створена на контрольованій ворогом території."
+msgstr "Точка збору не може бути створена на контрольованій ворогом території."
 
 msgid "DHSquadMessage.BannedPlayer"
 msgstr "{0} було забанено з загону."
@@ -640,3 +641,790 @@ msgstr "{0} позначив артилерійську димову ціль"
 
 msgid "DHArtilleryTargetMessage.CannotMarkTargetYet"
 msgstr "Ви ще не можете позначити інший маркер артилерійської цілі"
+
+msgid "DHATGunRotateControlsMessage.Controls[0].Text"
+msgstr "Закінчити обертати"
+
+msgid "DHATGunRotateControlsMessage.Controls[1].Text"
+msgstr "Обернути"
+
+msgid "DarkestHourGame.ROHints[20]"
+msgstr ""
+"Протитанкова зброя буде автоматично розряджена, якщо ви змінете зброю. "
+"Дотримуйтесь товариша по команді, щоб прискорити перезарядку, коли це "
+"необхідно."
+
+msgid "DarkestHourGame.ROHints[19]"
+msgstr ""
+"Протитанкові солдати завжди повинні брати з собою помічника для додаткового "
+"боєзапасу, швидших перезарядок та захисту."
+
+#, fuzzy
+msgid "DarkestHourGame.ROHints[18]"
+msgstr ""
+"Не стійте прямо за ракетною зброєю, коли вона стріляє; ви можете отримати "
+"серйозні травми від вихлопу!"
+
+msgid "DarkestHourGame.ROHints[16]"
+msgstr ""
+"Кулеметники мають обмежене поле зору, коли іх кулемет встановлено на "
+"позиціЇ, тому намагайтесь атакувати їх с флангів."
+
+msgid "DarkestHourGame.ROHints[17]"
+msgstr ""
+"Після постріла з Базуки або Панцершреку, швидко знайдіть нове укриття, "
+"оскільки дим від вихлопу розкриє ваше місцезнаходження. По вам обов'язково "
+"відкриють зворотний вогонь!"
+
+msgid "DHConstructionErrorMessage.ErrorMessages[22]"
+msgstr ""
+"Занадто близько до контрольної точки ({string}), відійдіть на {integer}м "
+"далі."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[25]"
+msgstr ""
+"Не можливо {verb} тут '{name}', оскільки ви знаходитесь на ворожій території"
+
+msgid "DHConstructionErrorMessage.ErrorMessages[21]"
+msgstr "Ви не можете {verb} тут '{name}', поки ви зайняті."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[24]"
+msgstr ""
+"Щоб {verb} тут'{name}', ви повинні бути в межах {integer}м від дружнього "
+"{string}"
+
+#, fuzzy
+msgid "DHConstructionErrorMessage.ErrorMessages[23]"
+msgstr ""
+"Занадто близько до неконтрольованої точки ({string}), відійдіть на {integer}"
+"м далі."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[26]"
+msgstr "{name} більше не доступно"
+
+msgid "DHSquadPromotionRequestInteraction.Options[0].Text"
+msgstr "Прийняти"
+
+msgid "DHSquadMergeRequestInteraction.Options[1].Text"
+msgstr "Відхилити"
+
+msgid "DHSquadMergeRequestInteraction.Options[0].Text"
+msgstr "Прийняти"
+
+msgid "DHSquadInviteInteraction.Options[0].Text"
+msgstr "Прийняти"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options[0].Text"
+msgstr "Прийняти"
+
+msgid "DHSquadInviteInteraction.Options[1].Text"
+msgstr "Відхилити"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options[1].Text"
+msgstr "Відхилити"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options[1].Text"
+msgstr "Відхилити"
+
+msgid "DHSquadMergeRequestInteraction.Options[2].Text"
+msgstr "Ігнорувати всі"
+
+msgid "DHSquadPromotionRequestInteraction.Options[1].Text"
+msgstr "Відхилити"
+
+msgid "DHConstructionErrorMessage.ErrorMessages[3]"
+msgstr "Ви не можете {verb} тут '{name}', оскільки земля занадто крута."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[2]"
+msgstr "Щоб {verb} тут '{name}', ви повинні знаходитись на твердій поверхні."
+
+msgid "DHCommandMenu_Radio.UnqualifiedText"
+msgstr "Некваліфікований"
+
+msgid "DHConstructionErrorMessage.ErrorMessages[7]"
+msgstr "Ви повинні знаходитись на земляному ґрунті, щоб {verb} тут '{name}'."
+
+msgid "DHCanisterShotDamageType.MaleSuicide"
+msgstr "%o був підірваний власним пострілом у каністру."
+
+msgid "DHChatRoomMessage.CannotJoinCommandChannelText"
+msgstr ""
+"Не вдалося приєднатися до каналу `%title%`. Ви повинні бути лідером загону "
+"або його помічником, і у вашому загоні має бути щонайменше 2 учасники."
+
+msgid "DHCommandMenu_SquadManageNonMember.AlreadyInASquadText"
+msgstr "Вже в загоні"
+
+msgid "DHHintManager.Hints[0].Text"
+msgstr ""
+"Ці повідомлення-підказки періодично з'являтимуться у грі. Звертайте на них "
+"увагу, від цього може залежати ваше виживання! Їх можна вимкнути на вкладці "
+"Інтерфейс у меню налаштувань."
+
+msgid "DHHintManager.Hints[3].Text"
+msgstr ""
+"Гранати з кольоровим димом використовуються для спілкування на полі бою з "
+"товаришами по команді. Не забудьте розповісти своїм товаришам по команді, на "
+"що вказує кольоровий дим."
+
+msgid "DHHintManager.Hints[7].Text"
+msgstr ""
+"Щоб відрегулювати ціль міномета, утримуйте клавіші A або D. Щоб збільшити "
+"висоту, натисніть клавішу S. Щоб зменшити висоту, натисніть клавішу W. Щоб "
+"вибрати наступний тип пострілу, натисніть клавішу %SwitchFireMode%. Щоб "
+"вистрілити, натисніть клавішу %Fire%."
+
+msgid "DHHintManager.Hints[1].Text"
+msgstr ""
+"Ви здатні долати невеликі перешкоди! щоб перелізти, встаньте перед будь-якою "
+"низькою перешкодою, поки не з'явиться значок подолання, потім натисніть "
+"%JUMP%, щоб перелізти на вершину перешкоди."
+
+msgid "DHHintManager.Hints[9].Text"
+msgstr ""
+"Ви можете покинути міномет у будь-який момент, натиснувши клавішу %Use%. "
+"Поки ви не в мінометі, ви можете отримати боєприпаси в зоні поповнення "
+"боєкомплекту або у своїх товаришів по команді."
+
+msgid "DHHintManager.Hints[47].Text"
+msgstr ""
+"З цього кулемета можна стріляти тільки зсередини автомобіля, але він "
+"встановлений ззовні, і для перезарядки потрібно відстебнути люк"
+
+msgid "DHHintManager.Hints[12].Text"
+msgstr ""
+"Ви можете позначати цілі для вогневої підтримки за допомогою бінокля. "
+"Наведіть бінокль за допомогою %ROIRONSIGHTS%, потім натисніть і утримуйте "
+"%FIRE%, щоб відкрити меню вогневої підтримки."
+
+msgid "DHHintManager.Hints[44].Text"
+msgstr ""
+"Ви керуєте вантажівкою постачання. Цей транспортний засіб може поповнювати "
+"запаси боєприпасів для автомобілів, мінометів та піхоти. Обов'язково "
+"припаркуйте його в безпечному місці."
+
+msgid "DHHintManager.Hints[54].Text"
+msgstr ""
+"Ви позначили ціль для дальньої вогневої підтримки. Знайдіть радіостанцію, "
+"щоб викликати її!"
+
+msgid "DHHud.SpectateInstructionText3"
+msgstr ""
+"Натисніть [%ROIRONSIGHTS%], щоб переключити вид від першої/третьої особи"
+
+msgid "DHIQMessage.Congratulations[7]"
+msgstr "Ви найрозумніший!"
+
+msgid "DHLastObjectiveMessage.AlliesAboutToWinMessage"
+msgstr "Остання ціль - війська Союзників майже виграли битву!"
+
+msgid "DHMapMarker_Friendly_PlatoonHQ.MarkerName"
+msgstr "Запит на штаб команди"
+
+msgid "DHHintManager.Hints[43].Text"
+msgstr ""
+"Ви знаходитесь біля вантажівки з боєприпасами. Станьте ззаду вантажівки, щоб "
+"поповнити запаси боєприпасів."
+
+msgid "DHHud.JoinTeamText"
+msgstr "Натисніть [ESC], щоб приєднатися до команди"
+
+msgid "DHHud.NotReadyToSpawnText"
+msgstr ""
+"Відродження стане можливим через {s} секунд (Використовуйте цей час для "
+"організації загонів і планування)"
+
+msgid "DHHintManager.Hints[50].Text"
+msgstr ""
+"Відкрийте мапу для координації вогню. Використовуйте [ПРАВУ КЛАВІШУ МИШІ] на "
+"запиті на вогневу підтримку, щоб вибрати його як активну ціль, або "
+"використовуйте маркер лінійки, щоб виміряти відстань від вас до певної точки "
+"на карті."
+
+msgid "DHHintManager.Hints[52].Text"
+msgstr ""
+"Щоб змінити масштаб мапи, наведіть курсор на мапу і використовуйте коліщатко "
+"прокрутки. Щоб панорамувати мапу, натисніть і утримуйте [ЛІВУЮ КЛАВІШУ "
+"МИШІ], а потім переміщуйте курсор."
+
+msgid "DHHintManager.Hints[61].Text"
+msgstr ""
+"Ця зброя використовує нестандартні боєприпаси, які неможливо поповнити. Не "
+"витрачайте набої даремно!"
+
+msgid "DHHintManager.Hints[62].Text"
+msgstr ""
+"Ствол вашої зброї перегрівається! Перегрів ствола призведе до зниження "
+"точності пострілу і, врешті-решт, до його руйнування."
+
+msgid "DHHud.LegendCarriedArtilleryRadioText"
+msgstr "Артилерійський радист"
+
+msgid "DHHud.InvalidSpawnSettingsText"
+msgstr ""
+"Натисніть [ESC], щоб підтвердити вибір ролі, транспортного засобу та точки "
+"відродження"
+
+msgid "DHHud.SpawnRallyPointText"
+msgstr ""
+"Ви будете відроджені як {0} у пункті збору вашого загону в {2} | Натисніть "
+"[ESC], щоб змінити"
+
+msgid "DHMortarMessage.BadSurface"
+msgstr "Ви не можете розмістити свій міномет на цій поверхні"
+
+msgid "DHHud.ReinforcementText"
+msgstr "Ви будете відроджені як {0} в {2} | Натисніть [ESC], щоб змінити"
+
+msgid "DHIQMessage.LeaderAWOLMessage"
+msgstr "Ви нехтуєте своїм загоном і лініями постачання."
+
+msgid "DHBurningDamageType.DeathString"
+msgstr "%o згорів дотла під час пожежі, яку влаштував %k."
+
+msgid "DHBurningDamageType.FemaleSuicide"
+msgstr "%o згоріла дотла."
+
+msgid "DHBurningDamageType.MaleSuicide"
+msgstr "%o згорів до хрусткої скоринки."
+
+msgid "DHCanisterShotDamageType.DeathString"
+msgstr "%o був підірваний пострілом у каністру %k."
+
+msgid "DHConstruction.ConstructionVerb"
+msgstr "побудувати"
+
+msgid "DHConstructionErrorMessage.ErrorMessages[6]"
+msgstr "Тут недостатньо місця щоб {verb} тут '{name}'."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[5]"
+msgstr "Це місце не підходить, щоб {verb} тут '{name}'."
+
+msgid "DHCanisterShotDamageType.FemaleSuicide"
+msgstr "%o була підірвана власним пострілом у каністру."
+
+msgid "DHChatRoomMessage.CannotJoinSquadChannelText"
+msgstr "Не вдалося приєднатися до каналу `%title%`. Ви маєте бути в загоні."
+
+msgid "DHCommandMenu_ATGun.EnemyGunText"
+msgstr "Ви не можете повернути ворожу гармату"
+
+msgid "DHCommandMenu_ATGun.OccupiedText"
+msgstr "Гармата зайнята"
+
+msgid "DHCommandMenu_ATGun.CannotBeRotatedText"
+msgstr "Неможливо повернути"
+
+msgid "DHCommandMenu_ATGun.FatalText"
+msgstr "Обертання недоступне"
+
+msgid "DHCommandMenu_ATGun.CooldownText"
+msgstr "Зачекайте"
+
+msgid "DHCommandMenu_FireSupport.UnavailableText"
+msgstr "Недоступно"
+
+msgid "DHCommandMenu_FireSupport.InvalidTargetText"
+msgstr "Неправильна ціль"
+
+msgid "DHCommandMenu_FireSupport.OffMapSupportExhaustedText"
+msgstr "Вичерпано"
+
+msgid "DHCommandMenu_FireSupport.AvailableArtilleryText"
+msgstr "Артилерія: {0}"
+
+msgid "DHCommandMenu_FireSupport.AvailableParadropsText"
+msgstr "Десантувань: {0}"
+
+msgid "DHCommandMenu_FireSupport.AvailableAirstrikesText"
+msgstr "Авіаудари: {0}"
+
+msgid "DHCommandMenu_LoneWolf.AutoJoinSquadDisabledText"
+msgstr "Немає доступних загонів"
+
+msgid "DHCommandMenu_Radio.UnavailableText"
+msgstr "Недоступно"
+
+msgid "DHCommandMenu_Radio.ExhaustedText"
+msgstr "Вичерпано"
+
+msgid "DHCommandMenu_Radio.OngoingText"
+msgstr "Триває"
+
+msgid "DHCommandMenu_Radio.AvailableText"
+msgstr "В наявності"
+
+msgid "DHCommandMenu_Radio.CancelText"
+msgstr "Триває (Скасувати)"
+
+msgid "DHCommandMenu_SquadLeader.InEnemyTerritory"
+msgstr "На ворожій території"
+
+msgid "DHCommandMenu_SquadManageNonMember.SquadIsFullText"
+msgstr "Загін заповнений"
+
+msgid "DHCommandSayMessage.MessagePrefix"
+msgstr "[КОМАНДА]"
+
+msgid "DHCommunicationMessage.AllChatDisabledMessage"
+msgstr "Публічний чат наразі вимкнено."
+
+msgid "DHMainMenuGame.GameName"
+msgstr "Гра"
+
+msgid "DHMapMarker_Enemy_PlatoonHQ.MarkerName"
+msgstr "Ворожий штаб"
+
+msgid "DHConstructionErrorMessage.ErrorMessages[10]"
+msgstr "Не можливо {verb} тут '{name}' оскільки ви знаходитесь мінному полі."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[11]"
+msgstr ""
+"Ви не можете {verb} тут '{name}' оскільки ви надто близько до точки "
+"відродження."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[12]"
+msgstr "Не можливо {verb} тут '{name}', оскільки ви у приміщенні."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[13]"
+msgstr "Не можливо {verb} тут '{name}' оскільки ви в середині об'єкту."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[14]"
+msgstr ""
+"Ваша команда не може більше не може {verb} тут '{name}' (досягнуто ліміт: "
+"{integer})."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[16]"
+msgstr "{name} не можливо {verb} через недостатню кількість запасів."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[17]"
+msgstr "{name} не можливо {verb} на цій поверхні."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[18]"
+msgstr "В цьому місці земля надто тверда, щоб {verb} тут '{name}'."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[8]"
+msgstr ""
+"Занадто близько до іншого об'єкту {name}, він має бути на відстані {integer} "
+"м далі."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[20]"
+msgstr ""
+"Щоб {verb} тут '{name}', у вашому загоні повинно бути {integer} учасників."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[9]"
+msgstr ""
+"Занадто близько до об'єкту ворога {name}, він повинен бути на відстані "
+"{integer}м далі."
+
+msgid "DHConstructionErrorMessage.ErrorMessages[15]"
+msgstr "У радіусі {integer}метрів немає схованок з запасами."
+
+msgid "DHGameMessage.VehicleDepletedMessage"
+msgstr "{0} підкріплень вичерпано."
+
+msgid "DHGameMessage.VehicleArrivedMessage"
+msgstr "Прибуло {0} підкріплень."
+
+msgid "DHGameMessage.VehicleCutOffMessage"
+msgstr "Підкріплень {0} відрізані."
+
+msgid "DHMortarDamageType.DeathString"
+msgstr "%o був підірваний мінометним снарядом %k."
+
+msgid "DHMortarDamageType.MaleSuicide"
+msgstr "%o підірвався на власному мінометному снаряді."
+
+msgid "DHMortarMessage.InWater"
+msgstr "Ви не можете розгорнути міномет у воді"
+
+msgid "DHMortarMessage.InUse"
+msgstr ""
+"Ви не можете керувати цим мінометом, оскільки він наразі використовується"
+
+msgid "DHGameReplicationInfo.ReinforcementsInfiniteText"
+msgstr "Нескінченно"
+
+msgid "DHGameType.GameTypeName"
+msgstr "Невідомий тип гри"
+
+msgid "DHGameType_Advance.GameTypeName"
+msgstr "Наступ"
+
+msgid "DHGameType_Armored_Advance.GameTypeName"
+msgstr "Танковий наступ"
+
+msgid "DHGameType_Clash.GameTypeName"
+msgstr "Зіткнення"
+
+msgid "DHGameType_Cutoff.GameTypeName"
+msgstr "Відсікання військ"
+
+msgid "DHGameType_Defence.GameTypeName"
+msgstr "Оборона"
+
+msgid "DHGameType_Domination.GameTypeName"
+msgstr "Домінування"
+
+msgid "DHGameType_Push.GameTypeName"
+msgstr "Штурм"
+
+msgid "DHGameType_Stalemate.GameTypeName"
+msgstr "Відступ"
+
+msgid "DHHintManager.Hints[0].Title"
+msgstr "Ласкаво просимо до Darkest Hour!"
+
+msgid "DHHintManager.Hints[1].Title"
+msgstr "Занурення в бій"
+
+msgid "DHHintManager.Hints[2].Title"
+msgstr "Парашути"
+
+msgid "DHHintManager.Hints[2].Text"
+msgstr "Ви можете керувати траєкторією парашута за допомогою клавіш руху!"
+
+msgid "DHHintManager.Hints[3].Title"
+msgstr "Кольорові димові шашки"
+
+msgid "DHHintManager.Hints[6].Title"
+msgstr "Міномети"
+
+msgid "DHHintManager.Hints[6].Text"
+msgstr ""
+"Поки ви тримаєте міномет, ви не можете змінювати зброю, бігати, або лежати. "
+"Щоб розгорнути міномет, присядьте на рівному місці і натисніть %DEPLOY%."
+
+msgid "DHHintManager.Hints[7].Title"
+msgstr "Мінометна операція"
+
+msgid "DHHintManager.Hints[8].Title"
+msgstr "Артилерійські цілі"
+
+msgid "DHHintManager.Hints[8].Text"
+msgstr ""
+"Командири загонів можуть позначати цілі, які стають видимими на вашій мапі. "
+"Коли снаряд приземляється біля маркера цілі, місце падіння позначається на "
+"вашій мапі. Використовуйте ці маркери для наведення на ціль."
+
+msgid "DHHintManager.Hints[9].Title"
+msgstr "Залишення міномета"
+
+msgid "DHHintManager.Hints[10].Title"
+msgstr "Розгортання мінометів"
+
+msgid "DHHintManager.Hints[10].Text"
+msgstr ""
+"Щоб розгорнути міномет, натисніть клавішу %Deploy%. Розгортання міномета "
+"призведе до скидання налаштувань висоти та траверсу."
+
+msgid "DHHintManager.Hints[12].Title"
+msgstr "Бінокль"
+
+msgid "DHHintManager.Hints[13].Title"
+msgstr "Радист"
+
+msgid "DHHintManager.Hints[13].Text"
+msgstr ""
+"Ти - радист! Тримайтеся поруч з командирами відділень, щоб вони могли "
+"викликати вогневу підтримку з дальньої дистанції!"
+
+msgid "DHHintManager.Hints[40].Title"
+msgstr "Транспортні засоби"
+
+msgid "DHHintManager.Hints[40].Text"
+msgstr ""
+"Ви ввійшли в транспорт. Щоб запустити або зупинити двигун, натисніть %FIRE%."
+
+msgid "DHPawnTouchMessage.Messages[0]"
+msgstr "Натисніть [%THROWMGAMMO%], щоб поповнити боєприпаси {0}"
+
+msgid "DHHud.AndMoreText"
+msgstr "і не тільки..."
+
+msgid "DHHintManager.Hints[42].Title"
+msgstr "Човни"
+
+msgid "DHHintManager.Hints[42].Text"
+msgstr ""
+"Ви керуєте човном. Опустіть носовий трап, натиснувши %PREVWEAPON%, щоб "
+"пасажири і ви могли вийти. Щоб підняти носову рампу, натисніть %NEXTWEAPON%."
+
+msgid "DHHintManager.Hints[43].Title"
+msgstr "Вантажівки для поповнення запасів"
+
+msgid "DHHintManager.Hints[44].Title"
+msgstr "Вантажівки для поповнення запасів"
+
+msgid "DHHintManager.Hints[46].Title"
+msgstr "Зовнішній кулемет"
+
+msgid "DHHintManager.Hints[46].Text"
+msgstr ""
+"Цей кулемет встановлений ззовні, і стріляти або перезаряджати його можна "
+"тільки якщо відкрити люк"
+
+msgid "DHHintManager.Hints[47].Title"
+msgstr "Кулемет з дистанційним керуванням"
+
+msgid "DHHintManager.Hints[48].Title"
+msgstr "Зовнішнє перезаряджання кулемета"
+
+msgid "DHHintManager.Hints[48].Text"
+msgstr ""
+"Щоб перезарядити зовнішній кулемет, потрібно відкрити люк (і не "
+"використовувати бінокль)"
+
+msgid "DHHintManager.Hints[49].Text"
+msgstr ""
+"Ви керуєте артилерійською установкою, оснащеною оптичним прицілом. Натисніть "
+"%NEXTWEAPON%, щоб подивитися в приціл."
+
+msgid "DHHintManager.Hints[49].Title"
+msgstr "Оптичний приціл"
+
+msgid "DHHintManager.Hints[50].Title"
+msgstr "Оператори артилерії"
+
+msgid "DHHintManager.Hints[51].Title"
+msgstr "Взаємодія з мапой"
+
+msgid "DHHintManager.Hints[51].Text"
+msgstr "Ви можете взаємодіяти з мапою, натиснувши %JUMP%."
+
+msgid "DHHintManager.Hints[52].Title"
+msgstr "Навігація мапою"
+
+msgid "DHHintManager.Hints[53].Title"
+msgstr "Маркери мапи"
+
+msgid "DHHintManager.Hints[53].Text"
+msgstr ""
+"Щоб додавати і взаємодіяти з маркерами на мапі, наведіть курсор на область "
+"або об'єкт, що вас цікавить, і натисніть [ПРАВУ КЛАВІШУ МИШІ], щоб викликати "
+"контекстне меню."
+
+msgid "DHHintManager.Hints[54].Title"
+msgstr "Радістанції"
+
+msgid "DHHintManager.Hints[60].Title"
+msgstr "Дальність стрільби"
+
+msgid "DHHintManager.Hints[60].Text"
+msgstr ""
+"Ця зброя має регульований приціл! Натисніть %SWITCHFIREMODE%, щоб змінити "
+"діапазон прицілу."
+
+msgid "DHHintManager.Hints[61].Title"
+msgstr "Відчайдушні заходи"
+
+msgid "DHHintManager.Hints[62].Title"
+msgstr "Перегрів ствола"
+
+msgid "DHHintManager.Hints[63].Title"
+msgstr "Заміна ствола"
+
+msgid "DHHintManager.Hints[63].Text"
+msgstr ""
+"Ви можете змінити ствол цієї зброї. Натисніть %ROMGOPERATION% під час "
+"розгортання, щоб змінити ствол на інший."
+
+msgid "DHHud.TimeElapsedText"
+msgstr "Минуло часу: "
+
+msgid "DHHud.SelectSpawnPointText"
+msgstr "Натисніть [ESC], щоб вибрати точку відродження"
+
+msgid "DHHud.SpawnInfantryText"
+msgstr "Ви будете відроджені як {0} в {2} | Натисніть [ESC], щоб змінити"
+
+msgid "DHHud.SpawnVehicleText"
+msgstr ""
+"Ви будете відроджені як {0} за кермом {3} у {2} | Натисніть [ESC], щоб "
+"змінити"
+
+msgid "DHHud.SpawnAtVehicleText"
+msgstr "Ви будете відроджені як {0} в {1} в {2} | Натисніть [ESC], щоб змінити"
+
+msgid "DHHud.SpawnNoRoleText"
+msgstr "Натисніть [ESC], щоб вибрати роль"
+
+msgid "DHHud.NeedReloadText"
+msgstr "Потрібне перезаряджання"
+
+msgid "DHHud.CanReloadText"
+msgstr "Натисніть %THROWMGAMMO%, щоб допомогти з перезаряджанням"
+
+msgid "DHHud.ConnectedObjectivesNotSecuredText"
+msgstr "Пов'язана ціль (s) не захищена"
+
+msgid "DHHud.NeedsClearedText"
+msgstr " (Не захищено)"
+
+msgid "DHHud.BlackoutText"
+msgstr "Затемнення"
+
+msgid "DHHud.TeamMessagePrefix"
+msgstr "[КОМАНДА] "
+
+msgid "DHHud.SpectateInstructionText1"
+msgstr "Натисніть [%FIRE%], щоб переключити точку зору/гравців"
+
+msgid "DHHud.SpectateInstructionText2"
+msgstr "Натисніть [%ALTFIRE%] для перемикання режимів перегляду"
+
+msgid "DHHud.SpectateInstructionText4"
+msgstr "Натисніть [%JUMP%], щоб повернутися до перегляду себе"
+
+msgid "DHHud.LegendAxisObjectiveText"
+msgstr "Територія військ Осі"
+
+msgid "DHHud.LegendAlliesObjectiveText"
+msgstr "Територія Союзників"
+
+msgid "DHHud.LegendArtilleryRadioText"
+msgstr "Артилерійське радіо"
+
+msgid "DHIQMessage.MemberAWOLMessage"
+msgstr "Ви покидаєте свій загін."
+
+msgid "DHIQMessage.NotInSquadMessage"
+msgstr "Ви не в загоні."
+
+msgid "DHIQMessage.Congratulations[0]"
+msgstr "Ого! Який ви розумний!"
+
+msgid "DHIQMessage.Congratulations[1]"
+msgstr "Дивовижно!"
+
+msgid "DHIQMessage.Congratulations[2]"
+msgstr "Ви тактичний геній!"
+
+msgid "DHIQMessage.Congratulations[3]"
+msgstr "Молодець!"
+
+msgid "DHIQMessage.Congratulations[4]"
+msgstr "Абсолютно божевільний!"
+
+msgid "DHIQMessage.Congratulations[6]"
+msgstr "Чудово!"
+
+msgid "DHInventorySpawner.ContainerNoun"
+msgstr "ящик"
+
+msgid "DHLastObjectiveMessage.AxisAboutToWinMessage"
+msgstr "Остання ціль - війська Осі майже виграли битву!"
+
+msgid "DHLib.ServerHealthStages[0].Text"
+msgstr "Чудовий"
+
+msgid "DHLib.ServerHealthStages[1].Text"
+msgstr "Добрий"
+
+msgid "DHLib.ServerHealthStages[2].Text"
+msgstr "Справедливий"
+
+msgid "DHLib.ServerHealthStages[3].Text"
+msgstr "Поганий"
+
+msgid "DHLib.ServerHealthStages[4].Text"
+msgstr "Жахливий"
+
+msgid "DHLocalMessage.SquadLeaderID"
+msgstr "КМ"
+
+msgid "DHLocalMessage.SquadAssistantID"
+msgstr "П"
+
+msgid "DHMapMarker_AdminParadrop.MarkerName"
+msgstr "Адміністратор: Десантування"
+
+msgid "DHMapMarker_Enemy_ATGun.MarkerName"
+msgstr "Ворожа гармата"
+
+msgid "DHMapMarker_Enemy_Infantry.MarkerName"
+msgstr "Ворожа піхота"
+
+msgid "DHMapMarker_Enemy_Tank.MarkerName"
+msgstr "Ворожий танк"
+
+msgid "DHMapMarker_Enemy_Vehicle.MarkerName"
+msgstr "Ворожа машина"
+
+msgid "DHMapMarker_FireSupport_OffMap.MarkerName"
+msgstr "Запит артилерії"
+
+msgid "DHMapMarker_Friendly_Supplies.MarkerName"
+msgstr "Запит на постановку припасів"
+
+msgid "DHMapMarker_OngoingBarrage.MarkerName"
+msgstr "Продовжити обстріл"
+
+msgid "DHMapMarker_Ruler.MarkerName"
+msgstr "Позначка"
+
+msgid "DHMapMarker_Squad_Attention.MarkerName"
+msgstr "Увага загону"
+
+msgid "DHMapMarker_Squad_Defend.MarkerName"
+msgstr "Загінна оборона"
+
+msgid "DHMapMarker_Squad_Move.MarkerName"
+msgstr "Рух загону"
+
+msgid "DHMortarDamageType.FemaleSuicide"
+msgstr "%o підірвалася на власному мінометному снаряді."
+
+msgid "DHMortarMessage.MustCrouch"
+msgstr "Ви повинні присісти, щоб розгорнути міномет"
+
+msgid "DHMortarMessage.MustBeStill"
+msgstr "Ви не можете розгорнути міномет під час руху"
+
+msgid "DHMortarMessage.CannotLean"
+msgstr "Ви не можете розгорнути міномет, нахилившись"
+
+msgid "DHMortarMessage.NotEnoughRoom"
+msgstr "У вас недостатньо місця, щоб розмістити тут міномет"
+
+msgid "DHMortarMessage.CannotDeploy"
+msgstr "Ви не можете розмістити тут свій міномет"
+
+msgid "DHMortarMessage.NotQualified"
+msgstr "Ви не маєте достатньої кваліфікації для керування цим мінометом"
+
+msgid "DHMortarMessage.EnemyMortar"
+msgstr "Ви не можете керувати ворожими мінометами"
+
+msgid "DHObjectiveMessage.TeamStrings[0]"
+msgstr "Війська Осі"
+
+msgid "DHObjectiveMessage.TeamStrings[1]"
+msgstr "Війська Союзників"
+
+msgid "DHObjectiveMessage.NotificationTypes[0]"
+msgstr "нейтралізували"
+
+msgid "DHObjectiveMessage.NotificationTypes[1]"
+msgstr "захопили"
+
+msgid "DHObjectiveMessage.NotificationTypes[2]"
+msgstr "убезпечили"
+
+msgid "DHPassengerPawn.HudName"
+msgstr "Водій"
+
+msgid "DHPawnTouchMessage.Messages[1]"
+msgstr "Натисніть [%THROWMGAMMO%], щоб перезарядити {0}"
+
+msgid "DHMapMarker_Squad_Attack.MarkerName"
+msgstr "Загінна атака"
+
+msgid "DHMapMarker_FireSupport_Smoke.MarkerName"
+msgstr "Запит на димову підтримку"
+
+msgid "DHMapMarker_FireSupport_HE.MarkerName"
+msgstr "Запит на мінометну підтримку"
+
+msgid "DHConstructionErrorMessage.ErrorMessages[4]"
+msgstr "Ви не можете {verb} тут '{name}', оскільки ви знаходитесь воді."
