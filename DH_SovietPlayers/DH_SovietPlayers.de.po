@@ -3,7 +3,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-08 01:15+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
-"Language-Team: German <https://weblate.darklightgames.com/projects/darkesthour/dh_sovietplayers/de/>\n"
+"Language-Team: German <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_sovietplayers/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,3 +14,25 @@ msgstr ""
 
 msgid "DHNation_Czechoslovakia.NationName"
 msgstr "Tschechoslowakei"
+
+msgid "DHNation_Poland.NationName"
+msgstr "Polnische Volksarmee"
+
+msgid "DHNation_USSR.NationName"
+msgstr "Union der Sozialistischen Sowjetrepubliken"
+
+#, fuzzy
+msgid "DHSOVCorporalRoles.MyName"
+msgstr "Truppführer"
+
+#, fuzzy
+msgid "DHSOVCorporalRoles.PluralName"
+msgstr "Truppführer"
+
+#, fuzzy
+msgid "DHSOVSergeantRoles.MyName"
+msgstr "Gruppenführer"
+
+#, fuzzy
+msgid "DHSOVSergeantRoles.PluralName"
+msgstr "Gruppenführer"
