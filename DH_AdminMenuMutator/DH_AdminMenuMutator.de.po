@@ -5,3 +5,73 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Weblate\n"
+
+#, fuzzy
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[24]"
+msgstr "Kein Spieler anvisiert"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[8]"
+msgstr "Spieler über dem Ziel abwerfen"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[0]"
+msgstr "Spieler umbenennen"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.EnterPrivateMessage"
+msgstr ""
+"Schreibe eine private Nachricht an den Spieler - danach 'enter' drücken"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.EnterWarningMessage"
+msgstr "Schreibe eine Warnung an den Spieler - danach 'enter' drücken"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.ConfirmKillPlayer"
+msgstr ""
+"'Enter' drücken um zu bestätigen, dass dieser Spieler GETÖTET werden soll"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.ConfirmGagPlayer"
+msgstr ""
+"'Enter' drücken um zu bestätigen, dass dieser Spieler VERSTUMMT werden soll"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[1]"
+msgstr "Private Nachricht senden"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[2]"
+msgstr "Warnung senden (mit Ton)"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[3]"
+msgstr "Mit Nachricht rauswerfen"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[4]"
+msgstr "Spieler töten"
+
+#, fuzzy
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[5]"
+msgstr "Spieler verstummen"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[9]"
+msgstr "Spieler über Koordinate abwerfen"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText[10]"
+msgstr "Spieler über aktuellem Ort abwerfen"
+
+#, fuzzy
+msgid "DHAdminMenu_DamageType.DeathString"
+msgstr "%o wurde von einem Admin neu gespawnt"
+
+#, fuzzy
+msgid "DHAdminMenuMutator.FriendlyName"
+msgstr "Admin Menü"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.EnterNewPlayerName"
+msgstr ""
+"Bitte einen neuen Namen für den Spieler vergeben - danach 'enter' drücken"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.EnterKickReason"
+msgstr ""
+"Schreibe einen Rauswurf an den Spieler - danach 'enter' drücken um diesen "
+"aus dem Spiel zu entfernen"
