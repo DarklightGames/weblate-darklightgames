@@ -5,3 +5,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Weblate\n"
+
+#, fuzzy
+msgid "DHGerVoice.SupportAbbrevAxis[5]"
+msgstr "Benötige eine Panzerschreck"
+
+msgid "DHNation_Germany.NationName"
+msgstr "Deutschland"
+
+#, fuzzy
+msgid "DHZVoice.SupportAbbrevAxis[5]"
+msgstr "Benötige eine Panzerschreck"
+
+#, fuzzy
+msgid "DHZVoice.SupportStringAxis[5]"
+msgstr "Bringt den Panzerschreckschützen!"
+
+msgid "DH_OstTruppenRifleman.MyName"
+msgstr "Schütze Osttruppen"
+
+msgid "DH_WHArtilleryGunner.PluralName"
+msgstr "Artillerie Kanoniere"
+
+msgid "DH_WHArtilleryGunner.MyName"
+msgstr "Artillerie Kanonier"
+
+msgid "DH_WHArtilleryOfficer.MyName"
+msgstr "Artillerie Offizier"
+
+msgid "DH_WHSPCrew.MyName"
+msgstr "Sturmgeschützbesatzung"
+
+msgid "DH_WHSPCrew.PluralName"
+msgstr "Sturmgeschützbesatzungen"
+
+msgid "DH_ZBerserker.MyName"
+msgstr "Berserker"
+
+msgid "DH_ZBerserker.PluralName"
+msgstr "Berserker"
+
+msgid "DH_ZLeader.MyName"
+msgstr "Untotenführer"
+
+#, fuzzy
+msgid "DHGerVoice.SupportStringAxis[5]"
+msgstr "Bringt den Panzerschreckschützen!"
+
+msgid "DH_OstTruppenRifleman.PluralName"
+msgstr "Schütze Osttruppen"
+
+msgid "DH_WHArtilleryOfficer.PluralName"
+msgstr "Artillerie Offiziere"
