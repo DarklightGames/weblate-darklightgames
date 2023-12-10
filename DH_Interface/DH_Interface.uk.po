@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-10 13:42+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
 "Language: uk\n"
@@ -504,3 +504,767 @@ msgstr "Це дозволить вам вставити ROID як текст"
 
 msgid "DHTab_GameSettings.DynamicNetspeed.Caption"
 msgstr "Динамічна NetSpeed"
+
+msgid "DHMainMenu.JoinTestServerString"
+msgstr "Приєднатися до тестового сервера"
+
+msgid "DHMainMenu.SteamMustBeRunningText"
+msgstr ""
+"Steam має бути запущено, і ви повинні мати активне підключення до Інтернету, "
+"щоб грати в багатокористувацьку гру"
+
+msgid "DHMainMenu.ControlsChangedMessage"
+msgstr ""
+"У гру додано нові елементи керування. У результаті ваші попередні прив’язки "
+"елементів керування могли бути змінені.||Ви бажаєте переглянути налаштування "
+"елементів керування?"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints[2]"
+msgstr "Який тип гри чи битви за карту."
+
+msgid "DHMainMenu.InstantActionButton.Caption"
+msgstr "Практика"
+
+msgid "DHMainMenu.SteamCommunityButton.Hint"
+msgstr "Приєднуйтесь до спільноти Steam!"
+
+msgid "DHServerBrowser.BetaMessageText"
+msgstr ""
+"Ласкаво просимо до бета-версії The Darkest Hour: Europe '44-'45! Обов’язково "
+"приєднуйтеся до 500+ спільнот Discord, щоб обговорити гру, внести пропозиції "
+"або повідомити про будь-які помилки! До зустрічі на полі бою!"
+
+msgid "DHTab_Controls.captions_game[4]"
+msgstr "Блокування/розблокування бронеавтомобіля"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints[1]"
+msgstr "Загальна кількість голосів гравців на карті."
+
+msgid "DHMapVotingPage.lmsgMapOutOfBounds"
+msgstr ""
+"Будь ласка, проголосуйте за карту, яка відповідає поточній кількості "
+"гравців. Ви все ще можете проголосувати за цю карту в повному списку."
+
+msgid "DHNetworkStatusMsg.StatusMessages[12]"
+msgstr ""
+"Вас вигнали до кінця поточного рівня.||Якщо адміністратор не покарав вас, це "
+"стандартне покарання за командне вбивство, тому не робіть цього."
+
+msgid "DHSettingsPage.PanelHint[4]"
+msgstr "Налаштувати інші параметри введення..."
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Hint"
+msgstr "Кількість звукових каналів, які гра може використовувати одночасно"
+
+msgid "DHTab_AudioSettings.AudioReverseStereo.Caption"
+msgstr "Зворотне стерео"
+
+msgid "DHTab_AudioSettings.DisableGameMusic.Caption"
+msgstr "Вимкнути музику під час гри"
+
+msgid "DHTab_AudioSettings.AudioPlayVoices.Caption"
+msgstr "Голосові повідомлення"
+
+msgid "DHTab_AudioSettings.AutoJoinPublic.Caption"
+msgstr "Автоматичне приєднання до публічного каналу"
+
+msgid "DHTab_Controls.Captions_Inventory[0]"
+msgstr "Інвентарний слот 1"
+
+msgid "DHTab_Controls.Captions_Inventory[6]"
+msgstr "Інвентарний слот 7"
+
+msgid "DHTab_Controls.ControlProfiles[1]"
+msgstr "За замовчуванням (скидання)"
+
+msgid "DHTab_Controls.captions_weapons[11]"
+msgstr "Розгорнути МГ / Приєднати багнет / Димову установку"
+
+msgid "DHTab_Controls.captions_weapons[13]"
+msgstr ""
+"Зменшити дальність/обертання димової пускової установки транспортного засобу"
+
+msgid "DHTab_Controls.captions_comm[7]"
+msgstr "Перехід на командний голосовий канал"
+
+msgid "DHTab_Controls.captions_comm[11]"
+msgstr "Почати вводити повідомлення в чаті"
+
+msgid "DHTab_Controls.captions_game[5]"
+msgstr "Меню наказів загону"
+
+msgid "DHTab_DetailSettings.DetailDecoLayers.Caption"
+msgstr "Детальна земля"
+
+msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
+msgstr ""
+"Підтримує максимальну частоту кадрів у секунду завдяки автоматичному "
+"регулюванню відстані до туману залежно від частоти кадрів у секунду"
+
+msgid "DHTab_Controls.ControlProfilesComboBox.Caption"
+msgstr "Профілі керування"
+
+msgid "DHTab_DetailSettings.DetailTextureDetail.Caption"
+msgstr "Текстури"
+
+msgid "DHTab_DetailSettings.RelaunchQuestion"
+msgstr ""
+"Графічний режим успішно змінено. Однак він не набуде чинності до наступного "
+"запуску гри. Бажаєте перезапустити гру прямо зараз?"
+
+msgid "DHTab_DetailSettings.UseVSyncCheckBox.Hint"
+msgstr ""
+"VSync використовується для зменшення розривів на екрані за рахунок затримки "
+"введення (налаштування графічного процесора можуть перевизначати багато "
+"графічних налаштувань, таких як ця)"
+
+msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
+msgstr ""
+"Використовується функцією Динамічна відстань туману, щоб визначити, коли "
+"починати зменшувати відстань до туману"
+
+msgid "DHCommunicationPage.Panels[0].Caption.Hint"
+msgstr "Керуйте спілкуванням з іншими гравцями"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[7]"
+msgstr "Стати помічником загону"
+
+msgid "DHDeployMenu.NoneText"
+msgstr "Нічого"
+
+msgid "DHDeployMenu.DeployInTimeText"
+msgstr "Натисніть «Продовжити», щоб відродитися ({0})"
+
+msgid "DHDeployMenu.DeployNowText"
+msgstr "Натисніть Продовжити, щоб відродитися зараз!"
+
+msgid "DHDeployMenu.RecommendJoiningSquadText"
+msgstr ""
+"Настійно рекомендується приєднатись до загону перед відродженням! Приєднання "
+"до загону надає вам додаткові можливості відродження та дає змогу швидше "
+"дістатися до бою.||Ви хочете автоматично приєднатися до загону зараз?"
+
+msgid "DHDeployMenu.SurrenderConfirmEndRoundText"
+msgstr "Це негайно завершить раунд на користь протилежної команди."
+
+msgid "DHDeployMenu.MapButtonObject.Hint"
+msgstr "Карта [F1]"
+
+msgid "DHDeployMenu.MapVoteButtonObject.Caption"
+msgstr "Голосування"
+
+msgid "DHDeployMenu.MaxVehiclesImageObject.Hint"
+msgstr "Наявні танки"
+
+msgid "DHDeployMenu.ServersButtonObject.Caption"
+msgstr "Сервери"
+
+msgid "DHDeployMenu.SettingsButtonObject.Caption"
+msgstr "Налаштування"
+
+msgid "DHDeployMenu.SpawnVehicleImageObject.Hint"
+msgstr "Розгорнути транспортний засіб"
+
+msgid "DHDeployMenu.SupplyVehicleImageObject.Hint"
+msgstr "Автомобіль будівельного постачання"
+
+msgid "DHDeployMenu.VehicleButtonObject.Hint"
+msgstr "Транспортні засоби"
+
+msgid "DHFilterEdit.ComboOpts[2]"
+msgstr "Має бути вимкнено"
+
+msgid "DHFilterEdit.ComboOpts[1]"
+msgstr "Має бути увімкнений"
+
+msgid "DHFilterEdit.MutOpts[0]"
+msgstr "Без мутаторів"
+
+msgid "DHFilterEdit.MutOpts[1]"
+msgstr "Будь-який мутатор"
+
+msgid "DHFilterEdit.MutOpts[2]"
+msgstr "Користуватьський"
+
+msgid "DHFilterEdit.WindowName"
+msgstr "Редагувати правила фільтрації..."
+
+msgid "DHFilterEdit.cbMutators.Caption"
+msgstr "Мутатори:"
+
+msgid "DHFilterEdit.cbStats.Caption"
+msgstr "Статистика серверів:"
+
+msgid "DHFilterEdit.cbTranslocator.Caption"
+msgstr "Транслокатор:"
+
+msgid "DHFilterEdit.cbWeaponStay.Caption"
+msgstr "Залишення зброї:"
+
+msgid "DHFilterEdit.ckBots.Caption"
+msgstr "Без ботів"
+
+msgid "DHFilterEdit.ckEmpty.Caption"
+msgstr "Немає порожніх серверів"
+
+msgid "DHFilterEdit.ckFull.Caption"
+msgstr "Немає повних серверів"
+
+msgid "DHFilterEdit.ckPassworded.Caption"
+msgstr "Немає серверів із паролем"
+
+msgid "DHFilterEdit.ckVACOnly.Caption"
+msgstr "Тільки Valve Anti-Cheat Protected"
+
+msgid "DHFilterEdit.ebName.Caption"
+msgstr "Назва фільтра:"
+
+msgid "DHFilterEdit.sbMutators.Caption"
+msgstr "Спеціальна конфігурація мутатора"
+
+msgid "DHFilterEdit.sbOptions.Caption"
+msgstr "Опції..."
+
+msgid "DHFilterListPage.sbBackground.Caption"
+msgstr "Фільтри..."
+
+msgid "DHGUISquadComponent.NoRallyPointsImage.Hint"
+msgstr ""
+"Давно цей загін не мав пунктів збору. Варіанти розгортання можуть бути "
+"обмежені!"
+
+msgid "DHGUITeamSelection.SizeBonusText"
+msgstr "розмір армії"
+
+msgid "DHGUITeamSelection.UnitsText"
+msgstr " гравців"
+
+msgid "DHGUITeamSelection.AutoSelect.Caption"
+msgstr "Автоматичний вибір"
+
+msgid "DHGUITeamSelection.SettingsButtonObject.Caption"
+msgstr "Налаштування"
+
+msgid "DHGUITeamSelection.Spectate.Caption"
+msgstr "Спостерігати"
+
+msgid "DHGamePageMP.MPFooter.PrimaryCaption"
+msgstr "Слухати"
+
+msgid "DHGamePageMP.MPFooter.SecondaryCaption"
+msgstr "Відданий"
+
+msgid "DHGamePageSP.NoBotsWarningText"
+msgstr ""
+"Darkest Hour: Europe '44-'45 зосереджена виключно на багатокористувацькій "
+"грі і, як наслідок, НЕ включає підтримку ботів у режимі практики."
+
+msgid "DHGamePageSP.SPFooter.PrimaryCaption"
+msgstr "Розпочати тренувальну гру"
+
+msgid "DHIAMultiColumnRulesPanel.AdvancedButton.Caption"
+msgstr "Переглянути додаткові параметри"
+
+msgid "DHLearnToPlayPage.PanelCaption[0]"
+msgstr "Відеопосібники"
+
+msgid "DHLearnToPlayPage.PanelHint[0]"
+msgstr "Дізнайтеся про гру, подивившись відео"
+
+msgid "DHLearnToPlayPage.LearnToPlayHeader.Caption"
+msgstr "Вчитися грати"
+
+msgid "DHMainMenu.ConnectingString"
+msgstr "Приєднання"
+
+msgid "DHMainMenu.SinglePlayerDisabledText"
+msgstr "Режим практики доступний лише в повній версії."
+
+msgid "DHMainMenu.MOTDErrorString"
+msgstr "Помилка: не вдалося завантажити стрічку новин ({0})"
+
+msgid "DHMainMenu.BadConfigMessage"
+msgstr ""
+"Виникла проблема з вашим конфігураційним файлом, натисніть «Продовжити», щоб "
+"вийти з гри та відкрити посібник щодо виправлення вашого конфігураційного "
+"файлу."
+
+msgid "DHMainMenu.CreditsButton.Caption"
+msgstr "Тітри"
+
+msgid "DHMainMenu.DiscordButton.Hint"
+msgstr "Приєднуйтесь до нас у Discord!"
+
+msgid "DHMainMenu.FacebookButton.Hint"
+msgstr "Слідкуйте за нами на Facebook!"
+
+msgid "DHMainMenu.GitHubButton.Hint"
+msgstr "Приєднуйтесь до нас на GitHub!"
+
+msgid "DHMainMenu.PatreonButton.Hint"
+msgstr "Підтримайте нас на Patreon!"
+
+msgid "DHMainMenu.QuitButton.Caption"
+msgstr "Вийти з гри"
+
+msgid "DHMainMenu.ServerButton.Caption"
+msgstr "Сервери"
+
+msgid "DHMainMenu.SettingsButton.Caption"
+msgstr "Налаштування"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings[0]"
+msgstr "Номіновані карти"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings[1]"
+msgstr "Вага голосу"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings[2]"
+msgstr "Розмір карти"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints[0]"
+msgstr "Назва карти."
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints[2]"
+msgstr "Рекомендовано гравців для карти."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings[0]"
+msgstr "Назва карти"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings[1]"
+msgstr "Союзна нація"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings[2]"
+msgstr "Тип гри"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings[3]"
+msgstr "Розмір карти"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints[0]"
+msgstr "Назва карти."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints[1]"
+msgstr "Країна-Союзників на карті."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints[3]"
+msgstr "Рекомендовано гравців для карти."
+
+msgid "DHMapVotingPage.lmsgMode[0]"
+msgstr "Перемагає більшість"
+
+msgid "DHMapVotingPage.FilterClearButton.Caption"
+msgstr "Очистити"
+
+msgid "DHMapVotingPage.FilterEditbox.Caption"
+msgstr "Пошук"
+
+msgid "DHMapVotingPage.GameTypeCombo.Caption"
+msgstr "Фільтр Тип гри:"
+
+msgid "DHMaplistEditor.ActiveBackground.Caption"
+msgstr "Вибрані карти"
+
+msgid "DHMaplistEditor.AddAllButton.Caption"
+msgstr "Додати все"
+
+msgid "DHMaplistEditor.AddButton.Caption"
+msgstr "Додати"
+
+msgid "DHMaplistEditor.AvailBackground.Caption"
+msgstr "Доступні карти"
+
+msgid "DHMaplistEditor.DeleteMaplistButton.Caption"
+msgstr "Видалити"
+
+msgid "DHMaplistEditor.MapListSectionBackground.Caption"
+msgstr "Збережені списки карт"
+
+msgid "DHMaplistEditor.MoveDownButton.Caption"
+msgstr "Вниз"
+
+msgid "DHMaplistEditor.MoveUpButton.Caption"
+msgstr "Вверх"
+
+msgid "DHMaplistEditor.NewMaplistButton.Caption"
+msgstr "Новий"
+
+msgid "DHMaplistEditor.RemoveAllButton.Caption"
+msgstr "Прибрати все"
+
+msgid "DHMaplistEditor.RenameMaplistButton.Caption"
+msgstr "Перейменувати"
+
+msgid "DHMidGameVoiceChat.NOSPEECH.Caption"
+msgstr "Ігнорувати голосові команди"
+
+msgid "DHMutatorConfigMenu.AdvancedButton.Caption"
+msgstr "Переглянути додаткові параметри"
+
+msgid "DHNetworkStatusMsg.StatusTitle[12]"
+msgstr "Ви були виключені"
+
+msgid "DHPlayerSetupPage.psTitleBar.Caption"
+msgstr "Налаштування плеєра"
+
+msgid "DHQuitPage.NoButton.Caption"
+msgstr "Ні"
+
+msgid "DHQuitPage.QuitDesc.Caption"
+msgstr "Ви впевнені, що хочете вийти?"
+
+msgid "DHQuitPage.YesButton.Caption"
+msgstr "Так"
+
+msgid "DHScoreBoard.MunitionPercentageText"
+msgstr "Боєприпаси"
+
+msgid "DHScoreBoard.PlayersText"
+msgstr "Гравці"
+
+msgid "DHScoreBoard.TickHealthText"
+msgstr "Тікрейт: "
+
+msgid "DHScoreBoard.NetHealthText"
+msgstr "Втрати: "
+
+msgid "DHScoreBoard.ScoreboardColumns[0].Title"
+msgstr "#"
+
+msgid "DHScoreBoard.ScoreboardColumns[3].Title"
+msgstr "Роль"
+
+msgid "DHScoreBoard.ScoreboardColumns[6].Title"
+msgstr "В"
+
+msgid "DHScoreBoard.ScoreboardColumns[7].Title"
+msgstr "С"
+
+msgid "DHScoreBoard.ScoreboardColumns[8].Title"
+msgstr "Рахунок"
+
+msgid "DHScoreBoard.ScoreboardColumns[9].Title"
+msgstr "Пінг"
+
+msgid "DHServerBrowser.PanelCaption[0]"
+msgstr "Улюблені"
+
+msgid "DHServerBrowser.PanelCaption[1]"
+msgstr "Локальна мережа"
+
+msgid "DHServerBrowser.PanelCaption[2]"
+msgstr "Інтернет"
+
+msgid "DHServerBrowser.PanelCaption[3]"
+msgstr "Локальна мережа"
+
+msgid "DHServerBrowser.PanelCaption[4]"
+msgstr "Інтернет"
+
+msgid "DHServerBrowser.PanelCaption[5]"
+msgstr "Інтернет"
+
+msgid "DHServerBrowser.PanelHint[0]"
+msgstr "Виберіть сервер, до якого ви хочете приєднатися, серед улюблених"
+
+msgid "DHServerBrowser.PanelHint[1]"
+msgstr "Перегляньте всі сервери DH, які зараз працюють у вашій локальній мережі"
+
+msgid "DHServerBrowser.PanelHint[2]"
+msgstr "Вибирайте з серверів DH по всьому світу"
+
+msgid "DHServerBrowser.PanelHint[3]"
+msgstr "Перегляньте всі сервери RO, які зараз працюють у вашій локальній мережі"
+
+msgid "DHServerBrowser.PanelHint[4]"
+msgstr "Вибирайте із сотень серверів RO по всьому світу"
+
+msgid "DHServerBrowser.PanelHint[5]"
+msgstr "Вибирайте із сотень серверів RO по всьому світу"
+
+msgid "DHServerLoading.DeployingText"
+msgstr "Завантаження карти:{0}"
+
+msgid "DHSettingsPage.PanelCaption[3]"
+msgstr "Елементи керування"
+
+msgid "DHSettingsPage.PanelCaption[4]"
+msgstr "Введення"
+
+msgid "DHSettingsPage.PanelCaption[5]"
+msgstr "Інтерфейс"
+
+msgid "DHSettingsPage.PanelHint[0]"
+msgstr "Налаштування параметрів гри та мережі..."
+
+msgid "DHSettingsPage.PanelHint[1]"
+msgstr ""
+"Виберіть роздільну здатність або змініть параметри відображення та деталей..."
+
+msgid "DHSettingsPage.PanelHint[2]"
+msgstr "Налаштуйте свій звук..."
+
+msgid "DHSettingsPage.PanelHint[3]"
+msgstr "Налаштуйте елементи керування клавіатури та миші..."
+
+msgid "DHSettingsPage.PanelHint[5]"
+msgstr "Налаштуйте свій інтерфейс..."
+
+msgid "DHSettingsPage.PanelHint[6]"
+msgstr "як ти це отримав?"
+
+msgid "DHSettingsPage.SettingHeader.Caption"
+msgstr "Налаштування"
+
+msgid "DHSettings_Footer.DefaultB.Caption"
+msgstr "За замовчуванням"
+
+msgid "DHTab_AudioSettings.AudioBK1.Caption"
+msgstr "Звукова система"
+
+msgid "DHTab_AudioSettings.AudioBK3.Caption"
+msgstr "Голосовий чат"
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Caption"
+msgstr "Максимум аудіоканалів"
+
+msgid "DHTab_AudioSettings.AudioDefaultDriver.Caption"
+msgstr "Системний драйвер"
+
+msgid "DHTab_AudioSettings.AudioEffectsVolumeSlider.Caption"
+msgstr "Гучність ефектів"
+
+msgid "DHTab_AudioSettings.AudioLowDetail.Caption"
+msgstr "Низька деталізація звуку"
+
+msgid "DHTab_AudioSettings.AudioMessageBeep.Caption"
+msgstr "Звук сигналу повідомлення"
+
+msgid "DHTab_AudioSettings.AudioMode.Caption"
+msgstr "Режим звуку"
+
+msgid "DHTab_AudioSettings.AudioMusicVolume.Caption"
+msgstr "Гучність музики"
+
+msgid "DHTab_AudioSettings.AutoSpeakCheckbox.Caption"
+msgstr "Автоматичний вибір активного каналу"
+
+msgid "DHTab_AudioSettings.ChatPasswordEdit.Caption"
+msgstr "Пароль до чату"
+
+msgid "DHTab_AudioSettings.Dampen.Caption"
+msgstr "Зменшити гучність гри під час використання голосових повідомлень"
+
+msgid "DHTab_AudioSettings.DefaultActiveChannelEditBox.Caption"
+msgstr "Назва каналу за замовчуванням"
+
+msgid "DHTab_AudioSettings.EnableVoiceChat.Caption"
+msgstr "Увімкнути голосовий чат"
+
+msgid "DHTab_AudioSettings.VoiceQuality.Caption"
+msgstr "Якість інтернету"
+
+msgid "DHTab_AudioSettings.VoiceQualityLAN.Caption"
+msgstr "Якість локальної мережі"
+
+msgid "DHTab_AudioSettings.VoiceVolume.Caption"
+msgstr "Гучність прийому голосу"
+
+msgid "DHTab_Controls.Section_Inventory"
+msgstr "Інвентар"
+
+msgid "DHTab_Controls.Captions_Inventory[1]"
+msgstr "Інвентарний слот 2"
+
+msgid "DHTab_Controls.Captions_Inventory[2]"
+msgstr "Інвентарний слот 3"
+
+msgid "DHTab_Controls.Captions_Inventory[3]"
+msgstr "Інвентарний слот 4"
+
+msgid "DHTab_Controls.Captions_Inventory[4]"
+msgstr "Інвентарний слот 5"
+
+msgid "DHTab_Controls.Captions_Inventory[5]"
+msgstr "Інвентарний слот 6"
+
+msgid "DHTab_Controls.Captions_Inventory[7]"
+msgstr "Інвентарний слот 8"
+
+msgid "DHTab_Controls.Captions_Inventory[8]"
+msgstr "Інвентарний слот 9"
+
+msgid "DHTab_Controls.Captions_Inventory[9]"
+msgstr "Інвентарний слот 0"
+
+msgid "DHTab_Controls.ControlProfiles[0]"
+msgstr "Поточний"
+
+msgid "DHTab_Controls.ControlProfiles[2]"
+msgstr "RO Класичний"
+
+msgid "DHTab_Controls.ControlProfiles[3]"
+msgstr "Pro 104"
+
+msgid "DHTab_Controls.ControlProfiles[4]"
+msgstr "Pro 105"
+
+msgid "DHTab_Controls.ControlProfiles[5]"
+msgstr "Контролер XBox 360"
+
+msgid "DHTab_Controls.captions_movement[12]"
+msgstr "Переключити біг"
+
+msgid "DHTab_Controls.captions_weapons[9]"
+msgstr "Зміна ствола MG"
+
+msgid "DHTab_Controls.captions_weapons[10]"
+msgstr "Переключити режим вогню"
+
+msgid "DHTab_Controls.captions_weapons[12]"
+msgstr ""
+"Збільшення дальності/обертання димової пускової установки транспортного "
+"засобу"
+
+msgid "DHTab_Controls.captions_weapons[14]"
+msgstr "Переключити вибрану артилерійську ціль"
+
+msgid "DHTab_Controls.captions_comm[3]"
+msgstr "Сказати загону"
+
+msgid "DHTab_Controls.captions_comm[4]"
+msgstr "Меню голосових команд"
+
+msgid "DHTab_Controls.captions_comm[5]"
+msgstr "Перегляд ігрового чату"
+
+msgid "DHTab_Controls.captions_comm[6]"
+msgstr "Увімкнути мікрофон"
+
+msgid "DHTab_Controls.captions_comm[8]"
+msgstr "Перехід на місцевий голосовий канал"
+
+msgid "DHTab_Controls.captions_comm[9]"
+msgstr "Перехід на непризначений голосовий канал"
+
+msgid "DHTab_Controls.captions_comm[10]"
+msgstr "Перехід на голосовий канал загону"
+
+msgid "DHTab_Controls.captions_comm[12]"
+msgstr "Меню вимкнення звуку"
+
+msgid "DHTab_Controls.captions_game[6]"
+msgstr "Меню загону"
+
+msgid "DHTab_Controls.captions_game[7]"
+msgstr "Автоматичне приєднання до загону"
+
+msgid "DHTab_Controls.captions_game[8]"
+msgstr "Розмістити точку збору"
+
+msgid "DHTab_Controls.PanelCaption"
+msgstr "Управління"
+
+msgid "DHTab_Controls.InputBK1.Caption"
+msgstr "Прив'язки"
+
+msgid "DHTab_DetailSettings.RenderModeText[0]"
+msgstr "Direct3D 9.0 (рекомендовано)"
+
+msgid "DHTab_DetailSettings.RenderModeText[1]"
+msgstr "Direct3D 8.0 (проблеми з рендерингом)"
+
+msgid "DHTab_DetailSettings.RenderModeText[2]"
+msgstr "OpenGL (нестабільний)"
+
+msgid "DHTab_DetailSettings.BrightnessSlider.Caption"
+msgstr "Яскравість"
+
+msgid "DHTab_DetailSettings.ContrastSlider.Caption"
+msgstr "Контраст"
+
+msgid "DHTab_DetailSettings.CorpseStayTime.Caption"
+msgstr "Час перебування трупа (секунди)"
+
+msgid "DHTab_DetailSettings.DetailAnisotropy.Caption"
+msgstr "Анізотропна фільтрація"
+
+msgid "DHTab_DetailSettings.DetailAntialiasing.Caption"
+msgstr "Згладжування"
+
+msgid "DHTab_DetailSettings.DetailCharacterShadows.Caption"
+msgstr "Тіні персонажів"
+
+msgid "DHTab_DetailSettings.DetailCoronas.Caption"
+msgstr "Додаткове освітлення"
+
+msgid "DHTab_DetailSettings.DetailDecals.Caption"
+msgstr "Наклейки"
+
+msgid "DHTab_DetailSettings.DetailDecalStay.Caption"
+msgstr "Деталі написів"
+
+msgid "DHTab_DetailSettings.DetailDynamicLighting.Caption"
+msgstr "Динамічне освітлення"
+
+msgid "DHTab_DetailSettings.DetailForceFSAASS.Caption"
+msgstr "Знімки екрану Force FSAA"
+
+msgid "DHTab_DetailSettings.DetailProjectors.Caption"
+msgstr "Проєктори"
+
+msgid "DHTab_DetailSettings.DetailTrilinear.Caption"
+msgstr "Трилінійна фільтрація"
+
+msgid "DHTab_DetailSettings.DetailCharacterDetail.Caption"
+msgstr "Персонажі"
+
+msgid "DHTab_DetailSettings.DetailPhysics.Caption"
+msgstr "Фізика"
+
+msgid "DHTab_DetailSettings.DetailDetailTextures.Caption"
+msgstr "Детальні текстури"
+
+msgid "DHTab_DetailSettings.DetailWorldDetail.Caption"
+msgstr "Деталі світу"
+
+msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
+msgstr "Відстань до туману"
+
+msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
+msgstr "Динамічна відстань туману (рекомендовано)"
+
+msgid "DHTab_DetailSettings.GammaSlider.Caption"
+msgstr "Гамма"
+
+msgid "DHTab_DetailSettings.GlobalDetails.Caption"
+msgstr "Деталі гри"
+
+msgid "DHTab_DetailSettings.HDRCheckbox.Caption"
+msgstr "HDR Освітлення"
+
+msgid "DHTab_DetailSettings.MeshLOD.Caption"
+msgstr "Динамічна сітка LOD"
+
+msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
+msgstr "Мінімальний бажаний FPS"
+
+msgid "DHTab_DetailSettings.MotionBlur.Caption"
+msgstr "Ефекти розмиття"
+
+msgid "DHTab_DetailSettings.RenderDeviceCombo.Caption"
+msgstr "Пристрій рендерингу"
+
+msgid "DHTab_DetailSettings.ScopeDetail.Caption"
+msgstr "Деталь прицілу"
+
+msgid "DHTab_DetailSettings.UseVSyncCheckBox.Caption"
+msgstr "VSync (не рекомендується)"
+
+msgid "DHTab_DetailSettings.VideoColorDepth.Caption"
+msgstr "Глибина кольору"
+
+msgid "DHTab_DetailSettings.VideoFullScreen.Caption"
+msgstr "Повний екран"
+
+msgid "DHTab_DetailSettings.VideoResolution.Caption"
+msgstr "Роздільна здатність"
