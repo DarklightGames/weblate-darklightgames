@@ -5,3 +5,204 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Weblate\n"
+
+#, fuzzy
+msgid "DH_17PounderGun.VehicleNameString"
+msgstr "17 Pounder Panzerabwehrkanone"
+
+#, fuzzy
+msgid "DH_17PounderGunCannonPawn.RangeText"
+msgstr "Yards"
+
+msgid "DH_45mmM1937GunCannon.ProjectileDescriptions[0]"
+msgstr "APBC"
+
+msgid "DH_45mmM1937GunCannon.ProjectileDescriptions[1]"
+msgstr "HE"
+
+msgid "DH_45mmM1937GunCannon.nProjectileDescriptions[0]"
+msgstr "BR-240"
+
+msgid "DH_45mmM1937GunCannon.nProjectileDescriptions[1]"
+msgstr "O-240"
+
+#, fuzzy
+msgid "DH_45mmM1942Gun.VehicleNameString"
+msgstr "45mm M-42 Panzerabwehrkanone"
+
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions[0]"
+msgstr "APBC"
+
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions[1]"
+msgstr "HE"
+
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions[2]"
+msgstr "APCR"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions[0]"
+msgstr "BR-240"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions[1]"
+msgstr "O-240"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions[2]"
+msgstr "BR-240P"
+
+#, fuzzy
+msgid "DH_6PounderGun.VehicleNameString"
+msgstr "6 Pounder Mk.IV Panzerabwehrkanone"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions[0]"
+msgstr "APCBC"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions[1]"
+msgstr "APDS"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions[2]"
+msgstr "HE"
+
+#, fuzzy
+msgid "DH_6PounderGunCannonPawn.RangeText"
+msgstr "Yards"
+
+msgid "DH_Bofors40mmCannon.ProjectileDescriptions[1]"
+msgstr "AP"
+
+#, fuzzy
+msgid "DH_Flak38Gun.VehicleNameString"
+msgstr "2cm FlaK 38 Geschütz"
+
+#, fuzzy
+msgid "DH_Flak88Gun.VehicleNameString"
+msgstr "8.8cm FlaK 36 Geschütz"
+
+#, fuzzy
+msgid "DH_Flakvierling38Gun.VehicleNameString"
+msgstr "2cm Flakvierling 38 Geschütz"
+
+msgid "DH_LeIG18Cannon.ProjectileDescriptions[0]"
+msgstr "HE"
+
+msgid "DH_LeIG18Cannon.ProjectileDescriptions[1]"
+msgstr "HEAT"
+
+msgid "DH_LeIG18Gun.VehicleNameString"
+msgstr "7.5 cm leichtes Infanteriegeschütz 18"
+
+msgid "DH_M116Cannon.ProjectileDescriptions[0]"
+msgstr "HE"
+
+msgid "DH_M116Cannon.ProjectileDescriptions[1]"
+msgstr "HEAT"
+
+msgid "DH_M1927Cannon.ProjectileDescriptions[0]"
+msgstr "HE"
+
+msgid "DH_M1927Cannon.ProjectileDescriptions[1]"
+msgstr "HEAT"
+
+#, fuzzy
+msgid "DH_M45QuadmountGun.VehicleNameString"
+msgstr "M45 Vierlingsgeschütz"
+
+#, fuzzy
+msgid "DH_M5Gun.VehicleNameString"
+msgstr "3-Inch Geschütz M5"
+
+#, fuzzy
+msgid "DH_Pak38ATGun.VehicleNameString"
+msgstr "5.0 cm Pak38 Geschütz"
+
+msgid "DH_Pak38Cannon.ProjectileDescriptions[0]"
+msgstr "APCBC"
+
+msgid "DH_Pak38Cannon.ProjectileDescriptions[2]"
+msgstr "HE"
+
+msgid "DH_Pak39Cannon.ProjectileDescriptions[0]"
+msgstr "APCBC"
+
+msgid "DH_Pak39Cannon.ProjectileDescriptions[1]"
+msgstr "APCR"
+
+msgid "DH_Pak39Cannon.ProjectileDescriptions[2]"
+msgstr "HE"
+
+#, fuzzy
+msgid "DH_Pak39Gun.VehicleNameString"
+msgstr "5.0cm KwK 39 Geschütz"
+
+#, fuzzy
+msgid "DH_Pak40ATGun.VehicleNameString"
+msgstr "7.5cm Pak40 Geschütz"
+
+msgid "DH_Pak40Cannon.ProjectileDescriptions[0]"
+msgstr "APCBC"
+
+msgid "DH_Pak40Cannon.ProjectileDescriptions[1]"
+msgstr "HE"
+
+msgid "DH_Pak40Cannon.ProjectileDescriptions[2]"
+msgstr "APCR"
+
+#, fuzzy
+msgid "DH_Pak43ATGun.VehicleNameString"
+msgstr "8.8 cm Pak43/41 Geschütz"
+
+msgid "DH_PantherturmCannon.ProjectileDescriptions[1]"
+msgstr "APCR"
+
+msgid "DH_PantherturmCannon.ProjectileDescriptions[2]"
+msgstr "HE"
+
+msgid "DH_PantherturmGun.VehicleNameString"
+msgstr "Pantherturm"
+
+msgid "DH_ZiS2Cannon.ProjectileDescriptions[0]"
+msgstr "APBC"
+
+msgid "DH_ZiS2Cannon.ProjectileDescriptions[1]"
+msgstr "HE"
+
+msgid "DH_ZiS2Cannon.ProjectileDescriptions[2]"
+msgstr "APCR"
+
+#, fuzzy
+msgid "DH_ZiS2Gun.VehicleNameString"
+msgstr "ZiS-2 57mm Panzerabwehrkanone"
+
+msgid "DH_ZiS3Cannon.ProjectileDescriptions[0]"
+msgstr "APBC"
+
+msgid "DH_ZiS3Cannon.ProjectileDescriptions[1]"
+msgstr "HE"
+
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions[0]"
+msgstr "APBC"
+
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions[1]"
+msgstr "HE"
+
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions[2]"
+msgstr "APCR"
+
+#, fuzzy
+msgid "DH_45mmM1937Gun.VehicleNameString"
+msgstr "45mm 53-K (1937) Panzerabwehrkanone"
+
+#, fuzzy
+msgid "DH_AT57Gun.VehicleNameString"
+msgstr "57mm M1 Panzerabwehrkanone"
+
+msgid "DH_Bofors40mmCannon.ProjectileDescriptions[0]"
+msgstr "HE-T"
+
+msgid "DH_PantherturmCannon.ProjectileDescriptions[0]"
+msgstr "APCBC"
+
+#, fuzzy
+msgid "DH_Bofors40mmGun.VehicleNameString"
+msgstr "Bofors 40mm Geschütz"
+
+msgid "DH_Pak38Cannon.ProjectileDescriptions[1]"
+msgstr "APCR"
