@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-10 13:42+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
 "Language: ru\n"
@@ -308,7 +308,7 @@ msgid "DHTab_Controls.ControlProfiles[1]"
 msgstr "По умолчанию (Сброс)"
 
 msgid "DHTab_Controls.captions_movement[12]"
-msgstr "Бежать"
+msgstr "Авто-ходьба"
 
 msgid "DHTab_Controls.captions_weapons[10]"
 msgstr "Переключить режим стрельбы"
@@ -1038,7 +1038,7 @@ msgid "DHTab_Controls.captions_comm[9]"
 msgstr "Переключиться на неназначенный голосовой канал"
 
 msgid "DHTab_Controls.captions_comm[11]"
-msgstr "Нажать вводить сообщение в чат"
+msgstr "Начать вводить сообщение в чат"
 
 msgid "DHTab_Controls.captions_comm[12]"
 msgstr "Отключить звук"
@@ -1203,7 +1203,7 @@ msgid "DHTab_DetailSettings.DetailCharacterShadows.Caption"
 msgstr "Тени персонажей"
 
 msgid "DHTab_DetailSettings.DetailCoronas.Caption"
-msgstr "Короны"
+msgstr "Дополнительное освещение"
 
 msgid "DHTab_DetailSettings.DetailDecalStay.Caption"
 msgstr "Детали надписей"
