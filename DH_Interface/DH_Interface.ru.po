@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-09 07:59+0000\n"
+"PO-Revision-Date: 2023-12-10 13:42+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -1304,7 +1304,7 @@ msgid "DHTab_GameSettings.IDText"
 msgstr "ID:"
 
 msgid "DHTab_GameSettings.DegreesText"
-msgstr "степень"
+msgstr "градусов"
 
 msgid "DHTab_GameSettings.NetSpeedText[0]"
 msgstr "Самые низкие {0}"
