@@ -5,3 +5,59 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Weblate\n"
+
+msgid "DHBinocularsItemGerman.ItemName"
+msgstr "Zeiss Dienstglas 6x30"
+
+msgid "DHBinocularsItemSoviet.ItemName"
+msgstr "BPP Optik 6x30"
+
+msgid "DHRadioItem.ItemName"
+msgstr "Funkgerät"
+
+msgid "DHShovelWarningMessage.CannotBeCrawling"
+msgstr "Kriechend kann nicht gegraben werden."
+
+msgid "DHWireCuttersItem.ItemName"
+msgstr "Drahtschere"
+
+#, fuzzy
+msgid "DH_NebelGranate39Weapon.ItemName"
+msgstr "Nebelgranate NB 39"
+
+#, fuzzy
+msgid "DH_OrangeSmokeWeapon.ItemName"
+msgstr "Rauch-Sichtzeichen Orange 160 Signalgranate"
+
+msgid "DH_ParachuteItem.ItemName"
+msgstr "Fallschirm"
+
+msgid "DHTrenchMaceItem.ItemName"
+msgstr ""
+
+#, fuzzy
+msgid "DH_RDG1SmokeGrenadeWeapon.ItemName"
+msgstr "Nebelgranate RDG-1"
+
+#, fuzzy
+msgid "DH_RedSmokeWeapon.ItemName"
+msgstr "Signalgranate M16"
+
+#, fuzzy
+msgid "DH_USSmokeGrenadeWeapon.ItemName"
+msgstr "Nebelgranate M8"
+
+msgid "DHBinocularsItemAllied.ItemName"
+msgstr "M13 Fernglas 6x30"
+
+msgid "DHShovelItem.ItemName"
+msgstr "Schaufel"
+
+msgid "DHBinocularsItem.ItemName"
+msgstr "Feldstecher"
+
+#, fuzzy
+msgid "DHShovelWarningMessage.NeedMoreFriendliesToBuildMessage"
+msgstr ""
+"Du benötigst ein weiteres Gruppenmitglied in der Nähe um mit deiner Schaufel "
+"zu bauen."
