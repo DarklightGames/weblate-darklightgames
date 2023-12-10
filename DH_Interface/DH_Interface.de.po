@@ -5,3 +5,229 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Weblate\n"
+
+msgid "DHBrowser_Footer.BrowserJoin.Caption"
+msgstr "Beitreten"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[1]"
+msgstr "Als Zuschauer beitreten"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[1]"
+msgstr "{0} einladen"
+
+msgid "DHDeployMenu.UnlockText"
+msgstr "Öffnen"
+
+msgid "DHBrowser_Footer.BrowserBack.Caption"
+msgstr "Zurück"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[2]"
+msgstr "{0} rauswerfen"
+
+msgid "DHGameFooterSP.GameBackButton.Caption"
+msgstr "Zurück"
+
+msgid "DHCommunicationPage.Panels[0].Caption"
+msgstr "Kommunikation"
+
+msgid "DHFilterEdit.sbOptions.Caption"
+msgstr "Optionen..."
+
+msgid "DHDeployMenu.AlliesButtonObject.Hint"
+msgstr "Alliierten beitreten"
+
+msgid "DHDeployMenu.ContinueButtonObject.Caption"
+msgstr "Weiter"
+
+msgid "DHDeployMenu.SpawnVehicleImageObject.Hint"
+msgstr "Spawnfahrzeug"
+
+msgid "DHBrowser_Footer.BrowserFilter.Caption"
+msgstr "Filter"
+
+#, fuzzy
+msgid "DHBrowser_Footer.BrowserMain.Caption"
+msgstr "Haupt"
+
+#, fuzzy
+msgid "DHBrowser_Footer.BrowserRefresh.Caption"
+msgstr "Erneuern"
+
+msgid "DHBrowser_Footer.BrowserSpec.Caption"
+msgstr "Beobachten"
+
+msgid "DHBrowser_OpenIP.CancelButton.Caption"
+msgstr "ABBRECHEN"
+
+msgid "DHBrowser_OpenIP.IPDesc.Caption"
+msgstr "Neue IP Adresse eingeben"
+
+msgid "DHBrowser_OpenIP.IpEntryBox.Caption"
+msgstr "IP Adresse: "
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[0]"
+msgstr "Server beitreten"
+
+#, fuzzy
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[3]"
+msgstr "Server Info erneuern"
+
+#, fuzzy
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[4]"
+msgstr "Liste erneuern"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[6]"
+msgstr "Filter konfigurieren"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[8]"
+msgstr "Alle Filter deaktivieren"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[10]"
+msgstr "Zu Favoriten hinzufügen"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[11]"
+msgstr "Server Adresse kopieren"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[1]"
+msgstr "Server Name"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[2]"
+msgstr "Leben"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[3]"
+msgstr "Ort"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[4]"
+msgstr "Version"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[5]"
+msgstr "Karte"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[6]"
+msgstr "Spieler"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[7]"
+msgstr "Ping"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[3]"
+msgstr "{0} bannen"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[4]"
+msgstr "{0} zum Gruppenführer ernennen"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts[5]"
+msgstr "{0} zum Assistenten ernennen"
+
+msgid "DHCreditsPage.WindowName"
+msgstr "Danksagungen"
+
+msgid "DHCreditsPage.CloseButton.Caption"
+msgstr "Schließen"
+
+msgid "DHDeployMenu.NoneText"
+msgstr "Keine"
+
+msgid "DHDeployMenu.SelectRoleText"
+msgstr "Rolle auswählen"
+
+msgid "DHDeployMenu.SelectSpawnPointText"
+msgstr "Spawn Punkt auswählen"
+
+msgid "DHDeployMenu.ReservedString"
+msgstr "Reserviert"
+
+msgid "DHDeployMenu.LockText"
+msgstr "Verschließen"
+
+msgid "DHDeployMenu.VehicleUnavailableString"
+msgstr "Das ausgewählte Fahrzeug ist nicht länger verfügbar."
+
+msgid "DHDeployMenu.LockedText"
+msgstr "Verschlossen"
+
+msgid "DHDeployMenu.SurrenderButtonText[0]"
+msgstr "Zurückziehen"
+
+msgid "DHDeployMenu.SurrenderButtonText[1]"
+msgstr "Weiterkämpfen"
+
+msgid "DHDeployMenu.ArtilleryVehicleImageObject.Hint"
+msgstr "Artilleriefahrzeug"
+
+msgid "DHDeployMenu.AxisButtonObject.Hint"
+msgstr "Achsenmächten beitreten"
+
+msgid "DHDeployMenu.DisconnectButtonObject.Caption"
+msgstr "Verbindung trennen"
+
+msgid "DHDeployMenu.EquipmentButtonObject.Hint"
+msgstr "Ausrüstung"
+
+msgid "DHDeployMenu.MapButtonObject.Hint"
+msgstr "Karte [F1]"
+
+msgid "DHDeployMenu.MapVoteButtonObject.Caption"
+msgstr "Kartenabstimmung"
+
+msgid "DHDeployMenu.MaxVehiclesImageObject.Hint"
+msgstr "Panzer verfügbar"
+
+msgid "DHDeployMenu.RetreatButtonObject.Caption"
+msgstr "Zurückziehen"
+
+msgid "DHDeployMenu.RoundTimeLabelObject.Hint"
+msgstr "Verbleibende Zeit"
+
+msgid "DHDeployMenu.ServersButtonObject.Caption"
+msgstr "Server"
+
+msgid "DHDeployMenu.SettingsButtonObject.Caption"
+msgstr "Einstellungen"
+
+msgid "DHDeployMenu.SpectateButtonObject.Hint"
+msgstr "Beobachten"
+
+msgid "DHDeployMenu.SuicideButtonObject.Caption"
+msgstr "Suizid"
+
+msgid "DHDeployMenu.VehicleButtonObject.Hint"
+msgstr "Fahrzeuge"
+
+msgid "DHEditFavoritePage.UnknownText"
+msgstr "Unbekannter Server"
+
+msgid "DHFilterEdit.bCancel.Caption"
+msgstr "Abbrechen"
+
+msgid "DHFilterListPage.bCancel.Caption"
+msgstr "Abbrechen"
+
+msgid "DHFilterListPage.bCreate.Caption"
+msgstr "Erstellen"
+
+msgid "DHFilterListPage.bEdit.Caption"
+msgstr "Anpassen"
+
+msgid "DHGUIDynArrayPage.LockedCancelButton.Caption"
+msgstr "Abbrechen"
+
+msgid "DHFilterListPage.bRemove.Caption"
+msgstr "Entfernen"
+
+msgid "DHFilterListPage.sbBackground.Caption"
+msgstr "Filter..."
+
+msgid "DHGUITeamSelection.SettingsButtonObject.Caption"
+msgstr "Einstellungen"
+
+msgid "DHGUITeamSelection.Disconnect.Caption"
+msgstr "Verbindung trennen"
+
+msgid "DHGUITeamSelection.Spectate.Caption"
+msgstr "Beobachten"
+
+msgid "DHGameFooterMP.GameBackButton.Caption"
+msgstr "Zurück"
+
+msgid "DHGetDataMenu.CancelButton.Caption"
+msgstr "ABBRECHEN"
