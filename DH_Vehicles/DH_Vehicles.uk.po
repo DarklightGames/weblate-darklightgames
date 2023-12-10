@@ -1,33 +1,32 @@
+#
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-10 13:42+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
-"Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
-"darkesthour/dh_vehicles/uk/>\n"
+"Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/darkesthour/dh_vehicles/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.2.1\n"
 
 msgid "DH_BA64ArmoredCar.VehicleNameString"
 msgstr "Бронеавтомобіль БА-64"
 
-msgid "DH_AchillesCannon.ProjectileDescriptions[0]"
+msgid "DH_AchillesCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_AchillesCannon.ProjectileDescriptions[1]"
+msgid "DH_AchillesCannon.ProjectileDescriptions<1>"
 msgstr "Підкаліберний (APDS)"
 
-msgid "DH_AchillesCannon.ProjectileDescriptions[2]"
+msgid "DH_AchillesCannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_BT7Tank.VehicleNameString"
 msgstr "БТ-7"
 
-msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions[2]"
+msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<2>"
 msgstr "Дим"
 
 msgid "DH_Fiat626TruckSupport.VehicleNameString"
@@ -36,19 +35,19 @@ msgstr "Fiat 626 (Логістика)"
 msgid "DH_Fiat626TruckTransport.VehicleNameString"
 msgstr "Fiat 626 (Транспорт)"
 
-msgid "DH_CromwellCannon.ProjectileDescriptions[0]"
+msgid "DH_CromwellCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_CromwellCannon.ProjectileDescriptions[1]"
+msgid "DH_CromwellCannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_CromwellCannon.ProjectileDescriptions[2]"
+msgid "DH_CromwellCannon.ProjectileDescriptions<2>"
 msgstr "Дим"
 
-msgid "DH_BT7Cannon.ProjectileDescriptions[1]"
+msgid "DH_BT7Cannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_Flak38Cannon.ProjectileDescriptions[1]"
+msgid "DH_Flak38Cannon.ProjectileDescriptions<1>"
 msgstr "Бронебійний (AP)"
 
 msgid "DH_GAZ67Vehicle.VehicleNameString"
@@ -66,7 +65,7 @@ msgstr "Бронеавтомобіль Greyhound"
 msgid "DH_GreyhoundArmoredCar.VehicleNameString"
 msgstr "Бронеавтомобіль M8"
 
-msgid "DH_HetzerCannon.ProjectileDescriptions[2]"
+msgid "DH_HetzerCannon.ProjectileDescriptions<2>"
 msgstr "Дим"
 
 msgid "DH_HigginsBoat.VehicleNameString"
@@ -78,166 +77,166 @@ msgstr "ІС-2"
 msgid "DH_ISU152Destroyer.VehicleNameString"
 msgstr "ІСУ-152"
 
-msgid "DH_HellcatCannon.ProjectileDescriptions[0]"
+msgid "DH_HellcatCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_HellcatCannon.ProjectileDescriptions[1]"
+msgid "DH_HellcatCannon.ProjectileDescriptions<1>"
 msgstr "Підкаліберний (HVAP)"
 
-msgid "DH_HellcatCannon.ProjectileDescriptions[2]"
+msgid "DH_HellcatCannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_IS2Cannon.ProjectileDescriptions[1]"
+msgid "DH_IS2Cannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_ISU152Cannon.ProjectileDescriptions[0]"
+msgid "DH_ISU152Cannon.ProjectileDescriptions<0>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_ISU152Cannon.ProjectileDescriptions[1]"
+msgid "DH_ISU152Cannon.ProjectileDescriptions<1>"
 msgstr "Бронебійний (AP)"
 
-msgid "DH_IS2Cannon.ProjectileDescriptions[0]"
+msgid "DH_IS2Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (AP)"
 
-msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions[2]"
+msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions<2>"
 msgstr "Дим"
 
-msgid "DH_JacksonCannon.ProjectileDescriptions[1]"
+msgid "DH_JacksonCannon.ProjectileDescriptions<1>"
 msgstr "Підкаліберний (HVAP)"
 
-msgid "DH_JacksonCannon_Early.ProjectileDescriptions[1]"
+msgid "DH_JacksonCannon_Early.ProjectileDescriptions<1>"
 msgstr "Бронебійний (AP)"
 
-msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions[1]"
+msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions<1>"
 msgstr "Підкаліберний (APDS)"
 
-msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions[2]"
+msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_ZiS5vTruckTransport.VehicleNameString"
 msgstr "ЗІС-5М (Траспорт)"
 
-msgid "DH_IS2Cannon_Late.nProjectileDescriptions[0]"
+msgid "DH_IS2Cannon_Late.nProjectileDescriptions<0>"
 msgstr "БР-471Б"
 
-msgid "DH_IS2Cannon.nProjectileDescriptions[0]"
+msgid "DH_IS2Cannon.nProjectileDescriptions<0>"
 msgstr "БР-471"
 
-msgid "DH_IS2Cannon.nProjectileDescriptions[1]"
+msgid "DH_IS2Cannon.nProjectileDescriptions<1>"
 msgstr "ОФ-471"
 
-msgid "DH_ISU152Cannon.nProjectileDescriptions[1]"
+msgid "DH_ISU152Cannon.nProjectileDescriptions<1>"
 msgstr "БР-540"
 
-msgid "DH_IS2Cannon_Late.nProjectileDescriptions[1]"
+msgid "DH_IS2Cannon_Late.nProjectileDescriptions<1>"
 msgstr "ОФ-471"
 
-msgid "DH_ISU152Cannon.nProjectileDescriptions[0]"
+msgid "DH_ISU152Cannon.nProjectileDescriptions<0>"
 msgstr "ОФ-540"
 
-msgid "DH_ISU152Cannon_Late.nProjectileDescriptions[0]"
+msgid "DH_ISU152Cannon_Late.nProjectileDescriptions<0>"
 msgstr "ОФ-540"
 
-msgid "DH_ISU152Cannon_Late.nProjectileDescriptions[1]"
+msgid "DH_ISU152Cannon_Late.nProjectileDescriptions<1>"
 msgstr "БР-540Б"
 
-msgid "DH_BT7Cannon.ProjectileDescriptions[0]"
+msgid "DH_BT7Cannon.ProjectileDescriptions<0>"
 msgstr "Каморний (APHE-T)"
 
-msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions[0]"
+msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions[1]"
+msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_Cromwell6PdrCannon.ProjectileDescriptions[0]"
+msgid "DH_Cromwell6PdrCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_Cromwell6PdrCannon.ProjectileDescriptions[1]"
+msgid "DH_Cromwell6PdrCannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_Cromwell95mmCannon.ProjectileDescriptions[0]"
+msgid "DH_Cromwell95mmCannon.ProjectileDescriptions<0>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_Cromwell95mmCannon.ProjectileDescriptions[1]"
+msgid "DH_Cromwell95mmCannon.ProjectileDescriptions<1>"
 msgstr "Дим"
 
-msgid "DH_Cromwell95mmCannon.ProjectileDescriptions[2]"
+msgid "DH_Cromwell95mmCannon.ProjectileDescriptions<2>"
 msgstr "Комулятивний (HEAT)"
 
-msgid "DH_Flak38Cannon.ProjectileDescriptions[0]"
+msgid "DH_Flak38Cannon.ProjectileDescriptions<0>"
 msgstr "Змішаний"
 
-msgid "DH_Flak38Cannon.ProjectileDescriptions[2]"
+msgid "DH_Flak38Cannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE-T)"
 
-msgid "DH_GreyhoundCannon.ProjectileDescriptions[0]"
+msgid "DH_GreyhoundCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_GreyhoundCannon.ProjectileDescriptions[1]"
+msgid "DH_GreyhoundCannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_HetzerCannon.ProjectileDescriptions[0]"
+msgid "DH_HetzerCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_HetzerCannon.ProjectileDescriptions[1]"
+msgid "DH_HetzerCannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_GreyhoundCannon.ProjectileDescriptions[2]"
+msgid "DH_GreyhoundCannon.ProjectileDescriptions<2>"
 msgstr "Картеч"
 
-msgid "DH_IS2Cannon_Late.ProjectileDescriptions[0]"
+msgid "DH_IS2Cannon_Late.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APBC)"
 
-msgid "DH_IS2Cannon_Late.ProjectileDescriptions[1]"
+msgid "DH_IS2Cannon_Late.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_ISU152Cannon_Late.ProjectileDescriptions[0]"
+msgid "DH_ISU152Cannon_Late.ProjectileDescriptions<0>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_ISU152Cannon_Late.ProjectileDescriptions[1]"
+msgid "DH_ISU152Cannon_Late.ProjectileDescriptions<1>"
 msgstr "Бронебійний (APBC)"
 
-msgid "DH_JacksonCannon.ProjectileDescriptions[0]"
+msgid "DH_JacksonCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_JacksonCannon.ProjectileDescriptions[2]"
+msgid "DH_JacksonCannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_JacksonCannon_Early.ProjectileDescriptions[0]"
+msgid "DH_JacksonCannon_Early.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_JacksonCannon_Early.ProjectileDescriptions[2]"
+msgid "DH_JacksonCannon_Early.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions[0]"
+msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions[1]"
+msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions[0]"
+msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions[1]"
+msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions<1>"
 msgstr "Підкаліберний (APCR)"
 
-msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions[2]"
+msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_KV1sCannon_Late.ProjectileDescriptions[0]"
+msgid "DH_KV1sCannon_Late.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APBC)"
 
-msgid "DH_KV1sCannon_Late.ProjectileDescriptions[1]"
+msgid "DH_KV1sCannon_Late.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_KV1sCannon_Late.ProjectileDescriptions[2]"
+msgid "DH_KV1sCannon_Late.ProjectileDescriptions<2>"
 msgstr "Підкаліберний (APCR)"
 
-msgid "DH_LocustCannon.ProjectileDescriptions[0]"
+msgid "DH_LocustCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_LocustCannon.ProjectileDescriptions[1]"
+msgid "DH_LocustCannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_KV1ETank.VehicleNameString"
@@ -246,43 +245,43 @@ msgstr "КВ-1Е"
 msgid "DH_KV1sTank.VehicleNameString"
 msgstr "КВ-1С"
 
-msgid "DH_LocustCannon.ProjectileDescriptions[2]"
+msgid "DH_LocustCannon.ProjectileDescriptions<2>"
 msgstr "Картеч"
 
-msgid "DH_M7PriestCannon.ProjectileDescriptions[0]"
+msgid "DH_M7PriestCannon.ProjectileDescriptions<0>"
 msgstr "Осколково-фугасний (HE-1)"
 
-msgid "DH_M7PriestCannon.ProjectileDescriptions[1]"
+msgid "DH_M7PriestCannon.ProjectileDescriptions<1>"
 msgstr "Дим"
 
-msgid "DH_M7PriestCannon.ProjectileDescriptions[2]"
+msgid "DH_M7PriestCannon.ProjectileDescriptions<2>"
 msgstr "Комулятивний (HEAT)"
 
-msgid "DH_PantherDCannon.ProjectileDescriptions[0]"
+msgid "DH_PantherDCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_PantherDCannon.ProjectileDescriptions[1]"
+msgid "DH_PantherDCannon.ProjectileDescriptions<1>"
 msgstr "Підкаліберний (APCR)"
 
-msgid "DH_PantherDCannon.ProjectileDescriptions[2]"
+msgid "DH_PantherDCannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_PanzerIIILCannon.ProjectileDescriptions[0]"
+msgid "DH_PanzerIIILCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_PanzerIIILCannon.ProjectileDescriptions[1]"
+msgid "DH_PanzerIIILCannon.ProjectileDescriptions<1>"
 msgstr "Підкаліберний (APCR)"
 
-msgid "DH_PanzerIIILCannon.ProjectileDescriptions[2]"
+msgid "DH_PanzerIIILCannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_PanzerIIINCannon.ProjectileDescriptions[0]"
+msgid "DH_PanzerIIINCannon.ProjectileDescriptions<0>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_PanzerIIINCannon.ProjectileDescriptions[1]"
+msgid "DH_PanzerIIINCannon.ProjectileDescriptions<1>"
 msgstr "Комулятивний (HEAT)"
 
-msgid "DH_PanzerIIINCannon.ProjectileDescriptions[2]"
+msgid "DH_PanzerIIINCannon.ProjectileDescriptions<2>"
 msgstr "Картеч"
 
 msgid "DH_OpelBlitzSupport.VehicleNameString"
@@ -291,115 +290,115 @@ msgstr "Opel Blitz (Логістика)"
 msgid "DH_OpelBlitzTransport.VehicleNameString"
 msgstr "Opel Blitz (Траспорт)"
 
-msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions[0]"
+msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions[1]"
+msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions<1>"
 msgstr "Комулятивний (HEAT)"
 
-msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions[2]"
+msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions[0]"
+msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions[1]"
+msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions[2]"
+msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions<2>"
 msgstr "Комулятивний (HEAT)"
 
-msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions[0]"
+msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions[1]"
+msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions[2]"
+msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions<2>"
 msgstr "Комулятивний (HEAT)"
 
-msgid "DH_SU76Cannon.ProjectileDescriptions[0]"
+msgid "DH_SU76Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APBC)"
 
-msgid "DH_SU76Cannon.ProjectileDescriptions[1]"
+msgid "DH_SU76Cannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_SU76Cannon.ProjectileDescriptions[2]"
+msgid "DH_SU76Cannon.ProjectileDescriptions<2>"
 msgstr "Підкаліберний (APCR)"
 
-msgid "DH_SdKfz2519DCannon.ProjectileDescriptions[0]"
+msgid "DH_SdKfz2519DCannon.ProjectileDescriptions<0>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_SdKfz2519DCannon.ProjectileDescriptions[1]"
+msgid "DH_SdKfz2519DCannon.ProjectileDescriptions<1>"
 msgstr "Комулятивний (HEAT)"
 
-msgid "DH_SdKfz2519DCannon.ProjectileDescriptions[2]"
+msgid "DH_SdKfz2519DCannon.ProjectileDescriptions<2>"
 msgstr "Дим"
 
-msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions[0]"
+msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (AP-T)"
 
-msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions[1]"
+msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE-T)"
 
-msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions[2]"
+msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions<2>"
 msgstr "Підкаліберний (APCR-T)"
 
 msgid "DH_Sdkfz2341ArmoredCar.VehicleNameString"
 msgstr "Бронеавтомобіль Sd.Kfz.234/1"
 
-msgid "DH_ShermanCannon.ProjectileDescriptions[1]"
+msgid "DH_ShermanCannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_ShermanCannon.ProjectileDescriptions[2]"
+msgid "DH_ShermanCannon.ProjectileDescriptions<2>"
 msgstr "Дим"
 
-msgid "DH_ShermanCannon.ProjectileDescriptions[0]"
+msgid "DH_ShermanCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_ShermanCannonA_76mm.ProjectileDescriptions[0]"
+msgid "DH_ShermanCannonA_76mm.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_ShermanCannonA_76mm.ProjectileDescriptions[1]"
+msgid "DH_ShermanCannonA_76mm.ProjectileDescriptions<1>"
 msgstr "Підкаліберний (HVAP)"
 
-msgid "DH_ShermanCannonA_76mm.ProjectileDescriptions[2]"
+msgid "DH_ShermanCannonA_76mm.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_ShermanCannonA_76mm_Early.ProjectileDescriptions[0]"
+msgid "DH_ShermanCannonA_76mm_Early.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_ShermanCannonA_76mm_Early.ProjectileDescriptions[1]"
+msgid "DH_ShermanCannonA_76mm_Early.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_ShermanCannonA_76mm_Early.ProjectileDescriptions[2]"
+msgid "DH_ShermanCannonA_76mm_Early.ProjectileDescriptions<2>"
 msgstr "Дим"
 
-msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions[0]"
+msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions<0>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions[1]"
+msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions<1>"
 msgstr "Дим"
 
-msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions[2]"
+msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions<2>"
 msgstr "Комулятивний (HEAT)"
 
-msgid "DH_ShermanCannon_M4A3E2_Jumbo.ProjectileDescriptions[0]"
+msgid "DH_ShermanCannon_M4A3E2_Jumbo.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_ShermanCannon_M4A3E2_Jumbo.ProjectileDescriptions[1]"
+msgid "DH_ShermanCannon_M4A3E2_Jumbo.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_ShermanCannon_M4A3E2_Jumbo.ProjectileDescriptions[2]"
+msgid "DH_ShermanCannon_M4A3E2_Jumbo.ProjectileDescriptions<2>"
 msgstr "Дим"
 
-msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions[0]"
+msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions[1]"
+msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions[2]"
+msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions<2>"
 msgstr "Дим"
 
 msgid "DH_Sdkfz2342ArmoredCar.VehicleNameString"
@@ -408,79 +407,79 @@ msgstr "Бронеавтомобіль Sd.Kfz.234/2"
 msgid "DH_Sdkfz251Transport.VehicleNameString"
 msgstr "Бронетранспортер Sd.Kfz.251"
 
-msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions[0]"
+msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_StuH42Cannon.ProjectileDescriptions[0]"
+msgid "DH_StuH42Cannon.ProjectileDescriptions<0>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_StuH42Cannon.ProjectileDescriptions[1]"
+msgid "DH_StuH42Cannon.ProjectileDescriptions<1>"
 msgstr "Дим"
 
-msgid "DH_StuH42Cannon.ProjectileDescriptions[2]"
+msgid "DH_StuH42Cannon.ProjectileDescriptions<2>"
 msgstr "Комулятивний (HEAT)"
 
-msgid "DH_StuartCannon.ProjectileDescriptions[0]"
+msgid "DH_StuartCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_StuartCannon.ProjectileDescriptions[1]"
+msgid "DH_StuartCannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_StuartCannon.ProjectileDescriptions[2]"
+msgid "DH_StuartCannon.ProjectileDescriptions<2>"
 msgstr "Картеч"
 
-msgid "DH_Stug3GCannon.ProjectileDescriptions[0]"
+msgid "DH_Stug3GCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_Stug3GCannon.ProjectileDescriptions[1]"
+msgid "DH_Stug3GCannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_Stug3GCannon.ProjectileDescriptions[2]"
+msgid "DH_Stug3GCannon.ProjectileDescriptions<2>"
 msgstr "Дим"
 
-msgid "DH_T3476Cannon.ProjectileDescriptions[0]"
+msgid "DH_T3476Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APBC)"
 
-msgid "DH_T3476Cannon.ProjectileDescriptions[1]"
+msgid "DH_T3476Cannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_T3476_42Cannon.ProjectileDescriptions[0]"
+msgid "DH_T3476_42Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APBC)"
 
-msgid "DH_T3476_42Cannon.ProjectileDescriptions[1]"
+msgid "DH_T3476_42Cannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_T3476_43Cannon.ProjectileDescriptions[0]"
+msgid "DH_T3476_43Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APBC)"
 
-msgid "DH_T3476_43Cannon.ProjectileDescriptions[1]"
+msgid "DH_T3476_43Cannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_T3476_43Cannon.ProjectileDescriptions[2]"
+msgid "DH_T3476_43Cannon.ProjectileDescriptions<2>"
 msgstr "Підкаліберний (APCR)"
 
-msgid "DH_T3485Cannon.ProjectileDescriptions[0]"
+msgid "DH_T3485Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APBC)"
 
-msgid "DH_T3485Cannon.ProjectileDescriptions[1]"
+msgid "DH_T3485Cannon.ProjectileDescriptions<1>"
 msgstr "Підкаліберний (APCR)"
 
-msgid "DH_T3485Cannon.ProjectileDescriptions[2]"
+msgid "DH_T3485Cannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_T60Cannon.ProjectileDescriptions[0]"
+msgid "DH_T60Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (AP-T)"
 
-msgid "DH_T60Cannon.ProjectileDescriptions[1]"
+msgid "DH_T60Cannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_WolverineCannon.ProjectileDescriptions[0]"
+msgid "DH_WolverineCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_WolverineCannon.ProjectileDescriptions[1]"
+msgid "DH_WolverineCannon.ProjectileDescriptions<1>"
 msgstr "Підкаліберний (HVAP)"
 
-msgid "DH_WolverineCannon.ProjectileDescriptions[2]"
+msgid "DH_WolverineCannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_T3476Tank.VehicleNameString"
@@ -498,16 +497,16 @@ msgstr "Т-34-85"
 msgid "DH_T60Tank.VehicleNameString"
 msgstr "Легкий танк Т-60"
 
-msgid "DH_WolverineCannon_Early.ProjectileDescriptions[0]"
+msgid "DH_WolverineCannon_Early.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
 msgid "DH_ZiS5vTruck.VehicleNameString"
 msgstr "ЗІС-5В"
 
-msgid "DH_WolverineCannon_Early.ProjectileDescriptions[1]"
+msgid "DH_WolverineCannon_Early.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_WolverineCannon_Early.ProjectileDescriptions[2]"
+msgid "DH_WolverineCannon_Early.ProjectileDescriptions<2>"
 msgstr "Дим"
 
 msgid "DH_ZiS5vTruckSupport.VehicleNameString"

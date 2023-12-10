@@ -1,9 +1,10 @@
+#
 msgid ""
 msgstr ""
-"Language: en"
-"MIME-Version: 1.0"
-"Content-Type: text/plain"
-"Content-Transfer-Encoding: 8bit; charset=UTF-8"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain\n"
+"Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
 
 msgid "DHATCannonMessage.GunIsRotating"
 msgstr "The gun is being rotated"
@@ -23,10 +24,10 @@ msgstr "Use the "
 msgid "DHATGunCannonPawn.HudName"
 msgstr "Gunner"
 
-msgid "DHATGunRotateControlsMessage.Controls[0].Text"
+msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
 msgstr "Finish rotating"
 
-msgid "DHATGunRotateControlsMessage.Controls[1].Text"
+msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
 msgstr "Rotate"
 
 msgid "DHATGunTouchMessage.RotateHintString"
@@ -465,7 +466,9 @@ msgid "DHChatRoomMessage.CannotJoinSquadChannelText"
 msgstr "Couldn't join channel `%title%`. You must to be in a squad."
 
 msgid "DHChatRoomMessage.CannotJoinCommandChannelText"
-msgstr "Couldn't join channel `%title%`. You must be a squad leader or an assistant, and your squad must have at least 2 members."
+msgstr ""
+"Couldn't join channel `%title%`. You must be a squad leader or an assistant,"
+" and your squad must have at least 2 members."
 
 msgid "DHCommandMenu_ATGun.EnemyGunText"
 msgstr "Cannot rotate an enemy gun"
@@ -539,76 +542,82 @@ msgstr "Public all chat is currently disabled."
 msgid "DHConstruction.ConstructionVerb"
 msgstr "build"
 
-msgid "DHConstructionErrorMessage.ErrorMessages[2]"
+msgid "DHConstructionErrorMessage.ErrorMessages<2>"
 msgstr "You must {verb} a {name} on solid ground."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[3]"
+msgid "DHConstructionErrorMessage.ErrorMessages<3>"
 msgstr "The ground is too steep here to {verb} a {name}."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[4]"
+msgid "DHConstructionErrorMessage.ErrorMessages<4>"
 msgstr "You cannot {verb} a {name} in water."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[5]"
+msgid "DHConstructionErrorMessage.ErrorMessages<5>"
 msgstr "You cannot {verb} a {name} at this location."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[6]"
+msgid "DHConstructionErrorMessage.ErrorMessages<6>"
 msgstr "Not enough room here to {verb} a {name}."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[7]"
+msgid "DHConstructionErrorMessage.ErrorMessages<7>"
 msgstr "You must {verb} a {name} on earthen terrain."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[8]"
-msgstr "Too close to an existing friendly {name}, it must be {integer}m further away."
+msgid "DHConstructionErrorMessage.ErrorMessages<8>"
+msgstr ""
+"Too close to an existing friendly {name}, it must be {integer}m further "
+"away."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[9]"
-msgstr "Too close to an existing enemy {name}, it must be {integer}m further away."
+msgid "DHConstructionErrorMessage.ErrorMessages<9>"
+msgstr ""
+"Too close to an existing enemy {name}, it must be {integer}m further away."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[10]"
+msgid "DHConstructionErrorMessage.ErrorMessages<10>"
 msgstr "You cannot {verb} a {name} in a minefield."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[11]"
+msgid "DHConstructionErrorMessage.ErrorMessages<11>"
 msgstr "You cannot {verb} a {name} near a spawn point."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[12]"
+msgid "DHConstructionErrorMessage.ErrorMessages<12>"
 msgstr "You cannot {verb} a {name} indoors."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[13]"
+msgid "DHConstructionErrorMessage.ErrorMessages<13>"
 msgstr "You cannot {verb} a {name} inside an objective."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[14]"
+msgid "DHConstructionErrorMessage.ErrorMessages<14>"
 msgstr "Your team cannot {verb} any more {name} (limit reached: {integer})."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[15]"
+msgid "DHConstructionErrorMessage.ErrorMessages<15>"
 msgstr "There are no supply caches within {integer} meters."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[16]"
+msgid "DHConstructionErrorMessage.ErrorMessages<16>"
 msgstr "There are insufficient supplies to {verb} a {name}."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[17]"
+msgid "DHConstructionErrorMessage.ErrorMessages<17>"
 msgstr "You cannot {verb} a {name} on this surface."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[18]"
+msgid "DHConstructionErrorMessage.ErrorMessages<18>"
 msgstr "The ground is too hard to {verb} a {name} at this location."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[20]"
+msgid "DHConstructionErrorMessage.ErrorMessages<20>"
 msgstr "You must have {integer} members in your squad to {verb} a {name}."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[21]"
+msgid "DHConstructionErrorMessage.ErrorMessages<21>"
 msgstr "You cannot {verb} a {name} while you are busy."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[22]"
-msgstr "Too close to an objective ({string}), it must be {integer}m further away."
+msgid "DHConstructionErrorMessage.ErrorMessages<22>"
+msgstr ""
+"Too close to an objective ({string}), it must be {integer}m further away."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[23]"
-msgstr "Too close to an uncontrolled objective ({string}), it must be {integer}m further away."
+msgid "DHConstructionErrorMessage.ErrorMessages<23>"
+msgstr ""
+"Too close to an uncontrolled objective ({string}), it must be {integer}m "
+"further away."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[24]"
+msgid "DHConstructionErrorMessage.ErrorMessages<24>"
 msgstr "You must {verb} a {name} within {integer}m of a friendly {string}"
 
-msgid "DHConstructionErrorMessage.ErrorMessages[25]"
+msgid "DHConstructionErrorMessage.ErrorMessages<25>"
 msgstr "You cannot {verb} a {name} in enemy territory"
 
-msgid "DHConstructionErrorMessage.ErrorMessages[26]"
+msgid "DHConstructionErrorMessage.ErrorMessages<26>"
 msgstr "There are no more {name} available"
 
 msgid "DHConstructionGroup_Guns.GroupName"
@@ -645,7 +654,8 @@ msgid "DHFireSupportMessage.OffMapArtilleryRequestConfirmedText"
 msgstr "Long-range fire support target has been marked."
 
 msgid "DHFireSupportMessage.OnMapArtilleryRequestingLocked"
-msgstr "You cannot place another fire support marker for another {seconds} seconds."
+msgstr ""
+"You cannot place another fire support marker for another {seconds} seconds."
 
 msgid "DHFireSupportMessage.RadiomanNotification"
 msgstr "{squad} squad has marked a target for long-range fire support."
@@ -678,7 +688,8 @@ msgid "DHGameMessage.RoleInvalidatedMessage"
 msgstr "You are no longer qualified to be {article}{name}."
 
 msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
-msgstr "You must have another teammate nearby to deconstruct an enemy Platoon HQ!"
+msgstr ""
+"You must have another teammate nearby to deconstruct an enemy Platoon HQ!"
 
 msgid "DHGameReplicationInfo.ForceScaleText"
 msgstr "Size"
@@ -717,13 +728,19 @@ msgid "DHHintManager.Hints[0].Title"
 msgstr "Welcome to Darkest Hour!"
 
 msgid "DHHintManager.Hints[0].Text"
-msgstr "These hint messages will show up periodically in the game. Pay attention to them, your survival might depend on it! They can be disabled from the HUD tab in the configuration menu."
+msgstr ""
+"These hint messages will show up periodically in the game. Pay attention to "
+"them, your survival might depend on it! They can be disabled from the HUD "
+"tab in the configuration menu."
 
 msgid "DHHintManager.Hints[1].Title"
 msgstr "Mantling"
 
 msgid "DHHintManager.Hints[1].Text"
-msgstr "You are able to mantle on to small obstacles! To mantle, stand in front of any low obstacle until the mantling icon to appears then press %JUMP% to mantle on top of the obstacle."
+msgstr ""
+"You are able to mantle on to small obstacles! To mantle, stand in front of "
+"any low obstacle until the mantling icon to appears then press %JUMP% to "
+"mantle on top of the obstacle."
 
 msgid "DHHintManager.Hints[2].Title"
 msgstr "Parachutes"
@@ -735,103 +752,143 @@ msgid "DHHintManager.Hints[3].Title"
 msgstr "Coloured Smoke Grenades"
 
 msgid "DHHintManager.Hints[3].Text"
-msgstr "Coloured smoke grenades are used to communicate on the battlefield with your teammates. Be sure to tell your teammates what the coloured smoke indicates."
+msgstr ""
+"Coloured smoke grenades are used to communicate on the battlefield with your"
+" teammates. Be sure to tell your teammates what the coloured smoke "
+"indicates."
 
 msgid "DHHintManager.Hints[6].Title"
 msgstr "Mortars"
 
 msgid "DHHintManager.Hints[6].Text"
-msgstr "While you are holding a mortar you cannot change weapons, sprint, prone or mantle. To deploy your mortar, crouch on flat ground and press %DEPLOY%."
+msgstr ""
+"While you are holding a mortar you cannot change weapons, sprint, prone or "
+"mantle. To deploy your mortar, crouch on flat ground and press %DEPLOY%."
 
 msgid "DHHintManager.Hints[7].Title"
 msgstr "Mortar Operation"
 
 msgid "DHHintManager.Hints[7].Text"
-msgstr "To adjust the traverse of your mortar, hold the A or D keys. To increase the elevation, press the S key. To decrease the elevation, press the W key. To select the next round type, press the %SwitchFireMode% key. To fire a round, press the %Fire% key."
+msgstr ""
+"To adjust the traverse of your mortar, hold the A or D keys. To increase the"
+" elevation, press the S key. To decrease the elevation, press the W key. To "
+"select the next round type, press the %SwitchFireMode% key. To fire a round,"
+" press the %Fire% key."
 
 msgid "DHHintManager.Hints[8].Title"
 msgstr "Artillery Targets"
 
 msgid "DHHintManager.Hints[8].Text"
-msgstr "Squad leaders can mark targets that become visible on your map. When a round lands near a target marker, the location of the impact will be marked your map. Use these markers to zero in on your target."
+msgstr ""
+"Squad leaders can mark targets that become visible on your map. When a round"
+" lands near a target marker, the location of the impact will be marked your "
+"map. Use these markers to zero in on your target."
 
 msgid "DHHintManager.Hints[9].Title"
 msgstr "Mortar Leaving"
 
 msgid "DHHintManager.Hints[9].Text"
-msgstr "You may leave your mortar at any time by pressing the %Use% key. While you are off your mortar, you can retrieve ammunition at a resupply area or from your teammates."
+msgstr ""
+"You may leave your mortar at any time by pressing the %Use% key. While you "
+"are off your mortar, you can retrieve ammunition at a resupply area or from "
+"your teammates."
 
 msgid "DHHintManager.Hints[10].Title"
 msgstr "Mortar Undeploy"
 
 msgid "DHHintManager.Hints[10].Text"
-msgstr "To undeploy your mortar, press the %Deploy% key. Undeploying your mortar will reset your elevation and traverse settings."
+msgstr ""
+"To undeploy your mortar, press the %Deploy% key. Undeploying your mortar "
+"will reset your elevation and traverse settings."
 
 msgid "DHHintManager.Hints[12].Title"
 msgstr "Binoculars"
 
 msgid "DHHintManager.Hints[12].Text"
-msgstr "You can mark targets for fire support with your binoculars. Bring up your binoculars with %ROIRONSIGHTS%, then press and hold %FIRE% to bring up the fire support menu."
+msgstr ""
+"You can mark targets for fire support with your binoculars. Bring up your "
+"binoculars with %ROIRONSIGHTS%, then press and hold %FIRE% to bring up the "
+"fire support menu."
 
 msgid "DHHintManager.Hints[13].Title"
 msgstr "Radio Operator"
 
 msgid "DHHintManager.Hints[13].Text"
-msgstr "You are a radio operator! Stay close to squad leaders so they can call in long-range fire support!"
+msgstr ""
+"You are a radio operator! Stay close to squad leaders so they can call in "
+"long-range fire support!"
 
 msgid "DHHintManager.Hints[40].Title"
 msgstr "Vehicle Engines"
 
 msgid "DHHintManager.Hints[40].Text"
-msgstr "You have entered a vehicle. To start or stop the engine, press %FIRE%."
+msgstr ""
+"You have entered a vehicle. To start or stop the engine, press %FIRE%."
 
 msgid "DHHintManager.Hints[42].Title"
 msgstr "Higgins Boat"
 
 msgid "DHHintManager.Hints[42].Text"
-msgstr "You are driving a Higgins boat. Lower the bow ramp by pressing %PREVWEAPON% so passengers and yourself can exit. To raise the bow ramp hit %NEXTWEAPON%."
+msgstr ""
+"You are driving a Higgins boat. Lower the bow ramp by pressing %PREVWEAPON% "
+"so passengers and yourself can exit. To raise the bow ramp hit %NEXTWEAPON%."
 
 msgid "DHHintManager.Hints[43].Title"
 msgstr "Resupply Trucks"
 
 msgid "DHHintManager.Hints[43].Text"
-msgstr "You are close to a resupply truck. Stand outside the back of the truck to resupply your ammunition."
+msgstr ""
+"You are close to a resupply truck. Stand outside the back of the truck to "
+"resupply your ammunition."
 
 msgid "DHHintManager.Hints[44].Title"
 msgstr "Resupply Trucks"
 
 msgid "DHHintManager.Hints[44].Text"
-msgstr "You are driving a resupply truck. This vehicle can resupply vehicles, mortars and infantry. Be sure to park it in a safe place."
+msgstr ""
+"You are driving a resupply truck. This vehicle can resupply vehicles, "
+"mortars and infantry. Be sure to park it in a safe place."
 
 msgid "DHHintManager.Hints[46].Title"
 msgstr "Externally Mounted MG"
 
 msgid "DHHintManager.Hints[46].Text"
-msgstr "This machine gun is externally mounted and can only be fired or reloaded if you unbutton the hatch"
+msgstr ""
+"This machine gun is externally mounted and can only be fired or reloaded if "
+"you unbutton the hatch"
 
 msgid "DHHintManager.Hints[47].Title"
 msgstr "Remote Controlled MG"
 
 msgid "DHHintManager.Hints[47].Text"
-msgstr "This machine gun can only be fired from inside the vehicle, but it is externally mounted and you must unbutton the hatch to reload"
+msgstr ""
+"This machine gun can only be fired from inside the vehicle, but it is "
+"externally mounted and you must unbutton the hatch to reload"
 
 msgid "DHHintManager.Hints[48].Title"
 msgstr "Externally Mounted MG Reload"
 
 msgid "DHHintManager.Hints[48].Text"
-msgstr "You need to unbutton the hatch (& not be using binoculars) to reload this externally mounted machine gun"
+msgstr ""
+"You need to unbutton the hatch (& not be using binoculars) to reload this "
+"externally mounted machine gun"
 
 msgid "DHHintManager.Hints[49].Title"
 msgstr "Spotting Scope"
 
 msgid "DHHintManager.Hints[49].Text"
-msgstr "You are operating an artillery piece equipped with a spotting scope. Press %NEXTWEAPON% to look through the spotting scope."
+msgstr ""
+"You are operating an artillery piece equipped with a spotting scope. Press "
+"%NEXTWEAPON% to look through the spotting scope."
 
 msgid "DHHintManager.Hints[50].Title"
 msgstr "Artillery Operators"
 
 msgid "DHHintManager.Hints[50].Text"
-msgstr "Open map to coordinate fire. Use [RIGHTMOUSE] on a fire support request to select it as the active target or use the Ruler marker to measure distances from you to a given spot on the map."
+msgstr ""
+"Open map to coordinate fire. Use [RIGHTMOUSE] on a fire support request to "
+"select it as the active target or use the Ruler marker to measure distances "
+"from you to a given spot on the map."
 
 msgid "DHHintManager.Hints[51].Title"
 msgstr "Map Interaction"
@@ -843,49 +900,65 @@ msgid "DHHintManager.Hints[52].Title"
 msgstr "Map Navigation"
 
 msgid "DHHintManager.Hints[52].Text"
-msgstr "To zoom the map, hover the cursor over the map and use the scroll wheel. To pan the map, press and hold [LEFTMOUSE] then move the cursor."
+msgstr ""
+"To zoom the map, hover the cursor over the map and use the scroll wheel. To "
+"pan the map, press and hold [LEFTMOUSE] then move the cursor."
 
 msgid "DHHintManager.Hints[53].Title"
 msgstr "Map Markers"
 
 msgid "DHHintManager.Hints[53].Text"
-msgstr "To add and interact with markers on the map, hover the cursor over the area or object of interest and press [RIGHTMOUSE] to bring up the context menu."
+msgstr ""
+"To add and interact with markers on the map, hover the cursor over the area "
+"or object of interest and press [RIGHTMOUSE] to bring up the context menu."
 
 msgid "DHHintManager.Hints[54].Title"
 msgstr "Find a Radio"
 
 msgid "DHHintManager.Hints[54].Text"
-msgstr "You have marked a target for long-range fire support. Find a radio so that you can call it in!"
+msgstr ""
+"You have marked a target for long-range fire support. Find a radio so that "
+"you can call it in!"
 
 msgid "DHHintManager.Hints[60].Title"
 msgstr "Firing Range"
 
 msgid "DHHintManager.Hints[60].Text"
-msgstr "This weapon has an adjustable sight! Press %SWITCHFIREMODE% to change the range of the sight."
+msgstr ""
+"This weapon has an adjustable sight! Press %SWITCHFIREMODE% to change the "
+"range of the sight."
 
 msgid "DHHintManager.Hints[61].Title"
 msgstr "Desperate measures"
 
 msgid "DHHintManager.Hints[61].Text"
-msgstr "This weapon uses non-standard ammunition that cannot be resupplied. Don't waste your shots!"
+msgstr ""
+"This weapon uses non-standard ammunition that cannot be resupplied. Don't "
+"waste your shots!"
 
 msgid "DHHintManager.Hints[62].Title"
 msgstr "Barrel Overheating"
 
 msgid "DHHintManager.Hints[62].Text"
-msgstr "Your weapon's barrel is overheating! Overheating barrels will result in reduced accuracy and eventual destruction of the barrel."
+msgstr ""
+"Your weapon's barrel is overheating! Overheating barrels will result in "
+"reduced accuracy and eventual destruction of the barrel."
 
 msgid "DHHintManager.Hints[63].Title"
 msgstr "Barrel Swapping"
 
 msgid "DHHintManager.Hints[63].Text"
-msgstr "You can swap the barrel of this weapon. Press %ROMGOPERATION% while deployed to change to your secondary barrel."
+msgstr ""
+"You can swap the barrel of this weapon. Press %ROMGOPERATION% while deployed"
+" to change to your secondary barrel."
 
 msgid "DHHintManager.Hints[64].Title"
 msgstr "Barrel Destroyed"
 
 msgid "DHHintManager.Hints[64].Text"
-msgstr "Your weapon's barrel has been destroyed by overheating! You can no longer fire this weapon."
+msgstr ""
+"Your weapon's barrel has been destroyed by overheating! You can no longer "
+"fire this weapon."
 
 msgid "DHHud.ServerNameText"
 msgstr "Server: "
@@ -915,7 +988,8 @@ msgid "DHHud.InvalidSpawnSettingsText"
 msgstr "Press [ESC] to confirm your role, vehicle, and spawnpoint selections"
 
 msgid "DHHud.NotReadyToSpawnText"
-msgstr "Spawning will enable in {s} (Use this time to organize squads and plan)"
+msgstr ""
+"Spawning will enable in {s} (Use this time to organize squads and plan)"
 
 msgid "DHHud.SelectSpawnPointText"
 msgstr "Press [ESC] to select a spawn point"
@@ -930,7 +1004,9 @@ msgid "DHHud.SpawnAtVehicleText"
 msgstr "You will deploy as a {0} at a {1} in {2} | Press [ESC] to change"
 
 msgid "DHHud.SpawnRallyPointText"
-msgstr "You will deploy as a {0} at your squad rally point in {2} | Press [ESC] to change"
+msgstr ""
+"You will deploy as a {0} at your squad rally point in {2} | Press [ESC] to "
+"change"
 
 msgid "DHHud.SpawnNoRoleText"
 msgstr "Press [ESC] to select a role"
@@ -989,25 +1065,25 @@ msgstr "You're abandoning your squad."
 msgid "DHIQMessage.NotInSquadMessage"
 msgstr "You're not in a squad."
 
-msgid "DHIQMessage.Congratulations[0]"
+msgid "DHIQMessage.Congratulations<0>"
 msgstr "Wow! Such smarts!"
 
-msgid "DHIQMessage.Congratulations[1]"
+msgid "DHIQMessage.Congratulations<1>"
 msgstr "Amazing!"
 
-msgid "DHIQMessage.Congratulations[2]"
+msgid "DHIQMessage.Congratulations<2>"
 msgstr "You're a tactical genius!"
 
-msgid "DHIQMessage.Congratulations[3]"
+msgid "DHIQMessage.Congratulations<3>"
 msgstr "Well done!"
 
-msgid "DHIQMessage.Congratulations[4]"
+msgid "DHIQMessage.Congratulations<4>"
 msgstr "Absolute madman!"
 
-msgid "DHIQMessage.Congratulations[6]"
+msgid "DHIQMessage.Congratulations<6>"
 msgstr "Brilliant!"
 
-msgid "DHIQMessage.Congratulations[7]"
+msgid "DHIQMessage.Congratulations<7>"
 msgstr "You're the smartest!"
 
 msgid "DHInventorySpawner.ContainerNoun"
@@ -1154,13 +1230,13 @@ msgstr "The {0} have {1} {2}"
 msgid "DHPassengerPawn.HudName"
 msgstr "Rider"
 
-msgid "DHPawnTouchMessage.Messages[0]"
+msgid "DHPawnTouchMessage.Messages<0>"
 msgstr "Press [%THROWMGAMMO%] to resupply {0}"
 
-msgid "DHPawnTouchMessage.Messages[1]"
+msgid "DHPawnTouchMessage.Messages<1>"
 msgstr "Press [%THROWMGAMMO%] to reload {0}"
 
-msgid "DHPawnTouchMessage.Messages[2]"
+msgid "DHPawnTouchMessage.Messages<2>"
 msgstr "Press [%THROWMGAMMO%] to resupply and reload {0}"
 
 msgid "DHPawnTouchMessage.FallbackPlayerName"
@@ -1176,7 +1252,8 @@ msgid "DHPlatoonHQMessage.DestroyedMessage"
 msgstr "A Platoon HQ has been destroyed."
 
 msgid "DHPlatoonHQMessage.ConstructedMessage"
-msgstr "A Platoon HQ has been constructed and will be established in {0} seconds."
+msgstr ""
+"A Platoon HQ has been constructed and will be established in {0} seconds."
 
 msgid "DHPlayerReplicationInfo.SquadLeaderAbbreviation"
 msgstr "SL"
@@ -1374,13 +1451,16 @@ msgid "DHSpawnKillDamageType.MaleSuicide"
 msgstr "%o spawn killed himself."
 
 msgid "DHSpawnProtectMineVolume.SafePeriodWarningMessage"
-msgstr "This is now an enemy controlled area! You have %remaining% seconds to return to your lines!"
+msgstr ""
+"This is now an enemy controlled area! You have %remaining% seconds to return"
+" to your lines!"
 
 msgid "DHSpawnProtectMineVolume.SpawnMFActivatedMessage"
 msgstr "This is now an enemy controlled area, fall back!"
 
 msgid "DHSpawnProtectMineVolume.ExitedMinefieldMessage"
-msgstr "You have left enemy territory. Returning again will be considered desertion!"
+msgstr ""
+"You have left enemy territory. Returning again will be considered desertion!"
 
 msgid "DHSpawnProtectMineVolume.UnprotectedVehicleWarning"
 msgstr "This vehicle has been spotted by the enemy!"
@@ -1391,25 +1471,25 @@ msgstr "You have entered an enemy controlled area, fall back!"
 msgid "DHSquadInviteInteraction.PromptText"
 msgstr "{0} has invited you to join {1} squad."
 
-msgid "DHSquadInviteInteraction.Options[0].Text"
+msgid "DHSquadInviteInteraction.Options<0>.Text"
 msgstr "Accept"
 
-msgid "DHSquadInviteInteraction.Options[1].Text"
+msgid "DHSquadInviteInteraction.Options<1>.Text"
 msgstr "Decline"
 
-msgid "DHSquadInviteInteraction.Options[2].Text"
+msgid "DHSquadInviteInteraction.Options<2>.Text"
 msgstr "Ignore All"
 
 msgid "DHSquadLeaderAssistantVolunteerInteraction.PromptText"
 msgstr "{volunteer} has volunteered to be the squad's assistant."
 
-msgid "DHSquadLeaderAssistantVolunteerInteraction.Options[0].Text"
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<0>.Text"
 msgstr "Accept"
 
-msgid "DHSquadLeaderAssistantVolunteerInteraction.Options[1].Text"
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<1>.Text"
 msgstr "Decline"
 
-msgid "DHSquadLeaderAssistantVolunteerInteraction.Options[2].Text"
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<2>.Text"
 msgstr "Ignore All"
 
 msgid "DHSquadLeaderSayDeadMessage.MessagePrefix"
@@ -1421,25 +1501,25 @@ msgstr "[SQUAD LEADER]"
 msgid "DHSquadLeaderVolunteerInteraction.PromptText"
 msgstr "Your squad needs a leader! Volunteer to be squad leader? ({time})"
 
-msgid "DHSquadLeaderVolunteerInteraction.Options[0].Text"
+msgid "DHSquadLeaderVolunteerInteraction.Options<0>.Text"
 msgstr "Volunteer"
 
-msgid "DHSquadLeaderVolunteerInteraction.Options[1].Text"
+msgid "DHSquadLeaderVolunteerInteraction.Options<1>.Text"
 msgstr "Decline"
 
-msgid "DHSquadLeaderVolunteerInteraction.Options[2].Text"
+msgid "DHSquadLeaderVolunteerInteraction.Options<2>.Text"
 msgstr "Ignore All"
 
 msgid "DHSquadMergeRequestInteraction.PromptText"
 msgstr "{0} has offered to merge your squad into {1} squad."
 
-msgid "DHSquadMergeRequestInteraction.Options[0].Text"
+msgid "DHSquadMergeRequestInteraction.Options<0>.Text"
 msgstr "Accept"
 
-msgid "DHSquadMergeRequestInteraction.Options[1].Text"
+msgid "DHSquadMergeRequestInteraction.Options<1>.Text"
 msgstr "Decline"
 
-msgid "DHSquadMergeRequestInteraction.Options[2].Text"
+msgid "DHSquadMergeRequestInteraction.Options<2>.Text"
 msgstr "Ignore All"
 
 msgid "DHSquadMessage.JoinedMessage"
@@ -1488,16 +1568,22 @@ msgid "DHSquadMessage.RallyPointActiveMessage"
 msgstr "Your squad has established a new rally point."
 
 msgid "DHSquadMessage.RallyPointTooCloseMessage"
-msgstr "You cannot create a rally point so close to an existing one, you must be {0} meters further away."
+msgstr ""
+"You cannot create a rally point so close to an existing one, you must be {0}"
+" meters further away."
 
 msgid "DHSquadMessage.RallyPointExhaustedMessage"
 msgstr "A squad rally point has been exhausted."
 
 msgid "DHSquadMessage.RallyPointNeedSquadmateNearby"
-msgstr "You must have at least one other squadmate nearby to create a squad rally point."
+msgstr ""
+"You must have at least one other squadmate nearby to create a squad rally "
+"point."
 
 msgid "DHSquadMessage.RallyPointCreatedMessage"
-msgstr "You have created a squad rally point. Secure the area with your squad to establish this rally point."
+msgstr ""
+"You have created a squad rally point. Secure the area with your squad to "
+"establish this rally point."
 
 msgid "DHSquadMessage.RallyPointOverrunMessage"
 msgstr "A squad rally point has been overrun by enemies."
@@ -1518,7 +1604,8 @@ msgid "DHSquadMessage.RallyPointTooSoon"
 msgstr "You must wait {0} seconds until your squad can create a rally point."
 
 msgid "DHSquadMessage.RallyPointAbandoned"
-msgstr "A squad rally point failed to be established because it was abandoned."
+msgstr ""
+"A squad rally point failed to be established because it was abandoned."
 
 msgid "DHSquadMessage.RallyPointBadLocation"
 msgstr "A squad rally point cannot be created at this location."
@@ -1530,7 +1617,8 @@ msgid "DHSquadMessage.RallyPointAbandonmentWarning"
 msgstr "A newly created squad rally point is being abandoned!"
 
 msgid "DHSquadMessage.RallyPointSwapped"
-msgstr "The squad leader has forcibly changed the currently active rally point."
+msgstr ""
+"The squad leader has forcibly changed the currently active rally point."
 
 msgid "DHSquadMessage.RallyPointTooCloseToConstruction"
 msgstr "You cannot create a squad rally point so close to a {0}."
@@ -1539,7 +1627,8 @@ msgid "DHSquadMessage.RallyPointDestroyed"
 msgstr "A squad rally point has been destroyed."
 
 msgid "DHSquadMessage.RallyPointInUncontrolledObjective"
-msgstr "You cannot create a squad rally point inside an uncontrolled objective."
+msgstr ""
+"You cannot create a squad rally point inside an uncontrolled objective."
 
 msgid "DHSquadMessage.RallyPointExposed"
 msgstr "A squad rally point has been spotted by the enemy!"
@@ -1560,13 +1649,17 @@ msgid "DHSquadMessage.YouLeft"
 msgstr "You have left the squad."
 
 msgid "DHSquadMessage.YouVolunteeredToBeSquadLeader"
-msgstr "You have volunteered to be the squad leader. The new squad leader will be selected shortly."
+msgstr ""
+"You have volunteered to be the squad leader. The new squad leader will be "
+"selected shortly."
 
 msgid "DHSquadMessage.NoVolunteers"
 msgstr "No members volunteered to be squad leader."
 
 msgid "DHSquadMessage.NoVolunteersDisbanded"
-msgstr "Your squad has been disbanded because the squad is too small and no members volunteered to be squad leader."
+msgstr ""
+"Your squad has been disbanded because the squad is too small and no members "
+"volunteered to be squad leader."
 
 msgid "DHSquadMessage.AlreadyInSquad"
 msgstr "You are already in a squad."
@@ -1581,10 +1674,13 @@ msgid "DHSquadMessage.NewAssistantMessage"
 msgstr "{0} has been promoted to squad leader's assistant."
 
 msgid "DHSquadMessage.NotInSquadMessage"
-msgstr "You are not in a squad. Press [%SQUADMENU%] to enter the squad menu or press [%SQUADJOINAUTO%] to automatically join a squad."
+msgstr ""
+"You are not in a squad. Press [%SQUADMENU%] to enter the squad menu or press"
+" [%SQUADJOINAUTO%] to automatically join a squad."
 
 msgid "DHSquadMessage.SquadMergedSourceMessage"
-msgstr "Your squad has been merged into {0} squad. Your new squad leader is {1}."
+msgstr ""
+"Your squad has been merged into {0} squad. Your new squad leader is {1}."
 
 msgid "DHSquadMessage.SquadMergedSourceGenericMessage"
 msgstr "Your squad has been merged into another squad."
@@ -1602,7 +1698,9 @@ msgid "DHSquadMessage.SquadMergeFailedMessage"
 msgstr "The squad merge failed,"
 
 msgid "DHSquadMessage.SquadTargetSelectionRefused"
-msgstr "You are an artillery spotter. You cannot switch the active artillery target to your own marker."
+msgstr ""
+"You are an artillery spotter. You cannot switch the active artillery target "
+"to your own marker."
 
 msgid "DHSquadMessage.SquadPromotionRequestDeniedMessage"
 msgstr "Your squad leader promotion request was denied by {0}."
@@ -1634,37 +1732,38 @@ msgstr "Squad leader has issued a new Attention order"
 msgid "DHSquadPromotionRequestInteraction.PromptText"
 msgstr "{0} wants to promote you to leader of {1} squad."
 
-msgid "DHSquadPromotionRequestInteraction.Options[0].Text"
+msgid "DHSquadPromotionRequestInteraction.Options<0>.Text"
 msgstr "Accept"
 
-msgid "DHSquadPromotionRequestInteraction.Options[1].Text"
+msgid "DHSquadPromotionRequestInteraction.Options<1>.Text"
 msgstr "Decline"
 
-msgid "DHSquadPromotionRequestInteraction.Options[2].Text"
+msgid "DHSquadPromotionRequestInteraction.Options<2>.Text"
 msgstr "Ignore All"
 
-msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings[0]"
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<0>"
 msgstr "Please wait a short time before sending another squad merge request."
 
-msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings[1]"
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<1>"
 msgstr "An error occurred while sending the squad merge request."
 
-msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings[2]"
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<2>"
 msgstr "A merge request cannot be sent to this squad."
 
-msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings[3]"
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<3>"
 msgstr "There is already an existing merge request for this squad."
 
-msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings[4]"
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<4>"
 msgstr "Squad merge request has been sent."
 
-msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings[0]"
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<0>"
 msgstr "An error occurred while sending the squad merge request."
 
-msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings[1]"
-msgstr "There is already an existing squad leader promotion request for this player."
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<1>"
+msgstr ""
+"There is already an existing squad leader promotion request for this player."
 
-msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings[2]"
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<2>"
 msgstr "Squad leader promotion request has been sent."
 
 msgid "DHSquadSayMessage.MessagePrefix"
@@ -1695,18 +1794,18 @@ msgid "DHSupplyMessage.SupplyCacheFallbackName"
 msgstr "supply cache"
 
 msgid "DHSupplyVehicleMessage.Controls[0].Text"
-msgstr "Load Supplies"
+msgstr "Load Supplies WACKY VERSION"
 
 msgid "DHSupplyVehicleMessage.Controls[1].Text"
-msgstr "Unload Supplies"
+msgstr "Unload Supplies FUN VERSION"
 
 msgid "DHTeamKillInteraction.PromptText"
 msgstr "{0} has team-killed you!"
 
-msgid "DHTeamKillInteraction.Options[0].Text"
+msgid "DHTeamKillInteraction.Options<0>.Text"
 msgstr "Forgive"
 
-msgid "DHTeamKillInteraction.Options[1].Text"
+msgid "DHTeamKillInteraction.Options<1>.Text"
 msgstr "Punish"
 
 msgid "DHTeamSayMessage.MessagePrefix"
@@ -1748,10 +1847,10 @@ msgstr "%o burned up in a vehicle fire."
 msgid "DHVehicleBurningDamageType.MaleSuicide"
 msgstr "%o burned up in a vehicle fire."
 
-msgid "DHVehicleCannon.ProjectileDescriptions[0]"
+msgid "DHVehicleCannon.ProjectileDescriptions<0>"
 msgstr "APCBC"
 
-msgid "DHVehicleCannon.ProjectileDescriptions[1]"
+msgid "DHVehicleCannon.ProjectileDescriptions<1>"
 msgstr "HE"
 
 msgid "DHVehicleCannonPawn.RangeText"
@@ -1862,85 +1961,85 @@ msgstr "Pioneer"
 msgid "DHVoiceReplicationInfo.LocalChannelText"
 msgstr "Local"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[0]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<0>"
 msgstr "Command"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[1]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<1>"
 msgstr "Command"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[2]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<2>"
 msgstr "Unassigned"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[3]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<3>"
 msgstr "Unassigned"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[4]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<4>"
 msgstr "Squad"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[5]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<5>"
 msgstr "Squad"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[6]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<6>"
 msgstr "Squad"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[7]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<7>"
 msgstr "Squad"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[8]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<8>"
 msgstr "Squad"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[9]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<9>"
 msgstr "Squad"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[10]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<10>"
 msgstr "Squad"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[11]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<11>"
 msgstr "Squad"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[12]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<12>"
 msgstr "Squad"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[13]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<13>"
 msgstr "Squad"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[14]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<14>"
 msgstr "Squad"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[15]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<15>"
 msgstr "Squad"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[16]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<16>"
 msgstr "Squad"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[17]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<17>"
 msgstr "Squad"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[18]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<18>"
 msgstr "Squad"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[19]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<19>"
 msgstr "Squad"
 
-msgid "DHVoiceReplicationInfo.InstalledCodec[0].CodecName"
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecName"
 msgstr "Better Quality"
 
-msgid "DHVoiceReplicationInfo.InstalledCodec[0].CodecName.CodecDescription"
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecName.CodecDescription"
 msgstr "(9.6kbps) - Uses more bandwidth, but sound is much clearer."
 
-msgid "DHVoiceReplicationInfo.InstalledCodec[1].CodecName"
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecName"
 msgstr "Better Quality"
 
-msgid "DHVoiceReplicationInfo.InstalledCodec[1].CodecName.CodecDescription"
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecName.CodecDescription"
 msgstr "(9.6kbps) - Uses more bandwidth, but sound is much clearer."
 
 msgid "DHVoiceSayMessage.MessagePrefix"
 msgstr "[VOICE]"
 
-msgid "DHVoteInfo.Options[0].Text"
+msgid "DHVoteInfo.Options<0>.Text"
 msgstr "Yes"
 
-msgid "DHVoteInfo.Options[1].Text"
+msgid "DHVoteInfo.Options<1>.Text"
 msgstr "No"
 
 msgid "DHVoteInfo_TeamSurrender.QuestionText"
@@ -2021,69 +2120,102 @@ msgstr "changed"
 msgid "DH_ModifyRoundTimeMessage.RoundTimeModifiedText"
 msgstr "Time remaining has been {0}."
 
-msgid "DarkestHourGame.ROHints[0]"
-msgstr "You can see a map of the objectives that need to be captured or defended by pressing %SHOWOBJECTIVES%."
+msgid "DarkestHourGame.ROHints<0>"
+msgstr ""
+"You can see a map of the objectives that need to be captured or defended by "
+"pressing %SHOWOBJECTIVES%."
 
-msgid "DarkestHourGame.ROHints[1]"
-msgstr "You can 'cook' a Mk II grenade by pressing %FIRE3% while holding the grenade back."
+msgid "DarkestHourGame.ROHints<1>"
+msgstr ""
+"You can 'cook' a Mk II grenade by pressing %FIRE3% while holding the grenade"
+" back."
 
-msgid "DarkestHourGame.ROHints[2]"
-msgstr "To capture an objective, you must first enter the objective area. You'll likely need more than one additional teammate to initiate and complete the capture."
+msgid "DarkestHourGame.ROHints<2>"
+msgstr ""
+"To capture an objective, you must first enter the objective area. You'll "
+"likely need more than one additional teammate to initiate and complete the "
+"capture."
 
-msgid "DarkestHourGame.ROHints[3]"
-msgstr "Press %PLAYERMENU 2% to change your player role while in-game, %PLAYERMENU% to change your team."
+msgid "DarkestHourGame.ROHints<3>"
+msgstr ""
+"Press %PLAYERMENU 2% to change your player role while in-game, %PLAYERMENU% "
+"to change your team."
 
-msgid "DarkestHourGame.ROHints[4]"
-msgstr "To aim down the sights of your weapon and thus have better precision and accuracy, press the %ROIRONSIGHTS% key."
+msgid "DarkestHourGame.ROHints<4>"
+msgstr ""
+"To aim down the sights of your weapon and thus have better precision and "
+"accuracy, press the %ROIRONSIGHTS% key."
 
-msgid "DarkestHourGame.ROHints[5]"
+msgid "DarkestHourGame.ROHints<5>"
 msgstr "You receive 10 points for helping to capture an objective."
 
-msgid "DarkestHourGame.ROHints[6]"
-msgstr "Crouching and going prone stabilizes your weapon and lowers recoil when firing."
+msgid "DarkestHourGame.ROHints<6>"
+msgstr ""
+"Crouching and going prone stabilizes your weapon and lowers recoil when "
+"firing."
 
-msgid "DarkestHourGame.ROHints[7]"
+msgid "DarkestHourGame.ROHints<7>"
 msgstr "To regenerate stamina, stop and rest for a bit."
 
-msgid "DarkestHourGame.ROHints[8]"
-msgstr "You can deploy a Machine Gun on almost any object - press %DEPLOY% when you see the deployment icon appear to deploy it."
+msgid "DarkestHourGame.ROHints<8>"
+msgstr ""
+"You can deploy a Machine Gun on almost any object - press %DEPLOY% when you "
+"see the deployment icon appear to deploy it."
 
-msgid "DarkestHourGame.ROHints[9]"
-msgstr "When reloading, 'Magazine Heavy' indicates that the magazine you're loading into your weapon is more than half full of ammunition."
+msgid "DarkestHourGame.ROHints<9>"
+msgstr ""
+"When reloading, 'Magazine Heavy' indicates that the magazine you're loading "
+"into your weapon is more than half full of ammunition."
 
-msgid "DarkestHourGame.ROHints[10]"
+msgid "DarkestHourGame.ROHints<10>"
 msgstr "You can reload your Machine Gun only when in the deployed state."
 
-msgid "DarkestHourGame.ROHints[11]"
-msgstr "Players receive 1 point for resupplying Machine Gunners who need ammo."
+msgid "DarkestHourGame.ROHints<11>"
+msgstr ""
+"Players receive 1 point for resupplying Machine Gunners who need ammo."
 
-msgid "DarkestHourGame.ROHints[12]"
-msgstr "The Machine Gun is more effective when fired in short, controllable bursts."
+msgid "DarkestHourGame.ROHints<12>"
+msgstr ""
+"The Machine Gun is more effective when fired in short, controllable bursts."
 
-msgid "DarkestHourGame.ROHints[13]"
+msgid "DarkestHourGame.ROHints<13>"
 msgstr "You cannot change the 30 Cal barrel, be careful not to overheat!"
 
-msgid "DarkestHourGame.ROHints[14]"
-msgstr "When taking an objective, the presence of an officer boosts moral and makes your task easier!"
+msgid "DarkestHourGame.ROHints<14>"
+msgstr ""
+"When taking an objective, the presence of an officer boosts moral and makes "
+"your task easier!"
 
-msgid "DarkestHourGame.ROHints[15]"
-msgstr "Machine Gunners should never setup alone, find a comrade to watch your back."
+msgid "DarkestHourGame.ROHints<15>"
+msgstr ""
+"Machine Gunners should never setup alone, find a comrade to watch your back."
 
-msgid "DarkestHourGame.ROHints[16]"
-msgstr "Machine Gunners have a limited field of vision while deployed, so try attacking them from the side."
+msgid "DarkestHourGame.ROHints<16>"
+msgstr ""
+"Machine Gunners have a limited field of vision while deployed, so try "
+"attacking them from the side."
 
-msgid "DarkestHourGame.ROHints[17]"
-msgstr "Once you've fired the Bazooka or Panzerschreck get to fresh cover FAST, as the smoke of your backblast will reveal your location. Return fire will almost certainly follow!"
+msgid "DarkestHourGame.ROHints<17>"
+msgstr ""
+"Once you've fired the Bazooka or Panzerschreck get to fresh cover FAST, as "
+"the smoke of your backblast will reveal your location. Return fire will "
+"almost certainly follow!"
 
-msgid "DarkestHourGame.ROHints[18]"
-msgstr "Do not stand directly behind rocket weapons when they're firing; you can sustain serious injury from the exhaust!"
+msgid "DarkestHourGame.ROHints<18>"
+msgstr ""
+"Do not stand directly behind rocket weapons when they're firing; you can "
+"sustain serious injury from the exhaust!"
 
-msgid "DarkestHourGame.ROHints[19]"
-msgstr "AT soldiers should always take a friend with them for ammo supplies, faster reloads and protection."
+msgid "DarkestHourGame.ROHints<19>"
+msgstr ""
+"AT soldiers should always take a friend with them for ammo supplies, faster "
+"reloads and protection."
 
-msgid "DarkestHourGame.ROHints[20]"
-msgstr "AT weapons will be automatically unloaded if you change to another weapon. It is a good idea to stick with a teammate to speed up reloading when needed."
+msgid "DarkestHourGame.ROHints<20>"
+msgstr ""
+"AT weapons will be automatically unloaded if you change to another weapon. "
+"It is a good idea to stick with a teammate to speed up reloading when "
+"needed."
 
 msgid "DarkestHourGame.GameName"
 msgstr "DarkestHourGame"
-

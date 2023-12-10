@@ -1,9 +1,9 @@
+#
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-08 01:14+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
-"Language-Team: French <https://weblate.darklightgames.com/projects/"
-"darkesthour/dh_equipment/fr/>\n"
+"Language-Team: French <https://weblate.darklightgames.com/projects/darkesthour/dh_equipment/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

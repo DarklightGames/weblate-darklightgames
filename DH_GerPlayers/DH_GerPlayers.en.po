@@ -1,9 +1,10 @@
+#
 msgid ""
 msgstr ""
-"Language: en"
-"MIME-Version: 1.0"
-"Content-Type: text/plain"
-"Content-Transfer-Encoding: 8bit"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain\n"
+"Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
 
 msgid "DHGerVoice.SupportStringAxis[5]"
 msgstr "We need a Panzerschreck!"
@@ -115,4 +116,3 @@ msgstr "Zombie Leader"
 
 msgid "DH_ZLeader.AltName"
 msgstr "Zombie Leader"
-

@@ -1,9 +1,9 @@
+#
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-08 01:15+0000\n"
 "Last-Translator: Argilas <argilas@hotmail.com>\n"
-"Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
-"darkesthour/dh_engine/es/>\n"
+"Language-Team: Spanish <https://weblate.darklightgames.com/projects/darkesthour/dh_engine/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -255,8 +255,8 @@ msgstr "Granadas de humo coloreado"
 msgid "DHHintManager.Hints[3].Text"
 msgstr ""
 "Las granadas de humo coloreado se utilizan para comunicarte en el campo de "
-"batalla con tus compañeros de equipo. Asegúrate de decir a tus compañeros de "
-"equipo lo que indica el color de humo."
+"batalla con tus compañeros de equipo. Asegúrate de decir a tus compañeros de"
+" equipo lo que indica el color de humo."
 
 msgid "DHHintManager.Hints[6].Title"
 msgstr "Morteros"
@@ -293,22 +293,22 @@ msgstr "Estás abandonando tu escuadrón."
 msgid "DHIQMessage.NotInSquadMessage"
 msgstr "No estás en un escuadrón."
 
-msgid "DHIQMessage.Congratulations[0]"
+msgid "DHIQMessage.Congratulations<0>"
 msgstr "¡Guau! ¡Qué inteligente!"
 
-msgid "DHIQMessage.Congratulations[1]"
+msgid "DHIQMessage.Congratulations<1>"
 msgstr "¡Asombroso!"
 
-msgid "DHIQMessage.Congratulations[2]"
+msgid "DHIQMessage.Congratulations<2>"
 msgstr "¡Eres un genio táctico!"
 
-msgid "DHIQMessage.Congratulations[3]"
+msgid "DHIQMessage.Congratulations<3>"
 msgstr "¡Bien hecho!"
 
-msgid "DHIQMessage.Congratulations[6]"
+msgid "DHIQMessage.Congratulations<6>"
 msgstr "¡Brillante!"
 
-msgid "DHIQMessage.Congratulations[7]"
+msgid "DHIQMessage.Congratulations<7>"
 msgstr "¡Eres el más listo!"
 
 msgid "DHInventorySpawner.ContainerNoun"
@@ -359,10 +359,10 @@ msgstr "neutralizado"
 msgid "DHObjectiveMessage.NotificationTypes[2]"
 msgstr "asegurado"
 
-msgid "DHPawnTouchMessage.Messages[0]"
+msgid "DHPawnTouchMessage.Messages<0>"
 msgstr "Pulsa [%THROWMGAMMO%] para reabastecer {0}"
 
-msgid "DHPawnTouchMessage.Messages[1]"
+msgid "DHPawnTouchMessage.Messages<1>"
 msgstr "Pulsa [%THROWMGAMMO%] para recargar {0}"
 
 msgid "DHRadioTouchMessage.NotOwnedMessage"
@@ -428,33 +428,33 @@ msgstr "¡Este vehículo ha sido visto por el enemigo!"
 msgid "DHSpawnProtectMineVolume.WarningMessage"
 msgstr "¡Has entrado en una zona controlada por el enemigo, retrocede!"
 
-msgid "DHSquadInviteInteraction.Options[1].Text"
+msgid "DHSquadInviteInteraction.Options<1>.Text"
 msgstr "Declina"
 
-msgid "DHSquadInviteInteraction.Options[2].Text"
+msgid "DHSquadInviteInteraction.Options<2>.Text"
 msgstr "Haz caso omiso a todo"
 
 msgid "DHSquadMessage.KickedMessage"
 msgstr "Has sido expulsado del escuadrón."
 
-msgid "DHVoiceReplicationInfo.InstalledCodec[0].CodecName"
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecName"
 msgstr "Mejor Calidad"
 
-msgid "DHVoiceReplicationInfo.InstalledCodec[0].CodecName.CodecDescription"
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecName.CodecDescription"
 msgstr ""
 "(9,6kbps) - Utiliza más ancho de banda, pero el sonido es mucho más claro."
 
-msgid "DHVoiceReplicationInfo.InstalledCodec[1].CodecName"
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecName"
 msgstr "Mejor Calidad"
 
-msgid "DHVoiceReplicationInfo.InstalledCodec[1].CodecName.CodecDescription"
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecName.CodecDescription"
 msgstr ""
 "(9,6kbps) - Utiliza más ancho de banda, pero el sonido es mucho más claro."
 
-msgid "DHVoteInfo.Options[0].Text"
+msgid "DHVoteInfo.Options<0>.Text"
 msgstr "Sí"
 
-msgid "DHVoteInfo.Options[1].Text"
+msgid "DHVoteInfo.Options<1>.Text"
 msgstr "No"
 
 msgid "DHVoteInfo_TeamSurrender.QuestionText"
@@ -478,41 +478,41 @@ msgstr "¡Tus armas han sido bloqueadas debido a fuego amigo!"
 msgid "DHWeaponsLockedMessage.UnlockedMessage"
 msgstr "Tus armas han sido desbloqueadas ahora"
 
-msgid "DarkestHourGame.ROHints[2]"
+msgid "DarkestHourGame.ROHints<2>"
 msgstr ""
 "Para capturar un objetivo, primero debes entrar en la zona del objetivo. Es "
 "probable que necesites más de un compañero de equipo adicional para iniciar "
 "y completar la captura."
 
-msgid "DarkestHourGame.ROHints[5]"
+msgid "DarkestHourGame.ROHints<5>"
 msgstr "Recibes 10 puntos por ayudar a capturar un objetivo."
 
-msgid "DarkestHourGame.ROHints[11]"
+msgid "DarkestHourGame.ROHints<11>"
 msgstr ""
 "Los jugadores reciben 1 punto por reabastecer a los ametralladores que "
 "necesitan munición."
 
-msgid "DarkestHourGame.ROHints[14]"
+msgid "DarkestHourGame.ROHints<14>"
 msgstr ""
 "¡Al tomar un objetivo, la presencia de un oficial aumenta la moral y "
 "facilita la tarea!"
 
-msgid "DarkestHourGame.ROHints[15]"
+msgid "DarkestHourGame.ROHints<15>"
 msgstr ""
 "Los ametralladores nunca deben situarse solos, busca un camarada que te "
 "cubra las espaldas."
 
-msgid "DarkestHourGame.ROHints[16]"
+msgid "DarkestHourGame.ROHints<16>"
 msgstr ""
 "Los ametralladores tienen un campo de visión limitado mientras están "
 "desplegados, así que intenta atacarlos por los lados."
 
-msgid "DarkestHourGame.ROHints[18]"
+msgid "DarkestHourGame.ROHints<18>"
 msgstr ""
 "¡No permanezcas directamente detrás de los lanzacohetes cuando estén "
 "disparando, puedes sufrir graves heridas por los gases de escape!"
 
-msgid "DarkestHourGame.ROHints[19]"
+msgid "DarkestHourGame.ROHints<19>"
 msgstr ""
 "Los soldados AT deberían llevar siempre consigo a un amigo para abastecerse "
 "de munición, recargar más rápido y protegerse."
@@ -557,18 +557,18 @@ msgstr "No estás cualificado para usar esta radio"
 msgid "DHLastObjectiveMessage.AxisAboutToWinMessage"
 msgstr "Último objetivo -- ¡El Eje casi ha ganado la batalla!"
 
-msgid "DHPawnTouchMessage.Messages[2]"
+msgid "DHPawnTouchMessage.Messages<2>"
 msgstr "Pulsa [%THROWMGAMMO%] para reabastecer y recargar {0}"
 
 msgid "DHReinforcementAwardMsg.ReinforcementAward"
 msgstr "¡Tu equipo ha sido premiado con {0} refuerzos por capturar {1}!"
 
-msgid "DarkestHourGame.ROHints[12]"
+msgid "DarkestHourGame.ROHints<12>"
 msgstr ""
 "La ametralladora es más eficaz cuando se dispara en ráfagas cortas y "
 "controlables."
 
-msgid "DarkestHourGame.ROHints[20]"
+msgid "DarkestHourGame.ROHints<20>"
 msgstr ""
 "Las armas AT se descargarán automáticamente si cambias a otra arma. Es una "
 "buena idea pegarse a un compañero de equipo para acelerar la recarga cuando "

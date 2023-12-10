@@ -1,9 +1,10 @@
+#
 msgid ""
 msgstr ""
-"Language: en"
-"MIME-Version: 1.0"
-"Content-Type: text/plain"
-"Content-Transfer-Encoding: 8bit"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain\n"
+"Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
 
 msgid "DHITAAntiTankRoles.AltName"
 msgstr "Anticarro Fuciliere"
@@ -34,4 +35,3 @@ msgstr "Kingdom of Italy"
 
 msgid "DHNation_Italy.NativeNationName"
 msgstr "Regno d'Italia"
-

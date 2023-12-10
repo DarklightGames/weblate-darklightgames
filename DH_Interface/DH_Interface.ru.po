@@ -1,15 +1,14 @@
+#
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-10 13:42+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
-"Language-Team: Russian <https://weblate.darklightgames.com/projects/"
-"darkesthour/dh_interface/ru/>\n"
+"Language-Team: Russian <https://weblate.darklightgames.com/projects/darkesthour/dh_interface/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.2.1\n"
 
 msgid "DHBrowser_Footer.BrowserMain.Caption"
@@ -36,88 +35,88 @@ msgstr "Введите новый IP-адрес"
 msgid "DHBrowser_OpenIP.IpEntryBox.Caption"
 msgstr "IP Адрес: "
 
-msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[0]"
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<0>"
 msgstr "Присоединиться к серверу"
 
-msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[1]"
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<1>"
 msgstr "Присоединиться как зритель"
 
-msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[2]"
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<2>"
 msgstr "-"
 
-msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[4]"
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<4>"
 msgstr "Обновить список"
 
-msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[5]"
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<5>"
 msgstr "-"
 
-msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[6]"
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<6>"
 msgstr "Настройка фильтров"
 
-msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[7]"
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<7>"
 msgstr "Создать шаблон"
 
-msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[8]"
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<8>"
 msgstr "Отключить все фильтры"
 
-msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[9]"
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<9>"
 msgstr "-"
 
-msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[10]"
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<10>"
 msgstr "Добавить в избранное"
 
-msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[12]"
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<12>"
 msgstr "Открыть IP"
 
-msgid "DHBrowser_ServersList.ColumnHeadings[1]"
+msgid "DHBrowser_ServersList.ColumnHeadings<1>"
 msgstr "Имя сервера"
 
-msgid "DHBrowser_ServersList.ColumnHeadings[2]"
+msgid "DHBrowser_ServersList.ColumnHeadings<2>"
 msgstr "Состояние"
 
-msgid "DHBrowser_ServersList.ColumnHeadings[3]"
+msgid "DHBrowser_ServersList.ColumnHeadings<3>"
 msgstr "Расположение"
 
-msgid "DHBrowser_ServersList.ColumnHeadings[4]"
+msgid "DHBrowser_ServersList.ColumnHeadings<4>"
 msgstr "Версия"
 
-msgid "DHBrowser_ServersList.ColumnHeadings[5]"
+msgid "DHBrowser_ServersList.ColumnHeadings<5>"
 msgstr "Карта"
 
-msgid "DHBrowser_ServersList.ColumnHeadings[6]"
+msgid "DHBrowser_ServersList.ColumnHeadings<6>"
 msgstr "Игроки"
 
-msgid "DHBrowser_ServersList.ColumnHeadings[7]"
+msgid "DHBrowser_ServersList.ColumnHeadings<7>"
 msgstr "Пинг"
 
-msgid "DHCommunicationPage.Panels[0].Caption"
+msgid "DHCommunicationPage.Panels<0>.Caption"
 msgstr "Коммуникация"
 
 msgid "DHContextMenu_SquadMembers.AdminPrefixText"
 msgstr "Администратор:"
 
-msgid "DHContextMenu_SquadMembers.EntryTexts[1]"
+msgid "DHContextMenu_SquadMembers.EntryTexts<1>"
 msgstr "Пригласить {0}"
 
-msgid "DHContextMenu_SquadMembers.EntryTexts[3]"
+msgid "DHContextMenu_SquadMembers.EntryTexts<3>"
 msgstr "Заблокировать {0}"
 
-msgid "DHContextMenu_SquadMembers.EntryTexts[4]"
+msgid "DHContextMenu_SquadMembers.EntryTexts<4>"
 msgstr "Повысить {0} до лидера отряда"
 
-msgid "DHContextMenu_SquadMembers.EntryTexts[6]"
+msgid "DHContextMenu_SquadMembers.EntryTexts<6>"
 msgstr "Отменить назначение {0} в качестве помощника"
 
-msgid "DHContextMenu_SquadMembers.EntryTexts[7]"
+msgid "DHContextMenu_SquadMembers.EntryTexts<7>"
 msgstr "Стать помощником отряда"
 
-msgid "DHContextMenu_SquadMembers.EntryTexts[8]"
+msgid "DHContextMenu_SquadMembers.EntryTexts<8>"
 msgstr "Просьба объединить отряды"
 
-msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[11]"
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<11>"
 msgstr "Копировать адрес сервера"
 
-msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[3]"
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<3>"
 msgstr "Обновить информацию об сервере"
 
 msgid "DHBrowser_Footer.BrowserJoin.Caption"
@@ -129,16 +128,16 @@ msgstr "Наблюдать"
 msgid "DHBrowser_OpenIP.OkButton.Caption"
 msgstr "Хорошо"
 
-msgid "DHCommunicationPage.Panels[0].Caption.Hint"
+msgid "DHCommunicationPage.Panels<0>.Caption.Hint"
 msgstr "Управляйте общением с другими игроками"
 
-msgid "DHContextMenu_SquadMembers.EntryTexts[2]"
+msgid "DHContextMenu_SquadMembers.EntryTexts<2>"
 msgstr "Выгнать {0}"
 
-msgid "DHContextMenu_SquadMembers.EntryTexts[5]"
+msgid "DHContextMenu_SquadMembers.EntryTexts<5>"
 msgstr "Назначить {0} помощником"
 
-msgid "DHContextMenu_SquadMembers.EntryTexts[9]"
+msgid "DHContextMenu_SquadMembers.EntryTexts<9>"
 msgstr "{1} Парашют {0} к командиру отделения"
 
 msgid "DHDeployMenu.ChangeTeamConfirmText"
@@ -159,16 +158,16 @@ msgstr ""
 msgid "DHDeployMenu.AxisButtonObject.Hint"
 msgstr "Присоединиться к Войскам Оси"
 
-msgid "DHDeployMenu.SurrenderResponseMessages[5]"
+msgid "DHDeployMenu.SurrenderResponseMessages<5>"
 msgstr "Вы уже отступили."
 
 msgid "DHDeployMenu.SurrenderConfirmEndRoundText"
 msgstr "Это немедленно завершит раунд в пользу противоположной команды."
 
-msgid "DHDeployMenu.SurrenderResponseMessages[3]"
+msgid "DHDeployMenu.SurrenderResponseMessages<3>"
 msgstr "Голосование за отступление отключено."
 
-msgid "DHDeployMenu.SurrenderResponseMessages[7]"
+msgid "DHDeployMenu.SurrenderResponseMessages<7>"
 msgstr "Вы не можете отступить после окончания раунда."
 
 msgid "DHDeployMenu.SupplyVehicleImageObject.Hint"
@@ -212,7 +211,7 @@ msgstr ""
 "многопользовательскую игру и, как следствие, НЕ включает поддержку ботов в "
 "режиме одиночной игры."
 
-msgid "DHMapVoteMultiColumnList.ColumnHeadingHints[0]"
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<0>"
 msgstr "Название карты."
 
 msgid "DHMaplistEditor.NewMaplistButton.Caption"
@@ -236,13 +235,13 @@ msgstr ""
 "привязки элементов управления могли быть изменены.||Хотите просмотреть "
 "настройки вашего элемента управления?"
 
-msgid "DHMapVoteMultiColumnList.ColumnHeadings[3]"
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<3>"
 msgstr "Размер карты"
 
 msgid "DHMainMenu.SteamCommunityButton.Hint"
 msgstr "Присоединяйтесь к сообществу Steam!"
 
-msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints[1]"
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<1>"
 msgstr "Суммарное количество голосов игроков за карту."
 
 msgid "DHMutatorConfigMenu.AdvancedButton.Caption"
@@ -261,12 +260,12 @@ msgstr ""
 "Вас исключили до конца текущего уровня.||Если администратор не наказал вас, "
 "это наказание по умолчанию за командное убийство, поэтому не делайте этого."
 
-msgid "DHServerBrowser.PanelHint[1]"
+msgid "DHServerBrowser.PanelHint<1>"
 msgstr ""
 "Просмотрите все серверы DH, работающие в настоящее время в вашей локальной "
 "сети"
 
-msgid "DHServerBrowser.PanelHint[4]"
+msgid "DHServerBrowser.PanelHint<4>"
 msgstr "Выбирайте из сотен RO-серверов по всему миру"
 
 msgid "DHServerBrowser.BetaMessageText"
@@ -276,10 +275,10 @@ msgstr ""
 "обсуждать игру, вносить предложения или сообщать об ошибках! Увидимся на "
 "поле боя!"
 
-msgid "DHSettingsPage.PanelHint[0]"
+msgid "DHSettingsPage.PanelHint<0>"
 msgstr "Настройте параметры игры и сети..."
 
-msgid "DHSettingsPage.PanelCaption[2]"
+msgid "DHSettingsPage.PanelCaption<2>"
 msgstr "Аудио"
 
 msgid "DHTab_Controls.captions_comm[7]"
@@ -288,7 +287,7 @@ msgstr "Переключиться на командный голосовой к
 msgid "DHTab_Controls.captions_game[7]"
 msgstr "Автоматическое присоединение к отряду"
 
-msgid "DHSettingsPage.PanelHint[3]"
+msgid "DHSettingsPage.PanelHint<3>"
 msgstr "Настройте элементы управления клавиатурой и мышью..."
 
 msgid "DHSettings_Footer.BackB.Caption"
@@ -331,25 +330,25 @@ msgstr "Уменьшите громкость игры при использов
 msgid "DHTab_Controls.captions_comm[4]"
 msgstr "Меню голосовых команд"
 
-msgid "DHContextMenu_SquadMembers.EntryTexts[0]"
+msgid "DHContextMenu_SquadMembers.EntryTexts<0>"
 msgstr "-"
 
-msgid "DHContextMenu_SquadMembers.EntryTexts[10]"
+msgid "DHContextMenu_SquadMembers.EntryTexts<10>"
 msgstr "{1} Парашют {0} к маркеру"
 
-msgid "DHContextMenu_SquadMembers.EntryTexts[11]"
+msgid "DHContextMenu_SquadMembers.EntryTexts<11>"
 msgstr "{1} парашютировать командира отделения"
 
-msgid "DHContextMenu_SquadMembers.EntryTexts[12]"
+msgid "DHContextMenu_SquadMembers.EntryTexts<12>"
 msgstr "{1} Парашютировать отряд к маркеру"
 
-msgid "DHContextMenu_SquadMembers.EntryTexts[13]"
+msgid "DHContextMenu_SquadMembers.EntryTexts<13>"
 msgstr "{1} Парашютирование неназначенных игроков к маркеру"
 
-msgid "DHContextMenu_SquadMembers.EntryTexts[14]"
+msgid "DHContextMenu_SquadMembers.EntryTexts<14>"
 msgstr "{1} Повышен {0} до лидера отряда"
 
-msgid "DHContextMenu_SquadMembers.EntryTexts[15]"
+msgid "DHContextMenu_SquadMembers.EntryTexts<15>"
 msgstr "{1} Исключить {0} из отряда"
 
 msgid "DHCreditsPage.WindowName"
@@ -412,8 +411,8 @@ msgstr "Вы уверены, что хотите сдаться?"
 
 msgid "DHDeployMenu.SurrenderConfirmNominationText"
 msgstr ""
-"Это действие приведет к голосованию всей команды. Голосование начнется после "
-"того, как {0}% команды решат отступить."
+"Это действие приведет к голосованию всей команды. Голосование начнется после"
+" того, как {0}% команды решат отступить."
 
 msgid "DHDeployMenu.SurrenderButtonText[0]"
 msgstr "Отступить"
@@ -421,25 +420,26 @@ msgstr "Отступить"
 msgid "DHDeployMenu.SurrenderButtonText[1]"
 msgstr "Продолжить сражаться"
 
-msgid "DHDeployMenu.SurrenderResponseMessages[1]"
+msgid "DHDeployMenu.SurrenderResponseMessages<1>"
 msgstr "Вы не выбрали команду."
 
-msgid "DHDeployMenu.SurrenderResponseMessages[0]"
+msgid "DHDeployMenu.SurrenderResponseMessages<0>"
 msgstr "Ошибка!"
 
-msgid "DHDeployMenu.SurrenderResponseMessages[2]"
+msgid "DHDeployMenu.SurrenderResponseMessages<2>"
 msgstr "Раунд еще не начался."
 
-msgid "DHDeployMenu.SurrenderResponseMessages[4]"
+msgid "DHDeployMenu.SurrenderResponseMessages<4>"
 msgstr "Голосование уже идет."
 
-msgid "DHDeployMenu.SurrenderResponseMessages[6]"
-msgstr "Ранее ваша команда уже проголосовала за отступление. Попробуйте позже."
+msgid "DHDeployMenu.SurrenderResponseMessages<6>"
+msgstr ""
+"Ранее ваша команда уже проголосовала за отступление. Попробуйте позже."
 
-msgid "DHDeployMenu.SurrenderResponseMessages[9]"
+msgid "DHDeployMenu.SurrenderResponseMessages<9>"
 msgstr "Вы не можете отступить так рано."
 
-msgid "DHDeployMenu.SurrenderResponseMessages[10]"
+msgid "DHDeployMenu.SurrenderResponseMessages<10>"
 msgstr "Вы не можете отступить на этапе настройки."
 
 msgid "DHDeployMenu.AlliesButtonObject.Hint"
@@ -640,10 +640,10 @@ msgstr "Хорошо"
 msgid "DHLearnToPlayFooter.GameBackButton.Caption"
 msgstr "Назад"
 
-msgid "DHLearnToPlayPage.PanelCaption[0]"
+msgid "DHLearnToPlayPage.PanelCaption<0>"
 msgstr "Видео-Обучение"
 
-msgid "DHLearnToPlayPage.PanelHint[0]"
+msgid "DHLearnToPlayPage.PanelHint<0>"
 msgstr "Узнайте об игре, посмотрев видео"
 
 msgid "DHMOTDConfigPage.LockedCancelButton.Caption"
@@ -693,37 +693,37 @@ msgstr "Серверы"
 msgid "DHMainMenu.SettingsButton.Caption"
 msgstr "Настройки"
 
-msgid "DHMapVoteCountMultiColumnList.ColumnHeadings[0]"
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<0>"
 msgstr "Номинированные карты"
 
-msgid "DHMapVoteCountMultiColumnList.ColumnHeadings[1]"
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<1>"
 msgstr "Вес голоса"
 
-msgid "DHMapVoteCountMultiColumnList.ColumnHeadings[2]"
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<2>"
 msgstr "Размер карты"
 
-msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints[0]"
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<0>"
 msgstr "Название карты."
 
-msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints[2]"
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<2>"
 msgstr "Рекомендованно игроков для этой карты."
 
-msgid "DHMapVoteMultiColumnList.ColumnHeadings[0]"
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<0>"
 msgstr "Название карты"
 
-msgid "DHMapVoteMultiColumnList.ColumnHeadings[1]"
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<1>"
 msgstr "Союзная нация"
 
-msgid "DHMapVoteMultiColumnList.ColumnHeadings[2]"
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<2>"
 msgstr "Тип игры"
 
-msgid "DHMapVoteMultiColumnList.ColumnHeadingHints[1]"
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<1>"
 msgstr "Страна Союзников на карте."
 
-msgid "DHMapVoteMultiColumnList.ColumnHeadingHints[2]"
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<2>"
 msgstr "Что за игра или битва на карте."
 
-msgid "DHMapVoteMultiColumnList.ColumnHeadingHints[3]"
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<3>"
 msgstr "Рекомендованно игроков для этой карты."
 
 msgid "DHMapVotingPage.lmsgMode[0]"
@@ -807,54 +807,54 @@ msgstr "Тикрейт: "
 msgid "DHScoreBoard.NetHealthText"
 msgstr "Потери: "
 
-msgid "DHScoreBoard.ScoreboardColumns[0].Title"
+msgid "DHScoreBoard.ScoreboardColumns<0>.Title"
 msgstr "#"
 
-msgid "DHScoreBoard.ScoreboardColumns[3].Title"
+msgid "DHScoreBoard.ScoreboardColumns<3>.Title"
 msgstr "Роль"
 
-msgid "DHScoreBoard.ScoreboardColumns[6].Title"
+msgid "DHScoreBoard.ScoreboardColumns<6>.Title"
 msgstr "У"
 
-msgid "DHScoreBoard.ScoreboardColumns[7].Title"
+msgid "DHScoreBoard.ScoreboardColumns<7>.Title"
 msgstr "С"
 
-msgid "DHScoreBoard.ScoreboardColumns[8].Title"
+msgid "DHScoreBoard.ScoreboardColumns<8>.Title"
 msgstr "Счет"
 
-msgid "DHScoreBoard.ScoreboardColumns[9].Title"
+msgid "DHScoreBoard.ScoreboardColumns<9>.Title"
 msgstr "Пинг"
 
-msgid "DHServerBrowser.PanelCaption[0]"
+msgid "DHServerBrowser.PanelCaption<0>"
 msgstr "Избранное"
 
-msgid "DHServerBrowser.PanelCaption[1]"
+msgid "DHServerBrowser.PanelCaption<1>"
 msgstr "Локальная сеть"
 
-msgid "DHServerBrowser.PanelCaption[2]"
+msgid "DHServerBrowser.PanelCaption<2>"
 msgstr "Интернет"
 
-msgid "DHServerBrowser.PanelCaption[3]"
+msgid "DHServerBrowser.PanelCaption<3>"
 msgstr "Локальная сеть"
 
-msgid "DHServerBrowser.PanelCaption[4]"
+msgid "DHServerBrowser.PanelCaption<4>"
 msgstr "Интернет"
 
-msgid "DHServerBrowser.PanelCaption[5]"
+msgid "DHServerBrowser.PanelCaption<5>"
 msgstr "Интернет"
 
-msgid "DHServerBrowser.PanelHint[0]"
+msgid "DHServerBrowser.PanelHint<0>"
 msgstr "Выберите сервер для присоединения из числа ваших любимых"
 
-msgid "DHServerBrowser.PanelHint[2]"
+msgid "DHServerBrowser.PanelHint<2>"
 msgstr "Выбирайте из серверов DH по всему миру"
 
-msgid "DHServerBrowser.PanelHint[3]"
+msgid "DHServerBrowser.PanelHint<3>"
 msgstr ""
 "Просмотрите все серверы RO, работающие в настоящее время в вашей локальной "
 "сети"
 
-msgid "DHServerBrowser.PanelHint[5]"
+msgid "DHServerBrowser.PanelHint<5>"
 msgstr "Выбирайте из сотен RO-серверов по всему миру"
 
 msgid "DHServerBrowser.GameTypeCombo.Caption"
@@ -878,34 +878,34 @@ msgstr "Выключено"
 msgid "DHServerLoading.GameTypeText"
 msgstr "Тип игры: {0}"
 
-msgid "DHSettingsPage.PanelCaption[0]"
+msgid "DHSettingsPage.PanelCaption<0>"
 msgstr "Игра"
 
-msgid "DHSettingsPage.PanelCaption[1]"
+msgid "DHSettingsPage.PanelCaption<1>"
 msgstr "Видео"
 
-msgid "DHSettingsPage.PanelCaption[3]"
+msgid "DHSettingsPage.PanelCaption<3>"
 msgstr "Управление"
 
-msgid "DHSettingsPage.PanelCaption[4]"
+msgid "DHSettingsPage.PanelCaption<4>"
 msgstr "Мышь"
 
-msgid "DHSettingsPage.PanelCaption[5]"
+msgid "DHSettingsPage.PanelCaption<5>"
 msgstr "Интерфейс"
 
-msgid "DHSettingsPage.PanelHint[1]"
+msgid "DHSettingsPage.PanelHint<1>"
 msgstr "Выберите разрешение или измените настройки дисплея и детализации..."
 
-msgid "DHSettingsPage.PanelHint[2]"
+msgid "DHSettingsPage.PanelHint<2>"
 msgstr "Настройте качество звука..."
 
-msgid "DHSettingsPage.PanelHint[4]"
+msgid "DHSettingsPage.PanelHint<4>"
 msgstr "Настроить разное. варианты ввода..."
 
-msgid "DHSettingsPage.PanelHint[5]"
+msgid "DHSettingsPage.PanelHint<5>"
 msgstr "Настройте свой интерфейс..."
 
-msgid "DHSettingsPage.PanelHint[6]"
+msgid "DHSettingsPage.PanelHint<6>"
 msgstr "как ты это получил?"
 
 msgid "DHSettingsPage.SettingHeader.Caption"
@@ -1074,8 +1074,8 @@ msgstr "Сначала необходимо присоединиться к му
 
 msgid "DHTab_GameSettings.LockTankOnEntry.Hint"
 msgstr ""
-"Автоматически блокировать танк (или другую бронетехнику) при появлении в нем "
-"или при входе в пустой танк. Это не позволяет другим игрокам использовать "
+"Автоматически блокировать танк (или другую бронетехнику) при появлении в нем"
+" или при входе в пустой танк. Это не позволяет другим игрокам использовать "
 "позиции экипажа танка."
 
 msgid "DHTab_GameSettings.ManualReloading.Hint"
@@ -1255,8 +1255,8 @@ msgstr "Минимальный желаемый FPS"
 
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
 msgstr ""
-"Используется функцией Dynamic Fog Distance, чтобы определить, когда начинать "
-"уменьшать расстояние тумана"
+"Используется функцией Dynamic Fog Distance, чтобы определить, когда начинать"
+" уменьшать расстояние тумана"
 
 msgid "DHTab_DetailSettings.MotionBlur.Caption"
 msgstr "Эффекты размытия"
@@ -1378,8 +1378,8 @@ msgstr "Скорость сети (байт в секунду)"
 msgid "DHTab_GameSettings.Netspeed.Hint"
 msgstr ""
 "Максимальная желаемая скорость интернета, используемая игрой (в байтах в "
-"секунду). Серверы могут устанавливать максимальную скорость клиента, которая "
-"будет переопределять клиенты."
+"секунду). Серверы могут устанавливать максимальную скорость клиента, которая"
+" будет переопределять клиенты."
 
 msgid "DHTab_GameSettings.NoGore.Caption"
 msgstr "Отключить кровь"

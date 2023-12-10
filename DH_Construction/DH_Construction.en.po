@@ -1,9 +1,10 @@
+#
 msgid ""
 msgstr ""
-"Language: en"
-"MIME-Version: 1.0"
-"Content-Type: text/plain"
-"Content-Transfer-Encoding: 8bit"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain\n"
+"Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
 
 msgid "DHCameraWeapon.ItemName"
 msgstr "Camera"
@@ -23,13 +24,13 @@ msgstr "Exhausted"
 msgid "DHCommandMenu_ConstructionGroup.RemainingText"
 msgstr "Remaining"
 
-msgid "DHConstructionControlsMessage.Controls[0].Text"
+msgid "DHConstructionControlsMessage.Controls<0>.Text"
 msgstr "Confirm"
 
-msgid "DHConstructionControlsMessage.Controls[1].Text"
+msgid "DHConstructionControlsMessage.Controls<1>.Text"
 msgstr "Cancel"
 
-msgid "DHConstructionControlsMessage.Controls[2].Text"
+msgid "DHConstructionControlsMessage.Controls<2>.Text"
 msgstr "Rotate"
 
 msgid "DHConstructionGroup_Ammunition.GroupName"
@@ -78,7 +79,9 @@ msgid "DHConstruction_MortarPit.MenuName"
 msgstr "Mortar Pit"
 
 msgid "DHConstruction_PlatoonHQ.CustomErrorString"
-msgstr "Cannot {verb} a {name} close to {string} unless within {integer}m of controlled territory."
+msgstr ""
+"Cannot {verb} a {name} close to {string} unless within {integer}m of "
+"controlled territory."
 
 msgid "DHConstruction_PlatoonHQ.MenuName"
 msgstr "Platoon HQ"
@@ -136,4 +139,3 @@ msgstr "Watchtower"
 
 msgid "DHConstruction_WoodFence.MenuName"
 msgstr "Wood Fence"
-

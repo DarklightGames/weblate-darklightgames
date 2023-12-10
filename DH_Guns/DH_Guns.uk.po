@@ -1,36 +1,35 @@
+#
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-10 13:42+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
-"Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
-"darkesthour/dh_guns/uk/>\n"
+"Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/darkesthour/dh_guns/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.2.1\n"
 
-msgid "DH_45mmM1937GunCannon.nProjectileDescriptions[0]"
+msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<0>"
 msgstr "БР-240"
 
-msgid "DH_45mmM1937GunCannon.nProjectileDescriptions[1]"
+msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<1>"
 msgstr "О-240"
 
 msgid "DH_45mmM1942Gun.VehicleNameString"
 msgstr "45-мм протитанкова гармата М-42"
 
-msgid "DH_45mmM1942GunCannon.ProjectileDescriptions[0]"
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APBC)"
 
-msgid "DH_45mmM1942GunCannon.ProjectileDescriptions[1]"
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_45mmM1937GunCannon.ProjectileDescriptions[1]"
+msgid "DH_45mmM1937GunCannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_45mmM1937GunCannon.ProjectileDescriptions[0]"
+msgid "DH_45mmM1937GunCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APBC)"
 
 msgid "DH_17PounderGun.VehicleNameString"
@@ -42,19 +41,19 @@ msgstr "Ярдів"
 msgid "DH_45mmM1937Gun.VehicleNameString"
 msgstr "45-мм протитанкова гармата 53-К"
 
-msgid "DH_45mmM1942GunCannon.nProjectileDescriptions[1]"
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions<1>"
 msgstr "О-240"
 
-msgid "DH_45mmM1942GunCannon.nProjectileDescriptions[2]"
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions<2>"
 msgstr "БР-240П"
 
 msgid "DH_6PounderGun.VehicleNameString"
 msgstr "Протитанкова гармата QF 6-pounder Mk.IV"
 
-msgid "DH_45mmM1942GunCannon.ProjectileDescriptions[2]"
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<2>"
 msgstr "Підкаліберний (APCR)"
 
-msgid "DH_45mmM1942GunCannon.nProjectileDescriptions[0]"
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions<0>"
 msgstr "БР-240"
 
 msgid "DH_6PounderGunCannonPawn.RangeText"
@@ -66,40 +65,40 @@ msgstr "40-мм автоматична гармата Bofors L60"
 msgid "DH_Flak38Gun.VehicleNameString"
 msgstr "20-мм зенітна гармата FlaK 38"
 
-msgid "DH_Bofors40mmCannon.ProjectileDescriptions[1]"
+msgid "DH_Bofors40mmCannon.ProjectileDescriptions<1>"
 msgstr "Бронебійний (AP)"
 
-msgid "DH_M116Cannon.ProjectileDescriptions[1]"
+msgid "DH_M116Cannon.ProjectileDescriptions<1>"
 msgstr "Комулятивний (HEAT)"
 
-msgid "DH_Pak39Cannon.ProjectileDescriptions[1]"
+msgid "DH_Pak39Cannon.ProjectileDescriptions<1>"
 msgstr "Підкаліберний (APCR)"
 
-msgid "DH_Pak40Cannon.ProjectileDescriptions[0]"
+msgid "DH_Pak40Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
 msgid "DH_ZiS2Gun.VehicleNameString"
 msgstr "57-мм протитанкова гармата ЗІС-2"
 
-msgid "DH_PantherturmCannon.ProjectileDescriptions[1]"
+msgid "DH_PantherturmCannon.ProjectileDescriptions<1>"
 msgstr "Підкаліберний (APCR)"
 
-msgid "DH_ZiS3CannonLate.ProjectileDescriptions[2]"
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions<2>"
 msgstr "Підкаліберний (APCR)"
 
-msgid "DH_6PounderGunCannon.ProjectileDescriptions[0]"
+msgid "DH_6PounderGunCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_6PounderGunCannon.ProjectileDescriptions[1]"
+msgid "DH_6PounderGunCannon.ProjectileDescriptions<1>"
 msgstr "Підкаліберний (APDS)"
 
-msgid "DH_6PounderGunCannon.ProjectileDescriptions[2]"
+msgid "DH_6PounderGunCannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_AT57Gun.VehicleNameString"
 msgstr "57-мм протитанкова гармата M1"
 
-msgid "DH_Bofors40mmCannon.ProjectileDescriptions[0]"
+msgid "DH_Bofors40mmCannon.ProjectileDescriptions<0>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_Flak88Gun.VehicleNameString"
@@ -108,13 +107,13 @@ msgstr "Гармата 8,8 cм FlaK 36"
 msgid "DH_Flakvierling38Gun.VehicleNameString"
 msgstr "2-см гармата Flakvierling 38"
 
-msgid "DH_LeIG18Cannon.ProjectileDescriptions[0]"
+msgid "DH_LeIG18Cannon.ProjectileDescriptions<0>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_LeIG18Cannon.ProjectileDescriptions[1]"
+msgid "DH_LeIG18Cannon.ProjectileDescriptions<1>"
 msgstr "Комулятивний (HEAT)"
 
-msgid "DH_M116Cannon.ProjectileDescriptions[0]"
+msgid "DH_M116Cannon.ProjectileDescriptions<0>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_LeIG18Gun.VehicleNameString"
@@ -123,10 +122,10 @@ msgstr "7.5 cm leichtes Infanteriegeschütz 18"
 msgid "DH_M116Gun.VehicleNameString"
 msgstr "75-мм ранцева гаубиця М1"
 
-msgid "DH_M1927Cannon.ProjectileDescriptions[0]"
+msgid "DH_M1927Cannon.ProjectileDescriptions<0>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_M1927Cannon.ProjectileDescriptions[1]"
+msgid "DH_M1927Cannon.ProjectileDescriptions<1>"
 msgstr "Комулятивний (HEAT)"
 
 msgid "DH_M1927Gun.VehicleNameString"
@@ -141,19 +140,19 @@ msgstr "3-дюймова гармата М5"
 msgid "DH_Pak38ATGun.VehicleNameString"
 msgstr "5.0-см протитанкова гармата Pak38"
 
-msgid "DH_Pak38Cannon.ProjectileDescriptions[0]"
+msgid "DH_Pak38Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_Pak38Cannon.ProjectileDescriptions[1]"
+msgid "DH_Pak38Cannon.ProjectileDescriptions<1>"
 msgstr "Підкаліберний (APCR)"
 
-msgid "DH_Pak38Cannon.ProjectileDescriptions[2]"
+msgid "DH_Pak38Cannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_Pak39Cannon.ProjectileDescriptions[0]"
+msgid "DH_Pak39Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_Pak39Cannon.ProjectileDescriptions[2]"
+msgid "DH_Pak39Cannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_Pak39Gun.VehicleNameString"
@@ -162,43 +161,43 @@ msgstr "5,0 см гармата KwK 39"
 msgid "DH_Pak40ATGun.VehicleNameString"
 msgstr "7,5 см протитанкова гармата Pak40"
 
-msgid "DH_Pak40Cannon.ProjectileDescriptions[1]"
+msgid "DH_Pak40Cannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_Pak40Cannon.ProjectileDescriptions[2]"
+msgid "DH_Pak40Cannon.ProjectileDescriptions<2>"
 msgstr "Підкаліберний (APCR)"
 
 msgid "DH_Pak43ATGun.VehicleNameString"
 msgstr "8,8 см протитанкова гармата Pak 43/41"
 
-msgid "DH_PantherturmCannon.ProjectileDescriptions[0]"
+msgid "DH_PantherturmCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
-msgid "DH_PantherturmCannon.ProjectileDescriptions[2]"
+msgid "DH_PantherturmCannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_PantherturmGun.VehicleNameString"
 msgstr "Пантертурм"
 
-msgid "DH_ZiS2Cannon.ProjectileDescriptions[0]"
+msgid "DH_ZiS2Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APBC)"
 
-msgid "DH_ZiS2Cannon.ProjectileDescriptions[1]"
+msgid "DH_ZiS2Cannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_ZiS2Cannon.ProjectileDescriptions[2]"
+msgid "DH_ZiS2Cannon.ProjectileDescriptions<2>"
 msgstr "Підкаліберний (APCR)"
 
-msgid "DH_ZiS3Cannon.ProjectileDescriptions[0]"
+msgid "DH_ZiS3Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APBC)"
 
-msgid "DH_ZiS3Cannon.ProjectileDescriptions[1]"
+msgid "DH_ZiS3Cannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-msgid "DH_ZiS3CannonLate.ProjectileDescriptions[0]"
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APBC)"
 
-msgid "DH_ZiS3CannonLate.ProjectileDescriptions[1]"
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_ZiS3Gun.VehicleNameString"

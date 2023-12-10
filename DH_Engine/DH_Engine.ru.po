@@ -1,15 +1,14 @@
+#
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-09 07:59+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
-"Language-Team: Russian <https://weblate.darklightgames.com/projects/"
-"darkesthour/dh_engine/ru/>\n"
+"Language-Team: Russian <https://weblate.darklightgames.com/projects/darkesthour/dh_engine/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.2.1\n"
 
 msgid "DHAlliedAssaultRoles.PluralName"
@@ -60,10 +59,10 @@ msgstr "Использовать "
 msgid "DHATGunCannonPawn.HudName"
 msgstr "Наводчик"
 
-msgid "DHATGunRotateControlsMessage.Controls[0].Text"
+msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
 msgstr "Завершить вращение"
 
-msgid "DHATGunRotateControlsMessage.Controls[1].Text"
+msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
 msgstr "Вращать"
 
 msgid "DHATGunTouchMessage.RotateHintString"
@@ -76,7 +75,8 @@ msgid "DHATLoadMessage.BeenLoaded"
 msgstr "Вас перезарядил {0}"
 
 msgid "DHAccessControl.SessionBanned"
-msgstr "Вы не можете присоединиться к этому серверу, пока он не поменяет карту."
+msgstr ""
+"Вы не можете присоединиться к этому серверу, пока он не поменяет карту."
 
 msgid "DHAdminMessage.KickedFromSquadMessage"
 msgstr "Администратор'{0}' выгнал '{1}' из отряда '{2}'."
@@ -307,7 +307,8 @@ msgid "DHCanisterShotDamageType.MaleSuicide"
 msgstr "%o был взорван собственным выстрелом в канистру."
 
 msgid "DHChatRoomMessage.CannotJoinSquadChannelText"
-msgstr "Не удалось присоединиться к каналу `%title%`. Вы должны быть в отряде."
+msgstr ""
+"Не удалось присоединиться к каналу `%title%`. Вы должны быть в отряде."
 
 msgid "DHCommandMenu_ATGun.EnemyGunText"
 msgstr "Вы не можете вращать вражеское орудие"
@@ -372,57 +373,58 @@ msgstr "[КОМАНДА]"
 msgid "DHConstruction.ConstructionVerb"
 msgstr "строить"
 
-msgid "DHConstructionErrorMessage.ErrorMessages[2]"
+msgid "DHConstructionErrorMessage.ErrorMessages<2>"
 msgstr "Вы должны {verb} {name} на твердой поверхности."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[3]"
+msgid "DHConstructionErrorMessage.ErrorMessages<3>"
 msgstr "Земля здесь слишком крутая, чтобы {verb} {name}."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[5]"
+msgid "DHConstructionErrorMessage.ErrorMessages<5>"
 msgstr "Вы не можете {verb} {name} в этом месте."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[6]"
+msgid "DHConstructionErrorMessage.ErrorMessages<6>"
 msgstr "Здесь недостаточно места чтобы {verb} {name}."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[7]"
+msgid "DHConstructionErrorMessage.ErrorMessages<7>"
 msgstr "Вы должны {verb} {name} на земляной местности."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[9]"
+msgid "DHConstructionErrorMessage.ErrorMessages<9>"
 msgstr ""
 "Слишком близко к обьекту врага {name}, он должен быть дальше на {integer}м."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[10]"
+msgid "DHConstructionErrorMessage.ErrorMessages<10>"
 msgstr "Вы не можете {verb} {name} на минном поле."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[12]"
+msgid "DHConstructionErrorMessage.ErrorMessages<12>"
 msgstr "Вы не можете {verb} {name} в помещении."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[13]"
+msgid "DHConstructionErrorMessage.ErrorMessages<13>"
 msgstr "Вы не можете {verb} {name} внутри обьекта."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[16]"
+msgid "DHConstructionErrorMessage.ErrorMessages<16>"
 msgstr "Недостаточно материалов для {verb} {name}."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[17]"
+msgid "DHConstructionErrorMessage.ErrorMessages<17>"
 msgstr "Вы не можете {verb} {name} на этой поверхности."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[18]"
+msgid "DHConstructionErrorMessage.ErrorMessages<18>"
 msgstr "Земля слишком твердая, чтобы {verb} {name} в этом месте."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[21]"
+msgid "DHConstructionErrorMessage.ErrorMessages<21>"
 msgstr "Вы не можете {verb} {name}, пока вы заняты."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[22]"
+msgid "DHConstructionErrorMessage.ErrorMessages<22>"
 msgstr ""
 "Слишком близко к цели ({string}), вы должны строить дальше на {integer}м."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[24]"
-msgstr "Вы должны {verb} {name} в пределах {integer}m от дружественной {string}"
+msgid "DHConstructionErrorMessage.ErrorMessages<24>"
+msgstr ""
+"Вы должны {verb} {name} в пределах {integer}m от дружественной {string}"
 
-msgid "DHConstructionErrorMessage.ErrorMessages[25]"
+msgid "DHConstructionErrorMessage.ErrorMessages<25>"
 msgstr "Вы не можете {verb} {name} на вражеской территории"
 
-msgid "DHConstructionErrorMessage.ErrorMessages[26]"
+msgid "DHConstructionErrorMessage.ErrorMessages<26>"
 msgstr "{name} больше не доступно"
 
 msgid "DHConstructionGroup_Guns.GroupName"
@@ -499,10 +501,10 @@ msgstr "Администратор'{0}' повысил '{1}' до команди
 msgid "DHAlliedAutoRifleRoles.MyName"
 msgstr "Легкий пулеметчик"
 
-msgid "DarkestHourGame.ROHints[20]"
+msgid "DarkestHourGame.ROHints<20>"
 msgstr ""
-"ПТ-оружие будет автоматически разряжено, если вы перейдете на другое оружие. "
-"Рекомендуется присоединиться к товарищу по команде, чтобы ускорить "
+"ПТ-оружие будет автоматически разряжено, если вы перейдете на другое оружие."
+" Рекомендуется присоединиться к товарищу по команде, чтобы ускорить "
 "перезарядку, когда это необходимо."
 
 msgid "DHATCannonMessage.GunIsRotating"
@@ -600,18 +602,19 @@ msgstr ""
 "Не удалось присоединиться к каналу `%title%`. Вы должны быть лидером отряда "
 "или помощником, и в вашем отряде должно быть не менее двух участников."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[8]"
+msgid "DHConstructionErrorMessage.ErrorMessages<8>"
 msgstr ""
-"Слишком близко к другому объекту {name}, он должен быть дальше на {integer}м."
+"Слишком близко к другому объекту {name}, он должен быть дальше на "
+"{integer}м."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[11]"
+msgid "DHConstructionErrorMessage.ErrorMessages<11>"
 msgstr "Вы не можете {verb} {name} рядом с точкой появления."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[14]"
+msgid "DHConstructionErrorMessage.ErrorMessages<14>"
 msgstr ""
 "Ваша команда больше не может {verb} {name} (достигнут лимит: {integer})."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[23]"
+msgid "DHConstructionErrorMessage.ErrorMessages<23>"
 msgstr ""
 "Слишком близко к неконтролируемой цели ({string}), вы должны быть дальше на "
 "{integer}м."
@@ -619,13 +622,13 @@ msgstr ""
 msgid "DHCommandMenu_Radio.CancelText"
 msgstr "Продолжить (Отмена)"
 
-msgid "DHConstructionErrorMessage.ErrorMessages[4]"
+msgid "DHConstructionErrorMessage.ErrorMessages<4>"
 msgstr "Вы не можете {verb} {name} в воде."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[15]"
+msgid "DHConstructionErrorMessage.ErrorMessages<15>"
 msgstr "В радиусе {integer} метров нет тайников с припасами."
 
-msgid "DHConstructionErrorMessage.ErrorMessages[20]"
+msgid "DHConstructionErrorMessage.ErrorMessages<20>"
 msgstr "В вашем отряде должно быть {integer} участников, чтобы {verb} {name}."
 
 msgid "DHConstructionSupplyAttachment_Static_Main.HumanReadableName"
@@ -642,7 +645,7 @@ msgstr ""
 "Чтобы разрушить штаб вражеского взвода, поблизости должен быть еще один "
 "товарищ по команде!"
 
-msgid "DHVehicleCannon.ProjectileDescriptions[1]"
+msgid "DHVehicleCannon.ProjectileDescriptions<1>"
 msgstr "Осколочно-фугасный (HE)"
 
 msgid "DHVehicleCannonPawn.RangeText"
@@ -654,7 +657,7 @@ msgstr "Командир"
 msgid "DHVehicleCollisionDamageType.FemaleSuicide"
 msgstr "%o погибла в автокатастрофе."
 
-msgid "DHVehicleCannon.ProjectileDescriptions[0]"
+msgid "DHVehicleCannon.ProjectileDescriptions<0>"
 msgstr "Бронебойный (APCBC)"
 
 msgid "DHVehicleCollisionDamageType.DeathString"
@@ -726,8 +729,8 @@ msgstr ""
 
 msgid "DHVehicleMessage.CantLockNonCrewVehicle"
 msgstr ""
-"Невозможно заблокировать транспортное средство, поскольку ею могут управлять "
-"члены экипажа, не являющиеся танкистами"
+"Невозможно заблокировать транспортное средство, поскольку ею могут управлять"
+" члены экипажа, не являющиеся танкистами"
 
 msgid "DHVehicleMessage.MapDisabledVehicleLocking"
 msgstr "Эта карта не позволяет блокировать транспортные средства"
@@ -818,8 +821,8 @@ msgstr "Минометы"
 
 msgid "DHHintManager.Hints[6].Text"
 msgstr ""
-"Пока вы держите миномет, вы не можете менять оружие, бежать, и лежать. Чтобы "
-"развернуть миномет, присядьте на ровной поверхности и нажмите %DEPLOY%."
+"Пока вы держите миномет, вы не можете менять оружие, бежать, и лежать. Чтобы"
+" развернуть миномет, присядьте на ровной поверхности и нажмите %DEPLOY%."
 
 msgid "DHHintManager.Hints[7].Title"
 msgstr "Минометная операция"
@@ -893,8 +896,8 @@ msgid "DHHintManager.Hints[50].Text"
 msgstr ""
 "Откройте карту, чтобы координировать огонь. Используйте [ПРАВУЮ МЫШЬ] по "
 "запросу огневой поддержки, чтобы выбрать его в качестве активной цели, или "
-"используйте маркер линейки для измерения расстояний от вас до заданной точки "
-"на карте."
+"используйте маркер линейки для измерения расстояний от вас до заданной точки"
+" на карте."
 
 msgid "DHHintManager.Hints[51].Title"
 msgstr "Взаимодействие с картой"
@@ -913,16 +916,16 @@ msgstr "Радио"
 
 msgid "DHHintManager.Hints[54].Text"
 msgstr ""
-"Вы отметили цель для огневой поддержки на большом расстоянии. Найдите радио, "
-"чтобы можно было позвонить на него!"
+"Вы отметили цель для огневой поддержки на большом расстоянии. Найдите радио,"
+" чтобы можно было позвонить на него!"
 
 msgid "DHHintManager.Hints[60].Title"
 msgstr "Дальность стрельбы"
 
 msgid "DHHintManager.Hints[60].Text"
 msgstr ""
-"У этого оружия регулируемый прицел! Нажмите %SWITCHFIREMODE%, чтобы изменить "
-"дальность прицела."
+"У этого оружия регулируемый прицел! Нажмите %SWITCHFIREMODE%, чтобы изменить"
+" дальность прицела."
 
 msgid "DHHintManager.Hints[61].Title"
 msgstr "Отчаянные меры"
@@ -1019,22 +1022,22 @@ msgstr "Ты покидаешь свой отряд."
 msgid "DHIQMessage.NotInSquadMessage"
 msgstr "Вы не в отряде."
 
-msgid "DHIQMessage.Congratulations[0]"
+msgid "DHIQMessage.Congratulations<0>"
 msgstr "Ух ты! Какой умничка!"
 
-msgid "DHIQMessage.Congratulations[1]"
+msgid "DHIQMessage.Congratulations<1>"
 msgstr "Удивительный!"
 
-msgid "DHIQMessage.Congratulations[2]"
+msgid "DHIQMessage.Congratulations<2>"
 msgstr "Вы тактический гений!"
 
-msgid "DHIQMessage.Congratulations[3]"
+msgid "DHIQMessage.Congratulations<3>"
 msgstr "Отличная работа!"
 
-msgid "DHIQMessage.Congratulations[4]"
+msgid "DHIQMessage.Congratulations<4>"
 msgstr "Абсолютно сумасшедший!"
 
-msgid "DHIQMessage.Congratulations[6]"
+msgid "DHIQMessage.Congratulations<6>"
 msgstr "Великолепно!"
 
 msgid "DHInventorySpawner.ContainerNoun"
@@ -1151,10 +1154,10 @@ msgstr "обезопасили"
 msgid "DHPassengerPawn.HudName"
 msgstr "Водитель"
 
-msgid "DHPawnTouchMessage.Messages[0]"
+msgid "DHPawnTouchMessage.Messages<0>"
 msgstr "Нажмите [%THROWMGAMO%], чтобы пополнить боеприпасы {0}"
 
-msgid "DHPawnTouchMessage.Messages[1]"
+msgid "DHPawnTouchMessage.Messages<1>"
 msgstr "Нажмите [%THROWMGAMO%], чтобы перезарядить {0}"
 
 msgid "DHPawnTouchMessage.FallbackPlayerName"
@@ -1330,22 +1333,22 @@ msgstr "Этот транспорт был замечен противником
 msgid "DHSquadInviteInteraction.PromptText"
 msgstr "{0} пригласил вас присоединиться к отряду {1}."
 
-msgid "DHSquadInviteInteraction.Options[0].Text"
+msgid "DHSquadInviteInteraction.Options<0>.Text"
 msgstr "Принять"
 
-msgid "DHSquadInviteInteraction.Options[1].Text"
+msgid "DHSquadInviteInteraction.Options<1>.Text"
 msgstr "Отклонить"
 
-msgid "DHSquadInviteInteraction.Options[2].Text"
+msgid "DHSquadInviteInteraction.Options<2>.Text"
 msgstr "Игнорировать все"
 
 msgid "DHSquadLeaderAssistantVolunteerInteraction.PromptText"
 msgstr "{volunteer} вызвался стать помощником отряда."
 
-msgid "DHSquadLeaderAssistantVolunteerInteraction.Options[0].Text"
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<0>.Text"
 msgstr "Принять"
 
-msgid "DHSquadLeaderAssistantVolunteerInteraction.Options[1].Text"
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<1>.Text"
 msgstr "Отклонить"
 
 msgid "DHSquadLeaderSayDeadMessage.MessagePrefix"
@@ -1354,25 +1357,25 @@ msgstr "(Мертв) [Командир отряда]"
 msgid "DHSquadLeaderSayMessage.MessagePrefix"
 msgstr "[Командир отряда]"
 
-msgid "DHSquadLeaderVolunteerInteraction.Options[0].Text"
+msgid "DHSquadLeaderVolunteerInteraction.Options<0>.Text"
 msgstr "Принять"
 
-msgid "DHSquadLeaderVolunteerInteraction.Options[1].Text"
+msgid "DHSquadLeaderVolunteerInteraction.Options<1>.Text"
 msgstr "Отклонить"
 
-msgid "DHSquadLeaderVolunteerInteraction.Options[2].Text"
+msgid "DHSquadLeaderVolunteerInteraction.Options<2>.Text"
 msgstr "Игнорировать все"
 
 msgid "DHSquadMergeRequestInteraction.PromptText"
 msgstr "Отряд {0} предложил объединить ваш отряд в отряд {1}."
 
-msgid "DHSquadMergeRequestInteraction.Options[0].Text"
+msgid "DHSquadMergeRequestInteraction.Options<0>.Text"
 msgstr "Принять"
 
-msgid "DHSquadMergeRequestInteraction.Options[1].Text"
+msgid "DHSquadMergeRequestInteraction.Options<1>.Text"
 msgstr "Отклонить"
 
-msgid "DHSquadMergeRequestInteraction.Options[2].Text"
+msgid "DHSquadMergeRequestInteraction.Options<2>.Text"
 msgstr "Игнорировать все"
 
 msgid "DHSquadMessage.JoinedMessage"
@@ -1463,8 +1466,8 @@ msgstr "Вы покинули отряд."
 
 msgid "DHSquadMessage.YouVolunteeredToBeSquadLeader"
 msgstr ""
-"Вы вызвались стать командиром отряда. Новый руководитель отряда будет выбран "
-"в ближайшее время."
+"Вы вызвались стать командиром отряда. Новый руководитель отряда будет выбран"
+" в ближайшее время."
 
 msgid "DHSquadMessage.AlreadyInSquad"
 msgstr "Вы уже в отряде."
@@ -1511,30 +1514,31 @@ msgstr "Командир отряда отдал новый приказ «Пе�
 msgid "DHSquadPromotionRequestInteraction.PromptText"
 msgstr "{0} хочет повысить вас до лидера отряда {1}."
 
-msgid "DHSquadPromotionRequestInteraction.Options[0].Text"
+msgid "DHSquadPromotionRequestInteraction.Options<0>.Text"
 msgstr "Принять"
 
-msgid "DHSquadPromotionRequestInteraction.Options[1].Text"
+msgid "DHSquadPromotionRequestInteraction.Options<1>.Text"
 msgstr "Отклонить"
 
-msgid "DHSquadPromotionRequestInteraction.Options[2].Text"
+msgid "DHSquadPromotionRequestInteraction.Options<2>.Text"
 msgstr "Игнорировать все"
 
-msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings[2]"
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<2>"
 msgstr "В этот отряд невозможно отправить запрос на объединение."
 
-msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings[1]"
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<1>"
 msgstr "Произошла ошибка при отправке запроса на объединение отрядов."
 
-msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings[4]"
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<4>"
 msgstr "Запрос на объединение отрядов отправлено."
 
-msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings[0]"
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<0>"
 msgstr "Произошла ошибка при отправке запроса на объединение отрядов."
 
-msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings[1]"
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<1>"
 msgstr ""
-"Для этого игрока уже существует запрос на повышение в качестве лидера отряда."
+"Для этого игрока уже существует запрос на повышение в качестве лидера "
+"отряда."
 
 msgid "DHSquadSayMessage.MessagePrefix"
 msgstr "[Отряд]"
@@ -1569,10 +1573,10 @@ msgstr "Выгрузить припасы"
 msgid "DHTeamKillInteraction.PromptText"
 msgstr "{0} убил вас!"
 
-msgid "DHTeamKillInteraction.Options[0].Text"
+msgid "DHTeamKillInteraction.Options<0>.Text"
 msgstr "Простить"
 
-msgid "DHTeamKillInteraction.Options[1].Text"
+msgid "DHTeamKillInteraction.Options<1>.Text"
 msgstr "Наказать"
 
 msgid "DHTeamSayMessage.MessagePrefix"
@@ -1632,78 +1636,78 @@ msgstr "Пионер"
 msgid "DHVoiceReplicationInfo.LocalChannelText"
 msgstr "Местный"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[0]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<0>"
 msgstr "Команда"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[1]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<1>"
 msgstr "Команда"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[2]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<2>"
 msgstr "Неназначенные"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[3]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<3>"
 msgstr "Неназначенные"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[4]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<4>"
 msgstr "Отряд"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[5]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<5>"
 msgstr "Отряд"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[6]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<6>"
 msgstr "Отряд"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[7]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<7>"
 msgstr "Отряд"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[8]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<8>"
 msgstr "Отряд"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[9]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<9>"
 msgstr "Отряд"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[10]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<10>"
 msgstr "Отряд"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[11]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<11>"
 msgstr "Отряд"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[12]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<12>"
 msgstr "Отряд"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[13]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<13>"
 msgstr "Отряд"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[14]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<14>"
 msgstr "Отряд"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[15]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<15>"
 msgstr "Отряд"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[16]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<16>"
 msgstr "Отряд"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[17]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<17>"
 msgstr "Отряд"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[18]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<18>"
 msgstr "Отряд"
 
-msgid "DHVoiceReplicationInfo.PublicChannelNames[19]"
+msgid "DHVoiceReplicationInfo.PublicChannelNames<19>"
 msgstr "Отряд"
 
-msgid "DHVoiceReplicationInfo.InstalledCodec[0].CodecName"
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecName"
 msgstr "Лучшее качество"
 
-msgid "DHVoiceReplicationInfo.InstalledCodec[0].CodecName.CodecDescription"
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecName.CodecDescription"
 msgstr ""
 "(9,6 кбит/с) — используется большая полоса пропускания, но звук становится "
 "намного чище."
 
-msgid "DHVoiceReplicationInfo.InstalledCodec[1].CodecName"
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecName"
 msgstr "Лучшее качество"
 
-msgid "DHVoiceReplicationInfo.InstalledCodec[1].CodecName.CodecDescription"
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecName.CodecDescription"
 msgstr ""
 "(9,6 кбит/с) — используется большая полоса пропускания, но звук становится "
 "намного чище."
@@ -1711,7 +1715,7 @@ msgstr ""
 msgid "DHVoiceSayMessage.MessagePrefix"
 msgstr "[Голос]"
 
-msgid "DHVoteInfo.Options[0].Text"
+msgid "DHVoteInfo.Options<0>.Text"
 msgstr "Да"
 
 msgid "DHVoteMessage.VoteReceievedText"
@@ -1774,48 +1778,48 @@ msgstr "измененно"
 msgid "DH_ModifyRoundTimeMessage.RoundTimeModifiedText"
 msgstr "Время было {0}."
 
-msgid "DarkestHourGame.ROHints[1]"
+msgid "DarkestHourGame.ROHints<1>"
 msgstr ""
 "Вы можете «приготовить» гранату Mk II, нажав %FIRE3%, удерживая гранату."
 
-msgid "DarkestHourGame.ROHints[3]"
+msgid "DarkestHourGame.ROHints<3>"
 msgstr ""
 "Нажмите %PLAYERMENU 2%, чтобы изменить роль игрока во время игры, "
 "%PLAYERMENU%, чтобы сменить команду."
 
-msgid "DarkestHourGame.ROHints[4]"
+msgid "DarkestHourGame.ROHints<4>"
 msgstr ""
-"Чтобы прицелиться в прицел вашего оружия и, таким образом, повысить точность "
-"и аккуратность, нажмите клавишу %ROIRONSIGHTS%."
+"Чтобы прицелиться в прицел вашего оружия и, таким образом, повысить точность"
+" и аккуратность, нажмите клавишу %ROIRONSIGHTS%."
 
-msgid "DarkestHourGame.ROHints[5]"
+msgid "DarkestHourGame.ROHints<5>"
 msgstr "Вы получаете 10 очков за помощь в достижении цели."
 
-msgid "DarkestHourGame.ROHints[7]"
+msgid "DarkestHourGame.ROHints<7>"
 msgstr "Чтобы восстановить выносливость, остановитесь и немного отдохните."
 
-msgid "DarkestHourGame.ROHints[9]"
+msgid "DarkestHourGame.ROHints<9>"
 msgstr ""
 "При перезарядке надпись «Магазин тяжелый» указывает на то, что магазин, "
 "который вы загружаете в оружие, заполнен боеприпасами более чем наполовину."
 
-msgid "DarkestHourGame.ROHints[10]"
+msgid "DarkestHourGame.ROHints<10>"
 msgstr "Вы можете перезарядить свой пулемет только в развернутом состоянии."
 
-msgid "DarkestHourGame.ROHints[13]"
+msgid "DarkestHourGame.ROHints<13>"
 msgstr "Ствол калибра 30 заменить нельзя, будьте осторожны, не перегрейте!"
 
-msgid "DarkestHourGame.ROHints[15]"
+msgid "DarkestHourGame.ROHints<15>"
 msgstr ""
 "Пулеметчикам никогда не следует действовать в одиночку, найдите товарища, "
 "который прикроет вашу спину."
 
-msgid "DarkestHourGame.ROHints[18]"
+msgid "DarkestHourGame.ROHints<18>"
 msgstr ""
 "Не стойте непосредственно за ракетным оружием во время его стрельбы; вы "
 "можете получить серьезную травму от выхлопа!"
 
-msgid "DarkestHourGame.ROHints[19]"
+msgid "DarkestHourGame.ROHints<19>"
 msgstr ""
 "ПТ-солдатам всегда следует брать с собой друга для запаса боеприпасов, "
 "быстрой перезарядки и защиты."
@@ -1847,8 +1851,8 @@ msgstr ""
 
 msgid "DHHintManager.Hints[53].Text"
 msgstr ""
-"Чтобы добавлять маркеры на карте и взаимодействовать с ними, наведите курсор "
-"на интересующую область или объект и нажмите [ПРАВУЮ МЫШЬ], чтобы вызвать "
+"Чтобы добавлять маркеры на карте и взаимодействовать с ними, наведите курсор"
+" на интересующую область или объект и нажмите [ПРАВУЮ МЫШЬ], чтобы вызвать "
 "контекстное меню."
 
 msgid "DHHintManager.Hints[63].Text"
@@ -1859,14 +1863,14 @@ msgstr ""
 msgid "DHHintManager.Hints[7].Text"
 msgstr ""
 "Чтобы отрегулировать цель миномета, удерживайте клавиши A или D. Чтобы "
-"увеличить высоту, нажмите клавишу S. Чтобы уменьшить высоту, нажмите клавишу "
-"W. Чтобы выбрать следующую цель, нажмите клавишу %SwitchFireMode%. Чтобы "
+"увеличить высоту, нажмите клавишу S. Чтобы уменьшить высоту, нажмите клавишу"
+" W. Чтобы выбрать следующую цель, нажмите клавишу %SwitchFireMode%. Чтобы "
 "выстрелить, нажмите клавишу %Fire%."
 
 msgid "DHHintManager.Hints[9].Text"
 msgstr ""
-"Вы можете оставить миномет в любой момент, нажав клавишу %Use%. Пока вы не в "
-"миномете, вы можете получить боеприпасы в зоне пополнения запасов или у "
+"Вы можете оставить миномет в любой момент, нажав клавишу %Use%. Пока вы не в"
+" миномете, вы можете получить боеприпасы в зоне пополнения запасов или у "
 "своих товарищей по команде."
 
 msgid "DHHintManager.Hints[44].Text"
@@ -1881,8 +1885,8 @@ msgstr ""
 
 msgid "DHHintManager.Hints[48].Text"
 msgstr ""
-"Вам нужно окрыть люк (и не использовать бинокль), чтобы перезарядить внешний "
-"пулемет"
+"Вам нужно окрыть люк (и не использовать бинокль), чтобы перезарядить внешний"
+" пулемет"
 
 msgid "DHHintManager.Hints[49].Text"
 msgstr ""
@@ -1910,8 +1914,8 @@ msgstr ""
 
 msgid "DHHintManager.Hints[52].Text"
 msgstr ""
-"Чтобы увеличить масштаб карты, наведите курсор на карту и используйте колесо "
-"прокрутки. Чтобы переместить карту, нажмите и удерживайте [ЛЕВУЮ МЫШЬ], "
+"Чтобы увеличить масштаб карты, наведите курсор на карту и используйте колесо"
+" прокрутки. Чтобы переместить карту, нажмите и удерживайте [ЛЕВУЮ МЫШЬ], "
 "затем переместите курсор."
 
 msgid "DHHud.SpawnVehicleText"
@@ -1922,7 +1926,7 @@ msgstr ""
 msgid "DHIQMessage.LeaderAWOLMessage"
 msgstr "Вы пренебрегаете своим отрядом и линиями снабжения."
 
-msgid "DHIQMessage.Congratulations[7]"
+msgid "DHIQMessage.Congratulations<7>"
 msgstr "Ты самый умный!"
 
 msgid "DHHud.JoinTeamText"
@@ -1973,8 +1977,8 @@ msgstr "%o был взорван собственным минометным с�
 
 msgid "DHMortarMessage.InUse"
 msgstr ""
-"Вы не можете управлять этим минометом, поскольку он используется в настоящее "
-"время"
+"Вы не можете управлять этим минометом, поскольку он используется в настоящее"
+" время"
 
 msgid "DHPlatoonHQMessage.DestroyedMessage"
 msgstr "Штаб взвода уничтожено."
@@ -2004,8 +2008,9 @@ msgstr "У вас недостаточно места, чтобы размест
 msgid "DHObjectiveMessage.NotificationMessage"
 msgstr "{0} {1} {2}"
 
-msgid "DHPawnTouchMessage.Messages[2]"
-msgstr "Нажмите [%THROWMGAMMO%], чтобы пополнить боеприпасы и перезарядить {0}"
+msgid "DHPawnTouchMessage.Messages<2>"
+msgstr ""
+"Нажмите [%THROWMGAMMO%], чтобы пополнить боеприпасы и перезарядить {0}"
 
 msgid "DHReinforcementAwardMsg.ReinforcementAttrition"
 msgstr "Ваша команда теряет значительное подкрепление из-за истощения!!!"
@@ -2037,7 +2042,7 @@ msgstr "Вы вошли на территорию, контролируемую 
 msgid "DHScoreEvent_VehicleKill.HumanReadableName"
 msgstr "Уничтожение транспортного средства"
 
-msgid "DHSquadLeaderAssistantVolunteerInteraction.Options[2].Text"
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<2>.Text"
 msgstr "Игнорировать все"
 
 msgid "DHSquadMessage.RallyPointInWater"
@@ -2091,8 +2096,8 @@ msgstr ""
 
 msgid "DHSquadMessage.NoVolunteersDisbanded"
 msgstr ""
-"Ваш отряд расформирован, поскольку отряд слишком мал и ни один из участников "
-"не вызвался стать лидером отряда."
+"Ваш отряд расформирован, поскольку отряд слишком мал и ни один из участников"
+" не вызвался стать лидером отряда."
 
 msgid "DHSquadMessage.YouAreNowAssistantMessage"
 msgstr "Теперь вы помощник командира отряда."
@@ -2124,10 +2129,10 @@ msgstr "Вы уже отправили игроку {0} запрос на пов
 msgid "DHSquadOrderMessage.AttentionText"
 msgstr "Командир отделения отдал новый приказ «Внимание»"
 
-msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings[2]"
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<2>"
 msgstr "Запрос на повышение командира отряда отправлен."
 
-msgid "DHVoteInfo.Options[1].Text"
+msgid "DHVoteInfo.Options<1>.Text"
 msgstr "Нет"
 
 msgid "DHVoteInfo_TeamSurrender.QuestionText"
@@ -2138,21 +2143,21 @@ msgstr ""
 "Пожалуйста, подождите %seconds% секунд, прежде чем голосовать за другую "
 "карту!"
 
-msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings[0]"
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<0>"
 msgstr ""
 "Пожалуйста, подождите немного, прежде чем отправлять еще один запрос на "
 "объединение отрядов."
 
-msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings[3]"
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<3>"
 msgstr "Для этого отряда уже существует запрос на объединение."
 
 msgid "DHSupplyMessage.SuppliesLoaded"
 msgstr "{0} припасов было загружено в грузовик из ближайшего {1}"
 
-msgid "DarkestHourGame.ROHints[6]"
+msgid "DarkestHourGame.ROHints<6>"
 msgstr ""
-"Приседание и положение лежа стабилизируют ваше оружие и уменьшают отдачу при "
-"стрельбе."
+"Приседание и положение лежа стабилизируют ваше оружие и уменьшают отдачу при"
+" стрельбе."
 
 msgid "DHWeaponBayonetDamageType.DeathString"
 msgstr "%o был пронзён штыком из %w %k."
@@ -2165,24 +2170,25 @@ msgstr ""
 "Ваше оружие заблокировано из-за того, что вы убили товарища на этапе "
 "возрождения!"
 
-msgid "DarkestHourGame.ROHints[0]"
+msgid "DarkestHourGame.ROHints<0>"
 msgstr ""
 "Вы можете увидеть карту целей, которые необходимо захватить или защитить, "
 "нажав %SHOWOBJECTIVES%."
 
-msgid "DarkestHourGame.ROHints[11]"
+msgid "DarkestHourGame.ROHints<11>"
 msgstr ""
 "Игроки получают 1 очко за пополнение запасов пулеметчиков, которым нужны "
 "боеприпасы."
 
-msgid "DarkestHourGame.ROHints[12]"
+msgid "DarkestHourGame.ROHints<12>"
 msgstr ""
 "Пулемет более эффективен при стрельбе короткими контролируемыми очередями."
 
-msgid "DarkestHourGame.ROHints[14]"
-msgstr "При взятии цели присутствие офицера повышает мораль и облегчает задачу!"
+msgid "DarkestHourGame.ROHints<14>"
+msgstr ""
+"При взятии цели присутствие офицера повышает мораль и облегчает задачу!"
 
-msgid "DarkestHourGame.ROHints[16]"
+msgid "DarkestHourGame.ROHints<16>"
 msgstr ""
 "У пулеметчиков ограниченное поле зрения, поэтому попробуйте атаковать их "
 "сбоку."
@@ -2192,18 +2198,18 @@ msgstr ""
 "Ваше оружие заблокировано из-за чрезмерного количества убийств игроков на "
 "этапе возрождения!"
 
-msgid "DarkestHourGame.ROHints[2]"
+msgid "DarkestHourGame.ROHints<2>"
 msgstr ""
 "Чтобы захватить цель, вы должны сначала войти в зону цели. Вам, вероятно, "
-"понадобится более одного дополнительного товарища по команде, чтобы начать и "
-"завершить захват."
+"понадобится более одного дополнительного товарища по команде, чтобы начать и"
+" завершить захват."
 
-msgid "DarkestHourGame.ROHints[8]"
+msgid "DarkestHourGame.ROHints<8>"
 msgstr ""
 "Вы можете разместить пулемет практически на любом объекте - нажмите "
 "%DEPLOY%, когда появится значок развертывания, чтобы развернуть его."
 
-msgid "DarkestHourGame.ROHints[17]"
+msgid "DarkestHourGame.ROHints<17>"
 msgstr ""
 "Как только вы выстрелите из Базуки или Панцершрека, БЫСТРО доберитесь до "
 "нового укрытия, так как дым от вашего выстрела выдаст ваше местоположение. "

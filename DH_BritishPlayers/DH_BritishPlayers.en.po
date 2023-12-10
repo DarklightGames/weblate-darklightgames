@@ -1,9 +1,10 @@
+#
 msgid ""
 msgstr ""
-"Language: en"
-"MIME-Version: 1.0"
-"Content-Type: text/plain"
-"Content-Transfer-Encoding: 8bit"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain\n"
+"Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
 
 msgid "DHBritishVoice.SupportString[5]"
 msgstr "We need a PIAT!"
@@ -52,4 +53,3 @@ msgstr "Great Britain"
 
 msgid "DHNation_Canada.NationName"
 msgstr "Canada"
-
