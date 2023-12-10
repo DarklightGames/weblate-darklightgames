@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-09 07:59+0000\n"
-"Last-Translator: Владислав Коваленко <kovalenkov222@gmail.com>\n"
+"PO-Revision-Date: 2023-12-10 13:42+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
 "Language: uk\n"
@@ -429,3 +429,78 @@ msgstr "WebAdmin Порт"
 
 msgid "DHBrowser_ServerListBox.RCMenu.ContextItems[10]"
 msgstr "Додати до обраного"
+
+msgid "DHTab_GameSettings.NetSpeedText[3]"
+msgstr "Рекомендована ({0})"
+
+msgid "DHTab_DetailSettings.WeatherEffects.Caption"
+msgstr "Ефекти погоди"
+
+msgid "DHTab_DetailSettings.sbSection3.Caption"
+msgstr "Тест гамми"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Hint"
+msgstr "Коли надсилати автоматичні голосові сповіщення в машинах"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[1]"
+msgstr "Тільки з членами екіпажу"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[6]"
+msgstr "Гравці"
+
+msgid "DHBrowser_ServersList.ColumnHeadings[7]"
+msgstr "Пінг"
+
+msgid "DHTab_DetailSettings.sbSection1.Caption"
+msgstr "Базовий рендеринг"
+
+msgid "DHTab_DetailSettings.sbSection2.Caption"
+msgstr "Ігрові деталі"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[0]"
+msgstr "Ніколи"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[0]"
+msgstr "Ніколи"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[1]"
+msgstr "Щомісячно"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[2]"
+msgstr "Щорічно"
+
+msgid "DHTab_GameSettings.IDText"
+msgstr "ID:"
+
+msgid "DHTab_GameSettings.NoROIDText"
+msgstr "Спочатку приєднайтесь до мультиплеєра"
+
+msgid "DHTab_GameSettings.DegreesText"
+msgstr "градусів"
+
+msgid "DHTab_GameSettings.NetSpeedText[4]"
+msgstr "Висока ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[5]"
+msgstr "Екстремальна ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[6]"
+msgstr "Визначена користувачем (%NetSpeed%)"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[2]"
+msgstr "Завжди"
+
+msgid "DHTab_GameSettings.PanelCaption"
+msgstr "Гра"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Caption"
+msgstr "Автоматичні сповіщення в машинах"
+
+msgid "DHTab_GameSettings.CopyROIDButton.Caption"
+msgstr "Скопіювати ID до буферу обміну"
+
+msgid "DHTab_GameSettings.CopyROIDButton.Hint"
+msgstr "Це дозволить вам вставити ROID як текст"
+
+msgid "DHTab_GameSettings.DynamicNetspeed.Caption"
+msgstr "Динамічна NetSpeed"
