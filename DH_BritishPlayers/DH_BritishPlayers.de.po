@@ -1,10 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2023-12-11 18:36+0000\n"
+"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
+"Language-Team: German <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_britishplayers/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.2.1\n"
 
 #, fuzzy
 msgid "DHBritishVoice.SupportString[5]"
@@ -31,3 +37,15 @@ msgstr "Großbritannien"
 
 msgid "DHNation_Canada.NationName"
 msgstr "Kanada"
+
+msgid "DHCWCorporalRoles.MyName"
+msgstr "Lance Corporal"
+
+msgid "DHCWCorporalRoles.PluralName"
+msgstr "Lance Corporals"
+
+msgid "DHCWSergeantRoles.MyName"
+msgstr "Corporal"
+
+msgid "DHCWSergeantRoles.PluralName"
+msgstr "Corporals"
