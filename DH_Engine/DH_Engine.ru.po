@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-11 18:36+0000\n"
+"PO-Revision-Date: 2023-12-12 19:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -674,7 +674,7 @@ msgid "DHVehicleCollisionDamageType.MaleSuicide"
 msgstr "%o погиб в автокатастрофе."
 
 msgid "DHVehicleMGPawn.HudName"
-msgstr "MG"
+msgstr "Пулемет"
 
 msgid "DHVehicleMessage.AllRiderPositionsFull"
 msgstr "Все места водителей заняты"
@@ -1643,10 +1643,10 @@ msgid "DHVoiceReplicationInfo.LocalChannelText"
 msgstr "Местный"
 
 msgid "DHVoiceReplicationInfo.PublicChannelNames<0>"
-msgstr "Команда"
+msgstr "Командир"
 
 msgid "DHVoiceReplicationInfo.PublicChannelNames<1>"
-msgstr "Команда"
+msgstr "Командир"
 
 msgid "DHVoiceReplicationInfo.PublicChannelNames<2>"
 msgstr "Неназначенные"
@@ -1755,7 +1755,7 @@ msgid "DHWeaponPickup.PickupMessage"
 msgstr "Вы взяли {0}"
 
 msgid "DHWeaponProjectileDamageType.DeathString"
-msgstr "%o был убит из %w %k."
+msgstr "%o был убит %k из %w."
 
 msgid "DHWeaponProjectileDamageType.MaleSuicide"
 msgstr "%o был убит своим %w."
@@ -1770,7 +1770,7 @@ msgid "DHWeaponsLockedMessage.LockedSetupPhaseMessage"
 msgstr "Ваше оружие заблокировано"
 
 msgid "DHWeaponsLockedMessage.UnlockedMessage"
-msgstr "Ваше оружие теперь разблокировано"
+msgstr "Ваше оружие разблокировано"
 
 msgid "DH_ModifyRoundTimeMessage.IncreasedText"
 msgstr "увеличено"
@@ -1785,8 +1785,7 @@ msgid "DH_ModifyRoundTimeMessage.RoundTimeModifiedText"
 msgstr "Время было {0}."
 
 msgid "DarkestHourGame.ROHints<1>"
-msgstr ""
-"Вы можете «приготовить» гранату Mk II, нажав %FIRE3%, удерживая гранату."
+msgstr "Вы можете «приготовить» гранату, нажав %FIRE3%, удерживая гранату."
 
 msgid "DarkestHourGame.ROHints<3>"
 msgstr ""
