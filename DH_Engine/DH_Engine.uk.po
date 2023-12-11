@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-10 13:42+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2023-12-11 04:25+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
 "Language: uk\n"
@@ -1428,3 +1428,8 @@ msgstr "Запит на мінометну підтримку"
 
 msgid "DHConstructionErrorMessage.ErrorMessages[4]"
 msgstr "Ви не можете {verb} тут '{name}', оскільки ви знаходитесь воді."
+
+msgid "DarkestHourGame.ROHints<13>"
+msgstr ""
+"Ствол на Browning M1919 не можливо замінити, будьте обережні, щоб не "
+"перегріти його!"
