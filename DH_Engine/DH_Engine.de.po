@@ -1,10 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2023-12-11 18:36+0000\n"
+"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
+"Language-Team: German <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_engine/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.2.1\n"
 
 #, fuzzy
 msgid "DHATCannonMessage.GunIsRotating"
@@ -13,3 +19,68 @@ msgstr "Das Geschütz wird ausgerichtet"
 #, fuzzy
 msgid "DHATCannonMessage.NotQualified"
 msgstr "Nicht ausgebildet dieses Geschütz zu bedienen"
+
+msgid "DHATCannonMessage.VehicleIsEnemy"
+msgstr "Feindliche Geschütze können nicht bedient werden"
+
+msgid "DHATCannonMessage.CannotEnter"
+msgstr "Das Geschütz ist bereits bemannt"
+
+#, fuzzy
+msgid "DHATGunCannonPawn.HudName"
+msgstr "Richtschütze"
+
+#, fuzzy
+msgid "DHATLoadFailMessage.CantLoad"
+msgstr "{0} kann nur aufliegend nachgeladen werden"
+
+#, fuzzy
+msgid "DHATLoadMessage.LoadedGunner"
+msgstr "{0} wurde nachgeladen"
+
+#, fuzzy
+msgid "DHATLoadMessage.BeenLoaded"
+msgstr "Du wurdest von {0} nachgeladen"
+
+msgid "DHATLoadMessage.UnLoaded"
+msgstr "Das Geschoss wurde entladen"
+
+#, fuzzy
+msgid "DHAccessControl.SessionBanned"
+msgstr "Sie können diesem Server erst nach Kartenwechsel beitreten."
+
+msgid "DHAdminMessage.KickedFromSquadMessage"
+msgstr "Admin '{0}' hat '{1}' aus Gruppe '{2}' entfernt."
+
+#, fuzzy
+msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
+msgstr "Admin '{0}' hat '{1}' zum Gruppenführer von '{2}' befördert."
+
+#, fuzzy
+msgid "DHAlliedAntiTankRoles.MyName"
+msgstr "Panzerabwehrsoldat"
+
+#, fuzzy
+msgid "DHAxisAntiTankRoles.PluralName"
+msgstr "Panzerabwehrsoldaten"
+
+msgid "DHATGunTouchMessage.RotateHintString"
+msgstr "{0} halten zum ausrichten"
+
+#, fuzzy
+msgid "DHAlliedAntiTankRoles.PluralName"
+msgstr "Panzerabwehrsoldaten"
+
+#, fuzzy
+msgid "DHAccessControl.IPBanned"
+msgstr "Diesem Server kann nicht beigetreten werden, Sie wurden gebannt."
+
+#, fuzzy
+msgid "DHAxisAntiTankRoles.MyName"
+msgstr "Panzerabwehrsoldat"
+
+msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
+msgstr "Ausrichten beenden"
+
+msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
+msgstr "Ausrichten"
