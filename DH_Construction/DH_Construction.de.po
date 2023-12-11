@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-06 19:08+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
+"PO-Revision-Date: 2023-12-11 18:36+0000\n"
+"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/de/>\n"
 "Language: de\n"
@@ -127,3 +127,12 @@ msgstr "Sandsäcke (Bunker)"
 
 msgid "DHConstructionControlsMessage.Controls[0].Text"
 msgstr "Bestätigen"
+
+msgid "DHConstructionGroup_Defenses.GroupName"
+msgstr "Befestigungen"
+
+msgid "DHConstruction_PlatoonHQ.MenuName"
+msgstr "Zug Gefechtsstand"
+
+msgid "DHConstruction_Resupply.ConstructionVerb"
+msgstr "errichten"
