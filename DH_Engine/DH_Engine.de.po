@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-11 18:36+0000\n"
+"PO-Revision-Date: 2023-12-12 19:39+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/de/>\n"
@@ -84,3 +84,414 @@ msgstr "Ausrichten beenden"
 
 msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
 msgstr "Ausrichten"
+
+msgid "DHAlliedAssaultRoles.MyName"
+msgstr "Sturmsoldat"
+
+msgid "DHAlliedAssaultRoles.PluralName"
+msgstr "Sturmsoldaten"
+
+#, fuzzy
+msgid "DHAlliedAutoRifleRoles.MyName"
+msgstr "Leichter Maschinengewehrschütze"
+
+#, fuzzy
+msgid "DHAlliedAutoRifleRoles.PluralName"
+msgstr "Leichte Maschinengewehrschützen"
+
+#, fuzzy
+msgid "DHAlliedEngineerRoles.MyName"
+msgstr "Sturmpionier"
+
+#, fuzzy
+msgid "DHAlliedEngineerRoles.PluralName"
+msgstr "Sturmpioniere"
+
+#, fuzzy
+msgid "DHAlliedMachineGunnerRoles.MyName"
+msgstr "Maschinengewehrschütze"
+
+#, fuzzy
+msgid "DHAlliedMachineGunnerRoles.PluralName"
+msgstr "Maschinengewehrschützen"
+
+#, fuzzy
+msgid "DHAlliedMortarmanRoles.MyName"
+msgstr "Mörserschütze"
+
+#, fuzzy
+msgid "DHAlliedCorporalRoles.MyName"
+msgstr "Rottenführer"
+
+#, fuzzy
+msgid "DHAlliedCorporalRoles.PluralName"
+msgstr "Rottenführer"
+
+#, fuzzy
+msgid "DHAlliedRadioOperatorRoles.MyName"
+msgstr "Funker"
+
+#, fuzzy
+msgid "DHAlliedRadioOperatorRoles.PluralName"
+msgstr "Funker"
+
+#, fuzzy
+msgid "DHAlliedRiflemanRoles.MyName"
+msgstr "Schütze"
+
+#, fuzzy
+msgid "DHAlliedRiflemanRoles.PluralName"
+msgstr "Schützen"
+
+#, fuzzy
+msgid "DHAlliedSergeantRoles.PluralName"
+msgstr "Scharführer"
+
+#, fuzzy
+msgid "DHAlliedSniperRoles.MyName"
+msgstr "Scharfschütze"
+
+#, fuzzy
+msgid "DHAlliedSniperRoles.PluralName"
+msgstr "Scharfschützen"
+
+#, fuzzy
+msgid "DHAlliedTankCrewmanRoles.MyName"
+msgstr "Panzerbesatzung"
+
+#, fuzzy
+msgid "DHAlliedTankCrewmanRoles.PluralName"
+msgstr "Panzerbesatzungen"
+
+#, fuzzy
+msgid "DHAmericanCannonPawn.RangeText"
+msgstr "Yards"
+
+#, fuzzy
+msgid "DHAntiTankProjectileDamageType.FemaleSuicide"
+msgstr "%o wurde von ihrem eigenen %w in die Luft gejagt."
+
+#, fuzzy
+msgid "DHAntiTankProjectileDamageType.MaleSuicide"
+msgstr "%o wurde von seinem eigenen %w in die Luft gejagt."
+
+#, fuzzy
+msgid "DHArtillery.MenuName"
+msgstr "Schwere Artillerie"
+
+msgid "DHArtillery105DamageType.DeathString"
+msgstr "%o wurde von einer Artilleriegranate zerfetzt."
+
+#, fuzzy
+msgid "DHArtillery105DamageType.MaleSuicide"
+msgstr "%o war sorglos im Umgang mit seiner eigenen Artilleriegranate."
+
+msgid "DHArtilleryKillDamageType.DeathString"
+msgstr "%o wurde von einer Artilleriegranate zerfetzt."
+
+#, fuzzy
+msgid "DHArtilleryKillDamageType.FemaleSuicide"
+msgstr "%o war sorglos im Umgang mit ihrer eigenen Artilleriegranate."
+
+msgid "DHArtilleryMessage.RequestText"
+msgstr "{name} anfordern."
+
+msgid "DHArtilleryMessage.ConfirmText"
+msgstr "{name} bestätigt."
+
+msgid "DHArtilleryMessage.DenyText"
+msgstr "{name} abgelehnt."
+
+#, fuzzy
+msgid "DHArtilleryMessage.TooSoonText"
+msgstr "{name} ist gerade in Benutzung. Später erneut versuchen."
+
+msgid "DHArtilleryMessage.ExhaustedText"
+msgstr "{name} ist aufgebraucht."
+
+msgid "DHArtilleryMessage.UnavailableText"
+msgstr "{name} ist zurzeit nicht verfügbar."
+
+msgid "DHArtilleryMessage.NoTargetText"
+msgstr "Keine zugewiesenen Zielkoordinaten."
+
+msgid "DHArtilleryMessage.NotQualifiedText"
+msgstr "Sie sind nicht ausgebildet um {name} anzufordern."
+
+msgid "DHArtilleryMessage.CancelledText"
+msgstr "{name} wurde abgebrochen."
+
+#, fuzzy
+msgid "DHArtilleryMessage.ActiveTargetChosen"
+msgstr "Feuerunterstützungsziel ausgewählt."
+
+msgid "DHAxisSniperRoles.MyName"
+msgstr "Scharfschütze"
+
+#, fuzzy
+msgid "DHArtillerySpottingScope.TargetToggleHint"
+msgstr "{0} drücken um zwischen Artilleriezielen zu wechseln."
+
+#, fuzzy
+msgid "DHArtillerySpottingScope.SelectTargetHint"
+msgstr "{0} drücken um ein Artillerieziel auszuwählen."
+
+#, fuzzy
+msgid "DHArtilleryTargetMessage.TargetInvalid"
+msgstr "Unzulässe Artilleriezielkoordinaten"
+
+msgid "DHArtilleryTargetMessage.TargetMarkedHE"
+msgstr "{0} hat Zielkoordinaten für hochexplosiv Granaten markiert"
+
+#, fuzzy
+msgid "DHArtilleryTargetMessage.TargetMarkedSmoke"
+msgstr "{0} hat Zielkoordinaten für Nebelgranaten markiert"
+
+#, fuzzy
+msgid "DHArtilleryTargetMessage.TooManyArtilleryTargets"
+msgstr "Es gibt zu viele aktive Artilleriezielkoordinaten"
+
+#, fuzzy
+msgid "DHAxisAssaultRoles.MyName"
+msgstr "Sturmsoldat"
+
+#, fuzzy
+msgid "DHAxisAssaultRoles.PluralName"
+msgstr "Sturmsoldaten"
+
+#, fuzzy
+msgid "DHAxisCorporalRoles.MyName"
+msgstr "Rottenführer"
+
+#, fuzzy
+msgid "DHAxisCorporalRoles.PluralName"
+msgstr "Rottenführer"
+
+#, fuzzy
+msgid "DHAxisEngineerRoles.MyName"
+msgstr "Sturmpionier"
+
+#, fuzzy
+msgid "DHAxisEngineerRoles.PluralName"
+msgstr "Sturmpioniere"
+
+msgid "DHAxisMachineGunnerRoles.MyName"
+msgstr "Maschinengewehrschütze"
+
+msgid "DHAxisMachineGunnerRoles.PluralName"
+msgstr "Maschinengewehrschützen"
+
+#, fuzzy
+msgid "DHAxisMarksmanRoles.MyName"
+msgstr "Scharfschütze"
+
+msgid "DHAxisMarksmanRoles.PluralName"
+msgstr "Scharfschützen"
+
+msgid "DHAxisMortarmanRoles.MyName"
+msgstr "Mörserschütze"
+
+msgid "DHAxisMortarmanRoles.PluralName"
+msgstr "Mörserschützen"
+
+msgid "DHAxisRadioOperatorRoles.PluralName"
+msgstr "Funker"
+
+msgid "DHAxisRiflemanRoles.MyName"
+msgstr "Schütze"
+
+msgid "DHAxisRiflemanRoles.PluralName"
+msgstr "Schützen"
+
+#, fuzzy
+msgid "DHAxisSergeantRoles.MyName"
+msgstr "Unteroffizier"
+
+#, fuzzy
+msgid "DHAxisSergeantRoles.PluralName"
+msgstr "Unteroffiziere"
+
+msgid "DHAxisSniperRoles.PluralName"
+msgstr "Scharfschützen"
+
+msgid "DHAxisTankCrewmanRoles.MyName"
+msgstr "Panzerbesatzung"
+
+msgid "DHAxisTankCrewmanRoles.PluralName"
+msgstr "Panzerbesatzungen"
+
+#, fuzzy
+msgid "DHBritishCannonPawn.RangeText"
+msgstr "Yards"
+
+msgid "DHBurningDamageType.DeathString"
+msgstr ""
+"%o wurde von einem Feuer zu einem Stück Kohle verbrannt das %k gelegt hat."
+
+#, fuzzy
+msgid "DHBurningDamageType.FemaleSuicide"
+msgstr "%o hat sich selbst abgefackelt."
+
+#, fuzzy
+msgid "DHBurningDamageType.MaleSuicide"
+msgstr "%o hat sich selbst abgefackelt."
+
+msgid "DHCanisterShotDamageType.DeathString"
+msgstr "%o wurde von %k's Kanistergeschoss durchsiebt."
+
+#, fuzzy
+msgid "DHCanisterShotDamageType.FemaleSuicide"
+msgstr "%o wurde von ihrem eigenen Kanistergeschoss zersiebt."
+
+#, fuzzy
+msgid "DHCanisterShotDamageType.MaleSuicide"
+msgstr "%o wurde von seinem eigenen Kanistergeschoss zersiebt."
+
+#, fuzzy
+msgid "DHChatRoomMessage.CannotJoinSquadChannelText"
+msgstr ""
+"Konnte Funkkanal`%title%`nicht beitreten. Sie müssen Teil einer Gruppe sein."
+
+msgid "DHCommandMenu_ATGun.EnemyGunText"
+msgstr "Gegnerische Geschütze können nicht ausgerichtet werden"
+
+msgid "DHCommandMenu_ATGun.CannotBeRotatedText"
+msgstr "Kann nicht ausgerichtet werden"
+
+msgid "DHCommandMenu_ATGun.OccupiedText"
+msgstr "Geschütz ist bemannt"
+
+msgid "DHCommandMenu_ATGun.FatalText"
+msgstr "Ausrichten nicht verfügbar"
+
+msgid "DHCommandMenu_ATGun.CooldownText"
+msgstr "Warten"
+
+msgid "DHCommandMenu_FireSupport.UnavailableText"
+msgstr "Nicht verfügbar"
+
+msgid "DHCommandMenu_FireSupport.InvalidTargetText"
+msgstr "Unzulässiges Ziel"
+
+msgid "DHCommandMenu_FireSupport.OffMapSupportExhaustedText"
+msgstr "Erschöpft"
+
+msgid "DHCommandMenu_FireSupport.AvailableArtilleryText"
+msgstr "Artillerie: {0}"
+
+#, fuzzy
+msgid "DHCommandMenu_FireSupport.AvailableParadropsText"
+msgstr "Fallschirmabwürfe: {0}"
+
+#, fuzzy
+msgid "DHCommandMenu_FireSupport.AvailableAirstrikesText"
+msgstr "Luftschläge: {0}"
+
+#, fuzzy
+msgid "DHCommandMenu_LoneWolf.AutoJoinSquadDisabledText"
+msgstr "Keine geeigneten Gruppen"
+
+msgid "DHCommandMenu_Radio.UnavailableText"
+msgstr "Nicht verfügbar"
+
+msgid "DHCommandMenu_Radio.ExhaustedText"
+msgstr "Erschöpft"
+
+#, fuzzy
+msgid "DHCommandMenu_Radio.UnqualifiedText"
+msgstr "Nicht ausgebildet"
+
+#, fuzzy
+msgid "DHCommandMenu_Radio.OngoingText"
+msgstr "Im Gange"
+
+msgid "DHCommandMenu_Radio.AvailableText"
+msgstr "Verfügbar"
+
+#, fuzzy
+msgid "DHCommandMenu_Radio.CancelText"
+msgstr "Im Gange (Abbrechen)"
+
+#, fuzzy
+msgid "DHCommandMenu_SquadLeader.InEnemyTerritory"
+msgstr "In feindlichem Gebiet"
+
+msgid "DHCommandMenu_SquadManageNonMember.AlreadyInASquadText"
+msgstr "Bereits in einer Gruppe"
+
+msgid "DHCommandMenu_SquadManageNonMember.SquadIsFullText"
+msgstr "Gruppe ist voll"
+
+#, fuzzy
+msgid "DHCommandSayMessage.MessagePrefix"
+msgstr "[FÜHRUNG]"
+
+msgid "DHConstruction.ConstructionVerb"
+msgstr "errichten"
+
+#, fuzzy
+msgid "DHAlliedMortarmanRoles.PluralName"
+msgstr "Mörserschützen"
+
+#, fuzzy
+msgid "DHAlliedSergeantRoles.MyName"
+msgstr "Scharführer"
+
+#, fuzzy
+msgid "DHAntiTankProjectileDamageType.DeathString"
+msgstr "%o wurde von %k's %w in die Luft gejagt."
+
+#, fuzzy
+msgid "DHArtilleryKillDamageType.MaleSuicide"
+msgstr "%o war sorglos im Umgang mit seiner eigenen Artilleriegranate."
+
+msgid "DHAxisRadioOperatorRoles.MyName"
+msgstr "Funker"
+
+#, fuzzy
+msgid "DHArtillery105DamageType.FemaleSuicide"
+msgstr "%o war sorglos im Umgang mit ihrer eigenen Artilleriegranate."
+
+#, fuzzy
+msgid "DHArtilleryMessage.BadLocationText"
+msgstr "Zielkoordinaten nicht zulässig für {name}."
+
+#, fuzzy
+msgid "DHArtillerySpottingScope.NoTargetsHint"
+msgstr "Keine Zielkoordinaten vorhanden."
+
+#, fuzzy
+msgid "DHArtilleryTargetMessage.CannotMarkTargetYet"
+msgstr ""
+"Es können derzeit noch keine weiteren Artilleriezielkoordinaten markiert "
+"werden."
+
+#, fuzzy
+msgid "DHChatRoomMessage.CannotJoinCommandChannelText"
+msgstr ""
+"Konnte Funkkanal`%title%` nicht beitreten. Sie müssen Gruppenführer oder "
+"Assistent sein und die Gruppe muss aus mindestens 2 Personen bestehen."
+
+#, fuzzy
+msgid "DHCommunicationMessage.AllChatDisabledMessage"
+msgstr "Öffentlicher Chat ist derzeit deaktiviert."
+
+#, fuzzy
+msgid "DHConstructionErrorMessage.ErrorMessages<2>"
+msgstr "{name} lässt sich nur auf festem Grund {verb}."
+
+#, fuzzy
+msgid "DHConstructionErrorMessage.ErrorMessages<3>"
+msgstr "Der Boden ist zu steil an dieser Stelle um {name} zu {verb}."
+
+#, fuzzy
+msgid "DHConstructionErrorMessage.ErrorMessages<4>"
+msgstr "{name} kann nicht in Wasser {verb} werden."
+
+#, fuzzy
+msgid "DHConstructionErrorMessage.ErrorMessages<5>"
+msgstr "An dieser Stelle lässt sich kein {name} {verb}."
+
+#, fuzzy
+msgid "DHConstructionErrorMessage.ErrorMessages<6>"
+msgstr "Nicht ausreichend Platz an dieser Stelle um {name} zu {verb}."
