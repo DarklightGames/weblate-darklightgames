@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-11 04:25+0000\n"
+"PO-Revision-Date: 2023-12-11 18:36+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
@@ -1433,3 +1433,90 @@ msgid "DarkestHourGame.ROHints<13>"
 msgstr ""
 "Ствол на Browning M1919 не можливо замінити, будьте обережні, щоб не "
 "перегріти його!"
+
+msgid "DHSquadPromotionRequestInteraction.Options<2>.Text"
+msgstr "Ігнорувати всі"
+
+msgid "DHSquadMessage.SquadPromotionRequestSentMessage"
+msgstr "Запит на підвищення до командиру загону надіслано до {0}."
+
+msgid "DHSquadOrderMessage.AttackText"
+msgstr "Командир загону віддав новий наказ на Атаку"
+
+msgid "DHSquadOrderMessage.AttentionText"
+msgstr "Командир загону віддав новий наказ на Увагу"
+
+msgid "DHSquadMessage.SquadPromotionRequestDuplicateMessage"
+msgstr "Ви вже надіслали запит на підвищення до {0}."
+
+msgid "DHSquadOrderMessage.WaitText"
+msgstr "Зачекайте, перш ніж віддати новий наказ"
+
+msgid "DHSquadOrderMessage.DefendText"
+msgstr "Командир загону віддав новий наказ на Оборону"
+
+msgid "DHSquadOrderMessage.MoveText"
+msgstr "Командир загону віддав новий наказ Вирушити"
+
+msgid "DHSquadPromotionRequestInteraction.PromptText"
+msgstr "{0} хоче підвищити вас до командира загону {1}."
+
+msgid "DHVehicleCollisionDamageType.MaleSuicide"
+msgstr "%o закинув у автокатастрофі."
+
+msgid "DHVehicleMGPawn.HudName"
+msgstr "Кулемет"
+
+msgid "DHVehicleMessage.AllRiderPositionsFull"
+msgstr "Всі пасажирські місця зайняті"
+
+msgid "DHVehicleMessage.VehicleBurning"
+msgstr "Машина в огні!"
+
+msgid "DHVehicleMessage.OpenHatchToExit"
+msgstr "Щоб вийти, необхідно відкрити люк {0}"
+
+msgid "DHVehicleMessage.ExitCommandersHatch"
+msgstr "Вихід тільки через люк командира"
+
+msgid "DHVehicleMessage.ExitDriverOrComHatch"
+msgstr "Вихід тільки через люк водія або командира"
+
+msgid "DHVehicleMessage.ExitCommandersOrMGHatch"
+msgstr "Вихід тільки через люк командира або кулеметника"
+
+msgid "DHVehicleMessage.CantFindExitPosition"
+msgstr "Не має місця куда вийти"
+
+msgid "DHVehicleMessage.VehicleNowLocked"
+msgstr "Позиції екіпажу танка в цій машині заблоковано"
+
+msgid "DHVehicleMessage.VehicleNowUnlocked"
+msgstr "Позиції екіпажу танка в цій машині разблоковано."
+
+msgid "DHVehicleMessage.CantEnterLockedVehicle"
+msgstr "Ця машина була заблокована экіпажем"
+
+msgid "DHVehicleMessage.OnlyTankCrewCanLockVehicle"
+msgstr "Тільки экіпаж танку може заблокувати/розблокувати машину"
+
+msgid "DHVehicleMessage.CanOnlyLockFromCrewPosition"
+msgstr "Ви можете заблокувати/розблокувати машину тільки з позиції экіпажу"
+
+msgid "DHVehicleMessage.OtherCrewmanCanLockVehicle"
+msgstr "Тільки самий старший член екіпажу може заблокувати/розблокувати машину"
+
+msgid "DHVehicleMessage.UnbuttonToReload"
+msgstr "Для перезарядки необхідно відкрити люк {0}"
+
+msgid "DHVehicleMessage.UnbuttonHatchToChangePosition"
+msgstr "Щоб змінити позіцію, необхідно відкрити люк {0}"
+
+msgid "DHVehicleMessage.NotQualified"
+msgstr "У вас не має кваліфікації для керування цією машиною"
+
+msgid "DHVehicleMessage.VehicleIsEnemy"
+msgstr "Ви не можете користуватися ворожою машиною"
+
+msgid "DHVehicleMessage.CannotEnter"
+msgstr "Машина заповнена"
