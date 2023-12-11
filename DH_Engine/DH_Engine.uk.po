@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-11 18:36+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
 "Language: uk\n"
@@ -1520,3 +1520,523 @@ msgstr "Ви не можете користуватися ворожою маш�
 
 msgid "DHVehicleMessage.CannotEnter"
 msgstr "Машина заповнена"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<8>"
+msgstr ""
+"Надто близько до існуючого дружнього {name}, ви повинні бути на {integer}м "
+"далі."
+
+msgid "DHPawnTouchMessage.Messages<0>"
+msgstr "Натисніть [%THROWMGAMMO%], щоб поповнити боєприпаси {0}"
+
+msgid "DHPlatoonHQMessage.ConstructedMessage"
+msgstr "Штаб взводу побудовано і буде створений за {0} секунд."
+
+msgid "DHRocketWarningMessage.NoHipFire"
+msgstr "Ви не можете стріляти з {0} сидячи"
+
+msgid "DHScoreEvent_FriendlyResupply.HumanReadableName"
+msgstr "Дружнє поповнення боєприпасів"
+
+msgid "DHSetupPhaseMessage.PhaseMessage"
+msgstr "Битва почнеться через {0} секунд"
+
+msgid "DHShellImpactDamageType.MaleSuicide"
+msgstr "%o загинув від власного гарматного снаряду."
+
+msgid "DHSquadMessage.YouVolunteeredToBeSquadLeader"
+msgstr ""
+"Ви зголосилися бути командиром загону. Новий командир загону буде обраний "
+"найближчим часом."
+
+msgid "DHSquadMessage.NoVolunteersDisbanded"
+msgstr ""
+"Ваш загін був розформований, тому що загін занадто малий і ніхто не "
+"зголосився бути командиром загону."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<2>"
+msgstr "Ви повинні бути на твердій поверхні, щоб {verb} тут '{name}'."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<10>"
+msgstr ""
+"Ви не можете {verb} тут '{name}', оскільки ви знаходитесь на мінному полі."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<18>"
+msgstr "На цьому місці неможливо {verb} '{name}'."
+
+msgid "DHPawnTouchMessage.Messages<2>"
+msgstr "Натисніть [%THROWMGAMMO%], щоб поповнити боєприпаси і перезарядити {0}"
+
+msgid "DHReinforcementMsg.ReinforcementsDepleted"
+msgstr "У вашої команди закінчилось підкріплення!"
+
+msgid "DHRocketExhaustDamageType.FemaleSuicide"
+msgstr "%o була спалена вихлопами свого власного %w."
+
+msgid "DHRocketWarningMessage.CantBeMoving"
+msgstr "Ви повинні бути нерухомими, щоб вистрілити з {0}"
+
+msgid "DHScoreEvent_SquadRallyPointEstablishedAssist.HumanReadableName"
+msgstr "Створено точку збору загону (Помічник)"
+
+msgid "DHSquadLeaderVolunteerInteraction.PromptText"
+msgstr ""
+"Вашому загону потрібен лідер! Викличтеся стати командиром загону? {time}"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<2>"
+msgstr "У цей загін неможливо надіслати запит на об'єднання."
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<3>"
+msgstr "Для цього загону вже існує запит на об'єднання."
+
+msgid "DHVehicleBurningDamageType.DeathString"
+msgstr "%o згорів у пожежі, яку влаштував %k."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<4>"
+msgstr "Ви не можете {verb} тут '{name}', оскільки ви знаходитесь у воді."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<7>"
+msgstr "Щоб {verb} тут '{name}', ви повинні знаходитись на земляній місцевості."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<14>"
+msgstr ""
+"Ваша команда більше не може {verb} тут '{name}' (досягнуто ліміт: {integer})."
+
+msgid "DHPlatoonHQMessage.DestroyedMessage"
+msgstr "Штаб взводу було знищено."
+
+msgid "DHRadioTouchMessage.NotOwnedMessage"
+msgstr "Не можна користуватися ворожими радіостанціями"
+
+msgid "DHReinforcementAwardMsg.ReinforcementLoss"
+msgstr "Ваша команда втратила {0} підкріплень за втрату {1}!"
+
+msgid "DHRocketWarningMessage.ProneOrRestToFire"
+msgstr ""
+"англійська\n"
+"Для стрільби з {0} вам потрібно лежати або відвести зброю в стані спокою"
+
+msgid "DHShellExplosionDamageType.FemaleSuicide"
+msgstr "%o була підірвана власним гарматним снарядом."
+
+msgid "DHShellSmokeWPGasDamageType.DeathString"
+msgstr "%o задихнувся білим фосфором, який запустив %k."
+
+msgid "DHSquadMessage.NotInSquadMessage"
+msgstr ""
+"Ви не перебуваєте в загоні. Натисніть [%SQUADMENU%], щоб увійти до меню "
+"загону, або натисніть [%SQUADJOINAUTO%], щоб автоматично приєднатися до "
+"загону."
+
+msgid "DHSquadMessage.SquadMergeFailedMessage"
+msgstr "Об'єднання загонів не вдалося,"
+
+msgid "DHSquadMessage.SquadTargetSelectionRefused"
+msgstr ""
+"Ви - артилерійський коректувальник. Ви не можете переключити активну "
+"артилерійську ціль на свій маркер."
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<0>"
+msgstr ""
+"Будь ласка, зачекайте деякий час, перш ніж надсилати наступний запит на "
+"об'єднання загонів."
+
+msgid "DHTeamSurrenderVoteMessage.VoteNominationsRemainingText"
+msgstr "Потрібно {0} більше номінацій {1} для початку голосування."
+
+msgid "DHVehicleCollisionDamageType.FemaleSuicide"
+msgstr "%o загинула в автокатастрофі."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<9>"
+msgstr ""
+"Надто близько до існуючого ворожого {name}, ви повинні бути на {integer}м "
+"далі."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<11>"
+msgstr ""
+"Ви не можете {verb} тут '{name}', оскільки ви знаходитесь біля точки "
+"відродження."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<12>"
+msgstr "Ви не можете {verb} тут '{name}', оскільки ви знаходитесь в приміщенні."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<13>"
+msgstr "Ви не можете будувати тут."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<15>"
+msgstr "У радіусі {integer}м немає схованок з запасами."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<16>"
+msgstr "{name} неможливо {verb} через брак запасів."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<17>"
+msgstr "На цій поверхні неможливо {verb} '{name}'."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<20>"
+msgstr "У загоні має бути {integer} учасників, щоб {verb} тут '{name}'."
+
+msgid "DHIQMessage.Congratulations<0>"
+msgstr "Ого! Які ви розумні!"
+
+msgid "DHIQMessage.Congratulations<1>"
+msgstr "Дивовижно!"
+
+msgid "DHIQMessage.Congratulations<2>"
+msgstr "Ти тактичний геній!"
+
+msgid "DHIQMessage.Congratulations<3>"
+msgstr "Молодець!"
+
+msgid "DHIQMessage.Congratulations<4>"
+msgstr "Абсолютно божевільний!"
+
+msgid "DHIQMessage.Congratulations<6>"
+msgstr "Чудово!"
+
+msgid "DHIQMessage.Congratulations<7>"
+msgstr "Ти найрозумніший!"
+
+msgid "DHPawnTouchMessage.Messages<1>"
+msgstr "Натисніть [%THROWMGAMMO%], щоб перезарядити {0}"
+
+msgid "DHSquadInviteInteraction.Options<2>.Text"
+msgstr "Ігнорувати все"
+
+msgid "DHObjectiveMessage.NotificationMessage"
+msgstr "{0}{1}{2}"
+
+msgid "DHPawnTouchMessage.FallbackPlayerName"
+msgstr "товариш"
+
+msgid "DHPlatoonHQMessage.ActivatedMessage"
+msgstr "Створено штаб взводу."
+
+msgid "DHPlatoonHQMessage.OverrunMessage"
+msgstr "Ворог захопив штаб взводу."
+
+msgid "DHPlayerReplicationInfo.SquadLeaderAbbreviation"
+msgstr "КМ"
+
+msgid "DHPlayerReplicationInfo.AssistantAbbreviation"
+msgstr "П"
+
+msgid "DHRadioTouchMessage.RequestMessage"
+msgstr ""
+"Утримуйте [%SHOWORDERMENU | ONRELEASE HIDEORDERMENU%], щоб запросити "
+"артилерію"
+
+msgid "DHRadioTouchMessage.NotQualifiedMessage"
+msgstr "Ви не маєте кваліфікації для використання цієї радіостанції"
+
+msgid "DHRadioTouchMessage.NoTargetMessage"
+msgstr "Артилерійських цілей не виявлено"
+
+msgid "DHRadioTouchMessage.BusyMessage"
+msgstr "Наразі радіо використовується"
+
+msgid "DHReinforcementAwardMsg.ObjectiveString"
+msgstr "контрольна ціль"
+
+msgid "DHReinforcementAwardMsg.ReinforcementAward"
+msgstr "Ваша команда отримала {0} підкріпленнь за захоплення {1}!"
+
+msgid "DHReinforcementAwardMsg.ReinforcementAttrition"
+msgstr "Ваша команда втрачає значне підкріплення через виснаження!!!"
+
+msgid "DHReinforcementMsg.ReinforcementsRemaining"
+msgstr "У вашої команди залишилося {0}% підкріпленнь!"
+
+msgid "DHResupplyMessage.HaveResupplied"
+msgstr "Ви поповнили боєприпаси {0}"
+
+msgid "DHResupplyMessage.BeenResupplied"
+msgstr "Ви поповнив боєприпаси {0}"
+
+msgid "DHResupplyMessage.HaveResuppliedFriendlyMortar"
+msgstr "Ви поповнили боєприпаси мінометнику"
+
+msgid "DHRocketExhaustDamageType.DeathString"
+msgstr "%o був спалений вихлопами %w %k."
+
+msgid "DHRocketExhaustDamageType.MaleSuicide"
+msgstr "%o був спалений вихлопами свого %w."
+
+msgid "DHRocketImpactDamage.DeathString"
+msgstr "%o було вбито %k з %w."
+
+msgid "DHRocketImpactDamage.FemaleSuicide"
+msgstr "%o було вбито власним %w."
+
+msgid "DHRocketImpactDamage.MaleSuicide"
+msgstr "%o був убитий своїм %w."
+
+msgid "DHRocketWarningMessage.CrouchOrRestToFire"
+msgstr ""
+"Ви повинні бути пригнуті або тримати зброю напоготові, щоб вистрілити з {0}"
+
+msgid "DHRocketWarningMessage.NoProneReload"
+msgstr "Ви не можете перезарядити {0} лежачи"
+
+msgid "DHRocketWarningMessage.RestToReload"
+msgstr "Ви повинні розгорнути зброю, щоб перезарядити {0}"
+
+msgid "DHRocketWarningMessage.ShoulderForAssistedReload"
+msgstr "Ви повинні взяти на плече {0} для допоміжної перезарядки"
+
+msgid "DHScoreCategory_Combat.HumanReadableName"
+msgstr "Бій"
+
+msgid "DHScoreCategory_Support.HumanReadableName"
+msgstr "Підтримка"
+
+msgid "DHScoreEvent_ConstructionCompleted.HumanReadableName"
+msgstr "Споруду побудована"
+
+msgid "DHScoreEvent_FireSupportSpottingAssist.HumanReadableName"
+msgstr "Допоміжний засіб вогневої підтримки"
+
+msgid "DHScoreEvent_FriendlyReload.HumanReadableName"
+msgstr "Дружня перезарядка"
+
+msgid "DHScoreEvent_Kill.HumanReadableName"
+msgstr "Вбивство\\"
+
+msgid "DHScoreEvent_ObjectiveCapture.HumanReadableName"
+msgstr "Контрольна ціль захоплена"
+
+msgid "DHScoreEvent_ObjectiveNeutralize.HumanReadableName"
+msgstr "Контрольна ціль нейтралізована"
+
+msgid "DHScoreEvent_SquadRallyPointEstablished.HumanReadableName"
+msgstr "Створено точку збору загону"
+
+msgid "DHScoreEvent_SquadRallyPointSpawn.HumanReadableName"
+msgstr "Точка збору загону"
+
+msgid "DHScoreEvent_Suicide.HumanReadableName"
+msgstr "Самогубство"
+
+msgid "DHScoreEvent_TeamKill.HumanReadableName"
+msgstr "Вбивство товариша"
+
+msgid "DHScoreEvent_TeamKillPunish.HumanReadableName"
+msgstr "Вбивство товариша покарано"
+
+msgid "DHScoreEvent_VehicleKill.HumanReadableName"
+msgstr "Знищення транспортного засобу"
+
+msgid "DHServerSayMessage.MessagePrefix"
+msgstr "[СЕРВЕР]"
+
+msgid "DHSetupPhaseMessage.PhaseEndMessage"
+msgstr "Битво розпочалась!"
+
+msgid "DHShellExplosionDamageType.DeathString"
+msgstr "%o був підірваний гарматним снарядом %k."
+
+msgid "DHShellExplosionDamageType.MaleSuicide"
+msgstr "%o підірвався на власному гарматному снаряді."
+
+msgid "DHShellImpactDamageType.DeathString"
+msgstr "%o був убитий гарматним снарядом %k."
+
+msgid "DHShellImpactDamageType.FemaleSuicide"
+msgstr "%o загинула від власного гарматного снаряду."
+
+msgid "DHShellSmokeWPDamageType.DeathString"
+msgstr "%o згорів від білого фосфору, який запустив %k."
+
+msgid "DHShellSmokeWPDamageType.FemaleSuicide"
+msgstr "%o згоріла дотла."
+
+msgid "DHShellSmokeWPDamageType.MaleSuicide"
+msgstr "%o згорів дотла."
+
+msgid "DHShellSmokeWPGasDamageType.FemaleSuicide"
+msgstr "%o задихнулася білим фосфором."
+
+msgid "DHShellSmokeWPGasDamageType.MaleSuicide"
+msgstr "%o задихнувся білим фосфором."
+
+msgid "DHSignal_Fire.SignalName"
+msgstr "Вогонь"
+
+msgid "DHSignal_Move.SignalName"
+msgstr "Рухатись сюди"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.PromptText"
+msgstr "{volunteer} зголосився стати помічником загону."
+
+msgid "DHSquadLeaderSayDeadMessage.MessagePrefix"
+msgstr "(МЕРТВИЙ) [КОМАНДИР ЗАГОНУ]"
+
+msgid "DHSquadLeaderSayMessage.MessagePrefix"
+msgstr "[КОМАНДИР ЗАГОНУ]"
+
+msgid "DHSquadMergeRequestInteraction.PromptText"
+msgstr "Загін {0} запропонував об'єднати ваш загін у загін {1}."
+
+msgid "DHSquadMessage.AutoJoinFailed"
+msgstr "Немає загонів, до яких ви можете приєднатися."
+
+msgid "DHSquadMessage.YouLeft"
+msgstr "Ти покинув загін."
+
+msgid "DHSquadMessage.NoVolunteers"
+msgstr "Жоден з учасників не зголосився бути командиром загону."
+
+msgid "DHSquadMessage.AlreadyInSquad"
+msgstr "Ви вже в загоні."
+
+msgid "DHSquadMessage.YouAreNowAssistantMessage"
+msgstr "Тепер ти помічник командира відділення."
+
+msgid "DHSquadMessage.YouAreNoLongerAssistantMessage"
+msgstr "Ти більше не помічник командира відділення."
+
+msgid "DHSquadMessage.NewAssistantMessage"
+msgstr "{0} призначено помічником командира відділення."
+
+msgid "DHSquadMessage.SquadMergedSourceMessage"
+msgstr "Ваш загін було об'єднано з загоном {0}. Новий командир загону - {1}."
+
+msgid "DHSquadMessage.SquadMergedSourceGenericMessage"
+msgstr "Ваш загін об'єднано з іншим загоном."
+
+msgid "DHSquadMessage.SquadMergedDestinationMessage"
+msgstr "Інший загін був об'єднаний з вашим загоном."
+
+msgid "DHSquadMessage.SquadMergeRequestDeniedMessage"
+msgstr "Ваш запит на об'єднання загону було відхилено загоном {0}."
+
+msgid "DHSquadMessage.SquadMergeRequestDeniedGenericMessage"
+msgstr "Твоєму загону було відмовлено в об'єднанні."
+
+msgid "DHSquadMessage.SquadPromotionRequestDeniedMessage"
+msgstr "Ваш запит на підвищення командира загону було відхилено {0}."
+
+msgid "DHSquadMessage.SquadPromotionRequestAcceptedMessage"
+msgstr "Ваш запит на підвищення командира загону було прийнято {0}."
+
+msgid "DHSquadSayMessage.MessagePrefix"
+msgstr "[ЗАГІН]"
+
+msgid "DHSupplyMessage.SuppliesUnloaded"
+msgstr "{0} припасів вивантажено з транспортного засобу до сусіднього {1}"
+
+msgid "DHSupplyMessage.SuppliesLoaded"
+msgstr "{0} припасів завантажено у транспортний засіб із сусіднього {1}"
+
+msgid "DHSupplyMessage.VehicleFull"
+msgstr "Схованка з припасами вантажівки повна."
+
+msgid "DHSupplyMessage.VehicleEmpty"
+msgstr "Схованка з припасами в вантажівці порожня."
+
+msgid "DHSupplyMessage.NoSupplyCaches"
+msgstr "Поблизу немає жодних схованок із запасами."
+
+msgid "DHSupplyMessage.SupplyCacheEmpty"
+msgstr "Схованка з припасами поблизу порожня."
+
+msgid "DHSupplyMessage.SupplyCacheFull"
+msgstr "Сховище з припасами, що знаходиться поруч, повна."
+
+msgid "DHSupplyMessage.SupplyCacheFallbackName"
+msgstr "схованка з припасами"
+
+msgid "DHSupplyVehicleMessage.Controls[0].Text"
+msgstr "Завантажити припаси"
+
+msgid "DHSupplyVehicleMessage.Controls[1].Text"
+msgstr "Вивантажити припаси"
+
+msgid "DHTeamKillInteraction.PromptText"
+msgstr "{0} вбив тебе!"
+
+msgid "DHTeamSayMessage.MessagePrefix"
+msgstr "[КОМАНДА]"
+
+msgid "DHTeamSurrenderVoteMessage.VoteSucceededText"
+msgstr "Голосування за відступ пройшло успішно ({0})."
+
+msgid "DHTeamSurrenderVoteMessage.VoteFailedText"
+msgstr "Голосування за відступ не відбулося ({0})."
+
+msgid "DHTeamSurrenderVoteMessage.VoteSummaryText"
+msgstr "Так: {0}, Потрібно: {1}"
+
+msgid "DHTeamSurrenderVoteMessage.VoteNominatedText"
+msgstr "{0} запропонував відступити."
+
+msgid "DHThrowableExplosiveDamageType.DeathString"
+msgstr "%o був підірваний %k з %w."
+
+msgid "DHThrowableExplosiveDamageType.FemaleSuicide"
+msgstr "%o була підірвана власним %w."
+
+msgid "DHThrowableExplosiveDamageType.MaleSuicide"
+msgstr "%o був підірваний власним %w."
+
+msgid "DHVehicle.VehicleNameString"
+msgstr "Додати рядок імені транспортного засобу!"
+
+msgid "DHVehicleBurningDamageType.FemaleSuicide"
+msgstr "%o згоріла у пожежі автомобіля."
+
+msgid "DHVehicleBurningDamageType.MaleSuicide"
+msgstr "%o згорів у пожежі автомобіля."
+
+msgid "DHVehicleCannonPawn.RangeText"
+msgstr "метри"
+
+msgid "DHVehicleCannonPawn.HudName"
+msgstr "Командир"
+
+msgid "DHVehicleCollisionDamageType.DeathString"
+msgstr "%o загинув в аварії з автомобілем %k."
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<2>.Text"
+msgstr "Ігнорувати все"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<0>.Text"
+msgstr "Прийняти"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<2>.Text"
+msgstr "Ігнорувати все"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<1>"
+msgstr "Виникла помилка під час надсилання запиту на об'єднання загонів."
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<4>"
+msgstr "Запит на об'єднання загонів відправлено."
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<0>"
+msgstr "Виникла помилка під час надсилання запиту на об'єднання загонів."
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<1>"
+msgstr "Для цього гравця вже існує запит на підвищення до командира загону."
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<2>"
+msgstr "Запит на підвищення командира загону відправлено."
+
+msgid "DHTeamKillInteraction.Options<0>.Text"
+msgstr "Вибачити"
+
+msgid "DHTeamKillInteraction.Options<1>.Text"
+msgstr "Покарати"
+
+msgid "DHVehicleCannon.ProjectileDescriptions<0>"
+msgstr "Бронебійний (APCBC)"
+
+msgid "DHVehicleCannon.ProjectileDescriptions<1>"
+msgstr "Осколково-фугасний (HE)"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<3>"
+msgstr "Земля тут занадто крута, щоб {verb} тут '{name}'."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<5>"
+msgstr "Це місце не підходить щоб {verb} тут '{name}'."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<6>"
+msgstr "Тут недостатньо місця щоб {verb} тут '{name}'."
