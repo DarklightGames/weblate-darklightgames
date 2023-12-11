@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-11 18:36+0000\n"
+"PO-Revision-Date: 2023-12-12 19:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
@@ -177,7 +177,6 @@ msgstr ""
 "Протитанкові солдати завжди повинні брати з собою помічника для додаткового "
 "боєзапасу, швидших перезарядок та захисту."
 
-#, fuzzy
 msgid "DarkestHourGame.ROHints<18>"
 msgstr ""
 "Не стійте прямо за ракетною зброєю, коли вона стріляє; ви можете отримати "
@@ -289,15 +288,11 @@ msgstr ""
 msgid "DHConstructionErrorMessage.ErrorMessages<25>"
 msgstr "{name} не можливо {verb} на ворожій території"
 
-#, fuzzy
 msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
-msgstr ""
-"Щоб деконструювати ворожий штаб, поруч з вами повинен бути товариш по "
-"команді!"
+msgstr "Щоб знищити ворожий штаб, поруч з вами повинен бути товариш по команді!"
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<21>"
-msgstr "{name} не можливо {verb}, поки ви зайняті."
+msgstr "Ви не можете {verb} тут '{name}', оскільки ви зайняті."
 
 msgid "DHExitMovingVehicleDamageType.MaleSuicide"
 msgstr "%o загинув, стрибаючи з транспортного засобу."
@@ -312,11 +307,9 @@ msgstr "Ваша команда вирішила відступити, битв�
 msgid "DHGameMessage.VehicleTeamKilledMessage"
 msgstr "{0} вбив товариша по команді {1}."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<24>"
-msgstr "{name} можливо {verb} лише в межах {integer}м від дружнього {string}."
+msgstr "{name} можливо {verb} лише в межах {integer}м від дружнього {string}"
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<23>"
 msgstr ""
 "Занадто близько до неконтрольованої точки ({string}), відійдіть на {integer}"
@@ -352,22 +345,18 @@ msgstr "Ціль для далекобійної артилерії познач
 msgid "DHFireSupportMessage.RadiomanNotification"
 msgstr "Загін {squad} позначив ціль для далекобійної артилерії."
 
-#, fuzzy
 msgid "DHFireSupportMessage.ArtilleryOperatorNotification"
-msgstr "Загін {squad} позначив ціль для вогневої підтрмки ({type})."
+msgstr "Загін {squad} позначив ціль для вогневої підтримки ({type})."
 
 msgid "DHFireSupportMessage.ErrorText"
 msgstr "Не можливо позначити ціль для вогневої підтримки."
 
-#, fuzzy
 msgid "DHGameMessage.VehicleDestroyedMessage"
 msgstr "{0} - знищено."
 
-#, fuzzy
 msgid "DHGameMessage.RoleInvalidatedMessage"
 msgstr "Посада '{name}' для вас більше не доступна."
 
-#, fuzzy
 msgid "DHGameReplicationInfo.ForceScaleText"
 msgstr "Розмір"
 
@@ -1471,7 +1460,7 @@ msgid "DHVehicleMessage.AllRiderPositionsFull"
 msgstr "Всі пасажирські місця зайняті"
 
 msgid "DHVehicleMessage.VehicleBurning"
-msgstr "Машина в огні!"
+msgstr "Машина в вогні!"
 
 msgid "DHVehicleMessage.OpenHatchToExit"
 msgstr "Щоб вийти, необхідно відкрити люк {0}"
@@ -2040,3 +2029,281 @@ msgstr "Це місце не підходить щоб {verb} тут '{name}'."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<6>"
 msgstr "Тут недостатньо місця щоб {verb} тут '{name}'."
+
+msgid "DHWeaponProjectileDamageType.FemaleSuicide"
+msgstr "%o була вбита власними руками з %w."
+
+msgid "DarkestHourGame.ROHints<0>"
+msgstr ""
+"Ви можете побачити карту цілей, які необхідно захопити або захистити, "
+"натиснувши %SHOWOBJECTIVES%."
+
+msgid "DHWeaponsLockedMessage.LockedSKMessage"
+msgstr ""
+"Вашу зброю заблоковано через надмірну кількість убивств гравців на етапі "
+"відродження!"
+
+msgid "DHWeaponsLockedMessage.LockedFFSKMessage"
+msgstr ""
+"Вашу зброю заблоковано через те, що ви вбили товариша на етапі відродження!"
+
+msgid "DarkestHourGame.ROHints<6>"
+msgstr ""
+"Присідання та упор лежачи стабілізує вашу зброю та зменшує віддачу під час "
+"стрільби."
+
+msgid "DarkestHourGame.ROHints<4>"
+msgstr ""
+"Щоб опустити приціл вашої зброї і таким чином підвищити точність і влучність "
+"стрільби, натисніть клавішу %ROIRONSIGHTS% (Приціл)."
+
+msgid "DarkestHourGame.ROHints<5>"
+msgstr "Ви отримуєте 10 балів за допомогу в захопленні цілі."
+
+msgid "DarkestHourGame.ROHints<7>"
+msgstr "Щоб відновити витривалість, зупиніться і трохи відпочиньте."
+
+msgid "DHVehicleMessage.NoRiderPositions"
+msgstr "Ви не можете їздити на цьому транспортному засобі"
+
+msgid "DHVehicleMessage.AbandonedVehicleUnlocked"
+msgstr ""
+"Ви залишили заблокований автомобіль на занадто довгий час, і тепер він "
+"розблокований"
+
+msgid "DHVehicleMessage.MapDisabledVehicleLocking"
+msgstr "Ця карта не дозволяє блокувати транспортні засоби"
+
+msgid "DHVehicleMessage.CantLockNonCrewVehicle"
+msgstr ""
+"Неможливо заблокувати транспортний засіб, оскільки ним можуть керувати члени "
+"екіпажу, які не є танкістами"
+
+msgid "DHVehicleMessage.VehicleScuttleInitiated"
+msgstr "на даний час застарів"
+
+msgid "DHVehiclePoolMessage.ActivatedMessage"
+msgstr "Точку відродження транспортних засобів активовано."
+
+msgid "DHVehiclePoolMessage.DestroyedMessage"
+msgstr "Точку відродження транспортних засобів знищено."
+
+msgid "DHVehicleSayMessage.MessagePrefix"
+msgstr "[ТРАНСПОРТ]"
+
+msgid "DHVehicleTouchMessage.TouchMessage"
+msgstr "Натисніть [%USE%], щоб сісти за {0}"
+
+msgid "DHVehicleVoiceSayMessage.MessagePrefix"
+msgstr "[ГОЛОС]"
+
+msgid "DHVoicePack.EnemyAbbrevAxis[3]"
+msgstr "Піонер"
+
+msgid "DHVoiceReplicationInfo.LocalChannelText"
+msgstr "Місцевий"
+
+msgid "DHVoiceSayMessage.MessagePrefix"
+msgstr "[ГОЛОС]"
+
+msgid "DHVoteInfo_TeamSurrender.QuestionText"
+msgstr "Ви хочете відступити, щоб боротися наступного дня?"
+
+msgid "DHVoteMessage.VoteReceievedText"
+msgstr "Ваш голос отримано."
+
+msgid "DHVoteMessage.VoteConcludedText"
+msgstr "Голосування завершилося."
+
+msgid "DHVotingHandler.lmsgMapVotedTooRecently"
+msgstr ""
+"Будь ласка, зачекайте %seconds% секунд, перш ніж голосувати за іншу мапу!"
+
+msgid "DHVotingHandler.SwapAndRestartText"
+msgstr "DH-[Заміна команд і перезапустити гру]"
+
+msgid "DHWeaponBashDamageType.DeathString"
+msgstr "%o був забитий до смерті %k з %w."
+
+msgid "DHWeaponBashDamageType.FemaleSuicide"
+msgstr "%o вбила себе власним %w"
+
+msgid "DHWeaponBashDamageType.MaleSuicide"
+msgstr "%o вбив себе власним %w."
+
+msgid "DHWeaponBayonetDamageType.DeathString"
+msgstr "%o був нанизаний на багнет з %w %k."
+
+msgid "DHWeaponBayonetDamageType.FemaleSuicide"
+msgstr "%o проткнула себе власним багнетом з %w."
+
+msgid "DHWeaponBayonetDamageType.MaleSuicide"
+msgstr "%o проткнув себе власним багнетом з %w."
+
+msgid "DHWeaponPickup.TouchMessage"
+msgstr "Натисніть {1}, щоб підняти {0}"
+
+msgid "DHWeaponPickup.PickupMessage"
+msgstr "Ви підняли {0}"
+
+msgid "DHWeaponProjectileDamageType.DeathString"
+msgstr "%o був убитий %k з %w."
+
+msgid "DHWeaponProjectileDamageType.MaleSuicide"
+msgstr "%o був убитий своїм %w."
+
+msgid "DHWeaponsLockedMessage.LockedFFMessage"
+msgstr "Ваша зброя заблокована через вбивство вашого товариша!"
+
+msgid "DHWeaponsLockedMessage.LockedWithTimerMessage"
+msgstr "Вашу зброю заблоковано на {0} секунд"
+
+msgid "DHWeaponsLockedMessage.LockedSetupPhaseMessage"
+msgstr "Вашу зброю заблоковано"
+
+msgid "DHWeaponsLockedMessage.UnlockedMessage"
+msgstr "Вашу зброю розблоковано"
+
+msgid "DH_ModifyRoundTimeMessage.IncreasedText"
+msgstr "збільшено"
+
+msgid "DH_ModifyRoundTimeMessage.DecreasedText"
+msgstr "зменшено"
+
+msgid "DH_ModifyRoundTimeMessage.ChangedText"
+msgstr "змінено"
+
+msgid "DH_ModifyRoundTimeMessage.RoundTimeModifiedText"
+msgstr "Час було{0}."
+
+msgid "DarkestHourGame.GameName"
+msgstr "DarkestHourGame"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<0>"
+msgstr "Командир"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<1>"
+msgstr "Командир"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<2>"
+msgstr "Не призначено"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<3>"
+msgstr "Не призначено"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<4>"
+msgstr "Загін"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<5>"
+msgstr "Загін"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<6>"
+msgstr "Загін"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<7>"
+msgstr "Загін"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<8>"
+msgstr "Загін"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<9>"
+msgstr "Загін"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<10>"
+msgstr "Загін"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<11>"
+msgstr "Загін"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<12>"
+msgstr "Загін"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<13>"
+msgstr "Загін"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<14>"
+msgstr "Загін"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<15>"
+msgstr "Загін"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<16>"
+msgstr "Загін"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<17>"
+msgstr "Загін"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<18>"
+msgstr "Загін"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<19>"
+msgstr "Загін"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecName"
+msgstr "Краща якість"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecName.CodecDescription"
+msgstr ""
+"(9,6 кбіт/с) - використовує більшу пропускну здатність, але звук набагато "
+"чистіший."
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecName"
+msgstr "Краща якість"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecName.CodecDescription"
+msgstr ""
+"(9,6 кбіт/с) - використовує більшу пропускну здатність, але звук набагато "
+"чистіший."
+
+msgid "DHVoteInfo.Options<0>.Text"
+msgstr "Так"
+
+msgid "DHVoteInfo.Options<1>.Text"
+msgstr "Ні"
+
+msgid "DarkestHourGame.ROHints<1>"
+msgstr ""
+"Ви можете \"приготувати\" гранату, натиснувши %FIRE3%, утримуючи гранату."
+
+msgid "DarkestHourGame.ROHints<2>"
+msgstr ""
+"Щоб захопити ціль, ви повинні спочатку увійти в зону цілі. Вам, імовірно, "
+"знадобиться більше одного додаткового товариша по команді, щоб почати і "
+"завершити захоплення."
+
+msgid "DarkestHourGame.ROHints<3>"
+msgstr ""
+"Натисніть %PLAYERMENU 2%, щоб змінити роль гравця під час гри, %PLAYERMENU%, "
+"щоб змінити команду."
+
+msgid "DarkestHourGame.ROHints<8>"
+msgstr ""
+"Ви можете розгорнути кулемет майже на будь-якому об'єкті - натисніть "
+"%DEPLOY%, коли побачите піктограму розгортання, щоб розгорнути його."
+
+msgid "DarkestHourGame.ROHints<9>"
+msgstr ""
+"Під час перезаряджання \"Важкий магазин\" вказує на те, що магазин, який ви "
+"заряджаєте у зброю, заповнений набоями більш ніж наполовину."
+
+msgid "DarkestHourGame.ROHints<10>"
+msgstr "Перезаряджати кулемет можна лише у розгорнутому стані."
+
+msgid "DarkestHourGame.ROHints<11>"
+msgstr ""
+"Гравці отримують 1 очко за поповнення боєкомплекту кулеметників, які "
+"потребують боєприпасів."
+
+msgid "DarkestHourGame.ROHints<12>"
+msgstr ""
+"Кулемет більш ефективний, коли стріляє короткими, контрольованими чергами."
+
+msgid "DarkestHourGame.ROHints<14>"
+msgstr ""
+"Під час взяття цілі присутність офіцера піднімає бойовий дух і полегшує ваше "
+"завдання!"
+
+msgid "DarkestHourGame.ROHints<15>"
+msgstr ""
+"Кулеметники ніколи не повинні працювати поодинці, знайдіть товариша, який "
+"прикриє вашу спину."
