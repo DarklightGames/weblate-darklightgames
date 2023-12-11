@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-09 07:59+0000\n"
+"PO-Revision-Date: 2023-12-11 18:36+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -375,55 +375,58 @@ msgid "DHConstruction.ConstructionVerb"
 msgstr "построить"
 
 msgid "DHConstructionErrorMessage.ErrorMessages<2>"
-msgstr "Вы должны {verb} {name} на твердой поверхности."
+msgstr ""
+"Вы должны находиться на твердой поверхности, чтобы {verb} здесь '{name}'."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<3>"
-msgstr "Земля здесь слишком крутая, чтобы {verb} {name}."
+msgstr "Земля здесь слишком крутая, чтобы {verb} здесь '{name}'."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<5>"
-msgstr "Вы не можете {verb} {name} в этом месте."
+msgstr "Это место не подходит чтобы {verb} здесь '{name}'."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<6>"
-msgstr "Здесь недостаточно места чтобы {verb} {name}."
+msgstr "Здесь недостаточно места чтобы {verb} здесь '{name}'."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<7>"
-msgstr "Вы должны {verb} {name} на земляной местности."
+msgstr ""
+"Чтобы {verb} здесь '{name}', вы должны находиться на земляной местности."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<9>"
 msgstr ""
 "Слишком близко к обьекту врага {name}, он должен быть дальше на {integer}м."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<10>"
-msgstr "Вы не можете {verb} {name} на минном поле."
+msgstr ""
+"Вы не можете {verb} здесь '{name}', поскольку вы находитесь на минном поле."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<12>"
-msgstr "Вы не можете {verb} {name} в помещении."
+msgstr ""
+"Вы не можете {verb} здесь '{name}', поскольку вы находитесь в помещении."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<13>"
-msgstr "Вы не можете {verb} {name} внутри обьекта."
+msgstr "Вы не можете строить здесь."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<16>"
-msgstr "Недостаточно материалов для {verb} {name}."
+msgstr "{name} невозможно {verb} из-за нехватки припасов."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<17>"
-msgstr "Вы не можете {verb} {name} на этой поверхности."
+msgstr "На этой поверхности невозможно {verb} '{name}'."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<18>"
-msgstr "Земля слишком твердая, чтобы {verb} {name} в этом месте."
+msgstr "На этом месте невозможно {verb} '{name}'."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<21>"
-msgstr "Вы не можете {verb} {name}, пока вы заняты."
+msgstr "Вы не можете {verb} здесь '{name}', поскольку вы заняты."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<22>"
 msgstr ""
 "Слишком близко к цели ({string}), вы должны строить дальше на {integer}м."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<24>"
-msgstr ""
-"Вы должны {verb} {name} в пределах {integer}m от дружественной {string}"
+msgstr "Вы должны строить в пределах {integer}м от дружественного {string}"
 
 msgid "DHConstructionErrorMessage.ErrorMessages<25>"
-msgstr "Вы не можете {verb} {name} на вражеской территории"
+msgstr "Вы не можете строить на вражеской территории"
 
 msgid "DHConstructionErrorMessage.ErrorMessages<26>"
 msgstr "{name} больше не доступно"
@@ -605,14 +608,17 @@ msgstr ""
 
 msgid "DHConstructionErrorMessage.ErrorMessages<8>"
 msgstr ""
-"Слишком близко к другому объекту {name}, он должен быть дальше на {integer}м."
+"Слишком близко к другому объекту {name}, вы должны быть дальше на {integer}м."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<11>"
-msgstr "Вы не можете {verb} {name} рядом с точкой появления."
+msgstr ""
+"Вы не можете {verb} здесь ' {name} ', поскольку вы находитесь возле точки "
+"возрождения."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<14>"
 msgstr ""
-"Ваша команда больше не может {verb} {name} (достигнут лимит: {integer})."
+"Ваша команда больше не может {verb} здесь '{name}' (достигнут лимит: "
+"{integer})."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<23>"
 msgstr ""
@@ -623,13 +629,14 @@ msgid "DHCommandMenu_Radio.CancelText"
 msgstr "Продолжить (Отмена)"
 
 msgid "DHConstructionErrorMessage.ErrorMessages<4>"
-msgstr "Вы не можете {verb} {name} в воде."
+msgstr "Вы не можете {verb} здесь '{name}', поскольку вы находитесь в воде."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<15>"
-msgstr "В радиусе {integer} метров нет тайников с припасами."
+msgstr "В радиусе {integer}м нет тайников с припасами."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<20>"
-msgstr "В вашем отряде должно быть {integer} участников, чтобы {verb} {name}."
+msgstr ""
+"В вашем отряде должно быть {integer} участников, чтобы {verb} здесь '{name}'."
 
 msgid "DHConstructionSupplyAttachment_Static_Main.HumanReadableName"
 msgstr "Основной тайник с припасами"
@@ -887,7 +894,7 @@ msgid "DHHintManager.Hints[48].Title"
 msgstr "Внешняя перезарядка пулемета"
 
 msgid "DHHintManager.Hints[49].Title"
-msgstr "Оптическим прицел"
+msgstr "Оптический прицел"
 
 msgid "DHHintManager.Hints[50].Title"
 msgstr "Артиллерийские операторы"
@@ -1218,10 +1225,10 @@ msgid "DHRocketImpactDamage.DeathString"
 msgstr "%o был убит %w из %k."
 
 msgid "DHRocketImpactDamage.FemaleSuicide"
-msgstr "%o была убита собственными руками %w."
+msgstr "%o была убита собственным %w."
 
 msgid "DHRocketWarningMessage.NoHipFire"
-msgstr "Вы не можете стрелять из {0} от бедра"
+msgstr "Вы не можете стрелять из {0} сидя"
 
 msgid "DHRocketWarningMessage.NoProneReload"
 msgstr "Вы не можете перезарядить {0}, находясь лежа"
@@ -1311,7 +1318,7 @@ msgid "DHSignal_Fire.SignalName"
 msgstr "Огонь"
 
 msgid "DHSignal_Move.SignalName"
-msgstr "Двигаться сюда!"
+msgstr "Двигаться сюда"
 
 msgid "DHSpawnKillDamageType.DeathString"
 msgstr "%o был убит %k."
@@ -1609,7 +1616,7 @@ msgid "DHVehicle.VehicleNameString"
 msgstr "Добавить строку имени транспортного средства!"
 
 msgid "DHVehicleBurningDamageType.DeathString"
-msgstr "%o сгорел в результате пожара в автомобиле %k."
+msgstr "%o сгорел в результате пожара в автомобиле котору. начал %k."
 
 msgid "DHVehicleBurningDamageType.FemaleSuicide"
 msgstr "%o сгорела при пожаре в автомобиле."
@@ -1963,7 +1970,7 @@ msgid "DHRadioTouchMessage.BusyMessage"
 msgstr "Радио сейчас используется"
 
 msgid "DHReinforcementAwardMsg.ReinforcementAward"
-msgstr "Ваша команда получила подкрепление {0} за захват {1}!"
+msgstr "Ваша команда получила {0} подкреплений за захват {1}!"
 
 msgid "DHRocketImpactDamage.MaleSuicide"
 msgstr "%o был убит своим %w."
