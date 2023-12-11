@@ -1,14 +1,16 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-10 13:42+0000\n"
+"PO-Revision-Date: 2023-12-11 18:36+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
-"Language-Team: Russian <https://weblate.darklightgames.com/projects/darkesthour/dh_interface/ru/>\n"
+"Language-Team: Russian <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_interface/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.2.1\n"
 
 msgid "DHBrowser_Footer.BrowserMain.Caption"
@@ -199,7 +201,6 @@ msgstr "Никаких пустых серверов"
 msgid "DHFilterEdit.ckVACOnly.Caption"
 msgstr "Только защита от мошенничества Valve"
 
-#, fuzzy
 msgid "DHGUISquadComponent.NoRallyPointsImage.Hint"
 msgstr ""
 "У этой команды уже давно нет очков для сбора. Возможности возрождения могут "
@@ -1562,3 +1563,6 @@ msgstr "Локальный сервер"
 
 msgid "DHTab_ServerRulesPanel.WebadminPort.Caption"
 msgstr "Порт веб-администратора"
+
+msgid "DHMidGameVoiceChat.NOSPEECH.Hint"
+msgstr "Не получайте никаких голосовых команд, от этого игрока"
