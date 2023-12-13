@@ -1,4 +1,3 @@
-#
 msgid ""
 msgstr ""
 "Language: en\n"
@@ -38,9 +37,6 @@ msgstr "Czechoslovakia"
 
 msgid "DHNation_Poland.NationName"
 msgstr "Polish People's Army"
-
-msgid "DHNation_Poland.NativeNationName"
-msgstr "Ludowe Wojsko Polskie"
 
 msgid "DHNation_USSR.NationName"
 msgstr "Union of Soviet Socialist Republics"

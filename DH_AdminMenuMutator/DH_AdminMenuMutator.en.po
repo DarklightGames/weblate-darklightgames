@@ -1,4 +1,3 @@
-#
 msgid ""
 msgstr ""
 "Language: en\n"
@@ -10,9 +9,7 @@ msgid "DHAdminMenuMutator.FriendlyName"
 msgstr "Admin menu"
 
 msgid "DHAdminMenuMutator.Description"
-msgstr ""
-"Screen menu options allowing an admin greater control over players, a "
-"realism match or during testing"
+msgstr "Screen menu options allowing an admin greater control over players, a realism match or during testing"
 
 msgid "DHAdminMenu_AdminMessages.EnterNewPlayerName"
 msgstr "Please enter a new name for the player - then press enter"
@@ -33,26 +30,19 @@ msgid "DHAdminMenu_AdminMessages.ConfirmGagPlayer"
 msgstr "Press enter to confirm you want to GAG this player"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAlliesRole"
-msgstr ""
-"Press enter to confirm you want to SWITCH this player to a new ALLIES role"
+msgstr "Press enter to confirm you want to SWITCH this player to a new ALLIES role"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAxisRole"
-msgstr ""
-"Press enter to confirm you want to SWITCH this player to a new AXIS role"
+msgstr "Press enter to confirm you want to SWITCH this player to a new AXIS role"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAtObjective"
-msgstr ""
-"Press enter to confirm you want to PARADROP this player at the chosen "
-"objective"
+msgstr "Press enter to confirm you want to PARADROP this player at the chosen objective"
 
 msgid "DHAdminMenu_AdminMessages.EnterGridLocation"
-msgstr ""
-"Please specify a grid location (example: for grid E2 keypad 5, enter 'e25')"
+msgstr "Please specify a grid location (example: for grid E2 keypad 5, enter 'e25')"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAtCurrentLocation"
-msgstr ""
-"Press enter to confirm you want to PARADROP this player at their CURRENT "
-"location"
+msgstr "Press enter to confirm you want to PARADROP this player at their CURRENT location"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableRealism"
 msgstr "Press enter to confirm you want to ENABLE realism mode"
@@ -64,16 +54,13 @@ msgid "DHAdminMenu_AdminMessages.ConfirmMatchLive"
 msgstr "Press enter to confirm you want to force realism match LIVE"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAlliesAtObjective"
-msgstr ""
-"Press enter to confirm you want to drop ALL ALLIES at the chosen objective"
+msgstr "Press enter to confirm you want to drop ALL ALLIES at the chosen objective"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAxisAtObjective"
-msgstr ""
-"Press enter to confirm you want to drop ALL AXIS at the chosen objective"
+msgstr "Press enter to confirm you want to drop ALL AXIS at the chosen objective"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAllAtObjective"
-msgstr ""
-"Press enter to confirm you want to drop ALL PLAYERS at the chosen objective"
+msgstr "Press enter to confirm you want to drop ALL PLAYERS at the chosen objective"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableMines"
 msgstr "Press enter to confirm you want to DISABLE all minefields"
@@ -82,22 +69,16 @@ msgid "DHAdminMenu_AdminMessages.ConfirmEnableMines"
 msgstr "Press enter to confirm you want to RE-ENABLE all minefields"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableCapProgress"
-msgstr ""
-"Press enter to confirm you want to DISABLE the cap progress bar on the map"
+msgstr "Press enter to confirm you want to DISABLE the cap progress bar on the map"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableCapProgress"
-msgstr ""
-"Press enter to confirm you want to RE-ENABLE the cap progress bar on the map"
+msgstr "Press enter to confirm you want to RE-ENABLE the cap progress bar on the map"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisablePlayerIcon"
-msgstr ""
-"Press enter to confirm you want to DISABLE the player location icon on the "
-"map"
+msgstr "Press enter to confirm you want to DISABLE the player location icon on the map"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnablePlayerIcon"
-msgstr ""
-"Press enter to confirm you want to RE-ENABLE the player location icon on the"
-" map"
+msgstr "Press enter to confirm you want to RE-ENABLE the player location icon on the map"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmKillAll"
 msgstr "Press enter to confirm you want to KILL ALL players"
@@ -115,8 +96,7 @@ msgid "DHAdminMenu_AdminMessages.DestroyActorInSights"
 msgstr "Press enter to confirm you want to DESTROY the actor in your sights"
 
 msgid "DHAdminMenu_AdminMessages.ChangeAlliesSquadSize"
-msgstr ""
-"Please specify the new allied squad size (between 8 and 12, or 0 to reset)"
+msgstr "Please specify the new allied squad size (between 8 and 12, or 0 to reset)"
 
 msgid "DHAdminMenu_AdminMessages.ChangeAxisSquadSize"
 msgstr "Please specify the new axis squad size (8 and 12, or 0 to reset)"
@@ -140,16 +120,13 @@ msgid "DHAdminMenu_ErrorMessages.MissingNameText"
 msgstr "<missing name>"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[1]"
-msgstr ""
-"You must be logged in as an admin (via the console) to use this function"
+msgstr "You must be logged in as an admin (via the console) to use this function"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[2]"
 msgstr "Paradropping a player isn't allowed on this server"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[3]"
-msgstr ""
-"The realism match mutator is not loaded on the server so you cannot use this"
-" option"
+msgstr "The realism match mutator is not loaded on the server so you cannot use this option"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[4]"
 msgstr "ERROR: no player name specified"
@@ -158,9 +135,7 @@ msgid "DHAdminMenu_ErrorMessages.ErrorMessage[5]"
 msgstr "ERROR: could not find a player called '%insert_name%'"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[6]"
-msgstr ""
-"PROBLEM: found more than one player with name '%insert_name%' so it is not "
-"safe to proceed with this action"
+msgstr "PROBLEM: found more than one player with name '%insert_name%' so it is not safe to proceed with this action"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[7]"
 msgstr "<ERROR: no player name>"
@@ -169,9 +144,7 @@ msgid "DHAdminMenu_ErrorMessages.ErrorMessage[8]"
 msgstr "<ERROR: no admin name>"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[9]"
-msgstr ""
-"Player '%insert_name%' is not currently active & so you cannot use this "
-"option"
+msgstr "Player '%insert_name%' is not currently active & so you cannot use this option"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[10]"
 msgstr "'%insert_name%' is already in that role"
@@ -183,14 +156,10 @@ msgid "DHAdminMenu_ErrorMessages.ErrorMessage[12]"
 msgstr "ERROR: no message specified"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[13]"
-msgstr ""
-"ERROR: failed to kick '%insert_name%' (note that will not be able to kick a "
-"player who is logged in as an admin)"
+msgstr "ERROR: failed to kick '%insert_name%' (note that will not be able to kick a player who is logged in as an admin)"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[14]"
-msgstr ""
-"ERROR: unable to kick any player as the necessary 'AccessControl' actor is "
-"not on the server (note that is normal in single player)"
+msgstr "ERROR: unable to kick any player as the necessary 'AccessControl' actor is not on the server (note that is normal in single player)"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[15]"
 msgstr "There are no minefields in this level"
@@ -211,24 +180,19 @@ msgid "DHAdminMenu_ErrorMessages.ErrorMessage[20]"
 msgstr "ERROR: can't find objective %insert_name%"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[21]"
-msgstr ""
-"ERROR: no valid type of drop location specified (i.e. AtObjective, AtGrid or"
-" AtCurrentLocation"
+msgstr "ERROR: no valid type of drop location specified (i.e. AtObjective, AtGrid or AtCurrentLocation"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[22]"
 msgstr "ERROR: invalid map grid co-ordinates"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[23]"
-msgstr ""
-"To auto-login you must set up your DarkestHour.ini file with your admin "
-"login details"
+msgstr "To auto-login you must set up your DarkestHour.ini file with your admin login details"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[24]"
 msgstr "No player found in sights"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[25]"
-msgstr ""
-"This game mode does not allow rally points so you cannot use this option"
+msgstr "This game mode does not allow rally points so you cannot use this option"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[26]"
 msgstr "Rally point placement is already disabled"

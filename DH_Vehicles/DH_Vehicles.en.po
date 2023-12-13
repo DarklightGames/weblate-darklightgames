@@ -1,4 +1,3 @@
-#
 msgid ""
 msgstr ""
 "Language: en\n"
@@ -607,7 +606,7 @@ msgid "DH_PanzerIIINCannon.nProjectileDescriptions<0>"
 msgstr "Sprgr.Kw.K."
 
 msgid "DH_PanzerIIINCannon.nProjectileDescriptions<1>"
-msgstr "Gr.38 Hl/C"
+msgstr "Gr.38 Hl/B"
 
 msgid "DH_PanzerIIINCannon.nProjectileDescriptions<2>"
 msgstr "Kt.Kw.K"
@@ -679,10 +678,19 @@ msgid "DH_PanzerIVGLateCannon.nProjectileDescriptions<1>"
 msgstr "Sprgr.Patr.34"
 
 msgid "DH_PanzerIVGLateCannon.nProjectileDescriptions<2>"
-msgstr "Gr.38 Hl/C"
+msgstr "Gr.38 Hl/B"
 
 msgid "DH_PanzerIVGLateTank.VehicleNameString"
 msgstr "Panzer IV Ausf.G"
+
+msgid "DH_PanzerIVHCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_PanzerIVHCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+msgid "DH_PanzerIVHCannon.nProjectileDescriptions<2>"
+msgstr "Gr.38 Hl/C"
 
 msgid "DH_PanzerIVHTank.VehicleNameString"
 msgstr "Panzer IV Ausf.H"
@@ -958,13 +966,13 @@ msgid "DH_StuH42Cannon.ProjectileDescriptions<2>"
 msgstr "HEAT"
 
 msgid "DH_StuH42Cannon.nProjectileDescriptions<0>"
-msgstr "Sprgr.Patr."
+msgstr "F.H.Gr."
 
 msgid "DH_StuH42Cannon.nProjectileDescriptions<1>"
 msgstr "F.H.Gr.Nb."
 
 msgid "DH_StuH42Cannon.nProjectileDescriptions<2>"
-msgstr "Gr.38 Hl/C"
+msgstr "Gr.39 Hl/C"
 
 msgid "DH_StuH42Destroyer.VehicleNameString"
 msgstr "StuH42 Ausf.G"

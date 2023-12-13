@@ -1,4 +1,3 @@
-#
 msgid ""
 msgstr ""
 "Language: en\n"
@@ -101,6 +100,27 @@ msgstr "M81A1 AP"
 
 msgid "DH_Bofors40mmGun.VehicleNameString"
 msgstr "Bofors 40mm gun"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<0>"
+msgstr "AP"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<0>"
+msgstr "Granata Perforante da 47"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<1>"
+msgstr "Granata da 47"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<2>"
+msgstr "Effeto Pronto da 47"
+
+msgid "DH_Cannone4732Gun.VehicleNameString"
+msgstr "Cannone 47/32"
 
 msgid "DH_Flak38Gun.VehicleNameString"
 msgstr "2cm FlaK 38 gun"

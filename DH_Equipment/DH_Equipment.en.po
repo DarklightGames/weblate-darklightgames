@@ -1,4 +1,3 @@
-#
 msgid ""
 msgstr ""
 "Language: en\n"
@@ -14,6 +13,9 @@ msgstr "M13 Binoculars 6x30"
 
 msgid "DHBinocularsItemGerman.ItemName"
 msgstr "Zeiss Dienstglas 6x30"
+
+msgid "DHBinocularsItemItalian.ItemName"
+msgstr "Fratelli Koristka 7x50"
 
 msgid "DHBinocularsItemSoviet.ItemName"
 msgstr "BPP Optik 6x30"

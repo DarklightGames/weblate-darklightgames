@@ -1,4 +1,3 @@
-#
 msgid ""
 msgstr ""
 "Language: en\n"
@@ -100,55 +99,115 @@ msgid "DHBrowser_ServersList.ColumnHeadings<7>"
 msgstr "Ping"
 
 msgid "DHButtonFont.FontArrayNames<0>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHButtonFont"
 
 msgid "DHButtonFont.FontArrayNames<1>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHButtonFont"
 
 msgid "DHButtonFont.FontArrayNames<2>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHButtonFont"
 
 msgid "DHButtonFont.FontArrayNames<3>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHButtonFont"
 
 msgid "DHButtonFont.FontArrayNames<4>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHButtonFont"
 
 msgid "DHButtonFont.FontArrayNames<5>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHButtonFont"
 
 msgid "DHButtonFont.FontArrayNames<6>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHButtonFont"
 
 msgid "DHButtonFont.FontArrayNames<7>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHButtonFont"
 
 msgid "DHButtonFont.FontArrayNames<8>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHButtonFont"
 
 msgid "DHButtonFont.FontArrayNames<9>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHButtonFont"
 
 msgid "DHButtonFont.FontArrayNames<10>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHButtonFont"
 
 msgid "DHButtonFont.FontArrayNames<11>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHButtonFont"
 
 msgid "DHButtonFont.FontArrayNames<12>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHButtonFont"
 
 msgid "DHButtonFont.FontArrayNames<13>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHButtonFont"
 
 msgid "DHButtonFont.FontArrayNames<14>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHButtonFont"
+
+msgid "DHButtonFontDS.FontArrayNames<0>"
+msgstr "DHFonts.DHButtonFontDS"
+
+msgid "DHButtonFontDS.FontArrayNames<1>"
+msgstr "DHFonts.DHButtonFontDS"
+
+msgid "DHButtonFontDS.FontArrayNames<2>"
+msgstr "DHFonts.DHButtonFontDS"
+
+msgid "DHButtonFontDS.FontArrayNames<3>"
+msgstr "DHFonts.DHButtonFontDS"
+
+msgid "DHButtonFontDS.FontArrayNames<4>"
+msgstr "DHFonts.DHButtonFontDS"
+
+msgid "DHButtonFontDS.FontArrayNames<5>"
+msgstr "DHFonts.DHButtonFontDS"
+
+msgid "DHButtonFontDS.FontArrayNames<6>"
+msgstr "DHFonts.DHButtonFontDS"
+
+msgid "DHButtonFontDS.FontArrayNames<7>"
+msgstr "DHFonts.DHButtonFontDS"
+
+msgid "DHButtonFontDS.FontArrayNames<8>"
+msgstr "DHFonts.DHButtonFontDS"
+
+msgid "DHButtonFontDS.FontArrayNames<9>"
+msgstr "DHFonts.DHButtonFontDS"
+
+msgid "DHButtonFontDS.FontArrayNames<10>"
+msgstr "DHFonts.DHButtonFontDS"
+
+msgid "DHButtonFontDS.FontArrayNames<11>"
+msgstr "DHFonts.DHButtonFontDS"
+
+msgid "DHButtonFontDS.FontArrayNames<12>"
+msgstr "DHFonts.DHButtonFontDS"
+
+msgid "DHButtonFontDS.FontArrayNames<13>"
+msgstr "DHFonts.DHButtonFontDS"
+
+msgid "DHButtonFontDS.FontArrayNames<14>"
+msgstr "DHFonts.DHButtonFontDS"
 
 msgid "DHCommunicationPage.Panels<0>.Caption"
 msgstr "Communication"
 
-msgid "DHCommunicationPage.Panels<0>.Caption.Hint"
+msgid "DHCommunicationPage.Panels<0>.Hint"
 msgstr "Manage communication with other players"
+
+msgid "DHConsoleFont.FontArrayNames<0>"
+msgstr "DHFonts.DHConsoleFont"
+
+msgid "DHConsoleFont.FontArrayNames<1>"
+msgstr "DHFonts.DHConsoleFont"
+
+msgid "DHConsoleFont.FontArrayNames<2>"
+msgstr "DHFonts.DHConsoleFont"
+
+msgid "DHConsoleFont.FontArrayNames<3>"
+msgstr "DHFonts.DHConsoleFont"
+
+msgid "DHConsoleFont.FontArrayNames<4>"
+msgstr "DHFonts.DHConsoleFont"
 
 msgid "DHContextMenu_SquadMembers.AdminPrefixText"
 msgstr "ADMIN:"
@@ -226,9 +285,7 @@ msgid "DHDeployMenu.ReservedString"
 msgstr "Reserved"
 
 msgid "DHDeployMenu.ChangeTeamConfirmText"
-msgstr ""
-"Are you sure you want to change teams? (you will not be able to change back "
-"for {s} seconds)"
+msgstr "Are you sure you want to change teams? (you will not be able to change back for {s} seconds)"
 
 msgid "DHDeployMenu.FreeChangeTeamConfirmText"
 msgstr "Are you sure you want to change teams?"
@@ -258,10 +315,7 @@ msgid "DHDeployMenu.SquadLeadershipOnlyText"
 msgstr "LEADERS ONLY"
 
 msgid "DHDeployMenu.RecommendJoiningSquadText"
-msgstr ""
-"It it HIGHLY RECOMMENDED that you JOIN A SQUAD before deploying! Joining a "
-"squad grants you additional deployment options and lets you get to the fight"
-" faster.||Do you want to automatically join a squad now?"
+msgstr "It it HIGHLY RECOMMENDED that you JOIN A SQUAD before deploying! Joining a squad grants you additional deployment options and lets you get to the fight faster.||Do you want to automatically join a squad now?"
 
 msgid "DHDeployMenu.UnassignedPlayersCaptionText"
 msgstr "Unassigned"
@@ -273,9 +327,7 @@ msgid "DHDeployMenu.SurrenderConfirmBaseText"
 msgstr "Are you sure you want to surrender?"
 
 msgid "DHDeployMenu.SurrenderConfirmNominationText"
-msgstr ""
-"This action will nominate the team wide vote. The vote will begin after {0}%"
-" of the team has opted to retreat."
+msgstr "This action will nominate the team wide vote. The vote will begin after {0}% of the team has opted to retreat."
 
 msgid "DHDeployMenu.SurrenderConfirmEndRoundText"
 msgstr "This will immediately end the round in favor of the opposite team."
@@ -491,9 +543,7 @@ msgid "DHGUISquadComponent.LeaveSquadButton.Caption"
 msgstr "Leave Squad"
 
 msgid "DHGUISquadComponent.NoRallyPointsImage.Hint"
-msgstr ""
-"This squad has had no rally points in a while. Deployment options may be "
-"limited!"
+msgstr "This squad has had no rally points in a while. Deployment options may be limited!"
 
 msgid "DHGUITeamSelection.SizeBonusText"
 msgstr "army size"
@@ -532,9 +582,7 @@ msgid "DHGamePageMP.MPFooter.SecondaryCaption"
 msgstr "Dedicated"
 
 msgid "DHGamePageSP.NoBotsWarningText"
-msgstr ""
-"Darkest Hour: Europe '44-'45 is focused solely on multi-player and, as a "
-"result, does NOT include support for bots in Practice mode."
+msgstr "Darkest Hour: Europe '44-'45 is focused solely on multi-player and, as a result, does NOT include support for bots in Practice mode."
 
 msgid "DHGamePageSP.PageCaption"
 msgstr "Practice"
@@ -552,67 +600,67 @@ msgid "DHGetDataMenu.OkButton.Caption"
 msgstr "OK"
 
 msgid "DHHugeButtonFont.FontArrayNames<0>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHHugeButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<1>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHHugeButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<2>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHHugeButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<3>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHHugeButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<4>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHHugeButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<5>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHHugeButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<6>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHHugeButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<7>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHHugeButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<8>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHHugeButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<9>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHHugeButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<10>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHHugeButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<11>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHHugeButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<12>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHHugeButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<13>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHHugeButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<14>"
-msgstr "DHFonts.DHFontB22"
+msgstr "DHFonts.DHHugeButtonFont"
 
 msgid "DHIAMultiColumnRulesPanel.AdvancedButton.Caption"
 msgstr "View Advanced Options"
 
 msgid "DHLargeFont.FontArrayNames<0>"
-msgstr "DHFonts.DHFont14"
+msgstr "DHFonts.DHLargeFont"
 
 msgid "DHLargeFont.FontArrayNames<1>"
-msgstr "DHFonts.DHFont14"
+msgstr "DHFonts.DHLargeFont"
 
 msgid "DHLargeFont.FontArrayNames<2>"
-msgstr "DHFonts.DHFont14"
+msgstr "DHFonts.DHLargeFont"
 
 msgid "DHLargeFont.FontArrayNames<3>"
-msgstr "DHFonts.DHFont14"
+msgstr "DHFonts.DHLargeFont"
 
 msgid "DHLargeFont.FontArrayNames<4>"
-msgstr "DHFonts.DHFont14"
+msgstr "DHFonts.DHLargeFont"
 
 msgid "DHLearnToPlayFooter.GameBackButton.Caption"
 msgstr "Back"
@@ -632,33 +680,17 @@ msgstr "Cancel"
 msgid "DHMOTDConfigPage.LockedOKButton.Caption"
 msgstr "OK"
 
-msgid "DHMainMenu.JoinTestServerString"
-msgstr "Join Test Server"
-
-msgid "DHMainMenu.ConnectingString"
-msgstr "Joining"
-
 msgid "DHMainMenu.SteamMustBeRunningText"
-msgstr ""
-"Steam must be running and you must have an active internet connection to "
-"play multiplayer"
-
-msgid "DHMainMenu.SinglePlayerDisabledText"
-msgstr "Practice mode is only available in the full version."
+msgstr "Steam must be running and you must have an active internet connection to play multiplayer"
 
 msgid "DHMainMenu.MOTDErrorString"
 msgstr "Error: Could not download news feed ({0})"
 
 msgid "DHMainMenu.ControlsChangedMessage"
-msgstr ""
-"New controls have been added to the game. As a result, your previous control"
-" bindings may have been changed.||Do you want to review your control "
-"settings?"
+msgstr "New controls have been added to the game. As a result, your previous control bindings may have been changed.||Do you want to review your control settings?"
 
 msgid "DHMainMenu.BadConfigMessage"
-msgstr ""
-"A problem exists with your configuration file, click continue to quit the "
-"game and open a guide on how to fix your configuration file."
+msgstr "A problem exists with your configuration file, click continue to quit the game and open a guide on how to fix your configuration file."
 
 msgid "DHMainMenu.CreditsButton.Caption"
 msgstr "Credits"
@@ -715,9 +747,12 @@ msgid "DHMapVoteMultiColumnList.ColumnHeadings<1>"
 msgstr "Allied Nation"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadings<2>"
-msgstr "Game Type"
+msgstr "Axis Nation"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadings<3>"
+msgstr "Game Type"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<4>"
 msgstr "Map Size"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<0>"
@@ -727,15 +762,16 @@ msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<1>"
 msgstr "The Allied country for the map."
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<2>"
-msgstr "What type of game or battle for the map."
+msgstr "The Axis country for the map."
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<3>"
+msgstr "What type of game or battle for the map."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<4>"
 msgstr "Recommended players for the map."
 
 msgid "DHMapVotingPage.lmsgMapOutOfBounds"
-msgstr ""
-"Please vote for a map suitable for the current player count. You can still "
-"vote for this map on the full list."
+msgstr "Please vote for a map suitable for the current player count. You can still vote for this map on the full list."
 
 msgid "DHMapVotingPage.lmsgMode[0]"
 msgstr "Majority Wins"
@@ -786,56 +822,55 @@ msgid "DHMaplistEditor.RenameMaplistButton.Caption"
 msgstr "Rename"
 
 msgid "DHMenuFont.FontArrayNames<0>"
-msgstr "DHFonts.DHFontB18"
+msgstr "DHFonts.DHMenuFont"
 
 msgid "DHMenuFont.FontArrayNames<1>"
-msgstr "DHFonts.DHFontB18"
+msgstr "DHFonts.DHMenuFont"
 
 msgid "DHMenuFont.FontArrayNames<2>"
-msgstr "DHFonts.DHFontB18"
+msgstr "DHFonts.DHMenuFont"
 
 msgid "DHMenuFont.FontArrayNames<3>"
-msgstr "DHFonts.DHFontB18"
+msgstr "DHFonts.DHMenuFont"
 
 msgid "DHMenuFont.FontArrayNames<4>"
-msgstr "DHFonts.DHFontB18"
+msgstr "DHFonts.DHMenuFont"
 
 msgid "DHMenuFont.FontArrayNames<5>"
-msgstr "DHFonts.DHFontB18"
+msgstr "DHFonts.DHMenuFont"
 
 msgid "DHMenuFont.FontArrayNames<6>"
-msgstr "DHFonts.DHFontB18"
+msgstr "DHFonts.DHMenuFont"
 
 msgid "DHMenuFont.FontArrayNames<7>"
-msgstr "DHFonts.DHFontB18"
+msgstr "DHFonts.DHMenuFont"
 
 msgid "DHMenuFont.FontArrayNames<8>"
-msgstr "DHFonts.DHFontB18"
+msgstr "DHFonts.DHMenuFont"
 
 msgid "DHMenuFont.FontArrayNames<9>"
-msgstr "DHFonts.DHFontB18"
+msgstr "DHFonts.DHMenuFont"
 
 msgid "DHMenuFont.FontArrayNames<10>"
-msgstr "DHFonts.DHFontB18"
+msgstr "DHFonts.DHMenuFont"
 
 msgid "DHMenuFont.FontArrayNames<11>"
-msgstr "DHFonts.DHFontB18"
+msgstr "DHFonts.DHMenuFont"
 
 msgid "DHMenuFont.FontArrayNames<12>"
-msgstr "DHFonts.DHFontB18"
+msgstr "DHFonts.DHMenuFont"
 
 msgid "DHMenuFont.FontArrayNames<13>"
-msgstr "DHFonts.DHFontB18"
+msgstr "DHFonts.DHMenuFont"
 
 msgid "DHMenuFont.FontArrayNames<14>"
-msgstr "DHFonts.DHFontB18"
+msgstr "DHFonts.DHMenuFont"
 
 msgid "DHMidGameVoiceChat.NOSPEECH.Caption"
 msgstr "Ignore Voice Commands"
 
 msgid "DHMidGameVoiceChat.NOSPEECH.Hint"
-msgstr ""
-"Do not receive any voice commands, such as 'Take cover!' from this player"
+msgstr "Do not receive any voice commands, such as 'Take cover!' from this player"
 
 msgid "DHMutatorConfigMenu.AdvancedButton.Caption"
 msgstr "View Advanced Options"
@@ -850,10 +885,7 @@ msgid "DHNetworkStatusMessage.NetStatOk.Caption"
 msgstr "OK"
 
 msgid "DHNetworkStatusMsg.StatusMessages[12]"
-msgstr ""
-"You have been kicked for the remainder of the current level.||If an admin "
-"did not punish you, this is the default punishment for team killing, so "
-"don't do it."
+msgstr "You have been kicked for the remainder of the current level.||If an admin did not punish you, this is the default punishment for team killing, so don't do it."
 
 msgid "DHNetworkStatusMsg.StatusTitle[12]"
 msgstr "Session Kicked"
@@ -901,10 +933,7 @@ msgid "DHScoreBoard.ScoreboardColumns<9>.Title"
 msgstr "Ping"
 
 msgid "DHServerBrowser.BetaMessageText"
-msgstr ""
-"Welcome to the Darkest Hour: Europe '44-'45 live beta! Be sure to join the "
-"500+ strong Discord community to discuss the game, make suggestions, or "
-"report any bugs! See you on the battlefield!"
+msgstr "Welcome to the Darkest Hour: Europe '44-'45 live beta! Be sure to join the 500+ strong Discord community to discuss the game, make suggestions, or report any bugs! See you on the battlefield!"
 
 msgid "DHServerBrowser.PanelCaption<0>"
 msgstr "Favorites"
@@ -1012,19 +1041,34 @@ msgid "DHSettings_Footer.DefaultB.Caption"
 msgstr "Defaults"
 
 msgid "DHSmallFont.FontArrayNames<0>"
-msgstr "DHFonts.DHFont12"
+msgstr "DHFonts.DHSmallFont"
 
 msgid "DHSmallFont.FontArrayNames<1>"
-msgstr "DHFonts.DHFont12"
+msgstr "DHFonts.DHSmallFont"
 
 msgid "DHSmallFont.FontArrayNames<2>"
-msgstr "DHFonts.DHFont12"
+msgstr "DHFonts.DHSmallFont"
 
 msgid "DHSmallFont.FontArrayNames<3>"
-msgstr "DHFonts.DHFont12"
+msgstr "DHFonts.DHSmallFont"
 
 msgid "DHSmallFont.FontArrayNames<4>"
-msgstr "DHFonts.DHFont12"
+msgstr "DHFonts.DHSmallFont"
+
+msgid "DHSmallFontDS.FontArrayNames<0>"
+msgstr "DHFonts.DHSmallFontDS"
+
+msgid "DHSmallFontDS.FontArrayNames<1>"
+msgstr "DHFonts.DHSmallFontDS"
+
+msgid "DHSmallFontDS.FontArrayNames<2>"
+msgstr "DHFonts.DHSmallFontDS"
+
+msgid "DHSmallFontDS.FontArrayNames<3>"
+msgstr "DHFonts.DHSmallFontDS"
+
+msgid "DHSmallFontDS.FontArrayNames<4>"
+msgstr "DHFonts.DHSmallFontDS"
 
 msgid "DHTab_AudioSettings.AudioBK1.Caption"
 msgstr "Sound System"
@@ -1228,10 +1272,7 @@ msgid "DHTab_DetailSettings.RenderModeText[2]"
 msgstr "OpenGL (Unstable)"
 
 msgid "DHTab_DetailSettings.RelaunchQuestion"
-msgstr ""
-"The graphics mode has been successfully changed.  However, it will not take "
-"effect until the next time the game is started.  Would you like to restart "
-"the game right now?"
+msgstr "The graphics mode has been successfully changed.  However, it will not take effect until the next time the game is started.  Would you like to restart the game right now?"
 
 msgid "DHTab_DetailSettings.BrightnessSlider.Caption"
 msgstr "Brightness"
@@ -1297,9 +1338,7 @@ msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
 msgstr "Dynamic Fog Distance (Recommended)"
 
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
-msgstr ""
-"Keeps FPS as high as possible by adjusting the fog distance automatically "
-"based on FPS"
+msgstr "Keeps FPS as high as possible by adjusting the fog distance automatically based on FPS"
 
 msgid "DHTab_DetailSettings.GammaSlider.Caption"
 msgstr "Gamma"
@@ -1317,8 +1356,7 @@ msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
 msgstr "Min Desired FPS"
 
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
-msgstr ""
-"Used by Dynamic Fog Distance to determine when to start lowing fog distance"
+msgstr "Used by Dynamic Fog Distance to determine when to start lowing fog distance"
 
 msgid "DHTab_DetailSettings.MotionBlur.Caption"
 msgstr "Blur Effects"
@@ -1333,9 +1371,7 @@ msgid "DHTab_DetailSettings.UseVSyncCheckBox.Caption"
 msgstr "VSync (Not Recommended)"
 
 msgid "DHTab_DetailSettings.UseVSyncCheckBox.Hint"
-msgstr ""
-"VSync is used to reduce screen tearing at the high cost of input lag (GPU "
-"settings can override many graphic settings such as this)"
+msgstr "VSync is used to reduce screen tearing at the high cost of input lag (GPU settings can override many graphic settings such as this)"
 
 msgid "DHTab_DetailSettings.VideoColorDepth.Caption"
 msgstr "Color Depth"
@@ -1422,9 +1458,7 @@ msgid "DHTab_GameSettings.BayonetSpawn.Caption"
 msgstr "Spawn with bayonet attached"
 
 msgid "DHTab_GameSettings.BayonetSpawn.Hint"
-msgstr ""
-"Useful if you always want to have your bayonet attached and don't like "
-"having to attach it each spawn"
+msgstr "Useful if you always want to have your bayonet attached and don't like having to attach it each spawn"
 
 msgid "DHTab_GameSettings.CopyROIDButton.Caption"
 msgstr "Copy ID To Clipboard"
@@ -1436,9 +1470,7 @@ msgid "DHTab_GameSettings.DynamicNetspeed.Caption"
 msgstr "Dynamic Netspeed"
 
 msgid "DHTab_GameSettings.DynamicNetspeed.Hint"
-msgstr ""
-"Will lower NetSpeed to 6000 or until 40 ping is achieved, useful for those "
-"who want better ping vs stable NetSpeed"
+msgstr "Will lower NetSpeed to 6000 or until 40 ping is achieved, useful for those who want better ping vs stable NetSpeed"
 
 msgid "DHTab_GameSettings.GameBK1.Caption"
 msgstr "Gameplay"
@@ -1459,26 +1491,19 @@ msgid "DHTab_GameSettings.LockTankOnEntry.Caption"
 msgstr "Lock tank when entering it"
 
 msgid "DHTab_GameSettings.LockTankOnEntry.Hint"
-msgstr ""
-"Automatically lock a tank (or other armored vehicle) when you spawn into it,"
-" or if you enter an empty tank. This stops other players from using tank "
-"crew positions."
+msgstr "Automatically lock a tank (or other armored vehicle) when you spawn into it, or if you enter an empty tank. This stops other players from using tank crew positions."
 
 msgid "DHTab_GameSettings.ManualReloading.Caption"
 msgstr "Manual Tank Shell Reloading"
 
 msgid "DHTab_GameSettings.ManualReloading.Hint"
-msgstr ""
-"Rounds will not reload until you click after firing, useful if you decide "
-"you want to change round types after firing"
+msgstr "Rounds will not reload until you click after firing, useful if you decide you want to change round types after firing"
 
 msgid "DHTab_GameSettings.Netspeed.Caption"
 msgstr "NetSpeed (Bytes Per Second)"
 
 msgid "DHTab_GameSettings.Netspeed.Hint"
-msgstr ""
-"Your maximum desired internet speed used by the game (in Bytes Per Second). "
-"Servers can set a maximum client speed, which will override clients."
+msgstr "Your maximum desired internet speed used by the game (in Bytes Per Second). Servers can set a maximum client speed, which will override clients."
 
 msgid "DHTab_GameSettings.NoGore.Caption"
 msgstr "No Gore"
@@ -1514,12 +1539,7 @@ msgid "DHTab_GameSettings.ViewFOV.Caption"
 msgstr "Normal Field Of View"
 
 msgid "DHTab_GameSettings.ViewFOV.Hint"
-msgstr ""
-"How much of the world can be seen across the width of your screen. A lower "
-"FOV gives a slightly more zoomed view, while a higher FOV is more zoomed out"
-" but gives extra peripheral vision. Note a widescreen monitor does not give "
-"extra width of vision; the same view is spread across the wider screen and "
-"the top and bottom get cropped."
+msgstr "How much of the world can be seen across the width of your screen. A lower FOV gives a slightly more zoomed view, while a higher FOV is more zoomed out but gives extra peripheral vision. Note a widescreen monitor does not give extra width of vision; the same view is spread across the wider screen and the top and bottom get cropped."
 
 msgid "DHTab_Hud.GameBK.Caption"
 msgstr "Options"
@@ -1567,9 +1587,7 @@ msgid "DHTab_Hud.ShowChatMessages.Caption"
 msgstr "Show Chat Messages"
 
 msgid "DHTab_Hud.ShowChatMessages.Hint"
-msgstr ""
-"Show chat messages from players and server. Messages can still be read in "
-"the console."
+msgstr "Show chat messages from players and server. Messages can still be read in the console."
 
 msgid "DHTab_Hud.ShowCompass.Caption"
 msgstr "Show Compass"

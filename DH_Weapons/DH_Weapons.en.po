@@ -1,4 +1,3 @@
-#
 msgid ""
 msgstr ""
 "Language: en\n"
@@ -30,11 +29,20 @@ msgstr "M9A1 Bazooka"
 msgid "DH_BazookaWeapon.ItemName"
 msgstr "M1A1 Bazooka"
 
+msgid "DH_BerettaM1934Weapon.ItemName"
+msgstr "Beretta M1934"
+
+msgid "DH_Breda30Weapon.ItemName"
+msgstr "Breda modello 30"
+
 msgid "DH_BrenWeapon.ItemName"
 msgstr "Bren Mk.II"
 
 msgid "DH_C96Weapon.ItemName"
 msgstr "Mauser C96"
+
+msgid "DH_CarcanoM91Weapon.ItemName"
+msgstr "Carcano M91"
 
 msgid "DH_ColtM1911Weapon.ItemName"
 msgstr "Colt M1911A1"
@@ -123,6 +131,9 @@ msgstr "Kurz 8cm Granatwerfer 42"
 msgid "DH_Kz8cmGrW42Weapon.ItemName"
 msgstr "Kz 8cm GrW 42 Mortar"
 
+msgid "DH_LtypeGrenadeWeapon.ItemName"
+msgstr "OTO bomba Tipo L"
+
 msgid "DH_M1924Weapon.ItemName"
 msgstr "M1924 Rifle"
 
@@ -176,6 +187,9 @@ msgstr "31.M Rifle"
 
 msgid "DH_MAB38Weapon.ItemName"
 msgstr "MAB 38"
+
+msgid "DH_MAB42Weapon.ItemName"
+msgstr "Moschetto Automatico Beretta M1938/42"
 
 msgid "DH_MG34Weapon.ItemName"
 msgstr "MG 34"
@@ -329,6 +343,9 @@ msgstr "Winchester Model 1897"
 
 msgid "DH_WitchEnder666Weapon.ItemName"
 msgstr "WitchEnder 666 'Satan's Bane'"
+
+msgid "DH_Wz35Weapon.ItemName"
+msgstr "Wz-35 Anti-Tank Rifle"
 
 msgid "DH_ZB30Weapon.ItemName"
 msgstr "ZB-30 Machine Gun"

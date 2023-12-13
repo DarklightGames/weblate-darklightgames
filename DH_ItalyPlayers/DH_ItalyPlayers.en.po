@@ -1,4 +1,3 @@
-#
 msgid ""
 msgstr ""
 "Language: en\n"
@@ -32,6 +31,3 @@ msgstr "Need a Panzerschreck"
 
 msgid "DHNation_Italy.NationName"
 msgstr "Kingdom of Italy"
-
-msgid "DHNation_Italy.NativeNationName"
-msgstr "Regno d'Italia"

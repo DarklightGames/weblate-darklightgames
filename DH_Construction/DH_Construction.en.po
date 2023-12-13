@@ -1,4 +1,3 @@
-#
 msgid ""
 msgstr ""
 "Language: en\n"
@@ -79,9 +78,7 @@ msgid "DHConstruction_MortarPit.MenuName"
 msgstr "Mortar Pit"
 
 msgid "DHConstruction_PlatoonHQ.CustomErrorString"
-msgstr ""
-"Cannot {verb} a {name} close to {string} unless within {integer}m of "
-"controlled territory."
+msgstr "Cannot {verb} a {name} close to {string} unless within {integer}m of controlled territory."
 
 msgid "DHConstruction_PlatoonHQ.MenuName"
 msgstr "Platoon HQ"

@@ -1,4 +1,3 @@
-#
 msgid ""
 msgstr ""
 "Language: en\n"
@@ -14,9 +13,6 @@ msgstr "Need a Panzerschreck"
 
 msgid "DHNation_Germany.NationName"
 msgstr "Germany"
-
-msgid "DHNation_Germany.NativeNationName"
-msgstr "Deutschland"
 
 msgid "DHZVoice.SupportStringAxis[5]"
 msgstr "We need a Panzerschreck!"
