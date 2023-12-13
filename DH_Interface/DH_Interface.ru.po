@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-11 18:36+0000\n"
+"PO-Revision-Date: 2023-12-13 22:30+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -371,7 +371,7 @@ msgid "DHDeployMenu.DeployInTimeText"
 msgstr "Нажмите Продолжить для возрождения ({0})"
 
 msgid "DHDeployMenu.DeployNowText"
-msgstr "Нажмите Продолжить, чтобы возродиться сейчас!"
+msgstr "Нажмите продолжить, чтобы возродиться сейчас!"
 
 msgid "DHDeployMenu.ReservedString"
 msgstr "Зарезервированно"
@@ -671,7 +671,7 @@ msgstr ""
 "выйти из игры и открыть руководство по исправлению файла конфигурации."
 
 msgid "DHMainMenu.CreditsButton.Caption"
-msgstr "Информация об игре"
+msgstr "Титры"
 
 msgid "DHMainMenu.DiscordButton.Hint"
 msgstr "Присоединяйтесь к нам в Дискорде!"
@@ -1204,7 +1204,7 @@ msgid "DHTab_DetailSettings.DetailCharacterShadows.Caption"
 msgstr "Тени персонажей"
 
 msgid "DHTab_DetailSettings.DetailCoronas.Caption"
-msgstr "Дополнительное освещение"
+msgstr "Доп. освещение"
 
 msgid "DHTab_DetailSettings.DetailDecalStay.Caption"
 msgstr "Детали надписей"
