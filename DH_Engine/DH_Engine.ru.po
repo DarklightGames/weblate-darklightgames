@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-12 19:39+0000\n"
+"PO-Revision-Date: 2023-12-13 22:30+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -488,7 +488,7 @@ msgid "DHGameReplicationInfo.ForceScaleText"
 msgstr "Размер"
 
 msgid "DHGameReplicationInfo.ReinforcementsInfiniteText"
-msgstr "Бесконечнный"
+msgstr "Безлимитно"
 
 msgid "DHAlliedMachineGunnerRoles.AltName"
 msgstr ""
