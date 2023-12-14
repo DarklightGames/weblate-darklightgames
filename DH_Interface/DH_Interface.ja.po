@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-14 06:25+0000\n"
+"PO-Revision-Date: 2023-12-14 06:39+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
@@ -295,3 +295,30 @@ msgstr "DHFonts_jap.DHConsoleFont"
 
 msgid "DHButtonFontDS.FontArrayNames<5>"
 msgstr "DHFont_jap.DHButtonFontDS"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<6>"
+msgstr "プレイヤー"
+
+msgid "DHGameFooterMP.GameBackButton.Caption"
+msgstr "戻る"
+
+msgid "DHLearnToPlayFooter.GameBackButton.Caption"
+msgstr "戻る"
+
+msgid "DHMainMenu.CreditsButton.Caption"
+msgstr "クレジット"
+
+msgid "DHBrowser_Footer.BrowserBack.Caption"
+msgstr "戻る"
+
+msgid "DHServerBrowser.PanelCaption<5>"
+msgstr "インターネット"
+
+msgid "DHServerBrowser.PanelCaption<2>"
+msgstr "インターネット"
+
+msgid "DHGameFooterSP.GameBackButton.Caption"
+msgstr "戻る"
+
+msgid "DHServerBrowser.PanelCaption<4>"
+msgstr "インターネット"
