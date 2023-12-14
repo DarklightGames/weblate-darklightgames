@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-11 04:29+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2023-12-14 05:22+0000\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
 "Language: ru\n"
@@ -1212,3 +1212,12 @@ msgstr "Легкий танк Т-60"
 
 msgid "DH_TigerTank_Butcher.VehicleNameString"
 msgstr "Panzer VI Ausf.E 'Мясник'"
+
+msgid "DH_PanzerIVHCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_PanzerIVHCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+msgid "DH_PanzerIVHCannon.nProjectileDescriptions<2>"
+msgstr "Gr.38 Hl/C"
