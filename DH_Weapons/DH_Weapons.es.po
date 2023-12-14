@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-11 04:25+0000\n"
+"PO-Revision-Date: 2023-12-15 03:25+0000\n"
 "Last-Translator: Argilas <argilas@hotmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/es/>\n"
@@ -332,3 +332,21 @@ msgstr "WitchEnder 666 'Satan's Bane'"
 
 msgid "DH_Kar98NoCoverWeapon.ItemName"
 msgstr "Kar 98k (mira descubierta)"
+
+msgid "DH_BerettaM1934Weapon.ItemName"
+msgstr "Beretta M1934"
+
+msgid "DH_LtypeGrenadeWeapon.ItemName"
+msgstr "OTO bomba Tipo L"
+
+msgid "DH_MAB42Weapon.ItemName"
+msgstr "Moschetto Automatico Beretta M1938/42"
+
+msgid "DH_Wz35Weapon.ItemName"
+msgstr "Fusil antitanque Wz-35"
+
+msgid "DH_Breda30Weapon.ItemName"
+msgstr "Breda modello 30"
+
+msgid "DH_CarcanoM91Weapon.ItemName"
+msgstr "Carcano M91"
