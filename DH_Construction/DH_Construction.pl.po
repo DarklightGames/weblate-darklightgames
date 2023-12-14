@@ -1,2 +1,61 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-15 03:25+0000\n"
+"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
+"Language-Team: Polish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_construction/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "DHCameraWeapon.ItemName"
+msgstr "Kamera"
+
+msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
+msgstr "Wyczerpany"
+
+msgid "DHConstruction_DragonsTooth.MenuDescription"
+msgstr "Skuteczne w blokowaniu wszystkich pojazdów."
+
+msgid "DHConstruction_Hedgehog.MenuDescription"
+msgstr "Skutecznie blokuje lekkie i średnie pojazdy."
+
+msgid "DHCommandMenu_ConstructionGroup.NotAvailableText"
+msgstr "Niedostępne"
+
+msgid "DHCommandMenu_ConstructionGroup.BusyText"
+msgstr "Zajęty"
+
+msgid "DHConstructionControlsMessage.Controls<0>.Text"
+msgstr "Potwierdź"
+
+msgid "DHConstructionControlsMessage.Controls<1>.Text"
+msgstr "Anuluj"
+
+msgid "DHConstructionControlsMessage.Controls<2>.Text"
+msgstr "Obróć"
+
+msgid "DHConstructionGroup_Ammunition.GroupName"
+msgstr "Amunicja"
+
+msgid "DHConstructionGroup_Debug.GroupName"
+msgstr "Debuguj"
+
+msgid "DHConstructionGroup_Logistics.GroupName"
+msgstr "Logistyka"
+
+msgid "DHConstructionGroup_Obstacles.GroupName"
+msgstr "Przeszkody"
+
+msgid "DHConstruction_ConcertinaWire.MenuDescription"
+msgstr "Skuteczny w blokowaniu piechoty i lekkich pojazdów."
+
+msgid "DHConstruction_DragonsTooth.MenuName"
+msgstr "Zęby Smoka"
+
+msgid "DHConstruction_InventorySpawner.ConstructionVerb"
+msgstr "upuść"
