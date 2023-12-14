@@ -1,2 +1,37 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-15 03:25+0000\n"
+"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
+"Language-Team: Polish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_sovietplayers/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+#, fuzzy
+msgid "DHSOVSergeantRoles.PluralName"
+msgstr "Dowódcy Oddziału"
+
+msgid "DHNation_USSR.NationName"
+msgstr "Związek Socjalistycznych Republik Radzieckich"
+
+msgid "DHSOVSergeantRoles.MyName"
+msgstr "Dowódca Oddziału"
+
+#, fuzzy
+msgid "DHSOVCorporalRoles.PluralName"
+msgstr "Dowódcy Drużyn Ogniowych"
+
+msgid "DHNation_Czechoslovakia.NationName"
+msgstr "Czechosłowacja"
+
+#, fuzzy
+msgid "DHSOVCorporalRoles.MyName"
+msgstr "Dowódca Drużyny Ogniowej"
+
+msgid "DHNation_Poland.NationName"
+msgstr "Ludowe Wojsko Polskie"
