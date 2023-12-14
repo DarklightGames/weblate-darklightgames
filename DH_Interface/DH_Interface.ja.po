@@ -1,2 +1,33 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-14 05:22+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
+"Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_interface/ja/>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "DHBrowser_OpenIP.CancelButton.Caption"
+msgstr "キャンセル"
+
+msgid "DHGetDataMenu.CancelButton.Caption"
+msgstr "キャンセル"
+
+msgid "DHMainMenu.ServerButton.Caption"
+msgstr "サーバーブラウザ"
+
+msgid "DHFilterEdit.bCancel.Caption"
+msgstr "キャンセル"
+
+msgid "DHGUIDynArrayPage.LockedCancelButton.Caption"
+msgstr "キャンセル"
+
+msgid "DHFilterListPage.bCancel.Caption"
+msgstr "キャンセル"
+
+msgid "DHMainMenu.SettingsButton.Caption"
+msgstr "設定"
