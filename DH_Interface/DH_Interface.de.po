@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-11 18:36+0000\n"
+"PO-Revision-Date: 2023-12-15 03:25+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/de/>\n"
@@ -45,8 +45,9 @@ msgstr "Alliierten beitreten"
 msgid "DHDeployMenu.ContinueButtonObject.Caption"
 msgstr "Weiter"
 
+#, fuzzy
 msgid "DHDeployMenu.SpawnVehicleImageObject.Hint"
-msgstr "Spawnfahrzeug"
+msgstr "Einstiegsfahrzeug"
 
 msgid "DHBrowser_Footer.BrowserFilter.Caption"
 msgstr "Filter"
@@ -136,8 +137,9 @@ msgstr "Keine"
 msgid "DHDeployMenu.SelectRoleText"
 msgstr "Rolle auswählen"
 
+#, fuzzy
 msgid "DHDeployMenu.SelectSpawnPointText"
-msgstr "Spawn Punkt auswählen"
+msgstr "Einstiegspunkt auswählen"
 
 msgid "DHDeployMenu.ReservedString"
 msgstr "Reserviert"
@@ -237,3 +239,309 @@ msgstr "Zurück"
 
 msgid "DHGetDataMenu.CancelButton.Caption"
 msgstr "ABBRECHEN"
+
+#, fuzzy
+msgid "DHCommunicationPage.Panels<0>.Hint"
+msgstr "Funk mit anderen Spielern verwalten"
+
+msgid "DHTab_GameSettings.BayonetSpawn.Caption"
+msgstr "Mit aufgeplanztem Seitengewehr einsteigen"
+
+#, fuzzy
+msgid "DHDeployMenu.ChangeTeamConfirmText"
+msgstr ""
+"Soll das Team wirklich gewechselt werden? (Sie werden für {s} Sekunden nicht "
+"zurückwechseln können)"
+
+msgid "DHDeployMenu.SurrenderConfirmEndRoundText"
+msgstr ""
+"Dies wird das Gefecht automatisch zum Vorteil des anderen Teams beenden."
+
+msgid "DHFilterEdit.ckVACOnly.Caption"
+msgstr "Nur mit Valve Anti-Cheat gesicherte"
+
+msgid "DHGUIMapComponent.ActiveTargetDeselectText"
+msgstr "Aktives Ziel abwählen"
+
+#, fuzzy
+msgid "DHBrowser_Footer.OnlyStandardCheckBox.Caption"
+msgstr "Nur Standard Server"
+
+#, fuzzy
+msgid "DHDeployMenu.SurrenderResponseMessages<6>"
+msgstr ""
+"Ihr Team hatte bereits eine Abstimmung darüber sich zurückzuziehen. Bitte "
+"später erneut versuchen."
+
+msgid "DHDeployMenu.SquadsButtonObject.Hint"
+msgstr "Gruppen [F1]"
+
+msgid "DHTab_GameSettings.BayonetSpawn.Hint"
+msgstr ""
+"Nützlich wenn das Seitengewehr dauerhaft und nicht nach jedem Einstieg neu "
+"aufgeplanzt werden soll"
+
+msgid "DHTab_GameSettings.LockTankOnEntry.Hint"
+msgstr ""
+"Panzer (oder andere gepanzerte Fahrzeuge) automatisch verschließen wenn Sie "
+"darin einsteigen. Dies verhindert, dass andere Spieler diese mitnutzen "
+"können."
+
+msgid "DHTab_Hud.ShowMapFirstSpawn.Caption"
+msgstr "Karte beim ersten Einstieg öffnen"
+
+msgid "DHDeployMenu.DeployNowText"
+msgstr "Fortfahren drücken um jetzt einzusteigen!"
+
+msgid "DHFilterEdit.ckPassworded.Caption"
+msgstr "Keine passwortbeschränkten Server"
+
+#, fuzzy
+msgid "DHGUISquadComponent.NoRallyPointsImage.Hint"
+msgstr ""
+"Diese Gruppe hatte seit einer Weile keine Rallys. Einstiegsmöglichkeiten "
+"könnten begrenzt sein!"
+
+msgid "DHButtonFont.FontArrayNames<0>"
+msgstr ""
+
+#, fuzzy
+msgid "DHBrowser_OpenIP.OkButton.Caption"
+msgstr "OK"
+
+#, fuzzy
+msgid "DHDeployMenu.FreeChangeTeamConfirmText"
+msgstr "Soll das Team wirklich gewechselt werden?"
+
+#, fuzzy
+msgid "DHDeployMenu.CantChangeTeamYetText"
+msgstr "Sie müssen {s} warten bevor Sie das Team wechseln können"
+
+msgid "DHDeployMenu.SquadOnlyText"
+msgstr "NUR GRUPPEN"
+
+#, fuzzy
+msgid "DHDeployMenu.DeployInTimeText"
+msgstr "Fortfahren drücken um ({0}) einzusteigen"
+
+msgid "DHDeployMenu.SquadLeadershipOnlyText"
+msgstr "NUR GRUPPENFÜHRER"
+
+msgid "DHFilterEdit.ComboOpts[2]"
+msgstr "Muss aus sein"
+
+#, fuzzy
+msgid "DHFilterEdit.MutOpts[2]"
+msgstr "Individuell"
+
+msgid "DHEditFavoritePage.IpEntryBox.Caption"
+msgstr "IP Addresse: "
+
+msgid "DHFilterEdit.ComboOpts[0]"
+msgstr "Irrelevant"
+
+msgid "DHFilterEdit.ComboOpts[1]"
+msgstr "Muss an sein"
+
+msgid "DHFilterEdit.WindowName"
+msgstr "Filterregeln ändern..."
+
+msgid "DHFilterEdit.bOk.Caption"
+msgstr "OK"
+
+msgid "DHFilterEdit.ebName.Caption"
+msgstr "Filter Name:"
+
+msgid "DHFilterListPage.bOk.Caption"
+msgstr "OK"
+
+msgid "DHGUIDynArrayPage.LockedOKButton.Caption"
+msgstr "OK"
+
+#, fuzzy
+msgid "DHGUIMapComponent.SquadRallyPointDestroyText"
+msgstr "Rally zerstören"
+
+msgid "DHGUIMapComponent.RemoveText"
+msgstr "{0} entfernen"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<0>"
+msgstr "Server beitreten"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<1>"
+msgstr "Als Beobachter beitreten"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<3>"
+msgstr "Server Info aktualisieren"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<4>"
+msgstr "Liste aktualisieren"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<6>"
+msgstr "Filter konfigurieren"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<7>"
+msgstr "Vorlage erstellen"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<8>"
+msgstr "Alle Filter deaktivieren"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<10>"
+msgstr "Zu Favoriten hinzufügen"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<11>"
+msgstr "Server Adresse kopieren"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<12>"
+msgstr "IP öffnen"
+
+#, fuzzy
+msgid "DHBrowser_ServersList.ColumnHeadings<2>"
+msgstr "Zustand"
+
+#, fuzzy
+msgid "DHBrowser_ServersList.ColumnHeadings<3>"
+msgstr "Ort"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<5>"
+msgstr "Karte"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<6>"
+msgstr "Spieler"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<7>"
+msgstr "Ping"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<1>"
+msgstr "Server Name"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<4>"
+msgstr "Version"
+
+#, fuzzy
+msgid "DHCommunicationPage.Panels<0>.Caption"
+msgstr "Funkverkehr"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<1>"
+msgstr "{0} einladen"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<2>"
+msgstr "{0} rauswerfen"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<3>"
+msgstr "{0} bannen"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<4>"
+msgstr "{0} zum Gruppenführer befördern"
+
+#, fuzzy
+msgid "DHContextMenu_SquadMembers.EntryTexts<5>"
+msgstr "{0} zum Assistent ernennen"
+
+#, fuzzy
+msgid "DHContextMenu_SquadMembers.EntryTexts<6>"
+msgstr "{0} als Assistent entbinden"
+
+#, fuzzy
+msgid "DHContextMenu_SquadMembers.EntryTexts<7>"
+msgstr "Freiwillig als Assistent melden"
+
+#, fuzzy
+msgid "DHContextMenu_SquadMembers.EntryTexts<8>"
+msgstr "Gruppenzusammenführung anfragen"
+
+#, fuzzy
+msgid "DHDeployMenu.UnassignedPlayersCaptionText"
+msgstr "Führungslos"
+
+msgid "DHDeployMenu.NonSquadLeaderOnlyText"
+msgstr "NICHT FÜR GRUPPENFÜHRER"
+
+#, fuzzy
+msgid "DHDeployMenu.SurrenderConfirmBaseText"
+msgstr "Wollen Sie sich wirklich ergeben?"
+
+#, fuzzy
+msgid "DHDeployMenu.SurrenderResponseMessages<0>"
+msgstr "Kritischer Fehler!"
+
+#, fuzzy
+msgid "DHDeployMenu.SurrenderResponseMessages<1>"
+msgstr "Sie haben noch kein Team gewählt."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<2>"
+msgstr "Das Gefecht hat noch nicht begonnen."
+
+#, fuzzy
+msgid "DHDeployMenu.SurrenderResponseMessages<3>"
+msgstr "Die Abstimmung sich zurückzuziehen wurde deaktiviert."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<4>"
+msgstr "Es läuft bereits eine Abstimmung."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<5>"
+msgstr "Sie haben sich bereits zurückgezogen."
+
+#, fuzzy
+msgid "DHDeployMenu.SurrenderResponseMessages<7>"
+msgstr "Sie können sich nicht zurückziehen wenn das Gefecht vorüber ist."
+
+#, fuzzy
+msgid "DHDeployMenu.SurrenderResponseMessages<9>"
+msgstr "Sie können sich noch nicht zurückziehen."
+
+#, fuzzy
+msgid "DHDeployMenu.SurrenderResponseMessages<10>"
+msgstr "Sie können sich in der Aufmaschphase nicht zurückziehen."
+
+msgid "DHFilterEdit.ckEmpty.Caption"
+msgstr "Keine leeren Server"
+
+msgid "DHFilterEdit.ckBots.Caption"
+msgstr "Keine Bots"
+
+msgid "DHFilterEdit.ckFull.Caption"
+msgstr "Keine vollen Server"
+
+msgid "DHGUIMapComponent.ActiveTargetSelectText"
+msgstr "Als aktives Ziel wählen"
+
+msgid "DHGUISquadComponent.CreateSquadButton.Caption"
+msgstr "Gruppe erstellen"
+
+msgid "DHGUISquadComponent.JoinSquadButton.Caption"
+msgstr "Gruppe beitreten"
+
+msgid "DHGUISquadComponent.LeaveSquadButton.Caption"
+msgstr "Gruppe verlassen"
+
+#, fuzzy
+msgid "DHGUITeamSelection.SizeBonusText"
+msgstr "Kombattantenzahl"
+
+msgid "DHGUITeamSelection.UnitsText"
+msgstr " Spieler"
+
+#, fuzzy
+msgid "DHGUITeamSelection.AutoSelect.Caption"
+msgstr "Auto-Auswahl"
+
+msgid "DHGUITeamSelection.TeamsCount.Caption"
+msgstr "? Spieler"
+
+msgid "DHGUITeamSelection.TeamsCount2.Caption"
+msgstr "? Spieler"
+
+msgid "DHGamePageMP.MPFooter.SecondaryCaption"
+msgstr "Dediziert"
+
+#, fuzzy
+msgid "DHGamePageSP.PageCaption"
+msgstr "Übung"
+
+#, fuzzy
+msgid "DHGamePageSP.SPFooter.PrimaryCaption"
+msgstr "Übungsgefecht starten"
+
+msgid "DHGetDataMenu.OkButton.Caption"
+msgstr "OK"
