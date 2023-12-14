@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-14 06:20+0000\n"
+"PO-Revision-Date: 2023-12-14 06:25+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
@@ -42,7 +42,7 @@ msgid "DHLargeFont.FontArrayNames<1>"
 msgstr "DHFonts_jap.DHLargeFont"
 
 msgid "DHButtonFont.FontArrayNames<3>"
-msgstr "DHFonts_jap.DHButtonText"
+msgstr "DHFonts_jap.DHButtonFont"
 
 msgid "DHButtonFontDS.FontArrayNames<8>"
 msgstr "DHFont_jap.DHButtonFontDS"
@@ -57,7 +57,7 @@ msgid "DHConsoleFont.FontArrayNames<1>"
 msgstr "DHFonts_jap.DHConsoleFont"
 
 msgid "DHButtonFont.FontArrayNames<11>"
-msgstr "DHFonts_jap.DHButtonText"
+msgstr "DHFonts_jap.DHButtonFont"
 
 msgid "DHBrowser_ServersList.ColumnHeadings<5>"
 msgstr "マップ"
@@ -81,7 +81,7 @@ msgid "DHSmallFontDS.FontArrayNames<3>"
 msgstr "DHFonts_jap.DHSmallFont"
 
 msgid "DHButtonFont.FontArrayNames<4>"
-msgstr "DHFonts_jap.DHButtonText"
+msgstr "DHFonts_jap.DHButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<7>"
 msgstr "DHFonts_jap.DHHugeButtonFont"
@@ -90,7 +90,7 @@ msgid "DHMenuFont.FontArrayNames<1>"
 msgstr "DHFonts_jap.DHMenuFont"
 
 msgid "DHButtonFont.FontArrayNames<6>"
-msgstr "DHFonts_jap.DHButtonText"
+msgstr "DHFonts_jap.DHButtonFont"
 
 msgid "DHSmallFontDS.FontArrayNames<4>"
 msgstr "DHFonts_jap.DHSmallFont"
@@ -105,7 +105,7 @@ msgid "DHMenuFont.FontArrayNames<11>"
 msgstr "DHFonts_jap.DHMenuFont"
 
 msgid "DHButtonFont.FontArrayNames<13>"
-msgstr "DHFonts_jap.DHButtonText"
+msgstr "DHFonts_jap.DHButtonFont"
 
 msgid "DHSmallFont.FontArrayNames<0>"
 msgstr "DHFonts_jap.DHSmallFont"
@@ -150,7 +150,7 @@ msgid "DHButtonFontDS.FontArrayNames<10>"
 msgstr "DHFont_jap.DHButtonFontDS"
 
 msgid "DHButtonFont.FontArrayNames<14>"
-msgstr "DHFonts_jap.DHButtonText"
+msgstr "DHFonts_jap.DHButtonFont"
 
 msgid "DHButtonFontDS.FontArrayNames<6>"
 msgstr "DHFont_jap.DHButtonFontDS"
@@ -162,7 +162,7 @@ msgid "DHHugeButtonFont.FontArrayNames<6>"
 msgstr "DHFonts_jap.DHHugeButtonFont"
 
 msgid "DHButtonFont.FontArrayNames<8>"
-msgstr "DHFonts_jap.DHButtonText"
+msgstr "DHFonts_jap.DHButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<2>"
 msgstr "DHFonts_jap.DHHugeButtonFont"
@@ -189,7 +189,7 @@ msgid "DHDeployMenu.LockText"
 msgstr "ロック"
 
 msgid "DHButtonFont.FontArrayNames<1>"
-msgstr "DHFonts_jap.DHButtonText"
+msgstr "DHFonts_jap.DHButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<1>"
 msgstr "DHFonts_jap.DHHugeButtonFont"
@@ -213,7 +213,7 @@ msgid "DHCreditsPage.WindowName"
 msgstr "クレジット"
 
 msgid "DHButtonFont.FontArrayNames<9>"
-msgstr "DHFonts_jap.DHButtonText"
+msgstr "DHFonts_jap.DHButtonFont"
 
 msgid "DHMenuFont.FontArrayNames<2>"
 msgstr "DHFonts_jap.DHMenuFont"
@@ -225,7 +225,7 @@ msgid "DHButtonFontDS.FontArrayNames<14>"
 msgstr "DHFont_jap.DHButtonFontDS"
 
 msgid "DHButtonFont.FontArrayNames<10>"
-msgstr "DHFonts_jap.DHButtonText"
+msgstr "DHFonts_jap.DHButtonFont"
 
 msgid "DHHugeButtonFont.FontArrayNames<11>"
 msgstr "DHFonts_jap.DHHugeButtonFont"
@@ -249,16 +249,16 @@ msgid "DHMenuFont.FontArrayNames<8>"
 msgstr "DHFonts_jap.DHMenuFont"
 
 msgid "DHButtonFont.FontArrayNames<7>"
-msgstr "DHFonts_jap.DHButtonText"
+msgstr "DHFonts_jap.DHButtonFont"
 
 msgid "DHButtonFont.FontArrayNames<2>"
-msgstr "DHFonts_jap.DHButtonText"
+msgstr "DHFonts_jap.DHButtonFont"
 
 msgid "DHButtonFontDS.FontArrayNames<3>"
 msgstr "DHFont_jap.DHButtonFontDS"
 
 msgid "DHButtonFont.FontArrayNames<0>"
-msgstr "DHFonts_jap.DHButtonText"
+msgstr "DHFonts_jap.DHButtonFont"
 
 msgid "DHMenuFont.FontArrayNames<0>"
 msgstr "DHFonts_jap.DHMenuFont"
@@ -273,10 +273,10 @@ msgid "DHMenuFont.FontArrayNames<12>"
 msgstr "DHFonts_jap.DHMenuFont"
 
 msgid "DHButtonFont.FontArrayNames<12>"
-msgstr "DHFonts_jap.DHButtonText"
+msgstr "DHFonts_jap.DHButtonFont"
 
 msgid "DHButtonFont.FontArrayNames<5>"
-msgstr "DHFonts_jap.DHButtonText"
+msgstr "DHFonts_jap.DHButtonFont"
 
 msgid "DHBrowser_Footer.BrowserRefresh.Caption"
 msgstr "リフレッシュ"
