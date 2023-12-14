@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-13 22:30+0000\n"
+"PO-Revision-Date: 2023-12-14 05:22+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -2609,3 +2609,51 @@ msgstr ""
 
 msgid "DHHud.ConnectedObjectivesNotSecuredText"
 msgstr "Связанные цели (s) не защищены"
+
+msgid "DHCommandMenu_SquadManageMember.Options<1>.SubjectText"
+msgstr "Повысить до лидера отряда"
+
+msgid "DHCommandMenu_ATGun.Options<0>.ActionText"
+msgstr "Повернуть"
+
+msgid "DHCommandMenu_LoneWolf.Options<0>.ActionText"
+msgstr "Авто-присоединение к отряду"
+
+msgid "DHCommandMenu_LoneWolf.Options<1>.ActionText"
+msgstr "Создать отряд"
+
+msgid "DHCommandMenu_Patron.Options<0>.ActionText"
+msgstr "Строительство"
+
+msgid "DHCommandMenu_Patron.Options<1>.ActionText"
+msgstr "Наблюдение"
+
+msgid "DHCommandMenu_SquadAssistant.Options<0>.ActionText"
+msgstr "Строительство"
+
+msgid "DHCommandMenu_SquadAssistant.Options<1>.ActionText"
+msgstr "Наблюдение"
+
+msgid "DHCommandMenu_SquadLeader.Options<0>.ActionText"
+msgstr "Создать точку сбора"
+
+msgid "DHCommandMenu_SquadLeader.Options<1>.ActionText"
+msgstr "Огонь"
+
+msgid "DHCommandMenu_SquadLeader.Options<2>.ActionText"
+msgstr "Строительство"
+
+msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
+msgstr "Нет игрока "
+
+msgid "DHCommandMenu_SquadLeader.Options<4>.ActionText"
+msgstr "Наблюдение"
+
+msgid "DHCommandMenu_SquadLeader.Options<5>.ActionText"
+msgstr "Сюда"
+
+msgid "DHCommandMenu_SquadManageMember.Options<0>.SubjectText"
+msgstr "Выгнать из отряда"
+
+msgid "DHCommandMenu_SquadManageMember.Options<2>.SubjectText"
+msgstr "Заблокировать"
