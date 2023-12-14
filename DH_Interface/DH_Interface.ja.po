@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-14 06:39+0000\n"
+"PO-Revision-Date: 2023-12-15 03:25+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
@@ -322,3 +322,27 @@ msgstr "戻る"
 
 msgid "DHServerBrowser.PanelCaption<4>"
 msgstr "インターネット"
+
+msgid "DHMainMenu.MOTDErrorString"
+msgstr "エラー:ニュースフィードをダウンロードできませんでした ({0})"
+
+msgid "DHMainMenu.PatreonButton.Hint"
+msgstr "Patreonで私たちをサポートしてください！"
+
+msgid "DHBrowser_Footer.BrowserFilter.Caption"
+msgstr "フィルター"
+
+msgid "DHMainMenu.DiscordButton.Hint"
+msgstr "Discordにご参加ください！"
+
+msgid "DHMainMenu.GitHubButton.Hint"
+msgstr "GitHub にぜひご参加！"
+
+msgid "DHMainMenu.InstantActionButton.Caption"
+msgstr "練習"
+
+msgid "DHMainMenu.FacebookButton.Hint"
+msgstr "Facebookでフォローしてください！"
+
+msgid "DHMainMenu.QuitButton.Caption"
+msgstr "出口"
