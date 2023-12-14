@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-14 05:22+0000\n"
+"PO-Revision-Date: 2023-12-15 03:25+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -2657,3 +2657,34 @@ msgstr "Выгнать из отряда"
 
 msgid "DHCommandMenu_SquadManageMember.Options<2>.SubjectText"
 msgstr "Заблокировать"
+
+msgid "DHHud.PlaceRallyPointText"
+msgstr "Нажмите [%PLACERALLYPOINT%]"
+
+msgid "DHSupplyVehicleMessage.Controls<1>.Text"
+msgstr "Выгрузить припасы"
+
+msgid "DHSupplyVehicleMessage.Controls<0>.Text"
+msgstr "Загрузить припасы"
+
+msgid "DHCommandMenu_SquadManageNonMember.Options<0>.ActionText"
+msgstr "Пригласить в отряд"
+
+msgid "DHCommandMenu_SquadManageMember.Options<3>.SubjectText"
+msgstr "Сделать помощником"
+
+msgid "DHCommandMenu_SquadManageMember.Options<4>.SubjectText"
+msgstr "Удалить помощника"
+
+msgid "DHCommandMenu_SquadMenu.Options<0>.ActionText"
+msgstr "Выйти"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecDescription"
+msgstr ""
+"(9,6 кбит/с) — используется большая полоса пропускания, но звук становится "
+"намного чище."
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecDescription"
+msgstr ""
+"(9,6 кбит/с) — используется большая полоса пропускания, но звук становится "
+"намного чище."
