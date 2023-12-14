@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-14 05:22+0000\n"
+"PO-Revision-Date: 2023-12-14 06:20+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
@@ -31,3 +31,267 @@ msgstr "キャンセル"
 
 msgid "DHMainMenu.SettingsButton.Caption"
 msgstr "設定"
+
+msgid "DHLargeFont.FontArrayNames<3>"
+msgstr "DHFonts_jap.DHLargeFont"
+
+msgid "DHMenuFont.FontArrayNames<5>"
+msgstr "DHFonts_jap.DHMenuFont"
+
+msgid "DHLargeFont.FontArrayNames<1>"
+msgstr "DHFonts_jap.DHLargeFont"
+
+msgid "DHButtonFont.FontArrayNames<3>"
+msgstr "DHFonts_jap.DHButtonText"
+
+msgid "DHButtonFontDS.FontArrayNames<8>"
+msgstr "DHFont_jap.DHButtonFontDS"
+
+msgid "DHSmallFont.FontArrayNames<4>"
+msgstr "DHFonts_jap.DHSmallFont"
+
+msgid "DHLargeFont.FontArrayNames<0>"
+msgstr "DHFonts_jap.DHLargeFont"
+
+msgid "DHConsoleFont.FontArrayNames<1>"
+msgstr "DHFonts_jap.DHConsoleFont"
+
+msgid "DHButtonFont.FontArrayNames<11>"
+msgstr "DHFonts_jap.DHButtonText"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<5>"
+msgstr "マップ"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<4>"
+msgstr "バージョン"
+
+msgid "DHSmallFont.FontArrayNames<1>"
+msgstr "DHFonts_jap.DHSmallFont"
+
+msgid "DHConsoleFont.FontArrayNames<0>"
+msgstr "DHFonts_jap.DHConsoleFont"
+
+msgid "DHButtonFontDS.FontArrayNames<11>"
+msgstr "DHFont_jap.DHButtonFontDS"
+
+msgid "DHHugeButtonFont.FontArrayNames<9>"
+msgstr "DHFonts_jap.DHHugeButtonFont"
+
+msgid "DHSmallFontDS.FontArrayNames<3>"
+msgstr "DHFonts_jap.DHSmallFont"
+
+msgid "DHButtonFont.FontArrayNames<4>"
+msgstr "DHFonts_jap.DHButtonText"
+
+msgid "DHHugeButtonFont.FontArrayNames<7>"
+msgstr "DHFonts_jap.DHHugeButtonFont"
+
+msgid "DHMenuFont.FontArrayNames<1>"
+msgstr "DHFonts_jap.DHMenuFont"
+
+msgid "DHButtonFont.FontArrayNames<6>"
+msgstr "DHFonts_jap.DHButtonText"
+
+msgid "DHSmallFontDS.FontArrayNames<4>"
+msgstr "DHFonts_jap.DHSmallFont"
+
+msgid "DHMenuFont.FontArrayNames<14>"
+msgstr "DHFonts_jap.DHMenuFont"
+
+msgid "DHHugeButtonFont.FontArrayNames<0>"
+msgstr "DHFonts_jap.DHHugeButtonFont"
+
+msgid "DHMenuFont.FontArrayNames<11>"
+msgstr "DHFonts_jap.DHMenuFont"
+
+msgid "DHButtonFont.FontArrayNames<13>"
+msgstr "DHFonts_jap.DHButtonText"
+
+msgid "DHSmallFont.FontArrayNames<0>"
+msgstr "DHFonts_jap.DHSmallFont"
+
+msgid "DHButtonFontDS.FontArrayNames<0>"
+msgstr "DHFont_jap.DHButtonFontDS"
+
+msgid "DHHugeButtonFont.FontArrayNames<10>"
+msgstr "DHFonts_jap.DHHugeButtonFont"
+
+msgid "DHCommunicationPage.Panels<0>.Caption"
+msgstr "コミュニケーション"
+
+msgid "DHMenuFont.FontArrayNames<9>"
+msgstr "DHFonts_jap.DHMenuFont"
+
+msgid "DHButtonFontDS.FontArrayNames<13>"
+msgstr "DHFont_jap.DHButtonFontDS"
+
+msgid "DHMenuFont.FontArrayNames<7>"
+msgstr "DHFonts_jap.DHMenuFont"
+
+msgid "DHButtonFontDS.FontArrayNames<1>"
+msgstr "DHFont_jap.DHButtonFontDS"
+
+msgid "DHButtonFontDS.FontArrayNames<2>"
+msgstr "DHFont_jap.DHButtonFontDS"
+
+msgid "DHButtonFontDS.FontArrayNames<7>"
+msgstr "DHFont_jap.DHButtonFontDS"
+
+msgid "DHMenuFont.FontArrayNames<4>"
+msgstr "DHFonts_jap.DHMenuFont"
+
+msgid "DHMenuFont.FontArrayNames<6>"
+msgstr "DHFonts_jap.DHMenuFont"
+
+msgid "DHConsoleFont.FontArrayNames<4>"
+msgstr "DHFonts_jap.DHConsoleFont"
+
+msgid "DHButtonFontDS.FontArrayNames<10>"
+msgstr "DHFont_jap.DHButtonFontDS"
+
+msgid "DHButtonFont.FontArrayNames<14>"
+msgstr "DHFonts_jap.DHButtonText"
+
+msgid "DHButtonFontDS.FontArrayNames<6>"
+msgstr "DHFont_jap.DHButtonFontDS"
+
+msgid "DHHugeButtonFont.FontArrayNames<5>"
+msgstr "DHFonts_jap.DHHugeButtonFont"
+
+msgid "DHHugeButtonFont.FontArrayNames<6>"
+msgstr "DHFonts_jap.DHHugeButtonFont"
+
+msgid "DHButtonFont.FontArrayNames<8>"
+msgstr "DHFonts_jap.DHButtonText"
+
+msgid "DHHugeButtonFont.FontArrayNames<2>"
+msgstr "DHFonts_jap.DHHugeButtonFont"
+
+msgid "DHMenuFont.FontArrayNames<3>"
+msgstr "DHFonts_jap.DHMenuFont"
+
+msgid "DHSmallFontDS.FontArrayNames<2>"
+msgstr "DHFonts_jap.DHSmallFont"
+
+msgid "DHBrowser_Footer.BrowserMain.Caption"
+msgstr "メイン"
+
+msgid "DHButtonFontDS.FontArrayNames<4>"
+msgstr "DHFont_jap.DHButtonFontDS"
+
+msgid "DHButtonFontDS.FontArrayNames<12>"
+msgstr "DHFont_jap.DHButtonFontDS"
+
+msgid "DHHugeButtonFont.FontArrayNames<8>"
+msgstr "DHFonts_jap.DHHugeButtonFont"
+
+msgid "DHDeployMenu.LockText"
+msgstr "ロック"
+
+msgid "DHButtonFont.FontArrayNames<1>"
+msgstr "DHFonts_jap.DHButtonText"
+
+msgid "DHHugeButtonFont.FontArrayNames<1>"
+msgstr "DHFonts_jap.DHHugeButtonFont"
+
+msgid "DHLargeFont.FontArrayNames<2>"
+msgstr "DHFonts_jap.DHLargeFont"
+
+msgid "DHSmallFontDS.FontArrayNames<0>"
+msgstr "DHFonts_jap.DHSmallFont"
+
+msgid "DHButtonFontDS.FontArrayNames<9>"
+msgstr "DHFont_jap.DHButtonFontDS"
+
+msgid "DHLargeFont.FontArrayNames<4>"
+msgstr "DHFonts_jap.DHLargeFont"
+
+msgid "DHConsoleFont.FontArrayNames<2>"
+msgstr "DHFonts_jap.DHConsoleFont"
+
+msgid "DHCreditsPage.WindowName"
+msgstr "クレジット"
+
+msgid "DHButtonFont.FontArrayNames<9>"
+msgstr "DHFonts_jap.DHButtonText"
+
+msgid "DHMenuFont.FontArrayNames<2>"
+msgstr "DHFonts_jap.DHMenuFont"
+
+msgid "DHHugeButtonFont.FontArrayNames<3>"
+msgstr "DHFonts_jap.DHHugeButtonFont"
+
+msgid "DHButtonFontDS.FontArrayNames<14>"
+msgstr "DHFont_jap.DHButtonFontDS"
+
+msgid "DHButtonFont.FontArrayNames<10>"
+msgstr "DHFonts_jap.DHButtonText"
+
+msgid "DHHugeButtonFont.FontArrayNames<11>"
+msgstr "DHFonts_jap.DHHugeButtonFont"
+
+msgid "DHHugeButtonFont.FontArrayNames<12>"
+msgstr "DHFonts_jap.DHHugeButtonFont"
+
+msgid "DHHugeButtonFont.FontArrayNames<4>"
+msgstr "DHFonts_jap.DHHugeButtonFont"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<3>"
+msgstr "ロケーション"
+
+msgid "DHMenuFont.FontArrayNames<13>"
+msgstr "DHFonts_jap.DHMenuFont"
+
+msgid "DHSmallFontDS.FontArrayNames<1>"
+msgstr "DHFonts_jap.DHSmallFont"
+
+msgid "DHMenuFont.FontArrayNames<8>"
+msgstr "DHFonts_jap.DHMenuFont"
+
+msgid "DHButtonFont.FontArrayNames<7>"
+msgstr "DHFonts_jap.DHButtonText"
+
+msgid "DHButtonFont.FontArrayNames<2>"
+msgstr "DHFonts_jap.DHButtonText"
+
+msgid "DHButtonFontDS.FontArrayNames<3>"
+msgstr "DHFont_jap.DHButtonFontDS"
+
+msgid "DHButtonFont.FontArrayNames<0>"
+msgstr "DHFonts_jap.DHButtonText"
+
+msgid "DHMenuFont.FontArrayNames<0>"
+msgstr "DHFonts_jap.DHMenuFont"
+
+msgid "DHHugeButtonFont.FontArrayNames<13>"
+msgstr "DHFonts_jap.DHHugeButtonFont"
+
+msgid "DHSmallFont.FontArrayNames<3>"
+msgstr "DHFonts_jap.DHSmallFont"
+
+msgid "DHMenuFont.FontArrayNames<12>"
+msgstr "DHFonts_jap.DHMenuFont"
+
+msgid "DHButtonFont.FontArrayNames<12>"
+msgstr "DHFonts_jap.DHButtonText"
+
+msgid "DHButtonFont.FontArrayNames<5>"
+msgstr "DHFonts_jap.DHButtonText"
+
+msgid "DHBrowser_Footer.BrowserRefresh.Caption"
+msgstr "リフレッシュ"
+
+msgid "DHMenuFont.FontArrayNames<10>"
+msgstr "DHFonts_jap.DHMenuFont"
+
+msgid "DHHugeButtonFont.FontArrayNames<14>"
+msgstr "DHFonts_jap.DHHugeButtonFont"
+
+msgid "DHSmallFont.FontArrayNames<2>"
+msgstr "DHFonts_jap.DHSmallFont"
+
+msgid "DHConsoleFont.FontArrayNames<3>"
+msgstr "DHFonts_jap.DHConsoleFont"
+
+msgid "DHButtonFontDS.FontArrayNames<5>"
+msgstr "DHFont_jap.DHButtonFontDS"
