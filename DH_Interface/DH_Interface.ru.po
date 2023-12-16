@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-17 02:20+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
 "Language: ru\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: Weblate 5.2.1\n"
 
 msgid "DHBrowser_Footer.BrowserMain.Caption"
-msgstr "Меню"
+msgstr "Главная"
 
 msgid "DHBrowser_Footer.BrowserFilter.Caption"
 msgstr "Фильтры"
@@ -29,7 +29,7 @@ msgid "DHBrowser_Footer.OnlyStandardCheckBox.Caption"
 msgstr "Только стандартные сервера"
 
 msgid "DHBrowser_OpenIP.CancelButton.Caption"
-msgstr "Отмена"
+msgstr "ОТМЕНА"
 
 msgid "DHBrowser_OpenIP.IPDesc.Caption"
 msgstr "Введите новый IP-адрес"
