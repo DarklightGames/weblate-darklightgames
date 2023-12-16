@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-15 03:25+0000\n"
+"PO-Revision-Date: 2023-12-16 13:28+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/ja/>\n"
@@ -13,3 +13,9 @@ msgstr ""
 
 msgid "DHCameraWeapon.ItemName"
 msgstr "カメラ"
+
+msgid "DHCommandMenu_ConstructionGroup.BusyText"
+msgstr "忙しい"
+
+msgid "DHConstructionControlsMessage.Controls<1>.Text"
+msgstr "キャンセル"
