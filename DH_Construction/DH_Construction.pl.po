@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-15 03:25+0000\n"
+"PO-Revision-Date: 2023-12-16 13:28+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/pl/>\n"
@@ -59,3 +59,75 @@ msgstr "Zęby Smoka"
 
 msgid "DHConstruction_InventorySpawner.ConstructionVerb"
 msgstr "upuść"
+
+msgid "DHConstruction_VehiclePool.MenuDescription"
+msgstr "Zapewnia punkt odrodzenia pojazdów dla całej drużyny."
+
+msgid "DHConstruction_Resupply_Vehicles.MenuDescription"
+msgstr "Zapewnia punkt zaopatrzenia dla pojazdów i dział."
+
+msgid "DHConstruction_Resupply_Players.MenuDescription"
+msgstr "Zapewnia punkt zaopatrzenia dla piechoty."
+
+msgid "DHCommandMenu_ConstructionGroup.TeamLimitText"
+msgstr "Osiągnięto Limit"
+
+msgid "DHCommandMenu_ConstructionGroup.RemainingText"
+msgstr "Pozostało"
+
+msgid "DHConstructionGroup_Defenses.GroupName"
+msgstr "Obrona"
+
+msgid "DHConstruction_ConcertinaWire.MenuName"
+msgstr "Drut Kolczasty"
+
+msgid "DHConstruction_Hedgehog.MenuName"
+msgstr "Jeż Przeciwczołgowy"
+
+msgid "DHConstruction_MortarPit.MenuName"
+msgstr "Okop Moździerzowy"
+
+#, fuzzy
+msgid "DHConstruction_PlatoonHQ.CustomErrorString"
+msgstr ""
+"Nie można {verb} {name} blisko {string}, chyba że w obrębie {integer}m od "
+"kontrolowanego terytorium."
+
+msgid "DHConstruction_PlatoonHQ.MenuName"
+msgstr "Sztab Plutonu"
+
+msgid "DHConstruction_PlatoonHQ.MenuDescription"
+msgstr "Zapewnia punkt odrodzenia dla całej drużyny."
+
+msgid "DHConstruction_Radio.MenuName"
+msgstr "Radio"
+
+msgid "DHConstruction_Radio.MenuDescription"
+msgstr "Umożliwia wzywanie artylerii."
+
+msgid "DHConstruction_Resupply_Players.MenuName"
+msgstr "Skrzynia z amunicją (piechota)"
+
+msgid "DHConstruction_Resupply_Vehicles.MenuName"
+msgstr "Skrzynia z amunicją (pojazdy)"
+
+msgid "DHConstruction_Sandbags_Bunker.MenuName"
+msgstr "Worki z piaskiem (bunkier)"
+
+msgid "DHConstruction_Sandbags_Line.MenuName"
+msgstr "Worki z piaskiem (linia)"
+
+msgid "DHConstruction_SupplyCache.MenuName"
+msgstr "Punkt Zaopatrzeniowy"
+
+msgid "DHConstruction_SupplyCache.MenuDescription"
+msgstr "Przechowuje i generuje zapasy z upływem czasu."
+
+msgid "DHConstruction_VehiclePool.MenuName"
+msgstr "Baza pojazdów"
+
+msgid "DHConstruction_Watchtower.MenuName"
+msgstr "Wieża Obserwacyjna"
+
+msgid "DHConstruction_WoodFence.MenuName"
+msgstr "Drewniany Płot"
