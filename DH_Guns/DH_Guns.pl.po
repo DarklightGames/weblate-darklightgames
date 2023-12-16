@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-16 13:28+0000\n"
+"PO-Revision-Date: 2023-12-17 02:20+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/pl/>\n"
@@ -36,3 +36,93 @@ msgstr "Podkalibrowy (APCR)"
 
 msgid "DH_6PounderGunCannon.ProjectileDescriptions<2>"
 msgstr "Odłamkowo-Burzący (HE)"
+
+msgid "DH_Pak38ATGun.VehicleNameString"
+msgstr "Armata przeciwpancerna 5.0 cm Pak38"
+
+msgid "DH_Pak38Cannon.ProjectileDescriptions<2>"
+msgstr "Odłamkowo-Burzący (HE)"
+
+msgid "DH_PantherturmCannon.ProjectileDescriptions<2>"
+msgstr "Odłamkowo-Burzący (HE)"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<2>"
+msgstr "Effeto Pronto da 47"
+
+msgid "DH_Cannone4732Gun.VehicleNameString"
+msgstr "Cannone 47/32"
+
+msgid "DH_Flak38Gun.VehicleNameString"
+msgstr "Działko 2cm FlaK 38"
+
+msgid "DH_Flak88Gun.VehicleNameString"
+msgstr "Działo 8.8cm FlaK 36"
+
+msgid "DH_Flakvierling38Gun.VehicleNameString"
+msgstr "Działko 2cm Flakvierling 38"
+
+msgid "DH_LeIG18Cannon.ProjectileDescriptions<0>"
+msgstr "Odłamkowo-Burzący (HE)"
+
+msgid "DH_LeIG18Cannon.ProjectileDescriptions<1>"
+msgstr "Kumulacyjny (HEAT)"
+
+msgid "DH_LeIG18Gun.VehicleNameString"
+msgstr "7.5 cm leichtes Infanteriegeschütz 18"
+
+msgid "DH_M116Cannon.ProjectileDescriptions<0>"
+msgstr "Odłamkowo-Burzący (HE)"
+
+msgid "DH_M116Cannon.ProjectileDescriptions<1>"
+msgstr "Kumulacyjny (HEAT)"
+
+msgid "DH_M116Gun.VehicleNameString"
+msgstr "75-mm Haubica M1"
+
+msgid "DH_M1927Cannon.ProjectileDescriptions<0>"
+msgstr "Odłamkowo-Burzący (HE)"
+
+msgid "DH_M1927Cannon.ProjectileDescriptions<1>"
+msgstr "Kumulacyjny (HEAT)"
+
+msgid "DH_M1927Gun.VehicleNameString"
+msgstr "76 mm działo pułkowe M1927"
+
+msgid "DH_M45QuadmountGun.VehicleNameString"
+msgstr "M45 Poczwórnie Sprzężone"
+
+msgid "DH_M5Gun.VehicleNameString"
+msgstr "3-calowe Działo M5"
+
+msgid "DH_Pak39Cannon.ProjectileDescriptions<2>"
+msgstr "Odłamkowo-Burzący (HE)"
+
+msgid "DH_Pak39Gun.VehicleNameString"
+msgstr "Działo 5.0cm KwK 39"
+
+msgid "DH_Pak40ATGun.VehicleNameString"
+msgstr "Działo przeciwpancerne 7.5cm Pak40"
+
+msgid "DH_Pak40Cannon.ProjectileDescriptions<1>"
+msgstr "Odłamkowo-Burzący (HE)"
+
+msgid "DH_Pak43ATGun.VehicleNameString"
+msgstr "Działo przeciwpancerne 8.8 cm Pak43/41"
+
+msgid "DH_PantherturmGun.VehicleNameString"
+msgstr "Pantherturm"
+
+msgid "DH_ZiS2Cannon.ProjectileDescriptions<1>"
+msgstr "Odłamkowo-Burzący (HE)"
+
+msgid "DH_ZiS2Gun.VehicleNameString"
+msgstr "Działo przeciwpancerne 57mm ZiS-2"
+
+msgid "DH_ZiS3Cannon.ProjectileDescriptions<1>"
+msgstr "Odłamkowo-Burzący (HE)"
+
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions<1>"
+msgstr "Odłamkowo-Burzący (HE)"
+
+msgid "DH_ZiS3Gun.VehicleNameString"
+msgstr "76mm działo dywizyjne ZiS-3"
