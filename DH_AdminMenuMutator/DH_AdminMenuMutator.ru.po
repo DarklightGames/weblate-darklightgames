@@ -1,14 +1,16 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-10 13:42+0000\n"
+"PO-Revision-Date: 2023-12-16 13:28+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
-"Language-Team: Russian <https://weblate.darklightgames.com/projects/darkesthour/dh_adminmenumutator/ru/>\n"
+"Language-Team: Russian <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_adminmenumutator/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.2.1\n"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmMatchLive"
@@ -21,7 +23,7 @@ msgstr "Введите личное сообщение игроку, затем 
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableCapProgress"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите ВКЛЮЧИТЬ индикатор "
+"Нажмите Enter, чтобы подтвердить, что вы хотите включить индикатор "
 "выполнения ограничения на карте"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableRealism"
@@ -30,8 +32,8 @@ msgstr ""
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAtObjective"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите десантировать этого игрока к"
-" выбранной цели"
+"Нажмите Enter, чтобы подтвердить, что вы хотите высадить с парашюта этого "
+"игрока к выбранной цели"
 
 msgid "DHAdminMenu_AdminMessages.EnterKickReason"
 msgstr ""
@@ -42,16 +44,16 @@ msgid "DHAdminMenu_AdminMessages.EnterWarningMessage"
 msgstr "Введите предупреждающее сообщение игроку, затем нажмите Enter"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmKillPlayer"
-msgstr "Нажмите Enter, чтобы подтвердить, что вы хотите УБИТЬ этого игрока."
+msgstr "Нажмите Enter, чтобы подтвердить, что вы хотите убить этого игрока"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAxisRole"
 msgstr ""
 "Нажмите Enter, чтобы подтвердить, что вы хотите присоединить этого игрока к "
-"войскам Германии"
+"войскам Оси"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisablePlayerIcon"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите ОТКЛЮЧИТЬ значок "
+"Нажмите Enter, чтобы подтвердить, что вы хотите отключить значок "
 "местоположения игрока на карте"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableRealism"
@@ -60,33 +62,33 @@ msgstr ""
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnablePlayerIcon"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите ПОВТОРНО ВКЛЮЧИТЬ значок "
+"Нажмите Enter, чтобы подтвердить, что вы хотите включить значок "
 "местоположения игрока на карте"
 
 msgid "DHAdminMenuMutator.Description"
 msgstr ""
 "Параметры экранного меню, позволяющие администратору лучше контролировать "
-"игроков, реалистичный матч или во время тестирования."
+"игроков, реалистичный матч или во время тестирования"
 
 msgid "DHAdminMenu_AdminMessages.EnterNewPlayerName"
 msgstr "Пожалуйста, введите новое имя для игрока, затем нажмите Enter."
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAlliesAtObjective"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите высадить всех союзников к "
+"Нажмите Enter, чтобы подтвердить, что вы хотите высадить всех Союзников к "
 "выбранной цели"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAllAtObjective"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите переместить ВСЕХ ИГРОКОВ к "
+"Нажмите Enter, чтобы подтвердить, что вы хотите выбросить всех игроков к "
 "выбранной цели"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableMines"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите ОТКЛЮЧИТЬ все минные поля"
+"Нажмите Enter, чтобы подтвердить, что вы хотите отключить все минные поля"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmKillAll"
-msgstr "Нажмите Enter, чтобы подтвердить, что вы хотите УБИТЬ ВСЕХ игроков"
+msgstr "Нажмите Enter, чтобы подтвердить, что вы хотите убить всех игроков"
 
 msgid "DHAdminMenu_AdminMessages.EnterGridLocation"
 msgstr ""
@@ -95,8 +97,8 @@ msgstr ""
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableMines"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите ПОВТОРНО ВКЛЮЧИТЬ все минные"
-" поля"
+"Нажмите Enter, чтобы подтвердить, что вы хотите повторно включить все минные "
+"поля"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmGagPlayer"
 msgstr ""
@@ -108,17 +110,17 @@ msgstr "Меню администратора"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAxisAtObjective"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите переместить все войска "
-"Германии к выбранной цели"
+"Нажмите Enter, чтобы подтвердить, что вы хотите высадить все войска Оси к "
+"выбранной цели"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAtCurrentLocation"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите десантировать этого игрока к"
-" текущему местоположению"
+"Нажмите Enter, чтобы подтвердить, что вы хотите высадить этого игрока с "
+"парашюта к текущему местоположению"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableCapProgress"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите ОТКЛЮЧИТЬ индикатор "
+"Нажмите Enter, чтобы подтвердить, что вы хотите отключить индикатор "
 "выполнения ограничения на карте"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAlliesRole"
@@ -138,11 +140,11 @@ msgstr ""
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableRallyPoints"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите ОТКЛЮЧИТЬ размещение точек "
+"Нажмите Enter, чтобы подтвердить, что вы хотите отключить размещение точек "
 "сбора"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[4]"
-msgstr "ОШИБКА: имя игрока не указано"
+msgstr "Ошибка: имя игрока не указано"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[9]"
 msgstr ""
@@ -234,7 +236,7 @@ msgid "DHAdminMenu_RealismMenu.MenuText<17>"
 msgstr "Переключить, может ли администратор приостановить игру"
 
 msgid "DHAdminMenu_AdminMessages.EnterGameSpeed"
-msgstr "Пожалуйста, укажите новый множитель скорости игры (1 — нормально)"
+msgstr "Пожалуйста, укажите новый множитель скорости игры (1 — нормальная)"
 
 msgid "DHAdminMenu_AdminMessages.EnterTimeRemaining"
 msgstr "Пожалуйста, укажите оставшееся время нового раунда (в минутах)"
@@ -250,18 +252,18 @@ msgstr ""
 "зрения"
 
 msgid "DHAdminMenu_AdminMessages.ChangeAlliesSquadSize"
-msgstr "Укажите новый размер союзного отряда (от 8 до 12 или 0 для сброса)"
+msgstr "Укажите новый размер отряда Союзников(от 8 до 12 или 0 для сброса)"
 
 msgid "DHAdminMenu_AdminMessages.ChangeAxisSquadSize"
-msgstr "Укажите новый размер отряда оси (8 и 12 или 0 для сброса)"
+msgstr "Укажите новый размер отряда войск Оси (8 и 12 или 0 для сброса)"
 
 msgid "DHAdminMenu_AdminMessages.SetGamePasswordText"
 msgstr "Пожалуйста, укажите новый пароль к игре"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableRallyPoints"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите ВНОВЬ ВКЛЮЧИТЬ размещение "
-"точек сбора"
+"Нажмите Enter, чтобы подтвердить, что вы хотите включить размещение точек "
+"сбора"
 
 msgid "DHAdminMenu_DamageType.DeathString"
 msgstr "%o был повторно возрожден администратором"
@@ -273,7 +275,9 @@ msgid "DHAdminMenu_ErrorMessages.ErrorMessage[2]"
 msgstr "На этом сервере запрещено выбрасывать игрока с парашютом"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[3]"
-msgstr "На этом территории запрещено выбрасывать игрока с парашютом"
+msgstr ""
+"Мутатор соответствия реалистичности не загружен на сервер, поэтому вы не "
+"можете использовать эту опцию"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[5]"
 msgstr "ОШИБКА: не удалось найти игрока по имени «%insert_name%»"
