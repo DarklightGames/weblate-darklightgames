@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-13 22:30+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2023-12-16 13:28+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/ru/>\n"
 "Language: ru\n"
@@ -29,7 +29,7 @@ msgid "DHConstruction_Sandbags_Bunker.MenuName"
 msgstr "Мешки с песком (Бункер)"
 
 msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
-msgstr "Измученный"
+msgstr "Исчерпано"
 
 msgid "DHConstructionGroup_Obstacles.GroupName"
 msgstr "Препятствия"
@@ -41,7 +41,7 @@ msgid "DHConstruction_Resupply_Players.MenuDescription"
 msgstr "Обеспечивает точку пополнения припасов для пехоты."
 
 msgid "DHConstructionGroup_Logistics.GroupName"
-msgstr "Логистика"
+msgstr "Снабжение"
 
 msgid "DHConstruction_Watchtower.MenuName"
 msgstr "Сторожевая башня"
@@ -68,7 +68,7 @@ msgid "DHConstruction_Resupply_Players.MenuName"
 msgstr "Ящик с боеприпасами (пехота)"
 
 msgid "DHConstruction_Hedgehog.MenuName"
-msgstr "Противотранспортный ежик"
+msgstr "Противотанковый еж"
 
 msgid "DHCameraWeapon.ItemName"
 msgstr "Камера"
@@ -80,13 +80,13 @@ msgid "DHConstruction_Hedgehog.MenuDescription"
 msgstr "Эффективен для блокировки легкой и средней техники."
 
 msgid "DHConstruction_Foxhole.MenuName"
-msgstr "Защитная яма"
+msgstr "Одиночный окоп"
 
 msgid "DHConstructionGroup_Defenses.GroupName"
 msgstr "Укрепления"
 
 msgid "DHConstruction_Foxhole.ConstructionVerb"
-msgstr "выкопать"
+msgstr "копать"
 
 msgid "DHConstructionControlsMessage.Controls<0>.Text"
 msgstr "Подтвердить"
@@ -100,16 +100,16 @@ msgid "DHCommandMenu_ConstructionGroup.RemainingText"
 msgstr "Оставшийся"
 
 msgid "DHConstruction_ConcertinaWire.MenuName"
-msgstr "Концертиновая проволока"
+msgstr "Колючая проволока"
 
 msgid "DHConstruction_DragonsTooth.MenuName"
-msgstr "Каменные зубы"
+msgstr "Зубы дракона"
 
 msgid "DHConstruction_Radio.MenuName"
 msgstr "Радио"
 
 msgid "DHConstruction_DragonsTooth.MenuDescription"
-msgstr "Эффективна для блокировки всех транспортных средств."
+msgstr "Эффективна для блокировки всех видов техники."
 
 msgid "DHConstruction_Resupply_Vehicles.MenuName"
 msgstr "Ящик с боеприпасами (транспорт)"
@@ -118,7 +118,7 @@ msgid "DHConstructionControlsMessage.Controls<1>.Text"
 msgstr "Отмена"
 
 msgid "DHConstruction_Radio.MenuDescription"
-msgstr "Разрешает вызов артиллерии."
+msgstr "Позволяет вызывать артиллерийскую поддержку."
 
 msgid "DHCommandMenu_ConstructionGroup.TeamLimitText"
 msgstr "Достигнут предел"
@@ -139,7 +139,7 @@ msgid "DHConstruction_Sandbags_Line.MenuName"
 msgstr "Мешки с песком (Линия)"
 
 msgid "DHConstruction_MortarPit.MenuName"
-msgstr "Минометная яма"
+msgstr "Минометный окоп"
 
 msgid "DHConstruction_SupplyCache.ConstructionVerb"
 msgstr "установить"
