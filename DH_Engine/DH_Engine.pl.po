@@ -1,2 +1,135 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-17 02:20+0000\n"
+"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
+"Language-Team: Polish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_engine/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "DHAlliedAntiTankRoles.PluralName"
+msgstr "Żołnierze Przeciwpancerni"
+
+msgid "DHAccessControl.IPBanned"
+msgstr "Nie możesz dołączyć do tego serwera, zostałeś zbanowany."
+
+msgid "DHATCannonMessage.GunIsRotating"
+msgstr "To działo jest obracane"
+
+msgid "DHATCannonMessage.NotQualified"
+msgstr "Brak kwalifikacji do obsługi tego działa"
+
+msgid "DHATCannonMessage.VehicleIsEnemy"
+msgstr "Nie można użyć działa przeciwnika"
+
+msgid "DHATCannonMessage.CannotEnter"
+msgstr "To działo jest już obsadzone"
+
+#, fuzzy
+msgid "DHATGunCannonPawn.HudName"
+msgstr "Strzelec"
+
+msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
+msgstr "Zakończ obracanie"
+
+#, fuzzy
+msgid "DHATGunTouchMessage.RotateHintString"
+msgstr "Trzymaj {0} aby obracać"
+
+msgid "DHATLoadMessage.UnLoaded"
+msgstr "Rakieta została wyładowana"
+
+msgid "DHAccessControl.SessionBanned"
+msgstr "Nie możesz dołączyć do tego serwera dopóki nie zmieni poziomu."
+
+msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
+msgstr "Administrator '{0}' awansował '{1}' na dowódcę oddziału '{2}'."
+
+msgid "DHAlliedAntiTankRoles.MyName"
+msgstr "Żołnierz Przeciwpancerny"
+
+msgid "DHAlliedAssaultRoles.MyName"
+msgstr "Szturmowiec"
+
+msgid "DHAlliedAssaultRoles.PluralName"
+msgstr "Szturmowcy"
+
+msgid "DHAlliedAutoRifleRoles.MyName"
+msgstr "Lekki Strzelec Maszynowy"
+
+msgid "DHAlliedAutoRifleRoles.PluralName"
+msgstr "Lekcy Strzelcy Maszynowi"
+
+msgid "DHAlliedCorporalRoles.MyName"
+msgstr "Kapral"
+
+msgid "DHAlliedCorporalRoles.PluralName"
+msgstr "Kaprale"
+
+msgid "DHAlliedEngineerRoles.MyName"
+msgstr "Inżynier Bojowy"
+
+msgid "DHAlliedEngineerRoles.PluralName"
+msgstr "Inżynierzy Bojowi"
+
+msgid "DHAlliedMachineGunnerRoles.MyName"
+msgstr "Strzelec Maszynowy"
+
+msgid "DHAlliedMachineGunnerRoles.PluralName"
+msgstr "Strzelcy Maszynowi"
+
+msgid "DHAlliedMortarmanRoles.MyName"
+msgstr "Operator Moździerza"
+
+msgid "DHAlliedMortarmanRoles.PluralName"
+msgstr "Operatorzy Moździerza"
+
+msgid "DHAlliedRadioOperatorRoles.MyName"
+msgstr "Radiooperator"
+
+msgid "DHAlliedRadioOperatorRoles.PluralName"
+msgstr "Radiooperatorzy"
+
+msgid "DHAlliedRiflemanRoles.MyName"
+msgstr "Strzelec"
+
+msgid "DHAlliedRiflemanRoles.PluralName"
+msgstr "Strzelcy"
+
+msgid "DHAlliedSergeantRoles.MyName"
+msgstr "Sierżant"
+
+msgid "DHAlliedSergeantRoles.PluralName"
+msgstr "Sierżanci"
+
+msgid "DHAlliedSniperRoles.MyName"
+msgstr "Snajper"
+
+msgid "DHAlliedSniperRoles.PluralName"
+msgstr "Snajperzy"
+
+msgid "DHAlliedTankCrewmanRoles.MyName"
+msgstr "Załoga Czołgu"
+
+msgid "DHAlliedTankCrewmanRoles.PluralName"
+msgstr "Załoganci Czołgu"
+
+msgid "DHAmericanCannonPawn.RangeText"
+msgstr "jardy"
+
+msgid "DHAntiTankProjectileDamageType.DeathString"
+msgstr "%o został wysadzony w powietrze przez %k's %w."
+
+msgid "DHAntiTankProjectileDamageType.FemaleSuicide"
+msgstr "%o został wysadzony w powietrze przez jego własny %w."
+
+msgid "DHAntiTankProjectileDamageType.MaleSuicide"
+msgstr "%o został wysadzony w powietrze przez własnego %w."
+
+msgid "DHArtillery.MenuName"
+msgstr "Artyleria Dalekiego Zasięgu"
