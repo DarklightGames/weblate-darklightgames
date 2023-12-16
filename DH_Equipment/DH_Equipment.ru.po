@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-15 03:25+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2023-12-16 13:28+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/ru/>\n"
 "Language: ru\n"
@@ -20,13 +20,13 @@ msgid "DHTrenchMaceItem_Bone.ItemName"
 msgstr "Костяная дубинка"
 
 msgid "DHShovelWarningMessage.NeedMoreFriendliesToBuildMessage"
-msgstr "Чтобы строить, поблизости должен быть еще один товарищ по отряду!"
+msgstr "Для постройки необходим поблизости еще один член отряда!"
 
 msgid "DH_NebelGranate39Weapon.ItemName"
 msgstr "Дымовая граната NB 39"
 
 msgid "DHShovelWarningMessage.CannotBeCrawling"
-msgstr "Нельзя копать, ползя."
+msgstr "Вы не можете копать пока ползёте."
 
 msgid "DHShovelItem.ItemName"
 msgstr "Лопата"
@@ -47,7 +47,7 @@ msgid "DHTrenchMaceItem_Grenade.ItemName"
 msgstr "Траншейная булава"
 
 msgid "DHBinocularsItemSoviet.ItemName"
-msgstr "Оптика БПП 6х30"
+msgstr "Бинокль БПП 6х30"
 
 msgid "DHBinocularsItem.ItemName"
 msgstr "Бинокль"
@@ -65,10 +65,10 @@ msgid "DH_ParachuteItem.ItemName"
 msgstr "Парашют"
 
 msgid "DH_ParachuteStaticLine.ItemName"
-msgstr "Вытяжной стоп"
+msgstr "Вытяжной трос"
 
 msgid "DHRadioItem.ItemName"
 msgstr "Радио"
 
 msgid "DHBinocularsItemItalian.ItemName"
-msgstr "Fratelli Koristka 7x50"
+msgstr "Бинокль Fratelli Koristka 7x50"
