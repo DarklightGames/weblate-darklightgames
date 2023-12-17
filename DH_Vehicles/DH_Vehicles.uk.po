@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-11 18:36+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2023-12-17 22:08+0000\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/uk/>\n"
 "Language: uk\n"
@@ -768,3 +768,12 @@ msgstr "Flakpanzer IV 'Вихор'"
 
 msgid "DH_WolverineTank_British.VehicleNameString"
 msgstr "Росомаха SP"
+
+msgid "DH_PanzerIVHCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+msgid "DH_PanzerIVHCannon.nProjectileDescriptions<2>"
+msgstr "Gr.38 Hl/C"
+
+msgid "DH_PanzerIVHCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
