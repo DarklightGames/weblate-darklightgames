@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-12 19:39+0000\n"
+"PO-Revision-Date: 2023-12-17 22:08+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
@@ -2307,3 +2307,94 @@ msgid "DarkestHourGame.ROHints<15>"
 msgstr ""
 "Кулеметники ніколи не повинні працювати поодинці, знайдіть товариша, який "
 "прикриє вашу спину."
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecDescription"
+msgstr ""
+"(9,6 Кбіт/с) – використовується більша пропускна здатність, але звук "
+"набагато чистіший."
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecDescription"
+msgstr ""
+"(9,6 Кбіт/с) – використовується більша пропускна здатність, але звук "
+"набагато чистіший."
+
+msgid "DHArtillerySpottingScope.RightString"
+msgstr "Вправо"
+
+msgid "DHArtillerySpottingScope.CorrectionString"
+msgstr "Корекція"
+
+msgid "DHArtillerySpottingScope.DistanceString"
+msgstr "Дистанція"
+
+msgid "DHCommandMenu_LoneWolf.Options<0>.ActionText"
+msgstr "Автоматично приєднатися до загону"
+
+msgid "DHCommandMenu_LoneWolf.Options<1>.ActionText"
+msgstr "Створити загін"
+
+msgid "DHCommandMenu_Patron.Options<0>.ActionText"
+msgstr "Будівництво"
+
+msgid "DHCommandMenu_SquadAssistant.Options<0>.ActionText"
+msgstr "Будівництво"
+
+msgid "DHCommandMenu_SquadLeader.Options<0>.ActionText"
+msgstr "Створити точку збору"
+
+msgid "DHCommandMenu_SquadLeader.Options<1>.ActionText"
+msgstr "Вогонь"
+
+msgid "DHCommandMenu_SquadLeader.Options<2>.ActionText"
+msgstr "Будівництво"
+
+msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
+msgstr "Немає гравця "
+
+msgid "DHCommandMenu_SquadLeader.Options<4>.ActionText"
+msgstr "Спостереження"
+
+msgid "DHCommandMenu_SquadLeader.Options<5>.ActionText"
+msgstr "Сюди"
+
+msgid "DHCommandMenu_SquadManageMember.Options<1>.SubjectText"
+msgstr "Підвищити до командира загону"
+
+msgid "DHCommandMenu_SquadManageMember.Options<3>.SubjectText"
+msgstr "Призначити помічником"
+
+msgid "DHCommandMenu_SquadManageMember.Options<4>.SubjectText"
+msgstr "Видалити з помічників"
+
+msgid "DHCommandMenu_SquadManageNonMember.Options<0>.ActionText"
+msgstr "Запросити в загін"
+
+msgid "DHSupplyVehicleMessage.Controls<0>.Text"
+msgstr "Завантажити запаси"
+
+msgid "DHSupplyVehicleMessage.Controls<1>.Text"
+msgstr "Вивантажити запаси"
+
+msgid "DHUnits.MetersSymbol"
+msgstr "м"
+
+msgid "DHCommandMenu_ATGun.Options<0>.ActionText"
+msgstr "Обернути"
+
+msgid "DHArtillerySpottingScope.LeftString"
+msgstr "Вліво"
+
+msgid "DHCommandMenu_SquadAssistant.Options<1>.ActionText"
+msgstr "Спостереження"
+
+msgid "DHCommandMenu_SquadManageMember.Options<0>.SubjectText"
+msgstr "Вигнати з загону"
+
+msgid "DHHud.PlaceRallyPointText"
+msgstr "Натисніть [%PLACERALLYPOINT%]"
+
+msgid "DHCommandMenu_Patron.Options<1>.ActionText"
+msgstr "Спостереження"
+
+msgid "DHCommandMenu_SquadMenu.Options<0>.ActionText"
+msgstr "Покинути загін"
