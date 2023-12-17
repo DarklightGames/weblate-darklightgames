@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-17 02:20+0000\n"
+"PO-Revision-Date: 2023-12-17 22:08+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -71,7 +71,7 @@ msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<12>"
 msgstr "Открыть IP"
 
 msgid "DHBrowser_ServersList.ColumnHeadings<1>"
-msgstr "Имя сервера"
+msgstr "Название сервера"
 
 msgid "DHBrowser_ServersList.ColumnHeadings<2>"
 msgstr "Состояние"
@@ -140,7 +140,7 @@ msgid "DHContextMenu_SquadMembers.EntryTexts<5>"
 msgstr "Назначить {0} помощником командира"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<9>"
-msgstr "{1} Десантироваться {0} к командиру отделения"
+msgstr "{1} Десантировать {0} к командиру отряда"
 
 msgid "DHDeployMenu.ChangeTeamConfirmText"
 msgstr ""
@@ -337,16 +337,16 @@ msgid "DHContextMenu_SquadMembers.EntryTexts<0>"
 msgstr "-"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<10>"
-msgstr "{1} Десантироваться {0} к маркеру"
+msgstr "{1} Десантировать {0} к маркеру"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<11>"
 msgstr "{1} Десантировать отделение к командиру"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<12>"
-msgstr "{1} Десантировать отделение к маркеру"
+msgstr "{1} Десантировать отделение на отметку"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<13>"
-msgstr "{1} Десантировать неназначенных игроков к маркеру"
+msgstr "{1} Десантировать неназначенных игроков на отметку"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<14>"
 msgstr "{1} Повысить {0} до командира отделения"
