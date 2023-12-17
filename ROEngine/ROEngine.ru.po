@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-17 23:05+0000\n"
+"PO-Revision-Date: 2023-12-17 23:33+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/ru/>\n"
@@ -278,3 +278,66 @@ msgstr "Влево"
 
 msgid "ROVoicePack.VehicleDirectionAbbrev[9]"
 msgstr "Чуть правее"
+
+msgid "ROVoicePack.VehicleAlertString[1]"
+msgstr "Враг по левому флангу!"
+
+msgid "ROVoicePack.VehicleAlertString[3]"
+msgstr "Враг позади нас!"
+
+msgid "ROVoicePack.VehicleAlertString[4]"
+msgstr "Рядом вражеская пехота!"
+
+msgid "ROVoicePack.VehicleAlertString[6]"
+msgstr "Никак нет!"
+
+msgid "ROVoicePack.VehicleAlertString[7]"
+msgstr "Мы горим!"
+
+msgid "ROVoicePack.VehicleAlertString[9]"
+msgstr "Заряжено."
+
+msgid "ROVoicePack.VehicleAlertString[8]"
+msgstr "На выход!"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[0]"
+msgstr "Враг спереди"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[1]"
+msgstr "Враг по левому флангу"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[2]"
+msgstr "Враг по правому флангу"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[3]"
+msgstr "Враг позади нас"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[4]"
+msgstr "Рядом вражеская пехота"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[6]"
+msgstr "Никак нет"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[7]"
+msgstr "Мы горим"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[8]"
+msgstr "На выход"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[9]"
+msgstr "Заряжено"
+
+msgid "ROVoicePack.VehicleAlertString[2]"
+msgstr "Враг по правому флангу!"
+
+msgid "ROVoicePack.VehicleAlertString[5]"
+msgstr "Так точно!"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[5]"
+msgstr "Так точно"
+
+msgid "ROVoicePack.ExtraString[0]"
+msgstr "Я убью тебя!"
+
+msgid "ROVoicePack.ExtraString[1]"
+msgstr "Не отступать!"
