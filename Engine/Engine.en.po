@@ -1,0 +1,831 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain\n"
+"Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
+
+msgid "KeyNames.Up"
+msgstr "UP"
+
+msgid "KeyNames.Right"
+msgstr "RIGHT"
+
+msgid "KeyNames.Left"
+msgstr "LEFT"
+
+msgid "KeyNames.Down"
+msgstr "DOWN"
+
+msgid "KeyNames.Space"
+msgstr "SPACE"
+
+msgid "KeyNames.End"
+msgstr "END"
+
+msgid "KeyNames.Home"
+msgstr "HOME"
+
+msgid "KeyNames.Select"
+msgstr "SELECT"
+
+msgid "KeyNames.Print"
+msgstr "PRINT"
+
+msgid "KeyNames.Execute"
+msgstr "EXECUTE"
+
+msgid "KeyNames.PrintScrn"
+msgstr "PRINTSCRN"
+
+msgid "KeyNames.Insert"
+msgstr "INSERT"
+
+msgid "KeyNames.Delete"
+msgstr "DELETE"
+
+msgid "KeyNames.Help"
+msgstr "HELP"
+
+msgid "KeyNames.Separator"
+msgstr "SEPARATOR"
+
+msgid "KeyNames.Pause"
+msgstr "PAUSE"
+
+msgid "KeyNames.CapsLock"
+msgstr "CAPSLOCK"
+
+msgid "KeyNames.Tab"
+msgstr "TAB"
+
+msgid "KeyNames.Enter"
+msgstr "ENTER"
+
+msgid "KeyNames.Shift"
+msgstr "SHIFT"
+
+msgid "KeyNames.NumLock"
+msgstr "NUMLOCK"
+
+msgid "KeyNames.Escape"
+msgstr "ESCAPE"
+
+msgid "Progress.Loading"
+msgstr "Loading"
+
+msgid "Progress.Saving"
+msgstr "Saving"
+
+msgid "Public.Object.Name"
+msgstr "Engine.ExportCacheCommandlet"
+
+msgid "Public.Object.Class"
+msgstr "Class"
+
+msgid "Public.Object.MetaClass"
+msgstr "Core.Commandlet"
+
+msgid "Public.Preferences.Caption"
+msgstr "Game Settings"
+
+msgid "Public.Preferences.Parent"
+msgstr "Advanced Options"
+
+msgid "Public.Preferences.Class"
+msgstr "Engine.GameInfo"
+
+msgid "Public.Preferences.Immediate"
+msgstr "True"
+
+msgid "MasterMD5Commandlet.HelpCmd"
+msgstr "mastermd5"
+
+msgid "UModUnpackCommandlet.HelpCmd"
+msgstr "umodunpack"
+
+msgid "ServerCommandlet.HelpCmd"
+msgstr "server"
+
+msgid "ServerCommandlet.HelpParm[0]"
+msgstr "Log"
+
+msgid "ServerCommandlet.HelpParm[1]"
+msgstr "AllAdmin"
+
+msgid "ExportCacheCommandlet.HelpCmd"
+msgstr "exportcache"
+
+msgid "ExportCacheCommandlet.HelpParm[3]"
+msgstr "package.ext"
+
+msgid "ExportCacheCommandlet.HelpParm[4]"
+msgstr "destfilename.ucl"
+
+msgid "AccessControl.IPBanned"
+msgstr "Your IP address has been banned on this server."
+
+msgid "AccessControl.WrongPassword"
+msgstr "The password you entered is incorrect."
+
+msgid "AccessControl.NeedPassword"
+msgstr "You need to enter a password to join this game."
+
+msgid "AccessControl.SessionBanned"
+msgstr "Your IP address has been banned from the current game session."
+
+msgid "AccessControl.KickedMsg"
+msgstr "You have been forcibly removed from the game."
+
+msgid "AccessControl.DefaultKickReason"
+msgstr "None specified"
+
+msgid "AccessControl.IdleKickReason"
+msgstr "Kicked for idling."
+
+msgid "AccessControl.ACDisplayText[0]"
+msgstr "Game Password"
+
+msgid "AccessControl.ACDisplayText[1]"
+msgstr "Access Policies"
+
+msgid "AccessControl.ACDisplayText[2]"
+msgstr "Admin Password"
+
+msgid "AccessControl.ACDisplayText[3]"
+msgstr "Login Delay"
+
+msgid "AccessControl.ACDescText[0]"
+msgstr "If this password is set, players will have to enter it to join this server."
+
+msgid "AccessControl.ACDescText[1]"
+msgstr "Specifies IP addresses or address ranges which have been banned."
+
+msgid "AccessControl.ACDescText[2]"
+msgstr "Password required to login with administrator privileges on this server."
+
+msgid "AccessControl.ACDescText[3]"
+msgstr "Number of seconds user must wait after an unsuccessful login attempt before able to login again."
+
+msgid "AdminBase.Msg_PlayerList"
+msgstr "Player List:"
+
+msgid "AdminBase.Msg_AllGameMaps"
+msgstr "Maps that are valid (can be added) to"
+
+msgid "AdminBase.Msg_AllMapLists"
+msgstr "Available maplists for %gametype%."
+
+msgid "AdminBase.Msg_MapRotationList"
+msgstr "Active maps for maplist %maplist%."
+
+msgid "AdminBase.Msg_NoMapsAdded"
+msgstr "No maps added to the maplist %maplist%."
+
+msgid "AdminBase.Msg_AddedMapToList"
+msgstr "Maps successfully added to maplist"
+
+msgid "AdminBase.Msg_NoMapsRemoved"
+msgstr "No maps were removed from the maplist %maplist%."
+
+msgid "AdminBase.Msg_RemovedFromList"
+msgstr "Maps successfully removed from maplist"
+
+msgid "AdminBase.Msg_PlayerBanned"
+msgstr "%Player% has been banned from this server"
+
+msgid "AdminBase.Msg_SessionBanned"
+msgstr "%Player% has been banned for this match"
+
+msgid "AdminBase.Msg_PlayerKicked"
+msgstr "%Player% has been kicked"
+
+msgid "AdminBase.Msg_NextMapNotFound"
+msgstr "Next map not found; Restarting same map"
+
+msgid "AdminBase.Msg_ChangingMapTo"
+msgstr "Changing Map to %NextMap%"
+
+msgid "AdminBase.Msg_NoMapInRotation"
+msgstr "No maps configured for %maplist%."
+
+msgid "AdminBase.Msg_NoMapsFound"
+msgstr "No matching maps in maplist %maplist% were found."
+
+msgid "AdminBase.Msg_MapIsInRotation"
+msgstr "Matching %maplist% maps"
+
+msgid "AdminBase.Msg_MapNotInRotation"
+msgstr "Matching maps which are not members of %maplist%."
+
+msgid "AdminBase.Msg_UnknownParam"
+msgstr "Unknown Parameter : %Value%"
+
+msgid "AdminBase.Msg_NoParamsFound"
+msgstr "No Parameters found!"
+
+msgid "AdminBase.Msg_ParamModified"
+msgstr "Modification Successful"
+
+msgid "AdminBase.Msg_ParamNotModified"
+msgstr "Could not Modify Parameter"
+
+msgid "AdminBase.Msg_MapListAdded"
+msgstr "Maplist %listname% successfully added for gametype"
+
+msgid "AdminBase.Msg_MapListRemoved"
+msgstr "Maplist %listname% successfully removed from gametype"
+
+msgid "AdminBase.Msg_EditingMapList"
+msgstr "Now editing maplist"
+
+msgid "Ammo.PickupMessage"
+msgstr "You picked up some ammo."
+
+msgid "BroadcastHandler.BHDisplayText[0]"
+msgstr "Mute Spectators"
+
+msgid "BroadcastHandler.BHDisplayText[1]"
+msgstr "Partition Spectators"
+
+msgid "BroadcastHandler.BHDescText[0]"
+msgstr "Check this option to prevent spectators from chatting during the game."
+
+msgid "BroadcastHandler.BHDescText[1]"
+msgstr "Check this option to separate spectator chat from player chat."
+
+msgid "Canvas.TinyFontName"
+msgstr "ROFonts.ROBtsrmVr7"
+
+msgid "Canvas.SmallFontName"
+msgstr "ROFonts.ROBtsrmVr7"
+
+msgid "Canvas.MedFontName"
+msgstr "ROFonts.ROBtsrmVr8"
+
+msgid "ChatRoomMessage.AnonText"
+msgstr "Someone"
+
+msgid "ChatRoomMessage.ChatRoomString[0]"
+msgstr "Invalid channel or channel couldn't be found: '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[1]"
+msgstr "Already a member of channel '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[2]"
+msgstr "Channel '%title%' requires a password!"
+
+msgid "ChatRoomMessage.ChatRoomString[3]"
+msgstr "Incorrect password specified for channel '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[4]"
+msgstr "You have been banned from channel '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[5]"
+msgstr "Couldn't join channel '%title%'.  Channel full!"
+
+msgid "ChatRoomMessage.ChatRoomString[6]"
+msgstr "You are not allowed to join channel '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[7]"
+msgstr "Successfully joined channel '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[8]"
+msgstr "You left channel '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[9]"
+msgstr "Now speaking on channel '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[10]"
+msgstr "No longer speaking on channel '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[11]"
+msgstr "'%pri%' joined channel '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[12]"
+msgstr "'%pri%' left channel '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[13]"
+msgstr "Successfully banned '%pri%' from your personal chat channel"
+
+msgid "ChatRoomMessage.ChatRoomString[14]"
+msgstr "Voice-chat ban action not successful.  No player with the specified ID was found"
+
+msgid "ChatRoomMessage.ChatRoomString[15]"
+msgstr "Voice chat is not enabled on this server"
+
+msgid "Crushed.DeathString"
+msgstr "%o was crushed by %k."
+
+msgid "Crushed.FemaleSuicide"
+msgstr "%o was crushed."
+
+msgid "Crushed.MaleSuicide"
+msgstr "%o was crushed."
+
+msgid "DamRanOver.DeathString"
+msgstr "%k ran over %o"
+
+msgid "DamRanOver.FemaleSuicide"
+msgstr "%o ran over herself"
+
+msgid "DamRanOver.MaleSuicide"
+msgstr "%o ran over himself"
+
+msgid "DamTypeTelefragged.DeathString"
+msgstr "%o was telefragged by %k"
+
+msgid "DamTypeTelefragged.FemaleSuicide"
+msgstr "%o was telefragged by %k"
+
+msgid "DamTypeTelefragged.MaleSuicide"
+msgstr "%o was telefragged by %k"
+
+msgid "DamageType.DeathString"
+msgstr "%o was killed by %k."
+
+msgid "DamageType.FemaleSuicide"
+msgstr "%o killed herself."
+
+msgid "DamageType.MaleSuicide"
+msgstr "%o killed himself."
+
+msgid "FailedConnect.FailMessage[0]"
+msgstr "FAILED TO JOIN GAME.  NEED PASSWORD."
+
+msgid "FailedConnect.FailMessage[1]"
+msgstr "FAILED TO JOIN GAME.  WRONG PASSWORD."
+
+msgid "FailedConnect.FailMessage[2]"
+msgstr "FAILED TO JOIN GAME.  GAME HAS STARTED."
+
+msgid "FailedConnect.FailMessage[3]"
+msgstr "FAILED TO JOIN GAME."
+
+msgid "FellLava.DeathString"
+msgstr "%k made %o take a deadly swim."
+
+msgid "FellLava.FemaleSuicide"
+msgstr "%o crashed and burned"
+
+msgid "FellLava.MaleSuicide"
+msgstr "%o crashed and burned"
+
+msgid "GameInfo.bAlternateMode"
+msgstr "False"
+
+msgid "GameInfo.GoreLevelText[0]"
+msgstr "No Gore"
+
+msgid "GameInfo.GoreLevelText[1]"
+msgstr "Reduced Gore"
+
+msgid "GameInfo.GoreLevelText[2]"
+msgstr "Full Gore"
+
+msgid "GameInfo.DefaultPlayerName"
+msgstr "Player"
+
+msgid "GameInfo.GameName"
+msgstr "Game"
+
+msgid "GameInfo.GIPropsDisplayText[0]"
+msgstr "Bot Skill"
+
+msgid "GameInfo.GIPropsDisplayText[1]"
+msgstr "Weapons Stay"
+
+msgid "GameInfo.GIPropsDisplayText[2]"
+msgstr "Reduce Gore Level"
+
+msgid "GameInfo.GIPropsDisplayText[3]"
+msgstr "Game Speed"
+
+msgid "GameInfo.GIPropsDisplayText[4]"
+msgstr "Max Spectators"
+
+msgid "GameInfo.GIPropsDisplayText[5]"
+msgstr "Max Players"
+
+msgid "GameInfo.GIPropsDisplayText[6]"
+msgstr "Goal Score"
+
+msgid "GameInfo.GIPropsDisplayText[7]"
+msgstr "Max Lives"
+
+msgid "GameInfo.GIPropsDisplayText[8]"
+msgstr "Time Limit"
+
+msgid "GameInfo.GIPropsDisplayText[9]"
+msgstr "World Stats Logging"
+
+msgid "GameInfo.GIPropsDisplayText[10]"
+msgstr "Allow Weapon Throwing"
+
+msgid "GameInfo.GIPropsDisplayText[11]"
+msgstr "Allow Behind View"
+
+msgid "GameInfo.GIPropsDisplayText[12]"
+msgstr "Allow Admin Pausing"
+
+msgid "GameInfo.GIPropsDisplayText[13]"
+msgstr "Kick Idlers Time"
+
+msgid "GameInfo.GIPropsDisplayText[14]"
+msgstr "Weapons shake view"
+
+msgid "GameInfo.GIPropDescText[0]"
+msgstr "Set the skill of your bot opponents."
+
+msgid "GameInfo.GIPropDescText[1]"
+msgstr "When enabled, weapons will always be available for pickup."
+
+msgid "GameInfo.GIPropDescText[2]"
+msgstr "Enable this option to reduce the amount of blood and guts you see."
+
+msgid "GameInfo.GIPropDescText[3]"
+msgstr "Controls how fast time passes in the game."
+
+msgid "GameInfo.GIPropDescText[4]"
+msgstr "Sets the maximum number of spectators that can watch the game."
+
+msgid "GameInfo.GIPropDescText[5]"
+msgstr "Sets the maximum number of players that can join this server."
+
+msgid "GameInfo.GIPropDescText[6]"
+msgstr "The game ends when someone reaches this score."
+
+msgid "GameInfo.GIPropDescText[7]"
+msgstr "Limits how many times players can respawn after dying."
+
+msgid "GameInfo.GIPropDescText[8]"
+msgstr "The game ends after this many minutes of play."
+
+msgid "GameInfo.GIPropDescText[9]"
+msgstr "Enable this option to send game statistics to the Red Orchestra global stats server"
+
+msgid "GameInfo.GIPropDescText[10]"
+msgstr "When enabled, players can throw their current weapon out."
+
+msgid "GameInfo.GIPropDescText[11]"
+msgstr "Controls whether players can switch to a third person view."
+
+msgid "GameInfo.GIPropDescText[12]"
+msgstr "Controls whether administrators can pause the game."
+
+msgid "GameInfo.GIPropDescText[13]"
+msgstr "Specifies how long to wait before kicking idle player from server."
+
+msgid "GameInfo.GIPropDescText[14]"
+msgstr "When enabled, some weapons cause view shaking while firing."
+
+msgid "GameInfo.GIPropsExtras[0]"
+msgstr "0.000000;Untrained;1.000000;Raw recruit;2.000000;Green soldier;3.000000;Front line soldier;4.000000;Experienced soldier;5.000000;Battle-hardened;6.000000;Highly-decorated;7.000000;Party fanatic"
+
+msgid "GameInfo.NoBindString"
+msgstr "[None]"
+
+msgid "GameMessage.SwitchLevelMessage"
+msgstr "Switching Levels"
+
+msgid "GameMessage.LeftMessage"
+msgstr " left the game."
+
+msgid "GameMessage.FailedTeamMessage"
+msgstr "Could not find team for player"
+
+msgid "GameMessage.FailedPlaceMessage"
+msgstr "Could not find a starting spot"
+
+msgid "GameMessage.FailedSpawnMessage"
+msgstr "Could not spawn player"
+
+msgid "GameMessage.EnteredMessage"
+msgstr " entered the game."
+
+msgid "GameMessage.MaxedOutMessage"
+msgstr "Server is already at capacity."
+
+msgid "GameMessage.OvertimeMessage"
+msgstr "Score tied at the end of regulation. Sudden Death Overtime!!!"
+
+msgid "GameMessage.GlobalNameChange"
+msgstr "changed name to"
+
+msgid "GameMessage.NewTeamMessage"
+msgstr "is now on"
+
+msgid "GameMessage.NoNameChange"
+msgstr "Name is already in use."
+
+msgid "GameMessage.VoteStarted"
+msgstr "started a vote."
+
+msgid "GameMessage.VotePassed"
+msgstr "Vote passed."
+
+msgid "GameMessage.MustHaveStats"
+msgstr "Must have stats enabled to join this server."
+
+msgid "GameMessage.CantBeSpectator"
+msgstr "Sorry, you cannot become a spectator at this time."
+
+msgid "GameMessage.CantBePlayer"
+msgstr "Sorry, you cannot become an active player at this time."
+
+msgid "GameMessage.BecameSpectator"
+msgstr "became a spectator."
+
+msgid "GameMessage.NewPlayerMessage"
+msgstr "A new player entered the game."
+
+msgid "GameMessage.KickWarning"
+msgstr "You are about to be kicked for idling!"
+
+msgid "GameMessage.NewSpecMessage"
+msgstr "A spectator entered the game/"
+
+msgid "GameMessage.SpecEnteredMessage"
+msgstr " joined as a spectator."
+
+msgid "GameProfile.PositionName[0]"
+msgstr "AUTO-ASSIGN"
+
+msgid "GameProfile.PositionName[1]"
+msgstr "DEFENSE"
+
+msgid "GameProfile.PositionName[2]"
+msgstr "OFFENSE"
+
+msgid "GameProfile.PositionName[3]"
+msgstr "ROAM"
+
+msgid "GameProfile.PositionName[4]"
+msgstr "SUPPORT"
+
+msgid "GameReplicationInfo.GRIPropsDisplayText[0]"
+msgstr "Server Name"
+
+msgid "GameReplicationInfo.GRIPropsDisplayText[1]"
+msgstr "Admin Name"
+
+msgid "GameReplicationInfo.GRIPropsDisplayText[2]"
+msgstr "Admin E-Mail"
+
+msgid "GameReplicationInfo.GRIPropsDisplayText[3]"
+msgstr "MOTD"
+
+msgid "GameReplicationInfo.GRIPropDescText[0]"
+msgstr "Server name shown on server browser."
+
+msgid "GameReplicationInfo.GRIPropDescText[1]"
+msgstr "Server administrator's name"
+
+msgid "GameReplicationInfo.GRIPropDescText[2]"
+msgstr "Server administrator's email address."
+
+msgid "GameReplicationInfo.GRIPropDescText[3]"
+msgstr "Message of the Day"
+
+msgid "Gibbed.DeathString"
+msgstr "%o exploded in a shower of body parts"
+
+msgid "Gibbed.FemaleSuicide"
+msgstr "%o exploded in a shower of body parts"
+
+msgid "Gibbed.MaleSuicide"
+msgstr "%o exploded in a shower of body parts"
+
+msgid "HUD.ProgressFontName"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "HUD.FontArrayNames[0]"
+msgstr "Engine.DefaultFont"
+
+msgid "HUD.FontArrayNames[1]"
+msgstr "Engine.DefaultFont"
+
+msgid "HUD.FontArrayNames[2]"
+msgstr "Engine.DefaultFont"
+
+msgid "HUD.FontArrayNames[3]"
+msgstr "Engine.DefaultFont"
+
+msgid "HUD.FontArrayNames[4]"
+msgstr "Engine.DefaultFont"
+
+msgid "HUD.FontArrayNames[5]"
+msgstr "Engine.DefaultFont"
+
+msgid "HUD.FontArrayNames[6]"
+msgstr "Engine.DefaultFont"
+
+msgid "HUD.FontArrayNames[7]"
+msgstr "Engine.DefaultFont"
+
+msgid "HUD.FontArrayNames[8]"
+msgstr "Engine.DefaultFont"
+
+msgid "Info.RulesGroup"
+msgstr "Rules"
+
+msgid "Info.GameGroup"
+msgstr "Game"
+
+msgid "Info.ServerGroup"
+msgstr "Server"
+
+msgid "Info.ChatGroup"
+msgstr "Chat"
+
+msgid "Info.BotsGroup"
+msgstr "Bots"
+
+msgid "Info.MapVoteGroup"
+msgstr "Map Voting"
+
+msgid "Info.KickVoteGroup"
+msgstr "Kick Voting"
+
+msgid "LevelInfo.Title"
+msgstr "Untitled"
+
+msgid "MaplistManager.DefaultListName"
+msgstr "Default"
+
+msgid "MaplistManager.InvalidGameType"
+msgstr "could not be loaded.  Normally, this means an .u file has been deleted, but the .int file has not."
+
+msgid "MaplistManager.ReallyInvalidGameType"
+msgstr "The requested gametype '%gametype%' could not be loaded."
+
+msgid "MaplistManager.DefaultListExists"
+msgstr "Gametype already has a default list!"
+
+msgid "MatSubAction.Desc"
+msgstr "N/A"
+
+msgid "Pickup.PickupMessage"
+msgstr "Snagged an item."
+
+msgid "PlayerController.QuickSaveString"
+msgstr "Quick Saving"
+
+msgid "PlayerController.NoPauseMessage"
+msgstr "Game is not pauseable"
+
+msgid "PlayerController.ViewingFrom"
+msgstr "Now viewing from"
+
+msgid "PlayerController.OwnCamera"
+msgstr "Now viewing from own camera"
+
+msgid "PlayerReplicationInfo.StringDead"
+msgstr "Dead"
+
+msgid "PlayerReplicationInfo.StringSpectating"
+msgstr "Spectating"
+
+msgid "PlayerReplicationInfo.StringUnknown"
+msgstr "Unknown"
+
+msgid "StreamPlaylistManager.DefaultPlaylistName"
+msgstr "New Playlist"
+
+msgid "SubActionCameraEffect.Desc"
+msgstr "Camera effect"
+
+msgid "SubActionCameraShake.Desc"
+msgstr "Shake"
+
+msgid "SubActionFOV.Desc"
+msgstr "FOV"
+
+msgid "SubActionFade.Desc"
+msgstr "Fade"
+
+msgid "SubActionGameSpeed.Desc"
+msgstr "Game Speed"
+
+msgid "SubActionOrientation.Desc"
+msgstr "Orientation"
+
+msgid "SubActionSceneSpeed.Desc"
+msgstr "Scene Speed"
+
+msgid "SubActionSubTitle.Desc"
+msgstr "SubTitle"
+
+msgid "SubActionTrigger.Desc"
+msgstr "Trigger"
+
+msgid "Suicided.DeathString"
+msgstr "%o had an aneurysm."
+
+msgid "Suicided.FemaleSuicide"
+msgstr "%o had an aneurysm."
+
+msgid "Suicided.MaleSuicide"
+msgstr "%o had an aneurysm."
+
+msgid "TeamInfo.TeamName"
+msgstr "Team"
+
+msgid "TeamInfo.ColorNames[0]"
+msgstr "Red"
+
+msgid "TeamInfo.ColorNames[1]"
+msgstr "Blue"
+
+msgid "TeamInfo.ColorNames[2]"
+msgstr "Green"
+
+msgid "TeamInfo.ColorNames[3]"
+msgstr "Gold"
+
+msgid "Vehicle.VehiclePositionString"
+msgstr "in a vehicle"
+
+msgid "Vehicle.VehicleNameString"
+msgstr "Vehicle"
+
+msgid "VoiceChatReplicationInfo.PublicChannelNames<0>"
+msgstr "Public"
+
+msgid "VoiceChatReplicationInfo.PublicChannelNames<1>"
+msgstr "Local"
+
+msgid "VoiceChatReplicationInfo.VCDisplayText[0]"
+msgstr "Enable Voice Chat"
+
+msgid "VoiceChatReplicationInfo.VCDisplayText[1]"
+msgstr "Enable local Channel"
+
+msgid "VoiceChatReplicationInfo.VCDisplayText[2]"
+msgstr "Local Chat Range"
+
+msgid "VoiceChatReplicationInfo.VCDisplayText[3]"
+msgstr "Local Chat Radius"
+
+msgid "VoiceChatReplicationInfo.VCDisplayText[4]"
+msgstr "Allowed VoIP Codecs"
+
+msgid "VoiceChatReplicationInfo.VCDisplayText[5]"
+msgstr "Allowed VoIP LAN Codecs"
+
+msgid "VoiceChatReplicationInfo.VCDescText[0]"
+msgstr "Enable voice chat on the server."
+
+msgid "VoiceChatReplicationInfo.VCDescText[2]"
+msgstr "Maximum distance at which a broadcast on the local channel may be heard"
+
+msgid "VoiceChatReplicationInfo.VCDescText[3]"
+msgstr "Distance at which local broadcasts begin to fade"
+
+msgid "VoiceChatReplicationInfo.VCDescText[4]"
+msgstr "Configure which codecs exist on the server and should be used in Internet games."
+
+msgid "VoiceChatReplicationInfo.VCDescText[5]"
+msgstr "Configure which codecs exist on the server and should be used in LAN games."
+
+msgid "VoiceChatReplicationInfo.InstalledCodec<0>.CodecName"
+msgstr "Less Bandwidth"
+
+msgid "VoiceChatReplicationInfo.InstalledCodec<0>.CodecDescription"
+msgstr "(4.8kbps) - Uses less bandwidth, but sound is not as clear."
+
+msgid "VoiceChatReplicationInfo.InstalledCodec<1>.CodecName"
+msgstr "Better Quality"
+
+msgid "VoiceChatReplicationInfo.InstalledCodec<1>.CodecDescription"
+msgstr "(9.6kbps) - Uses more bandwidth, but sound is much clearer."
+
+msgid "Volume.LocationName"
+msgstr "unspecified"
+
+msgid "Weapon.MessageNoAmmo"
+msgstr " has no ammo"
+
+msgid "WeaponPickup.PickupMessage"
+msgstr "You got a weapon"
+
+msgid "XBoxPlayerInput.LookPresets[0].PresetName"
+msgstr "Linear"
+
+msgid "XBoxPlayerInput.LookPresets[1].PresetName"
+msgstr "Exponential"
+
+msgid "XBoxPlayerInput.LookPresets[2].PresetName"
+msgstr "Hybrid"
+
+msgid "XBoxPlayerInput.LookPresets[3].PresetName"
+msgstr "Custom"
+
+msgid "fell.DeathString"
+msgstr "%k pushed %o over the edge."
+
+msgid "fell.FemaleSuicide"
+msgstr "%o left a small crater"
+
+msgid "fell.MaleSuicide"
+msgstr "%o left a small crater"
