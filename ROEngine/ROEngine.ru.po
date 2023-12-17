@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-17 23:02+0000\n"
+"PO-Revision-Date: 2023-12-17 23:05+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/ru/>\n"
@@ -245,3 +245,36 @@ msgstr "В укрытие!"
 
 msgid "ROVoicePack.AlertAbbrev[3]"
 msgstr "Стоп"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[0]"
+msgstr "Выдвинуться к..."
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[1]"
+msgstr "Выдвинуться вперед"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[2]"
+msgstr "Стоп"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[3]"
+msgstr "Двигайся назад"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[5]"
+msgstr "Вправо"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[6]"
+msgstr "Вперёд на 5 метров"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[7]"
+msgstr "Назад на 5 метров"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[8]"
+msgstr "Чуть левее"
+
+msgid "ROVoicePack.VehicleAlertString[0]"
+msgstr "Враг спереди!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[4]"
+msgstr "Влево"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[9]"
+msgstr "Чуть правее"
