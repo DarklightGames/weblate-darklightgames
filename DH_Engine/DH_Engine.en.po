@@ -749,6 +749,33 @@ msgstr "You are no longer qualified to be {article}{name}."
 msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
 msgstr "You must have another teammate nearby to deconstruct an enemy Platoon HQ!"
 
+msgid "DHGameMessage.NewTeamMessageRussian"
+msgstr "{name} has joined the Allied forces."
+
+msgid "DHGameMessage.NewTeamMessageGerman"
+msgstr "{name} has joined the Axis forces."
+
+msgid "DHGameMessage.FFKillMessage"
+msgstr "{name} killed a friendly soldier."
+
+msgid "DHGameMessage.FFViolationMessage"
+msgstr "Removing {name} due to a friendly fire violation."
+
+msgid "DHGameMessage.RoleChangeMsg"
+msgstr "You will attempt to respawn as {article}{role}."
+
+msgid "DHGameMessage.MaxRoleMsg"
+msgstr "Unable to change to {role}."
+
+msgid "DHGameMessage.HasForgivenMessage"
+msgstr "{victim} has forgiven {killer}."
+
+msgid "DHGameMessage.GlobalNameChange"
+msgstr "{old_name} has changed their name to {new_name}."
+
+msgid "DHGameMessage.VoteStarted"
+msgstr "{name} started a vote."
+
 msgid "DHGameReplicationInfo.ForceScaleText"
 msgstr "Size"
 
@@ -1934,8 +1961,23 @@ msgstr "Press [%USE%] to enter {0}"
 msgid "DHVehicleVoiceSayMessage.MessagePrefix"
 msgstr "[VOICE]"
 
+msgid "DHVoicePack.SupportString[1]"
+msgstr "Need help at {objective}"
+
 msgid "DHVoicePack.EnemyAbbrevAxis[3]"
 msgstr "Pioneer"
+
+msgid "DHVoicePack.AlertString[8]"
+msgstr "Under attack at {objective}"
+
+msgid "DHVoicePack.VehicleDirectionString[0]"
+msgstr "Go to {objective}"
+
+msgid "DHVoicePack.OrderString[0]"
+msgstr "Attack {objective}"
+
+msgid "DHVoicePack.OrderString[1]"
+msgstr "Defend {objective}"
 
 msgid "DHVoiceReplicationInfo.LocalChannelText"
 msgstr "Local"
