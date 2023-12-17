@@ -1,0 +1,1560 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain\n"
+"Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
+
+msgid "Ammo_Dummy.ItemName"
+msgstr "Dummy"
+
+msgid "DamTypeVehicleExplosion.DeathString"
+msgstr "%k took out %o with a vehicle explosion."
+
+msgid "DamTypeVehicleExplosion.FemaleSuicide"
+msgstr "%o was a little too close to the vehicle she blew up."
+
+msgid "DamTypeVehicleExplosion.MaleSuicide"
+msgstr "%o was a little too close to the vehicle he blew up."
+
+msgid "ROAmmoWeightMessage.HeavyMessage"
+msgstr "New magazine is heavy"
+
+msgid "ROAmmoWeightMessage.LightMessage"
+msgstr "New magazine is light"
+
+msgid "ROAmmoWeightMessage.VeryLightMessage"
+msgstr "New magazine is very light"
+
+msgid "ROArtilleryDamType.DeathString"
+msgstr "%o was torn apart by an artillery shell."
+
+msgid "ROArtilleryDamType.FemaleSuicide"
+msgstr "%o was careless with her own artillery shell."
+
+msgid "ROArtilleryDamType.MaleSuicide"
+msgstr "%o was careless with his own artillery shell."
+
+msgid "ROArtilleryMsg.SavedPosition"
+msgstr "Artillery Position Saved"
+
+msgid "ROArtilleryMsg.RequestStrike"
+msgstr "This is Platoon Commander Requesting Artillery Strike"
+
+msgid "ROArtilleryMsg.StrikeDenied"
+msgstr "This is Headquarters Artillery Strike Denied"
+
+msgid "ROArtilleryMsg.StrikeConfirmed"
+msgstr "This is Headquarters Artillery Strike Confirmed"
+
+msgid "ROArtilleryMsg.NoCoords"
+msgstr "No Coordinates Selected Yet!"
+
+msgid "ROArtilleryMsg.InvalidTarget"
+msgstr "Not a Valid Artillery Target!"
+
+msgid "ROArtilleryMsg.OutOfStrikes"
+msgstr "Your Artillery Strikes for This Mission Are Exhausted"
+
+msgid "ROArtilleryMsg.TryAgainLater"
+msgstr "We Cannot Spare Another Fire Mission So Soon!"
+
+msgid "ROArtilleryMsg.TryAgainSoon"
+msgstr "Another Fire Mission Will Be Available Soon"
+
+msgid "ROArtilleryMsg.StrikesRemaining"
+msgstr "Remaining"
+
+msgid "ROArtilleryMsg.NoArtyAvailable"
+msgstr "No Artillery Support Available"
+
+msgid "ROBipodWarningMsg.DeployToFire"
+msgstr "You must be deployed to fire your weapon!"
+
+msgid "ROBipodWarningMsg.DeployToReload"
+msgstr "You must be deployed to reload your weapon!"
+
+msgid "RODaddyMessage.DaddyMessage"
+msgstr "Antarian Is Your Daddy!"
+
+msgid "RODeathMessage.KilledString"
+msgstr "was killed by"
+
+msgid "RODeathMessage.SomeoneString"
+msgstr "someone"
+
+msgid "RODemolitionChargePlacedMsg.DemoChargePlaced"
+msgstr "Demolition charge placed; take cover!"
+
+msgid "RODiedInTankDamType.DeathString"
+msgstr "%k blew up %o's vehicle!"
+
+msgid "RODiedInTankDamType.FemaleSuicide"
+msgstr "%o blew up her own tank."
+
+msgid "RODiedInTankDamType.MaleSuicide"
+msgstr "%o blew up his own tank."
+
+msgid "ROGameMessage.NewTeamMessageRussian"
+msgstr "has joined the Allied forces."
+
+msgid "ROGameMessage.NewTeamMessageGerman"
+msgstr "has joined the Axis forces."
+
+msgid "ROGameMessage.FFKillMessage"
+msgstr "killed a friendly soldier."
+
+msgid "ROGameMessage.FFViolationMessage"
+msgstr "Removing"
+
+msgid "ROGameMessage.FFViolationMessageTrailer"
+msgstr "due to a friendly fire violation."
+
+msgid "ROGameMessage.FFDamageMessage"
+msgstr "You injured a friendly soldier."
+
+msgid "ROGameMessage.RoleChangeMsg"
+msgstr "You will attempt to respawn as "
+
+msgid "ROGameMessage.MaxRoleMsg"
+msgstr "Unable to change to "
+
+msgid "ROGameMessage.HasForgivenMessage"
+msgstr "has forgiven"
+
+msgid "ROGameMessage.YouHaveLoggedInAsAdminMsg"
+msgstr "You have logged in as an administrator."
+
+msgid "ROGameMessage.YouHaveLoggedOutOfAdminMsg"
+msgstr "You have given up your adminstrative abilities."
+
+msgid "ROGameMessage.LeftMessage"
+msgstr " left the battlefield."
+
+msgid "ROGameMessage.EnteredMessage"
+msgstr " entered the battlefield."
+
+msgid "ROGameMessage.NewPlayerMessage"
+msgstr "A new soldier entered the battlefield."
+
+msgid "ROGrenadeDamType.DeathString"
+msgstr "%o was torn apart by %k's grenade."
+
+msgid "ROGrenadeDamType.FemaleSuicide"
+msgstr "%o was careless with her own grenade."
+
+msgid "ROGrenadeDamType.MaleSuicide"
+msgstr "%o was careless with his own grenade."
+
+msgid "ROHintManager.Hints[0].Title"
+msgstr "Welcome"
+
+msgid "ROHintManager.Hints[0].Hint"
+msgstr "Welcome to Red Orchestra!||These hint messages will show up periodically in the game. Pay attention to them, your survival might depend on it! They can be disabled from the HUD tab in the configuration menu."
+
+msgid "ROHintManager.Hints[1].Title"
+msgstr "Stamina"
+
+msgid "ROHintManager.Hints[1].Hint"
+msgstr "Running or jumping will deplete your player's stamina. When it is depleted, you will be unable to run or jump until you have stopped for a bit to catch your breath."
+
+msgid "ROHintManager.Hints[2].Title"
+msgstr "Jumping"
+
+msgid "ROHintManager.Hints[2].Hint"
+msgstr "Jumping quickly drains your player's stamina. Use in moderation!"
+
+msgid "ROHintManager.Hints[3].Title"
+msgstr "Leaning"
+
+msgid "ROHintManager.Hints[3].Hint"
+msgstr "Press %LeanRight% or %LeanLeft% to lean around corners. Leaning lets you peak around corners without exposing your whole body to the enemy."
+
+msgid "ROHintManager.Hints[4].Title"
+msgstr "Role Selection"
+
+msgid "ROHintManager.Hints[4].Hint"
+msgstr "You can change your weapons and role at any time by hitting the %SHOWMENU% key. The changes you make will take effect when you respawn."
+
+msgid "ROHintManager.Hints[5].Title"
+msgstr "Iron sights"
+
+msgid "ROHintManager.Hints[5].Hint"
+msgstr "Press %ROIronSights% to aim down you weapon's sights. This substantially increases the accuracy of your weapon."
+
+msgid "ROHintManager.Hints[6].Title"
+msgstr "Accuracy"
+
+msgid "ROHintManager.Hints[6].Hint"
+msgstr "Automatic weapons are most accurate when fired in short, controllable bursts."
+
+msgid "ROHintManager.Hints[7].Title"
+msgstr "Positions"
+
+msgid "ROHintManager.Hints[7].Hint"
+msgstr "Use the number keys (%SWITCHWEAPON 1%, %SWITCHWEAPON 2%, %SWITCHWEAPON 3%, ...) to change between various positions in the vehicle."
+
+msgid "ROHintManager.Hints[8].Title"
+msgstr "Crew Members"
+
+msgid "ROHintManager.Hints[8].Hint"
+msgstr "A fully crewed tank is more effective than one driven by a lone player. Try to pick up players along the way to your objectives."
+
+msgid "ROHintManager.Hints[9].Title"
+msgstr "Situation Map"
+
+msgid "ROHintManager.Hints[9].Hint"
+msgstr "You can see a map of the objectives that need to be captured or defended by pressing %SHOWOBJECTIVES%."
+
+msgid "ROHintManager.Hints[10].Title"
+msgstr "Weak Points"
+
+msgid "ROHintManager.Hints[10].Hint"
+msgstr "Each tank has its weak points. Try aiming for the driver's window or the seam between the tank body and turret."
+
+msgid "ROHintManager.Hints[11].Title"
+msgstr "Ammo Types"
+
+msgid "ROHintManager.Hints[11].Hint"
+msgstr "Press %SwitchFireMode% to switch between the various available tank ammo types."
+
+msgid "ROHintManager.Hints[12].Title"
+msgstr "Reloading"
+
+msgid "ROHintManager.Hints[12].Hint"
+msgstr "Use the %ROManualReload% key to reload your weapon. A 'Magazine Heavy' message indicates that the magazine you're loading is more than half full of ammunition."
+
+msgid "ROHintManager.Hints[13].Title"
+msgstr "Soviet grenades"
+
+msgid "ROHintManager.Hints[13].Hint"
+msgstr "To prime ('cook') Soviet grenades, press and hold the %FIRE%, then click the %ALTFIRE% button. Release the %FIRE% button when you are ready to throw the grenade. Be careful, if you cook it for too long it can go off in your hand!"
+
+msgid "ROHintManager.Hints[14].Title"
+msgstr "Rally Points"
+
+msgid "ROHintManager.Hints[14].Hint"
+msgstr "When you have the binoculars in Iron Sights, use the %AltFire% button to set a Rally Point. Rally points are visible to all team members on their Situation Map."
+
+msgid "ROHintManager.Hints[15].Title"
+msgstr "Artillery Coordinates"
+
+msgid "ROHintManager.Hints[15].Hint"
+msgstr "When you have the binoculars in Iron Sights, use the %Fire% button to save Artillery Strike coordinates. Once coordinates are marked, find a radio and press %USE% to call an artillery strike on the saved position."
+
+msgid "ROHintManager.Hints[16].Title"
+msgstr "Reloading MGs"
+
+msgid "ROHintManager.Hints[16].Hint"
+msgstr "You can reload your Machine Gun ONLY when in the deployed state."
+
+msgid "ROHintManager.Hints[17].Title"
+msgstr "Requesting Resupply"
+
+msgid "ROHintManager.Hints[17].Hint"
+msgstr "When you're running low on Machine Gun ammo, you can use the voice menu to request a resupply. Players will see the resupply icon on their Situation Map. Press %SpeechMenuToggle% to open the voice menu."
+
+msgid "ROHintManager.Hints[18].Title"
+msgstr "Deployed MGs"
+
+msgid "ROHintManager.Hints[18].Hint"
+msgstr "Machine Gunners should never setup alone, find a comrade to watch your back."
+
+msgid "ROHintManager.Hints[19].Title"
+msgstr "Bayonet"
+
+msgid "ROHintManager.Hints[19].Hint"
+msgstr "Many weapons support bayonet attachments. Press %Deploy% to attach or detach the bayonet to your weapon and %AltFire% to stab enemies with it."
+
+msgid "ROHintManager.Hints[20].Title"
+msgstr "Panzerfaust Aiming"
+
+msgid "ROHintManager.Hints[20].Hint"
+msgstr "You can change the range that your Panzerfaust will target at by pressing the %Deploy% button. Match the distance of your enemy with the selected range displayed on the Panzerfaust sight."
+
+msgid "ROHintManager.Hints[21].Title"
+msgstr "Grenades"
+
+msgid "ROHintManager.Hints[21].Hint"
+msgstr "Grenades have a dangerous blast radius - get under cover or away from them!"
+
+msgid "ROHintManager.Hints[22].Title"
+msgstr "Objectives Under Attack"
+
+msgid "ROHintManager.Hints[22].Hint"
+msgstr "Objectives with a flashing icon are objectives which are under attack. Whether the objective is being attacked or defended by your team, they can probably use your help."
+
+msgid "ROHintManager.Hints[23].Title"
+msgstr "Rally Points"
+
+msgid "ROHintManager.Hints[23].Hint"
+msgstr "Squad Leaders can set rally points by clicking on the Situation Map. Those rally points are visible to all team members on their Situation Map."
+
+msgid "ROHintManager.Hints[24].Title"
+msgstr "Orders & Requests"
+
+msgid "ROHintManager.Hints[24].Hint"
+msgstr "Squad leaders can set attack/defend orders to specific objectives. Those objectives show up on the map with a different icon. Similarly, MGs requesting resupply will show up as an icon on the Situation Map."
+
+msgid "ROHintManager.Hints[25].Title"
+msgstr "Resupplying MGs"
+
+msgid "ROHintManager.Hints[25].Hint"
+msgstr "Use the %ThrowMGAmmo% to resupply Machine Gunners who need it."
+
+msgid "ROHintManager.Hints[26].Title"
+msgstr "Points"
+
+msgid "ROHintManager.Hints[26].Hint"
+msgstr "You receive 10 points for helping to capture an objective."
+
+msgid "ROHintManager.Hints[27].Title"
+msgstr "Capturing Objectives"
+
+msgid "ROHintManager.Hints[27].Hint"
+msgstr "To capture an objective, you must first enter the objective area. A capture bar will appear on your HUD when you have entered the objective area. You'll likely need more than one additional teammate to initiate and complete the capture."
+
+msgid "ROHintManager.Hints[28].Title"
+msgstr "Accuracy"
+
+msgid "ROHintManager.Hints[28].Hint"
+msgstr "Crouching and going prone stabilizes your weapon and lowers recoil when firing. Press the %duck% key to crouch, or the %prone% key to go prone."
+
+msgid "ROHintManager.Hints[29].Title"
+msgstr "Changing Barrels"
+
+msgid "ROHintManager.Hints[29].Hint"
+msgstr "You can change the barrels on the MGs by using the %ROMGOperation%. Note that the barrel on the DP 28 cannot be changed, so be careful not to overheat!"
+
+msgid "ROHintManager.Hints[30].Title"
+msgstr "Officers"
+
+msgid "ROHintManager.Hints[30].Hint"
+msgstr "When taking an objective, the presence of an officer boosts morale and makes your task easier!"
+
+msgid "ROHintManager.Hints[31].Title"
+msgstr "Diving to Prone"
+
+msgid "ROHintManager.Hints[31].Hint"
+msgstr "You can dive to prone by pressing %PRONE% while running, allowing you to quickly take cover. You can also use this to dive over small obstacles and take cover behind them."
+
+msgid "ROHintManager.Hints[32].Title"
+msgstr "Attacking MGs"
+
+msgid "ROHintManager.Hints[32].Hint"
+msgstr "Machine Gunners have a limited field of vision while deployed, so try attacking them from the side."
+
+msgid "ROHintManager.Hints[33].Title"
+msgstr "Weapon Deployment"
+
+msgid "ROHintManager.Hints[33].Hint"
+msgstr "You can stabilize all projectile weapons by simply resting them on a horizontal or vertical surface. An icon will appear in the lower right corner of the screen if the surface is deployable."
+
+msgid "ROHintManager.Hints[34].Title"
+msgstr "Position Views"
+
+msgid "ROHintManager.Hints[34].Hint"
+msgstr "Use the %PREVWEAPON% and %NEXTWEAPON% keys to cycle between the various views available for each vehicle position. Be careful when sticking your head out of the commander or driver hatch: you are then vulnerable to enemy fire."
+
+msgid "ROHintManager.Hints[35].Title"
+msgstr "Tank Control"
+
+msgid "ROHintManager.Hints[35].Hint"
+msgstr "Use the movement keys to steer and control your vehicle's throttle. Use the %JUMP% key to brake."
+
+msgid "ROHintManager.Hints[36].Title"
+msgstr "Armor Usage"
+
+msgid "ROHintManager.Hints[36].Hint"
+msgstr "When combating other tanks, remember that your armor is strongest at the front. Try to angle the front of your vehicle slightly away from enemy fire."
+
+msgid "ROHintManager.Hints[37].Title"
+msgstr "Cannon Fire Range"
+
+msgid "ROHintManager.Hints[37].Hint"
+msgstr "Use the %LEANLEFT% and %LEANRIGHT% keys to adjust the range of your tank sights. The range you have your sights set to is displayed, in meters, in the lower right corner of the screen."
+
+msgid "ROHintManager.Hints[38].Title"
+msgstr "Coaxial MG"
+
+msgid "ROHintManager.Hints[38].Hint"
+msgstr "Most tanks have a coaxial machine gun alongside the main gun. You can fire it from the commander's view by pressing %ALTFIRE%. Note: range adjustments have no effect on the coaxial MG."
+
+msgid "ROHintManager.Hints[39].Title"
+msgstr "Satchels"
+
+msgid "ROHintManager.Hints[39].Hint"
+msgstr "Satchels contain high explosives. They are useful for destroying enemy vehicles and certain objectives. While not all maps have destroyable objectives, those that do have those objectives specially marked on the situation map."
+
+msgid "ROHintManager.Hints[40].Title"
+msgstr "German grenades"
+
+msgid "ROHintManager.Hints[40].Hint"
+msgstr "The fuse of German grenades will begin burning as soon as you hit the %FIRE% or %ALTFIRE% button."
+
+msgid "ROHintManager.Hints[41].Title"
+msgstr "Deploying MG"
+
+msgid "ROHintManager.Hints[41].Hint"
+msgstr "To fire your Machine Gun properly, you need to deploy it. You can do this while prone or on any convenient surface: the deployment icon will appear in the bottom right corner of the HUD. Press %Deploy% to deploy when you see the icon."
+
+msgid "ROHintManager.Hints[42].Title"
+msgstr "Melee Attacks"
+
+msgid "ROHintManager.Hints[42].Hint"
+msgstr "You can bash an enemy soldier with your weapon by pressing the %ALTFIRE% button. The longer you keep the key pressed, the more powerful your attack will be. Aim for the head for a quick kill!"
+
+msgid "ROHintManager.Hints[43].Title"
+msgstr "Manual Bolting"
+
+msgid "ROHintManager.Hints[43].Hint"
+msgstr "When using a bolt-action rifle, you have to manually work your bolt. After you fire your weapon, press the %FIRE% key again to bolt your rifle. Double click the key when firing to bolt quickly after your shot."
+
+msgid "ROHintManager.Hints[44].Title"
+msgstr "Critical Messages"
+
+msgid "ROHintManager.Hints[44].Hint"
+msgstr "Critical messages are displayed in the upper left corner of the screen. Pay attention to them to remain aware of the state of the battle."
+
+msgid "ROHud.ReinforcementText"
+msgstr "Reinforcements: "
+
+msgid "ROHud.TimeRemainingText"
+msgstr "Time Remaining: "
+
+msgid "ROHud.IPText"
+msgstr "IP: "
+
+msgid "ROHud.TimeText"
+msgstr "Time: "
+
+msgid "ROHud.ViewingText"
+msgstr "Viewing: "
+
+msgid "ROHud.NoReinforcementsText"
+msgstr "No reinforcements available"
+
+msgid "ROHud.TeamMessagePrefix"
+msgstr "*PLATOON* "
+
+msgid "ROHud.ObjectivesText"
+msgstr "OBJECTIVES"
+
+msgid "ROHud.PlayersNeededText"
+msgstr "Need: "
+
+msgid "ROHud.SpectateInstructionText1"
+msgstr "Press Fire to switch Viewpoint/Players"
+
+msgid "ROHud.SpectateInstructionText2"
+msgstr "Press Alt-Fire to switch Spectating Modes"
+
+msgid "ROHud.SpectateInstructionText3"
+msgstr "Press Ironsights to toggle First/Third Person View"
+
+msgid "ROHud.SpectateInstructionText4"
+msgstr "Press Jump to return to viewing yourself"
+
+msgid "ROHud.NeedAmmoText"
+msgstr "Needs ammo"
+
+msgid "ROHud.CanResupplyText"
+msgstr "Press %THROWMGAMMO% to resupply"
+
+msgid "ROHud.OpenMapText"
+msgstr "%SHOWOBJECTIVES% to open"
+
+msgid "ROHud.SituationMapInstructionsText"
+msgstr "Press %SHOWOBJECTIVES% to Close/Open Situation Map"
+
+msgid "ROHud.MapCoordTextX[0]"
+msgstr "1"
+
+msgid "ROHud.MapCoordTextX[1]"
+msgstr "2"
+
+msgid "ROHud.MapCoordTextX[2]"
+msgstr "3"
+
+msgid "ROHud.MapCoordTextX[3]"
+msgstr "4"
+
+msgid "ROHud.MapCoordTextX[4]"
+msgstr "5"
+
+msgid "ROHud.MapCoordTextX[5]"
+msgstr "6"
+
+msgid "ROHud.MapCoordTextX[6]"
+msgstr "7"
+
+msgid "ROHud.MapCoordTextX[7]"
+msgstr "8"
+
+msgid "ROHud.MapCoordTextX[8]"
+msgstr "9"
+
+msgid "ROHud.MapCoordTextY[0]"
+msgstr "A"
+
+msgid "ROHud.MapCoordTextY[1]"
+msgstr "B"
+
+msgid "ROHud.MapCoordTextY[2]"
+msgstr "C"
+
+msgid "ROHud.MapCoordTextY[3]"
+msgstr "D"
+
+msgid "ROHud.MapCoordTextY[4]"
+msgstr "E"
+
+msgid "ROHud.MapCoordTextY[5]"
+msgstr "F"
+
+msgid "ROHud.MapCoordTextY[6]"
+msgstr "G"
+
+msgid "ROHud.MapCoordTextY[7]"
+msgstr "H"
+
+msgid "ROHud.MapCoordTextY[8]"
+msgstr "I"
+
+msgid "ROHud.LegendAxisObjectiveText"
+msgstr "Axis-controlled obj."
+
+msgid "ROHud.LegendAlliesObjectiveText"
+msgstr "Allies-controlled obj."
+
+msgid "ROHud.LegendNeutralObjectiveText"
+msgstr "Neutral objective"
+
+msgid "ROHud.LegendArtilleryRadioText"
+msgstr "Artillery radio"
+
+msgid "ROHud.LegendResupplyAreaText"
+msgstr "Resupply area"
+
+msgid "ROHud.LegendRallyPointText"
+msgstr "Rally point"
+
+msgid "ROHud.LegendSavedArtilleryText"
+msgstr "Saved artillery coords."
+
+msgid "ROHud.LegendOrderTargetText"
+msgstr "Ordered target obj."
+
+msgid "ROHud.LegendArtyStrikeText"
+msgstr "Artillery strike"
+
+msgid "ROHud.LegendHelpRequestText"
+msgstr "Help requested at obj."
+
+msgid "ROHud.LegendDestroyableItemText"
+msgstr "Destroyable target"
+
+msgid "ROHud.LegendDestroyedItemText"
+msgstr "Destroyed target"
+
+msgid "ROHud.LegendMGResupplyText"
+msgstr "MG requesting resupply"
+
+msgid "ROHud.LegendVehResupplyAreaText"
+msgstr "Vehicle resupply area"
+
+msgid "ROHud.LegendATGunText"
+msgstr "Anti Tank Gun"
+
+msgid "ROHud.SmallFontArrayNames[0]"
+msgstr "ROFontsTwo.ROArial24DS"
+
+msgid "ROHud.SmallFontArrayNames[1]"
+msgstr "ROFontsTwo.ROArial24DS"
+
+msgid "ROHud.SmallFontArrayNames[2]"
+msgstr "ROFontsTwo.ROArial22DS"
+
+msgid "ROHud.SmallFontArrayNames[3]"
+msgstr "ROFontsTwo.ROArial22DS"
+
+msgid "ROHud.SmallFontArrayNames[4]"
+msgstr "ROFontsTwo.ROArial18DS"
+
+msgid "ROHud.SmallFontArrayNames[5]"
+msgstr "ROFontsTwo.ROArial14DS"
+
+msgid "ROHud.SmallFontArrayNames[6]"
+msgstr "ROFontsTwo.ROArial12DS"
+
+msgid "ROHud.SmallFontArrayNames[7]"
+msgstr "ROFontsTwo.ROArial9DS"
+
+msgid "ROHud.SmallFontArrayNames[8]"
+msgstr "ROFontsTwo.ROArial7DS"
+
+msgid "ROHud.MenuFontArrayNames[0]"
+msgstr "ROFonts.ROBtsrmVr18"
+
+msgid "ROHud.MenuFontArrayNames[1]"
+msgstr "ROFonts.ROBtsrmVr14"
+
+msgid "ROHud.MenuFontArrayNames[2]"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "ROHud.MenuFontArrayNames[3]"
+msgstr "ROFonts.ROBtsrmVr9"
+
+msgid "ROHud.MenuFontArrayNames[4]"
+msgstr "ROFonts.ROBtsrmVr7"
+
+msgid "ROHud.CriticalMsgFontArrayNames[0]"
+msgstr "ROFonts.ROArial28"
+
+msgid "ROHud.CriticalMsgFontArrayNames[1]"
+msgstr "ROFonts.ROArial26"
+
+msgid "ROHud.CriticalMsgFontArrayNames[2]"
+msgstr "ROFonts.ROArial24"
+
+msgid "ROHud.CriticalMsgFontArrayNames[3]"
+msgstr "ROFonts.ROArial22"
+
+msgid "ROHud.CriticalMsgFontArrayNames[4]"
+msgstr "ROFonts.ROArial18"
+
+msgid "ROHud.CriticalMsgFontArrayNames[5]"
+msgstr "ROFonts.ROArial16"
+
+msgid "ROHud.CriticalMsgFontArrayNames[6]"
+msgstr "ROFonts.ROArial14"
+
+msgid "ROHud.CriticalMsgFontArrayNames[7]"
+msgstr "ROFonts.ROArial12"
+
+msgid "ROHud.CriticalMsgFontArrayNames[8]"
+msgstr "ROFonts.ROArial9"
+
+msgid "ROHud.MapTimerTitle.Text"
+msgstr "Time Remaining"
+
+msgid "ROHud.MapLegendTitle.Text"
+msgstr "Legend"
+
+msgid "ROHud.MapObjectivesTitle.Text"
+msgstr "Objectives"
+
+msgid "ROHud.MapRequiredObjectivesTitle.Text"
+msgstr "Required Objectives"
+
+msgid "ROHud.MapSecondaryObjectivesTitle.Text"
+msgstr "Secondary Objectives"
+
+msgid "ROHud.FontArrayNames[0]"
+msgstr "ROFonts.ROBtsrmVr28"
+
+msgid "ROHud.FontArrayNames[1]"
+msgstr "ROFonts.ROBtsrmVr26"
+
+msgid "ROHud.FontArrayNames[5]"
+msgstr "ROFonts.ROBtsrmVr16"
+
+msgid "ROHud.FontArrayNames[6]"
+msgstr "ROFonts.ROBtsrmVr14"
+
+msgid "ROHud.FontArrayNames[7]"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "ROHud.FontArrayNames[8]"
+msgstr "ROFonts.ROBtsrmVr9"
+
+msgid "ROLastObjectiveMsg.AboutToWin"
+msgstr "Last objective -- we have almost won the battle!"
+
+msgid "ROLastObjectiveMsg.AboutToLose"
+msgstr "Last objective -- we have almost lost the battle!"
+
+msgid "ROLevelInfo.Axis.UnitName"
+msgstr "Axis"
+
+msgid "ROLevelInfo.Allies.UnitName"
+msgstr "Allies"
+
+msgid "ROLevelInfo.AxisUnitDescription"
+msgstr "Set the Axis unit description for this map here."
+
+msgid "ROLevelInfo.AlliesUnitDescription"
+msgstr "Set the Allies unit description for this map here."
+
+msgid "ROMineDamType.DeathString"
+msgstr "%o was killed by a mine."
+
+msgid "ROMineDamType.FemaleSuicide"
+msgstr "%o was killed by a mine."
+
+msgid "ROMineDamType.MaleSuicide"
+msgstr "%o was killed by a mine."
+
+msgid "ROMineVolume.WarningMessage"
+msgstr "Warning: you have entered a minefield!!!"
+
+msgid "ROObjective.objName"
+msgstr "Unnamed"
+
+msgid "ROObjectiveMsg.AxisCapture"
+msgstr "The Axis forces have captured "
+
+msgid "ROObjectiveMsg.AlliesCapture"
+msgstr "The Allied forces have captured "
+
+msgid "ROObjectiveMsg.AxisTriggeredMessage"
+msgstr "The Axis forces destroyed "
+
+msgid "ROObjectiveMsg.AlliesTriggeredMessage"
+msgstr "The Allied forces have destroyed "
+
+msgid "ROPlayer.SpectatingModeName[0]"
+msgstr "Viewing Self"
+
+msgid "ROPlayer.SpectatingModeName[1]"
+msgstr "Roaming"
+
+msgid "ROPlayer.SpectatingModeName[2]"
+msgstr "Viewing Players"
+
+msgid "ROPlayer.SpectatingModeName[3]"
+msgstr "Spectating Viewpoints"
+
+msgid "RORallyMsg.SavedPosition"
+msgstr "Rally Point Saved"
+
+msgid "RORallyMsg.CheckObjectives"
+msgstr "New Rally Point - Check Your Map!"
+
+msgid "RORallyMsg.RallySpam"
+msgstr "Cannot Change Rally Point This Soon!"
+
+msgid "ROReinforcementMsg.LowReinforcements"
+msgstr "Running Low on Reinforcements!"
+
+msgid "ROReinforcementMsg.NoReinforcements"
+msgstr "Reinforcements Are Depleted!"
+
+msgid "ROResetGameMsg.CountdownLeftSide"
+msgstr "The game will restart in"
+
+msgid "ROResetGameMsg.CountdownRightSide"
+msgstr "seconds"
+
+msgid "ROResetGameMsg.GameRestarting"
+msgstr "The game is now restarting"
+
+msgid "ROResupplyMessage.ResuppliedGunner"
+msgstr "Successfully resupplied "
+
+msgid "ROResupplyMessage.BeenResupplied"
+msgstr "You have received ammo from "
+
+msgid "RORoleInfo.InfoText"
+msgstr "No information provided."
+
+msgid "RORoundOverMsg.AxisWins"
+msgstr "The Axis Forces Win The Battle!"
+
+msgid "RORoundOverMsg.AlliesWins"
+msgstr "The Allied Forces Win The Battle!"
+
+msgid "RORoundOverMsg.NoDecisiveOutcome"
+msgstr "No Decisive Victory"
+
+msgid "ROSatchelDamType.DeathString"
+msgstr "%o was blown up by %k's satchel charge."
+
+msgid "ROSatchelDamType.FemaleSuicide"
+msgstr "%o was careless with her own satchel charge."
+
+msgid "ROSatchelDamType.MaleSuicide"
+msgstr "%o was careless with his own satchel charge."
+
+msgid "ROSayDeadMessage.MessagePrefix"
+msgstr "(DEAD) "
+
+msgid "ROSayDeadMessage.SpecPrefix"
+msgstr "(SPECTATOR) "
+
+msgid "ROSuicided.DeathString"
+msgstr "%o killed himself."
+
+msgid "ROSuicided.FemaleSuicide"
+msgstr "%o killed himself."
+
+msgid "ROTankCannon.ProjectileDescriptions<0>"
+msgstr "AP"
+
+msgid "ROTankCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "ROTankShellExplosionDamage.DeathString"
+msgstr "%o was killed by %k's tank shell shrapnel."
+
+msgid "ROTankShellExplosionDamage.FemaleSuicide"
+msgstr "%o fired her shell prematurely."
+
+msgid "ROTankShellExplosionDamage.MaleSuicide"
+msgstr "%o fired his shell prematurely."
+
+msgid "ROTeamGame.ROHints<0>"
+msgstr "You can see a map of the objectives that need to be captured or defended by pressing %SHOWOBJECTIVES%."
+
+msgid "ROTeamGame.ROHints<1>"
+msgstr "You can 'cook' a Soviet F-1 grenade by pressing the opposite fire button while holding the grenade back."
+
+msgid "ROTeamGame.ROHints<2>"
+msgstr "To capture an objective, you must first enter the objective area. You'll likely need more than one additional teammate to initiate and complete the capture."
+
+msgid "ROTeamGame.ROHints<3>"
+msgstr "Press %PLAYERMENU 2% to change your player role while in-game, %PLAYERMENU% to change your team."
+
+msgid "ROTeamGame.ROHints<4>"
+msgstr "To aim down the sights of your weapon and thus have better precision and accuracy, press the %ROIRONSIGHTS% key."
+
+msgid "ROTeamGame.ROHints<5>"
+msgstr "You receive 10 points for helping to capture an objective."
+
+msgid "ROTeamGame.ROHints<6>"
+msgstr "Crouching and going prone stabilizes your weapon and lowers recoil when firing."
+
+msgid "ROTeamGame.ROHints<7>"
+msgstr "To regenerate stamina, stop and rest for a bit."
+
+msgid "ROTeamGame.ROHints<8>"
+msgstr "You can deploy a Machine Gun on almost any object - press %DEPLOY% when you see the deployment icon appear to deploy it."
+
+msgid "ROTeamGame.ROHints<9>"
+msgstr "When reloading, 'Magazine Heavy' indicates that the magazine you're loading into your weapon is more than half full of ammunition."
+
+msgid "ROTeamGame.ROHints<10>"
+msgstr "You can reload your Machine Gun only when in the deployed state."
+
+msgid "ROTeamGame.ROHints<11>"
+msgstr "Players receive 1 point for resupplying Machine Gunners who need ammo."
+
+msgid "ROTeamGame.ROHints<12>"
+msgstr "The Machine Gun is more effective when fired in short, controllable bursts."
+
+msgid "ROTeamGame.ROHints<13>"
+msgstr "You cannot change the DP 28 barrel, be careful not to overheat!"
+
+msgid "ROTeamGame.ROHints<14>"
+msgstr "When taking an objective, the presence of an officer boosts moral and makes your task easier!"
+
+msgid "ROTeamGame.ROHints<15>"
+msgstr "Machine Gunners should never setup alone, find a comrade to watch your back."
+
+msgid "ROTeamGame.ROHints<16>"
+msgstr "Machine Gunners have a limited field of vision while deployed, so try attacking them from the side."
+
+msgid "ROTeamGame.PropsDisplayText[0]"
+msgstr "Bots Skill"
+
+msgid "ROTeamGame.PropsDisplayText[1]"
+msgstr "Use Map Rotation"
+
+msgid "ROTeamGame.PropsDisplayText[2]"
+msgstr "Game Speed"
+
+msgid "ROTeamGame.PropsDisplayText[3]"
+msgstr "Max Spectators"
+
+msgid "ROTeamGame.PropsDisplayText[4]"
+msgstr "Max Players"
+
+msgid "ROTeamGame.PropsDisplayText[5]"
+msgstr "Time Limit"
+
+msgid "ROTeamGame.PropsDisplayText[6]"
+msgstr "Allow Behind View"
+
+msgid "ROTeamGame.PropsDisplayText[7]"
+msgstr "1st Person Spectate Only"
+
+msgid "ROTeamGame.PropsDisplayText[8]"
+msgstr "Lock 3rd Person Spectating"
+
+msgid "ROTeamGame.PropsDisplayText[9]"
+msgstr "Allow ViewPoint Spectating"
+
+msgid "ROTeamGame.PropsDisplayText[10]"
+msgstr "Allow Roaming Spectating"
+
+msgid "ROTeamGame.PropsDisplayText[11]"
+msgstr "Allow Dead Roaming"
+
+msgid "ROTeamGame.PropsDisplayText[12]"
+msgstr "Allow Admin Pausing"
+
+msgid "ROTeamGame.PropsDisplayText[13]"
+msgstr "Min Players"
+
+msgid "ROTeamGame.PropsDisplayText[14]"
+msgstr "Bot Mode"
+
+msgid "ROTeamGame.PropsDisplayText[15]"
+msgstr "Delay at End of Game"
+
+msgid "ROTeamGame.PropsDisplayText[16]"
+msgstr "Adjust Skill"
+
+msgid "ROTeamGame.PropsDisplayText[17]"
+msgstr "Win Limit"
+
+msgid "ROTeamGame.PropsDisplayText[18]"
+msgstr "Round Limit"
+
+msgid "ROTeamGame.PropsDisplayText[19]"
+msgstr "Pre-Start Duration"
+
+msgid "ROTeamGame.PropsDisplayText[20]"
+msgstr "Net Wait"
+
+msgid "ROTeamGame.PropsDisplayText[21]"
+msgstr "Min Net Players"
+
+msgid "ROTeamGame.PropsDisplayText[22]"
+msgstr "Players Must Be Ready"
+
+msgid "ROTeamGame.PropsDisplayText[23]"
+msgstr "Friendly Fire Scale"
+
+msgid "ROTeamGame.PropsDisplayText[24]"
+msgstr "FF Artillery Scale"
+
+msgid "ROTeamGame.PropsDisplayText[25]"
+msgstr "FF Explosives Scale"
+
+msgid "ROTeamGame.PropsDisplayText[26]"
+msgstr "Bots Balance Teams"
+
+msgid "ROTeamGame.PropsDisplayText[27]"
+msgstr "Players Balance Teams"
+
+msgid "ROTeamGame.PropsDisplayText[28]"
+msgstr "Cross-Team Priv. Chat"
+
+msgid "ROTeamGame.PropsDisplayText[29]"
+msgstr "Kick Idlers Time"
+
+msgid "ROTeamGame.PropsDisplayText[30]"
+msgstr "Friendly Fire Punishment"
+
+msgid "ROTeamGame.PropsDisplayText[31]"
+msgstr "Death Message Mode"
+
+msgid "ROTeamGame.PropsDisplayText[32]"
+msgstr "Black Hud When Dead"
+
+msgid "ROTeamGame.PropsDisplayText[33]"
+msgstr "Black Hud On Non-Playerview"
+
+msgid "ROTeamGame.PropsDisplayText[34]"
+msgstr "Auto Balance Teams On Death"
+
+msgid "ROTeamGame.PropsDisplayText[35]"
+msgstr "Max Team Difference"
+
+msgid "ROTeamGame.PropsDisplayText[36]"
+msgstr "Override Max Players"
+
+msgid "ROTeamGame.PropsDisplayText[37]"
+msgstr "Team Kill Forgiving Enabled"
+
+msgid "ROTeamGame.PropsDisplayText[38]"
+msgstr "Friendly Fire Kill Limit"
+
+msgid "ROTeamGame.PropsDisplayText[39]"
+msgstr "Friendly Fire Damage Limit"
+
+msgid "ROTeamGame.PropsDisplayText[40]"
+msgstr "Show Server IP on Scoreboard"
+
+msgid "ROTeamGame.PropsDisplayText[41]"
+msgstr "Show Time on Scoreboard"
+
+msgid "ROTeamGame.PropDescText[0]"
+msgstr "Set the skill of your AI opponents."
+
+msgid "ROTeamGame.PropDescText[1]"
+msgstr "The map will change after a match is complete or the time runs out."
+
+msgid "ROTeamGame.PropDescText[2]"
+msgstr "Controls how fast time passes in the game."
+
+msgid "ROTeamGame.PropDescText[3]"
+msgstr "Sets the maximum number of spectators that can watch the game."
+
+msgid "ROTeamGame.PropDescText[4]"
+msgstr "Maximum number of players on each team"
+
+msgid "ROTeamGame.PropDescText[5]"
+msgstr "The game ends after this many minutes of play."
+
+msgid "ROTeamGame.PropDescText[6]"
+msgstr "If enabled a view from behind the player is allowed."
+
+msgid "ROTeamGame.PropDescText[7]"
+msgstr "If enabled players will only be able to spectate from the 1st person view."
+
+msgid "ROTeamGame.PropDescText[8]"
+msgstr "If enabled 3rd person specating will be locked to the rotation of the player being viewed."
+
+msgid "ROTeamGame.PropDescText[9]"
+msgstr "If enabled players will be able to spectate scenic viewpoints throughout the level."
+
+msgid "ROTeamGame.PropDescText[10]"
+msgstr "If enabled players will be able to freely move around the map while spectating."
+
+msgid "ROTeamGame.PropDescText[11]"
+msgstr "If enabled players will be able to freely move around the map while dead spectating."
+
+msgid "ROTeamGame.PropDescText[12]"
+msgstr "Controls whether administrators can pause the game."
+
+msgid "ROTeamGame.PropDescText[13]"
+msgstr "Bots fill server if necessary to make sure at least this many participant in the match."
+
+msgid "ROTeamGame.PropDescText[14]"
+msgstr "Specify how the number of bots in the match is determined."
+
+msgid "ROTeamGame.PropDescText[15]"
+msgstr "How long to wait after the match ends before switching to the next map."
+
+msgid "ROTeamGame.PropDescText[16]"
+msgstr "If enabled the AI skill level will change dynamically to match the skill of the human players."
+
+msgid "ROTeamGame.PropDescText[17]"
+msgstr "The number of rounds that must be won to win this match."
+
+msgid "ROTeamGame.PropDescText[18]"
+msgstr "The maximum number of rounds for this match."
+
+msgid "ROTeamGame.PropDescText[19]"
+msgstr "Delay before game starts to allow other players to join."
+
+msgid "ROTeamGame.PropDescText[20]"
+msgstr "Delay before game starts to allow other players to join."
+
+msgid "ROTeamGame.PropDescText[21]"
+msgstr "How many players must join before net game will start."
+
+msgid "ROTeamGame.PropDescText[22]"
+msgstr "If enabled, players must choose a team and a weapon before the game starts."
+
+msgid "ROTeamGame.PropDescText[23]"
+msgstr "Specifies how much damage players from the same team can do to each other."
+
+msgid "ROTeamGame.PropDescText[24]"
+msgstr "How much to increase/decrease friendly fire punishment from artillery damage."
+
+msgid "ROTeamGame.PropDescText[25]"
+msgstr "How much to increase/decrease friendly fire damage from explosive damage (grenades/satchels)."
+
+msgid "ROTeamGame.PropDescText[26]"
+msgstr "Bots will join or change teams to make sure they are even."
+
+msgid "ROTeamGame.PropDescText[27]"
+msgstr "Players are forced to join the smaller team when they enter."
+
+msgid "ROTeamGame.PropDescText[28]"
+msgstr "Determines whether members of opposing teams are allowed to join the same private chat room"
+
+msgid "ROTeamGame.PropDescText[29]"
+msgstr "Specifies how long to wait before kicking idle player from server."
+
+msgid "ROTeamGame.PropDescText[30]"
+msgstr "Determines how friendly fire punishment is handled."
+
+msgid "ROTeamGame.PropDescText[31]"
+msgstr "Determines how death messages are handled."
+
+msgid "ROTeamGame.PropDescText[32]"
+msgstr "Force a blacked out hud when the player is dead and spectating."
+
+msgid "ROTeamGame.PropDescText[33]"
+msgstr "Force a blacked out hud only when the player is dead and spectating without actually viewing a player."
+
+msgid "ROTeamGame.PropDescText[34]"
+msgstr "Players join the smaller team when they die if teams are off-balance by more than Max Team Difference(Players Balance Teams must be on)."
+
+msgid "ROTeamGame.PropDescText[35]"
+msgstr "The maximum acceptable difference in team sizes(used for Players Balance Teams and auto Balance Teams On Death)."
+
+msgid "ROTeamGame.PropDescText[36]"
+msgstr "Allows for overriding of the Server's Max Players setting to a lower amount(Set to 0 to disable)."
+
+msgid "ROTeamGame.PropDescText[37]"
+msgstr "Allows players that get killed by a team mate to say np or forgive, which erases that TK from the killer's record."
+
+msgid "ROTeamGame.PropDescText[38]"
+msgstr "The number of teammates that a player can kill before the Friendly Fire Punishment takes place."
+
+msgid "ROTeamGame.PropDescText[39]"
+msgstr "The amount of damage that a player can do to teammates before the Friendly Fire Punishment takes place."
+
+msgid "ROTeamGame.PropDescText[40]"
+msgstr "Displays the Server's IP on the scoreboard."
+
+msgid "ROTeamGame.PropDescText[41]"
+msgstr "Displays the Date and Time on the scoreboard."
+
+msgid "ROTeamGame.PropsExtras[0]"
+msgstr "0.000000;Untrained;1.000000;Raw recruit;2.000000;Green soldier;3.000000;Front line soldier;4.000000;Experienced soldier;5.000000;Battle-hardened;6.000000;Highly-decorated;7.000000;Party fanatic"
+
+msgid "ROTeamGame.PropsExtras[1]"
+msgstr "FFP_None;No Punishment;FFP_Kick;Kick;FFP_SessionBan;Session Ban;FFP_GlobalBan;Permanent Ban"
+
+msgid "ROTeamGame.PropsExtras[2]"
+msgstr "DM_None;None;DM_OnDeath;Personal Deaths;DM_Personal;Personal Kills/Deaths;DM_All;All"
+
+msgid "ROTeamGame.GameName"
+msgstr "Red Orchestra"
+
+msgid "ROTeamGame.Description"
+msgstr "Two teams duke it out in a quest for battlefield supremacy.  The team with the most total frags wins."
+
+msgid "ROTeamSayDeadMessage.MessagePrefix"
+msgstr "(DEAD) *PLATOON* "
+
+msgid "ROTeamSayMessage.MessagePrefix"
+msgstr "*PLATOON* "
+
+msgid "ROTreadCraft.VehiclePositionString"
+msgstr "in a Tank"
+
+msgid "ROTreadCraft.VehicleNameString"
+msgstr "Tank"
+
+msgid "ROVehicle.TouchMessage"
+msgstr "Get in: "
+
+msgid "ROVehicleMessage.NotQualified"
+msgstr "Not Qualified To Operate This Vehicle"
+
+msgid "ROVehicleMessage.VehicleIsEnemy"
+msgstr "Cannot Use An Enemy Vehicle"
+
+msgid "ROVehicleMessage.CannotEnter"
+msgstr "Cannot Enter This Vehicle"
+
+msgid "ROVehicleWaitingMsg.WaitingForCrew"
+msgstr "Waiting for Additional Crewmembers"
+
+msgid "ROVehicleWeaponPawn.DriverHudName"
+msgstr "Driver"
+
+msgid "ROVoicePack.SupportString[0]"
+msgstr "We need help!"
+
+msgid "ROVoicePack.SupportString[1]"
+msgstr "Need help at"
+
+msgid "ROVoicePack.SupportString[2]"
+msgstr "I need ammo!"
+
+msgid "ROVoicePack.SupportString[3]"
+msgstr "Get a sniper over here!"
+
+msgid "ROVoicePack.SupportString[4]"
+msgstr "We need MG support!"
+
+msgid "ROVoicePack.SupportString[5]"
+msgstr "We need an AT Rifle!"
+
+msgid "ROVoicePack.SupportString[6]"
+msgstr "Someone blow this!"
+
+msgid "ROVoicePack.SupportString[7]"
+msgstr "We need a tank!"
+
+msgid "ROVoicePack.SupportString[8]"
+msgstr "Give us artillery!"
+
+msgid "ROVoicePack.SupportString[9]"
+msgstr "I need transport!"
+
+msgid "ROVoicePack.SupportAbbrev[0]"
+msgstr "Help needed"
+
+msgid "ROVoicePack.SupportAbbrev[1]"
+msgstr "Help needed at..."
+
+msgid "ROVoicePack.SupportAbbrev[2]"
+msgstr "Ammo needed"
+
+msgid "ROVoicePack.SupportAbbrev[3]"
+msgstr "Request sniper"
+
+msgid "ROVoicePack.SupportAbbrev[4]"
+msgstr "MG support needed"
+
+msgid "ROVoicePack.SupportAbbrev[5]"
+msgstr "Need an AT Rifle"
+
+msgid "ROVoicePack.SupportAbbrev[6]"
+msgstr "Request demolition"
+
+msgid "ROVoicePack.SupportAbbrev[7]"
+msgstr "Request tank"
+
+msgid "ROVoicePack.SupportAbbrev[8]"
+msgstr "Request artillery"
+
+msgid "ROVoicePack.SupportAbbrev[9]"
+msgstr "Request transport"
+
+msgid "ROVoicePack.SupportStringAxis[5]"
+msgstr "We need a Panzerfaust!"
+
+msgid "ROVoicePack.SupportAbbrevAxis[5]"
+msgstr "Need a Panzerfaust"
+
+msgid "ROVoicePack.EnemyString[0]"
+msgstr "Infantry spotted!"
+
+msgid "ROVoicePack.EnemyString[1]"
+msgstr "MG position!"
+
+msgid "ROVoicePack.EnemyString[2]"
+msgstr "Sniper!"
+
+msgid "ROVoicePack.EnemyString[3]"
+msgstr "Sapper!"
+
+msgid "ROVoicePack.EnemyString[4]"
+msgstr "Anti-tank soldiers!"
+
+msgid "ROVoicePack.EnemyString[5]"
+msgstr "Small vehicle!"
+
+msgid "ROVoicePack.EnemyString[6]"
+msgstr "Tank! Tank!"
+
+msgid "ROVoicePack.EnemyString[7]"
+msgstr "Heavy tank!"
+
+msgid "ROVoicePack.EnemyString[8]"
+msgstr "Artillery!"
+
+msgid "ROVoicePack.EnemyAbbrev[0]"
+msgstr "Infantry spotted"
+
+msgid "ROVoicePack.EnemyAbbrev[1]"
+msgstr "MG position"
+
+msgid "ROVoicePack.EnemyAbbrev[2]"
+msgstr "Sniper"
+
+msgid "ROVoicePack.EnemyAbbrev[3]"
+msgstr "Sapper"
+
+msgid "ROVoicePack.EnemyAbbrev[4]"
+msgstr "Anti-tank soldiers"
+
+msgid "ROVoicePack.EnemyAbbrev[5]"
+msgstr "Small vehicle"
+
+msgid "ROVoicePack.EnemyAbbrev[6]"
+msgstr "Tank"
+
+msgid "ROVoicePack.EnemyAbbrev[7]"
+msgstr "Heavy tank"
+
+msgid "ROVoicePack.EnemyAbbrev[8]"
+msgstr "Artillery"
+
+msgid "ROVoicePack.EnemyStringAxis[3]"
+msgstr "Pionier!"
+
+msgid "ROVoicePack.EnemyStringAxis[6]"
+msgstr "Achtung, panzer!"
+
+msgid "ROVoicePack.EnemyAbbrevAxis[3]"
+msgstr "Pioner"
+
+msgid "ROVoicePack.EnemyAbbrevAxis[6]"
+msgstr "Panzer"
+
+msgid "ROVoicePack.AlertString[0]"
+msgstr "Grenade!"
+
+msgid "ROVoicePack.AlertString[1]"
+msgstr "Go go go!"
+
+msgid "ROVoicePack.AlertString[2]"
+msgstr "Take cover!"
+
+msgid "ROVoicePack.AlertString[3]"
+msgstr "Stop!"
+
+msgid "ROVoicePack.AlertString[4]"
+msgstr "Follow me!"
+
+msgid "ROVoicePack.AlertString[5]"
+msgstr "Satchel planted!"
+
+msgid "ROVoicePack.AlertString[6]"
+msgstr "Covering fire!"
+
+msgid "ROVoicePack.AlertString[7]"
+msgstr "Friendly fire!"
+
+msgid "ROVoicePack.AlertString[8]"
+msgstr "Under attack at"
+
+msgid "ROVoicePack.AlertString[9]"
+msgstr "Retreat!"
+
+msgid "ROVoicePack.AlertAbbrev[0]"
+msgstr "Grenade"
+
+msgid "ROVoicePack.AlertAbbrev[1]"
+msgstr "Go go go"
+
+msgid "ROVoicePack.AlertAbbrev[2]"
+msgstr "Take cover"
+
+msgid "ROVoicePack.AlertAbbrev[3]"
+msgstr "Stop"
+
+msgid "ROVoicePack.AlertAbbrev[4]"
+msgstr "Follow me"
+
+msgid "ROVoicePack.AlertAbbrev[5]"
+msgstr "Satchel planted"
+
+msgid "ROVoicePack.AlertAbbrev[6]"
+msgstr "Covering fire"
+
+msgid "ROVoicePack.AlertAbbrev[7]"
+msgstr "Friendly fire"
+
+msgid "ROVoicePack.AlertAbbrev[8]"
+msgstr "Under attack at objective"
+
+msgid "ROVoicePack.AlertAbbrev[9]"
+msgstr "Retreat"
+
+msgid "ROVoicePack.VehicleDirectionString[0]"
+msgstr "Go to"
+
+msgid "ROVoicePack.VehicleDirectionString[1]"
+msgstr "Move forward"
+
+msgid "ROVoicePack.VehicleDirectionString[2]"
+msgstr "Stop"
+
+msgid "ROVoicePack.VehicleDirectionString[3]"
+msgstr "Move back"
+
+msgid "ROVoicePack.VehicleDirectionString[4]"
+msgstr "Go left"
+
+msgid "ROVoicePack.VehicleDirectionString[5]"
+msgstr "Go right"
+
+msgid "ROVoicePack.VehicleDirectionString[6]"
+msgstr "Forward 5 metres!"
+
+msgid "ROVoicePack.VehicleDirectionString[7]"
+msgstr "Back 5 metres!"
+
+msgid "ROVoicePack.VehicleDirectionString[8]"
+msgstr "Turn left a little!"
+
+msgid "ROVoicePack.VehicleDirectionString[9]"
+msgstr "Turn right a little!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[0]"
+msgstr "Go to..."
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[1]"
+msgstr "Move forward"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[2]"
+msgstr "Stop"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[3]"
+msgstr "Move back"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[4]"
+msgstr "Go left"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[5]"
+msgstr "Go right"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[6]"
+msgstr "Forward 5 metres"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[7]"
+msgstr "Back 5 metres"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[8]"
+msgstr "Turn left a little"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[9]"
+msgstr "Turn right a little"
+
+msgid "ROVoicePack.VehicleAlertString[0]"
+msgstr "Enemy in front!"
+
+msgid "ROVoicePack.VehicleAlertString[1]"
+msgstr "Enemy left flank!"
+
+msgid "ROVoicePack.VehicleAlertString[2]"
+msgstr "Enemy right flank!"
+
+msgid "ROVoicePack.VehicleAlertString[3]"
+msgstr "Enemy behind us!"
+
+msgid "ROVoicePack.VehicleAlertString[4]"
+msgstr "Enemy infantry close!"
+
+msgid "ROVoicePack.VehicleAlertString[5]"
+msgstr "Yes, sir!"
+
+msgid "ROVoicePack.VehicleAlertString[6]"
+msgstr "No, no!"
+
+msgid "ROVoicePack.VehicleAlertString[7]"
+msgstr "We're burning!"
+
+msgid "ROVoicePack.VehicleAlertString[8]"
+msgstr "Get out!"
+
+msgid "ROVoicePack.VehicleAlertString[9]"
+msgstr "Loaded."
+
+msgid "ROVoicePack.VehicleAlertAbbrev[0]"
+msgstr "Enemy in front"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[1]"
+msgstr "Enemy left flank"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[2]"
+msgstr "Enemy right flank"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[3]"
+msgstr "Enemy behind us"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[4]"
+msgstr "Enemy infantry close"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[5]"
+msgstr "Acknowledged"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[6]"
+msgstr "Negative"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[7]"
+msgstr "We're burning"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[8]"
+msgstr "Get out"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[9]"
+msgstr "Loaded"
+
+msgid "ROVoicePack.ExtraString[0]"
+msgstr "I will kill you!"
+
+msgid "ROVoicePack.ExtraString[1]"
+msgstr "No retreat!"
+
+msgid "ROVoicePack.ExtraString[2]"
+msgstr "*insult*"
+
+msgid "ROVoicePack.ExtraAbbrev[0]"
+msgstr "I will kill you"
+
+msgid "ROVoicePack.ExtraAbbrev[1]"
+msgstr "No retreat"
+
+msgid "ROVoicePack.ExtraAbbrev[2]"
+msgstr "Insult"
+
+msgid "ROVoicePack.AckString[0]"
+msgstr "Yes sir!"
+
+msgid "ROVoicePack.AckString[1]"
+msgstr "No, no!"
+
+msgid "ROVoicePack.AckString[2]"
+msgstr "Thanks"
+
+msgid "ROVoicePack.AckString[3]"
+msgstr "Sorry"
+
+msgid "ROVoicePack.AckAbbrev[0]"
+msgstr "Yes Sir"
+
+msgid "ROVoicePack.AckAbbrev[1]"
+msgstr "Negative"
+
+msgid "ROVoicePack.AckAbbrev[2]"
+msgstr "Thanks"
+
+msgid "ROVoicePack.AckAbbrev[3]"
+msgstr "Apologize"
+
+msgid "ROVoicePack.OrderString[0]"
+msgstr "Attack"
+
+msgid "ROVoicePack.OrderString[1]"
+msgstr "Defend"
+
+msgid "ROVoicePack.OrderString[2]"
+msgstr "Hold this position!"
+
+msgid "ROVoicePack.OrderString[3]"
+msgstr "Follow me!"
+
+msgid "ROVoicePack.OrderString[4]"
+msgstr "Attack at will!"
+
+msgid "ROVoicePack.OrderString[5]"
+msgstr "Retreat!"
+
+msgid "ROVoicePack.OrderString[6]"
+msgstr "Fire at will!"
+
+msgid "ROVoicePack.OrderString[7]"
+msgstr "Cease fire!"
+
+msgid "ROVoicePack.OrderAbbrev[0]"
+msgstr "Attack..."
+
+msgid "ROVoicePack.OrderAbbrev[1]"
+msgstr "Defend..."
+
+msgid "ROVoicePack.OrderAbbrev[2]"
+msgstr "Hold Position"
+
+msgid "ROVoicePack.OrderAbbrev[3]"
+msgstr "Follow Me"
+
+msgid "ROVoicePack.OrderAbbrev[4]"
+msgstr "Move out"
+
+msgid "ROVoicePack.OrderAbbrev[5]"
+msgstr "Retreat"
+
+msgid "ROVoicePack.OrderAbbrev[6]"
+msgstr "Engage"
+
+msgid "ROVoicePack.OrderAbbrev[7]"
+msgstr "Cease Fire"
+
+msgid "ROWeaponAttachment.MenuDescription"
+msgstr "Description unavailable."
+
+msgid "ROWeaponLostMessage.WeaponLostMessage"
+msgstr "Weapon Shot Out Of Your Hand!"
