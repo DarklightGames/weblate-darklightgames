@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-17 08:50+0000\n"
+"PO-Revision-Date: 2023-12-17 22:08+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/ru/>\n"
@@ -17,10 +17,10 @@ msgid "DHConstructionControlsMessage.Controls<2>.Text"
 msgstr "Вращать"
 
 msgid "DHConstruction_SupplyCache.MenuDescription"
-msgstr "Хранит и генерирует запасы с течением времени."
+msgstr "Хранит и накапливает припасы с течением времени."
 
 msgid "DHConstructionGroup_Debug.GroupName"
-msgstr "Отлаживать"
+msgstr "Отладка"
 
 msgid "DHConstruction_WoodFence.MenuName"
 msgstr "Деревянный Забор"
@@ -35,7 +35,7 @@ msgid "DHConstructionGroup_Obstacles.GroupName"
 msgstr "Препятствия"
 
 msgid "DHConstruction_VehiclePool.MenuName"
-msgstr "Точка возрождения для транспортных средств"
+msgstr "Точка возрождения техники"
 
 msgid "DHConstruction_Resupply_Players.MenuDescription"
 msgstr "Обеспечивает точку пополнения припасов для пехоты."
@@ -44,19 +44,19 @@ msgid "DHConstructionGroup_Logistics.GroupName"
 msgstr "Снабжение"
 
 msgid "DHConstruction_Watchtower.MenuName"
-msgstr "Сторожевая башня"
+msgstr "Наблюдательная вышка"
 
 msgid "DHConstruction_ConcertinaWire.MenuDescription"
 msgstr "Эффективна для блокирования пехоты и легкой техники."
 
 msgid "DHConstruction_SupplyCache.MenuName"
-msgstr "Тайник с припасами"
+msgstr "Склад снабжения"
 
 msgid "DHConstruction_PlatoonHQ.MenuName"
 msgstr "Штаб взвода"
 
 msgid "DHConstruction_VehiclePool.MenuDescription"
-msgstr "Обеспечивает точку появления транспортных средств для всей команды."
+msgstr "Обеспечивает точку появления техники для всей команды."
 
 msgid "DHConstructionGroup_Ammunition.GroupName"
 msgstr "Боеприпасы"
@@ -93,11 +93,11 @@ msgstr "Подтвердить"
 
 msgid "DHConstruction_PlatoonHQ.CustomErrorString"
 msgstr ""
-"Вы не можете построить {verb} здесь {name}, {string} вы должны находиться в "
-"пределах {integer}м от контролируемой территории."
+"Невозможно {verb} {name} вблизи {string}. Вы должны находиться в пределах "
+"{integer}м от контролируемой территории."
 
 msgid "DHCommandMenu_ConstructionGroup.RemainingText"
-msgstr "Оставшийся"
+msgstr "Осталось"
 
 msgid "DHConstruction_ConcertinaWire.MenuName"
 msgstr "Колючая проволока"
@@ -112,25 +112,25 @@ msgid "DHConstruction_DragonsTooth.MenuDescription"
 msgstr "Эффективны для блокирования любых видов техники."
 
 msgid "DHConstruction_Resupply_Vehicles.MenuName"
-msgstr "Ящик с боеприпасами (транспорт)"
+msgstr "Ящик с боеприпасами (техника)"
 
 msgid "DHConstructionControlsMessage.Controls<1>.Text"
 msgstr "Отмена"
 
 msgid "DHConstruction_Radio.MenuDescription"
-msgstr "Позволяет вызывать артиллерийскую поддержку."
+msgstr "Позволяет вызвать артиллерийскую поддержку."
 
 msgid "DHCommandMenu_ConstructionGroup.TeamLimitText"
-msgstr "Достигнут предел"
+msgstr "Достигнут лимит"
 
 msgid "DHCommandMenu_ConstructionGroup.NotAvailableText"
-msgstr "Нету в наличии"
+msgstr "Недоступно"
 
 msgid "DHConstruction_InventorySpawner.ConstructionVerb"
 msgstr "установить"
 
 msgid "DHConstruction_Resupply_Vehicles.MenuDescription"
-msgstr "Обеспечивает точку пополнения припасов транспортных средств и орудий."
+msgstr "Обеспечивает точку пополнения припасов техники и орудий."
 
 msgid "DHConstruction_PlatoonHQ.MenuDescription"
 msgstr "Обеспечивает точку появления для всей команды."
@@ -142,7 +142,7 @@ msgid "DHConstruction_MortarPit.MenuName"
 msgstr "Минометный окоп"
 
 msgid "DHConstruction_SupplyCache.ConstructionVerb"
-msgstr "установить"
+msgstr "поставить"
 
 msgid "DHCommandMenu_ConstructionGroup.BusyText"
-msgstr "Занят"
+msgstr "Занято"
