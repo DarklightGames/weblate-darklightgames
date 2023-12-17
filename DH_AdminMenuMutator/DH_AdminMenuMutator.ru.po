@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-16 13:28+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2023-12-17 22:08+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/ru/>\n"
 "Language: ru\n"
@@ -14,21 +14,19 @@ msgstr ""
 "X-Generator: Weblate 5.2.1\n"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmMatchLive"
-msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите обеспечить соответствие "
-"реализма в прямом эфире"
+msgstr "Нажмите Enter, чтобы подтвердить, ЗАПУСК игры в режиме реализма"
 
 msgid "DHAdminMenu_AdminMessages.EnterPrivateMessage"
 msgstr "Введите личное сообщение игроку, затем нажмите Enter."
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableCapProgress"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите включить индикатор "
-"выполнения ограничения на карте"
+"Нажмите Enter, чтобы подтвердить, что вы хотите ВКЛЮЧИТЬ индикатор захвата "
+"цели на карте"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableRealism"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите отключить режим реализма"
+"Нажмите Enter, чтобы подтвердить, что вы хотите ОТКЛЮЧИТЬ реалистичный режим"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAtObjective"
 msgstr ""
@@ -53,52 +51,51 @@ msgstr ""
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisablePlayerIcon"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите отключить значок "
+"Нажмите Enter, чтобы подтвердить, что вы хотите ОТКЛЮЧИТЬ значок "
 "местоположения игрока на карте"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableRealism"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите включить режим реализма"
+"Нажмите Enter, чтобы подтвердить, что вы хотите ВКЛЮЧИТЬ реалистичный режим"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnablePlayerIcon"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите включить значок "
+"Нажмите Enter, чтобы подтвердить, что вы хотите ВКЛЮЧИТЬ значок "
 "местоположения игрока на карте"
 
 msgid "DHAdminMenuMutator.Description"
 msgstr ""
 "Параметры экранного меню, позволяющие администратору лучше контролировать "
-"игроков, реалистичный матч или во время тестирования"
+"игроков, реалистичного матча или во время тестирования"
 
 msgid "DHAdminMenu_AdminMessages.EnterNewPlayerName"
 msgstr "Пожалуйста, введите новое имя для игрока, затем нажмите Enter."
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAlliesAtObjective"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите высадить всех Союзников к "
-"выбранной цели"
+"Нажмите Enter, чтобы подтвердить, что вы хотите высадить ВСЕ ВОЙСКА "
+"СОЮЗНИКОВ на выбранную цель"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAllAtObjective"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите выбросить всех игроков к "
-"выбранной цели"
+"Нажмите Enter, чтобы подтвердить, что вы хотите выбросить ВСЕХ ИГРОКОВ на "
+"выбранную цель"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableMines"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите отключить все минные поля"
+"Нажмите Enter, чтобы подтвердить, что вы хотите ОТКЛЮЧИТ все минные поля"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmKillAll"
-msgstr "Нажмите Enter, чтобы подтвердить, что вы хотите убить всех игроков"
+msgstr "Нажмите Enter, чтобы подтвердить, что вы хотите УБИТЬ ВСЕХ игроков"
 
 msgid "DHAdminMenu_AdminMessages.EnterGridLocation"
 msgstr ""
-"Пожалуйста, укажите местоположение сетки (пример: для сетки E2 клавиатуры 5 "
-"введите «E25»)"
+"Пожалуйста, уточните местоположение квадрата (пример: для квадрата E2 "
+"сектора 5 (по нумпаду) введите «E25»)"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableMines"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите повторно включить все минные "
-"поля"
+"Нажмите Enter, чтобы подтвердить, что вы хотите ВКЛЮЧИТЬ все минные поля"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmGagPlayer"
 msgstr ""
@@ -110,18 +107,18 @@ msgstr "Меню администратора"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAxisAtObjective"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите высадить все войска Оси к "
-"выбранной цели"
+"Нажмите Enter, чтобы подтвердить, что вы хотите высадить ВСЕ ВОЙСКА ОСИ на "
+"выбранную цель"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAtCurrentLocation"
 msgstr ""
 "Нажмите Enter, чтобы подтвердить, что вы хотите высадить этого игрока с "
-"парашюта к текущему местоположению"
+"парашюта к его текущему местоположению"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableCapProgress"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите отключить индикатор "
-"выполнения ограничения на карте"
+"Нажмите Enter, чтобы подтвердить, что вы хотите ОТКЛЮЧИТЬ индикатор захвата "
+"цели на карте"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAlliesRole"
 msgstr ""
@@ -130,21 +127,21 @@ msgstr ""
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[1]"
 msgstr ""
-"Чтобы использовать эту функцию, вы должны войти в систему как администратор "
-"(через консоль)"
+"Вы должны войти в систему как администратор (через консоль) что-бы "
+"использовать эту функцию"
 
 msgid "DHAdminMenu_AdminMessages.ToggleWeaponLockText"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите включить или выключить "
+"Нажмите Enter, чтобы подтвердить, что вы хотите включить/выключить "
 "блокировку оружия"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableRallyPoints"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите отключить размещение точек "
-"сбора"
+"Нажмите Enter, чтобы подтвердить, что вы хотите ОТКЛЮЧИТЬ возможность "
+"размещения точек сбора"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[4]"
-msgstr "Ошибка: имя игрока не указано"
+msgstr "ОШИБКА: имя игрока не указано"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[9]"
 msgstr ""
@@ -159,8 +156,8 @@ msgstr ""
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[14]"
 msgstr ""
 "ОШИБКА: невозможно выгнать ни одного игрока, так как на сервере нет "
-"необходимого актера AccessControl (обратите внимание, что это нормально в "
-"одиночной игре)"
+"необходимого субъекта AccessControl (обратите внимание, что это нормально "
+"для одиночной игры)"
 
 msgid "DHAdminMenu_MenuBase.Label_PreviousPage"
 msgstr "PgUp = предыдущая страница"
@@ -170,14 +167,14 @@ msgstr "ОШИБКА: не удалось найти цель %insert_name%"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[25]"
 msgstr ""
-"Этот игровой режим не позволяет выбирать точки выбора, поэтому вы не можете "
-"выбрать эту опцию"
+"Этот игровой режим не позволяет размещать точки сбора, поэтому вы не можете "
+"использовать эту опцию"
 
 msgid "DHAdminMenu_NotifyMessages.NotifyGag"
 msgstr "Администратор запретил вам общаться"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconEnabled"
-msgstr "Значки игроков на карте вновь включены администратором"
+msgstr "Иконки игроков на карте ВКЛЮЧЕНЫ администратором"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[22]"
 msgstr "ОШИБКА: неверные координаты сетки карты"
@@ -189,7 +186,7 @@ msgid "DHAdminMenu_PlayerActionsMenu.MenuText<7>"
 msgstr "Переключить игрока на роль войск Оси"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<14>"
-msgstr "Убейте всех игроков (завершите матч в режиме реализма)"
+msgstr "Убить всех игроков (завершите матч в режиме реализма)"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<21>"
 msgstr "Включить/выключить размещение точек сбора"
@@ -204,7 +201,7 @@ msgid "DHAdminMenu_NotifyMessages.NotifyKill"
 msgstr "Вы были повторно возрождены администратором"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressDisabled"
-msgstr "Захват индикаторов выполнения отключено администратором"
+msgstr "Индикатор захвата цели ОТКЛЮЧЕН администратором"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText<2>"
 msgstr "Отправить предупреждающее сообщение (со звуком)"
@@ -213,7 +210,7 @@ msgid "DHAdminMenu_PrivateMessage.MessageHeader"
 msgstr "Вы получили личное сообщение от администратора"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<3>"
-msgstr "Перейти к матчу реализма LIVE"
+msgstr "ЗАПУСТИТЬ матч в режиме реализма"
 
 msgid "DHAdminMenu_ServerMenu.MenuText<2>"
 msgstr "Переключить блокировку оружия"
@@ -224,7 +221,7 @@ msgstr ""
 "#bAdminCanPause#"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsDisabled"
-msgstr "Размещение точек возрождения отключено администратором"
+msgstr "Размещение точек сбора ОТКЛЮЧЕНО администратором"
 
 msgid "DHAdminMenu_PlayerMenu.Label_AimedPlayer"
 msgstr "[Игрок под прицелом]"
@@ -233,13 +230,13 @@ msgid "DHAdminMenu_RealismMenu.MenuText<11>"
 msgstr "Выключить/включить минные поля"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<17>"
-msgstr "Переключить, может ли администратор приостановить игру"
+msgstr "Переключить возможность администратора приостановить игру"
 
 msgid "DHAdminMenu_AdminMessages.EnterGameSpeed"
 msgstr "Пожалуйста, укажите новый множитель скорости игры (1 — нормальная)"
 
 msgid "DHAdminMenu_AdminMessages.EnterTimeRemaining"
-msgstr "Пожалуйста, укажите оставшееся время нового раунда (в минутах)"
+msgstr "Пожалуйста, укажите длительность нового раунда (в минутах)"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmToggleAdminCanPause"
 msgstr ""
@@ -248,11 +245,12 @@ msgstr ""
 
 msgid "DHAdminMenu_AdminMessages.DestroyActorInSights"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите уничтожить игрока в поле "
+"Нажмите Enter, чтобы подтвердить, что вы хотите УНИЧТОЖИТЬ субъект в поле "
 "зрения"
 
 msgid "DHAdminMenu_AdminMessages.ChangeAlliesSquadSize"
-msgstr "Укажите новый размер отряда Союзников(от 8 до 12 или 0 для сброса)"
+msgstr ""
+"Укажите новый размер отряда войск Союзников (от 8 до 12 или 0 для сброса)"
 
 msgid "DHAdminMenu_AdminMessages.ChangeAxisSquadSize"
 msgstr "Укажите новый размер отряда войск Оси (8 и 12 или 0 для сброса)"
@@ -262,22 +260,22 @@ msgstr "Пожалуйста, укажите новый пароль к игре
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableRallyPoints"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите включить размещение точек "
-"сбора"
+"Нажмите Enter, чтобы подтвердить, что вы хотите ВКЛЮЧИТЬ возможность "
+"размещения точек сбора"
 
 msgid "DHAdminMenu_DamageType.DeathString"
-msgstr "%o был повторно возрожден администратором"
+msgstr "%o был заново возрожден администратором"
 
 msgid "DHAdminMenu_ErrorMessages.MissingNameText"
-msgstr "<отсутствующее имя>"
+msgstr "<имя отсутствует>"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[2]"
 msgstr "На этом сервере запрещено выбрасывать игрока с парашютом"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[3]"
 msgstr ""
-"Мутатор соответствия реалистичности не загружен на сервер, поэтому вы не "
-"можете использовать эту опцию"
+"Мутатор реализма игры не загружен на сервер, поэтому вы не можете "
+"использовать эту опцию"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[5]"
 msgstr "ОШИБКА: не удалось найти игрока по имени «%insert_name%»"
@@ -319,8 +317,8 @@ msgstr "ОШИБКА: невозможно найти роль игрока %ins
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[21]"
 msgstr ""
-"ОШИБКА: не указан допустимый тип места перетаскивания (например, "
-"AtObjective, AtGrid или AtCurrentLocation)"
+"ОШИБКА: не указан допустимый тип места сброса (например, AtObjective, AtGrid "
+"или AtCurrentLocation)"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[23]"
 msgstr ""
@@ -328,7 +326,7 @@ msgstr ""
 "данными для входа администратора"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[24]"
-msgstr "Ни один игрок не найден в прицелах"
+msgstr "Ни один игрок не найден в поле зрения"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[26]"
 msgstr "Размещение точек сбора уже отключено"
@@ -352,16 +350,16 @@ msgid "DHAdminMenu_NotifyMessages.NotifySwitch"
 msgstr "Вы были переведены на новую роль или команду администратором"
 
 msgid "DHAdminMenu_NotifyMessages.NotifyParaDrop"
-msgstr "Вы были заброшены куда-то администратором"
+msgstr "Вы были куда-то десантированы администратором"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastMinesEnabled"
-msgstr "Все минные поля вновь включены администратором"
+msgstr "Все минные поля ВКЛЮЧЕНЫ администратором"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressEnabled"
-msgstr "Захват индикаторов выполнения повторно включено администратором"
+msgstr "Индикатор захвата цели ВКЛЮЧЕН администратором"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconDisabled"
-msgstr "Иконки игроков на карте отключены администратором"
+msgstr "Иконки игроков на карте ОТКЛЮЧЕНЫ администратором"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastKilledAllPlayers"
 msgstr "Все игроки были убиты администратором"
@@ -373,16 +371,16 @@ msgid "DHAdminMenu_NotifyMessages.BroadcastSetTimeRemaining"
 msgstr "Оставшееся время раунда изменено администратором"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastAlliesSquadSizeChanged"
-msgstr "Размер отрядов Союзников изменено администратором"
+msgstr "Размер отрядов войск Союзников изменен администратором"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastAxisSquadSizeChanged"
-msgstr "Размер отряда Оси был изменен администратором"
+msgstr "Размер отрядов войск Оси был изменен администратором"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsEnabled"
-msgstr "Размещение точек возрождения вновь включено администратором"
+msgstr "Размещение точек сбора ВКЛЮЧЕНО администратором"
 
 msgid "DHAdminMenu_ObjectivesMenu.MenuTitle"
-msgstr "МЕНЮ ВЫБОРА ОБЪЕКТОВ"
+msgstr "МЕНЮ ВЫБОРА ЦЕЛЕЙ"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText<0>"
 msgstr "Переименовать игрока"
@@ -406,52 +404,52 @@ msgid "DHAdminMenu_PlayerActionsMenu.MenuText<8>"
 msgstr "Выбросить игрока из парашюта возле цели"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText<10>"
-msgstr "Выбросить игрока з парашюта в текущем месте"
+msgstr "Выбросить игрока с парашюта в текущем месте"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText<9>"
-msgstr "Выбросить игрока з парашюта на сетку"
+msgstr "Выбросить игрока с парашюта в квадрат"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuTitle"
 msgstr "ДЕЙСТВИЯ ИГРОКА:"
 
 msgid "DHAdminMenu_PlayerMenu.Label_RealismMenu"
-msgstr "R = меню соответствия реализму (или тестирования)"
+msgstr "R = меню реалистичной игры (или тестирования)"
 
 msgid "DHAdminMenu_PlayerMenu.Label_ServerMenu"
 msgstr "M = меню сервера (общие настройки сервера)"
 
 msgid "DHAdminMenu_PlayerMenu.MenuTitle"
-msgstr "МЕНЮ АДМИНИСТРАТОРА ИГРОКА"
+msgstr "МЕНЮ ИГРОКА АДМИНИСТРАТОРА"
 
 msgid "DHAdminMenu_PrivateMessage.MessageChatPrefix"
-msgstr "Сообщение Администратора от"
+msgstr "СООБЩЕНИЕ АДМИНИСТРАТОРА от"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<1>"
-msgstr "Включить соответствие реализму"
+msgstr "Включить реалистичный матч"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<2>"
-msgstr "Отключить соответствие реализму"
+msgstr "Отключить реалистичный матч"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<4>"
-msgstr "Выбросить всех Союзников на цель"
+msgstr "Выбросить все войска Союзников на цель с парашютом"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<5>"
-msgstr "Выбросить все войска Оси на цель"
+msgstr "Выбросить все войска Оси на цель с парашютом"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<6>"
 msgstr "Выбросить всех игроков на цель из парашюта"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<7>"
-msgstr "Выбросить всех Союзников к сетке"
+msgstr "Выбросить с парашютом все войска Союзников в квадрате"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<8>"
-msgstr "Выбросить все войска Оси к сетке"
+msgstr "Выбросить с парашютом все войска Оси в квадрат"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<9>"
-msgstr "Высадить всех игроков у сетки"
+msgstr "Высадить с парашютом всех игроков в квадрат"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<12>"
-msgstr "Выключить/включить индикатор прогресса"
+msgstr "Выключить/включить индикатор захвата цели"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<13>"
 msgstr "Выключить/включить значок местоположения игрока"
@@ -460,25 +458,25 @@ msgid "DHAdminMenu_RealismMenu.MenuText<15>"
 msgstr "Установите новую скорость игры"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<16>"
-msgstr "Установите новое оставшееся время раунда (минуты)"
+msgstr "Установить новое оставшееся время раунда (минуты)"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<18>"
-msgstr "Уничтожьте игроков в вашем поле зрения"
+msgstr "Уничтожить субъект в вашем поле зрения"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<19>"
-msgstr "Изменить размер отряда Союзников"
+msgstr "Изменить размер отряда войск Союзников"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<20>"
 msgstr "Изменить размер отряда войск Оси"
 
 msgid "DHAdminMenu_RealismMenu.MenuTitle"
-msgstr "РЕАЛИЗМ МЕНЮ МАТЧА (ИЛИ ТЕСТИРОВАНИЯ)"
+msgstr "МЕНЮ РЕАЛИСТИЧНОГО МАТЧА (ИЛИ ТЕСТИРОВАНИЯ)"
 
 msgid "DHAdminMenu_RolesMenu.MenuTitle"
 msgstr "МЕНЮ ВЫБОРА РОЛИ"
 
 msgid "DHAdminMenu_ServerMenu.MenuText<1>"
-msgstr "Установите игровой пароль (оставьте пустым, чтобы удалить пароль)"
+msgstr "Установить игровой пароль (оставьте пустым, чтобы удалить пароль)"
 
 msgid "DHAdminMenu_ServerMenu.MenuTitle"
 msgstr "МЕНЮ СЕРВЕРА (ДЛЯ РАЗЛИЧНЫХ НАСТРОЕК)"
