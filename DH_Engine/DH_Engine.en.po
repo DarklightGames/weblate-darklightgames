@@ -263,6 +263,18 @@ msgstr "{name} has been cancelled."
 msgid "DHArtilleryMessage.ActiveTargetChosen"
 msgstr "Fire support target selected."
 
+msgid "DHArtillerySpottingScope.LeftString"
+msgstr "Left"
+
+msgid "DHArtillerySpottingScope.RightString"
+msgstr "Right"
+
+msgid "DHArtillerySpottingScope.CorrectionString"
+msgstr "Correction"
+
+msgid "DHArtillerySpottingScope.DistanceString"
+msgstr "Distance"
+
 msgid "DHArtillerySpottingScope.RangeHeaderString"
 msgstr "Range"
 
@@ -1795,6 +1807,12 @@ msgstr "%o was blown up by her own %w."
 
 msgid "DHThrowableExplosiveDamageType.MaleSuicide"
 msgstr "%o was blown up by his own %w."
+
+msgid "DHUnits.UnrealDistanceSymbol"
+msgstr "uu"
+
+msgid "DHUnits.MetersSymbol"
+msgstr "m"
 
 msgid "DHVehicle.VehicleNameString"
 msgstr "ADD VehicleNameString !!"

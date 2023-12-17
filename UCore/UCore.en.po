@@ -25,3 +25,15 @@ msgstr "Friday"
 
 msgid "DateTime.DayOfWeekNames[6]"
 msgstr "Saturday"
+
+msgid "UUnits.UnrealAngleSymbol"
+msgstr "u"
+
+msgid "UUnits.DegreesSymbol"
+msgstr "°"
+
+msgid "UUnits.MilsSymbol"
+msgstr "mils"
+
+msgid "UUnits.RadiansSymbol"
+msgstr "rad"
