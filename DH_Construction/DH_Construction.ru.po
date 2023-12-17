@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-16 13:28+0000\n"
+"PO-Revision-Date: 2023-12-17 08:50+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/ru/>\n"
@@ -47,7 +47,7 @@ msgid "DHConstruction_Watchtower.MenuName"
 msgstr "Сторожевая башня"
 
 msgid "DHConstruction_ConcertinaWire.MenuDescription"
-msgstr "Эффективна при блокировки пехоты и легкой техники."
+msgstr "Эффективна для блокирования пехоты и легкой техники."
 
 msgid "DHConstruction_SupplyCache.MenuName"
 msgstr "Тайник с припасами"
@@ -68,7 +68,7 @@ msgid "DHConstruction_Resupply_Players.MenuName"
 msgstr "Ящик с боеприпасами (пехота)"
 
 msgid "DHConstruction_Hedgehog.MenuName"
-msgstr "Противотанковый еж"
+msgstr "Противотанковый ёж"
 
 msgid "DHCameraWeapon.ItemName"
 msgstr "Камера"
@@ -77,7 +77,7 @@ msgid "DHConstruction_Sandbags_Crescent.MenuName"
 msgstr "Мешки с песком (Полукруг)"
 
 msgid "DHConstruction_Hedgehog.MenuDescription"
-msgstr "Эффективен для блокировки легкой и средней техники."
+msgstr "Эффективен для блокирования легкой и средней техники."
 
 msgid "DHConstruction_Foxhole.MenuName"
 msgstr "Одиночный окоп"
@@ -103,13 +103,13 @@ msgid "DHConstruction_ConcertinaWire.MenuName"
 msgstr "Колючая проволока"
 
 msgid "DHConstruction_DragonsTooth.MenuName"
-msgstr "Зубы дракона"
+msgstr "Драконьи зубы"
 
 msgid "DHConstruction_Radio.MenuName"
 msgstr "Радио"
 
 msgid "DHConstruction_DragonsTooth.MenuDescription"
-msgstr "Эффективна для блокировки всех видов техники."
+msgstr "Эффективны для блокирования любых видов техники."
 
 msgid "DHConstruction_Resupply_Vehicles.MenuName"
 msgstr "Ящик с боеприпасами (транспорт)"
