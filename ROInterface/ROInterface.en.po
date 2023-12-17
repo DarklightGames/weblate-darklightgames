@@ -1,0 +1,3423 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain\n"
+"Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
+
+msgid "ROCommunicationPage.Panels<0>.Caption"
+msgstr "Communication"
+
+msgid "ROCommunicationPage.Panels<0>.Hint"
+msgstr "Manage communication with other players"
+
+msgid "ROCommunicationPage.SPRulesPanel.Caption"
+msgstr "Rules"
+
+msgid "ROCommunicationPage.SPRulesPanel.Hint"
+msgstr "Game settings"
+
+msgid "ROCommunicationPage.CloseButton.Caption"
+msgstr "Close"
+
+msgid "ROCommunicationPage.CloseButton.Hint"
+msgstr "Close this window"
+
+msgid "ROCommunicationPage.ResetButton.Caption"
+msgstr "Reset"
+
+msgid "ROCommunicationPage.ResetButton.Hint"
+msgstr "Reset & reload all player chat restrictions"
+
+msgid "ROConsole.AllPlayersSquad"
+msgstr "All teammates"
+
+msgid "ROConsole.OwnSquad"
+msgstr "My Squad"
+
+msgid "ROConsole.SquadSuffix"
+msgstr "'s Squad"
+
+msgid "ROConsole.SMStateName[1]"
+msgstr "Support"
+
+msgid "ROConsole.SMStateName[3]"
+msgstr "Enemy Spotted"
+
+msgid "ROConsole.SMStateName[4]"
+msgstr "Alert"
+
+msgid "ROConsole.SMStateName[5]"
+msgstr "Vehicle Commands"
+
+msgid "ROConsole.SMStateName[6]"
+msgstr "Vehicle Alerts"
+
+msgid "ROConsole.SMStateName[7]"
+msgstr "Commands"
+
+msgid "ROConsole.SMStateName[8]"
+msgstr "Taunts"
+
+msgid "ROConsole.SMStateName[9]"
+msgstr "Attack..."
+
+msgid "ROConsole.SMStateName[10]"
+msgstr "Defend..."
+
+msgid "ROConsole.SMStateName[11]"
+msgstr "Go to..."
+
+msgid "ROConsole.SMStateName[12]"
+msgstr "Request Help At..."
+
+msgid "ROConsole.SMStateName[13]"
+msgstr "Under Attack At..."
+
+msgid "ROConsole.SMStateName[14]"
+msgstr "Select order recipient..."
+
+msgid "ROControlBinder.BindingLabel[0]"
+msgstr "Red Orchestra"
+
+msgid "ROControlBinder.BindingLabel[1]"
+msgstr "Sprint"
+
+msgid "ROControlBinder.BindingLabel[2]"
+msgstr "Reload"
+
+msgid "ROControlBinder.BindingLabel[3]"
+msgstr "Iron Sights"
+
+msgid "ROControlBinder.BindingLabel[4]"
+msgstr "Change Role"
+
+msgid "ROControlBinder.BindingLabel[5]"
+msgstr "Show / Hide Hud"
+
+msgid "ROControlBinder.BindingLabel[6]"
+msgstr "Prone"
+
+msgid "ROControlBinder.BindingLabel[7]"
+msgstr "Bayonet Attach / MG Deploy"
+
+msgid "ROControlBinder.BindingLabel[8]"
+msgstr "Change MG Barrel"
+
+msgid "ROControlBinder.BindingLabel[9]"
+msgstr "Show Objectives"
+
+msgid "ROControlBinder.BindingLabel[10]"
+msgstr "Change Scope Detail"
+
+msgid "ROControlBinder.BindingLabel[11]"
+msgstr "Change Side"
+
+msgid "ROControlBinder.BindingLabel[12]"
+msgstr "Use"
+
+msgid "ROControlBinder.BindingLabel[13]"
+msgstr "Switch Fire Mode"
+
+msgid "ROControlBinder.BindingLabel[14]"
+msgstr "ChangeWeapons"
+
+msgid "ROControlBinder.BindingLabel[15]"
+msgstr "MG Ammo Resupply"
+
+msgid "ROControlBinder.BindingLabel[16]"
+msgstr "Save Artillery Coordinates"
+
+msgid "ROControlBinder.BindingLabel[17]"
+msgstr "Movement"
+
+msgid "ROControlBinder.BindingLabel[18]"
+msgstr "Forward"
+
+msgid "ROControlBinder.BindingLabel[19]"
+msgstr "Backward"
+
+msgid "ROControlBinder.BindingLabel[20]"
+msgstr "Strafe Left"
+
+msgid "ROControlBinder.BindingLabel[21]"
+msgstr "Strafe Right"
+
+msgid "ROControlBinder.BindingLabel[22]"
+msgstr "Jump"
+
+msgid "ROControlBinder.BindingLabel[23]"
+msgstr "Walk"
+
+msgid "ROControlBinder.BindingLabel[24]"
+msgstr "ToggleCrouch"
+
+msgid "ROControlBinder.BindingLabel[25]"
+msgstr "Crouch"
+
+msgid "ROControlBinder.BindingLabel[26]"
+msgstr "Strafe Toggle"
+
+msgid "ROControlBinder.BindingLabel[27]"
+msgstr "Lean Left"
+
+msgid "ROControlBinder.BindingLabel[28]"
+msgstr "Lean Right"
+
+msgid "ROControlBinder.BindingLabel[29]"
+msgstr "Looking"
+
+msgid "ROControlBinder.BindingLabel[30]"
+msgstr "Turn Left"
+
+msgid "ROControlBinder.BindingLabel[31]"
+msgstr "Turn Right"
+
+msgid "ROControlBinder.BindingLabel[32]"
+msgstr "Look Up"
+
+msgid "ROControlBinder.BindingLabel[33]"
+msgstr "Look Down"
+
+msgid "ROControlBinder.BindingLabel[34]"
+msgstr "Center View"
+
+msgid "ROControlBinder.BindingLabel[35]"
+msgstr "Toggle "
+
+msgid "ROControlBinder.BindingLabel[36]"
+msgstr "Toggle Camera Mode"
+
+msgid "ROControlBinder.BindingLabel[37]"
+msgstr "Weapons"
+
+msgid "ROControlBinder.BindingLabel[38]"
+msgstr "Fire"
+
+msgid "ROControlBinder.BindingLabel[39]"
+msgstr "Alt-Fire"
+
+msgid "ROControlBinder.BindingLabel[40]"
+msgstr "Throw Weapon"
+
+msgid "ROControlBinder.BindingLabel[41]"
+msgstr "Best Weapon"
+
+msgid "ROControlBinder.BindingLabel[42]"
+msgstr "Next Weapon"
+
+msgid "ROControlBinder.BindingLabel[43]"
+msgstr "Prev Weapon"
+
+msgid "ROControlBinder.BindingLabel[44]"
+msgstr "Last Weapon"
+
+msgid "ROControlBinder.BindingLabel[45]"
+msgstr "Communication"
+
+msgid "ROControlBinder.BindingLabel[46]"
+msgstr "Say"
+
+msgid "ROControlBinder.BindingLabel[47]"
+msgstr "Team Say"
+
+msgid "ROControlBinder.BindingLabel[48]"
+msgstr "In Game Chat"
+
+msgid "ROControlBinder.BindingLabel[49]"
+msgstr "Speech Menu"
+
+msgid "ROControlBinder.BindingLabel[50]"
+msgstr "Activate Microphone"
+
+msgid "ROControlBinder.BindingLabel[51]"
+msgstr "Speak in Public Channel"
+
+msgid "ROControlBinder.BindingLabel[52]"
+msgstr "Speak in local Channel"
+
+msgid "ROControlBinder.BindingLabel[53]"
+msgstr "Speak in Team Channel"
+
+msgid "ROControlBinder.BindingLabel[54]"
+msgstr "Toggle Public Channel"
+
+msgid "ROControlBinder.BindingLabel[55]"
+msgstr "Toggle local Channel"
+
+msgid "ROControlBinder.BindingLabel[56]"
+msgstr "Toggle Team Channel"
+
+msgid "ROControlBinder.BindingLabel[57]"
+msgstr "Hud"
+
+msgid "ROControlBinder.BindingLabel[58]"
+msgstr "Grow Hud"
+
+msgid "ROControlBinder.BindingLabel[59]"
+msgstr "Shrink Hud"
+
+msgid "ROControlBinder.BindingLabel[60]"
+msgstr "ScoreBoard Toggle"
+
+msgid "ROControlBinder.BindingLabel[61]"
+msgstr "ScoreBoard"
+
+msgid "ROControlBinder.BindingLabel[62]"
+msgstr "Game"
+
+msgid "ROControlBinder.BindingLabel[63]"
+msgstr "Use"
+
+msgid "ROControlBinder.BindingLabel[64]"
+msgstr "Pause"
+
+msgid "ROControlBinder.BindingLabel[65]"
+msgstr "Screenshot"
+
+msgid "ROControlBinder.BindingLabel[72]"
+msgstr "Miscellaneous"
+
+msgid "ROControlBinder.BindingLabel[73]"
+msgstr "Menu"
+
+msgid "ROControlBinder.BindingLabel[74]"
+msgstr "Music Player"
+
+msgid "ROControlBinder.BindingLabel[75]"
+msgstr "Voting Menu"
+
+msgid "ROControlBinder.BindingLabel[76]"
+msgstr "Toggle Console"
+
+msgid "ROControlBinder.BindingLabel[77]"
+msgstr "View Connection Status"
+
+msgid "ROControlBinder.BindingLabel[78]"
+msgstr "Cancel Pending Connection"
+
+msgid "ROControlBinder.BindingLabel[79]"
+msgstr "Vehicle Communication"
+
+msgid "ROControlBinder.BindingLabel[80]"
+msgstr "Vehicle Say"
+
+msgid "ROCreditsPage.credits_lines[0]"
+msgstr "CREDITS"
+
+msgid "ROCreditsPage.credits_lines[1]"
+msgstr "For Tripwire Interactive LLC"
+
+msgid "ROCreditsPage.credits_lines[2]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[3]"
+msgstr "Tripwire Interactive"
+
+msgid "ROCreditsPage.credits_lines[4]"
+msgstr "President"
+
+msgid "ROCreditsPage.credits_lines[5]"
+msgstr "John Gibson"
+
+msgid "ROCreditsPage.credits_lines[6]"
+msgstr "Vice President"
+
+msgid "ROCreditsPage.credits_lines[7]"
+msgstr "Alan Wilson"
+
+msgid "ROCreditsPage.credits_lines[8]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[9]"
+msgstr "Game Design"
+
+msgid "ROCreditsPage.credits_lines[10]"
+msgstr "Ingmar Spit - Lead Designer & Lead Level Designer"
+
+msgid "ROCreditsPage.credits_lines[11]"
+msgstr "John Gibson - Lead Programmer & Producer"
+
+msgid "ROCreditsPage.credits_lines[12]"
+msgstr "Alan Wilson - Historian, Lead Researcher & PR"
+
+msgid "ROCreditsPage.credits_lines[13]"
+msgstr "William T Munk II - Art Director & Lead Animator"
+
+msgid "ROCreditsPage.credits_lines[14]"
+msgstr "David Hensley - Senior Artist"
+
+msgid "ROCreditsPage.credits_lines[15]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[16]"
+msgstr "Programming"
+
+msgid "ROCreditsPage.credits_lines[17]"
+msgstr "John Gibson"
+
+msgid "ROCreditsPage.credits_lines[18]"
+msgstr "Mathieu Mallet"
+
+msgid "ROCreditsPage.credits_lines[19]"
+msgstr "Justin Harvey "
+
+msgid "ROCreditsPage.credits_lines[20]"
+msgstr "Dayle Flowers"
+
+msgid "ROCreditsPage.credits_lines[21]"
+msgstr "Stephen Cooney"
+
+msgid "ROCreditsPage.credits_lines[22]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[23]"
+msgstr "Level Design"
+
+msgid "ROCreditsPage.credits_lines[24]"
+msgstr "Ingmar Spit"
+
+msgid "ROCreditsPage.credits_lines[25]"
+msgstr "Bruce Rennie"
+
+msgid "ROCreditsPage.credits_lines[26]"
+msgstr "Cass Cousins "
+
+msgid "ROCreditsPage.credits_lines[27]"
+msgstr "Colin Murphy "
+
+msgid "ROCreditsPage.credits_lines[28]"
+msgstr "Jim Mcleish "
+
+msgid "ROCreditsPage.credits_lines[29]"
+msgstr "Kenneth Reising "
+
+msgid "ROCreditsPage.credits_lines[30]"
+msgstr "Rich Black"
+
+msgid "ROCreditsPage.credits_lines[31]"
+msgstr "Robert Chudalla"
+
+msgid "ROCreditsPage.credits_lines[32]"
+msgstr "Andrew Boulton"
+
+msgid "ROCreditsPage.credits_lines[33]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[34]"
+msgstr "Art"
+
+msgid "ROCreditsPage.credits_lines[35]"
+msgstr "William T Munk II"
+
+msgid "ROCreditsPage.credits_lines[36]"
+msgstr "David Hensley"
+
+msgid "ROCreditsPage.credits_lines[37]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[38]"
+msgstr "Graphic Design"
+
+msgid "ROCreditsPage.credits_lines[39]"
+msgstr "Christopher Choi"
+
+msgid "ROCreditsPage.credits_lines[40]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[41]"
+msgstr "Interface Design"
+
+msgid "ROCreditsPage.credits_lines[42]"
+msgstr "Christopher Choi"
+
+msgid "ROCreditsPage.credits_lines[43]"
+msgstr "William T Munk II"
+
+msgid "ROCreditsPage.credits_lines[44]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[45]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[46]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[47]"
+msgstr "3D Artists"
+
+msgid "ROCreditsPage.credits_lines[48]"
+msgstr "William T Munk II"
+
+msgid "ROCreditsPage.credits_lines[49]"
+msgstr "David Hensley"
+
+msgid "ROCreditsPage.credits_lines[50]"
+msgstr "Ben Knapp - Lead Environmental Artist"
+
+msgid "ROCreditsPage.credits_lines[51]"
+msgstr "Wayne Williams"
+
+msgid "ROCreditsPage.credits_lines[52]"
+msgstr "Nikolas Sumnall"
+
+msgid "ROCreditsPage.credits_lines[53]"
+msgstr "Rob Dion"
+
+msgid "ROCreditsPage.credits_lines[54]"
+msgstr "Elie Hang"
+
+msgid "ROCreditsPage.credits_lines[55]"
+msgstr "Martin Behrend"
+
+msgid "ROCreditsPage.credits_lines[56]"
+msgstr "Anthony Barreras"
+
+msgid "ROCreditsPage.credits_lines[57]"
+msgstr "Matt Coutras "
+
+msgid "ROCreditsPage.credits_lines[58]"
+msgstr "Roy Thompson"
+
+msgid "ROCreditsPage.credits_lines[59]"
+msgstr "Ingmar Spit"
+
+msgid "ROCreditsPage.credits_lines[60]"
+msgstr "with"
+
+msgid "ROCreditsPage.credits_lines[61]"
+msgstr "Jonathan Shaw"
+
+msgid "ROCreditsPage.credits_lines[62]"
+msgstr "Dave Bryce"
+
+msgid "ROCreditsPage.credits_lines[63]"
+msgstr "Serguei Kalentchouk"
+
+msgid "ROCreditsPage.credits_lines[64]"
+msgstr "Eitan Kadouri"
+
+msgid "ROCreditsPage.credits_lines[65]"
+msgstr "Jason Lavoie"
+
+msgid "ROCreditsPage.credits_lines[66]"
+msgstr "Noah Calab"
+
+msgid "ROCreditsPage.credits_lines[67]"
+msgstr "Max Bagdasarov"
+
+msgid "ROCreditsPage.credits_lines[68]"
+msgstr "Joe LaCroix"
+
+msgid "ROCreditsPage.credits_lines[69]"
+msgstr "Dean Barrowcliff"
+
+msgid "ROCreditsPage.credits_lines[70]"
+msgstr "Joel Heethaar"
+
+msgid "ROCreditsPage.credits_lines[71]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[72]"
+msgstr "Texture Artists"
+
+msgid "ROCreditsPage.credits_lines[73]"
+msgstr "George Baker - Character Artist"
+
+msgid "ROCreditsPage.credits_lines[74]"
+msgstr "Martin Behrend - Vehicle Artist"
+
+msgid "ROCreditsPage.credits_lines[75]"
+msgstr "Ben Knapp"
+
+msgid "ROCreditsPage.credits_lines[76]"
+msgstr "Elie Hang"
+
+msgid "ROCreditsPage.credits_lines[77]"
+msgstr "Leland Scali"
+
+msgid "ROCreditsPage.credits_lines[78]"
+msgstr "Rob Dion"
+
+msgid "ROCreditsPage.credits_lines[79]"
+msgstr "David Hensley"
+
+msgid "ROCreditsPage.credits_lines[80]"
+msgstr "Ingmar Spit"
+
+msgid "ROCreditsPage.credits_lines[81]"
+msgstr "with"
+
+msgid "ROCreditsPage.credits_lines[82]"
+msgstr "Noah Calab"
+
+msgid "ROCreditsPage.credits_lines[83]"
+msgstr "Anthony Barreras"
+
+msgid "ROCreditsPage.credits_lines[84]"
+msgstr "Zach Shertz"
+
+msgid "ROCreditsPage.credits_lines[85]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[86]"
+msgstr "Animation"
+
+msgid "ROCreditsPage.credits_lines[87]"
+msgstr "William T Munk II "
+
+msgid "ROCreditsPage.credits_lines[88]"
+msgstr "Nikolas Sumnall"
+
+msgid "ROCreditsPage.credits_lines[89]"
+msgstr "Justin Knapich"
+
+msgid "ROCreditsPage.credits_lines[90]"
+msgstr "Andy Hood"
+
+msgid "ROCreditsPage.credits_lines[91]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[92]"
+msgstr "FX Artists"
+
+msgid "ROCreditsPage.credits_lines[93]"
+msgstr "David Hensley"
+
+msgid "ROCreditsPage.credits_lines[94]"
+msgstr "Martin Behrend"
+
+msgid "ROCreditsPage.credits_lines[95]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[96]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[97]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[98]"
+msgstr "Sound Design"
+
+msgid "ROCreditsPage.credits_lines[99]"
+msgstr "Andreas Almström - Lead Sound Artist "
+
+msgid "ROCreditsPage.credits_lines[100]"
+msgstr "Jens Nilsson"
+
+msgid "ROCreditsPage.credits_lines[101]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[102]"
+msgstr "Music"
+
+msgid "ROCreditsPage.credits_lines[103]"
+msgstr "Matthew Burns "
+
+msgid "ROCreditsPage.credits_lines[104]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[105]"
+msgstr "Voice Acting"
+
+msgid "ROCreditsPage.credits_lines[106]"
+msgstr "Michael Kammerhofer"
+
+msgid "ROCreditsPage.credits_lines[107]"
+msgstr "Alexander Mugrauer"
+
+msgid "ROCreditsPage.credits_lines[108]"
+msgstr "Dimitri Kondelchuk"
+
+msgid "ROCreditsPage.credits_lines[109]"
+msgstr "Evgeny Novikov"
+
+msgid "ROCreditsPage.credits_lines[110]"
+msgstr "Micha Safonov"
+
+msgid "ROCreditsPage.credits_lines[111]"
+msgstr "Evgenij Safonov"
+
+msgid "ROCreditsPage.credits_lines[112]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[113]"
+msgstr "Legal"
+
+msgid "ROCreditsPage.credits_lines[114]"
+msgstr "Tom Buscaglia - 'The Game Attorney'"
+
+msgid "ROCreditsPage.credits_lines[115]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[116]"
+msgstr "Historian and PR"
+
+msgid "ROCreditsPage.credits_lines[117]"
+msgstr "Alan Wilson"
+
+msgid "ROCreditsPage.credits_lines[118]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[119]"
+msgstr "PR Assistance"
+
+msgid "ROCreditsPage.credits_lines[120]"
+msgstr "Martin Brindley, MCC International"
+
+msgid "ROCreditsPage.credits_lines[121]"
+msgstr "Jared Creasy"
+
+msgid "ROCreditsPage.credits_lines[122]"
+msgstr "Gemma Rees, MCC International"
+
+msgid "ROCreditsPage.credits_lines[123]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[124]"
+msgstr "Research Materials and Sources"
+
+msgid "ROCreditsPage.credits_lines[125]"
+msgstr "Alexei Michailovich Vassilevsky - Russian State Library and Archives"
+
+msgid "ROCreditsPage.credits_lines[126]"
+msgstr "David Michael Honner - 'Guns vs Armor'"
+
+msgid "ROCreditsPage.credits_lines[127]"
+msgstr "Mike Kendall - 'AFV Interiors' magazine"
+
+msgid "ROCreditsPage.credits_lines[128]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[129]"
+msgstr "The Archive and Reference Library at the Tank Museum, Bovington:"
+
+msgid "ROCreditsPage.credits_lines[130]"
+msgstr "David Fletcher"
+
+msgid "ROCreditsPage.credits_lines[131]"
+msgstr "Janice Tait"
+
+msgid "ROCreditsPage.credits_lines[132]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[133]"
+msgstr "The Tank Museum, Bovington"
+
+msgid "ROCreditsPage.credits_lines[134]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[135]"
+msgstr "Föreningen P5 ['The P5 Association' of Sweden]"
+
+msgid "ROCreditsPage.credits_lines[136]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[137]"
+msgstr "Research"
+
+msgid "ROCreditsPage.credits_lines[138]"
+msgstr "Alan Wilson"
+
+msgid "ROCreditsPage.credits_lines[139]"
+msgstr "Ingmar Spit"
+
+msgid "ROCreditsPage.credits_lines[140]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[141]"
+msgstr "IT Director"
+
+msgid "ROCreditsPage.credits_lines[142]"
+msgstr "Christian Schneider"
+
+msgid "ROCreditsPage.credits_lines[143]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[144]"
+msgstr "Lead Tester"
+
+msgid "ROCreditsPage.credits_lines[145]"
+msgstr "Jay Mattingly"
+
+msgid "ROCreditsPage.credits_lines[146]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[147]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[148]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[149]"
+msgstr "Testers"
+
+msgid "ROCreditsPage.credits_lines[150]"
+msgstr "Angus Meudell"
+
+msgid "ROCreditsPage.credits_lines[151]"
+msgstr "Anthony Easton"
+
+msgid "ROCreditsPage.credits_lines[152]"
+msgstr "Anthony Wysoskey"
+
+msgid "ROCreditsPage.credits_lines[153]"
+msgstr "Archie Young"
+
+msgid "ROCreditsPage.credits_lines[154]"
+msgstr "Ben Hewitt"
+
+msgid "ROCreditsPage.credits_lines[155]"
+msgstr "Bill Evans"
+
+msgid "ROCreditsPage.credits_lines[156]"
+msgstr "Björn Svedberg"
+
+msgid "ROCreditsPage.credits_lines[157]"
+msgstr "Chris Hill"
+
+msgid "ROCreditsPage.credits_lines[158]"
+msgstr "Chris van Raadshooven"
+
+msgid "ROCreditsPage.credits_lines[159]"
+msgstr "Daniel Levin"
+
+msgid "ROCreditsPage.credits_lines[160]"
+msgstr "Eric Chambers"
+
+msgid "ROCreditsPage.credits_lines[161]"
+msgstr "Gregory Ecker"
+
+msgid "ROCreditsPage.credits_lines[162]"
+msgstr "Jeremy Walker "
+
+msgid "ROCreditsPage.credits_lines[163]"
+msgstr "Julien Maurel"
+
+msgid "ROCreditsPage.credits_lines[164]"
+msgstr "Justin Coquillon"
+
+msgid "ROCreditsPage.credits_lines[165]"
+msgstr "Kenny A.J Campbell"
+
+msgid "ROCreditsPage.credits_lines[166]"
+msgstr "Larry Shaw"
+
+msgid "ROCreditsPage.credits_lines[167]"
+msgstr "Luke Coco"
+
+msgid "ROCreditsPage.credits_lines[168]"
+msgstr "Mark Jansen"
+
+msgid "ROCreditsPage.credits_lines[169]"
+msgstr "Mark Rossmore"
+
+msgid "ROCreditsPage.credits_lines[170]"
+msgstr "Matt Henry"
+
+msgid "ROCreditsPage.credits_lines[171]"
+msgstr "Michael Levin"
+
+msgid "ROCreditsPage.credits_lines[172]"
+msgstr "Mikkel Sigismund"
+
+msgid "ROCreditsPage.credits_lines[173]"
+msgstr "Paul Styrczula"
+
+msgid "ROCreditsPage.credits_lines[174]"
+msgstr "Randy Buccafusca"
+
+msgid "ROCreditsPage.credits_lines[175]"
+msgstr "Scott Campbell"
+
+msgid "ROCreditsPage.credits_lines[176]"
+msgstr "Steven Weller"
+
+msgid "ROCreditsPage.credits_lines[177]"
+msgstr "Todd Fuchs"
+
+msgid "ROCreditsPage.credits_lines[178]"
+msgstr "Trevor Moore"
+
+msgid "ROCreditsPage.credits_lines[179]"
+msgstr "Wyatt Moadus"
+
+msgid "ROCreditsPage.credits_lines[180]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[181]"
+msgstr "With"
+
+msgid "ROCreditsPage.credits_lines[182]"
+msgstr "Chris Moore"
+
+msgid "ROCreditsPage.credits_lines[183]"
+msgstr "Chris Murray"
+
+msgid "ROCreditsPage.credits_lines[184]"
+msgstr "Daniel Moadus"
+
+msgid "ROCreditsPage.credits_lines[185]"
+msgstr "Megan Bacchus"
+
+msgid "ROCreditsPage.credits_lines[186]"
+msgstr "Paul Jolley"
+
+msgid "ROCreditsPage.credits_lines[187]"
+msgstr "Peter Paul Nijenhuis"
+
+msgid "ROCreditsPage.credits_lines[188]"
+msgstr "Ryan Plas"
+
+msgid "ROCreditsPage.credits_lines[189]"
+msgstr "Tiana Bragg"
+
+msgid "ROCreditsPage.credits_lines[190]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[191]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[192]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[193]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[194]"
+msgstr "Special Thanks"
+
+msgid "ROCreditsPage.credits_lines[195]"
+msgstr "William Munk I"
+
+msgid "ROCreditsPage.credits_lines[196]"
+msgstr "Paulette Munsell"
+
+msgid "ROCreditsPage.credits_lines[197]"
+msgstr "Jim Munsell"
+
+msgid "ROCreditsPage.credits_lines[198]"
+msgstr "Jessica Gibson"
+
+msgid "ROCreditsPage.credits_lines[199]"
+msgstr "Astrid Spit-Steur"
+
+msgid "ROCreditsPage.credits_lines[200]"
+msgstr "Moira Wilson"
+
+msgid "ROCreditsPage.credits_lines[201]"
+msgstr "Tom O'Kelly"
+
+msgid "ROCreditsPage.credits_lines[202]"
+msgstr "Nick Sales"
+
+msgid "ROCreditsPage.credits_lines[203]"
+msgstr "Evyn Shuley"
+
+msgid "ROCreditsPage.credits_lines[204]"
+msgstr "Jared Creasy"
+
+msgid "ROCreditsPage.credits_lines[205]"
+msgstr "Jay Mattingly "
+
+msgid "ROCreditsPage.credits_lines[206]"
+msgstr "Justin Coquillon "
+
+msgid "ROCreditsPage.credits_lines[207]"
+msgstr "Tobbe Åhlen"
+
+msgid "ROCreditsPage.credits_lines[208]"
+msgstr "Julie Miller"
+
+msgid "ROCreditsPage.credits_lines[209]"
+msgstr "Christopher Phillips"
+
+msgid "ROCreditsPage.credits_lines[210]"
+msgstr "Juliegh DeCarlo"
+
+msgid "ROCreditsPage.credits_lines[211]"
+msgstr "Mayang's Free Textures"
+
+msgid "ROCreditsPage.credits_lines[212]"
+msgstr "Detonation Films"
+
+msgid "ROCreditsPage.credits_lines[213]"
+msgstr "Col David M Glantz"
+
+msgid "ROCreditsPage.credits_lines[214]"
+msgstr "George Nipe Jr"
+
+msgid "ROCreditsPage.credits_lines[215]"
+msgstr "Dan Nyberg"
+
+msgid "ROCreditsPage.credits_lines[216]"
+msgstr "Katarina Nilsson"
+
+msgid "ROCreditsPage.credits_lines[217]"
+msgstr "The Swedish Armed Forces"
+
+msgid "ROCreditsPage.credits_lines[218]"
+msgstr "James Fitzpatrick"
+
+msgid "ROCreditsPage.credits_lines[219]"
+msgstr "Ryan Johnquest"
+
+msgid "ROCreditsPage.credits_lines[220]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[221]"
+msgstr "And a special thanks also goes to all the family and friends who have helped us out. Without their support, encouragement and understanding either Red Orchestra would never have been built, or there would be a few of us divorced!"
+
+msgid "ROCreditsPage.credits_lines[222]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[223]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[224]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[225]"
+msgstr "For Valve"
+
+msgid "ROCreditsPage.credits_lines[226]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[227]"
+msgstr "And a huge thanks to everyone at Valve who helped us. There are more individuals at Valve who worked on the Steam integration and the PR than even we know, so we won't list them all. Without Valve's vision in setting up Steam - and signing Red Orchestra - this game might well be a very different proposition."
+
+msgid "ROCreditsPage.credits_lines[228]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[229]"
+msgstr "Our heartfelt thanks from all at Tripwire Interactive."
+
+msgid "ROCreditsPage.credits_lines[230]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[231]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[232]"
+msgstr "For Epic, Nvidia, Atari and the sponsors of the MSU"
+
+msgid "ROCreditsPage.credits_lines[233]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[234]"
+msgstr "Just as with Valve, we can't pass by without thanking all those who made the MSU contest a possibility. This includes Nvidia, as the 'named' sponsor, plus all those who supported the contest. Of course, Epic deserve thanks both as sponsors and for their assistance following on from the contest - as well as for producing the Unreal Engine that has made all this possible. We also owe Nvidia a debt of gratitude for their assistance at GDC and E3 during 2005. Once again - thanks from all at Tripwire Interactive."
+
+msgid "ROCreditsPage.credits_lines[235]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[236]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[237]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[238]"
+msgstr "For Destineer"
+
+msgid "ROCreditsPage.credits_lines[239]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[240]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[241]"
+msgstr "CEO: Paul Rinde"
+
+msgid "ROCreditsPage.credits_lines[242]"
+msgstr "President: Peter Tamte"
+
+msgid "ROCreditsPage.credits_lines[243]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[244]"
+msgstr "Vice President of Sales: Scott Addyman"
+
+msgid "ROCreditsPage.credits_lines[245]"
+msgstr "Director, Licensing & Acquisitions & Senior Producer: Roger Arias"
+
+msgid "ROCreditsPage.credits_lines[246]"
+msgstr "Director of Operations: Al Schilling"
+
+msgid "ROCreditsPage.credits_lines[247]"
+msgstr "Marketing Manager: Cindy Swanson"
+
+msgid "ROCreditsPage.credits_lines[248]"
+msgstr "Public Relations: Steve Charbonneau"
+
+msgid "ROCreditsPage.credits_lines[249]"
+msgstr "Graphic Design: David Stengel"
+
+msgid "ROCreditsPage.credits_lines[250]"
+msgstr "Jack Wilcox"
+
+msgid "ROCreditsPage.credits_lines[251]"
+msgstr "Terry Stoeger"
+
+msgid "ROCreditsPage.credits_lines[252]"
+msgstr "Quality Assurance: Jim Wroblewski"
+
+msgid "ROCreditsPage.credits_lines[253]"
+msgstr "Greg Stutsman"
+
+msgid "ROCreditsPage.credits_lines[254]"
+msgstr "Paul Murphy"
+
+msgid "ROCreditsPage.credits_lines[255]"
+msgstr "James Robrahn"
+
+msgid "ROCreditsPage.credits_lines[256]"
+msgstr "Bob Strenger"
+
+msgid "ROCreditsPage.credits_lines[257]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[258]"
+msgstr "Technical Support Manager: Greg Grimes"
+
+msgid "ROCreditsPage.credits_lines[259]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[260]"
+msgstr "Aphabetas.com and the Marsoc Testers:"
+
+msgid "ROCreditsPage.credits_lines[261]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[262]"
+msgstr "Mike 'HiSpeed' Speelman "
+
+msgid "ROCreditsPage.credits_lines[263]"
+msgstr "Devin 'Theopolis' Kass"
+
+msgid "ROCreditsPage.credits_lines[264]"
+msgstr "Jason 'Jay' Clark"
+
+msgid "ROCreditsPage.credits_lines[265]"
+msgstr "Mark 'Johnnie Flash' Kupfer"
+
+msgid "ROCreditsPage.credits_lines[266]"
+msgstr "Milo 'Neko' Grika"
+
+msgid "ROCreditsPage.credits_lines[267]"
+msgstr "Erick 'AlphaBetasRocks!' Frich"
+
+msgid "ROCreditsPage.credits_lines[268]"
+msgstr "Dwight 'AlphaBetas.com' Ludvigson"
+
+msgid "ROCreditsPage.credits_lines[269]"
+msgstr "Mike 'YellowLesPaul' Torok"
+
+msgid "ROCreditsPage.credits_lines[270]"
+msgstr "Bill 'Ghost' Holmberg"
+
+msgid "ROCreditsPage.credits_lines[271]"
+msgstr "Mitchell 'Knuckles' Holmberg"
+
+msgid "ROCreditsPage.credits_lines[272]"
+msgstr "Nick 'Rowan' Holmberg"
+
+msgid "ROCreditsPage.credits_lines[273]"
+msgstr "Joseph 'Fish' Lang"
+
+msgid "ROCreditsPage.credits_lines[274]"
+msgstr "Roy 'KillZone' McLaughlin"
+
+msgid "ROCreditsPage.credits_lines[275]"
+msgstr "Doug 'Greywolf' Hickerson"
+
+msgid "ROCreditsPage.credits_lines[276]"
+msgstr "Paul 'Tulf' Aguilar"
+
+msgid "ROCreditsPage.credits_lines[277]"
+msgstr "Leon 'Rico' Materic"
+
+msgid "ROCreditsPage.credits_lines[278]"
+msgstr "Jerry 'Buzz' Forsha"
+
+msgid "ROCreditsPage.credits_lines[279]"
+msgstr "Dave 'Dave' Roth"
+
+msgid "ROCreditsPage.credits_lines[280]"
+msgstr "Andy 'Col. Kurtz' Binks"
+
+msgid "ROCreditsPage.credits_lines[281]"
+msgstr "Steven 'Nutter' Binks"
+
+msgid "ROCreditsPage.credits_lines[282]"
+msgstr "David 'David' Chea"
+
+msgid "ROCreditsPage.credits_lines[283]"
+msgstr "Luis 'Cpl. Candy' Baretto"
+
+msgid "ROCreditsPage.credits_lines[284]"
+msgstr "Manuel 'Rage' Rottele"
+
+msgid "ROCreditsPage.credits_lines[285]"
+msgstr "Thomas 'Gearson' Marschall"
+
+msgid "ROCreditsPage.credits_lines[286]"
+msgstr "Lloyd 'Killspree' Wood"
+
+msgid "ROCreditsPage.credits_lines[287]"
+msgstr "Bill 'Popeye' Shauf"
+
+msgid "ROCreditsPage.credits_lines[288]"
+msgstr "Will 'Will42' Smallwood"
+
+msgid "ROCreditsPage.credits_lines[289]"
+msgstr "Alfredo 'Guacachile' Narvaez"
+
+msgid "ROCreditsPage.credits_lines[290]"
+msgstr "Joseph 'Rickster' Johnson"
+
+msgid "ROCreditsPage.credits_lines[291]"
+msgstr "Michael 'Beechnut' Russell"
+
+msgid "ROCreditsPage.credits_lines[292]"
+msgstr "Joe 'Raiste' Stevens"
+
+msgid "ROCreditsPage.credits_lines[293]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[294]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[295]"
+msgstr "And finally..."
+
+msgid "ROCreditsPage.credits_lines[296]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[297]"
+msgstr "There is one other group of people that deserve recognition for all this. That is the large group of people who contributed to the creation of the original Red Orchestra mod. Many of those have gone on to their own jobs in the games industry or are still involved in leading positions in the modding scene. Others have simply dropped out of the whole scene. While we may have lost track of some over the last couple of years, to borrow a famous phrase from Russian: 'no-one is forgotten; nothing is forgotten'. Here we'll list all those not mentioned elsewhere, as our way of wishing everyone the very best of luck - and the hope that you'll go on using those skills!"
+
+msgid "ROCreditsPage.credits_lines[298]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[299]"
+msgstr "Adam Hatch"
+
+msgid "ROCreditsPage.credits_lines[300]"
+msgstr "Albert van Rennes"
+
+msgid "ROCreditsPage.credits_lines[301]"
+msgstr "Ankalar"
+
+msgid "ROCreditsPage.credits_lines[302]"
+msgstr "Bobby Stein"
+
+msgid "ROCreditsPage.credits_lines[303]"
+msgstr "Chad Barnsdale"
+
+msgid "ROCreditsPage.credits_lines[304]"
+msgstr "Dan Grafstrom"
+
+msgid "ROCreditsPage.credits_lines[305]"
+msgstr "Dana Rink"
+
+msgid "ROCreditsPage.credits_lines[306]"
+msgstr "Dicer"
+
+msgid "ROCreditsPage.credits_lines[307]"
+msgstr "Erik Christensen"
+
+msgid "ROCreditsPage.credits_lines[308]"
+msgstr "Howard Cheung"
+
+msgid "ROCreditsPage.credits_lines[309]"
+msgstr "Jason Mohr"
+
+msgid "ROCreditsPage.credits_lines[310]"
+msgstr "Jay Nakai"
+
+msgid "ROCreditsPage.credits_lines[311]"
+msgstr "Jeremy Blum"
+
+msgid "ROCreditsPage.credits_lines[312]"
+msgstr "Justin Lee"
+
+msgid "ROCreditsPage.credits_lines[313]"
+msgstr "LimiT"
+
+msgid "ROCreditsPage.credits_lines[314]"
+msgstr "Matt Hallock"
+
+msgid "ROCreditsPage.credits_lines[315]"
+msgstr "Matthew Stock"
+
+msgid "ROCreditsPage.credits_lines[316]"
+msgstr "Phobos"
+
+msgid "ROCreditsPage.credits_lines[317]"
+msgstr "Richard Jessup"
+
+msgid "ROCreditsPage.credits_lines[318]"
+msgstr "Ripa"
+
+msgid "ROCreditsPage.credits_lines[319]"
+msgstr "Ronald Chow"
+
+msgid "ROCreditsPage.credits_lines[320]"
+msgstr "Steven"
+
+msgid "ROCreditsPage.credits_lines[321]"
+msgstr "The-Jackal"
+
+msgid "ROCreditsPage.credits_lines[322]"
+msgstr "Tim Crowley"
+
+msgid "ROCreditsPage.credits_lines[323]"
+msgstr "Tntsnipe"
+
+msgid "ROCreditsPage.credits_lines[324]"
+msgstr "TommyD"
+
+msgid "ROCreditsPage.credits_lines[325]"
+msgstr "Zach Shertz"
+
+msgid "ROCreditsPage.credits_lines[326]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[327]"
+msgstr " "
+
+msgid "ROCreditsPage.credits_lines[328]"
+msgstr "Additional Sounds"
+
+msgid "ROCreditsPage.credits_lines[329]"
+msgstr "The Freesound Project"
+
+msgid "ROCreditsPage.credits_lines[330]"
+msgstr " "
+
+msgid "ROCreditsPage.WindowName"
+msgstr "Credits"
+
+msgid "ROCreditsPage.CloseButton.Caption"
+msgstr "Close"
+
+msgid "RODemosMenu.ltScoreLimit"
+msgstr "Score Limit:"
+
+msgid "RODemosMenu.ltTimeLimit"
+msgstr "Time Limit:"
+
+msgid "RODemosMenu.UnknownText"
+msgstr "Unknown"
+
+msgid "RODemosMenu.CorruptDemText"
+msgstr "Corrupted or missing .DEMO4 file !"
+
+msgid "RODemosMenu.ltSelectMsg"
+msgstr "Please select a demo from the list to the left."
+
+msgid "RODemosMenu.ltClientSide"
+msgstr "Client Side Demo"
+
+msgid "RODemosMenu.ltServerSide"
+msgstr "Server Side/Single Player Demo"
+
+msgid "RODemosMenu.ltRecordedBy"
+msgstr "Recorded By:"
+
+msgid "RODemosMenu.ltGoodMsg"
+msgstr "All of the packages required for this demo are installed"
+
+msgid "RODemosMenu.ltBadMsg"
+msgstr "In order to be played, this demo requires the packages listed below.  If you are connected to the Internet, they will be autodownloaded when the demo is played||::Required Packages::"
+
+msgid "RODemosMenu.WindowName"
+msgstr "Demo Management"
+
+msgid "RODemosMenu.BB2.Caption"
+msgstr "Close"
+
+msgid "RODemosMenu.BB2.Hint"
+msgstr "Close this dialog"
+
+msgid "RODemosMenu.BB4.Caption"
+msgstr "Watch Demo"
+
+msgid "RODemosMenu.BB4.Hint"
+msgstr "Watch the selected demo"
+
+msgid "RODemosMenu.NoPreview.Caption"
+msgstr "No Preview Available"
+
+msgid "RODemosMenu.iInfoBk.Caption"
+msgstr "Information"
+
+msgid "RODemosMenu.sb1.Caption"
+msgstr "Demos"
+
+msgid "RODemosMenu.sb3.Caption"
+msgstr "Required Packages"
+
+msgid "RODisconnectOptionPage.MainMenuButton.Caption"
+msgstr "Main Menu"
+
+msgid "RODisconnectOptionPage.QuitButton.Caption"
+msgstr "Exit Red Orchestra"
+
+msgid "RODisconnectOptionPage.ReconnectButton.Caption"
+msgstr "Reconnect"
+
+msgid "RODisconnectOptionPage.ServerBrowserButton.Caption"
+msgstr "Server Browser"
+
+msgid "RODisconnectOptionPage.cNetStatLabel.Caption"
+msgstr "Select an option"
+
+msgid "ROEULA.EULA_Text[0]"
+msgstr "Red Orchestra: Ostfront 41-45 EULA [END USER LICENSE AGREEMENT]|"
+
+msgid "ROEULA.EULA_Text[1]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[2]"
+msgstr "      Tripwire Interactive would like to thank you for getting Red Orchestra: Ostfront 41-45.   We hope you enjoy the experience.  But before you get started, we need to make some matters clear.   When you paid for Red Orchestra: Ostfront 41-45 you did not actually buy the game.  What you bought was a license to use the software that comprises the game and its related materials.  And that license is subject to the terms of this EULA.  This EULA is a binding contract between you and Tripwire Interactive and its licensors, licensees and suppliers.  |"
+
+msgid "ROEULA.EULA_Text[3]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[4]"
+msgstr "      We know you want to get the game installed and start playing it.  But, please take the time to read through this agreement first because BY INSTALLING RED ORCHESTRA: OSTFRONT 41-45 YOU ARE ACKNOWLEDGING THAT YOU HAVE READ THIS EULA, AGREE TO ITS TERMS AND AGREE TO BE BOUND BY THEM.  IF YOU DO NOT AGREE TO THESE TERMS, PROMPTLY DISCONTINUE THE INSTALLATION PROCESS AND CEASE ANY AND ALL USE OF THIS SOFTWARE.|"
+
+msgid "ROEULA.EULA_Text[5]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[6]"
+msgstr "1.    Limited Use License|"
+
+msgid "ROEULA.EULA_Text[7]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[8]"
+msgstr "      Red Orchestra: Ostfront 41-45 software and any files that are provided with it by digital distribution or on tangible media, including the RO Editor, as well as any printed materials, patches or updates, (collectively referred to as 'RO') contains copyrighted material, trade secrets and other proprietary material of Tripwire Interactive and  its licensors, licensees and suppliers.   RO is licensed to you for your use.  This license is a non exclusive limited license to install and use RO for yourself, including use over the internet or on a LAN.  Your continuing license to use RO is conditioned on your compliance with this EULA.  If you violate any of the terms of this EULA, all of your right to use RO will immediately end, without any further notification from Tripwire Interactive or anyone else.  Once your license is terminated, you will be obliged to immediately uninstall RO and all of its components.|"
+
+msgid "ROEULA.EULA_Text[9]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[10]"
+msgstr "2.    Permitted User Modifications and New Creations|"
+
+msgid "ROEULA.EULA_Text[11]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[12]"
+msgstr "      The Red Orchestra Editor ('ROEd') comes with RO.  You can use ROEd to make mods or create new content to be played in RO.  You agree that you will not distribute or share the ROEd because it is not shareware.  You agree that any new creations or materials that you make for RO, with or without the ROEd, (collectively referred to as 'Mods') are subject to the following restrictions:|"
+
+msgid "ROEULA.EULA_Text[13]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[14]"
+msgstr "    - Your Mods must only work with the full, registered copy of RO, not independently or with any other software.|"
+
+msgid "ROEULA.EULA_Text[15]"
+msgstr "      |"
+
+msgid "ROEULA.EULA_Text[16]"
+msgstr "    - Your Mods must not contain modifications to any executable file(s).|"
+
+msgid "ROEULA.EULA_Text[17]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[18]"
+msgstr "    - Your Mods must not contain any libelous, defamatory, or other illegal material, material that is scandalous or invades the rights of privacy or publicity of any third party, nor may your Mods contain, or be used in conjunction with, any trademarks, copyright protected work, or other recognizable property of third parties without their written authority, nor may your Mods be used by you, or anyone else, for any commercial exploitation including, but not limited to in-game advertising, other advertising or marketing for any company, product or service.|"
+
+msgid "ROEULA.EULA_Text[19]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[20]"
+msgstr "    - While we encourage folks to make Mods, Mods will not be supported by Tripwire Interactive and its licensors, licensees or suppliers, and if distributed pursuant to this license your Mods must include a statement to that effect.|"
+
+msgid "ROEULA.EULA_Text[21]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[22]"
+msgstr "    - Your Mods must be distributed for free, period.  Neither you, nor any other person or party, may sell them to anyone, commercially exploit them in any way, or charge anyone for receiving or using them without prior written consent from Tripwire Interactive.  You may exchange them at no charge among other end users and distribute them to others over the Internet, on magazine cover disks, or otherwise for free.|"
+
+msgid "ROEULA.EULA_Text[23]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[24]"
+msgstr "    - The prohibitions and restrictions in this section apply to anyone in possession of RO or any Mods.|"
+
+msgid "ROEULA.EULA_Text[25]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[26]"
+msgstr "      Tripwire Interactive wholeheartedly supports the Modding of RO.  But we need to retain all of our ownership rights in RO and any works derived from RO.  That's just the way it is.  So, go make some more cool stuff.  But remember that you do not gain any ownership whatsoever in any RO content nor can you use any RO content outside the scope of the rights granted here.   |"
+
+msgid "ROEULA.EULA_Text[27]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[28]"
+msgstr "3.    Commercial Exploitation|"
+
+msgid "ROEULA.EULA_Text[29]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[30]"
+msgstr "      You may not use RO, or any Mods created for or from RO or using the ROEd or any other tools provided with this RO, for any commercial purposes without the prior written consent of Tripwire Interactive or its authorized licensees including, but not limited to, the following rules: 1. If you are the proprietor of an Internet cafe or gaming room, you may operate the RO in a 'pay for play' environment provided that all computers each have validly licensed RO installed, such RO having been properly purchased through one of our licensees.  2. You may not, without"
+
+msgid "ROEULA.EULA_Text[31]"
+msgstr " prior written consent from Tripwire Interactive, operate the RO in any gaming contest where (a) the cash value of all winnings and prizes paid throughout the entire competition is equal to or greater than US$10,000.00 or (b) the name of the event, or any individual contest therein, incorporates or approximates the name of a company, product or commercial service or (c) any company has provided, whether donated or as sponsorship any prizes, products or services worth with a fair market value of over US$20,000.00. |"
+
+msgid "ROEULA.EULA_Text[32]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[33]"
+msgstr "4.    Restrictions on Use|"
+
+msgid "ROEULA.EULA_Text[34]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[35]"
+msgstr "      Just to make sure you understand what you can and can not do with RO, here is a list of restrictions to your use of RO under this EULA:|"
+
+msgid "ROEULA.EULA_Text[36]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[37]"
+msgstr "    - You may not decompile, modify, reverse engineer, publicly display, prepare derivative works based on RO (except as permitted in Section 2, above), disassemble or otherwise reproduce RO.|"
+
+msgid "ROEULA.EULA_Text[38]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[39]"
+msgstr "    - Except as set forth herein, you may not rent, sell, lease, barter, sublicense or distribute RO.  ||"
+
+msgid "ROEULA.EULA_Text[40]"
+msgstr "    - You may not delete the copyright notices or any other proprietary legends on the original copy of RO.  |"
+
+msgid "ROEULA.EULA_Text[41]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[42]"
+msgstr "    - You may not offer RO on a pay per play basis or otherwise commercially exploit RO or use RO for any commercial purpose except as described in this agreement.  |"
+
+msgid "ROEULA.EULA_Text[43]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[44]"
+msgstr "    - You may not electronically transmit RO from one computer to another or over a network except as described in this agreement.  |"
+
+msgid "ROEULA.EULA_Text[45]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[46]"
+msgstr "5.    Export Controls|"
+
+msgid "ROEULA.EULA_Text[47]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[48]"
+msgstr "      You may not ship or export RO to any country other than where you bought it, in violation of the U.S. Export Administration Act (or any other law governing such matters) and you will not utilize and will not authorize anyone to utilize RO in violation of any applicable law.  RO may not be downloaded or otherwise exported into (or to a national or resident of) any country to which the U.S. has embargoed goods or to anyone or into any country who/which are prohibited by applicable law, from receiving it.|"
+
+msgid "ROEULA.EULA_Text[49]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[50]"
+msgstr "6.    Cheats and Cheating|"
+
+msgid "ROEULA.EULA_Text[51]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[52]"
+msgstr "      RO was made for gamers by gamers.  We hate cheaters and will not tolerate anyone cheating in RO or any RO Mods.  It's a simple as that.  If you are cheating in any way, including any attempt by you, either directly or indirectly, to circumvent or bypass any element of the RO or any RO servers to gain any advantage in multiplayer play of the RO or any RO Mods, you are in breach of this EULA.  It is a breach of this EULA for you, whether directly or indirectly, to create, develop, copy, reproduce, distribute, or use any software program or any modification to RO or any RO Mods ('Cheats') that enable a player to gain an advantage or otherwise exploit another player when playing against other players on a local area network, any other network, or on the Internet."
+
+msgid "ROEULA.EULA_Text[53]"
+msgstr "  Hacking into the executable of RO or any RO Mods or any other use of the  RO or any RO Mods in connection with the creation, development, or use of any such unauthorized Cheats is prohibited under this EULA. Cheats include, but are not limited to, programs that allow players to see through walls or other level geometry (software or hardware 'wall hacks'); programs that let players change their rate of speed outside the allowable limits of RO ('speed hacks'); programs that crash any other players, PC clients, or network servers; 'aimbots' that automatically target other players or that automatically simulate any other player input to gain an advantage over other players; or any other program or modification that functions in a similar capacity or allows any prohibited conduct.|"
+
+msgid "ROEULA.EULA_Text[54]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[55]"
+msgstr "      If we find you are a Cheater, we will revoke your CD key, ban you from the RO servers and tell your mom!  Your license will automatically terminate, without notice, and you will have no right to play RO or any RO Mods against other players or make any other use of RO.  End of story.  |"
+
+msgid "ROEULA.EULA_Text[56]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[57]"
+msgstr "7.    Copyright.  |"
+
+msgid "ROEULA.EULA_Text[58]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[59]"
+msgstr "      RO and all copyrights, trademarks and all other conceivable intellectual property rights related to the RO are owned by Tripwire Interactive or its licensors, licensees or suppliers and are protected by United States copyrights laws, international treaty provisions, and all applicable laws, such as the Lanham Act.  RO must be treated like any other copyrighted material, as required by 17 U.S.C. Sec.101 et seq. and other applicable law.  Please do not make unauthorized copies.  RO was created through the efforts of many people who earn their livelihood from its lawful use.  Please don't make copies for others who have not paid for the right to use it.  To report copyright violations to the Software Publishers Association, call 1 800 388 PIR8 or write:  Software Publishers Association, 1101 Connecticut Ave., Suite 901, Washington, D.C. 20036.|"
+
+msgid "ROEULA.EULA_Text[60]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[61]"
+msgstr "8.    Disclaimer of Warranty|"
+
+msgid "ROEULA.EULA_Text[62]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[63]"
+msgstr "      You are aware and agree that use of RO and the media on which it is recorded, if any, is at your sole risk.  RO is provided 'AS IS.'  TRIPWIRE INTERACTIVE EXPRESSLY DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WE DO NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET YOUR REQUIREMENTS. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY US OR ANY OF OUR AUTHORIZED REPRESENTATIVES SHALL CREATE A WARRANTY OR IN ANY WAY INCREASE THE SCOPE OF THIS WARRANTY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.|"
+
+msgid "ROEULA.EULA_Text[64]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[65]"
+msgstr "9.     Limitation of Liability|"
+
+msgid "ROEULA.EULA_Text[66]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[67]"
+msgstr "      UNDER NO CIRCUMSTANCES, INCLUDING WILLFUL ACTS OR NEGLIGENCE, SHALL TRIPWIRE INTERACTIVE OR ANY OF ITS OFFICERS, EMPLOYEES, DIRECTORS, AGENTS, LICENSORS, LICENSEES, SUBLICENSEE, SUPPLIERS  OR ASSIGNS BE LIABLE FOR ANY INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE OF OR INABILITY TO USE RO OR ITS RELATED DOCUMENTATION, EVEN IF SUCH PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF THOSE DAMAGES.  THERE WILL BE NO LIABILITY FOR ANY PERSONAL INJURY, EVEN SELF INFLICTED INJURY, OR FOR ANY INTENTIONAL TORT COMMITTED BY YOU OR ANY OTHER PERSON WHO PLAYS OR OBSERVES SOMEONE ELSE PLAYING RO.  SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. In no event shall our total liability to you for all damages, losses, and causes of action (whether in contract, tort or otherwise) exceed the amount paid by you for RO.|"
+
+msgid "ROEULA.EULA_Text[68]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[69]"
+msgstr "10.    Controlling Law and Severability.  |"
+
+msgid "ROEULA.EULA_Text[70]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[71]"
+msgstr "      This license is governed by and construed in accordance with the laws of the State of Georgia, USA.  Exclusive venue for all litigation shall be in Fulton County, Georgia.  If any provision of this EULA is determined to be unenforceable by a court or other tribunal of competent jurisdiction, such provision will be enforced to the maximum extent permissible and the remaining portions of this EULA will remain in full force and effect.|"
+
+msgid "ROEULA.EULA_Text[72]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[73]"
+msgstr "11.    Complete Agreement.  |"
+
+msgid "ROEULA.EULA_Text[74]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[75]"
+msgstr "      This EULA constitutes the entire agreement between the parties with respect to the use of RO, ROEd, Mods and other related materials and software.  Tripwire Interactive reserves the right to modify the terms of this EULA from time to time and will post notice of material changes somewhere within www.tripwireinteractive.com.|"
+
+msgid "ROEULA.EULA_Text[76]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[77]"
+msgstr "12.    Acceptance of Terms|"
+
+msgid "ROEULA.EULA_Text[78]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[79]"
+msgstr "      By selecting the 'I Agree' choice during the installation and by installing RO, you agree to all the terms specified in this EULA.  That's right, all of them.  Now get on with the installation and enjoy RO... We hope you enjoy it as much as we enjoyed making it.|"
+
+msgid "ROEULA.EULA_Text[80]"
+msgstr "|"
+
+msgid "ROEULA.EULA_Text[81]"
+msgstr "GL & HF!"
+
+msgid "ROEULA.WindowName"
+msgstr "End User License Agreement"
+
+msgid "ROEULA.ButtonAccept.Caption"
+msgstr "I ACCEPT"
+
+msgid "ROEULA.ButtonAccept.Hint"
+msgstr "Click this button if you accept the terms of the End User License Agreement."
+
+msgid "ROEULA.ButtonQuit.Caption"
+msgstr "I DO NOT ACCEPT"
+
+msgid "ROEULA.ButtonQuit.Hint"
+msgstr "Click this button if you do not accept the terms of the End User License Agreement."
+
+msgid "ROGUIRoleSelection.NoSelectedRoleText"
+msgstr "Select a role from the role list."
+
+msgid "ROGUIRoleSelection.RoleHasBotsText"
+msgstr " (has bots)"
+
+msgid "ROGUIRoleSelection.RoleFullText"
+msgstr "Full"
+
+msgid "ROGUIRoleSelection.SelectEquipmentText"
+msgstr "Select an item to view its description."
+
+msgid "ROGUIRoleSelection.RoleIsFullMessageText"
+msgstr "The role you selected is full. Select another role from the list and hit continue."
+
+msgid "ROGUIRoleSelection.ChangingRoleMessageText"
+msgstr "Please wait while your player information is being updated."
+
+msgid "ROGUIRoleSelection.UnknownErrorMessageText"
+msgstr "An unknown error occured when updating player information. Please wait a bit and retry."
+
+msgid "ROGUIRoleSelection.ErrorChangingTeamsMessageText"
+msgstr "An error occured when changing teams. Please retry in a few moments or select another team."
+
+msgid "ROGUIRoleSelection.UnknownErrorSpectatorMissingReplicationInfo"
+msgstr " (Spectator switch error: player has no replication info.)"
+
+msgid "ROGUIRoleSelection.SpectatorErrorTooManySpectators"
+msgstr "Cannot switch to Spectating mode: too many spectators on server."
+
+msgid "ROGUIRoleSelection.SpectatorErrorRoundHasEnded"
+msgstr "Cannot switch to Spectating mode: round has ended."
+
+msgid "ROGUIRoleSelection.UnknownErrorTeamMissingReplicationInfo"
+msgstr " (Team switch error: player has no replication info.)"
+
+msgid "ROGUIRoleSelection.ErrorTeamMustJoinBeforeStart"
+msgstr "Cannot switch teams: must join team before game starts."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorTooManyPlayers"
+msgstr "Cannot switch teams: too many active players in game."
+
+msgid "ROGUIRoleSelection.UnknownErrorTeamMaxLives"
+msgstr " (Team switch error: MaxLives > 0)"
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorRoundHasEnded"
+msgstr "Cannot switch teams: round has ended."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorGameHasStarted"
+msgstr "Cannot switch teams: server rules disallow team changes after game has started."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorPlayingAgainstBots"
+msgstr "Cannot switch teams: server rules ask for bots on one team and players on the other."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorTeamIsFull"
+msgstr "Cannot switch teams: the selected team is full."
+
+msgid "ROGUIRoleSelection.ConfigurationButtonText1"
+msgstr "Game Controls"
+
+msgid "ROGUIRoleSelection.ConfigurationButtonHint1"
+msgstr "Show the game and configuration controls"
+
+msgid "ROGUIRoleSelection.ConfigurationButtonText2"
+msgstr "Role Selection"
+
+msgid "ROGUIRoleSelection.ConfigurationButtonHint2"
+msgstr "Show the role selection controls"
+
+msgid "ROGUIRoleSelection.CommunicationButton.Caption"
+msgstr "Communication"
+
+msgid "ROGUIRoleSelection.CommunicationButton.Hint"
+msgstr "Open the VOIP Communication dialog"
+
+msgid "ROGUIRoleSelection.ConfigurationButton.Caption"
+msgstr "Configuration"
+
+msgid "ROGUIRoleSelection.ConfigurationButton.Hint"
+msgstr "Configure Red Orchestra"
+
+msgid "ROGUIRoleSelection.ContinueButton.Caption"
+msgstr "Continue"
+
+msgid "ROGUIRoleSelection.ContinueButton.Hint"
+msgstr "Continue current game"
+
+msgid "ROGUIRoleSelection.DisconnectButton.Caption"
+msgstr "Disconnect"
+
+msgid "ROGUIRoleSelection.DisconnectButton.Hint"
+msgstr "Disconnect from current game"
+
+msgid "ROGUIRoleSelection.EquipmentWeaponTitle.Caption"
+msgstr "Equipment"
+
+msgid "ROGUIRoleSelection.ExitROButton.Caption"
+msgstr "Exit Red Orchestra"
+
+msgid "ROGUIRoleSelection.ExitROButton.Hint"
+msgstr "Exit from the game"
+
+msgid "ROGUIRoleSelection.FavoritesButton.Caption"
+msgstr "Add Favorite"
+
+msgid "ROGUIRoleSelection.FavoritesButton.Hint"
+msgstr "Add current server in favorites list"
+
+msgid "ROGUIRoleSelection.JoinAlliesButton.Caption"
+msgstr "Join Allies"
+
+msgid "ROGUIRoleSelection.JoinAlliesButton.Hint"
+msgstr "Join the Allied forces"
+
+msgid "ROGUIRoleSelection.JoinAxisButton.Caption"
+msgstr "Join Axis"
+
+msgid "ROGUIRoleSelection.JoinAxisButton.Hint"
+msgstr "Join the Axis forces"
+
+msgid "ROGUIRoleSelection.KickVotingButton.Caption"
+msgstr "Kick Voting"
+
+msgid "ROGUIRoleSelection.KickVotingButton.Hint"
+msgstr "Open the Kick Voting dialog"
+
+msgid "ROGUIRoleSelection.MapButton.Caption"
+msgstr "Situation Map"
+
+msgid "ROGUIRoleSelection.MapButton.Hint"
+msgstr "View Situation Map"
+
+msgid "ROGUIRoleSelection.MapVotingButton.Caption"
+msgstr "Map Voting"
+
+msgid "ROGUIRoleSelection.MapVotingButton.Hint"
+msgstr "Open the Map Voting dialog"
+
+msgid "ROGUIRoleSelection.NumAxisLabel.Caption"
+msgstr "?"
+
+msgid "ROGUIRoleSelection.NumFakeLabel.Caption"
+msgstr " "
+
+msgid "ROGUIRoleSelection.PlayerNameLabel.Caption"
+msgstr "Name:"
+
+msgid "ROGUIRoleSelection.PrimaryWeaponTitle.Caption"
+msgstr "Primary Weapon"
+
+msgid "ROGUIRoleSelection.RoleDescTitle.Caption"
+msgstr "Role Description"
+
+msgid "ROGUIRoleSelection.RolesTitle.Caption"
+msgstr "Role Selection"
+
+msgid "ROGUIRoleSelection.ScoreButton.Caption"
+msgstr "Score"
+
+msgid "ROGUIRoleSelection.ScoreButton.Hint"
+msgstr "View current team and player scores"
+
+msgid "ROGUIRoleSelection.SecondaryWeaponTitle.Caption"
+msgstr "Backup Weapon"
+
+msgid "ROGUIRoleSelection.ServerBrowserButton.Caption"
+msgstr "Server Browser"
+
+msgid "ROGUIRoleSelection.ServerBrowserButton.Hint"
+msgstr "View available Red Orchestra servers"
+
+msgid "ROGUIRoleSelection.SpectateButton.Caption"
+msgstr "Spectate"
+
+msgid "ROGUIRoleSelection.SpectateButton.Hint"
+msgstr "Observe the game as a non-playing spectator"
+
+msgid "ROGUIRoleSelection.StartNewGameButton.Caption"
+msgstr "Start New Game"
+
+msgid "ROGUIRoleSelection.StartNewGameButton.Hint"
+msgstr "Start a new single player session"
+
+msgid "ROGUIServerInfo.PanelCaption<0>"
+msgstr "MOTD"
+
+msgid "ROGUIServerInfo.PanelCaption<1>"
+msgstr "Rules"
+
+msgid "ROGUIServerInfo.PanelCaption<2>"
+msgstr "Maps"
+
+msgid "ROGUIServerInfo.PanelHint<0>"
+msgstr "Message of the Day"
+
+msgid "ROGUIServerInfo.PanelHint<1>"
+msgstr "Game Rules"
+
+msgid "ROGUIServerInfo.PanelHint<2>"
+msgstr "Map Rotation"
+
+msgid "ROGUIServerInfo.WindowName"
+msgstr "Server Info"
+
+msgid "ROGUITeamSelection.Briefing[0]"
+msgstr "Axis briefing"
+
+msgid "ROGUITeamSelection.Briefing[1]"
+msgstr "Allied briefing"
+
+msgid "ROGUITeamSelection.TeamJoinText[0]"
+msgstr "JOIN AXIS"
+
+msgid "ROGUITeamSelection.TeamJoinText[1]"
+msgstr "JOIN ALLIES"
+
+msgid "ROGUITeamSelection.TeamJoinHint[0]"
+msgstr "Join Axis forces"
+
+msgid "ROGUITeamSelection.TeamJoinHint[1]"
+msgstr "Join Allies forces"
+
+msgid "ROGUITeamSelection.UnitsText"
+msgstr " units"
+
+msgid "ROGUITeamSelection.AutoSelect.Caption"
+msgstr "Auto-select"
+
+msgid "ROGUITeamSelection.AutoSelect.Hint"
+msgstr "Join the team with the fewest players"
+
+msgid "ROGUITeamSelection.Spectate.Caption"
+msgstr "Spectate"
+
+msgid "ROGUITeamSelection.Spectate.Hint"
+msgstr "Join the game as a spectator"
+
+msgid "ROGUITeamSelection.TeamsCount.Caption"
+msgstr "? units"
+
+msgid "ROGUITeamSelection.TeamsCount2.Caption"
+msgstr "? units"
+
+msgid "ROHeaderFont.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr20"
+
+msgid "ROHeaderFont.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr22"
+
+msgid "ROHeaderFont.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr28"
+
+msgid "ROHeaderFont.FontArrayNames<3>"
+msgstr "ROFonts.ROBtsrmVr32"
+
+msgid "ROHeaderFont.FontArrayNames<4>"
+msgstr "ROFonts.ROBtsrmVr38"
+
+msgid "ROIAMultiColumnRulesPanel.AdvancedButton.Caption"
+msgstr "View Advanced Options"
+
+msgid "ROIAMultiColumnRulesPanel.AdvancedButton.Hint"
+msgstr "Toggles whether advanced properties are displayed"
+
+msgid "ROLargeFont.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr24"
+
+msgid "ROLargeFont.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr28"
+
+msgid "ROLargeFont.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr34"
+
+msgid "ROLargeFont.FontArrayNames<3>"
+msgstr "ROFonts.ROBtsrmVr42"
+
+msgid "ROLargeFont.FontArrayNames<4>"
+msgstr "ROFonts.ROBtsrmVr48"
+
+msgid "ROMainMenu.ManualURL"
+msgstr "http://www.redorchestragame.com/downloads/manuals/Game_Manual.pdf"
+
+msgid "ROMainMenu.SteamMustBeRunningText"
+msgstr "Steam must be running and you must have an active internet connection to play multiplayer"
+
+msgid "ROMainMenu.SinglePlayerDisabledText"
+msgstr "Practice mode is only available in the full version."
+
+msgid "ROMainMenu.BackButton.Caption"
+msgstr "Back"
+
+msgid "ROMainMenu.BackButton.Hint"
+msgstr "Return to Main Menu"
+
+msgid "ROMainMenu.CreditsButton.Caption"
+msgstr "Credits"
+
+msgid "ROMainMenu.CreditsButton.Hint"
+msgstr "View the Credits"
+
+msgid "ROMainMenu.DemosButton.Caption"
+msgstr "Demo Management"
+
+msgid "ROMainMenu.DemosButton.Hint"
+msgstr "Manage recorded demos"
+
+msgid "ROMainMenu.HelpButton.Caption"
+msgstr "Help & Game Management"
+
+msgid "ROMainMenu.HelpButton.Hint"
+msgstr "Help and Game Management utilities"
+
+msgid "ROMainMenu.HostButton.Caption"
+msgstr "Host Game"
+
+msgid "ROMainMenu.HostButton.Hint"
+msgstr "Host Your Own Server"
+
+msgid "ROMainMenu.InstantActionButton.Caption"
+msgstr "Practice"
+
+msgid "ROMainMenu.InstantActionButton.Hint"
+msgstr "Play a practice match"
+
+msgid "ROMainMenu.ManualButton.Caption"
+msgstr "Manual"
+
+msgid "ROMainMenu.ManualButton.Hint"
+msgstr "Read the Manual"
+
+msgid "ROMainMenu.QuitButton.Caption"
+msgstr "Exit"
+
+msgid "ROMainMenu.QuitButton.Hint"
+msgstr "Exit the game"
+
+msgid "ROMainMenu.ServerButton.Caption"
+msgstr "Multiplayer"
+
+msgid "ROMainMenu.ServerButton.Hint"
+msgstr "Play a multiplayer match"
+
+msgid "ROMainMenu.SettingsButton.Caption"
+msgstr "Configuration"
+
+msgid "ROMainMenu.SettingsButton.Hint"
+msgstr "Configuration settings"
+
+msgid "ROMainMenu.WebsiteButton.Caption"
+msgstr "Visit Website"
+
+msgid "ROMainMenu.WebsiteButton.Hint"
+msgstr "Visit the official Red Orchestra website"
+
+msgid "ROMainMenuGame.GameName"
+msgstr "Game"
+
+msgid "ROMapVoteCountMultiColumnList.ColumnHeadings<0>"
+msgstr "MapName"
+
+msgid "ROMapVoteCountMultiColumnList.ColumnHeadings<1>"
+msgstr "Votes"
+
+msgid "ROMapVoteCountMultiColumnList.ColumnHeadings<2>"
+msgstr "none"
+
+msgid "ROMapVoteCountMultiColumnList.ColumnHeadingHints<0>"
+msgstr "Map Name"
+
+msgid "ROMapVoteCountMultiColumnList.ColumnHeadingHints<1>"
+msgstr "Number of votes registered for this map."
+
+msgid "ROMapVoteCountMultiColumnList.ColumnHeadingHints<2>"
+msgstr "none"
+
+msgid "ROMapVotingPage.GameTypeCombo.Caption"
+msgstr "Filter Game Type:"
+
+msgid "ROMaplistEditor.ActiveBackground.Caption"
+msgstr "Selected Maps"
+
+msgid "ROMaplistEditor.AddAllButton.Caption"
+msgstr "Add All"
+
+msgid "ROMaplistEditor.AddAllButton.Hint"
+msgstr "Add all maps to your map list"
+
+msgid "ROMaplistEditor.AddButton.Caption"
+msgstr "Add"
+
+msgid "ROMaplistEditor.AddButton.Hint"
+msgstr "Add the selected maps to your map list"
+
+msgid "ROMaplistEditor.AvailBackground.Caption"
+msgstr "Available Maps"
+
+msgid "ROMaplistEditor.DeleteMaplistButton.Caption"
+msgstr "Delete"
+
+msgid "ROMaplistEditor.DeleteMaplistButton.Hint"
+msgstr "Delete the currently selected maplist.  If this is the last maplist for this gametype, a new default maplist will be generated."
+
+msgid "ROMaplistEditor.MapListSectionBackground.Caption"
+msgstr "Saved Map Lists"
+
+msgid "ROMaplistEditor.MoveDownButton.Caption"
+msgstr "Down"
+
+msgid "ROMaplistEditor.MoveDownButton.Hint"
+msgstr "Move this map lower down in the list"
+
+msgid "ROMaplistEditor.MoveUpButton.Caption"
+msgstr "Up"
+
+msgid "ROMaplistEditor.MoveUpButton.Hint"
+msgstr "Move this map higher up in the list"
+
+msgid "ROMaplistEditor.NewMaplistButton.Caption"
+msgstr "New"
+
+msgid "ROMaplistEditor.NewMaplistButton.Hint"
+msgstr "Create a new custom maplist"
+
+msgid "ROMaplistEditor.RemoveAllButton.Caption"
+msgstr "Remove All"
+
+msgid "ROMaplistEditor.RemoveAllButton.Hint"
+msgstr "Remove all maps from your map list"
+
+msgid "ROMaplistEditor.RemoveButton.Caption"
+msgstr "Remove"
+
+msgid "ROMaplistEditor.RemoveButton.Hint"
+msgstr "Remove the selected maps from your map list"
+
+msgid "ROMaplistEditor.RenameMaplistButton.Caption"
+msgstr "Rename"
+
+msgid "ROMaplistEditor.RenameMaplistButton.Hint"
+msgstr "Rename the currently selected maplist"
+
+msgid "ROMaplistEditor.SelectMaplistCombo.Hint"
+msgstr "Load a existing custom maplist"
+
+msgid "ROMidGameMenu.LeaveMPButtonText"
+msgstr "DISCONNECT"
+
+msgid "ROMidGameMenu.LeaveSPButtonText"
+msgstr "FORFEIT"
+
+msgid "ROMidGameMenu.LeaveEntryButtonText"
+msgstr "SERVER BROWSER"
+
+msgid "ROMidGameMenu.AddFavoriteButton.Caption"
+msgstr "ADD FAVORITE"
+
+msgid "ROMidGameMenu.BrowserButton.Caption"
+msgstr "SERVER BROWSER"
+
+msgid "ROMidGameMenu.CommunicationButton.Caption"
+msgstr "COMMUNICATION"
+
+msgid "ROMidGameMenu.ContMatchButton.Caption"
+msgstr "CONTINUE"
+
+msgid "ROMidGameMenu.KickVotingButton.Caption"
+msgstr "KICK VOTING"
+
+msgid "ROMidGameMenu.MapVotingButton.Caption"
+msgstr "MAP VOTING"
+
+msgid "ROMidGameMenu.QuitGameButton.Caption"
+msgstr "EXIT REDORCHESTRA"
+
+msgid "ROMidGameMenu.SettingsButton.Caption"
+msgstr "CONFIGURATION"
+
+msgid "RONetworkStatusMessage.NetStatOk.Caption"
+msgstr "OK"
+
+msgid "ROScoreBoard.SpectatorTeamName"
+msgstr "Spectators"
+
+msgid "ROScoreBoard.UnassignedTeamName"
+msgstr "Unassigned"
+
+msgid "ROScoreBoard.TitleText"
+msgstr "SCORES"
+
+msgid "ROScoreBoard.NameText"
+msgstr "Name"
+
+msgid "ROScoreBoard.AdminText"
+msgstr "Admin"
+
+msgid "ROScoreBoard.RoleText"
+msgstr "Role"
+
+msgid "ROScoreBoard.ScoreText"
+msgstr "Score"
+
+msgid "ROScoreBoard.TimeText"
+msgstr "Time"
+
+msgid "ROScoreBoard.PingText"
+msgstr "Ping"
+
+msgid "ROScoreBoard.PlayerText"
+msgstr "Player"
+
+msgid "ROScoreBoard.PlayerPluralText"
+msgstr "Players"
+
+msgid "ROScoreBoard.TotalsText"
+msgstr "Team Totals"
+
+msgid "ROScoreBoard.ObjectivesHeldText"
+msgstr "Objectives Held"
+
+msgid "ROScoreBoard.RequiredObjHeldText"
+msgstr "Required Objectives Held"
+
+msgid "ROScoreBoard.SecondaryObjHeldText"
+msgstr "Secondary Objectives Held"
+
+msgid "ROScoreBoard.RoundsWonText"
+msgstr "Rounds Won"
+
+msgid "ROScoreBoard.TeamNameAllies"
+msgstr "Allies"
+
+msgid "ROScoreBoard.TeamNameAxis"
+msgstr "Axis"
+
+msgid "ROScoreBoard.ReinforcementsText"
+msgstr "Reinforcements"
+
+msgid "ROScoreBoard.WaitingText"
+msgstr " -Not Ready-"
+
+msgid "ROScoreBoard.AdminWaitingText"
+msgstr " -Admin Hold-"
+
+msgid "ROServerLoading.loadingMapPrefix"
+msgstr "Deploying to"
+
+msgid "ROServerLoading.vacSecuredText"
+msgstr "NOTE: This server is VAC Secured. Cheating will result in a permanent ban."
+
+msgid "ROSettingsPage.VideoTabLabel"
+msgstr "Video"
+
+msgid "ROSettingsPage.VideoTabHint"
+msgstr "Select your resolution and change your brightness..."
+
+msgid "ROSettingsPage.DetailsTabLabel"
+msgstr "Details"
+
+msgid "ROSettingsPage.DetailsTabHint"
+msgstr "Adjust the detail settings for better graphics or faster framerate..."
+
+msgid "ROSettingsPage.AudioTabLabel"
+msgstr "Audio"
+
+msgid "ROSettingsPage.AudioTabHint"
+msgstr "Adjust your audio experience..."
+
+msgid "ROSettingsPage.PlayerTabLabel"
+msgstr "Player"
+
+msgid "ROSettingsPage.PlayerTabHint"
+msgstr "Configure your Red Orchestra Avatar..."
+
+msgid "ROSettingsPage.NetworkTabLabel"
+msgstr "Network"
+
+msgid "ROSettingsPage.NetworkTabHint"
+msgstr "Configure Red Orchestra for Online and Lan play..."
+
+msgid "ROSettingsPage.ControlsTabLabel"
+msgstr "Controls"
+
+msgid "ROSettingsPage.ControlsTabHint"
+msgstr "Configure your controls..."
+
+msgid "ROSettingsPage.IForceTabLabel"
+msgstr "Input"
+
+msgid "ROSettingsPage.IForceTabHint"
+msgstr "Configure misc. input options..."
+
+msgid "ROSettingsPage.WeaponsTabLabel"
+msgstr "Weapons"
+
+msgid "ROSettingsPage.WeaponsTabHint"
+msgstr "Adjust your weapon priorities and settings..."
+
+msgid "ROSettingsPage.GameTabLabel"
+msgstr "Game"
+
+msgid "ROSettingsPage.GameTabHint"
+msgstr "Adjust various game releated settings..."
+
+msgid "ROSettingsPage.HudTabLabel"
+msgstr "Hud"
+
+msgid "ROSettingsPage.HudTabHint"
+msgstr "Customize your hud..."
+
+msgid "ROSettingsPage.SpeechBinderTabLabel"
+msgstr "Speech"
+
+msgid "ROSettingsPage.SpeechBinderTabHint"
+msgstr "Bind messages to keys..."
+
+msgid "ROSettingsPage.BackButton.Caption"
+msgstr "Back"
+
+msgid "ROSettingsPage.BackButton.Hint"
+msgstr "Return to Previous Menu"
+
+msgid "ROSettingsPage.SettingHeader.Caption"
+msgstr "Configuration"
+
+msgid "ROSettingsPage_new.PanelCaption<0>"
+msgstr "Game"
+
+msgid "ROSettingsPage_new.PanelCaption<1>"
+msgstr "Display"
+
+msgid "ROSettingsPage_new.PanelCaption<2>"
+msgstr "Audio"
+
+msgid "ROSettingsPage_new.PanelCaption<3>"
+msgstr "Controls"
+
+msgid "ROSettingsPage_new.PanelCaption<4>"
+msgstr "Input"
+
+msgid "ROSettingsPage_new.PanelCaption<5>"
+msgstr "Hud"
+
+msgid "ROSettingsPage_new.PanelCaption<6>"
+msgstr "none"
+
+msgid "ROSettingsPage_new.PanelHint<0>"
+msgstr "Configure your Red Orchestra game..."
+
+msgid "ROSettingsPage_new.PanelHint<1>"
+msgstr "Select your resolution or change your display and detail settings..."
+
+msgid "ROSettingsPage_new.PanelHint<2>"
+msgstr "Adjust your audio experience..."
+
+msgid "ROSettingsPage_new.PanelHint<3>"
+msgstr "Configure your keyboard controls..."
+
+msgid "ROSettingsPage_new.PanelHint<4>"
+msgstr "Configure misc. input options..."
+
+msgid "ROSettingsPage_new.PanelHint<5>"
+msgstr "Customize your HUD..."
+
+msgid "ROSettingsPage_new.PanelHint<6>"
+msgstr "none"
+
+msgid "ROSmallFont.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr7"
+
+msgid "ROSmallFont.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr9"
+
+msgid "ROSmallFont.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "ROSmallFont.FontArrayNames<3>"
+msgstr "ROFonts.ROBtsrmVr14"
+
+msgid "ROSmallFont.FontArrayNames<4>"
+msgstr "ROFonts.ROBtsrmVr18"
+
+msgid "ROSteamLoginPage.IncorrectPassword"
+msgstr "Incorrect password specified.  Please try again."
+
+msgid "ROSteamLoginPage.GetPassFail.Caption"
+msgstr "CANCEL"
+
+msgid "ROSteamLoginPage.GetPassLabel.Caption"
+msgstr "Steam Login Expired or Invalid, Enter Password To Login"
+
+msgid "ROSteamLoginPage.GetPassPW.Caption"
+msgstr "Steam Password"
+
+msgid "ROSteamLoginPage.GetPassRetry.Caption"
+msgstr "SUBMIT"
+
+msgid "ROSteamLoginPage.UserNameTagLabel.Caption"
+msgstr "Steam UserName:"
+
+msgid "ROTab_AudioSettings.AudioModes[0]"
+msgstr "Safe Mode"
+
+msgid "ROTab_AudioSettings.AudioModes[1]"
+msgstr "3D Audio"
+
+msgid "ROTab_AudioSettings.AudioModes[2]"
+msgstr "H/W 3D Audio"
+
+msgid "ROTab_AudioSettings.AudioModes[3]"
+msgstr "H/W 3D + EAX"
+
+msgid "ROTab_AudioSettings.VoiceModes[0]"
+msgstr "All"
+
+msgid "ROTab_AudioSettings.VoiceModes[1]"
+msgstr "No taunts"
+
+msgid "ROTab_AudioSettings.VoiceModes[2]"
+msgstr "None"
+
+msgid "ROTab_AudioSettings.PanelCaption"
+msgstr "Audio"
+
+msgid "ROTab_AudioSettings.AudioBK1.Caption"
+msgstr "Sound System"
+
+msgid "ROTab_AudioSettings.AudioBK3.Caption"
+msgstr "Voice Chat"
+
+msgid "ROTab_AudioSettings.AudioDefaultDriver.Caption"
+msgstr "System Driver"
+
+msgid "ROTab_AudioSettings.AudioDefaultDriver.Hint"
+msgstr "Use system installed OpenAL driver"
+
+msgid "ROTab_AudioSettings.AudioEffectsVolumeSlider.Caption"
+msgstr "Effects Volume"
+
+msgid "ROTab_AudioSettings.AudioEffectsVolumeSlider.Hint"
+msgstr "Adjusts the volume of all in game sound effects."
+
+msgid "ROTab_AudioSettings.AudioLowDetail.Caption"
+msgstr "Low Sound Detail"
+
+msgid "ROTab_AudioSettings.AudioLowDetail.Hint"
+msgstr "Lowers quality of sound."
+
+msgid "ROTab_AudioSettings.AudioMessageBeep.Caption"
+msgstr "Message Beep"
+
+msgid "ROTab_AudioSettings.AudioMessageBeep.Hint"
+msgstr "Enables a beep when receiving a text message from other players."
+
+msgid "ROTab_AudioSettings.AudioMode.Caption"
+msgstr "Audio Mode"
+
+msgid "ROTab_AudioSettings.AudioMode.Hint"
+msgstr "Changes the audio system mode."
+
+msgid "ROTab_AudioSettings.AudioMusicVolume.Caption"
+msgstr "Music Volume"
+
+msgid "ROTab_AudioSettings.AudioMusicVolume.Hint"
+msgstr "Adjusts the volume of the background music."
+
+msgid "ROTab_AudioSettings.AudioPlayVoices.Caption"
+msgstr "Play Voice Messages"
+
+msgid "ROTab_AudioSettings.AudioPlayVoices.Hint"
+msgstr "Defines the types of voice messages to play."
+
+msgid "ROTab_AudioSettings.AudioReverseStereo.Caption"
+msgstr "Reverse Stereo"
+
+msgid "ROTab_AudioSettings.AudioReverseStereo.Hint"
+msgstr "Reverses the left and right audio channels."
+
+msgid "ROTab_AudioSettings.AutoJoinPublic.Caption"
+msgstr "Autojoin Public Channel"
+
+msgid "ROTab_AudioSettings.AutoJoinPublic.Hint"
+msgstr "Automatically join the 'Public' channel upon connecting to a server."
+
+msgid "ROTab_AudioSettings.AutoSpeakCheckbox.Caption"
+msgstr "Auto-select Active Channel"
+
+msgid "ROTab_AudioSettings.AutoSpeakCheckbox.Hint"
+msgstr "Automatically set an active channel when you join a server.  The default channel is determined by the gametype, but you can specify your own using the editbox below"
+
+msgid "ROTab_AudioSettings.ChatPasswordEdit.Caption"
+msgstr "Chat Password"
+
+msgid "ROTab_AudioSettings.ChatPasswordEdit.Hint"
+msgstr "Set a password on your personal chat room to limit who is allowed to join"
+
+msgid "ROTab_AudioSettings.Dampen.Caption"
+msgstr "Dampen Game Volume When Using VOIP"
+
+msgid "ROTab_AudioSettings.Dampen.Hint"
+msgstr "Dampens the volume of the game when receiving VOIP communications."
+
+msgid "ROTab_AudioSettings.DefaultActiveChannelEditBox.Caption"
+msgstr "Default Channel Name"
+
+msgid "ROTab_AudioSettings.DefaultActiveChannelEditBox.Hint"
+msgstr "Enter the name of the channel to speak on by default when you join the server.  To use the default chatroom for whichever gametype you're playing, leave this field empty"
+
+msgid "ROTab_AudioSettings.DisableGameMusic.Caption"
+msgstr "Disable Music During Gameplay"
+
+msgid "ROTab_AudioSettings.DisableGameMusic.Hint"
+msgstr "Turns off background music during gameplay."
+
+msgid "ROTab_AudioSettings.EnableVoiceChat.Caption"
+msgstr "Enable Voice Chat"
+
+msgid "ROTab_AudioSettings.EnableVoiceChat.Hint"
+msgstr "Enables the voice chat system during online matches."
+
+msgid "ROTab_AudioSettings.VoiceQuality.Caption"
+msgstr "Internet Quality"
+
+msgid "ROTab_AudioSettings.VoiceQuality.Hint"
+msgstr "Determines the codec used to transmit voice chat to and from internet servers."
+
+msgid "ROTab_AudioSettings.VoiceQualityLAN.Caption"
+msgstr "LAN Quality"
+
+msgid "ROTab_AudioSettings.VoiceQualityLAN.Hint"
+msgstr "Determines the codec used to transmit voice chat to and from LAN servers."
+
+msgid "ROTab_AudioSettings.VoiceVolume.Caption"
+msgstr "Voice Chat Volume"
+
+msgid "ROTab_AudioSettings.VoiceVolume.Hint"
+msgstr "Adjusts the volume of other players' voice chat communication."
+
+msgid "ROTab_Controls.Headings[0]"
+msgstr "Action"
+
+msgid "ROTab_Controls.Headings[1]"
+msgstr "Key 1"
+
+msgid "ROTab_Controls.Headings[2]"
+msgstr "Key 2"
+
+msgid "ROTab_Controls.ClearCaption"
+msgstr "Press '%backspace%' to unbind %keybind% from %keyname%."
+
+msgid "ROTab_Controls.ActionText"
+msgstr "{%keybinds%} - currently bound to this key."
+
+msgid "ROTab_Controls.Section_Movement"
+msgstr "Movement"
+
+msgid "ROTab_Controls.Section_Looking"
+msgstr "Looking"
+
+msgid "ROTab_Controls.Section_Weapons"
+msgstr "Weapons"
+
+msgid "ROTab_Controls.Section_Comm"
+msgstr "Communication"
+
+msgid "ROTab_Controls.Section_Game"
+msgstr "Game"
+
+msgid "ROTab_Controls.Section_Misc"
+msgstr "Miscellaneous"
+
+msgid "ROTab_Controls.Section_Interface"
+msgstr "Interface"
+
+msgid "ROTab_Controls.Section_Speech_Prefix"
+msgstr "Voice Commands: "
+
+msgid "ROTab_Controls.captions_movement[0]"
+msgstr "Forward"
+
+msgid "ROTab_Controls.captions_movement[1]"
+msgstr "Backward"
+
+msgid "ROTab_Controls.captions_movement[2]"
+msgstr "Strafe Left"
+
+msgid "ROTab_Controls.captions_movement[3]"
+msgstr "Strafe Right"
+
+msgid "ROTab_Controls.captions_movement[4]"
+msgstr "Lean Left"
+
+msgid "ROTab_Controls.captions_movement[5]"
+msgstr "Lean Right"
+
+msgid "ROTab_Controls.captions_movement[6]"
+msgstr "Jump"
+
+msgid "ROTab_Controls.captions_movement[7]"
+msgstr "Crouch"
+
+msgid "ROTab_Controls.captions_movement[8]"
+msgstr "Prone"
+
+msgid "ROTab_Controls.captions_movement[9]"
+msgstr "Sprint"
+
+msgid "ROTab_Controls.captions_movement[10]"
+msgstr "Walk"
+
+msgid "ROTab_Controls.captions_movement[11]"
+msgstr "Toggle Crouch"
+
+msgid "ROTab_Controls.captions_looking[0]"
+msgstr "Turn Left"
+
+msgid "ROTab_Controls.captions_looking[1]"
+msgstr "Turn Right"
+
+msgid "ROTab_Controls.captions_looking[2]"
+msgstr "Look Up"
+
+msgid "ROTab_Controls.captions_looking[3]"
+msgstr "Look Down"
+
+msgid "ROTab_Controls.captions_looking[4]"
+msgstr "Center View"
+
+msgid "ROTab_Controls.captions_looking[5]"
+msgstr "Toggle Third Person Mode (offline only)"
+
+msgid "ROTab_Controls.captions_looking[6]"
+msgstr "Toggle Camera Mode (offline only)"
+
+msgid "ROTab_Controls.captions_weapons[0]"
+msgstr "Primary Fire"
+
+msgid "ROTab_Controls.captions_weapons[1]"
+msgstr "Alternate Fire"
+
+msgid "ROTab_Controls.captions_weapons[2]"
+msgstr "Reload"
+
+msgid "ROTab_Controls.captions_weapons[3]"
+msgstr "Iron Sights"
+
+msgid "ROTab_Controls.captions_weapons[4]"
+msgstr "Throw Weapon"
+
+msgid "ROTab_Controls.captions_weapons[5]"
+msgstr "Next Weapon"
+
+msgid "ROTab_Controls.captions_weapons[6]"
+msgstr "Previous Weapon"
+
+msgid "ROTab_Controls.captions_weapons[7]"
+msgstr "Switch to Best Weapon"
+
+msgid "ROTab_Controls.captions_weapons[8]"
+msgstr "Switch to Last Weapon"
+
+msgid "ROTab_Controls.captions_weapons[9]"
+msgstr "Attach Bayonet / Deploy MG"
+
+msgid "ROTab_Controls.captions_weapons[10]"
+msgstr "Change MG Barrel"
+
+msgid "ROTab_Controls.captions_weapons[11]"
+msgstr "Switch Fire Mode"
+
+msgid "ROTab_Controls.captions_comm[0]"
+msgstr "Say"
+
+msgid "ROTab_Controls.captions_comm[1]"
+msgstr "Team Say"
+
+msgid "ROTab_Controls.captions_comm[2]"
+msgstr "Vehicle Say"
+
+msgid "ROTab_Controls.captions_comm[3]"
+msgstr "Voice Command Menu"
+
+msgid "ROTab_Controls.captions_comm[4]"
+msgstr "View In-game Chat"
+
+msgid "ROTab_Controls.captions_comm[5]"
+msgstr "Activate Microphone"
+
+msgid "ROTab_Controls.captions_comm[6]"
+msgstr "Switch to Public Voice Channel"
+
+msgid "ROTab_Controls.captions_comm[7]"
+msgstr "Switch to Local Voice Channel"
+
+msgid "ROTab_Controls.captions_comm[8]"
+msgstr "Switch to Team Voice Channel"
+
+msgid "ROTab_Controls.captions_game[0]"
+msgstr "Open Game Menu"
+
+msgid "ROTab_Controls.captions_game[1]"
+msgstr "Use"
+
+msgid "ROTab_Controls.captions_game[2]"
+msgstr "Resupply Gunner"
+
+msgid "ROTab_Controls.captions_game[3]"
+msgstr "Pause Game"
+
+msgid "ROTab_Controls.captions_misc[0]"
+msgstr "Open Voting Menu"
+
+msgid "ROTab_Controls.captions_misc[1]"
+msgstr "Toggle Console"
+
+msgid "ROTab_Controls.captions_misc[2]"
+msgstr "View Connection Status"
+
+msgid "ROTab_Controls.captions_misc[3]"
+msgstr "Cancel Pending Connection"
+
+msgid "ROTab_Controls.captions_misc[4]"
+msgstr "Start Demo Recording"
+
+msgid "ROTab_Controls.captions_misc[5]"
+msgstr "Stop Demo Recording"
+
+msgid "ROTab_Controls.captions_misc[6]"
+msgstr "Take Screenshot"
+
+msgid "ROTab_Controls.captions_misc[7]"
+msgstr "View Server Info"
+
+msgid "ROTab_Controls.captions_misc[8]"
+msgstr "Show Personal Stats"
+
+msgid "ROTab_Controls.captions_misc[9]"
+msgstr "View Next Player's Stats"
+
+msgid "ROTab_Controls.captions_interface[0]"
+msgstr "Toggle Situation Map"
+
+msgid "ROTab_Controls.captions_interface[1]"
+msgstr "Toggle Scoreboard"
+
+msgid "ROTab_Controls.captions_interface[2]"
+msgstr "Show Scoreboard"
+
+msgid "ROTab_Controls.captions_interface[3]"
+msgstr "Increase HUD Size"
+
+msgid "ROTab_Controls.captions_interface[4]"
+msgstr "Decrease HUD Size"
+
+msgid "ROTab_Controls.InputBK1.Caption"
+msgstr "Bindings"
+
+msgid "ROTab_DetailSettings.DetailOptions[0]"
+msgstr "Lowest"
+
+msgid "ROTab_DetailSettings.DetailOptions[1]"
+msgstr "Low"
+
+msgid "ROTab_DetailSettings.DetailOptions[2]"
+msgstr "Medium"
+
+msgid "ROTab_DetailSettings.DetailOptions[3]"
+msgstr "High"
+
+msgid "ROTab_DetailSettings.DetailOptions[4]"
+msgstr "Higher"
+
+msgid "ROTab_DetailSettings.DetailOptions[5]"
+msgstr "Highest"
+
+msgid "ROTab_DetailSettings.DetailOptions[6]"
+msgstr "Custom"
+
+msgid "ROTab_DetailSettings.ScopeLevels[0]"
+msgstr "Model (Low)"
+
+msgid "ROTab_DetailSettings.ScopeLevels[1]"
+msgstr "Textured"
+
+msgid "ROTab_DetailSettings.ScopeLevels[2]"
+msgstr "Model (High)"
+
+msgid "ROTab_DetailSettings.RenderModeText[0]"
+msgstr "Direct 3D 9.0"
+
+msgid "ROTab_DetailSettings.RenderModeText[1]"
+msgstr "Direct 3D"
+
+msgid "ROTab_DetailSettings.RenderModeText[2]"
+msgstr "Software"
+
+msgid "ROTab_DetailSettings.Advanced.Caption"
+msgstr "Show Advanced Options"
+
+msgid "ROTab_DetailSettings.Advanced.Hint"
+msgstr "Enables you to configure display options more precisely"
+
+msgid "ROTab_DetailSettings.GlobalDetails.Caption"
+msgstr "Game details"
+
+msgid "ROTab_DetailSettings.GlobalDetails.Hint"
+msgstr "Changes the quality of the graphics in the game"
+
+msgid "ROTab_DetailSettings.HDRCheckbox.Caption"
+msgstr "HDR Bloom"
+
+msgid "ROTab_DetailSettings.HDRCheckbox.Hint"
+msgstr "Enables the Bloom effect"
+
+msgid "ROTab_DetailSettings.MotionBlur.Caption"
+msgstr "Motion Blur"
+
+msgid "ROTab_DetailSettings.MotionBlur.Hint"
+msgstr "Enables explosion motion blur"
+
+msgid "ROTab_DetailSettings.ScopeDetail.Caption"
+msgstr "Scope Detail"
+
+msgid "ROTab_DetailSettings.ScopeDetail.Hint"
+msgstr "Changes how weapon scope views should be rendered"
+
+msgid "ROTab_DetailSettings.sbSection1.Caption"
+msgstr "Resolution"
+
+msgid "ROTab_DetailSettings.sbSection3.Caption"
+msgstr "Gamma Test"
+
+msgid "ROTab_GameSettings.NetSpeedText[0]"
+msgstr "Modem"
+
+msgid "ROTab_GameSettings.NetSpeedText[1]"
+msgstr "ISDN"
+
+msgid "ROTab_GameSettings.NetSpeedText[2]"
+msgstr "Cable/ADSL"
+
+msgid "ROTab_GameSettings.NetSpeedText[3]"
+msgstr "LAN/T1"
+
+msgid "ROTab_GameSettings.PanelCaption"
+msgstr "Game"
+
+msgid "ROTab_GameSettings.GameBK1.Caption"
+msgstr "Gameplay"
+
+msgid "ROTab_GameSettings.GameBK2.Caption"
+msgstr "Network"
+
+msgid "ROTab_GameSettings.GameBK3.Caption"
+msgstr "Simulation Realism"
+
+msgid "ROTab_GameSettings.GameGoreLevel.Caption"
+msgstr "Gore Level"
+
+msgid "ROTab_GameSettings.GameGoreLevel.Hint"
+msgstr "Configure the amount of blood and gore you see while playing the game"
+
+msgid "ROTab_GameSettings.ManualReloading.Caption"
+msgstr "Manual Tank Shell Reloading"
+
+msgid "ROTab_GameSettings.ManualReloading.Hint"
+msgstr "Stops tank shells from automatically reloading to allow for the selection of ammo types prior to reloading."
+
+msgid "ROTab_GameSettings.NetworkDynamicNetspeed.Caption"
+msgstr "Dynamic Netspeed"
+
+msgid "ROTab_GameSettings.NetworkDynamicNetspeed.Hint"
+msgstr "Netspeed is automatically adjusted based on the speed of your network connection"
+
+msgid "ROTab_GameSettings.OnlineNetSpeed.Caption"
+msgstr "Connection"
+
+msgid "ROTab_GameSettings.OnlineNetSpeed.Hint"
+msgstr "How fast is your connection?"
+
+msgid "ROTab_GameSettings.OnlineStatsName.Caption"
+msgstr "Player Name"
+
+msgid "ROTab_GameSettings.OnlineStatsName.Hint"
+msgstr "Please select a name to use ingame"
+
+msgid "ROTab_GameSettings.ThrottleTanks.Caption"
+msgstr "Incremental Tank Throttle"
+
+msgid "ROTab_GameSettings.ThrottleTanks.Hint"
+msgstr "Enabling this allows you to incrementally increase or decrease the throttle in tanks"
+
+msgid "ROTab_GameSettings.ThrottleVehicle.Caption"
+msgstr "Incremental Vehicle Throttle"
+
+msgid "ROTab_GameSettings.ThrottleVehicle.Hint"
+msgstr "Enabling this allows you to incrementally increase or decrease the throttle for non-tank vehicles"
+
+msgid "ROTab_Hud.Hints<0>"
+msgstr "All Hints (Reset)"
+
+msgid "ROTab_Hud.Hints<1>"
+msgstr "New Hints Only"
+
+msgid "ROTab_Hud.Hints<2>"
+msgstr "No Hints"
+
+msgid "ROTab_Hud.GameBK.Caption"
+msgstr "Options"
+
+msgid "ROTab_Hud.GameBK1.Caption"
+msgstr "Style"
+
+msgid "ROTab_Hud.HintsCombo.Caption"
+msgstr "Hint Level"
+
+msgid "ROTab_Hud.HintsCombo.Hint"
+msgstr "Selects whether hints should be shown or not."
+
+msgid "ROTab_Hud.ShowCompass.Caption"
+msgstr "Show Compass"
+
+msgid "ROTab_Hud.ShowCompass.Hint"
+msgstr "Display direction compass on the HUD."
+
+msgid "ROTab_Hud.ShowMapFirstSpawn.Caption"
+msgstr "Show Map On Initial Spawn"
+
+msgid "ROTab_Hud.ShowMapFirstSpawn.Hint"
+msgstr "Display the overhead map for the first spawn each level."
+
+msgid "ROTab_Hud.ShowMapUpdateText.Caption"
+msgstr "Show 'Map Updated' Text"
+
+msgid "ROTab_Hud.ShowMapUpdateText.Hint"
+msgstr "Show the 'Map Updated' text hint on the HUD."
+
+msgid "ROTab_Hud.UseNativeRoleNames.Caption"
+msgstr "Use Native Role Names"
+
+msgid "ROTab_Hud.UseNativeRoleNames.Hint"
+msgstr "Use non-translated role names in the menus and HUD."
+
+msgid "ROTab_Hud.myGameHudOpacity.Caption"
+msgstr "HUD Opacity"
+
+msgid "ROTab_Hud.myGameHudOpacity.Hint"
+msgstr "Adjust the transparency of the HUD"
+
+msgid "ROTab_Hud.myHudScale.Caption"
+msgstr "HUD Scaling"
+
+msgid "ROTab_Hud.myHudScale.Hint"
+msgstr "Adjust the size of the items on the HUD"
+
+msgid "ROTab_Input.InputBK1.Caption"
+msgstr "Options"
+
+msgid "ROTab_Input.InputBK3.Caption"
+msgstr "Fine Tuning"
+
+msgid "ROUT2K4Browser_Footer.BrowserBack.Caption"
+msgstr "BACK"
+
+msgid "ROUT2K4Browser_Footer.BrowserBack.Hint"
+msgstr "Return to the previous menu"
+
+msgid "ROUT2K4Browser_Footer.BrowserFilter.Caption"
+msgstr "FILTERS"
+
+msgid "ROUT2K4Browser_Footer.BrowserFilter.Hint"
+msgstr "Filters allow more control over which servers will appear in the server browser lists."
+
+msgid "ROUT2K4Browser_Footer.BrowserJoin.Caption"
+msgstr "JOIN"
+
+msgid "ROUT2K4Browser_Footer.BrowserRefresh.Caption"
+msgstr "REFRESH"
+
+msgid "ROUT2K4Browser_Footer.BrowserSpec.Caption"
+msgstr "SPECTATE"
+
+msgid "ROUT2K4Browser_Footer.OnlyStandardCheckBox.Caption"
+msgstr "Standard Servers Only"
+
+msgid "ROUT2K4Browser_Footer.OnlyStandardCheckBox.Hint"
+msgstr "Only display standard servers (no mutators) in the server browser.  This option overrides filter settings."
+
+msgid "ROUT2K4GameFooterSP.GameBackButton.Caption"
+msgstr "BACK"
+
+msgid "ROUT2K4GameFooterSP.GameBackButton.Hint"
+msgstr "Return to Previous Menu"
+
+msgid "ROUT2K4GamePageMP.MPFooter.PrimaryCaption"
+msgstr "LISTEN"
+
+msgid "ROUT2K4GamePageMP.MPFooter.PrimaryHint"
+msgstr "Start A Listen Server With These Settings"
+
+msgid "ROUT2K4GamePageMP.MPFooter.SecondaryCaption"
+msgstr "DEDICATED"
+
+msgid "ROUT2K4GamePageMP.MPFooter.SecondaryHint"
+msgstr "Start a Dedicated Server With These Settings"
+
+msgid "ROUT2K4GamePageSP.PageCaption"
+msgstr "Single Player"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<0>"
+msgstr "none"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<1>"
+msgstr "Select Map"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<2>"
+msgstr "Game Rules"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<3>"
+msgstr "Mutators"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<4>"
+msgstr "Bot Config"
+
+msgid "ROUT2K4GamePageSP.PanelHint<0>"
+msgstr "none"
+
+msgid "ROUT2K4GamePageSP.PanelHint<1>"
+msgstr "Preview the maps for the currently selected gametype..."
+
+msgid "ROUT2K4GamePageSP.PanelHint<2>"
+msgstr "Configure the game rules..."
+
+msgid "ROUT2K4GamePageSP.PanelHint<3>"
+msgstr "Select and configure any mutators to use..."
+
+msgid "ROUT2K4GamePageSP.PanelHint<4>"
+msgstr "Configure any bots that will be in the session..."
+
+msgid "ROUT2K4GamePageSP.SPFooter.PrimaryCaption"
+msgstr "START PRACTICE MODE"
+
+msgid "ROUT2K4GamePageSP.SPFooter.PrimaryHint"
+msgstr "Start A Match With These Settings"
+
+msgid "ROUT2K4PlayerSetupPage.psTitleBar.Caption"
+msgstr "Player Setup"
+
+msgid "ROUT2K4QuitPage.cNoButton.Caption"
+msgstr "NO"
+
+msgid "ROUT2K4QuitPage.cYesButton.Caption"
+msgstr "YES"
+
+msgid "ROUT2K4TabPanel_RoleSelection.NoneText"
+msgstr "None"
+
+msgid "ROUT2K4TabPanel_RoleSelection.PanelCaption"
+msgstr "Role"
+
+msgid "ROUT2K4TabPanel_RoleSelection.PrimaryComboB.Caption"
+msgstr "Primary Weapon"
+
+msgid "ROUT2K4TabPanel_RoleSelection.PrimaryComboB.Hint"
+msgstr "Select your primary weapon"
+
+msgid "ROUT2K4TabPanel_RoleSelection.RolesBG.Caption"
+msgstr "Role Selection"
+
+msgid "ROUT2K4TabPanel_RoleSelection.RolesDescriptionBG.Caption"
+msgstr "Role Description"
+
+msgid "ROUT2K4TabPanel_RoleSelection.SecondaryComboB.Caption"
+msgstr "Secondary Weapon"
+
+msgid "ROUT2K4TabPanel_RoleSelection.SecondaryComboB.Hint"
+msgstr "Select your secondary weapon"
+
+msgid "ROUT2K4TabPanel_RoleSelection.SelectButton.Caption"
+msgstr "Select"
+
+msgid "ROUT2K4TabPanel_RoleSelection.SelectButton.Hint"
+msgstr "Select Role."
+
+msgid "ROUT2K4TabPanel_RoleSelection.grenadeComboB.Caption"
+msgstr "Grenades"
+
+msgid "ROUT2K4TabPanel_RoleSelection.grenadeComboB.Hint"
+msgstr "Select your grenades"
+
+msgid "ROUT2K4TabPanel_UnitSelection.AutoInfoText"
+msgstr "* Selecting this option will automatically join the unit that needs you most."
+
+msgid "ROUT2K4TabPanel_UnitSelection.Briefing[0]"
+msgstr "Axis briefing"
+
+msgid "ROUT2K4TabPanel_UnitSelection.Briefing[1]"
+msgstr "Allied briefing"
+
+msgid "ROUT2K4TabPanel_UnitSelection.PanelCaption"
+msgstr "Unit"
+
+msgid "ROUT2K4TabPanel_UnitSelection.AlliedName.Caption"
+msgstr "Allies"
+
+msgid "ROUT2K4TabPanel_UnitSelection.AlliesCheckbox.Caption"
+msgstr "Join Allies"
+
+msgid "ROUT2K4TabPanel_UnitSelection.AlliesCheckbox.Hint"
+msgstr "Join the Allied forces."
+
+msgid "ROUT2K4TabPanel_UnitSelection.AutoCheckbox.Caption"
+msgstr "Auto Selection"
+
+msgid "ROUT2K4TabPanel_UnitSelection.AutoCheckbox.Hint"
+msgstr "Automatically select force."
+
+msgid "ROUT2K4TabPanel_UnitSelection.AxisCheckbox.Caption"
+msgstr "Join Axis"
+
+msgid "ROUT2K4TabPanel_UnitSelection.AxisCheckbox.Hint"
+msgstr "Join the Axis forces."
+
+msgid "ROUT2K4TabPanel_UnitSelection.AxisName.Caption"
+msgstr "Axis"
+
+msgid "ROUT2K4TabPanel_UnitSelection.CurrentUnitSetupBG.Caption"
+msgstr "Current Units"
+
+msgid "ROUT2K4TabPanel_UnitSelection.PlayerSetupBG.Caption"
+msgstr "Unit Description"
+
+msgid "ROUT2K4TabPanel_UnitSelection.SelectButton.Caption"
+msgstr "Select"
+
+msgid "ROUT2K4TabPanel_UnitSelection.SelectButton.Hint"
+msgstr "Select Force To Join."
+
+msgid "ROUT2K4TabPanel_UnitSelection.UnitSetupBG.Caption"
+msgstr "Unit Selection"
+
+msgid "ROUT2K4TabPanel_UnitSelection.alliedCount.Caption"
+msgstr "10"
+
+msgid "ROUT2K4TabPanel_UnitSelection.axisCount.Caption"
+msgstr "10"
+
+msgid "ROUT2K4TabPanel_WeaponSelection.NoneText"
+msgstr "None"
+
+msgid "ROUT2K4TabPanel_WeaponSelection.PanelCaption"
+msgstr "Weapon"
+
+msgid "ROUT2K4TabPanel_WeaponSelection.PrimaryComboB.Caption"
+msgstr "Primary Weapon"
+
+msgid "ROUT2K4TabPanel_WeaponSelection.PrimaryComboB.Hint"
+msgstr "Select your primary weapon"
+
+msgid "ROUT2K4TabPanel_WeaponSelection.SecondaryComboB.Caption"
+msgstr "Secondary Weapon"
+
+msgid "ROUT2K4TabPanel_WeaponSelection.SecondaryComboB.Hint"
+msgstr "Select your secondary weapon"
+
+msgid "ROUT2K4TabPanel_WeaponSelection.SelectButton.Caption"
+msgstr "Enter Game"
+
+msgid "ROUT2K4TabPanel_WeaponSelection.SelectButton.Hint"
+msgstr "Select Weapon and start game."
+
+msgid "ROUT2K4TabPanel_WeaponSelection.grenadeComboB.Caption"
+msgstr "Grenades"
+
+msgid "ROUT2K4TabPanel_WeaponSelection.grenadeComboB.Hint"
+msgstr "Select your grenades"
+
+msgid "ROUT2K4Tab_AudioSettings.AudioBK1.Caption"
+msgstr "Sound Effects"
+
+msgid "ROUT2K4Tab_AudioSettings.AudioBK2.Caption"
+msgstr "Announcer"
+
+msgid "ROUT2K4Tab_AudioSettings.AudioBK3.Caption"
+msgstr "Text To Speech"
+
+msgid "ROUT2K4Tab_AudioSettings.VoiceOptions.ButtonCaption"
+msgstr "Configure"
+
+msgid "ROUT2K4Tab_AudioSettings.VoiceOptions.MenuTitle"
+msgstr "Voice Chat Options"
+
+msgid "ROUT2K4Tab_AudioSettings.VoiceOptions.Caption"
+msgstr "Voice Options"
+
+msgid "ROUT2K4Tab_BotConfigMP.RedCaption"
+msgstr "Allies Team"
+
+msgid "ROUT2K4Tab_BotConfigMP.BotConfigBlueBackground.Caption"
+msgstr "Axis Team"
+
+msgid "ROUT2K4Tab_BotConfigMP.BotConfigBlueList.Hint"
+msgstr "These are the bots that will play on the blue team"
+
+msgid "ROUT2K4Tab_BotConfigMP.BotConfigCharList.Hint"
+msgstr "To add a bot, drag the portrait to the desired team's list, or use the arrow buttons above"
+
+msgid "ROUT2K4Tab_BotConfigMP.BotConfigMainBG.Caption"
+msgstr "Drag a character on to its respective team"
+
+msgid "ROUT2K4Tab_BotConfigMP.BotConfigRedBackground.Caption"
+msgstr "Red Team"
+
+msgid "ROUT2K4Tab_BotConfigMP.BotConfigRedList.Hint"
+msgstr "These are the bots that will play on the red team"
+
+msgid "ROUT2K4Tab_BotConfigMP.IABotConfigConfig.Caption"
+msgstr "Info"
+
+msgid "ROUT2K4Tab_BotConfigMP.IABotConfigConfig.Hint"
+msgstr "View detailed stats for this bot."
+
+msgid "ROUT2K4Tab_BotConfigMP.IABotConfigDoConfig.Caption"
+msgstr "Edit"
+
+msgid "ROUT2K4Tab_BotConfigMP.IABotConfigDoConfig.Hint"
+msgstr "Customize the AI attributes for this bot"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[0]"
+msgstr "Model"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[1]"
+msgstr "Texture"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[2]"
+msgstr "ModelHigh"
+
+msgid "ROUT2K4Tab_DetailSettings.MotionBlur.Caption"
+msgstr "Motion Blur"
+
+msgid "ROUT2K4Tab_DetailSettings.MotionBlur.Hint"
+msgstr "Enables Motion Blur."
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeDetail.Caption"
+msgstr "Scope Detail"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeDetail.Hint"
+msgstr "Changes how scopes are displayed."
+
+msgid "ROUT2K4Tab_DetailSettings.sbSection1.Caption"
+msgstr "Resolution"
+
+msgid "ROUT2K4Tab_DetailSettings.sbSection2.Caption"
+msgstr "Options"
+
+msgid "ROUT2K4Tab_DetailSettings.sbSection3.Caption"
+msgstr "Gamma Test"
+
+msgid "ROUT2K4Tab_GameSettings.EpicID.Caption"
+msgstr "Your Unique id is:"
+
+msgid "ROUT2K4Tab_GameSettings.GameBK1.Caption"
+msgstr "Gameplay"
+
+msgid "ROUT2K4Tab_GameSettings.GameBK2.Caption"
+msgstr "Network"
+
+msgid "ROUT2K4Tab_GameSettings.GameBK3.Caption"
+msgstr "Stats"
+
+msgid "ROUT2K4Tab_GameSettings.GameBK5.Caption"
+msgstr "Unique ID / Messages"
+
+msgid "ROUT2K4Tab_GameSettings.NetworkDynamicNetspeed.Caption"
+msgstr "Dynamic Netspeed"
+
+msgid "ROUT2K4Tab_GameSettings.NetworkDynamicNetspeed.Hint"
+msgstr "Netspeed is automatically adjusted based on the speed of your network connection"
+
+msgid "ROUT2K4Tab_GameSettings.OnlineNetSpeed.Caption"
+msgstr "Connection"
+
+msgid "ROUT2K4Tab_GameSettings.OnlineNetSpeed.Hint"
+msgstr "How fast is your connection?"
+
+msgid "ROUT2K4Tab_GameSettings.OnlineStatsName.Caption"
+msgstr "UserName"
+
+msgid "ROUT2K4Tab_GameSettings.OnlineStatsName.Hint"
+msgstr "Please select a name to use for UT Stats!"
+
+msgid "ROUT2K4Tab_GameSettings.OnlineStatsPW.Caption"
+msgstr "Password"
+
+msgid "ROUT2K4Tab_GameSettings.OnlineStatsPW.Hint"
+msgstr "Please select a password that will secure your UT Stats!"
+
+msgid "ROUT2K4Tab_GameSettings.OnlineTrackStats.Caption"
+msgstr "Track Stats"
+
+msgid "ROUT2K4Tab_GameSettings.OnlineTrackStats.Hint"
+msgstr "Enable this option to join the online ranking system."
+
+msgid "ROUT2K4Tab_GameSettings.ViewOnlineStats.Caption"
+msgstr "View Stats"
+
+msgid "ROUT2K4Tab_GameSettings.ViewOnlineStats.Hint"
+msgstr "Click to launch the UT stats website."
+
+msgid "ROUT2K4Tab_HudSettings.GameBK.Caption"
+msgstr "Options"
+
+msgid "ROUT2K4Tab_HudSettings.GameBK1.Caption"
+msgstr "Visuals"
+
+msgid "ROUT2K4Tab_IForceSettings.InputBK1.Caption"
+msgstr "Options"
+
+msgid "ROUT2K4Tab_IForceSettings.InputBK2.Caption"
+msgstr "TouchSense Force Feedback"
+
+msgid "ROUT2K4Tab_IForceSettings.InputBK3.Caption"
+msgstr "Fine Tuning"
+
+msgid "ROUT2K4Tab_IForceSettings.InputIFDamageEffects.Caption"
+msgstr "Damage Effects"
+
+msgid "ROUT2K4Tab_IForceSettings.InputIFDamageEffects.Hint"
+msgstr "Turn this option On/Off to feel the damage you take."
+
+msgid "ROUT2K4Tab_IForceSettings.InputIFGUIEffects.Caption"
+msgstr "Vehicle Effects"
+
+msgid "ROUT2K4Tab_IForceSettings.InputIFGUIEffects.Hint"
+msgstr "Turn this option On/Off to feel the vehicle effects."
+
+msgid "ROUT2K4Tab_IForceSettings.InputIFPickupEffects.Caption"
+msgstr "Pickup Effects"
+
+msgid "ROUT2K4Tab_IForceSettings.InputIFPickupEffects.Hint"
+msgstr "Turn this option On/Off to feel the items you pick up."
+
+msgid "ROUT2K4Tab_IForceSettings.InputIFWeaponEffects.Caption"
+msgstr "Weapon Effects"
+
+msgid "ROUT2K4Tab_IForceSettings.InputIFWeaponEffects.Hint"
+msgstr "Turn this option On/Off to feel the weapons you fire."
+
+msgid "ROUT2K4Tab_MainSP.DifficultyCombo.Caption"
+msgstr "Difficulty"
+
+msgid "ROUT2K4Tab_MainSP.DifficultyCombo.Hint"
+msgstr "Sets how skilled your opponents will be"
+
+msgid "ROUT2K4Tab_MainSP.MaplistButton.ButtonCaption"
+msgstr "Maplist Configuration"
+
+msgid "ROUT2K4Tab_MainSP.MaplistButton.Hint"
+msgstr "Modify the maps that should be used in gameplay"
+
+msgid "ROUT2K4Tab_MainSP.OptionsContainer.Caption"
+msgstr "Options"
+
+msgid "ROUT2K4Tab_MainSP.PreviewGroup.Caption"
+msgstr "Preview"
+
+msgid "ROUT2K4Tab_MainSP.ScrollSection.Caption"
+msgstr "Map Desc"
+
+msgid "ROUT2K4Tab_MainSP.SelectionGroup.Caption"
+msgstr "Map Selection"
+
+msgid "ROUT2K4Tab_MidGameVoiceChat.RedTeamDesc"
+msgstr "AXIS TEAM"
+
+msgid "ROUT2K4Tab_MidGameVoiceChat.BlueTeamDesc"
+msgstr "ALLIES TEAM"
+
+msgid "ROUT2K4Tab_MidGameVoiceChat.OptionBackground.Caption"
+msgstr "Voice Options"
+
+msgid "ROUT2K4Tab_MidGameVoiceChat.PlayersBackground.Caption"
+msgstr "Players"
+
+msgid "ROUT2K4Tab_MidGameVoiceChat.SpecBackground.Caption"
+msgstr "Spectators"
+
+msgid "ROUT2K4Tab_MutatorSP.ActiveBackground.Caption"
+msgstr "Active Mutators"
+
+msgid "ROUT2K4Tab_MutatorSP.AvailBackground.Caption"
+msgstr "Available Mutators"
+
+msgid "ROUT2K4Tab_MutatorSP.DescriptionBackground.Caption"
+msgstr "Mutator Details"
+
+msgid "ROUT2K4Tab_PlayerSettings.Player3DView.Caption"
+msgstr "3D View"
+
+msgid "ROUT2K4Tab_PlayerSettings.Player3DView.Hint"
+msgstr "Toggle between 3D view and portrait of character."
+
+msgid "ROUT2K4Tab_PlayerSettings.PlayerBK1.Caption"
+msgstr "3D View"
+
+msgid "ROUT2K4Tab_PlayerSettings.PlayerBK2.Caption"
+msgstr "Misc."
+
+msgid "ROUT2K4Tab_PlayerSettings.PlayerBK3.Caption"
+msgstr "Biography"
+
+msgid "ROUT2K4Tab_PlayerSettings.bPickModel.Caption"
+msgstr "Change Character"
+
+msgid "ROUT2K4Tab_PlayerSettings.bPickModel.Hint"
+msgstr "Select a new Character."
+
+msgid "ROUT2K4Tab_ServerInfo.ServerInfoLabel.Caption"
+msgstr "Rules"
+
+msgid "ROUT2K4Tab_ServerRulesPanel.AdvancedButton.Caption"
+msgstr "View Advanced Options"
+
+msgid "ROUT2K4Tab_ServerRulesPanel.AdvancedButton.Hint"
+msgstr "Toggles whether advanced properties are displayed"
+
+msgid "ROUT2K4Tab_ServerRulesPanel.EnableWebadmin.Caption"
+msgstr "Enable WebAdmin"
+
+msgid "ROUT2K4Tab_ServerRulesPanel.EnableWebadmin.Hint"
+msgstr "Enables remote web-based administration of the server"
+
+msgid "ROUT2K4Tab_ServerRulesPanel.LANServer.Caption"
+msgstr "LAN Server"
+
+msgid "ROUT2K4Tab_ServerRulesPanel.LANServer.Hint"
+msgstr "Optimizes various engine and network settings for LAN-based play.  Enabling this option when running an internet server will cause EXTREME lag during the match!"
+
+msgid "ROUT2K4Tab_ServerRulesPanel.WebadminPort.Caption"
+msgstr "WebAdmin Port"
+
+msgid "ROUT2K4Tab_ServerRulesPanel.WebadminPort.Hint"
+msgstr "Select which port should be used to connect to the remote web-based administration"
+
+msgid "ROUT2K4_FilterListPage.bCancel.Caption"
+msgstr "Cancel"
+
+msgid "ROUT2K4_FilterListPage.bCreate.Caption"
+msgstr "Create"
+
+msgid "ROUT2K4_FilterListPage.bEdit.Caption"
+msgstr "Edit"
+
+msgid "ROUT2K4_FilterListPage.bOk.Caption"
+msgstr "OK"
+
+msgid "ROUT2K4_FilterListPage.bRemove.Caption"
+msgstr "Remove"
+
+msgid "ROUT2K4_FilterListPage.sbBackground.Caption"
+msgstr "Filters..."
+
+msgid "ROUT2QuitPage.NoButton.Caption"
+msgstr "NO"
+
+msgid "ROUT2QuitPage.QuitDesc.Caption"
+msgstr "Are you sure you wish to quit?"
+
+msgid "ROUT2QuitPage.YesButton.Caption"
+msgstr "YES"
+
+msgid "ROUT2k4Browser_MOTD.VersionString"
+msgstr "RO Version"
+
+msgid "ROUT2k4Browser_MOTD.PanelCaption"
+msgstr "News from Tripwire Interactive"
+
+msgid "ROUT2k4IRC_Panel.LocalChannel"
+msgstr "#redorchestra"
+
+msgid "RoleFullMsg.RoleFullMessage"
+msgstr "Selected role is already full. Choose Another"
+
+msgid "fntROMainMenu.FontArrayNames<0>"
+msgstr "ROFonts.ROMain18"
+
+msgid "fntROMainMenu.FontArrayNames<1>"
+msgstr "ROFonts.ROMain18"
