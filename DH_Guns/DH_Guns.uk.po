@@ -1,14 +1,16 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-10 13:42+0000\n"
+"PO-Revision-Date: 2023-12-17 22:08+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
-"Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/darkesthour/dh_guns/uk/>\n"
+"Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_guns/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.2.1\n"
 
 msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<0>"
@@ -202,3 +204,24 @@ msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_ZiS3Gun.VehicleNameString"
 msgstr "76-мм дивізійна гармата ЗІС-3"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<1>"
+msgstr "Осколково-фугасний (HE)"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<2>"
+msgstr "Комулятивний (HEAT)"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<1>"
+msgstr "Granata da 47"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<2>"
+msgstr "Effeto Pronto da 47"
+
+msgid "DH_Cannone4732Gun.VehicleNameString"
+msgstr "Cannone 47/32"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<0>"
+msgstr "Granata Perforante da 47"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<0>"
+msgstr "Бронебійний (AP)"
