@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-17 07:17+0000\n"
+"PO-Revision-Date: 2023-12-17 22:08+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/ru/>\n"
@@ -17,3 +17,6 @@ msgstr "Новый магазин тяжелый"
 
 msgid "ROAmmoWeightMessage.VeryLightMessage"
 msgstr "Новый магазин очень легкий"
+
+msgid "ROAmmoWeightMessage.LightMessage"
+msgstr "Новый магазин легкий"
