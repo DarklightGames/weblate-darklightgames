@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-16 13:28+0000\n"
+"PO-Revision-Date: 2023-12-17 08:50+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
@@ -47,7 +47,7 @@ msgid "DH_AutoblindaArmoredCar.VehicleNameString"
 msgstr "Автоблинда 41"
 
 msgid "DH_BA64ArmoredCar.VehicleNameString"
-msgstr "Бронеавтомобиль BA64"
+msgstr "Бронеавтомобиль БА-64"
 
 msgid "DH_BT7Cannon.nProjectileDescriptions<0>"
 msgstr "БР-240"
@@ -65,7 +65,7 @@ msgid "DH_BesaDamType.MaleSuicide"
 msgstr "%o был убит из собственного пулемета Беса."
 
 msgid "DH_BrenCarrierTransport.VehicleNameString"
-msgstr "Брен Кэрриер Mk.I"
+msgstr "Универсальный транспортёр Mk.I"
 
 msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<2>"
 msgstr "Дым"
@@ -104,7 +104,7 @@ msgid "DH_AchillesCannon.nProjectileDescriptions<1>"
 msgstr "Mk.I APDS"
 
 msgid "DH_BT7Cannon.ProjectileDescriptions<0>"
-msgstr "Бронебойный (APHE-T)"
+msgstr "Бронебойно-фугасный (APHE-T)"
 
 msgid "DH_BT7Cannon.ProjectileDescriptions<1>"
 msgstr "Осколочно-фугасный (HE)"
@@ -128,7 +128,7 @@ msgid "DH_Cromwell95mmCannon.ProjectileDescriptions<0>"
 msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_Cromwell95mmCannon.ProjectileDescriptions<2>"
-msgstr "Кумультивный (HEAT)"
+msgstr "Кумулятивный (HEAT)"
 
 msgid "DH_Cromwell95mmCannon.nProjectileDescriptions<2>"
 msgstr "Mk.I HEAT"
@@ -209,19 +209,19 @@ msgid "DH_DUKW.VehicleNameString"
 msgstr "DUKW"
 
 msgid "DH_Fiat626Truck.VehicleNameString"
-msgstr "Fiat 626"
+msgstr "Фиат 626"
 
 msgid "DH_Fiat626TruckSupport.VehicleNameString"
-msgstr "Fiat 626 (Логистика)"
+msgstr "Фиат 626 (Снабжение)"
 
 msgid "DH_Fiat626TruckTransport.VehicleNameString"
-msgstr "Fiat 626 (Транспорт)"
+msgstr "Фиат 626 (Транспорт)"
 
 msgid "DH_Flak38Cannon.ProjectileDescriptions<1>"
 msgstr "Бронебойный (AP)"
 
 msgid "DH_Flak38Cannon.ProjectileDescriptions<2>"
-msgstr "HE-T"
+msgstr "ОФ-Трассирующий (HE-T)"
 
 msgid "DH_GreyhoundCannon.ProjectileDescriptions<0>"
 msgstr "Бронебойный (APCBC)"
@@ -1085,16 +1085,16 @@ msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<1>"
 msgstr "Sprgr.Patr.38"
 
 msgid "DH_BesaDamType.DeathString"
-msgstr "%o был убит из пулемета Беса %k."
+msgstr "%o был убит %k из пулемета Беса."
 
 msgid "DH_CV33Tank.VehicleNameString"
-msgstr "Танк L3/33"
+msgstr "Танкетка L3/33"
 
 msgid "DH_Cromwell95mmCannon.ProjectileDescriptions<1>"
 msgstr "Дым"
 
 msgid "DH_GMCTruckSupport.VehicleNameString"
-msgstr "GMC CCKW (Логистика)"
+msgstr "GMC CCKW (Снабжение)"
 
 msgid "DH_GreyhoundArmoredCar_British.VehicleNameString"
 msgstr "Бронеавтомобиль Грейхаунд"
