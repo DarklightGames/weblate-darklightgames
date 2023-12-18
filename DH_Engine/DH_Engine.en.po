@@ -770,6 +770,12 @@ msgstr "Unable to change to {role}."
 msgid "DHGameMessage.HasForgivenMessage"
 msgstr "{victim} has forgiven {killer}."
 
+msgid "DHGameMessage.LeftMessage"
+msgstr "{name} left the battlefield."
+
+msgid "DHGameMessage.EnteredMessage"
+msgstr "{name} has entered the battlefield."
+
 msgid "DHGameMessage.GlobalNameChange"
 msgstr "{old_name} has changed their name to {new_name}."
 
