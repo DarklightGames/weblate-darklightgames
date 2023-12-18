@@ -1049,6 +1049,12 @@ msgstr "Blackout"
 msgid "DHHud.PlaceRallyPointText"
 msgstr "Press [%PLACERALLYPOINT%]"
 
+msgid "DHHud.SayTypeConsoleText"
+msgstr "[CONSOLE]"
+
+msgid "DHHud.SayTypeAllText"
+msgstr "[ALL]"
+
 msgid "DHHud.ReinforcementText"
 msgstr "You will deploy as a {0} in {2} | Press [ESC] to change"
 
