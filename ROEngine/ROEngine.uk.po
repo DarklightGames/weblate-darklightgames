@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-17 22:08+0000\n"
+"PO-Revision-Date: 2023-12-19 04:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/uk/>\n"
@@ -20,3 +20,408 @@ msgstr "Новий легкий магазин"
 
 msgid "ROAmmoWeightMessage.VeryLightMessage"
 msgstr "Новий дуже легкий магазин"
+
+msgid "ROHud.ReinforcementText"
+msgstr "Підкріпленнь: "
+
+msgid "ROHud.TimeRemainingText"
+msgstr "Залишилось часу: "
+
+msgid "ROVoicePack.SupportString[4]"
+msgstr "Нам потрібен кулеметник!"
+
+msgid "ROVoicePack.EnemyString[0]"
+msgstr "Піхота помічена!"
+
+msgid "ROVoicePack.EnemyAbbrevAxis[6]"
+msgstr "Танк"
+
+msgid "ROVoicePack.AlertString[0]"
+msgstr "Граната!"
+
+msgid "ROVoicePack.AlertAbbrev[4]"
+msgstr "За мною"
+
+msgid "ROVoicePack.AlertAbbrev[6]"
+msgstr "Прикриваючий вогонь"
+
+msgid "ROVoicePack.VehicleDirectionString[5]"
+msgstr "Праворуч"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[3]"
+msgstr "Повернись назад"
+
+msgid "ROVoicePack.VehicleAlertString[0]"
+msgstr "Ворог попереду!"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[3]"
+msgstr "Ворог за нами"
+
+msgid "ROVoicePack.SupportString[3]"
+msgstr "Потрібен снайпер!"
+
+msgid "ROVoicePack.SupportString[5]"
+msgstr "Нам потрібна протитанкова рушниця!"
+
+msgid "ROVoicePack.SupportString[6]"
+msgstr "Потрібен підривник!"
+
+msgid "ROVoicePack.SupportAbbrev[1]"
+msgstr "Потрібна допомога в..."
+
+msgid "ROVoicePack.SupportStringAxis[5]"
+msgstr "Нам потрібен Панцерфауст!"
+
+msgid "ROVoicePack.EnemyAbbrev[4]"
+msgstr "Протитанкова піхота"
+
+msgid "ROVoicePack.AlertString[7]"
+msgstr "Дружній вогонь!"
+
+msgid "ROVoicePack.AlertString[9]"
+msgstr "Відступаємо!"
+
+msgid "ROVoicePack.AlertAbbrev[2]"
+msgstr "В укриття"
+
+msgid "ROVoicePack.AlertAbbrev[7]"
+msgstr "Дружній вогонь"
+
+msgid "ROVoicePack.VehicleDirectionString[1]"
+msgstr "Йти далі"
+
+msgid "ROVoicePack.VehicleDirectionString[6]"
+msgstr "Вперед на 5 метрів!"
+
+msgid "ROVoicePack.SupportString[2]"
+msgstr "Мені потрібні набої!"
+
+msgid "ROVoicePack.SupportString[8]"
+msgstr "Потрібна артилерійська підтримка!"
+
+msgid "ROVoicePack.SupportAbbrev[2]"
+msgstr "Потрібні набої"
+
+msgid "ROVoicePack.EnemyString[7]"
+msgstr "Важкий танк!"
+
+msgid "ROVoicePack.EnemyAbbrev[1]"
+msgstr "Ворожий кулемет"
+
+msgid "ROVoicePack.SupportString[9]"
+msgstr "Мені потрібен транспорт!"
+
+msgid "ROVoicePack.EnemyStringAxis[3]"
+msgstr "Сапер!"
+
+msgid "ROVoicePack.SupportAbbrev[0]"
+msgstr "Потрібна допомога"
+
+msgid "ROVoicePack.EnemyStringAxis[6]"
+msgstr "Увага, танк!"
+
+msgid "ROVoicePack.AlertString[2]"
+msgstr "В укриття!"
+
+msgid "ROVoicePack.AlertString[3]"
+msgstr "Стій!"
+
+msgid "ROVoicePack.VehicleDirectionString[3]"
+msgstr "Повернись назад"
+
+msgid "ROVoicePack.AckString[2]"
+msgstr "Дякую"
+
+msgid "ROVoicePack.SupportAbbrev[3]"
+msgstr "Потрібен снайпер"
+
+msgid "ROVoicePack.VehicleDirectionString[7]"
+msgstr "Назад на 5 метрів!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[2]"
+msgstr "Стоп"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[6]"
+msgstr "Вперед на 5 метрів"
+
+msgid "ROVoicePack.VehicleAlertString[4]"
+msgstr "Ворожа піхота близько!"
+
+msgid "ROVoicePack.VehicleAlertString[7]"
+msgstr "Ми горимо!"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[9]"
+msgstr "Заряджено"
+
+msgid "ROVoicePack.ExtraString[2]"
+msgstr "*образа*"
+
+msgid "ROVoicePack.OrderString[5]"
+msgstr "Відступаємо!"
+
+msgid "ROVoicePack.OrderAbbrev[5]"
+msgstr "Відступити"
+
+msgid "ROVoicePack.OrderAbbrev[1]"
+msgstr "Захищати..."
+
+msgid "ROVoicePack.SupportAbbrev[4]"
+msgstr "Потрібна підтримка кулеметника"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[4]"
+msgstr "Ворожа піхота близько"
+
+msgid "ROVoicePack.OrderString[7]"
+msgstr "Припинити вогонь!"
+
+msgid "ROVoicePack.OrderAbbrev[0]"
+msgstr "Атакувати..."
+
+msgid "ROVoicePack.OrderAbbrev[3]"
+msgstr "За мною"
+
+msgid "ROVoicePack.SupportAbbrev[6]"
+msgstr "Потрібен підривник"
+
+msgid "ROVoicePack.SupportAbbrev[7]"
+msgstr "Потрібен танк"
+
+msgid "ROVoicePack.SupportAbbrev[8]"
+msgstr "Запит артилерії"
+
+msgid "ROVoicePack.SupportAbbrev[9]"
+msgstr "Потрібен транспорт"
+
+msgid "ROVoicePack.SupportAbbrevAxis[5]"
+msgstr "Потрібен Панцерфауст"
+
+msgid "ROVoicePack.EnemyString[1]"
+msgstr "Помічено кулеметника!"
+
+msgid "ROVoicePack.EnemyString[3]"
+msgstr "Сапер!"
+
+msgid "ROVoicePack.EnemyString[4]"
+msgstr "Протитанкові солдати!"
+
+msgid "ROVoicePack.EnemyString[5]"
+msgstr "Легкий транспорт!"
+
+msgid "ROVoicePack.EnemyString[8]"
+msgstr "Ворожа артилерія!"
+
+msgid "ROVoicePack.EnemyAbbrev[0]"
+msgstr "Помічена піхота"
+
+msgid "ROVoicePack.EnemyAbbrev[5]"
+msgstr "Легкий транспорт"
+
+msgid "ROVoicePack.EnemyAbbrev[8]"
+msgstr "Артилерія"
+
+msgid "ROVoicePack.EnemyAbbrevAxis[3]"
+msgstr "Сапер"
+
+msgid "ROVoicePack.AlertString[1]"
+msgstr "Вперед вперед!"
+
+msgid "ROVoicePack.AlertString[4]"
+msgstr "За мною!"
+
+msgid "ROVoicePack.AlertString[5]"
+msgstr "Вибухівка закладена!"
+
+msgid "ROVoicePack.AlertString[6]"
+msgstr "Прикриваючий вогонь!"
+
+msgid "ROVoicePack.AlertAbbrev[0]"
+msgstr "Граната"
+
+msgid "ROVoicePack.AlertAbbrev[1]"
+msgstr "Швидше вперед"
+
+msgid "ROVoicePack.AlertAbbrev[3]"
+msgstr "Стій"
+
+msgid "ROVoicePack.AlertAbbrev[5]"
+msgstr "Вибухівка закладена"
+
+msgid "ROVoicePack.AlertAbbrev[9]"
+msgstr "Відступити"
+
+msgid "ROVoicePack.VehicleDirectionString[2]"
+msgstr "Стоп"
+
+msgid "ROVoicePack.VehicleDirectionString[4]"
+msgstr "Ліворуч"
+
+msgid "ROVoicePack.VehicleDirectionString[8]"
+msgstr "Трохи ліворуч!"
+
+msgid "ROVoicePack.VehicleDirectionString[9]"
+msgstr "Трохи правіше!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[0]"
+msgstr "Вперед до..."
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[1]"
+msgstr "Рухатися вперед"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[5]"
+msgstr "Праворуч"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[7]"
+msgstr "Назад на 5 метрів"
+
+msgid "ROVoicePack.VehicleAlertString[1]"
+msgstr "Ворог на лівому фланзі!"
+
+msgid "ROVoicePack.VehicleAlertString[3]"
+msgstr "Ворог за нами!"
+
+msgid "ROVoicePack.VehicleAlertString[6]"
+msgstr "Ніяк ні!"
+
+msgid "ROVoicePack.VehicleAlertString[8]"
+msgstr "На вихід!"
+
+msgid "ROVoicePack.VehicleAlertString[9]"
+msgstr "Заряджено."
+
+msgid "ROVoicePack.VehicleAlertAbbrev[0]"
+msgstr "Ворог попереду"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[1]"
+msgstr "Ворог на лівому фланзі"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[2]"
+msgstr "Ворог на правому фланзі"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[6]"
+msgstr "Ніяк ні"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[7]"
+msgstr "Ми палаємо"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[8]"
+msgstr "На вихід"
+
+msgid "ROVoicePack.ExtraString[1]"
+msgstr "Не відступати!"
+
+msgid "ROVoicePack.ExtraAbbrev[2]"
+msgstr "Образа"
+
+msgid "ROVoicePack.AckString[0]"
+msgstr "Так точно!"
+
+msgid "ROVoicePack.AckString[3]"
+msgstr "Вибач"
+
+msgid "ROVoicePack.AckAbbrev[0]"
+msgstr "Так точно"
+
+msgid "ROVoicePack.AckAbbrev[2]"
+msgstr "Дякую"
+
+msgid "ROVoicePack.AckAbbrev[3]"
+msgstr "Вибачитись"
+
+msgid "ROVoicePack.OrderString[2]"
+msgstr "Утримувати цю позицію!"
+
+msgid "ROVoicePack.OrderString[3]"
+msgstr "За мною!"
+
+msgid "ROVoicePack.OrderString[4]"
+msgstr "Атакувати!"
+
+msgid "ROVoicePack.OrderString[6]"
+msgstr "Відкрити вогонь!"
+
+msgid "ROVoicePack.OrderAbbrev[2]"
+msgstr "Утримувати позицію"
+
+msgid "ROVoicePack.OrderAbbrev[4]"
+msgstr "Вирушити"
+
+msgid "ROVoicePack.OrderAbbrev[7]"
+msgstr "Припинити вогонь"
+
+msgid "ROGameMessage.NewPlayerMessage"
+msgstr "На поле бою вийшов новий солдат."
+
+msgid "RORoundOverMsg.AxisWins"
+msgstr "Війська Осі перемагають у битві!"
+
+msgid "RORoundOverMsg.AlliesWins"
+msgstr "Війська Союзників виграють битву!"
+
+msgid "RORoundOverMsg.NoDecisiveOutcome"
+msgstr "Немає вирішальної перемоги"
+
+msgid "ROVoicePack.SupportString[0]"
+msgstr "Нам потрібна допомога!"
+
+msgid "ROVoicePack.SupportString[7]"
+msgstr "Нам потрібен танк!"
+
+msgid "ROVoicePack.SupportAbbrev[5]"
+msgstr "Потрібна протитанкова рушниця"
+
+msgid "ROVoicePack.EnemyString[2]"
+msgstr "Снайпер!"
+
+msgid "ROVoicePack.EnemyString[6]"
+msgstr "Танк! Танк!"
+
+msgid "ROVoicePack.EnemyAbbrev[2]"
+msgstr "Снайпер"
+
+msgid "ROVoicePack.EnemyAbbrev[3]"
+msgstr "Сапер"
+
+msgid "ROVoicePack.EnemyAbbrev[6]"
+msgstr "Танк"
+
+msgid "ROVoicePack.EnemyAbbrev[7]"
+msgstr "Важкий танк"
+
+msgid "ROVoicePack.AlertAbbrev[8]"
+msgstr "Під атакою в об'єкті"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[4]"
+msgstr "Ліворуч"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[8]"
+msgstr "Трохи лівіше!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[9]"
+msgstr "Трохи правіше"
+
+msgid "ROVoicePack.VehicleAlertString[2]"
+msgstr "Ворог на правому фланзі!"
+
+msgid "ROVoicePack.VehicleAlertString[5]"
+msgstr "Так точно"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[5]"
+msgstr "Так точно"
+
+msgid "ROVoicePack.ExtraString[0]"
+msgstr "Я тебе вб'ю!"
+
+msgid "ROVoicePack.ExtraAbbrev[0]"
+msgstr "Я вб'ю тебе"
+
+msgid "ROVoicePack.ExtraAbbrev[1]"
+msgstr "Не відступати"
+
+msgid "ROVoicePack.AckString[1]"
+msgstr "Ніяк ні!"
+
+msgid "ROVoicePack.AckAbbrev[1]"
+msgstr "Ніяк ні"
+
+msgid "ROVoicePack.OrderAbbrev[6]"
+msgstr "Відкрити вогонь"
