@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-17 22:08+0000\n"
+"PO-Revision-Date: 2023-12-19 04:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
@@ -2398,3 +2398,60 @@ msgstr "Спостереження"
 
 msgid "DHCommandMenu_SquadMenu.Options<0>.ActionText"
 msgstr "Покинути загін"
+
+msgid "DHGameMessage.NewTeamMessageRussian"
+msgstr "{name} приєднався до військ Союзників."
+
+msgid "DHGameMessage.FFKillMessage"
+msgstr "{name} вбив свого союзника."
+
+msgid "DHGameMessage.EnteredMessage"
+msgstr "{name} приєднався на поле бою."
+
+msgid "DHCommandMenu_SquadManageMember.Options<2>.SubjectText"
+msgstr "Вигнати із загону та заблокувати"
+
+msgid "DHGameMessage.LeftMessage"
+msgstr "{name} покинув поле бою."
+
+msgid "DHVoicePack.SupportString[1]"
+msgstr "Потрібна допомога в {objective}"
+
+msgid "DHVoicePack.AlertString[8]"
+msgstr "Під атакою в {objective}"
+
+msgid "DHGameMessage.VoteStarted"
+msgstr "{name} розпочав голосування."
+
+msgid "DHVoicePack.VehicleDirectionString[0]"
+msgstr "Вперед до {objective}"
+
+msgid "DHVoicePack.OrderString[0]"
+msgstr "Атакувати {objective}"
+
+msgid "DHVoicePack.OrderString[1]"
+msgstr "Захищати {objective}"
+
+msgid "DHGameMessage.NewTeamMessageGerman"
+msgstr "{name} приєднався до військ Осі."
+
+msgid "DHGameMessage.FFViolationMessage"
+msgstr "Відсторонення від гри {name} через порушення правил вогню по своїх."
+
+msgid "DHGameMessage.RoleChangeMsg"
+msgstr "Ви спробуєте відродитися як {article} {role}."
+
+msgid "DHGameMessage.MaxRoleMsg"
+msgstr "Неможливо змінити роль на {role}."
+
+msgid "DHGameMessage.HasForgivenMessage"
+msgstr "{victim} пробачив {killer}."
+
+msgid "DHGameMessage.GlobalNameChange"
+msgstr "{old_name} змінили своє ім'я на {new_name}."
+
+msgid "DHHud.SayTypeConsoleText"
+msgstr "[КОНСОЛЬ]"
+
+msgid "DHHud.SayTypeAllText"
+msgstr "[ВСІ]"
