@@ -983,15 +983,6 @@ msgstr "Deploying to {0}"
 msgid "DHServerLoading.AuthorText"
 msgstr "Author: {0}"
 
-msgid "DHServerLoading.EnabledText"
-msgstr "Enabled"
-
-msgid "DHServerLoading.DisabledText"
-msgstr "Disabled"
-
-msgid "DHServerLoading.GameTypeText"
-msgstr "Game Type: {0}"
-
 msgid "DHSettingsPage.PanelCaption<0>"
 msgstr "Game"
 
