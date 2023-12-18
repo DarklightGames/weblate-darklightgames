@@ -1,2 +1,21 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-12-19 04:39+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
+"Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
+"darkesthour/roengine/ja/>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.2.1\n"
+
+msgid "ROAmmoWeightMessage.HeavyMessage"
+msgstr "新しい弾倉は重い"
+
+msgid "ROAmmoWeightMessage.LightMessage"
+msgstr "新しい弾倉は軽い"
+
+msgid "ROAmmoWeightMessage.VeryLightMessage"
+msgstr "新しい弾倉はとても軽い"
