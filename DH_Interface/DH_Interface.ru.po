@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-17 22:08+0000\n"
+"PO-Revision-Date: 2023-12-17 23:51+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -421,13 +421,13 @@ msgid "DHDeployMenu.SurrenderButtonText[0]"
 msgstr "Отступить"
 
 msgid "DHDeployMenu.SurrenderButtonText[1]"
-msgstr "Продолжить сражаться"
+msgstr "Продолжать сражаться"
 
 msgid "DHDeployMenu.SurrenderResponseMessages<1>"
 msgstr "Вы не выбрали команду."
 
 msgid "DHDeployMenu.SurrenderResponseMessages<0>"
-msgstr "Ошибка!"
+msgstr "Фатальная ошибка!"
 
 msgid "DHDeployMenu.SurrenderResponseMessages<2>"
 msgstr "Раунд еще не начался."

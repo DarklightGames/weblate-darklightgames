@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-17 23:33+0000\n"
+"PO-Revision-Date: 2023-12-17 23:51+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/ru/>\n"
@@ -112,7 +112,7 @@ msgid "ROVoicePack.AlertString[5]"
 msgstr "Взрывчатка заложена!"
 
 msgid "ROVoicePack.AlertString[7]"
-msgstr "Огонь по своим!"
+msgstr "Стреляете по своим!"
 
 msgid "ROVoicePack.AlertString[9]"
 msgstr "Отступаем!"
@@ -130,10 +130,10 @@ msgid "ROVoicePack.AlertAbbrev[8]"
 msgstr "Под ударом в точке"
 
 msgid "ROVoicePack.AlertAbbrev[9]"
-msgstr "Отступаем"
+msgstr "Отступить"
 
 msgid "ROVoicePack.AlertAbbrev[7]"
-msgstr "Огонь по своим"
+msgstr "Стреляете по своим"
 
 msgid "ROVoicePack.VehicleDirectionString[1]"
 msgstr "Выдвинуться вперед"
@@ -341,3 +341,81 @@ msgstr "Я убью тебя!"
 
 msgid "ROVoicePack.ExtraString[1]"
 msgstr "Не отступать!"
+
+msgid "ROVoicePack.ExtraString[2]"
+msgstr "*оскорбление*"
+
+msgid "ROVoicePack.ExtraAbbrev[2]"
+msgstr "Оскорбление"
+
+msgid "ROVoicePack.AckString[0]"
+msgstr "Так точно!"
+
+msgid "ROVoicePack.AckString[2]"
+msgstr "Спасибо"
+
+msgid "ROVoicePack.AckString[3]"
+msgstr "Извини"
+
+msgid "ROVoicePack.AckAbbrev[0]"
+msgstr "Так точно"
+
+msgid "ROVoicePack.AckAbbrev[1]"
+msgstr "Никак нет"
+
+msgid "ROVoicePack.AckAbbrev[2]"
+msgstr "Спасибо"
+
+msgid "ROVoicePack.AckAbbrev[3]"
+msgstr "Извиниться"
+
+msgid "ROVoicePack.OrderString[2]"
+msgstr "Удерживать эту позицию!"
+
+msgid "ROVoicePack.OrderString[4]"
+msgstr "Атаковать!"
+
+msgid "ROVoicePack.OrderString[5]"
+msgstr "Отступаем!"
+
+msgid "ROVoicePack.OrderString[7]"
+msgstr "Прекратить огонь!"
+
+msgid "ROVoicePack.OrderString[6]"
+msgstr "Открыть огонь!"
+
+msgid "ROVoicePack.OrderAbbrev[0]"
+msgstr "Атаковать..."
+
+msgid "ROVoicePack.OrderAbbrev[1]"
+msgstr "Оборонять..."
+
+msgid "ROVoicePack.OrderAbbrev[2]"
+msgstr "Удерживать позицию"
+
+msgid "ROVoicePack.OrderAbbrev[3]"
+msgstr "За мной"
+
+msgid "ROVoicePack.OrderAbbrev[4]"
+msgstr "Выдвинуться"
+
+msgid "ROVoicePack.OrderAbbrev[5]"
+msgstr "Отступить"
+
+msgid "ROVoicePack.OrderAbbrev[7]"
+msgstr "Прекратить огонь"
+
+msgid "ROVoicePack.ExtraAbbrev[0]"
+msgstr "Я убью тебя"
+
+msgid "ROVoicePack.ExtraAbbrev[1]"
+msgstr "Не отступать"
+
+msgid "ROVoicePack.AckString[1]"
+msgstr "Никак нет!"
+
+msgid "ROVoicePack.OrderString[3]"
+msgstr "За мной!"
+
+msgid "ROVoicePack.OrderAbbrev[6]"
+msgstr "Открыть огонь"
