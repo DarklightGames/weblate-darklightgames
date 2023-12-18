@@ -1,0 +1,4185 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain\n"
+"Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
+
+msgid "AdminPanelLogin.WaitingForLoginText"
+msgstr "Please wait while your login credentials are verified..."
+
+msgid "AdminPanelLogin.PanelCaption"
+msgstr "Login"
+
+msgid "AdminPanelLogin.LoginButton.Caption"
+msgstr "LOGIN"
+
+msgid "AdminPanelLogin.LoginNameEditbox.Caption"
+msgstr "Login Name: "
+
+msgid "AdminPanelLogin.LoginNameEditbox.Hint"
+msgstr "Enter your admin username"
+
+msgid "AdminPanelLogin.LoginPasswordEditBox.Caption"
+msgstr "Login Password: "
+
+msgid "AdminPanelLogin.LoginPasswordEditBox.Hint"
+msgstr "Enter your admin password"
+
+msgid "AdminPanelLogin.LogoutButton.Caption"
+msgstr "LOGOUT"
+
+msgid "AdminPanelMaps.PanelCaption"
+msgstr "Maps"
+
+msgid "AdminPanelPlayers.PanelCaption"
+msgstr "Players"
+
+msgid "AdminPanelPlayers.BanButton.Caption"
+msgstr "Ban"
+
+msgid "AdminPanelPlayers.BanButton.Hint"
+msgstr "Ban this player"
+
+msgid "AdminPanelPlayers.KickButton.Caption"
+msgstr "Kick"
+
+msgid "AdminPanelPlayers.KickButton.Hint"
+msgstr "Kick this Player"
+
+msgid "ControlBinder.BindingLabel[0]"
+msgstr "Movement"
+
+msgid "ControlBinder.BindingLabel[1]"
+msgstr "Forward"
+
+msgid "ControlBinder.BindingLabel[2]"
+msgstr "Backward"
+
+msgid "ControlBinder.BindingLabel[3]"
+msgstr "Strafe Left"
+
+msgid "ControlBinder.BindingLabel[4]"
+msgstr "Strafe Right"
+
+msgid "ControlBinder.BindingLabel[5]"
+msgstr "Jump"
+
+msgid "ControlBinder.BindingLabel[6]"
+msgstr "Walk"
+
+msgid "ControlBinder.BindingLabel[7]"
+msgstr "Crouch"
+
+msgid "ControlBinder.BindingLabel[8]"
+msgstr "Strafe Toggle"
+
+msgid "ControlBinder.BindingLabel[9]"
+msgstr "Looking"
+
+msgid "ControlBinder.BindingLabel[10]"
+msgstr "Turn Left"
+
+msgid "ControlBinder.BindingLabel[11]"
+msgstr "Turn Right"
+
+msgid "ControlBinder.BindingLabel[12]"
+msgstr "Look Up"
+
+msgid "ControlBinder.BindingLabel[13]"
+msgstr "Look Down"
+
+msgid "ControlBinder.BindingLabel[14]"
+msgstr "Center View"
+
+msgid "ControlBinder.BindingLabel[16]"
+msgstr "Toggle Camera Mode"
+
+msgid "ControlBinder.BindingLabel[17]"
+msgstr "Weapons"
+
+msgid "ControlBinder.BindingLabel[18]"
+msgstr "Fire"
+
+msgid "ControlBinder.BindingLabel[19]"
+msgstr "Alt-Fire"
+
+msgid "ControlBinder.BindingLabel[20]"
+msgstr "Throw Weapon"
+
+msgid "ControlBinder.BindingLabel[21]"
+msgstr "Best Weapon"
+
+msgid "ControlBinder.BindingLabel[22]"
+msgstr "Next Weapon"
+
+msgid "ControlBinder.BindingLabel[23]"
+msgstr "Prev Weapon"
+
+msgid "ControlBinder.BindingLabel[24]"
+msgstr "Last Weapon"
+
+msgid "ControlBinder.BindingLabel[25]"
+msgstr "Weapon Selection"
+
+msgid "ControlBinder.BindingLabel[26]"
+msgstr "Super Weapon"
+
+msgid "ControlBinder.BindingLabel[27]"
+msgstr "Shield Gun"
+
+msgid "ControlBinder.BindingLabel[28]"
+msgstr "Assault Rifle"
+
+msgid "ControlBinder.BindingLabel[29]"
+msgstr "Bio-Rifle"
+
+msgid "ControlBinder.BindingLabel[30]"
+msgstr "Shock Rifle"
+
+msgid "ControlBinder.BindingLabel[31]"
+msgstr "Link Gun"
+
+msgid "ControlBinder.BindingLabel[32]"
+msgstr "Minigun"
+
+msgid "ControlBinder.BindingLabel[33]"
+msgstr "Flak Cannon"
+
+msgid "ControlBinder.BindingLabel[34]"
+msgstr "Rocket Launcher"
+
+msgid "ControlBinder.BindingLabel[35]"
+msgstr "Lightning Rifle"
+
+msgid "ControlBinder.BindingLabel[36]"
+msgstr "Translocator"
+
+msgid "ControlBinder.BindingLabel[37]"
+msgstr "Communication"
+
+msgid "ControlBinder.BindingLabel[38]"
+msgstr "Say"
+
+msgid "ControlBinder.BindingLabel[39]"
+msgstr "Team Say"
+
+msgid "ControlBinder.BindingLabel[40]"
+msgstr "In Game Chat"
+
+msgid "ControlBinder.BindingLabel[41]"
+msgstr "Speech Menu"
+
+msgid "ControlBinder.BindingLabel[42]"
+msgstr "Activate Microphone"
+
+msgid "ControlBinder.BindingLabel[43]"
+msgstr "Speak in Public Channel"
+
+msgid "ControlBinder.BindingLabel[44]"
+msgstr "Speak in local Channel"
+
+msgid "ControlBinder.BindingLabel[45]"
+msgstr "Speak in Team Channel"
+
+msgid "ControlBinder.BindingLabel[46]"
+msgstr "Toggle Public Channel"
+
+msgid "ControlBinder.BindingLabel[47]"
+msgstr "Toggle Local Channel"
+
+msgid "ControlBinder.BindingLabel[48]"
+msgstr "Toggle Team Channel"
+
+msgid "ControlBinder.BindingLabel[49]"
+msgstr "Taunts"
+
+msgid "ControlBinder.BindingLabel[50]"
+msgstr "Pelvic Thrust"
+
+msgid "ControlBinder.BindingLabel[51]"
+msgstr "Ass Smack"
+
+msgid "ControlBinder.BindingLabel[52]"
+msgstr "Throat Cut"
+
+msgid "ControlBinder.BindingLabel[53]"
+msgstr "Brag"
+
+msgid "ControlBinder.BindingLabel[54]"
+msgstr "Hud"
+
+msgid "ControlBinder.BindingLabel[55]"
+msgstr "Grow Hud"
+
+msgid "ControlBinder.BindingLabel[56]"
+msgstr "Shrink Hud"
+
+msgid "ControlBinder.BindingLabel[57]"
+msgstr "Show Radar Map"
+
+msgid "ControlBinder.BindingLabel[58]"
+msgstr "ScoreBoard Toggle"
+
+msgid "ControlBinder.BindingLabel[59]"
+msgstr "ScoreBoard"
+
+msgid "ControlBinder.BindingLabel[60]"
+msgstr "Game"
+
+msgid "ControlBinder.BindingLabel[61]"
+msgstr "Use"
+
+msgid "ControlBinder.BindingLabel[62]"
+msgstr "Pause"
+
+msgid "ControlBinder.BindingLabel[63]"
+msgstr "Screenshot"
+
+msgid "ControlBinder.BindingLabel[64]"
+msgstr "Find Red Base"
+
+msgid "ControlBinder.BindingLabel[65]"
+msgstr "Find Blue Base"
+
+msgid "ControlBinder.BindingLabel[66]"
+msgstr "Next Inventory Item"
+
+msgid "ControlBinder.BindingLabel[67]"
+msgstr "Previous Inventory Item"
+
+msgid "ControlBinder.BindingLabel[68]"
+msgstr "Activate Current Inventory Item"
+
+msgid "ControlBinder.BindingLabel[69]"
+msgstr "Show Personal Stats"
+
+msgid "ControlBinder.BindingLabel[70]"
+msgstr "View Next Player's Stats"
+
+msgid "ControlBinder.BindingLabel[71]"
+msgstr "Server Info"
+
+msgid "ControlBinder.BindingLabel[72]"
+msgstr "Vehicle Horn"
+
+msgid "ControlBinder.BindingLabel[73]"
+msgstr "Miscellaneous"
+
+msgid "ControlBinder.BindingLabel[74]"
+msgstr "Menu"
+
+msgid "ControlBinder.BindingLabel[75]"
+msgstr "Music Player"
+
+msgid "ControlBinder.BindingLabel[76]"
+msgstr "Voting Menu"
+
+msgid "ControlBinder.BindingLabel[77]"
+msgstr "Toggle Console"
+
+msgid "ControlBinder.BindingLabel[78]"
+msgstr "View Connection Status"
+
+msgid "ControlBinder.BindingLabel[79]"
+msgstr "Cancel Pending Connection"
+
+msgid "ControlBinder.Headings[0]"
+msgstr "Action"
+
+msgid "ControlBinder.PageCaption"
+msgstr "Configure Keys"
+
+msgid "EditFavoritePage.UnknownText"
+msgstr "Unknown Server"
+
+msgid "EditFavoritePage.OKButtonHint"
+msgstr "Close the page and save the new IP to your favorites list."
+
+msgid "EditFavoritePage.CancelButtonHint"
+msgstr "Close the page and discard any changes."
+
+msgid "EditFavoritePage.EditBoxHint"
+msgstr "Enter the URL for this favorite - separate IP and port with the   :   symbol"
+
+msgid "EditFavoritePage.IpEntryBox.Caption"
+msgstr "IP Address: "
+
+msgid "FilterPageBase.SaveString"
+msgstr "Setting saved successfully!"
+
+msgid "GUIDynArrayPage.NewText"
+msgstr "New"
+
+msgid "GUIDynArrayPage.RemoveText"
+msgstr "Remove"
+
+msgid "IAMultiColumnRulesPanel.AdvancedButton.Caption"
+msgstr "View Advanced Options"
+
+msgid "IAMultiColumnRulesPanel.AdvancedButton.Hint"
+msgstr "Toggles whether advanced properties are displayed"
+
+msgid "IAMultiColumnRulesPanel.SymbolButton.ButtonCaption"
+msgstr "Configure"
+
+msgid "IAMultiColumnRulesPanel.SymbolButton.Caption"
+msgstr "Team Symbols"
+
+msgid "IAMultiColumnRulesPanel.SymbolButton.Hint"
+msgstr "Choose the banner symbols for each team."
+
+msgid "ID3TagEditor.EditBoxHint"
+msgstr "Click to edit"
+
+msgid "ID3TagEditor.WindowName"
+msgstr "Tag Editor"
+
+msgid "KeyBindMenu.Headings[1]"
+msgstr "Key 1"
+
+msgid "KeyBindMenu.Headings[2]"
+msgstr "Key 2"
+
+msgid "KeyBindMenu.CloseCaption"
+msgstr "CLOSE"
+
+msgid "KeyBindMenu.ResetCaption"
+msgstr "RESET"
+
+msgid "KeyBindMenu.ClearCaption"
+msgstr "Press '%backspace%' to unbind %keybind% from %keyname%."
+
+msgid "KeyBindMenu.ActionText"
+msgstr "{%keybinds%} - currently bound to this key."
+
+msgid "LockedFloatingWindow.LockedCancelButton.Caption"
+msgstr "Cancel"
+
+msgid "LockedFloatingWindow.LockedOKButton.Caption"
+msgstr "OK"
+
+msgid "MapListBox.RCMenu.ContextItems<0>"
+msgstr "Play This Map"
+
+msgid "MapListBox.RCMenu.ContextItems<1>"
+msgstr "Spectate This Map"
+
+msgid "MapListBox.RCMenu.ContextItems<2>"
+msgstr "-"
+
+msgid "MapListBox.RCMenu.ContextItems<3>"
+msgstr "Add To Maplist"
+
+msgid "MapListBox.RCMenu.ContextItems<4>"
+msgstr "Remove From Maplist"
+
+msgid "MapListBox.RCMenu.ContextItems<5>"
+msgstr "Filter Maplist"
+
+msgid "MaplistEditor.InvalidMaplistClassText"
+msgstr "Could not create new custom maplist %name% because %game% has an invalid maplist class: '%mapclass%'!"
+
+msgid "MaplistEditor.NewMaplistPageCaption"
+msgstr "Create custom maplist"
+
+msgid "MaplistEditor.MaplistEditCaption"
+msgstr "Maplist name: "
+
+msgid "MaplistEditor.RenameMaplistPageCaption"
+msgstr "Rename maplist"
+
+msgid "MaplistEditor.LinkText"
+msgstr "Link Setup"
+
+msgid "MaplistEditor.AutoSelectText"
+msgstr "Random"
+
+msgid "MaplistEditor.BonusVehicles"
+msgstr " (Bonus Vehicles)"
+
+msgid "MaplistEditor.WindowName"
+msgstr "Maplist Configuration"
+
+msgid "MaplistEditor.ActiveBackground.Caption"
+msgstr "Active Maps"
+
+msgid "MaplistEditor.AddAllButton.Caption"
+msgstr "Add All"
+
+msgid "MaplistEditor.AddAllButton.Hint"
+msgstr "Add all maps to your map list"
+
+msgid "MaplistEditor.AddButton.Caption"
+msgstr "Add"
+
+msgid "MaplistEditor.AddButton.Hint"
+msgstr "Add the selected maps to your map list"
+
+msgid "MaplistEditor.DeleteMaplistButton.Caption"
+msgstr "DELETE"
+
+msgid "MaplistEditor.DeleteMaplistButton.Hint"
+msgstr "Delete the currently selected maplist.  If this is the last maplist for this gametype, a new default maplist will be generated."
+
+msgid "MaplistEditor.InactiveBackground.Caption"
+msgstr "Inactive Maps"
+
+msgid "MaplistEditor.MoveDownButton.Caption"
+msgstr "Down"
+
+msgid "MaplistEditor.MoveDownButton.Hint"
+msgstr "Move this map lower down in the list"
+
+msgid "MaplistEditor.MoveUpButton.Caption"
+msgstr "Up"
+
+msgid "MaplistEditor.MoveUpButton.Hint"
+msgstr "Move this map higher up in the list"
+
+msgid "MaplistEditor.NewMaplistButton.Caption"
+msgstr "NEW"
+
+msgid "MaplistEditor.NewMaplistButton.Hint"
+msgstr "Create a new custom maplist"
+
+msgid "MaplistEditor.RemoveAllButton.Caption"
+msgstr "Remove All"
+
+msgid "MaplistEditor.RemoveAllButton.Hint"
+msgstr "Remove all maps from your map list"
+
+msgid "MaplistEditor.RemoveButton.Caption"
+msgstr "Remove"
+
+msgid "MaplistEditor.RemoveButton.Hint"
+msgstr "Remove the selected maps from your map list"
+
+msgid "MaplistEditor.RenameMaplistButton.Caption"
+msgstr "RENAME"
+
+msgid "MaplistEditor.RenameMaplistButton.Hint"
+msgstr "Rename the currently selected maplist"
+
+msgid "MaplistEditor.SelectMaplistCombo.Hint"
+msgstr "Load a existing custom maplist"
+
+msgid "MutatorConfigMenu.ConfigButtonText"
+msgstr "Open"
+
+msgid "MutatorConfigMenu.EditButtonText"
+msgstr "Edit"
+
+msgid "MutatorConfigMenu.NoPropsMessage"
+msgstr "No Configurable Properties"
+
+msgid "MutatorConfigMenu.SubCaption"
+msgstr "Mutator Configuration"
+
+msgid "MutatorConfigMenu.WindowName"
+msgstr "Custom Configuration Page"
+
+msgid "MutatorConfigMenu.AdvancedButton.Caption"
+msgstr "View Advanced Options"
+
+msgid "MutatorConfigMenu.AdvancedButton.Hint"
+msgstr "Toggles whether advanced properties are displayed"
+
+msgid "MySubTestPanelA.cTestMenu.ContextItems<0>"
+msgstr "Test 0"
+
+msgid "MySubTestPanelA.cTestMenu.ContextItems<1>"
+msgstr "Test 1"
+
+msgid "MySubTestPanelA.cTestMenu.ContextItems<2>"
+msgstr "Fuck YOU"
+
+msgid "MySubTestPanelA.cTestMenu.ContextItems<3>"
+msgstr "ABCDEFGHIJKLM"
+
+msgid "MySubTestPanelA.cTestMenu.ContextItems<4>"
+msgstr "NOPQR"
+
+msgid "MyTestMultiColumnList.ColumnHeadings<0>"
+msgstr "Caption"
+
+msgid "MyTestMultiColumnList.ColumnHeadings<1>"
+msgstr "Value"
+
+msgid "MyTestMultiColumnList.ColumnHeadings<2>"
+msgstr "Key"
+
+msgid "MyTestPage.MyBackButton.Caption"
+msgstr "BACK"
+
+msgid "MyTestPage.MyBackButton.Hint"
+msgstr "Return to Previous Menu"
+
+msgid "MyTestPage.MyHeader.Caption"
+msgstr "Settings"
+
+msgid "MyTestPanelA.cFive.Caption"
+msgstr "moNumericEdit Test"
+
+msgid "MyTestPanelA.cFive.Hint"
+msgstr "This is an INT numeric Edit box"
+
+msgid "MyTestPanelA.cFour.Caption"
+msgstr "moFloatEdit Test"
+
+msgid "MyTestPanelA.cFour.Hint"
+msgstr "This is a FLOAT numeric Edit Box"
+
+msgid "MyTestPanelA.cSix.Hint"
+msgstr "This is a Slider Test."
+
+msgid "MyTestPanelA.cThree.Caption"
+msgstr "moEditBox Test"
+
+msgid "MyTestPanelA.cThree.Hint"
+msgstr "This is an Edit Box"
+
+msgid "MyTestPanelA.cTwo.Caption"
+msgstr "moCheckBox Test"
+
+msgid "MyTestPanelA.cTwo.Hint"
+msgstr "This is a check Box"
+
+msgid "MyTestPanelA.laSix.Caption"
+msgstr "Slider Test"
+
+msgid "MyTestPanelB.caOne.Caption"
+msgstr "moComboBox Test"
+
+msgid "MyTestPanelB.caOne.Hint"
+msgstr "This is a combo box"
+
+msgid "MyTestPanelB.laThree.Caption"
+msgstr "Scrolling Text Test"
+
+msgid "MyTestPanelB.laTwo.Caption"
+msgstr "ListBox Test"
+
+msgid "PlayInfoList.ColumnHeadings<0>"
+msgstr "Setting Name"
+
+msgid "PlayInfoList.ColumnHeadings<1>"
+msgstr "Value"
+
+msgid "RemoteAdmin.LoggedInText"
+msgstr "Logged in as '%name%'"
+
+msgid "RemoteAdmin.LoggedOutText"
+msgstr "Not logged in"
+
+msgid "RemoteAdmin.AutoLogout.Caption"
+msgstr "AutoLogout"
+
+msgid "RemoteAdmin.AutoLogout.Hint"
+msgstr "Enable to automatically logout as admin when this menu is closed."
+
+msgid "RemoteAdmin.OptionsCombo.Caption"
+msgstr "Section:"
+
+msgid "RemoteAdmin.OptionsCombo.Hint"
+msgstr "Select the desired group of administration options to configure"
+
+msgid "SPHighScore.CheaterName"
+msgstr "*** CHEATER ***"
+
+msgid "Settings_Tabs.PerformanceWarningText"
+msgstr "The change you are making may adversely affect your performance."
+
+msgid "SimpleFilterPanel.ViewStatsStrings[0]"
+msgstr "Any Servers"
+
+msgid "SimpleFilterPanel.ViewStatsStrings[1]"
+msgstr "Only Stats Servers"
+
+msgid "SimpleFilterPanel.ViewStatsStrings[2]"
+msgstr "No Stats Servers"
+
+msgid "SimpleFilterPanel.MutatorModeStrings[0]"
+msgstr "Any Mutators"
+
+msgid "SimpleFilterPanel.MutatorModeStrings[1]"
+msgstr "This Mutator"
+
+msgid "SimpleFilterPanel.MutatorModeStrings[2]"
+msgstr "Not This Mutator"
+
+msgid "SimpleFilterPanel.MutatorModeStrings[3]"
+msgstr "No Mutators"
+
+msgid "SimpleFilterPanel.WeaponStayStrings[0]"
+msgstr "Any Servers"
+
+msgid "SimpleFilterPanel.WeaponStayStrings[1]"
+msgstr "Only Weapon Stay Servers"
+
+msgid "SimpleFilterPanel.WeaponStayStrings[2]"
+msgstr "No Weapon Stay Servers"
+
+msgid "SimpleFilterPanel.TranslocatorStrings[0]"
+msgstr "Any Servers"
+
+msgid "SimpleFilterPanel.TranslocatorStrings[1]"
+msgstr "Only Translocator Servers"
+
+msgid "SimpleFilterPanel.TranslocatorStrings[2]"
+msgstr "No Translocator Servers"
+
+msgid "SimpleFilterPanel.SaveString"
+msgstr "Setting saved successfully!"
+
+msgid "SimpleFilterPanel.MainOptions.Caption"
+msgstr "Game"
+
+msgid "SimpleFilterPanel.MutatorCombo.Hint"
+msgstr "Select the mutator that should be filtered"
+
+msgid "SimpleFilterPanel.MutatorModeCombo.Hint"
+msgstr "Select the type of mutator filter"
+
+msgid "SimpleFilterPanel.MutatorOptions.Caption"
+msgstr "Mutators"
+
+msgid "SimpleFilterPanel.NoBotServersCheckBox.Caption"
+msgstr "No Servers With Bots"
+
+msgid "SimpleFilterPanel.NoBotServersCheckBox.Hint"
+msgstr "Do not display servers that allow bots in the server browser"
+
+msgid "SimpleFilterPanel.NoEmptyCheckBox.Caption"
+msgstr "No Empty Servers"
+
+msgid "SimpleFilterPanel.NoEmptyCheckBox.Hint"
+msgstr "Do not display empty servers in the server browser"
+
+msgid "SimpleFilterPanel.NoFullCheckBox.Caption"
+msgstr "No Full Servers"
+
+msgid "SimpleFilterPanel.NoFullCheckBox.Hint"
+msgstr "Do not display full servers in the server browser"
+
+msgid "SimpleFilterPanel.NoPasswdCheckBox.Caption"
+msgstr "No Passworded"
+
+msgid "SimpleFilterPanel.NoPasswdCheckBox.Hint"
+msgstr "Do not display passworded servers in the server browser"
+
+msgid "SimpleFilterPanel.StatsViewCombo.Caption"
+msgstr "Stats Servers"
+
+msgid "SimpleFilterPanel.StatsViewCombo.Hint"
+msgstr "Only display servers with stats enabled in the server browser"
+
+msgid "SimpleFilterPanel.TranslocatorCombo.Caption"
+msgstr "Translocator"
+
+msgid "SimpleFilterPanel.TranslocatorCombo.Hint"
+msgstr "Only display servers with translocator enabled in the server browser"
+
+msgid "SimpleFilterPanel.WeaponStayCombo.Caption"
+msgstr "WeaponStay"
+
+msgid "SimpleFilterPanel.WeaponStayCombo.Hint"
+msgstr "Only display servers with weapons stay enabled in the server browser"
+
+msgid "SpeechBinder.Headings[0]"
+msgstr "Phrase"
+
+msgid "SpeechBinder.PageCaption"
+msgstr "Speech Binder"
+
+msgid "StreamPlayer.CollapsePlaylistHint"
+msgstr "Hide Current Playlist"
+
+msgid "StreamPlayer.ExpandPlaylistHint"
+msgstr "Show Current Playlist"
+
+msgid "StreamPlayer.PlayHint"
+msgstr "Play"
+
+msgid "StreamPlayer.PauseHint"
+msgstr "Pause"
+
+msgid "StreamPlayer.CollapseManagementHint"
+msgstr "Hide Playlist Options"
+
+msgid "StreamPlayer.ExpandManagementHint"
+msgstr "Show Playlist Options"
+
+msgid "StreamPlayer.RenameCaption"
+msgstr "Rename Playlist"
+
+msgid "StreamPlayer.NewCaption"
+msgstr "Create New Playlist"
+
+msgid "StreamPlayer.PlaylistNameCaption"
+msgstr "Name: "
+
+msgid "StreamPlayer.PLAdd"
+msgstr "Add"
+
+msgid "StreamPlayer.PLRemove"
+msgstr "Remove"
+
+msgid "StreamPlayer.PLClear"
+msgstr "Clear"
+
+msgid "StreamPlayer.MGNew"
+msgstr "New"
+
+msgid "StreamPlayer.MGRemove"
+msgstr "Remove"
+
+msgid "StreamPlayer.MGRename"
+msgstr "Rename"
+
+msgid "StreamPlayer.WindowName"
+msgstr "Music Player"
+
+msgid "StreamPlayer.ManagePlaylistsButton.Hint"
+msgstr "Manage Playlists"
+
+msgid "StreamPlayer.NextTrackButton.Hint"
+msgstr "Next"
+
+msgid "StreamPlayer.PlayerRCMenu.ContextItems<0>"
+msgstr "Change Settings"
+
+msgid "StreamPlayer.PlaylistListBox.Hint"
+msgstr "Current Playlist"
+
+msgid "StreamPlayer.PlaylistRCMenu.ContextItems<0>"
+msgstr "Activate Playlist"
+
+msgid "StreamPlayer.PlaylistRCMenu.ContextItems<1>"
+msgstr "Rename Playlist"
+
+msgid "StreamPlayer.PlaylistRCMenu.ContextItems<2>"
+msgstr "Create new Playlist"
+
+msgid "StreamPlayer.PlaylistRCMenu.ContextItems<3>"
+msgstr "-"
+
+msgid "StreamPlayer.PlaylistRCMenu.ContextItems<4>"
+msgstr "Delete Playlist"
+
+msgid "StreamPlayer.PlaylistRCMenu.ContextItems<5>"
+msgstr "Clear Playlist"
+
+msgid "StreamPlayer.PrevTrackButton.Hint"
+msgstr "Previous"
+
+msgid "StreamPlayer.RepeatAllCheck.Hint"
+msgstr "Repeat All"
+
+msgid "StreamPlayer.RepeatCheck.Hint"
+msgstr "Repeat"
+
+msgid "StreamPlayer.SelectPlaylistListBox.Hint"
+msgstr "Select A Playlist"
+
+msgid "StreamPlayer.ShuffleAllCheck.Hint"
+msgstr "Shuffle All"
+
+msgid "StreamPlayer.ShuffleCheck.Hint"
+msgstr "Shuffle"
+
+msgid "StreamPlayer.SongRCMenu.ContextItems<0>"
+msgstr "Play Selected"
+
+msgid "StreamPlayer.SongRCMenu.ContextItems<1>"
+msgstr "Open Playlist Editor"
+
+msgid "StreamPlayer.SongRCMenu.ContextItems<2>"
+msgstr "-"
+
+msgid "StreamPlayer.SongRCMenu.ContextItems<3>"
+msgstr "Remove From Playlist"
+
+msgid "StreamPlayer.SongRCMenu.ContextItems<4>"
+msgstr "Clear Playlist"
+
+msgid "StreamPlayer.SongTime.Caption"
+msgstr "0:00"
+
+msgid "StreamPlayer.StopButton.Hint"
+msgstr "Stop"
+
+msgid "StreamPlayer.StreamVolume.Hint"
+msgstr "Volume"
+
+msgid "StreamPlayer.bBotA.Caption"
+msgstr "Add"
+
+msgid "StreamPlayer.bBotB.Caption"
+msgstr "Remove"
+
+msgid "StreamPlayer.bBotC.Caption"
+msgstr "Clear"
+
+msgid "StreamPlayer.sbManagement.Caption"
+msgstr "Play List Manager"
+
+msgid "StreamPlayer.sbPlayList.Caption"
+msgstr "Current Playlist"
+
+msgid "StreamPlaylistEditor.GeneralFileItems<0>"
+msgstr "Play selected"
+
+msgid "StreamPlaylistEditor.GeneralFolderItems<0>"
+msgstr "Add to playlist"
+
+msgid "StreamPlaylistEditor.PlaylistItems<0>"
+msgstr "Remove from playlist"
+
+msgid "StreamPlaylistEditor.NonPlaylistItems<0>"
+msgstr "Add to playlist"
+
+msgid "StreamPlaylistEditor.NonPlaylistItems<1>"
+msgstr "Add to playlist & play"
+
+msgid "StreamPlaylistEditor.ImportItems<0>"
+msgstr "Import to new playlist"
+
+msgid "StreamPlaylistEditor.ImportItems<1>"
+msgstr "Import to current playlist"
+
+msgid "StreamPlaylistEditor.WindowName"
+msgstr "Adding Songs to "
+
+msgid "StreamPlaylistEditor.AddButton.Caption"
+msgstr "Add"
+
+msgid "StreamPlaylistEditor.AddButton.Hint"
+msgstr "Add selected item to playlist.  If selected item is a directory, all songs in the directory will be added to the playlist."
+
+msgid "StreamPlaylistEditor.CloseButton.Caption"
+msgstr "CLOSE"
+
+msgid "StreamPlaylistEditor.lbDriveLetters.Caption"
+msgstr "Directory:"
+
+msgid "TeamSymbolConfig.ResetString"
+msgstr "Reset"
+
+msgid "TeamSymbolConfig.RedString"
+msgstr "Red Team"
+
+msgid "TeamSymbolConfig.WindowName"
+msgstr "Configure Team Symbols"
+
+msgid "TeamSymbolConfig.back2.Caption"
+msgstr "Blue Team"
+
+msgid "TeamSymbolConfig.back3.Caption"
+msgstr "Available Team Symbols"
+
+msgid "UT2K4BadCDKeyMsg.BadCDLabel.Caption"
+msgstr "Your CD key is invalid or in use by another player"
+
+msgid "UT2K4BadCDKeyMsg.OkButton.Caption"
+msgstr "OK"
+
+msgid "UT2K4BotConfigPage.NoInformation"
+msgstr "No Information Available!"
+
+msgid "UT2K4BotConfigPage.NoPref"
+msgstr "No Preference"
+
+msgid "UT2K4BotConfigPage.DefaultString"
+msgstr "Default"
+
+msgid "UT2K4BotConfigPage.ResetString"
+msgstr "Reset"
+
+msgid "UT2K4BotConfigPage.AttributesString"
+msgstr "Attributes"
+
+msgid "UT2K4BotConfigPage.BotAccuracySlider.Caption"
+msgstr "Accuracy"
+
+msgid "UT2K4BotConfigPage.BotAccuracySlider.Hint"
+msgstr "Configures the accuracy rating of this bot."
+
+msgid "UT2K4BotConfigPage.BotAggrSlider.Caption"
+msgstr "Aggressiveness"
+
+msgid "UT2K4BotConfigPage.BotAggrSlider.Hint"
+msgstr "Configures the aggressiveness rating of this bot."
+
+msgid "UT2K4BotConfigPage.BotCStyleSlider.Caption"
+msgstr "Combat Style"
+
+msgid "UT2K4BotConfigPage.BotCStyleSlider.Hint"
+msgstr "Adjusts the combat style of this bot."
+
+msgid "UT2K4BotConfigPage.BotJumpy.Caption"
+msgstr "Jumpiness"
+
+msgid "UT2K4BotConfigPage.BotJumpy.Hint"
+msgstr "Controls whether this bot jumps a lot during the game."
+
+msgid "UT2K4BotConfigPage.BotOrders.Caption"
+msgstr "Orders"
+
+msgid "UT2K4BotConfigPage.BotOrders.Hint"
+msgstr "Choose which role this bot will play in the game."
+
+msgid "UT2K4BotConfigPage.BotReactionSlider.Caption"
+msgstr "Reaction Time"
+
+msgid "UT2K4BotConfigPage.BotReactionSlider.Hint"
+msgstr "Adjusts the reaction speed of this bot."
+
+msgid "UT2K4BotConfigPage.BotStrafeSlider.Caption"
+msgstr "Strafing Ability"
+
+msgid "UT2K4BotConfigPage.BotStrafeSlider.Hint"
+msgstr "Adjusts the strafing ability of this bot."
+
+msgid "UT2K4BotConfigPage.BotTacticsSlider.Caption"
+msgstr "Tactics"
+
+msgid "UT2K4BotConfigPage.BotTacticsSlider.Hint"
+msgstr "Adjusts the team-play awareness ability of this bot."
+
+msgid "UT2K4BotConfigPage.BotVoice.Caption"
+msgstr "Voice"
+
+msgid "UT2K4BotConfigPage.BotVoice.Hint"
+msgstr "Choose which voice this bot uses."
+
+msgid "UT2K4BotConfigPage.BotWeapon.Caption"
+msgstr "Preferred Weapon"
+
+msgid "UT2K4BotConfigPage.BotWeapon.Hint"
+msgstr "Select which weapon this bot should prefer."
+
+msgid "UT2K4BotInfoPage.NoInformation"
+msgstr "No Information Available!"
+
+msgid "UT2K4BotInfoPage.AggressionCaption"
+msgstr "Aggressiveness"
+
+msgid "UT2K4BotInfoPage.AccuracyCaption"
+msgstr "Accuracy"
+
+msgid "UT2K4BotInfoPage.AgilityCaption"
+msgstr "Agility"
+
+msgid "UT2K4BotInfoPage.TacticsCaption"
+msgstr "Tactics"
+
+msgid "UT2K4Browser_Page.MustUpgradeString"
+msgstr "Upgrade available. Please refresh the News page."
+
+msgid "UT2K4Browser_Page.QueryCompleteString"
+msgstr "Query Complete!"
+
+msgid "UT2K4Browser_Page.StartQueryString"
+msgstr "Querying Master Server"
+
+msgid "UT2K4Browser_Page.AuthFailString"
+msgstr "Authentication Failed"
+
+msgid "UT2K4Browser_Page.ConnFailString"
+msgstr "Connection Failed"
+
+msgid "UT2K4Browser_Page.ConnTimeoutString"
+msgstr "Connection Timed Out"
+
+msgid "UT2K4Browser_Page.RetryString"
+msgstr " - Retrying"
+
+msgid "UT2K4Browser_Page.ReadyString"
+msgstr "Ready"
+
+msgid "UT2K4Browser_Page.BackCaption"
+msgstr "BACK"
+
+msgid "UT2K4Browser_Page.RefreshCaption"
+msgstr "REFRESH"
+
+msgid "UT2K4Browser_Page.JoinCaption"
+msgstr "JOIN"
+
+msgid "UT2K4Browser_Page.SpectateCaption"
+msgstr "SPECTATE"
+
+msgid "UT2K4Browser_Page.FilterCaption"
+msgstr "FILTERS"
+
+msgid "UT2K4Browser_Page.UnspecifiedNetworkError"
+msgstr "There was an unknown error while attempting to connect to the network."
+
+msgid "UT2K4Browser_ServerListPageMS.PanelCaption"
+msgstr "Server Browser : Internet"
+
+msgid "UT2K4ChatPassword.IncorrectPassword"
+msgstr "Incorrect password specified for channel '%ChatRoom%' ."
+
+msgid "UT2K4ChatPassword.GetPassFail.Caption"
+msgstr "CANCEL"
+
+msgid "UT2K4ChatPassword.GetPassLabel.Caption"
+msgstr "A password is required to join this chat room"
+
+msgid "UT2K4ChatPassword.GetPassPW.Caption"
+msgstr "Chat Room Password"
+
+msgid "UT2K4ChatPassword.GetPassRetry.Caption"
+msgstr "RETRY"
+
+msgid "UT2K4CustomFilterPage.PanelCaption<0>"
+msgstr "Filter Summary"
+
+msgid "UT2K4CustomFilterPage.PanelCaption<1>"
+msgstr "Custom Rules"
+
+msgid "UT2K4CustomFilterPage.PanelHint<0>"
+msgstr "View currently configured rules for this filter"
+
+msgid "UT2K4CustomFilterPage.PanelHint<1>"
+msgstr "Additional custom filters"
+
+msgid "UT2K4CustomFilterPage.PanelHint<2>"
+msgstr "Filters"
+
+msgid "UT2K4DefaultGame.ModName"
+msgstr "Tripwire's Red Orchestra: Ostfront 41-45"
+
+msgid "UT2K4DefaultGame.ModInfo"
+msgstr "Activate this option to return to the default game"
+
+msgid "UT2K4DefaultGame.ModLogo"
+msgstr "InterfaceArt_tex.Menu.changeme_texture"
+
+msgid "UT2K4Demo2AVI.WindowName"
+msgstr "Output to AVI..."
+
+msgid "UT2K4Demo2AVI.coResolution.Caption"
+msgstr "Resolution"
+
+msgid "UT2K4Demo2AVI.coResolution.Hint"
+msgstr "The resolution of the final movie."
+
+msgid "UT2K4Demo2AVI.ebFilename.Caption"
+msgstr "Filename: "
+
+msgid "UT2K4Demo2AVI.ebFilename.Hint"
+msgstr "The name of the AVI file to create"
+
+msgid "UT2K4Demo2AVI.lbSavePos.Caption"
+msgstr "AVI's saved to ..\UserMovies"
+
+msgid "UT2K4Demo2AVI.soQuality.Caption"
+msgstr "Quality"
+
+msgid "UT2K4Demo2AVI.soQuality.Hint"
+msgstr "The quality level of the compression used"
+
+msgid "UT2K4DemoPlayback.lbMod.Caption"
+msgstr "2X"
+
+msgid "UT2K4Demos.ltScoreLimit"
+msgstr "Score Limit:"
+
+msgid "UT2K4Demos.ltTimeLimit"
+msgstr "Time Limit:"
+
+msgid "UT2K4Demos.UnknownText"
+msgstr "Unknown"
+
+msgid "UT2K4Demos.CorruptDemText"
+msgstr "Corrupted or missing .DEMO4 file !"
+
+msgid "UT2K4Demos.ltSelectMsg"
+msgstr "Please select a demo from the list to the left."
+
+msgid "UT2K4Demos.ltClientSide"
+msgstr "Client Side Demo"
+
+msgid "UT2K4Demos.ltServerSide"
+msgstr "Server Side/Single Player Demo"
+
+msgid "UT2K4Demos.ltRecordedBy"
+msgstr "Recorded By:"
+
+msgid "UT2K4Demos.ltGoodMsg"
+msgstr "All of the packages required for this demo are installed"
+
+msgid "UT2K4Demos.ltBadMsg"
+msgstr "In order to be played, this demo requires the packages listed below.  If you are connected to the Internet, they will be autodownloaded when the demo is played||::Required Packages::"
+
+msgid "UT2K4Demos.NoPreview.Caption"
+msgstr "No Preview Available"
+
+msgid "UT2K4Demos.iInfoBk.Caption"
+msgstr "... Information ..."
+
+msgid "UT2K4Demos.sb1.Caption"
+msgstr "Demos"
+
+msgid "UT2K4Demos.sb3.Caption"
+msgstr "Required Packages"
+
+msgid "UT2K4DisconnectOptionPage.MainMenuButton.Caption"
+msgstr "MAIN MENU"
+
+msgid "UT2K4DisconnectOptionPage.QuitButton.Caption"
+msgstr "EXIT RED ORCHESTRA"
+
+msgid "UT2K4DisconnectOptionPage.ReconnectButton.Caption"
+msgstr "RECONNECT"
+
+msgid "UT2K4DisconnectOptionPage.ServerBrowserButton.Caption"
+msgstr "SERVER BROWSER"
+
+msgid "UT2K4DisconnectOptionPage.cNetStatLabel.Caption"
+msgstr "Select an option"
+
+msgid "UT2K4FilterControlPanel.CopyText"
+msgstr "Copy of"
+
+msgid "UT2K4FilterControlPanel.CreateFilterCaption"
+msgstr "Create Filter"
+
+msgid "UT2K4FilterControlPanel.RenameText"
+msgstr "Rename Filter"
+
+msgid "UT2K4FilterControlPanel.FilterNameCaption"
+msgstr "Filter Name: "
+
+msgid "UT2K4FilterControlPanel.BackgroundSec.Caption"
+msgstr "Custom Filters"
+
+msgid "UT2K4FilterControlPanel.CreateFButton.Caption"
+msgstr "New"
+
+msgid "UT2K4FilterControlPanel.CreateFButton.Hint"
+msgstr "Create new custom filter"
+
+msgid "UT2K4FilterControlPanel.GameTypeCombo.Caption"
+msgstr "Game Type"
+
+msgid "UT2K4FilterControlPanel.GameTypeCombo.Hint"
+msgstr "Only rules for this gametype will be shown"
+
+msgid "UT2K4FilterControlPanel.RCMenu.ContextItems<0>"
+msgstr "Clone Filter"
+
+msgid "UT2K4FilterControlPanel.RCMenu.ContextItems<1>"
+msgstr "Rename Filter"
+
+msgid "UT2K4FilterControlPanel.RCMenu.ContextItems<2>"
+msgstr "-"
+
+msgid "UT2K4FilterControlPanel.RCMenu.ContextItems<3>"
+msgstr "Reset All Filters"
+
+msgid "UT2K4FilterControlPanel.RCMenu.ContextItems<4>"
+msgstr "Remove All Filters"
+
+msgid "UT2K4FilterControlPanel.RemoveFButton.Caption"
+msgstr "Remove"
+
+msgid "UT2K4FilterControlPanel.RemoveFButton.Hint"
+msgstr "Permanently delete currently selected filter"
+
+msgid "UT2K4FilterRulesPanel.EnableRule"
+msgstr "Enable this filter"
+
+msgid "UT2K4FilterRulesPanel.MaxText"
+msgstr "Max"
+
+msgid "UT2K4FilterRulesPanel.MinText"
+msgstr "Min"
+
+msgid "UT2K4FilterSummaryList.ColumnHeadings<0>"
+msgstr "Item Name"
+
+msgid "UT2K4FilterSummaryList.ColumnHeadings<1>"
+msgstr "Filter"
+
+msgid "UT2K4FilterSummaryList.ColumnHeadings<2>"
+msgstr "Value"
+
+msgid "UT2K4FilterSummaryListBox.RCMenu.ContextItems<0>"
+msgstr "Remove this rule"
+
+msgid "UT2K4FilterSummaryListBox.RCMenu.ContextItems<1>"
+msgstr "Edit this rule"
+
+msgid "UT2K4FilterSummaryListBox.RCMenu.ContextItems<2>"
+msgstr "-"
+
+msgid "UT2K4FilterSummaryListBox.RCMenu.ContextItems<3>"
+msgstr "Apply changes"
+
+msgid "UT2K4GameFooter.GameBackButton.Caption"
+msgstr "BACK"
+
+msgid "UT2K4GameFooter.GameBackButton.Hint"
+msgstr "Return to Previous Menu"
+
+msgid "UT2K4GamePageBase.PanelCaption<0>"
+msgstr "Gametype"
+
+msgid "UT2K4GamePageBase.PanelCaption<1>"
+msgstr "Select Map"
+
+msgid "UT2K4GamePageBase.PanelCaption<2>"
+msgstr "Game Rules"
+
+msgid "UT2K4GamePageBase.PanelCaption<3>"
+msgstr "Mutators"
+
+msgid "UT2K4GamePageBase.PanelCaption<4>"
+msgstr "Bot Config"
+
+msgid "UT2K4GamePageBase.PanelHint<0>"
+msgstr "Choose the gametype to play..."
+
+msgid "UT2K4GamePageBase.PanelHint<1>"
+msgstr "Preview the maps for the currently selected gametype..."
+
+msgid "UT2K4GamePageBase.PanelHint<2>"
+msgstr "Configure the current game type..."
+
+msgid "UT2K4GamePageBase.PanelHint<3>"
+msgstr "Select and configure any mutators to use..."
+
+msgid "UT2K4GamePageBase.PanelHint<4>"
+msgstr "Configure any bots that will be in the session..."
+
+msgid "UT2K4GamePageMP.PageCaption"
+msgstr "Host Game"
+
+msgid "UT2K4GamePageMP.PanelCaption<0>"
+msgstr "Gametype"
+
+msgid "UT2K4GamePageMP.PanelCaption<1>"
+msgstr "Select Map"
+
+msgid "UT2K4GamePageMP.PanelCaption<2>"
+msgstr "Game Rules"
+
+msgid "UT2K4GamePageMP.PanelCaption<3>"
+msgstr "Mutators"
+
+msgid "UT2K4GamePageMP.PanelCaption<4>"
+msgstr "Bot Config"
+
+msgid "UT2K4GamePageMP.PanelCaption<5>"
+msgstr "Server Rules"
+
+msgid "UT2K4GamePageMP.PanelHint<0>"
+msgstr "Choose the gametype to play..."
+
+msgid "UT2K4GamePageMP.PanelHint<1>"
+msgstr "Preview the maps for the currently selected gametype..."
+
+msgid "UT2K4GamePageMP.PanelHint<2>"
+msgstr "Configure the current game type..."
+
+msgid "UT2K4GamePageMP.PanelHint<3>"
+msgstr "Select and configure any mutators to use..."
+
+msgid "UT2K4GamePageMP.PanelHint<4>"
+msgstr "Configure any bots that will be in the session..."
+
+msgid "UT2K4GamePageMP.PanelHint<5>"
+msgstr "Configure the server settings..."
+
+msgid "UT2K4GamePageMP.MPFooter.PrimaryCaption"
+msgstr "LISTEN"
+
+msgid "UT2K4GamePageMP.MPFooter.PrimaryHint"
+msgstr "Start A Listen Server With These Settings"
+
+msgid "UT2K4GamePageMP.MPFooter.SecondaryCaption"
+msgstr "DEDICATED"
+
+msgid "UT2K4GamePageMP.MPFooter.SecondaryHint"
+msgstr "Start a Dedicated Server With These Settings"
+
+msgid "UT2K4GamePageSP.PageCaption"
+msgstr "Instant Action"
+
+msgid "UT2K4GamePageSP.SPFooter.PrimaryCaption"
+msgstr "PLAY"
+
+msgid "UT2K4GamePageSP.SPFooter.PrimaryHint"
+msgstr "Start A Match With These Settings"
+
+msgid "UT2K4GamePageSP.SPFooter.SecondaryCaption"
+msgstr "SPECTATE"
+
+msgid "UT2K4GamePageSP.SPFooter.SecondaryHint"
+msgstr "Spectate A Match With These Settings"
+
+msgid "UT2K4GenericMessageBox.DialogText.Caption"
+msgstr "WARNING"
+
+msgid "UT2K4GenericMessageBox.OkButton.Caption"
+msgstr "OK"
+
+msgid "UT2K4GetDataMenu.CancelButton.Caption"
+msgstr "CANCEL"
+
+msgid "UT2K4GetDataMenu.CancelButton.Hint"
+msgstr "Close this menu, discarding changes."
+
+msgid "UT2K4GetPassword.IncorrectPassword"
+msgstr "Incorrect password specified.  Please try again."
+
+msgid "UT2K4GetPassword.GetPassFail.Caption"
+msgstr "CANCEL"
+
+msgid "UT2K4GetPassword.GetPassLabel.Caption"
+msgstr "A password is required to play on this server."
+
+msgid "UT2K4GetPassword.GetPassPW.Caption"
+msgstr "Server Password"
+
+msgid "UT2K4GetPassword.GetPassRetry.Caption"
+msgstr "SUBMIT"
+
+msgid "UT2K4IRCLink.InvalidAddressText"
+msgstr "Invalid server address, aborting."
+
+msgid "UT2K4IRCLink.ErrorBindingText"
+msgstr "Error binding local port, aborting."
+
+msgid "UT2K4IRCLink.ResolveFailedText"
+msgstr "Failed to resolve server address, aborting."
+
+msgid "UT2K4IRCLink.ConnectedText"
+msgstr "Connected."
+
+msgid "UT2K4IRCLink.ConnectingToText"
+msgstr "Connecting to"
+
+msgid "UT2K4IRCLink.TimeOutError"
+msgstr "Timeout connecting to server."
+
+msgid "UT2K4IRCLink.InviteString"
+msgstr "invites you to join"
+
+msgid "UT2K4IRC_ChanKey.EditCaption"
+msgstr "Channel key: "
+
+msgid "UT2K4IRC_ChanKey.EditHint"
+msgstr "Enter the channel key"
+
+msgid "UT2K4IRC_ChanKey.msgCaption"
+msgstr "%chan% is protected with a key."
+
+msgid "UT2K4IRC_Page.HasLeftText"
+msgstr "%Name% has left %Chan%."
+
+msgid "UT2K4IRC_Page.HasJoinedText"
+msgstr "%Name% has joined %Chan%."
+
+msgid "UT2K4IRC_Page.WasKickedByText"
+msgstr "%Kicked% was kicked by %Kicker% ( %Reason% )."
+
+msgid "UT2K4IRC_Page.NowKnownAsText"
+msgstr "%OldName% is now known as %NewName%."
+
+msgid "UT2K4IRC_Page.QuitText"
+msgstr "*** %Name% Quit ( %Reason% )"
+
+msgid "UT2K4IRC_Page.SetsModeText"
+msgstr "*** %Name% sets mode: %mode%."
+
+msgid "UT2K4IRC_Page.NewTopicText"
+msgstr "Topic"
+
+msgid "UT2K4InGameChat.WindowName"
+msgstr "In-Game Chat"
+
+msgid "UT2K4InGameChat.ebSend.Caption"
+msgstr "Say: "
+
+msgid "UT2K4InGameChat.ebSend.Hint"
+msgstr "Prefix a message with a dot (.) to send a team message or a slash (/) to send a command."
+
+msgid "UT2K4InternetSettingsPage.InternetSettingsCancelButton.Caption"
+msgstr "CANCEL"
+
+msgid "UT2K4InternetSettingsPage.InternetSettingsOKButton.Caption"
+msgstr "OK"
+
+msgid "UT2K4InternetSettingsPage.NetspeedComboBox.Caption"
+msgstr "Netspeed: "
+
+msgid "UT2K4InternetSettingsPage.PlayerNameEditbox.Caption"
+msgstr "Player Name: "
+
+msgid "UT2K4InvasionWaveConfig.DiffHint"
+msgstr "How hard should this wave be."
+
+msgid "UT2K4InvasionWaveConfig.DurationHint"
+msgstr "How long should this wave last."
+
+msgid "UT2K4InvasionWaveConfig.MaxInvaderHint"
+msgstr "What is the maximum number of monsters to spawn for this wave."
+
+msgid "UT2K4InvasionWaveConfig.AIHint"
+msgstr "Allow/Disallow this monster"
+
+msgid "UT2K4InvasionWaveConfig.WaveMonsters[0].MName"
+msgstr "Pupae"
+
+msgid "UT2K4InvasionWaveConfig.WaveMonsters[1].MName"
+msgstr "Razor Fly"
+
+msgid "UT2K4InvasionWaveConfig.WaveMonsters[2].MName"
+msgstr "Manta"
+
+msgid "UT2K4InvasionWaveConfig.WaveMonsters[3].MName"
+msgstr "Krall"
+
+msgid "UT2K4InvasionWaveConfig.WaveMonsters[4].MName"
+msgstr "Elite Krall"
+
+msgid "UT2K4InvasionWaveConfig.WaveMonsters[5].MName"
+msgstr "Gasbag"
+
+msgid "UT2K4InvasionWaveConfig.WaveMonsters[6].MName"
+msgstr "Brute"
+
+msgid "UT2K4InvasionWaveConfig.WaveMonsters[7].MName"
+msgstr "Skaarj"
+
+msgid "UT2K4InvasionWaveConfig.WaveMonsters[8].MName"
+msgstr "Behemoth"
+
+msgid "UT2K4InvasionWaveConfig.WaveMonsters[9].MName"
+msgstr "Ice Skaarj"
+
+msgid "UT2K4InvasionWaveConfig.WaveMonsters[10].MName"
+msgstr "Fire Skaarj"
+
+msgid "UT2K4InvasionWaveConfig.WaveMonsters[11].MName"
+msgstr "Warlord"
+
+msgid "UT2K4InvasionWaveConfig.WaveMonsters[12].MName"
+msgstr "Pupae"
+
+msgid "UT2K4InvasionWaveConfig.WaveMonsters[13].MName"
+msgstr "Pupae"
+
+msgid "UT2K4InvasionWaveConfig.WaveMonsters[14].MName"
+msgstr "Razor Fly"
+
+msgid "UT2K4InvasionWaveConfig.WaveMonsters[15].MName"
+msgstr "Razor Fly"
+
+msgid "UT2K4InvasionWaveConfig.WaveNumber.Caption"
+msgstr "Wave No."
+
+msgid "UT2K4InvasionWaveConfig.WaveNumber.Hint"
+msgstr "Select the wave you'd like to configure"
+
+msgid "UT2K4MidGameMenu.LeaveMPButtonText"
+msgstr "DISCONNECT"
+
+msgid "UT2K4MidGameMenu.LeaveSPButtonText"
+msgstr "FORFEIT"
+
+msgid "UT2K4MidGameMenu.LeaveEntryButtonText"
+msgstr "SERVER BROWSER"
+
+msgid "UT2K4MidGameMenu.AddFavoriteButton.Caption"
+msgstr "ADD FAVORITE"
+
+msgid "UT2K4MidGameMenu.BrowserButton.Caption"
+msgstr "SERVER BROWSER"
+
+msgid "UT2K4MidGameMenu.ChangeTeamButton.Caption"
+msgstr "CHANGE TEAM"
+
+msgid "UT2K4MidGameMenu.ContMatchButton.Caption"
+msgstr "CONTINUE"
+
+msgid "UT2K4MidGameMenu.KickVotingButton.Caption"
+msgstr "Kick Voting"
+
+msgid "UT2K4MidGameMenu.MapVotingButton.Caption"
+msgstr "Map Voting"
+
+msgid "UT2K4MidGameMenu.MatchSetupButton.Caption"
+msgstr "Match Setup"
+
+msgid "UT2K4MidGameMenu.QuitGameButton.Caption"
+msgstr "EXIT RED ORCHESTRA"
+
+msgid "UT2K4MidGameMenu.SettingsButton.Caption"
+msgstr "SETTINGS"
+
+msgid "UT2K4MidGameMenu.VotingButton.Caption"
+msgstr "Voting . . . "
+
+msgid "UT2K4ModFooter.BB1.Caption"
+msgstr "Activate"
+
+msgid "UT2K4ModFooter.BB1.Hint"
+msgstr "Activates the selected mod"
+
+msgid "UT2K4ModFooter.BB2.Caption"
+msgstr "Visit Web Site"
+
+msgid "UT2K4ModFooter.BB2.Hint"
+msgstr "Visit the web site of the selected mod"
+
+msgid "UT2K4ModFooter.BB3.Caption"
+msgstr "Download"
+
+msgid "UT2K4ModFooter.BB3.Hint"
+msgstr "Download the selected Ownage map"
+
+msgid "UT2K4ModFooter.BB4.Caption"
+msgstr "Watch Demo"
+
+msgid "UT2K4ModFooter.BB4.Hint"
+msgstr "Watch the selected demo"
+
+msgid "UT2K4ModFooter.BB5.Caption"
+msgstr "Create AVI"
+
+msgid "UT2K4ModFooter.BB5.Hint"
+msgstr "Convert the selected demo to a DIVX AVI"
+
+msgid "UT2K4ModFooter.BB66.Caption"
+msgstr "Play Movie"
+
+msgid "UT2K4ModFooter.BB66.Hint"
+msgstr "Watch the selected movie"
+
+msgid "UT2K4ModFooter.BackB.Caption"
+msgstr "BACK"
+
+msgid "UT2K4ModFooter.BackB.Hint"
+msgstr "Return to the previous menu"
+
+msgid "UT2K4ModsAndDemos.ConnectFailed"
+msgstr "The Red Orchestra master server could not be reached.  Please try again later."
+
+msgid "UT2K4ModsAndDemos.ConnectTimeout"
+msgstr "Your connection to the Red Orchestra master server has timed out."
+
+msgid "UT2K4ModsAndDemos.PanelCaption<0>"
+msgstr "News"
+
+msgid "UT2K4ModsAndDemos.PanelCaption<1>"
+msgstr "User Mods"
+
+msgid "UT2K4ModsAndDemos.PanelCaption<2>"
+msgstr "Ownage Maps"
+
+msgid "UT2K4ModsAndDemos.PanelCaption<3>"
+msgstr "Demos"
+
+msgid "UT2K4ModsAndDemos.PanelCaption<4>"
+msgstr "Movies"
+
+msgid "UT2K4ModsAndDemos.PanelHint<0>"
+msgstr "Get the latest news from the Red Orchestra community..."
+
+msgid "UT2K4ModsAndDemos.PanelHint<1>"
+msgstr "Activate a user mod that is already installed..."
+
+msgid "UT2K4ModsAndDemos.PanelHint<2>"
+msgstr "Epic recommends..."
+
+msgid "UT2K4ModsAndDemos.PanelHint<3>"
+msgstr "Replay a pre-recorded demo file..."
+
+msgid "UT2K4ModsAndDemos.PanelHint<4>"
+msgstr "View fan movies created with UnrealEd and Matinee"
+
+msgid "UT2K4ModsAndDemos.ModHeader.Caption"
+msgstr "The Red Orchestra Community"
+
+msgid "UT2K4Movies.DefaultItems<0>.MapName"
+msgstr "MOV-UT2004-Intro"
+
+msgid "UT2K4Movies.DefaultItems<0>.Title"
+msgstr "UT2004 Single Player Introduction Movie"
+
+msgid "UT2K4Movies.DefaultItems<0>.Author"
+msgstr "Epic Games"
+
+msgid "UT2K4Movies.DefaultItems<1>.MapName"
+msgstr "MOV-UT2-Intro"
+
+msgid "UT2K4Movies.DefaultItems<1>.Title"
+msgstr "UT2003 Single Player Introduction Movie"
+
+msgid "UT2K4Movies.DefaultItems<1>.Author"
+msgstr "Epic Games"
+
+msgid "UT2K4Movies.DefaultItems<2>.MapName"
+msgstr "TUT-BR"
+
+msgid "UT2K4Movies.DefaultItems<2>.Title"
+msgstr "Bombing Run Tutorial"
+
+msgid "UT2K4Movies.DefaultItems<2>.Author"
+msgstr "Epic Games"
+
+msgid "UT2K4Movies.DefaultItems<3>.MapName"
+msgstr "TUT-CTF"
+
+msgid "UT2K4Movies.DefaultItems<3>.Title"
+msgstr "Capture the Flag Tutorial"
+
+msgid "UT2K4Movies.DefaultItems<3>.Author"
+msgstr "Epic Games"
+
+msgid "UT2K4Movies.DefaultItems<4>.MapName"
+msgstr "TUT-DM"
+
+msgid "UT2K4Movies.DefaultItems<4>.Title"
+msgstr "Deathmatch Tutorial"
+
+msgid "UT2K4Movies.DefaultItems<4>.Author"
+msgstr "Epic Games"
+
+msgid "UT2K4Movies.DefaultItems<5>.MapName"
+msgstr "TUT-DOM"
+
+msgid "UT2K4Movies.DefaultItems<5>.Title"
+msgstr "Double Domination Tutorial"
+
+msgid "UT2K4Movies.DefaultItems<5>.Author"
+msgstr "Epic Games"
+
+msgid "UT2K4Movies.DefaultItems<6>.MapName"
+msgstr "TUT-ONS"
+
+msgid "UT2K4Movies.DefaultItems<6>.Title"
+msgstr "Onslaught Tutorial"
+
+msgid "UT2K4Movies.DefaultItems<6>.Author"
+msgstr "Epic Games"
+
+msgid "UT2K4Movies.lNoPreview.Caption"
+msgstr "No Preview Available"
+
+msgid "UT2K4Movies.lbMaps.Hint"
+msgstr "Click a movie to see a preview and description.  Double-click to view it."
+
+msgid "UT2K4Movies.sbMaps.Caption"
+msgstr "Movie Selection"
+
+msgid "UT2K4Movies.sbPreview.Caption"
+msgstr "Preview"
+
+msgid "UT2K4Movies.sbScroll.Caption"
+msgstr "Movie Description"
+
+msgid "UT2K4NetworkStatusMsg.StatusMessages[0]"
+msgstr "The Master server has determined your CD-Key is either invalid or already in use.  If this problem persists, please contact Steam Technicial support."
+
+msgid "UT2K4NetworkStatusMsg.StatusMessages[1]"
+msgstr "A communication link to the Red Orchestra: Ostfront 41-45 master server could not be established.  Please check your connection to the internet and try again."
+
+msgid "UT2K4NetworkStatusMsg.StatusMessages[2]"
+msgstr "Apparently, your communication link to the Red Orchestra: Ostfront 41-45 master server has been interrupted.  Please check your connection to the internet and try again."
+
+msgid "UT2K4NetworkStatusMsg.StatusMessages[3]"
+msgstr "Must Upgrade"
+
+msgid "UT2K4NetworkStatusMsg.StatusMessages[4]"
+msgstr "Client is in Developer Mode!||Your client is currently operating in developer mode and it's access to the master server has been restricted.  Please restart the game and avoid using SET commands that may cause problems.  If the problem persists, please contact Steam Technicial support."
+
+msgid "UT2K4NetworkStatusMsg.StatusMessages[5]"
+msgstr "Modified Client!||Your copy of Red Orchestra: Ostfront 41-45 has in some way been modified.  Because of this, its access to the master server has been restricted.  If this problem persists, please reinstall the game or the latest patch.||This error has been logged at the master server."
+
+msgid "UT2K4NetworkStatusMsg.StatusMessages[6]"
+msgstr "Your CD-KEY has been banned by the master server.  this ban will remain in place until %data%"
+
+msgid "UT2K4NetworkStatusMsg.StatusMessages[7]"
+msgstr "The server you are trying to connect to is currently full.  Please try this server again later, or you may wish to try connecting as a spectator if the server allows it"
+
+msgid "UT2K4NetworkStatusMsg.StatusMessages[8]"
+msgstr "The admin of this server has banned you playing here.  If you feel you do not deserve this ban, the admin's contact email is [%data%]"
+
+msgid "UT2K4NetworkStatusMsg.StatusMessages[9]"
+msgstr "This copy of RO:Ostfront is not compatible with the server you are connecting to."
+
+msgid "UT2K4NetworkStatusMsg.StatusMessages[10]"
+msgstr "There was a fatal problem during login that has caused you to be disconnected from the server.||Reason: %data%"
+
+msgid "UT2K4NetworkStatusMsg.StatusMessages[11]"
+msgstr "You have been forcibly removed from the game.||Reason: %data%"
+
+msgid "UT2K4NetworkStatusMsg.StatusMessages[12]"
+msgstr "An admin of this server has banned you for the remainder of the current game.||If you feel you do not deserve this ban, the admin's email is:|[%data%]."
+
+msgid "UT2K4NetworkStatusMsg.StatusMessages[13]"
+msgstr "You've been permanently banned from playing on this server.||If you feel you do not deserve this ban, the admin's contact email is:|[%data%]."
+
+msgid "UT2K4NetworkStatusMsg.StatusMessages[14]"
+msgstr "An unknown Steam error is preventing you from connecting to this server.||If the problem persists please contact Valve for support."
+
+msgid "UT2K4NetworkStatusMsg.StatusMessages[15]"
+msgstr "You have been banned from this game by VAC."
+
+msgid "UT2K4NetworkStatusMsg.StatusTitle[0]"
+msgstr "Invalid CD-Key"
+
+msgid "UT2K4NetworkStatusMsg.StatusTitle[1]"
+msgstr "Connection Failed"
+
+msgid "UT2K4NetworkStatusMsg.StatusTitle[2]"
+msgstr "Connection Timed Out"
+
+msgid "UT2K4NetworkStatusMsg.StatusTitle[3]"
+msgstr "Must Upgrade"
+
+msgid "UT2K4NetworkStatusMsg.StatusTitle[4]"
+msgstr "Developer Mode"
+
+msgid "UT2K4NetworkStatusMsg.StatusTitle[5]"
+msgstr "Modified Client"
+
+msgid "UT2K4NetworkStatusMsg.StatusTitle[6]"
+msgstr "You have been Banned"
+
+msgid "UT2K4NetworkStatusMsg.StatusTitle[7]"
+msgstr "The Server is Full"
+
+msgid "UT2K4NetworkStatusMsg.StatusTitle[8]"
+msgstr "You have been banned"
+
+msgid "UT2K4NetworkStatusMsg.StatusTitle[9]"
+msgstr "Incompatible Version"
+
+msgid "UT2K4NetworkStatusMsg.StatusTitle[10]"
+msgstr "Problem during Login"
+
+msgid "UT2K4NetworkStatusMsg.StatusTitle[11]"
+msgstr "Kicked"
+
+msgid "UT2K4NetworkStatusMsg.StatusTitle[12]"
+msgstr "Session Ban"
+
+msgid "UT2K4NetworkStatusMsg.StatusTitle[13]"
+msgstr "Permanent Ban"
+
+msgid "UT2K4NetworkStatusMsg.StatusTitle[14]"
+msgstr "Steam Error"
+
+msgid "UT2K4NetworkStatusMsg.StatusTitle[15]"
+msgstr "Steam VAC Ban"
+
+msgid "UT2K4NetworkStatusMsg.UnknownError"
+msgstr "Unknown Network Error"
+
+msgid "UT2K4NetworkStatusMsg.WindowName"
+msgstr "Network Connection Lost"
+
+msgid "UT2K4Ownage.sb1.Caption"
+msgstr "Ownage Maps"
+
+msgid "UT2K4Ownage.sb2.Caption"
+msgstr "Map Details"
+
+msgid "UT2K4PerformWarn.DialogText.Caption"
+msgstr "WARNING"
+
+msgid "UT2K4PerformWarn.DialogText2.Caption"
+msgstr "The change you are making may adversely affect your performance."
+
+msgid "UT2K4PerformWarn.HideCheckbox.Caption"
+msgstr "  do not display this warning again"
+
+msgid "UT2K4PerformWarn.HideCheckbox.Hint"
+msgstr "Check this to disable showing warning messages when adjusting properties in the Settings menu"
+
+msgid "UT2K4PerformWarn.OkButton.Caption"
+msgstr "OK"
+
+msgid "UT2K4PlayInfoPanel.EditText"
+msgstr "Edit"
+
+msgid "UT2K4PlayerLoginMenu.Panels<0>.Caption"
+msgstr "Game"
+
+msgid "UT2K4PlayerLoginMenu.Panels<0>.Hint"
+msgstr "Game Controls"
+
+msgid "UT2K4PlayerLoginMenu.Panels<1>.Caption"
+msgstr "MOTD"
+
+msgid "UT2K4PlayerLoginMenu.Panels<1>.Hint"
+msgstr "Message of the Day"
+
+msgid "UT2K4PlayerLoginMenu.Panels<2>.Caption"
+msgstr "Server Info"
+
+msgid "UT2K4PlayerLoginMenu.Panels<2>.Hint"
+msgstr "Current map rotation and game settings"
+
+msgid "UT2K4PlayerLoginMenu.Panels<3>.Caption"
+msgstr "Communication"
+
+msgid "UT2K4PlayerLoginMenu.Panels<3>.Hint"
+msgstr "Manage communication with other players"
+
+msgid "UT2K4PlayerLoginMenu.Panels<4>.Caption"
+msgstr "Help"
+
+msgid "UT2K4PlayerLoginMenu.Panels<4>.Hint"
+msgstr "Helpful hints"
+
+msgid "UT2K4PlayerLoginMenu.SPRulesPanel.Caption"
+msgstr "Rules"
+
+msgid "UT2K4PlayerLoginMenu.SPRulesPanel.Hint"
+msgstr "Game settings"
+
+msgid "UT2K4QuickPlay.DifficultyOptions<0>"
+msgstr "Beginner"
+
+msgid "UT2K4QuickPlay.DifficultyOptions<1>"
+msgstr "Experienced"
+
+msgid "UT2K4QuickPlay.DifficultyOptions<2>"
+msgstr "Expert"
+
+msgid "UT2K4QuickPlay.SearchingText"
+msgstr "SEARCHING..."
+
+msgid "UT2K4QuickPlay.ReadyText"
+msgstr "Ready"
+
+msgid "UT2K4QuickPlay.ConnectText"
+msgstr "SEARCH"
+
+msgid "UT2K4QuickPlay.CancelText"
+msgstr "CANCEL"
+
+msgid "UT2K4QuickPlay.BeginningSearchText"
+msgstr "Please wait...requesting servers for gametype:"
+
+msgid "UT2K4QuickPlay.AuthFailedText"
+msgstr "Authentication failed!  Please try again later..."
+
+msgid "UT2K4QuickPlay.ServerCountText"
+msgstr "Received/Total - %NumReceived%/%TotalServers%"
+
+msgid "UT2K4QuickPlay.SearchCancelledText"
+msgstr "Search cancelled!"
+
+msgid "UT2K4QuickPlay.ConnectionFailedText"
+msgstr "Connection failed - unable to contact the master server.  Please check your network connection and try again!"
+
+msgid "UT2K4QuickPlay.TimedOutText"
+msgstr "Master server took too long to respond to query.  Please try again later."
+
+msgid "UT2K4QuickPlay.NoServersReceivedText"
+msgstr "Sorry, no valid servers found for this gametype!"
+
+msgid "UT2K4QuickPlay.NoValidText"
+msgstr "Unknown error encountered while pinging servers! Please retry query..."
+
+msgid "UT2K4QuickPlay.WindowName"
+msgstr "Quick Play"
+
+msgid "UT2K4QuickPlay.DifficultyLevel.Caption"
+msgstr "Difficulty"
+
+msgid "UT2K4QuickPlay.GameType.Caption"
+msgstr "Game Type"
+
+msgid "UT2K4QuickPlay.GameType.Hint"
+msgstr "Select the game type you would like to play."
+
+msgid "UT2K4QuickPlay.QuickPlayClose.Caption"
+msgstr "CLOSE"
+
+msgid "UT2K4QuickPlay.QuickPlayClose.Hint"
+msgstr "Close this window"
+
+msgid "UT2K4QuitPage.cNoButton.Caption"
+msgstr "NO"
+
+msgid "UT2K4QuitPage.cQuitDesc.Caption"
+msgstr "Are you sure you wish to quit?"
+
+msgid "UT2K4QuitPage.cYesButton.Caption"
+msgstr "YES"
+
+msgid "UT2K4ServerInfo.PanelCaption<0>"
+msgstr "MOTD"
+
+msgid "UT2K4ServerInfo.PanelCaption<1>"
+msgstr "Rules"
+
+msgid "UT2K4ServerInfo.PanelCaption<2>"
+msgstr "Maps"
+
+msgid "UT2K4ServerInfo.PanelHint<0>"
+msgstr "Message of the Day"
+
+msgid "UT2K4ServerInfo.PanelHint<1>"
+msgstr "Game Rules"
+
+msgid "UT2K4ServerInfo.PanelHint<2>"
+msgstr "Map Rotation"
+
+msgid "UT2K4ServerInfo.ServerBackButton.Caption"
+msgstr "Close"
+
+msgid "UT2K4ServerInfo.ServerBackButton.Hint"
+msgstr "Close this menu"
+
+msgid "UT2K4ServerLoading.OpLoading.Text"
+msgstr ". . . LOADING"
+
+msgid "UT2K4SettingsPage.InvalidStats"
+msgstr "Invalid Stats Info"
+
+msgid "UT2K4SettingsPage.PanelCaption<0>"
+msgstr "Display"
+
+msgid "UT2K4SettingsPage.PanelCaption<1>"
+msgstr "Audio"
+
+msgid "UT2K4SettingsPage.PanelCaption<2>"
+msgstr "Player"
+
+msgid "UT2K4SettingsPage.PanelCaption<3>"
+msgstr "Game"
+
+msgid "UT2K4SettingsPage.PanelCaption<4>"
+msgstr "Input"
+
+msgid "UT2K4SettingsPage.PanelCaption<5>"
+msgstr "Weapons"
+
+msgid "UT2K4SettingsPage.PanelCaption<6>"
+msgstr "HUD"
+
+msgid "UT2K4SettingsPage.PanelHint<0>"
+msgstr "Select your resolution or change your display and detail settings..."
+
+msgid "UT2K4SettingsPage.PanelHint<1>"
+msgstr "Adjust your audio experience..."
+
+msgid "UT2K4SettingsPage.PanelHint<2>"
+msgstr "Configure your UT2004 Avatar..."
+
+msgid "UT2K4SettingsPage.PanelHint<3>"
+msgstr "Configure game and network related settings..."
+
+msgid "UT2K4SettingsPage.PanelHint<4>"
+msgstr "Configure misc. input options..."
+
+msgid "UT2K4SettingsPage.PanelHint<5>"
+msgstr "Adjust your weapon priorities and settings..."
+
+msgid "UT2K4SettingsPage.PanelHint<6>"
+msgstr "Customize your HUD..."
+
+msgid "UT2K4SettingsPage.SettingHeader.Caption"
+msgstr "Settings"
+
+msgid "UT2K4Settings_Footer.BackB.Caption"
+msgstr "BACK"
+
+msgid "UT2K4Settings_Footer.BackB.Hint"
+msgstr "Return to the previous menu"
+
+msgid "UT2K4Settings_Footer.DefaultB.Caption"
+msgstr "DEFAULTS"
+
+msgid "UT2K4Settings_Footer.DefaultB.Hint"
+msgstr "Reset all settings on this page to their default values"
+
+msgid "UT2K4StatsPrompt.NoButton.Caption"
+msgstr "NO"
+
+msgid "UT2K4StatsPrompt.PromptHeader.Caption"
+msgstr "This server has Red Orchestra stats ENABLED!"
+
+msgid "UT2K4StatsPrompt.YesButton.Caption"
+msgstr "YES"
+
+msgid "UT2K4Tab_AdminPlayerList.AdminPlayerBan.Caption"
+msgstr "Ban"
+
+msgid "UT2K4Tab_AdminPlayerList.AdminPlayerBan.Hint"
+msgstr "Ban this player"
+
+msgid "UT2K4Tab_AdminPlayerList.AdminPlayerKick.Caption"
+msgstr "Kick"
+
+msgid "UT2K4Tab_AdminPlayerList.AdminPlayerKick.Hint"
+msgstr "Kick this Player"
+
+msgid "UT2K4Tab_AudioSettings.AudioModes[0]"
+msgstr "Safe Mode"
+
+msgid "UT2K4Tab_AudioSettings.AudioModes[1]"
+msgstr "3D Audio"
+
+msgid "UT2K4Tab_AudioSettings.AudioModes[2]"
+msgstr "H/W 3D Audio"
+
+msgid "UT2K4Tab_AudioSettings.AudioModes[3]"
+msgstr "H/W 3D + EAX"
+
+msgid "UT2K4Tab_AudioSettings.VoiceModes[0]"
+msgstr "All"
+
+msgid "UT2K4Tab_AudioSettings.VoiceModes[1]"
+msgstr "No auto-taunts"
+
+msgid "UT2K4Tab_AudioSettings.VoiceModes[2]"
+msgstr "No taunts"
+
+msgid "UT2K4Tab_AudioSettings.VoiceModes[3]"
+msgstr "None"
+
+msgid "UT2K4Tab_AudioSettings.AnnounceModes[0]"
+msgstr "None"
+
+msgid "UT2K4Tab_AudioSettings.AnnounceModes[1]"
+msgstr "Minimal"
+
+msgid "UT2K4Tab_AudioSettings.AnnounceModes[2]"
+msgstr "All"
+
+msgid "UT2K4Tab_AudioSettings.PanelCaption"
+msgstr "Audio"
+
+msgid "UT2K4Tab_AudioSettings.AudioAnnounce.Caption"
+msgstr "Announcements"
+
+msgid "UT2K4Tab_AudioSettings.AudioAnnounce.Hint"
+msgstr "Adjusts the amount of in-game announcements."
+
+msgid "UT2K4Tab_AudioSettings.AudioAnnouncerVolume.Caption"
+msgstr "Volume"
+
+msgid "UT2K4Tab_AudioSettings.AudioAnnouncerVolume.Hint"
+msgstr "Adjusts the volume of all in game voice messages."
+
+msgid "UT2K4Tab_AudioSettings.AudioAutoTaunt.Caption"
+msgstr "Auto-Taunt"
+
+msgid "UT2K4Tab_AudioSettings.AudioAutoTaunt.Hint"
+msgstr "Enables your in-game player to automatically taunt opponents."
+
+msgid "UT2K4Tab_AudioSettings.AudioBK1.Caption"
+msgstr "Sound Effects"
+
+msgid "UT2K4Tab_AudioSettings.AudioBK2.Caption"
+msgstr "Announcer"
+
+msgid "UT2K4Tab_AudioSettings.AudioBK3.Caption"
+msgstr "Text To Speech"
+
+msgid "UT2K4Tab_AudioSettings.AudioDefaultDriver.Caption"
+msgstr "System Driver"
+
+msgid "UT2K4Tab_AudioSettings.AudioDefaultDriver.Hint"
+msgstr "Use system installed OpenAL driver"
+
+msgid "UT2K4Tab_AudioSettings.AudioEffectsVolumeSlider.Caption"
+msgstr "Effects Volume"
+
+msgid "UT2K4Tab_AudioSettings.AudioEffectsVolumeSlider.Hint"
+msgstr "Adjusts the volume of all in game sound effects."
+
+msgid "UT2K4Tab_AudioSettings.AudioEnableTTS.Caption"
+msgstr "Enable In Game"
+
+msgid "UT2K4Tab_AudioSettings.AudioEnableTTS.Hint"
+msgstr "Enables Text-To-Speech message processing"
+
+msgid "UT2K4Tab_AudioSettings.AudioLowDetail.Caption"
+msgstr "Low Sound Detail"
+
+msgid "UT2K4Tab_AudioSettings.AudioLowDetail.Hint"
+msgstr "Lowers quality of sound."
+
+msgid "UT2K4Tab_AudioSettings.AudioMatureTaunts.Caption"
+msgstr "Mature Taunts"
+
+msgid "UT2K4Tab_AudioSettings.AudioMatureTaunts.Hint"
+msgstr "Enables off-color commentary."
+
+msgid "UT2K4Tab_AudioSettings.AudioMessageBeep.Caption"
+msgstr "Message Beep"
+
+msgid "UT2K4Tab_AudioSettings.AudioMessageBeep.Hint"
+msgstr "Enables a beep when receiving a text message from other players."
+
+msgid "UT2K4Tab_AudioSettings.AudioMode.Caption"
+msgstr "Audio Mode"
+
+msgid "UT2K4Tab_AudioSettings.AudioMode.Hint"
+msgstr "Changes the audio system mode."
+
+msgid "UT2K4Tab_AudioSettings.AudioMusicVolume.Caption"
+msgstr "Music Volume"
+
+msgid "UT2K4Tab_AudioSettings.AudioMusicVolume.Hint"
+msgstr "Adjusts the volume of the background music."
+
+msgid "UT2K4Tab_AudioSettings.AudioPlayVoices.Caption"
+msgstr "Play Voices"
+
+msgid "UT2K4Tab_AudioSettings.AudioPlayVoices.Hint"
+msgstr "Defines the types of voice messages to play."
+
+msgid "UT2K4Tab_AudioSettings.AudioReverseStereo.Caption"
+msgstr "Reverse Stereo"
+
+msgid "UT2K4Tab_AudioSettings.AudioReverseStereo.Hint"
+msgstr "Reverses the left and right audio channels."
+
+msgid "UT2K4Tab_AudioSettings.AudioRewardAnnouncer.Caption"
+msgstr "Reward Announcer"
+
+msgid "UT2K4Tab_AudioSettings.AudioRewardAnnouncer.Hint"
+msgstr "Each tournament player is linked to a Reward announcer that informs you when you've demonstrated exceptional combat skills."
+
+msgid "UT2K4Tab_AudioSettings.AudioStatusAnnouncer.Caption"
+msgstr "Status Announcer"
+
+msgid "UT2K4Tab_AudioSettings.AudioStatusAnnouncer.Hint"
+msgstr "The Status announcer relays important information about the game to tournament players and spectators."
+
+msgid "UT2K4Tab_AudioSettings.EnableVoiceChat.Caption"
+msgstr "Voice Chat"
+
+msgid "UT2K4Tab_AudioSettings.EnableVoiceChat.Hint"
+msgstr "Enables the voice chat system during online matches."
+
+msgid "UT2K4Tab_AudioSettings.IRCTextToSpeech.Caption"
+msgstr "Enable on IRC"
+
+msgid "UT2K4Tab_AudioSettings.IRCTextToSpeech.Hint"
+msgstr "Enables Text-To-Speech processing in the IRC client (only messages from active tab is processed)"
+
+msgid "UT2K4Tab_AudioSettings.OnlyTeamTTSCheck.Caption"
+msgstr "Team Messages Only"
+
+msgid "UT2K4Tab_AudioSettings.OnlyTeamTTSCheck.Hint"
+msgstr "If enabled, only team messages will be spoken in team games, unless the match or round is over."
+
+msgid "UT2K4Tab_AudioSettings.VoiceOptions.ButtonCaption"
+msgstr "Configure"
+
+msgid "UT2K4Tab_AudioSettings.VoiceOptions.MenuTitle"
+msgstr "Voice Chat Options"
+
+msgid "UT2K4Tab_AudioSettings.VoiceOptions.Caption"
+msgstr "Voice Options"
+
+msgid "UT2K4Tab_BotConfigBase.DMCaption"
+msgstr "DeathMatch Team"
+
+msgid "UT2K4Tab_BotConfigBase.RedCaption"
+msgstr "Red Team"
+
+msgid "UT2K4Tab_BotConfigBase.BotConfigBlueBackground.Caption"
+msgstr "Blue Team"
+
+msgid "UT2K4Tab_BotConfigBase.BotConfigBlueList.Hint"
+msgstr "These are the bots that will play on the blue team"
+
+msgid "UT2K4Tab_BotConfigBase.BotConfigCharList.Hint"
+msgstr "To add a bot, drag the portrait to the desired team's list, or use the arrow buttons above"
+
+msgid "UT2K4Tab_BotConfigBase.BotConfigMainBG.Caption"
+msgstr "Drag a character on to its respective team"
+
+msgid "UT2K4Tab_BotConfigBase.BotConfigRedBackground.Caption"
+msgstr "Red Team"
+
+msgid "UT2K4Tab_BotConfigBase.BotConfigRedList.Hint"
+msgstr "These are the bots that will play on the red team"
+
+msgid "UT2K4Tab_BotConfigBase.IABotConfigConfig.Caption"
+msgstr "Info"
+
+msgid "UT2K4Tab_BotConfigBase.IABotConfigConfig.Hint"
+msgstr "View detailed stats for this bot."
+
+msgid "UT2K4Tab_BotConfigBase.IABotConfigDoConfig.Caption"
+msgstr "Edit"
+
+msgid "UT2K4Tab_BotConfigBase.IABotConfigDoConfig.Hint"
+msgstr "Customize the AI attributes for this bot"
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[0]"
+msgstr "16-bit"
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[1]"
+msgstr "32-bit"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[0]"
+msgstr "Lowest"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[1]"
+msgstr "Very Low"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[2]"
+msgstr "Lower"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[3]"
+msgstr "Low"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[4]"
+msgstr "Normal"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[5]"
+msgstr "High"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[6]"
+msgstr "Higher"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[7]"
+msgstr "Very High"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[8]"
+msgstr "Highest"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[0]"
+msgstr "None"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[1]"
+msgstr "Blob"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[2]"
+msgstr "Full"
+
+msgid "UT2K4Tab_DetailSettings.RenderModeText[0]"
+msgstr "Direct 3D"
+
+msgid "UT2K4Tab_DetailSettings.RenderModeText[1]"
+msgstr "Software"
+
+msgid "UT2K4Tab_DetailSettings.RelaunchQuestion"
+msgstr "The graphics mode has been successfully changed.  However, it will not take effect until the next time the game is started.  Would you like to restart Red Orchestra right now?"
+
+msgid "UT2K4Tab_DetailSettings.InvalidSelectionText"
+msgstr "The selected custom resolution is reported to be incompatible with your machine.  In order to ensure maximum stability, it is recommended that you choose a compatible resolution from the 'Resolution' drop-down menu"
+
+msgid "UT2K4Tab_DetailSettings.PanelCaption"
+msgstr "Display"
+
+msgid "UT2K4Tab_DetailSettings.BrightnessSlider.Caption"
+msgstr "Brightness"
+
+msgid "UT2K4Tab_DetailSettings.BrightnessSlider.Hint"
+msgstr "Use the slider to adjust the Brightness to suit your monitor."
+
+msgid "UT2K4Tab_DetailSettings.ContrastSlider.Caption"
+msgstr "Contrast"
+
+msgid "UT2K4Tab_DetailSettings.ContrastSlider.Hint"
+msgstr "Use the slider to adjust the Contrast to suit your monitor."
+
+msgid "UT2K4Tab_DetailSettings.DetailAnisotropy.Caption"
+msgstr "Anisotropic Filtering"
+
+msgid "UT2K4Tab_DetailSettings.DetailAnisotropy.Hint"
+msgstr "Adjust the level of anisotropic filtering.  'None' recommended for low-performance PC's"
+
+msgid "UT2K4Tab_DetailSettings.DetailAntialiasing.Caption"
+msgstr "Antialiasing"
+
+msgid "UT2K4Tab_DetailSettings.DetailAntialiasing.Hint"
+msgstr "Adjust the detail of multisampling for antialiasing.  'None' recommended for low-performance PC's"
+
+msgid "UT2K4Tab_DetailSettings.DetailCharacterDetail.Caption"
+msgstr "Character Detail"
+
+msgid "UT2K4Tab_DetailSettings.DetailCharacterDetail.Hint"
+msgstr "Changes how much character detail will be rendered."
+
+msgid "UT2K4Tab_DetailSettings.DetailCharacterShadows.Caption"
+msgstr "Character Shadows"
+
+msgid "UT2K4Tab_DetailSettings.DetailCharacterShadows.Hint"
+msgstr "Adjust the detail of character shadows.  'Blob' or 'None' recommended for low-performance PC's"
+
+msgid "UT2K4Tab_DetailSettings.DetailCoronas.Caption"
+msgstr "Coronas"
+
+msgid "UT2K4Tab_DetailSettings.DetailCoronas.Hint"
+msgstr "Enables coronas."
+
+msgid "UT2K4Tab_DetailSettings.DetailDecalStay.Caption"
+msgstr "Decal Stay"
+
+msgid "UT2K4Tab_DetailSettings.DetailDecalStay.Hint"
+msgstr "Changes how long weapon scarring effects stay around."
+
+msgid "UT2K4Tab_DetailSettings.DetailDecals.Caption"
+msgstr "Decals"
+
+msgid "UT2K4Tab_DetailSettings.DetailDecals.Hint"
+msgstr "Enables weapon scarring effects."
+
+msgid "UT2K4Tab_DetailSettings.DetailDecoLayers.Caption"
+msgstr "Foliage"
+
+msgid "UT2K4Tab_DetailSettings.DetailDecoLayers.Hint"
+msgstr "Enables grass and other decorative foliage."
+
+msgid "UT2K4Tab_DetailSettings.DetailDetailTextures.Caption"
+msgstr "Detail Textures"
+
+msgid "UT2K4Tab_DetailSettings.DetailDetailTextures.Hint"
+msgstr "Enables detail textures."
+
+msgid "UT2K4Tab_DetailSettings.DetailDynamicLighting.Caption"
+msgstr "Dynamic Lighting"
+
+msgid "UT2K4Tab_DetailSettings.DetailDynamicLighting.Hint"
+msgstr "Enables dynamic lights."
+
+msgid "UT2K4Tab_DetailSettings.DetailForceFSAASS.Caption"
+msgstr "Force FSAA Screenshots"
+
+msgid "UT2K4Tab_DetailSettings.DetailForceFSAASS.Hint"
+msgstr "Forces screenshots to work in fullscreen if driver AA is implemented and not game AA."
+
+msgid "UT2K4Tab_DetailSettings.DetailPhysics.Caption"
+msgstr "Physics Detail"
+
+msgid "UT2K4Tab_DetailSettings.DetailPhysics.Hint"
+msgstr "Changes the physics simulation level of detail."
+
+msgid "UT2K4Tab_DetailSettings.DetailProjectors.Caption"
+msgstr "Projectors"
+
+msgid "UT2K4Tab_DetailSettings.DetailProjectors.Hint"
+msgstr "Enables projectors."
+
+msgid "UT2K4Tab_DetailSettings.DetailTextureDetail.Caption"
+msgstr "Texture Detail"
+
+msgid "UT2K4Tab_DetailSettings.DetailTextureDetail.Hint"
+msgstr "Changes how much world detail will be rendered."
+
+msgid "UT2K4Tab_DetailSettings.DetailTrilinear.Caption"
+msgstr "Trilinear Filtering"
+
+msgid "UT2K4Tab_DetailSettings.DetailTrilinear.Hint"
+msgstr "Enables trilinear filtering, recommended for high-performance PCs."
+
+msgid "UT2K4Tab_DetailSettings.DetailWorldDetail.Caption"
+msgstr "World Detail"
+
+msgid "UT2K4Tab_DetailSettings.DetailWorldDetail.Hint"
+msgstr "Changes the level of detail used for optional geometry and effects."
+
+msgid "UT2K4Tab_DetailSettings.DistanceLODSlider.Caption"
+msgstr "Fog Distance"
+
+msgid "UT2K4Tab_DetailSettings.DistanceLODSlider.Hint"
+msgstr "Reduce the fog distance to improve performance."
+
+msgid "UT2K4Tab_DetailSettings.GammaSlider.Caption"
+msgstr "Gamma"
+
+msgid "UT2K4Tab_DetailSettings.GammaSlider.Hint"
+msgstr "Use the slider to adjust the Gamma to suit your monitor."
+
+msgid "UT2K4Tab_DetailSettings.MeshLOD.Caption"
+msgstr "Dynamic Mesh LOD"
+
+msgid "UT2K4Tab_DetailSettings.MeshLOD.Hint"
+msgstr "Adjusts how aggressively character and vehicle details are reduced at a distance.  Higher settings increase the distance at which details are reduced, possibly improving visual detail at a cost in performance"
+
+msgid "UT2K4Tab_DetailSettings.RenderDeviceCombo.Caption"
+msgstr "Render Device"
+
+msgid "UT2K4Tab_DetailSettings.RenderDeviceCombo.Hint"
+msgstr "Alternate rendering devices may offer better performance on your machine."
+
+msgid "UT2K4Tab_DetailSettings.VideoColorDepth.Caption"
+msgstr "Color Depth"
+
+msgid "UT2K4Tab_DetailSettings.VideoColorDepth.Hint"
+msgstr "Select the maximum number of colors to display at one time."
+
+msgid "UT2K4Tab_DetailSettings.VideoFullScreen.Caption"
+msgstr "Full Screen"
+
+msgid "UT2K4Tab_DetailSettings.VideoFullScreen.Hint"
+msgstr "Check this box to run the game full screen."
+
+msgid "UT2K4Tab_DetailSettings.VideoResolution.Caption"
+msgstr "Resolution"
+
+msgid "UT2K4Tab_DetailSettings.VideoResolution.Hint"
+msgstr "Select the video resolution at which you wish to play."
+
+msgid "UT2K4Tab_DetailSettings.WeatherEffects.Caption"
+msgstr "Weather Effects"
+
+msgid "UT2K4Tab_DetailSettings.WeatherEffects.Hint"
+msgstr "Enable weather effects like rain-drops and lightning."
+
+msgid "UT2K4Tab_DetailSettings.sbSection1.Caption"
+msgstr "Resolution"
+
+msgid "UT2K4Tab_DetailSettings.sbSection2.Caption"
+msgstr "Options"
+
+msgid "UT2K4Tab_DetailSettings.sbSection3.Caption"
+msgstr "Gamma Test"
+
+msgid "UT2K4Tab_GameSettings.NetSpeedText[0]"
+msgstr "Modem"
+
+msgid "UT2K4Tab_GameSettings.NetSpeedText[1]"
+msgstr "ISDN"
+
+msgid "UT2K4Tab_GameSettings.NetSpeedText[2]"
+msgstr "Cable/ADSL"
+
+msgid "UT2K4Tab_GameSettings.NetSpeedText[3]"
+msgstr "LAN/T1"
+
+msgid "UT2K4Tab_GameSettings.StatsURL"
+msgstr "http://www.redorchestragame.com/"
+
+msgid "UT2K4Tab_GameSettings.EpicIDMsg"
+msgstr "Your Unique id is:"
+
+msgid "UT2K4Tab_GameSettings.PanelCaption"
+msgstr "Game"
+
+msgid "UT2K4Tab_GameSettings.EpicID.Caption"
+msgstr "Your Unique id is:"
+
+msgid "UT2K4Tab_GameSettings.GameAutoAim.Caption"
+msgstr "Auto Aim"
+
+msgid "UT2K4Tab_GameSettings.GameAutoAim.Hint"
+msgstr "Enabling this option will activate computer-assisted aiming in single player games."
+
+msgid "UT2K4Tab_GameSettings.GameBK1.Caption"
+msgstr "Gameplay"
+
+msgid "UT2K4Tab_GameSettings.GameBK2.Caption"
+msgstr "Network"
+
+msgid "UT2K4Tab_GameSettings.GameBK3.Caption"
+msgstr "Stats"
+
+msgid "UT2K4Tab_GameSettings.GameBK4.Caption"
+msgstr "Misc"
+
+msgid "UT2K4Tab_GameSettings.GameBK5.Caption"
+msgstr "Unique ID / Messages"
+
+msgid "UT2K4Tab_GameSettings.GameClassicTrans.Caption"
+msgstr "High Beacon Trajectory"
+
+msgid "UT2K4Tab_GameSettings.GameClassicTrans.Hint"
+msgstr "Enable to use traditional-style high translocator beacon toss trajectory"
+
+msgid "UT2K4Tab_GameSettings.GameDodging.Caption"
+msgstr "Dodging"
+
+msgid "UT2K4Tab_GameSettings.GameDodging.Hint"
+msgstr "Turn this option off to disable special dodge moves."
+
+msgid "UT2K4Tab_GameSettings.GameGoreLevel.Caption"
+msgstr "Gore Level"
+
+msgid "UT2K4Tab_GameSettings.GameGoreLevel.Hint"
+msgstr "Configure the amount of blood and gore you see while playing the game"
+
+msgid "UT2K4Tab_GameSettings.GameWeaponBob.Caption"
+msgstr "Weapon Bob"
+
+msgid "UT2K4Tab_GameSettings.GameWeaponBob.Hint"
+msgstr "Prevent your weapon from bobbing up and down while moving"
+
+msgid "UT2K4Tab_GameSettings.InvalidWarning.Caption"
+msgstr "Your stats username or password is invalid.  Your username must be at least 4 characters long, and your password must be at least 6 characters long."
+
+msgid "UT2K4Tab_GameSettings.LandShaking.Caption"
+msgstr "Landing Viewshake"
+
+msgid "UT2K4Tab_GameSettings.LandShaking.Hint"
+msgstr "Enable view shaking upon landing."
+
+msgid "UT2K4Tab_GameSettings.NetworkDynamicNetspeed.Caption"
+msgstr "Dynamic Netspeed"
+
+msgid "UT2K4Tab_GameSettings.NetworkDynamicNetspeed.Hint"
+msgstr "Netspeed is automatically adjusted based on the speed of your network connection"
+
+msgid "UT2K4Tab_GameSettings.OnlineNetSpeed.Caption"
+msgstr "Connection"
+
+msgid "UT2K4Tab_GameSettings.OnlineNetSpeed.Hint"
+msgstr "How fast is your connection?"
+
+msgid "UT2K4Tab_GameSettings.OnlineStatsName.Caption"
+msgstr "UserName"
+
+msgid "UT2K4Tab_GameSettings.OnlineStatsName.Hint"
+msgstr "Please select a name to use for UT Stats!"
+
+msgid "UT2K4Tab_GameSettings.OnlineStatsPW.Caption"
+msgstr "Password"
+
+msgid "UT2K4Tab_GameSettings.OnlineStatsPW.Hint"
+msgstr "Please select a password that will secure your UT Stats!"
+
+msgid "UT2K4Tab_GameSettings.OnlineTrackStats.Caption"
+msgstr "Track Stats"
+
+msgid "UT2K4Tab_GameSettings.OnlineTrackStats.Hint"
+msgstr "Enable this option to join the online ranking system."
+
+msgid "UT2K4Tab_GameSettings.PrecacheSkins.Caption"
+msgstr "Preload all player skins"
+
+msgid "UT2K4Tab_GameSettings.PrecacheSkins.Hint"
+msgstr "Preloads all player skins, increasing level load time but reducing hitches during network games.  You must have at least 512 MB of system memory to use this option."
+
+msgid "UT2K4Tab_GameSettings.SpeechRecognition.Caption"
+msgstr "Speech Recognition"
+
+msgid "UT2K4Tab_GameSettings.SpeechRecognition.Hint"
+msgstr "Enable speech recognition"
+
+msgid "UT2K4Tab_GameSettings.ViewOnlineStats.Caption"
+msgstr "View Stats"
+
+msgid "UT2K4Tab_GameSettings.ViewOnlineStats.Hint"
+msgstr "Click to launch the UT stats website."
+
+msgid "UT2K4Tab_GameSettings.WeaponAutoSwitch.Caption"
+msgstr "Weapon Switch On Pickup"
+
+msgid "UT2K4Tab_GameSettings.WeaponAutoSwitch.Hint"
+msgstr "Automatically change weapons when you pick up a better one."
+
+msgid "UT2K4Tab_GameTypeBase.EpicGameCaption"
+msgstr "Default Game Types"
+
+msgid "UT2K4Tab_GameTypeBase.CustomGameCaption"
+msgstr "Custom Game Type"
+
+msgid "UT2K4Tab_GameTypeBase.GameTypeLeftGroup.Caption"
+msgstr "Available Game Types"
+
+msgid "UT2K4Tab_GameTypeBase.GameTypeRightGroup.Caption"
+msgstr "Preview"
+
+msgid "UT2K4Tab_GameTypeBase.NoPreview.Caption"
+msgstr "No Preview Available"
+
+msgid "UT2K4Tab_HudSettings.PanelCaption"
+msgstr "HUD"
+
+msgid "UT2K4Tab_HudSettings.CustomHUDButton.Caption"
+msgstr "Configure"
+
+msgid "UT2K4Tab_HudSettings.CustomHUDButton.Hint"
+msgstr "Opens the custom HUD configuration menu for the specified gametype."
+
+msgid "UT2K4Tab_HudSettings.CustomHUDColor.Caption"
+msgstr "Custom HUD Color"
+
+msgid "UT2K4Tab_HudSettings.CustomHUDColor.Hint"
+msgstr "Use configured HUD color instead of team colors"
+
+msgid "UT2K4Tab_HudSettings.CustomHUDSelect.Hint"
+msgstr "To configure settings specific to a particular gametype, select the gametype from the list, then click the button to open the menu."
+
+msgid "UT2K4Tab_HudSettings.GameBK.Caption"
+msgstr "Options"
+
+msgid "UT2K4Tab_HudSettings.GameBK1.Caption"
+msgstr "Visuals"
+
+msgid "UT2K4Tab_HudSettings.GameDeathMsgs.Caption"
+msgstr "No Console Death Messages"
+
+msgid "UT2K4Tab_HudSettings.GameDeathMsgs.Hint"
+msgstr "Turn off reporting of death messages in console"
+
+msgid "UT2K4Tab_HudSettings.GameHudMessageCount.Caption"
+msgstr "Max. Chat Count"
+
+msgid "UT2K4Tab_HudSettings.GameHudMessageCount.Hint"
+msgstr "Number of lines of chat to display at once"
+
+msgid "UT2K4Tab_HudSettings.GameHudMessageOffset.Caption"
+msgstr "Message Font Offset"
+
+msgid "UT2K4Tab_HudSettings.GameHudMessageOffset.Hint"
+msgstr "Adjust the size of game messages."
+
+msgid "UT2K4Tab_HudSettings.GameHudMessageScale.Caption"
+msgstr "Chat Font Size"
+
+msgid "UT2K4Tab_HudSettings.GameHudMessageScale.Hint"
+msgstr "Adjust the size of chat messages."
+
+msgid "UT2K4Tab_HudSettings.GameHudOpacity.Caption"
+msgstr "HUD Opacity"
+
+msgid "UT2K4Tab_HudSettings.GameHudOpacity.Hint"
+msgstr "Adjust the transparency of the HUD"
+
+msgid "UT2K4Tab_HudSettings.GameHudScale.Caption"
+msgstr "HUD Scaling"
+
+msgid "UT2K4Tab_HudSettings.GameHudScale.Hint"
+msgstr "Adjust the size of the HUD"
+
+msgid "UT2K4Tab_HudSettings.GameHudShowEnemyNames.Caption"
+msgstr "Show Enemy Names"
+
+msgid "UT2K4Tab_HudSettings.GameHudShowEnemyNames.Hint"
+msgstr "Display enemies' names above their heads"
+
+msgid "UT2K4Tab_HudSettings.GameHudShowPersonalInfo.Caption"
+msgstr "Show Personal Info"
+
+msgid "UT2K4Tab_HudSettings.GameHudShowPersonalInfo.Hint"
+msgstr "Display health and armor on the HUD."
+
+msgid "UT2K4Tab_HudSettings.GameHudShowScore.Caption"
+msgstr "Show Score"
+
+msgid "UT2K4Tab_HudSettings.GameHudShowScore.Hint"
+msgstr "Check to show scores on the HUD"
+
+msgid "UT2K4Tab_HudSettings.GameHudShowWeaponBar.Caption"
+msgstr "Weapon Bar"
+
+msgid "UT2K4Tab_HudSettings.GameHudShowWeaponBar.Hint"
+msgstr "Select whether the weapons bar should appear on the HUD"
+
+msgid "UT2K4Tab_HudSettings.GameHudShowWeaponInfo.Caption"
+msgstr "Show Weapon Info"
+
+msgid "UT2K4Tab_HudSettings.GameHudShowWeaponInfo.Hint"
+msgstr "Show current weapon ammunition status."
+
+msgid "UT2K4Tab_HudSettings.GameHudVisible.Caption"
+msgstr "Hide HUD"
+
+msgid "UT2K4Tab_HudSettings.GameHudVisible.Hint"
+msgstr "Hide the HUD while playing"
+
+msgid "UT2K4Tab_HudSettings.HudColorB.Caption"
+msgstr "Blue:"
+
+msgid "UT2K4Tab_HudSettings.HudColorB.Hint"
+msgstr "Adjust the amount of blue in the HUD."
+
+msgid "UT2K4Tab_HudSettings.HudColorG.Caption"
+msgstr "Green:"
+
+msgid "UT2K4Tab_HudSettings.HudColorG.Hint"
+msgstr "Adjust the amount of green in the HUD."
+
+msgid "UT2K4Tab_HudSettings.HudColorR.Caption"
+msgstr "Red:"
+
+msgid "UT2K4Tab_HudSettings.HudColorR.Hint"
+msgstr "Adjust the amount of red in the HUD."
+
+msgid "UT2K4Tab_IForceSettings.PanelCaption"
+msgstr "Input"
+
+msgid "UT2K4Tab_IForceSettings.ControlBindButton.Caption"
+msgstr "Configure Controls"
+
+msgid "UT2K4Tab_IForceSettings.ControlBindButton.Hint"
+msgstr "Configure controls and keybinds"
+
+msgid "UT2K4Tab_IForceSettings.InputAutoSlope.Caption"
+msgstr "Auto Slope"
+
+msgid "UT2K4Tab_IForceSettings.InputAutoSlope.Hint"
+msgstr "When enabled, your view will automatically pitch up/down when on a slope."
+
+msgid "UT2K4Tab_IForceSettings.InputBK1.Caption"
+msgstr "Options"
+
+msgid "UT2K4Tab_IForceSettings.InputBK2.Caption"
+msgstr "TouchSense Force Feedback"
+
+msgid "UT2K4Tab_IForceSettings.InputBK3.Caption"
+msgstr "Fine Tuning"
+
+msgid "UT2K4Tab_IForceSettings.InputDodgeTime.Caption"
+msgstr "Dodge Double-Click Time"
+
+msgid "UT2K4Tab_IForceSettings.InputDodgeTime.Hint"
+msgstr "Determines how fast you have to double click to dodge"
+
+msgid "UT2K4Tab_IForceSettings.InputIFDamageEffects.Caption"
+msgstr "Damage Effects"
+
+msgid "UT2K4Tab_IForceSettings.InputIFDamageEffects.Hint"
+msgstr "Turn this option On/Off to feel the damage you take."
+
+msgid "UT2K4Tab_IForceSettings.InputIFGUIEffects.Caption"
+msgstr "Vehicle Effects"
+
+msgid "UT2K4Tab_IForceSettings.InputIFGUIEffects.Hint"
+msgstr "Turn this option On/Off to feel the vehicle effects."
+
+msgid "UT2K4Tab_IForceSettings.InputIFPickupEffects.Caption"
+msgstr "Pickup Effects"
+
+msgid "UT2K4Tab_IForceSettings.InputIFPickupEffects.Hint"
+msgstr "Turn this option On/Off to feel the items you pick up."
+
+msgid "UT2K4Tab_IForceSettings.InputIFWeaponEffects.Caption"
+msgstr "Weapon Effects"
+
+msgid "UT2K4Tab_IForceSettings.InputIFWeaponEffects.Hint"
+msgstr "Turn this option On/Off to feel the weapons you fire."
+
+msgid "UT2K4Tab_IForceSettings.InputInvertMouse.Caption"
+msgstr "Invert Mouse"
+
+msgid "UT2K4Tab_IForceSettings.InputInvertMouse.Hint"
+msgstr "When enabled, the Y axis of your mouse will be inverted."
+
+msgid "UT2K4Tab_IForceSettings.InputMenuSensitivity.Caption"
+msgstr "Mouse Sensitivity (Menus)"
+
+msgid "UT2K4Tab_IForceSettings.InputMenuSensitivity.Hint"
+msgstr "Adjust mouse speed within the menus"
+
+msgid "UT2K4Tab_IForceSettings.InputMouseAccel.Caption"
+msgstr "Mouse Accel. Threshold"
+
+msgid "UT2K4Tab_IForceSettings.InputMouseAccel.Hint"
+msgstr "Adjust to determine the amount of movement needed before acceleration is applied"
+
+msgid "UT2K4Tab_IForceSettings.InputMouseLag.Caption"
+msgstr "Reduce Mouse Lag"
+
+msgid "UT2K4Tab_IForceSettings.InputMouseLag.Hint"
+msgstr "Enable this option will reduce the amount of lag in your mouse."
+
+msgid "UT2K4Tab_IForceSettings.InputMouseSensitivity.Caption"
+msgstr "Mouse Sensitivity (Game)"
+
+msgid "UT2K4Tab_IForceSettings.InputMouseSensitivity.Hint"
+msgstr "Adjust mouse sensitivity"
+
+msgid "UT2K4Tab_IForceSettings.InputMouseSmoothStr.Caption"
+msgstr "Mouse Smoothing Strength"
+
+msgid "UT2K4Tab_IForceSettings.InputMouseSmoothStr.Hint"
+msgstr "Adjust the amount of smoothing that is applied to mouse movements"
+
+msgid "UT2K4Tab_IForceSettings.InputMouseSmoothing.Caption"
+msgstr "Mouse Smoothing"
+
+msgid "UT2K4Tab_IForceSettings.InputMouseSmoothing.Hint"
+msgstr "Enable this option to automatically smooth out movements in your mouse."
+
+msgid "UT2K4Tab_IForceSettings.InputUseJoystick.Caption"
+msgstr "Enable Joystick"
+
+msgid "UT2K4Tab_IForceSettings.InputUseJoystick.Hint"
+msgstr "Enable this option to enable joystick support."
+
+msgid "UT2K4Tab_IForceSettings.SpeechBindButton.Caption"
+msgstr "Speech Binder"
+
+msgid "UT2K4Tab_IForceSettings.SpeechBindButton.Hint"
+msgstr "Configure custom keybinds for in-game messages"
+
+msgid "UT2K4Tab_MainBase.MessageNoInfo"
+msgstr "No information available!"
+
+msgid "UT2K4Tab_MainBase.AuthorText"
+msgstr "Author"
+
+msgid "UT2K4Tab_MainBase.PlayerText"
+msgstr "players"
+
+msgid "UT2K4Tab_MainBase.FilterText"
+msgstr "Only Official Maps"
+
+msgid "UT2K4Tab_MainBase.ClearText"
+msgstr "Show All Maps"
+
+msgid "UT2K4Tab_MainBase.LinkText"
+msgstr "Link Setup"
+
+msgid "UT2K4Tab_MainBase.DefaultText"
+msgstr "Default"
+
+msgid "UT2K4Tab_MainBase.AutoSelectText"
+msgstr "Random"
+
+msgid "UT2K4Tab_MainBase.FilterCheck.Caption"
+msgstr "Only Official Maps"
+
+msgid "UT2K4Tab_MainBase.FilterCheck.Hint"
+msgstr "Hides all maps not created by Tripwire."
+
+msgid "UT2K4Tab_MainSP.MapCaption"
+msgstr "Maps"
+
+msgid "UT2K4Tab_MainSP.BonusVehicles"
+msgstr " (Bonus Vehicles)"
+
+msgid "UT2K4Tab_MainSP.BonusVehiclesMsg"
+msgstr "(Includes Bonus Vehicles)|"
+
+msgid "UT2K4Tab_MainSP.AvailableMaps.Hint"
+msgstr "Click a mapname to see a preview and description.  Double-click to play a match on the map."
+
+msgid "UT2K4Tab_MainSP.FilterCheck.Caption"
+msgstr "Only Official Maps"
+
+msgid "UT2K4Tab_MainSP.FilterCheck.Hint"
+msgstr "Hides all maps not created by Tripwire."
+
+msgid "UT2K4Tab_MainSP.MapAuthorLabel.Caption"
+msgstr "Testing"
+
+msgid "UT2K4Tab_MainSP.MaplistButton.ButtonCaption"
+msgstr "Maplist Configuration"
+
+msgid "UT2K4Tab_MainSP.MaplistButton.Hint"
+msgstr "Modify the maps that should be used in gameplay"
+
+msgid "UT2K4Tab_MainSP.NoPreview.Caption"
+msgstr "No Preview Available"
+
+msgid "UT2K4Tab_MainSP.OptionsGroup.Caption"
+msgstr "Options"
+
+msgid "UT2K4Tab_MainSP.PreviewGroup.Caption"
+msgstr "Preview"
+
+msgid "UT2K4Tab_MainSP.RecommendedPlayers.Caption"
+msgstr "Best for 4 to 8 players"
+
+msgid "UT2K4Tab_MainSP.ScrollSection.Caption"
+msgstr "Map Desc"
+
+msgid "UT2K4Tab_MainSP.SelectionGroup.Caption"
+msgstr "Map Selection"
+
+msgid "UT2K4Tab_MainSP.TutorialButton.ButtonCaption"
+msgstr "Watch Game Tutorial"
+
+msgid "UT2K4Tab_MainSP.TutorialButton.Hint"
+msgstr "Watch the tutorial for this gametype."
+
+msgid "UT2K4Tab_MidGameHelp.NextHint.Caption"
+msgstr "Next Hint"
+
+msgid "UT2K4Tab_MidGameHelp.PrevHint.Caption"
+msgstr "Previous Hint"
+
+msgid "UT2K4Tab_MidGameHelp.sbGameDesc.Caption"
+msgstr "Game Description"
+
+msgid "UT2K4Tab_MidGameHelp.sbHints.Caption"
+msgstr "Helpful Hints"
+
+msgid "UT2K4Tab_MidGameRulesCombo.DefaultRulesText"
+msgstr "Receiving game rules from server"
+
+msgid "UT2K4Tab_MidGameRulesCombo.DefaultMapsText"
+msgstr "Receiving maplist from server"
+
+msgid "UT2K4Tab_MidGameRulesCombo.ComboContextMenu.ContextItems<0>"
+msgstr "Switch to this map"
+
+msgid "UT2K4Tab_MidGameRulesCombo.ComboContextMenu.ContextItems<1>"
+msgstr "Remove this map from rotation"
+
+msgid "UT2K4Tab_MidGameRulesCombo.sbMaps.Caption"
+msgstr "Map Rotation"
+
+msgid "UT2K4Tab_MidGameRulesCombo.sbRules.Caption"
+msgstr "Server Rules"
+
+msgid "UT2K4Tab_MidGameVoiceChat.ApplySuccessText"
+msgstr "Changes were saved successfully!"
+
+msgid "UT2K4Tab_MidGameVoiceChat.ApplyFailText"
+msgstr "Changes could not be saved!"
+
+msgid "UT2K4Tab_MidGameVoiceChat.RedTeamDesc"
+msgstr "RED TEAM"
+
+msgid "UT2K4Tab_MidGameVoiceChat.BlueTeamDesc"
+msgstr "BLUE TEAM"
+
+msgid "UT2K4Tab_MidGameVoiceChat.BanPlayer.Caption"
+msgstr "Ban Player"
+
+msgid "UT2K4Tab_MidGameVoiceChat.BanPlayer.Hint"
+msgstr "Ban this player from your personal voice chat channel"
+
+msgid "UT2K4Tab_MidGameVoiceChat.NOSPEECH.Caption"
+msgstr "Ignore Speech"
+
+msgid "UT2K4Tab_MidGameVoiceChat.NOTEXT.Caption"
+msgstr "Ignore Text"
+
+msgid "UT2K4Tab_MidGameVoiceChat.NOTEXT.Hint"
+msgstr "Do not receive any text messages from this player"
+
+msgid "UT2K4Tab_MidGameVoiceChat.NoVoiceChat.Caption"
+msgstr "Ignore Voice Chat"
+
+msgid "UT2K4Tab_MidGameVoiceChat.NoVoiceChat.Hint"
+msgstr "Do not receive any voice chat messages from this player, in any voice chat room"
+
+msgid "UT2K4Tab_MidGameVoiceChat.OptionBackground.Caption"
+msgstr "Voice Options"
+
+msgid "UT2K4Tab_MidGameVoiceChat.PlayersBackground.Caption"
+msgstr "Players"
+
+msgid "UT2K4Tab_MidGameVoiceChat.SpecBackground.Caption"
+msgstr "Spectators"
+
+msgid "UT2K4Tab_MutatorBase.GroupConflictText"
+msgstr "Unable to add multiple mutators from the same mutator group!"
+
+msgid "UT2K4Tab_MutatorBase.ThisText"
+msgstr "This Mutator"
+
+msgid "UT2K4Tab_MutatorBase.TheseText"
+msgstr "These Mutators"
+
+msgid "UT2K4Tab_MutatorBase.ContextItems[0]"
+msgstr "Add %text%"
+
+msgid "UT2K4Tab_MutatorBase.ContextItems[1]"
+msgstr "Remove %text%"
+
+msgid "UT2K4Tab_MutatorBase.ContextItems[2]"
+msgstr "Configure %text%"
+
+msgid "UT2K4Tab_MutatorBase.ActiveBackground.Caption"
+msgstr "Active Mutators"
+
+msgid "UT2K4Tab_MutatorBase.AvailBackground.Caption"
+msgstr "Available Mutators"
+
+msgid "UT2K4Tab_MutatorBase.DescriptionBackground.Caption"
+msgstr "Mutator Details"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorAdd.Caption"
+msgstr "Add"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorAdd.Hint"
+msgstr "Adds the selection to the list of mutators to play with."
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorAll.Caption"
+msgstr "Add All"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorAll.Hint"
+msgstr "Adds all mutators to the list of mutators to play with."
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorAvailList.Hint"
+msgstr "These are the available mutators."
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorClear.Caption"
+msgstr "Remove All"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorClear.Hint"
+msgstr "Removes all mutators from the list of mutators to play with."
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorConfig.Caption"
+msgstr "Configure Mutators"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorConfig.Hint"
+msgstr "Configure the selected mutators"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorRemove.Caption"
+msgstr "Remove"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorRemove.Hint"
+msgstr "Removes the selection from the list of mutators to play with."
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorSelectedList.Hint"
+msgstr "These are the current selected mutators."
+
+msgid "UT2K4Tab_PlayerLoginControls.LeaveMPButtonText"
+msgstr "Disconnect"
+
+msgid "UT2K4Tab_PlayerLoginControls.LeaveSPButtonText"
+msgstr "Forfeit"
+
+msgid "UT2K4Tab_PlayerLoginControls.SpectateButtonText"
+msgstr "Spectate"
+
+msgid "UT2K4Tab_PlayerLoginControls.JoinGameButtonText"
+msgstr "Join"
+
+msgid "UT2K4Tab_PlayerLoginControls.ContextItems<0>"
+msgstr "Unignore text"
+
+msgid "UT2K4Tab_PlayerLoginControls.ContextItems<1>"
+msgstr "Unignore speech"
+
+msgid "UT2K4Tab_PlayerLoginControls.ContextItems<2>"
+msgstr "Unignore voice chat"
+
+msgid "UT2K4Tab_PlayerLoginControls.ContextItems<3>"
+msgstr "Unban from voice chat"
+
+msgid "UT2K4Tab_PlayerLoginControls.DefaultItems<0>"
+msgstr "Ignore text"
+
+msgid "UT2K4Tab_PlayerLoginControls.DefaultItems<1>"
+msgstr "Ignore speech"
+
+msgid "UT2K4Tab_PlayerLoginControls.DefaultItems<2>"
+msgstr "Ignore voice chat"
+
+msgid "UT2K4Tab_PlayerLoginControls.DefaultItems<3>"
+msgstr "Ban from voice chat"
+
+msgid "UT2K4Tab_PlayerLoginControls.KickPlayer"
+msgstr "Kick "
+
+msgid "UT2K4Tab_PlayerLoginControls.BanPlayer"
+msgstr "Ban "
+
+msgid "UT2K4Tab_PlayerLoginControls.BuddyText"
+msgstr "Add To Buddy List"
+
+msgid "UT2K4Tab_PlayerLoginControls.RedTeam"
+msgstr "Red Team:"
+
+msgid "UT2K4Tab_PlayerLoginControls.BlueTeam"
+msgstr "Blue Team:"
+
+msgid "UT2K4Tab_PlayerLoginControls.BrowserButton.Caption"
+msgstr "Server Browser"
+
+msgid "UT2K4Tab_PlayerLoginControls.FavoritesButton.Caption"
+msgstr "Add to Favs"
+
+msgid "UT2K4Tab_PlayerLoginControls.FavoritesButton.Hint"
+msgstr "Add this server to your Favorites"
+
+msgid "UT2K4Tab_PlayerLoginControls.KickVotingButton.Caption"
+msgstr "Kick Voting"
+
+msgid "UT2K4Tab_PlayerLoginControls.MapVotingButton.Caption"
+msgstr "Map Voting"
+
+msgid "UT2K4Tab_PlayerLoginControls.MatchSetupButton.Caption"
+msgstr "Match Setup"
+
+msgid "UT2K4Tab_PlayerLoginControls.QuitGameButton.Caption"
+msgstr "Exit Game"
+
+msgid "UT2K4Tab_PlayerLoginControls.SBBlue.Caption"
+msgstr "Blue Team"
+
+msgid "UT2K4Tab_PlayerLoginControls.SBFFA.Caption"
+msgstr "Players"
+
+msgid "UT2K4Tab_PlayerLoginControls.SBRed.Caption"
+msgstr "Red Team"
+
+msgid "UT2K4Tab_PlayerLoginControls.SettingsButton.Caption"
+msgstr "Settings"
+
+msgid "UT2K4Tab_PlayerLoginControls.SpectateButton.Caption"
+msgstr "Spectate"
+
+msgid "UT2K4Tab_PlayerLoginControls.TeamButton.Caption"
+msgstr "Change Team"
+
+msgid "UT2K4Tab_PlayerSettings.HandNames[0]"
+msgstr "Left"
+
+msgid "UT2K4Tab_PlayerSettings.HandNames[1]"
+msgstr "Center"
+
+msgid "UT2K4Tab_PlayerSettings.HandNames[2]"
+msgstr "Right"
+
+msgid "UT2K4Tab_PlayerSettings.HandNames[3]"
+msgstr "Hidden"
+
+msgid "UT2K4Tab_PlayerSettings.TeamNames[0]"
+msgstr "Red"
+
+msgid "UT2K4Tab_PlayerSettings.TeamNames[1]"
+msgstr "Blue"
+
+msgid "UT2K4Tab_PlayerSettings.TeamNames[2]"
+msgstr "None"
+
+msgid "UT2K4Tab_PlayerSettings.ClickInst"
+msgstr "Double-Click or drag to select"
+
+msgid "UT2K4Tab_PlayerSettings.All"
+msgstr "All"
+
+msgid "UT2K4Tab_PlayerSettings.Previews[0]"
+msgstr "View Normal Skin"
+
+msgid "UT2K4Tab_PlayerSettings.Previews[1]"
+msgstr "View Red Skin"
+
+msgid "UT2K4Tab_PlayerSettings.Previews[2]"
+msgstr "View Blue Skin"
+
+msgid "UT2K4Tab_PlayerSettings.ShowBioCaption"
+msgstr "Portrait"
+
+msgid "UT2K4Tab_PlayerSettings.Show3DViewCaption"
+msgstr "3D View"
+
+msgid "UT2K4Tab_PlayerSettings.DefaultText"
+msgstr "Default"
+
+msgid "UT2K4Tab_PlayerSettings.PanelCaption"
+msgstr "Player"
+
+msgid "UT2K4Tab_PlayerSettings.Player3DView.Caption"
+msgstr "3D View"
+
+msgid "UT2K4Tab_PlayerSettings.Player3DView.Hint"
+msgstr "Toggle between 3D view and portrait of character."
+
+msgid "UT2K4Tab_PlayerSettings.PlayerBK1.Caption"
+msgstr "3D View"
+
+msgid "UT2K4Tab_PlayerSettings.PlayerBK2.Caption"
+msgstr "Misc."
+
+msgid "UT2K4Tab_PlayerSettings.PlayerBK3.Caption"
+msgstr "Biography"
+
+msgid "UT2K4Tab_PlayerSettings.PlayerFOV.Caption"
+msgstr "Default FOV"
+
+msgid "UT2K4Tab_PlayerSettings.PlayerFOV.Hint"
+msgstr "This value will change your field of view while playing."
+
+msgid "UT2K4Tab_PlayerSettings.PlayerHand.Caption"
+msgstr "Weapon Hand"
+
+msgid "UT2K4Tab_PlayerSettings.PlayerHand.Hint"
+msgstr "Changes whether your weapon is visible."
+
+msgid "UT2K4Tab_PlayerSettings.PlayerName.Caption"
+msgstr "Name"
+
+msgid "UT2K4Tab_PlayerSettings.PlayerName.Hint"
+msgstr "Changes the alias you play as."
+
+msgid "UT2K4Tab_PlayerSettings.PlayerSmallWeap.Caption"
+msgstr "Small Weapons"
+
+msgid "UT2K4Tab_PlayerSettings.PlayerSmallWeap.Hint"
+msgstr "Makes your first person weapon smaller."
+
+msgid "UT2K4Tab_PlayerSettings.PlayerTeam.Caption"
+msgstr "Preferred Team"
+
+msgid "UT2K4Tab_PlayerSettings.PlayerTeam.Hint"
+msgstr "Changes the team you will play on by default."
+
+msgid "UT2K4Tab_PlayerSettings.SkinPreview.Hint"
+msgstr "Show how the model looks using the selected skin."
+
+msgid "UT2K4Tab_PlayerSettings.VoiceType.Caption"
+msgstr "Voice Type"
+
+msgid "UT2K4Tab_PlayerSettings.VoiceType.Hint"
+msgstr "Choose how your character's voice will sound in the game."
+
+msgid "UT2K4Tab_PlayerSettings.bPickModel.Caption"
+msgstr "Change Character"
+
+msgid "UT2K4Tab_PlayerSettings.bPickModel.Hint"
+msgstr "Select a new Character."
+
+msgid "UT2K4Tab_ServerInfo.DefaultText"
+msgstr "Receiving Rules from Server...||This feature requires that the server be running the latest patch"
+
+msgid "UT2K4Tab_ServerInfo.ServerInfoLabel.Caption"
+msgstr "Rules"
+
+msgid "UT2K4Tab_ServerMOTD.sbAdmin.Caption"
+msgstr "Your Admin is"
+
+msgid "UT2K4Tab_ServerMOTD.sbMOTD.Caption"
+msgstr "Message of the Day"
+
+msgid "UT2K4Tab_ServerMapList.DefaultText"
+msgstr "Receiving Map Rotation from Server..."
+
+msgid "UT2K4Tab_ServerMapList.ServerInfoLabel.Caption"
+msgstr "Maps"
+
+msgid "UT2K4Tab_ServerRulesPanel.EnableWebadmin.Caption"
+msgstr "Enable WebAdmin"
+
+msgid "UT2K4Tab_ServerRulesPanel.EnableWebadmin.Hint"
+msgstr "Enables remote web-based administration of the server"
+
+msgid "UT2K4Tab_ServerRulesPanel.LANServer.Caption"
+msgstr "LAN Server"
+
+msgid "UT2K4Tab_ServerRulesPanel.LANServer.Hint"
+msgstr "Optimizes various engine and network settings for LAN-based play.  Enabling this option when running an internet server will cause EXTREME lag during the match!"
+
+msgid "UT2K4Tab_ServerRulesPanel.WebadminPort.Caption"
+msgstr "WebAdmin Port"
+
+msgid "UT2K4Tab_ServerRulesPanel.WebadminPort.Hint"
+msgstr "Select which port should be used to connect to the remote web-based administration"
+
+msgid "UT2K4Tab_WeaponPref.HiddenText"
+msgstr "Hidden"
+
+msgid "UT2K4Tab_WeaponPref.LoadingText"
+msgstr "...Loading Weapon Database..."
+
+msgid "UT2K4Tab_WeaponPref.PanelCaption"
+msgstr "Weapons"
+
+msgid "UT2K4Tab_WeaponPref.CustomWeaponCrosshair.Caption"
+msgstr "Custom Weapon Crosshairs"
+
+msgid "UT2K4Tab_WeaponPref.CustomWeaponCrosshair.Hint"
+msgstr "Enable this option to use weapon-specific crosshairs."
+
+msgid "UT2K4Tab_WeaponPref.GameCrossHair.Caption"
+msgstr "Crosshair"
+
+msgid "UT2K4Tab_WeaponPref.GameCrossHair.Hint"
+msgstr "Please select your crosshair!"
+
+msgid "UT2K4Tab_WeaponPref.GameHudCrossHairA.Caption"
+msgstr "Opacity:"
+
+msgid "UT2K4Tab_WeaponPref.GameHudCrossHairA.Hint"
+msgstr "Changes the opacity of your crosshair."
+
+msgid "UT2K4Tab_WeaponPref.GameHudCrossHairB.Caption"
+msgstr "Blue:"
+
+msgid "UT2K4Tab_WeaponPref.GameHudCrossHairB.Hint"
+msgstr "Changes the color of your crosshair."
+
+msgid "UT2K4Tab_WeaponPref.GameHudCrossHairG.Caption"
+msgstr "Green:"
+
+msgid "UT2K4Tab_WeaponPref.GameHudCrossHairG.Hint"
+msgstr "Changes the color of your crosshair."
+
+msgid "UT2K4Tab_WeaponPref.GameHudCrossHairR.Caption"
+msgstr "Red:"
+
+msgid "UT2K4Tab_WeaponPref.GameHudCrossHairR.Hint"
+msgstr "Changes the color of your crosshair."
+
+msgid "UT2K4Tab_WeaponPref.GameHudCrosshairScale.Caption"
+msgstr "Scale:"
+
+msgid "UT2K4Tab_WeaponPref.GameHudCrosshairScale.Hint"
+msgstr "Changes the crosshair scale."
+
+msgid "UT2K4Tab_WeaponPref.WeaponBK.Caption"
+msgstr "Weapon"
+
+msgid "UT2K4Tab_WeaponPref.WeaponMesh.Caption"
+msgstr "Classic Model"
+
+msgid "UT2K4Tab_WeaponPref.WeaponMesh.Hint"
+msgstr "Enable to use the classic model for this weapon"
+
+msgid "UT2K4Tab_WeaponPref.WeaponOptionBK.Caption"
+msgstr "Crosshairs"
+
+msgid "UT2K4Tab_WeaponPref.WeaponPrefWeapDown.Hint"
+msgstr "Decrease the priority this weapon will have when picking your best weapon."
+
+msgid "UT2K4Tab_WeaponPref.WeaponPrefWeapList.Hint"
+msgstr "Select order for weapons"
+
+msgid "UT2K4Tab_WeaponPref.WeaponPrefWeapUp.Hint"
+msgstr "Increase the priority this weapon will have when picking your best weapon."
+
+msgid "UT2K4Tab_WeaponPref.WeaponPriorityBK.Caption"
+msgstr "Weapon Priorities"
+
+msgid "UT2K4Tab_WeaponPref.WeaponSwap.Caption"
+msgstr "Swap Fire Mode"
+
+msgid "UT2K4Tab_WeaponPref.WeaponSwap.Hint"
+msgstr "Check this box to swap the firing mode on the selected weapon."
+
+msgid "UT2K4TryAMod.InfoText"
+msgstr "At the bottom of the server browser, there is a checkbox marked [Show Standard Servers Only], which is checked by default.  If you uncheck this box, the server browser will display servers running gameplay modifications which may radically alter gameplay.  If you are looking for something different, try unchecking that box."
+
+msgid "UT2K4TryAMod.InfoCaption"
+msgstr "Special Message..."
+
+msgid "UT2K4UserMods.NoModsListText"
+msgstr "No Mods Installed"
+
+msgid "UT2K4UserMods.NoModsInfoText"
+msgstr "There are currently no mods or TC installed in this copy of UT2004.  Add message pimping cool places to get them here"
+
+msgid "UT2K4UserMods.sb1.Caption"
+msgstr "Mods"
+
+msgid "UT2K4UserMods.sb2.Caption"
+msgstr "Description"
+
+msgid "UT2K4VideoChangeOK.RestoreText"
+msgstr "(Original settings will be restored in %count% %seconds%)"
+
+msgid "UT2K4VideoChangeOK.SecondText"
+msgstr "second"
+
+msgid "UT2K4VideoChangeOK.SecondsText"
+msgstr "seconds"
+
+msgid "UT2K4VideoChangeOK.bCancel.Caption"
+msgstr "Restore Settings"
+
+msgid "UT2K4VideoChangeOK.bOk.Caption"
+msgstr "Keep Settings"
+
+msgid "UT2K4VideoChangeOK.lbText.Caption"
+msgstr "Accept these settings?"
+
+msgid "UT2K4VideoChangeOK.lbText2.Caption"
+msgstr "(Original settings will be restored in 15 seconds)"
+
+msgid "UT2K4_FilterListPage.CantRemove"
+msgstr "You can not remove the default filter"
+
+msgid "UT2K4_FilterListPage.WindowName"
+msgstr "Select Filters"
+
+msgid "UT2K4_FilterListPage.bCancel.Caption"
+msgstr "Cancel"
+
+msgid "UT2K4_FilterListPage.bCreate.Caption"
+msgstr "Create"
+
+msgid "UT2K4_FilterListPage.bEdit.Caption"
+msgstr "Edit"
+
+msgid "UT2K4_FilterListPage.bOk.Caption"
+msgstr "OK"
+
+msgid "UT2K4_FilterListPage.bRemove.Caption"
+msgstr "Remove"
+
+msgid "UT2K4_FilterListPage.sbBackground.Caption"
+msgstr "Filters..."
+
+msgid "UT2k4Browser_BuddyList.ColumnHeadings<0>"
+msgstr "Buddy Name"
+
+msgid "UT2k4Browser_Footer.BrowserBack.Caption"
+msgstr "BACK"
+
+msgid "UT2k4Browser_Footer.BrowserBack.Hint"
+msgstr "Return to the previous menu"
+
+msgid "UT2k4Browser_Footer.BrowserFilter.Caption"
+msgstr "FILTERS"
+
+msgid "UT2k4Browser_Footer.BrowserFilter.Hint"
+msgstr "Filters allow more control over which servers will appear in the server browser lists."
+
+msgid "UT2k4Browser_Footer.BrowserJoin.Caption"
+msgstr "JOIN"
+
+msgid "UT2k4Browser_Footer.BrowserRefresh.Caption"
+msgstr "REFRESH"
+
+msgid "UT2k4Browser_Footer.BrowserSpec.Caption"
+msgstr "SPECTATE"
+
+msgid "UT2k4Browser_Footer.OnlyStandardCheckBox.Caption"
+msgstr "Standard Servers Only"
+
+msgid "UT2k4Browser_Footer.OnlyStandardCheckBox.Hint"
+msgstr "Only display standard servers (no mutators) in the server browser.  This option overrides filter settings."
+
+msgid "UT2k4Browser_IRC.SystemLabel"
+msgstr "System"
+
+msgid "UT2k4Browser_IRC.PanelCaption"
+msgstr "Red Orchestra Internet Chat Client"
+
+msgid "UT2k4Browser_MOTD.UpgradeCaption"
+msgstr "UPGRADE"
+
+msgid "UT2k4Browser_MOTD.VersionString"
+msgstr "Version"
+
+msgid "UT2k4Browser_MOTD.ConnectFailed"
+msgstr "The Red Orchestra master server could not be reached.  Please try again later."
+
+msgid "UT2k4Browser_MOTD.ConnectTimeout"
+msgstr "Your connection to the Red Orchestra master server has timed out"
+
+msgid "UT2k4Browser_MOTD.PanelCaption"
+msgstr "News from Tripwire Interactive"
+
+msgid "UT2k4Browser_MOTD.QuickPlay.Caption"
+msgstr "QUICK PLAY"
+
+msgid "UT2k4Browser_MOTD.QuickPlay.Hint"
+msgstr "Open a dialog that can help you easily find the best online server based on your criteria"
+
+msgid "UT2k4Browser_OpenIP.OKButtonHint"
+msgstr "Open a connection to this IP address."
+
+msgid "UT2k4Browser_OpenIP.CancelButtonHint"
+msgstr "Close this page without connecting to a server."
+
+msgid "UT2k4Browser_OpenIP.EditBoxHint"
+msgstr "Enter the address for the server you'd like to connect to - separate the IP and port with the  :  symbol"
+
+msgid "UT2k4Browser_OpenIP.IPDesc.Caption"
+msgstr "Enter New IP Address"
+
+msgid "UT2k4Browser_OpenIP.IpEntryBox.Caption"
+msgstr "IP Address: "
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<0>"
+msgstr "Name"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<1>"
+msgstr "Score"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<2>"
+msgstr "Rank"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<3>"
+msgstr "Ping"
+
+msgid "UT2k4Browser_PlayersListBox.ContextMenuText[0]"
+msgstr "Show Player's Stats"
+
+msgid "UT2k4Browser_PlayersListBox.ContextMenuText[1]"
+msgstr "Add To Buddy List"
+
+msgid "UT2k4Browser_RulesList.TrueString"
+msgstr "Enabled"
+
+msgid "UT2k4Browser_RulesList.FalseString"
+msgstr "Disabled"
+
+msgid "UT2k4Browser_RulesList.ServerModeString"
+msgstr "Server Mode"
+
+msgid "UT2k4Browser_RulesList.DedicatedString"
+msgstr "Dedicated"
+
+msgid "UT2k4Browser_RulesList.NonDedicatedString"
+msgstr "Non-Dedicated"
+
+msgid "UT2k4Browser_RulesList.AdminNameString"
+msgstr "Server Admin"
+
+msgid "UT2k4Browser_RulesList.AdminEmailString"
+msgstr "Admin Email"
+
+msgid "UT2k4Browser_RulesList.PasswordString"
+msgstr "Requires Password"
+
+msgid "UT2k4Browser_RulesList.GameStatsString"
+msgstr "Red Orchestra Stats"
+
+msgid "UT2k4Browser_RulesList.GameSpeedString"
+msgstr "Game Speed"
+
+msgid "UT2k4Browser_RulesList.MutatorString"
+msgstr "Mutator"
+
+msgid "UT2k4Browser_RulesList.BalanceTeamsString"
+msgstr "Bots Balance Teams"
+
+msgid "UT2k4Browser_RulesList.PlayersBalanceTeamsString"
+msgstr "Balance Teams"
+
+msgid "UT2k4Browser_RulesList.FriendlyFireString"
+msgstr "Friendly Fire"
+
+msgid "UT2k4Browser_RulesList.GoalScoreString"
+msgstr "Goal Score"
+
+msgid "UT2k4Browser_RulesList.TimeLimitString"
+msgstr "Time Limit"
+
+msgid "UT2k4Browser_RulesList.MinPlayersString"
+msgstr "Minimum Players (bots)"
+
+msgid "UT2k4Browser_RulesList.TranslocatorString"
+msgstr "Translocator"
+
+msgid "UT2k4Browser_RulesList.WeaponStayString"
+msgstr "Weapons Stay"
+
+msgid "UT2k4Browser_RulesList.MapVotingString"
+msgstr "Map Voting"
+
+msgid "UT2k4Browser_RulesList.KickVotingString"
+msgstr "Kick Voting"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<0>"
+msgstr "Setting"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<1>"
+msgstr "Value"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<0>"
+msgstr "Join Server"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<1>"
+msgstr "Join As Spectator"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<2>"
+msgstr "-"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<3>"
+msgstr "Refresh Server Info"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<4>"
+msgstr "Refresh List"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<5>"
+msgstr "-"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<6>"
+msgstr "Configure Filters"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<7>"
+msgstr "Create Template"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<8>"
+msgstr "Deactivate All Filters"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<9>"
+msgstr "-"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<10>"
+msgstr "Add To Favorites"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<11>"
+msgstr "Copy server address"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<12>"
+msgstr "Open IP"
+
+msgid "UT2k4Browser_ServerListPageBase.PingingText"
+msgstr "Pinging Servers ( %NumRec% / %TotalNum% )"
+
+msgid "UT2k4Browser_ServerListPageBase.PingCompleteText"
+msgstr "Pinging Complete! %NumServers% Servers, %NumPlayers% Players"
+
+msgid "UT2k4Browser_ServerListPageBase.QueryCompleteString"
+msgstr "Query Complete! Received: %NumServers% Servers"
+
+msgid "UT2k4Browser_ServerListPageBase.PanelCaption"
+msgstr "Server Browser"
+
+msgid "UT2k4Browser_ServerListPageBuddy.AddBuddyCaption"
+msgstr "ADD BUDDY"
+
+msgid "UT2k4Browser_ServerListPageBuddy.AddBuddyLabel"
+msgstr "Add Buddy"
+
+msgid "UT2k4Browser_ServerListPageBuddy.RemoveBuddyCaption"
+msgstr "REMOVE BUDDY"
+
+msgid "UT2k4Browser_ServerListPageBuddy.BuddyNameCaption"
+msgstr "Buddy Name: "
+
+msgid "UT2k4Browser_ServerListPageBuddy.PanelCaption"
+msgstr "Buddy Browser"
+
+msgid "UT2k4Browser_ServerListPageBuddy.RCMenu.ContextItems<0>"
+msgstr "Add Buddy"
+
+msgid "UT2k4Browser_ServerListPageBuddy.RCMenu.ContextItems<1>"
+msgstr "Remove Buddy"
+
+msgid "UT2k4Browser_ServerListPageFavorites.AddFavoriteCaption"
+msgstr "ADD FAVORITE"
+
+msgid "UT2k4Browser_ServerListPageFavorites.RemoveFavoriteCaption"
+msgstr "REMOVE FAVORITE"
+
+msgid "UT2k4Browser_ServerListPageFavorites.RemoveFavoriteText"
+msgstr "Remove Favorite"
+
+msgid "UT2k4Browser_ServerListPageFavorites.EditFavoriteText"
+msgstr "Edit IP Address"
+
+msgid "UT2k4Browser_ServerListPageFavorites.PanelCaption"
+msgstr "Server Browser : Favorites"
+
+msgid "UT2k4Browser_ServerListPageLAN.PanelCaption"
+msgstr "Server Browser : LAN"
+
+msgid "UT2k4Browser_ServersList.IconDescriptions<0>"
+msgstr "Passworded"
+
+msgid "UT2k4Browser_ServersList.IconDescriptions<2>"
+msgstr "Latest Version"
+
+msgid "UT2k4Browser_ServersList.IconDescriptions<3>"
+msgstr "Listen Server"
+
+msgid "UT2k4Browser_ServersList.IconDescriptions<4>"
+msgstr "VAC Secured"
+
+msgid "UT2k4Browser_ServersList.IconDescriptions<5>"
+msgstr "Standard Server"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<1>"
+msgstr "Server Name"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<2>"
+msgstr "Map"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<3>"
+msgstr "Players"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<4>"
+msgstr "Ping"
+
+msgid "UT2k4IRC_Channel.OpUserText"
+msgstr "Make Op"
+
+msgid "UT2k4IRC_Channel.HelpUserText"
+msgstr "Make Helper"
+
+msgid "UT2k4IRC_Channel.VoiceUserText"
+msgstr "Make Voice"
+
+msgid "UT2k4IRC_Channel.ReasonText"
+msgstr "Reason: "
+
+msgid "UT2k4IRC_Channel.MessageUserText"
+msgstr "Open Query"
+
+msgid "UT2k4IRC_Channel.WhoisUserText"
+msgstr "Whois"
+
+msgid "UT2k4IRC_Channel.DeopUserText"
+msgstr "Remove Op"
+
+msgid "UT2k4IRC_Channel.DehelpUserText"
+msgstr "Remove Helper"
+
+msgid "UT2k4IRC_Channel.DevoiceUserText"
+msgstr "Remove Voice"
+
+msgid "UT2k4IRC_Channel.KickUserText"
+msgstr "Kick User"
+
+msgid "UT2k4IRC_NewNick.EditCaption"
+msgstr "New Nickname: "
+
+msgid "UT2k4IRC_NewNick.EditHint"
+msgstr "Enter your desired nick, then press OK to save the changes."
+
+msgid "UT2k4IRC_Panel.ConnectText"
+msgstr "CONNECT"
+
+msgid "UT2k4IRC_Panel.DisconnectText"
+msgstr "DISCONNECT"
+
+msgid "UT2k4IRC_Panel.LocalChannel"
+msgstr "#ut"
+
+msgid "UT2k4IRC_Panel.MyChannelCombo.Caption"
+msgstr "Channel"
+
+msgid "UT2k4IRC_Panel.MyConnectButton.Caption"
+msgstr "CONNECT"
+
+msgid "UT2k4IRC_Panel.MyJoinChannelButton.Caption"
+msgstr "JOIN"
+
+msgid "UT2k4IRC_Panel.MyRemoveChannelButton.Caption"
+msgstr "REMOVE"
+
+msgid "UT2k4IRC_Panel.MyRemoveServerButton.Caption"
+msgstr "REMOVE"
+
+msgid "UT2k4IRC_Panel.MyServerCombo.Caption"
+msgstr "Server"
+
+msgid "UT2k4IRC_System.NotInAChannelText"
+msgstr "Not in a channel!"
+
+msgid "UT2k4IRC_System.KickedFromText"
+msgstr "You were kicked from"
+
+msgid "UT2k4IRC_System.ByText"
+msgstr "by"
+
+msgid "UT2k4IRC_System.IsAwayText"
+msgstr "is away"
+
+msgid "UT2k4IRC_System.ChooseNewNickText"
+msgstr "Choose A New IRC Nickname"
+
+msgid "UT2k4IRC_System.NickInUseText"
+msgstr "Nickname Already In Use"
+
+msgid "UT2k4IRC_System.NickInvalidText"
+msgstr "Nickname Is Invalid"
+
+msgid "UT2k4IRC_System.LeavePrivateText"
+msgstr "CLOSE %ChanName% "
+
+msgid "UT2k4IRC_System.CloseWindowCaption"
+msgstr "LEAVE CHANNEL"
+
+msgid "UT2k4IRC_System.DisconnectCaption"
+msgstr "DISCONNECT"
+
+msgid "UT2k4IRC_System.ChangeNickCaption"
+msgstr "CHANGE NICK"
+
+msgid "UT2k4IRC_System.InvalidModeText"
+msgstr "Invalid parameters for MODE - Syntax: /MODE [#]target [[+|-]modes [Extra Params]]"
+
+msgid "UT2k4IRC_System.InvalidKickText"
+msgstr "Invalid parameters for %Cmd% - Syntax: /%Cmd% #ChannelName Nick :[Reason]"
+
+msgid "UT2k4MainMenu.NewNewsMsg"
+msgstr "  (New Update Available)"
+
+msgid "UT2k4MainMenu.FireWallTitle"
+msgstr "Important"
+
+msgid "UT2k4MainMenu.FireWallMsg"
+msgstr "It has been determined that the Window's Firewall is enabled and that UT2004 is not yet authorized to connect to the internet.  Authorization is required in order to use the online components of the game.  Please refer to the README.TXT for more information."
+
+msgid "UT2k4MainMenu.HostButton.Caption"
+msgstr "Host Game"
+
+msgid "UT2k4MainMenu.HostButton.Hint"
+msgstr "Start a server and invite others to join your game"
+
+msgid "UT2k4MainMenu.InstantActionButton.Caption"
+msgstr "Instant Action"
+
+msgid "UT2k4MainMenu.InstantActionButton.Hint"
+msgstr "Play a practice match"
+
+msgid "UT2k4MainMenu.ModsAndDemosButton.Caption"
+msgstr "Community"
+
+msgid "UT2k4MainMenu.ModsAndDemosButton.Hint"
+msgstr "Get the latest news, demos and mods from the UT2004 community"
+
+msgid "UT2k4MainMenu.MultiplayerButton.Caption"
+msgstr "Join Game"
+
+msgid "UT2k4MainMenu.MultiplayerButton.Hint"
+msgstr "Play with human opponents over a LAN or the internet"
+
+msgid "UT2k4MainMenu.QuitButton.Caption"
+msgstr "Exit UT2004"
+
+msgid "UT2k4MainMenu.QuitButton.Hint"
+msgstr "Exit the game"
+
+msgid "UT2k4MainMenu.SettingsButton.Caption"
+msgstr "Settings"
+
+msgid "UT2k4MainMenu.SettingsButton.Hint"
+msgstr "Change your controls and settings"
+
+msgid "UT2k4MainMenu.SinglePlayerButton.Caption"
+msgstr "Single Player"
+
+msgid "UT2k4MainMenu.SinglePlayerButton.Hint"
+msgstr "Play through the Tournament"
+
+msgid "UT2k4ModelSelect.WindowName"
+msgstr "Select Character"
+
+msgid "UT2k4ModelSelect.CharRace.Caption"
+msgstr "Race"
+
+msgid "UT2k4ModelSelect.CharRace.Hint"
+msgstr "Filter the available characters by race."
+
+msgid "UT2k4ServerBrowser.InternetOptionsText"
+msgstr "You have not fully configured your internet play options.  It is recommended that you configure a unique player name and review your netspeed setting before joining a multiplayer game.|Would you like to do this now?"
+
+msgid "UT2k4ServerBrowser.PanelCaption<0>"
+msgstr "News"
+
+msgid "UT2k4ServerBrowser.PanelCaption<1>"
+msgstr "Chat"
+
+msgid "UT2k4ServerBrowser.PanelCaption<2>"
+msgstr "Favorites"
+
+msgid "UT2k4ServerBrowser.PanelCaption<3>"
+msgstr "LAN"
+
+msgid "UT2k4ServerBrowser.PanelCaption<4>"
+msgstr "Buddies"
+
+msgid "UT2k4ServerBrowser.PanelCaption<5>"
+msgstr "Internet"
+
+msgid "UT2k4ServerBrowser.PanelHint<0>"
+msgstr "Get the latest news from Tripwire"
+
+msgid "UT2k4ServerBrowser.PanelHint<1>"
+msgstr "RO integrated IRC client"
+
+msgid "UT2k4ServerBrowser.PanelHint<2>"
+msgstr "Choose a server to join from among your favorites"
+
+msgid "UT2k4ServerBrowser.PanelHint<3>"
+msgstr "View all RO servers currently running on your LAN"
+
+msgid "UT2k4ServerBrowser.PanelHint<4>"
+msgstr "See where your buddies are currently playing, or join them in the game"
+
+msgid "UT2k4ServerBrowser.PanelHint<5>"
+msgstr "Choose from hundreds of RO servers across the world"
+
+msgid "UT2k4ServerBrowser.GameTypeCombo.Caption"
+msgstr "Game Type"
+
+msgid "UT2k4ServerBrowser.GameTypeCombo.Hint"
+msgstr "Choose the gametype to query"
+
+msgid "UT2k4ServerBrowser.ServerBrowserHeader.Caption"
+msgstr "Server Browser"
+
+msgid "Ut2K4Community.DefaultNews"
+msgstr "Thank you for purchasing Unreal Tournament 2004||Attempting to retrieve the latest news from the Master Server, please stand by..."
+
+msgid "Ut2K4_FilterEdit.ComboOpts[0]"
+msgstr "Does Not Matter"
+
+msgid "Ut2K4_FilterEdit.ComboOpts[1]"
+msgstr "Must Be On"
+
+msgid "Ut2K4_FilterEdit.ComboOpts[2]"
+msgstr "Must Be Off"
+
+msgid "Ut2K4_FilterEdit.MutOpts[0]"
+msgstr "No Mutators"
+
+msgid "Ut2K4_FilterEdit.MutOpts[1]"
+msgstr "Any Mutator"
+
+msgid "Ut2K4_FilterEdit.MutOpts[2]"
+msgstr "Custom"
+
+msgid "Ut2K4_FilterEdit.WindowName"
+msgstr "Edit Filter Rules..."
+
+msgid "Ut2K4_FilterEdit.bCancel.Caption"
+msgstr "Cancel"
+
+msgid "Ut2K4_FilterEdit.bOk.Caption"
+msgstr "OK"
+
+msgid "Ut2K4_FilterEdit.cbMutators.Caption"
+msgstr "Mutators:"
+
+msgid "Ut2K4_FilterEdit.cbStats.Caption"
+msgstr "Stats Servers:"
+
+msgid "Ut2K4_FilterEdit.cbTranslocator.Caption"
+msgstr "Translocator:"
+
+msgid "Ut2K4_FilterEdit.cbWeaponStay.Caption"
+msgstr "Weapon Stay:"
+
+msgid "Ut2K4_FilterEdit.ckBots.Caption"
+msgstr "No Bots"
+
+msgid "Ut2K4_FilterEdit.ckEmpty.Caption"
+msgstr "No Empty Servers"
+
+msgid "Ut2K4_FilterEdit.ckFull.Caption"
+msgstr "No Full Servers"
+
+msgid "Ut2K4_FilterEdit.ckPassworded.Caption"
+msgstr "No Passworded Servers"
+
+msgid "Ut2K4_FilterEdit.ckVACOnly.Caption"
+msgstr "Valve Anti-Cheat Protected Only"
+
+msgid "Ut2K4_FilterEdit.ebName.Caption"
+msgstr "Filter Name:"
+
+msgid "Ut2K4_FilterEdit.sbMutators.Caption"
+msgstr "Custom Mutator Config"
+
+msgid "Ut2K4_FilterEdit.sbOptions.Caption"
+msgstr "Options..."
+
+msgid "VoiceChatConfig.ResetCaption"
+msgstr "Reset"
+
+msgid "VoiceChatConfig.ResetHint"
+msgstr "Reset values for all options to their default values"
+
+msgid "VoiceChatConfig.WindowName"
+msgstr "Voice Chat Configuration"
+
+msgid "VoiceChatConfig.AutoJoinLocal.Caption"
+msgstr "Autojoin Local Channel"
+
+msgid "VoiceChatConfig.AutoJoinLocal.Hint"
+msgstr "Automatically join the 'Local' channel upon connecting to a server."
+
+msgid "VoiceChatConfig.AutoJoinPublic.Caption"
+msgstr "Autojoin Public Channel"
+
+msgid "VoiceChatConfig.AutoJoinPublic.Hint"
+msgstr "Automatically join the 'Public' channel upon connecting to a server."
+
+msgid "VoiceChatConfig.AutoJoinTeam.Caption"
+msgstr "Autojoin Team Channel"
+
+msgid "VoiceChatConfig.AutoJoinTeam.Hint"
+msgstr "Automatically join the 'Team' channel upon connecting to a server."
+
+msgid "VoiceChatConfig.AutoSpeakCheckbox.Caption"
+msgstr "Auto-select Active Channel"
+
+msgid "VoiceChatConfig.AutoSpeakCheckbox.Hint"
+msgstr "Automatically set an active channel when you join a server.  The default channel is determined by the gametype, but you can specify your own using the editbox below"
+
+msgid "VoiceChatConfig.ChatPasswordEdit.Caption"
+msgstr "Chat Password"
+
+msgid "VoiceChatConfig.ChatPasswordEdit.Hint"
+msgstr "Set a password on your personal chat room to limit who is allowed to join"
+
+msgid "VoiceChatConfig.DefaultActiveChannelEditBox.Caption"
+msgstr "Default Channel Name"
+
+msgid "VoiceChatConfig.DefaultActiveChannelEditBox.Hint"
+msgstr "Enter the name of the channel to speak on by default when you join the server.  To use the default chatroom for whichever gametype you're playing, leave this field empty"
+
+msgid "VoiceChatConfig.VoiceQuality.Caption"
+msgstr "Internet Quality"
+
+msgid "VoiceChatConfig.VoiceQuality.Hint"
+msgstr "Determines the codec used to transmit voice chat to and from internet servers."
+
+msgid "VoiceChatConfig.VoiceQualityLAN.Caption"
+msgstr "LAN Quality"
+
+msgid "VoiceChatConfig.VoiceQualityLAN.Hint"
+msgstr "Determines the codec used to transmit voice chat to and from LAN servers."
+
+msgid "VoiceChatConfig.VoiceVolume.Caption"
+msgstr "Voice Chat Volume"
+
+msgid "VoiceChatConfig.VoiceVolume.Hint"
+msgstr "Adjusts the volume of other players' voice chat communication."
+
+msgid "VoiceChatKeyBindPage.NoneText"
+msgstr "None"
+
+msgid "VoiceChatKeyBindPage.AnyKeyText"
+msgstr "Press Any Key|To Bind Command"
+
+msgid "VoiceChatKeyBindPage.ChannelName.Caption"
+msgstr "Channel Name"
+
+msgid "VoiceChatKeyBindPage.KeyLabel1.Caption"
+msgstr "Key 1"
+
+msgid "VoiceChatKeyBindPage.KeyLabel2.Caption"
+msgstr "Key 2"
+
+msgid "VoiceChatKeyBindPage.OkButton.Caption"
+msgstr "Apply"
+
+msgid "VoiceChatKeyBindPage.Title.Caption"
+msgstr "Modify Quick Switch KeyBind"
+
+msgid "fntUT2K4Medium.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr10"
+
+msgid "fntUT2K4Medium.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "fntUT2K4Medium.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr14"
+
+msgid "fntUT2K4Medium.FontArrayNames<3>"
+msgstr "ROFonts.ROBtsrmVr16"
+
+msgid "fntUT2K4Medium.FontArrayNames<4>"
+msgstr "ROFonts.ROBtsrmVr18"
+
+msgid "fntUT2k4Default.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr10"
+
+msgid "fntUT2k4Header.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr18"
+
+msgid "fntUT2k4Header.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr20"
+
+msgid "fntUT2k4Header.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr22"
+
+msgid "fntUT2k4Header.FontArrayNames<3>"
+msgstr "ROFonts.ROBtsrmVr24"
+
+msgid "fntUT2k4Header.FontArrayNames<4>"
+msgstr "ROFonts.ROBtsrmVr26"
+
+msgid "fntUT2k4IRC.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr7"
+
+msgid "fntUT2k4IRC.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr8"
+
+msgid "fntUT2k4IRC.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr8"
+
+msgid "fntUT2k4IRC.FontArrayNames<3>"
+msgstr "ROFonts.ROBtsrmVr10"
+
+msgid "fntUT2k4IRC.FontArrayNames<4>"
+msgstr "ROFonts.ROBtsrmVr10"
+
+msgid "fntUT2k4Large.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr14"
+
+msgid "fntUT2k4Large.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr16"
+
+msgid "fntUT2k4Large.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr18"
+
+msgid "fntUT2k4Large.FontArrayNames<3>"
+msgstr "ROFonts.ROBtsrmVr20"
+
+msgid "fntUT2k4Large.FontArrayNames<4>"
+msgstr "ROFonts.ROBtsrmVr22"
+
+msgid "fntUT2k4MainMenu.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr32"
+
+msgid "fntUT2k4MainMenu.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr24"
+
+msgid "fntUT2k4Menu.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr8"
+
+msgid "fntUT2k4Menu.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr10"
+
+msgid "fntUT2k4Menu.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "fntUT2k4Menu.FontArrayNames<3>"
+msgstr "ROFonts.ROBtsrmVr14"
+
+msgid "fntUT2k4Menu.FontArrayNames<4>"
+msgstr "ROFonts.ROBtsrmVr16"
+
+msgid "fntUT2k4MidGame.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr18"
+
+msgid "fntUT2k4MidGame.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr14"
+
+msgid "fntUT2k4MidGame.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "fntUT2k4MidGame.FontArrayNames<3>"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "fntUT2k4MidGame.FontArrayNames<4>"
+msgstr "ROFonts.ROBtsrmVr9"
+
+msgid "fntUT2k4MidGame.FontArrayNames<5>"
+msgstr "ROFonts.ROBtsrmVr9"
+
+msgid "fntUT2k4MidGame.FontArrayNames<6>"
+msgstr "ROFonts.ROBtsrmVr7"
+
+msgid "fntUT2k4ServerList.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr8"
+
+msgid "fntUT2k4Small.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr7"
+
+msgid "fntUT2k4Small.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr8"
+
+msgid "fntUT2k4Small.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr10"
+
+msgid "fntUT2k4Small.FontArrayNames<3>"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "fntUT2k4Small.FontArrayNames<4>"
+msgstr "ROFonts.ROBtsrmVr14"
+
+msgid "fntUT2k4SmallHeader.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "fntUT2k4SmallHeader.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr14"
+
+msgid "fntUT2k4SmallHeader.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr16"
+
+msgid "fntUT2k4SmallHeader.FontArrayNames<3>"
+msgstr "ROFonts.ROBtsrmVr18"
+
+msgid "fntUT2k4SmallHeader.FontArrayNames<4>"
+msgstr "ROFonts.ROBtsrmVr20"
