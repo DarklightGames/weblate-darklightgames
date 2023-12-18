@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-18 03:45+0000\n"
+"PO-Revision-Date: 2023-12-19 04:39+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -240,7 +240,7 @@ msgid "DHMapVoteMultiColumnList.ColumnHeadings<3>"
 msgstr "Размер карты"
 
 msgid "DHMainMenu.SteamCommunityButton.Hint"
-msgstr "Присоединяйтесь к сообществу Steam!"
+msgstr "Всупайте в сообщество Steam!"
 
 msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<1>"
 msgstr "Суммарное количество голосов игроков за карту."
@@ -287,7 +287,7 @@ msgid "DHTab_Controls.captions_comm[7]"
 msgstr "Переключиться на командный голосовой канал"
 
 msgid "DHTab_Controls.captions_game[7]"
-msgstr "Автоматическое присоединение к отряду"
+msgstr "Автоматически всупить в отряд"
 
 msgid "DHSettingsPage.PanelHint<3>"
 msgstr "Настройте элементы управления клавиатурой и мышью..."
@@ -680,7 +680,7 @@ msgid "DHMainMenu.CreditsButton.Caption"
 msgstr "Титры"
 
 msgid "DHMainMenu.DiscordButton.Hint"
-msgstr "Присоединяйтесь к нам в Discord!"
+msgstr "Заходите к нам в Discord!"
 
 msgid "DHMainMenu.FacebookButton.Hint"
 msgstr "Следите за нами на Facebook!"
