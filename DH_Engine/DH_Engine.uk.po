@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-19 04:39+0000\n"
+"PO-Revision-Date: 2023-12-20 08:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
@@ -20,13 +20,13 @@ msgid "DHATCannonMessage.CannotEnter"
 msgstr "Гармата вже зайнята"
 
 msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
-msgstr "Закінчити обертати"
+msgstr "Завершити обертання"
 
 msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
 msgstr "Обернути"
 
 msgid "DHATGunTouchMessage.RotateHintString"
-msgstr "Тримайте {0} щоб обернути"
+msgstr "утримуйте {0} для обертання"
 
 msgid "DHATLoadMessage.LoadedGunner"
 msgstr "Ви перезарядили {0}"
