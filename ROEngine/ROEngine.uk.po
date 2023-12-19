@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-19 04:39+0000\n"
+"PO-Revision-Date: 2023-12-20 08:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/uk/>\n"
@@ -425,3 +425,15 @@ msgstr "Ніяк ні"
 
 msgid "ROVoicePack.OrderAbbrev[6]"
 msgstr "Відкрити вогонь"
+
+msgid "ROPlayer.SpectatingModeName[1]"
+msgstr "Вільна камера"
+
+msgid "ROPlayer.SpectatingModeName[2]"
+msgstr "Перегляд гравців"
+
+msgid "ROPlayer.SpectatingModeName[3]"
+msgstr "Спостерігання точок"
+
+msgid "ROPlayer.SpectatingModeName[0]"
+msgstr "Перегляд себе"
