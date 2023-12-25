@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-19 04:39+0000\n"
+"PO-Revision-Date: 2023-12-26 17:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/uk/>\n"
@@ -29,3 +29,18 @@ msgstr "Приєднатися до військ Осі"
 
 msgid "ROScoreBoard.UnassignedTeamName"
 msgstr "Не призначено"
+
+msgid "ROTab_Hud.Hints<0>"
+msgstr "Всі підказки (скинути)"
+
+msgid "ROTab_Hud.Hints<1>"
+msgstr "Тільки нові підказки"
+
+msgid "ROTab_Hud.Hints<2>"
+msgstr "Без підказок"
+
+msgid "ROTab_Hud.HintsCombo.Caption"
+msgstr "Рівень підказок"
+
+msgid "ROTab_Hud.HintsCombo.Hint"
+msgstr "Дозволяє вибрати, чи потрібно показувати підказки чи ні."
