@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-17 22:08+0000\n"
+"PO-Revision-Date: 2023-12-28 22:39+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/ucore/ja/>\n"
@@ -31,3 +31,6 @@ msgstr "日曜日"
 
 msgid "DateTime.DayOfWeekNames[6]"
 msgstr "土曜日"
+
+msgid "UUnits.MilsSymbol"
+msgstr "ミル"
