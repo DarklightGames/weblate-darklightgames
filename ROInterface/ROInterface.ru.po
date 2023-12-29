@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-25 01:15+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
+"PO-Revision-Date: 2023-12-30 19:39+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ru/>\n"
 "Language: ru\n"
@@ -20,3 +20,67 @@ msgstr "Только новые подсказки"
 
 msgid "ROTab_Hud.Hints<2>"
 msgstr "Никаких подсказок"
+
+msgid "ROConsole.SMStateName[4]"
+msgstr "Предупреждение"
+
+msgid "ROConsole.SMStateName[5]"
+msgstr "Команды экипажу"
+
+msgid "ROConsole.SMStateName[7]"
+msgstr "Команды"
+
+msgid "ROConsole.SMStateName[11]"
+msgstr "Сместиться в..."
+
+msgid "ROConsole.SMStateName[14]"
+msgstr "Отдать приказ (выбор)..."
+
+#, fuzzy
+msgid "ROTab_Hud.HintsCombo.Caption"
+msgstr "Подсказки"
+
+msgid "ROTab_Hud.HintsCombo.Hint"
+msgstr "Делает показ подсказок видимым или нет."
+
+msgid "ROConsole.SMStateName[1]"
+msgstr "Поддержка"
+
+msgid "ROConsole.SMStateName[3]"
+msgstr "Враг обнаружен"
+
+msgid "ROConsole.SMStateName[6]"
+msgstr "Предупреждения экипажу"
+
+msgid "ROConsole.SMStateName[8]"
+msgstr "Оскорбления"
+
+msgid "ROConsole.SMStateName[9]"
+msgstr "Атаковать..."
+
+msgid "ROConsole.SMStateName[10]"
+msgstr "Оборонять..."
+
+msgid "ROConsole.SMStateName[12]"
+msgstr "Нужна помощь в..."
+
+msgid "ROConsole.SMStateName[13]"
+msgstr "Под ударом в..."
+
+msgid "ROGUITeamSelection.TeamJoinHint[1]"
+msgstr "Присоединиться к войскам Союзников"
+
+msgid "ROGUITeamSelection.TeamJoinText[0]"
+msgstr "ПРИСОЕДИНИТЬСЯ К ОСИ"
+
+msgid "ROGUITeamSelection.TeamJoinText[1]"
+msgstr "ПРИСОЕДИНИТЬСЯ К СОЮЗНИКАМ"
+
+msgid "ROGUITeamSelection.TeamJoinHint[0]"
+msgstr "Присоединиться к войскам Оси"
+
+msgid "ROScoreBoard.UnassignedTeamName"
+msgstr "Не назначено"
+
+msgid "ROScoreBoard.SpectatorTeamName"
+msgstr "Зрители"
