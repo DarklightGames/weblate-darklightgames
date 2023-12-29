@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-19 04:39+0000\n"
+"PO-Revision-Date: 2023-12-29 06:51+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -464,7 +464,7 @@ msgid "DHDeployMenu.MapButtonObject.Hint"
 msgstr "Карта [F1]"
 
 msgid "DHDeployMenu.MapVoteButtonObject.Caption"
-msgstr "Голосование за карту"
+msgstr "Выбрать карту"
 
 msgid "DHDeployMenu.MaxVehiclesImageObject.Hint"
 msgstr "Доступные танки"
