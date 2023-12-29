@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-26 17:39+0000\n"
+"PO-Revision-Date: 2023-12-30 19:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/uk/>\n"
@@ -44,3 +44,42 @@ msgstr "Рівень підказок"
 
 msgid "ROTab_Hud.HintsCombo.Hint"
 msgstr "Дозволяє вибрати, чи потрібно показувати підказки чи ні."
+
+msgid "ROConsole.SMStateName[4]"
+msgstr "Оповіщення"
+
+msgid "ROConsole.SMStateName[5]"
+msgstr "Команди екіпажу"
+
+msgid "ROConsole.SMStateName[7]"
+msgstr "Команди"
+
+msgid "ROConsole.SMStateName[9]"
+msgstr "Атакувати..."
+
+msgid "ROConsole.SMStateName[10]"
+msgstr "Обороняти..."
+
+msgid "ROConsole.SMStateName[11]"
+msgstr "Вперед до..."
+
+msgid "ROConsole.SMStateName[14]"
+msgstr "Віддати наказ..."
+
+msgid "ROConsole.SMStateName[1]"
+msgstr "Підтримка"
+
+msgid "ROConsole.SMStateName[3]"
+msgstr "Ворог помічений"
+
+msgid "ROConsole.SMStateName[6]"
+msgstr "Попередження екіпажу"
+
+msgid "ROConsole.SMStateName[8]"
+msgstr "Образи"
+
+msgid "ROConsole.SMStateName[12]"
+msgstr "Потрібна допомога в..."
+
+msgid "ROConsole.SMStateName[13]"
+msgstr "Під атакою в..."
