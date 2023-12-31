@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-30 19:39+0000\n"
+"PO-Revision-Date: 2024-01-01 12:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/uk/>\n"
@@ -58,7 +58,7 @@ msgid "ROConsole.SMStateName[9]"
 msgstr "Атакувати..."
 
 msgid "ROConsole.SMStateName[10]"
-msgstr "Обороняти..."
+msgstr "Захищати..."
 
 msgid "ROConsole.SMStateName[11]"
 msgstr "Вперед до..."
