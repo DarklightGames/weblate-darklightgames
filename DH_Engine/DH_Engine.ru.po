@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-17 23:33+0000\n"
+"PO-Revision-Date: 2024-01-03 13:39+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -1756,7 +1756,7 @@ msgid "DHWeaponProjectileDamageType.MaleSuicide"
 msgstr "%o был убит своим %w."
 
 msgid "DHWeaponsLockedMessage.LockedFFMessage"
-msgstr "Ваше оружие заблокировано за убийство союзника!"
+msgstr "Ваше оружие заблокировано за огонь по своим!"
 
 msgid "DHWeaponsLockedMessage.LockedWithTimerMessage"
 msgstr "Ваше оружие заблокировано на {0} секунд"
