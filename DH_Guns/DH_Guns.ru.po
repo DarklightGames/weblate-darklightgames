@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-15 03:25+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2024-01-02 05:47+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ru/>\n"
 "Language: ru\n"
@@ -44,7 +44,7 @@ msgid "DH_Pak38Cannon.nProjectileDescriptions<1>"
 msgstr "PzGr.40"
 
 msgid "DH_17PounderGun.VehicleNameString"
-msgstr "17-фунтовое противотанковое орудие"
+msgstr "17 фунтовая ПТ пушка"
 
 msgid "DH_Pak39Cannon.ProjectileDescriptions<1>"
 msgstr "Подкалиберный (APCR)"
