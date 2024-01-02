@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-17 08:50+0000\n"
+"PO-Revision-Date: 2024-01-03 13:39+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
@@ -17,34 +17,34 @@ msgid "DH_50CalDamType.FemaleSuicide"
 msgstr "%o была убита из собственного пулемета .50 калибра."
 
 msgid "DH_AchillesCannon.ProjectileDescriptions<0>"
-msgstr "Бронебойный (APCBC)"
+msgstr "ББ (С колпачком и баллистической насадкой)"
 
 msgid "DH_AchillesCannon.ProjectileDescriptions<2>"
-msgstr "Осколочно-фугасный (HE)"
+msgstr "ОФ"
 
 msgid "DH_AchillesCannon.nProjectileDescriptions<0>"
-msgstr "БТР Мк.IV"
+msgstr "ББ Мк.IV"
 
 msgid "DH_AchillesCannon.nProjectileDescriptions<2>"
-msgstr "Mk.I HE-T"
+msgstr "Mk.I Фугасно-трассирующий"
 
 msgid "DH_AchillesTank.VehicleNameString"
-msgstr "Ахиллес Mk.IC"
+msgstr "Mk.IC \"Ахиллес\""
 
 msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<0>"
-msgstr "PzGr.39"
+msgstr "PzGr.39 (ББ)"
 
 msgid "DH_Autoblinda43ArmoredCar.VehicleNameString"
-msgstr "Автоблинда 43"
+msgstr "Бронеавтомобиль AB.43"
 
 msgid "DH_Autoblinda43Cannon.nProjectileDescriptions<0>"
-msgstr "PzGr.39"
+msgstr "PzGr.39 (ББ)"
 
 msgid "DH_Autoblinda43Cannon.nProjectileDescriptions<1>"
-msgstr "Sprgr.Patr.38"
+msgstr "Sprgr.Patr.38 (ОФ)"
 
 msgid "DH_AutoblindaArmoredCar.VehicleNameString"
-msgstr "Автоблинда 41"
+msgstr "Бронеавтомобиль AB.41"
 
 msgid "DH_BA64ArmoredCar.VehicleNameString"
 msgstr "Бронеавтомобиль БА-64"
@@ -71,7 +71,7 @@ msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<2>"
 msgstr "Дым"
 
 msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<0>"
-msgstr "БТР М61"
+msgstr "ББ М61"
 
 msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<1>"
 msgstr "M48 HE-T"
@@ -101,7 +101,7 @@ msgid "DH_CromwellCannon.nProjectileDescriptions<0>"
 msgstr "БТР М61"
 
 msgid "DH_AchillesCannon.nProjectileDescriptions<1>"
-msgstr "Mk.I APDS"
+msgstr "Mk.I Кумулятивный"
 
 msgid "DH_BT7Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебойно-фугасный (APHE-T)"
@@ -836,7 +836,7 @@ msgid "DH_ShermanFireFlyCannon.nProjectileDescriptions<2>"
 msgstr "Mk.I HE-T"
 
 msgid "DH_ShermanFireflyTank.VehicleNameString"
-msgstr "Шерман Mk.VC 'Светлячок'"
+msgstr "Шерман Mk.VC 'Firefly'"
 
 msgid "DH_ShermanTank_M4A3E8_ZombieSlayer.VehicleNameString"
 msgstr "Шерман M4A3E8 'Убийца зомби'"
@@ -1082,7 +1082,7 @@ msgid "DH_50CalDamType.MaleSuicide"
 msgstr "%o был убит из собственного пулемета .50 калибра."
 
 msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<1>"
-msgstr "Sprgr.Patr.38"
+msgstr "Sprgr.Patr.38 (ОФ)"
 
 msgid "DH_BesaDamType.DeathString"
 msgstr "%o был убит %k из пулемета Беса."
@@ -1103,7 +1103,7 @@ msgid "DH_JacksonTank.VehicleNameString"
 msgstr "М36 Джексон"
 
 msgid "DH_AchillesCannon.ProjectileDescriptions<1>"
-msgstr "Подкалиберный (APDS)"
+msgstr "Подкалиберный"
 
 msgid "DH_CromwellCannon.nProjectileDescriptions<1>"
 msgstr "M48 HE-T"
