@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-02 05:47+0000\n"
+"PO-Revision-Date: 2024-01-03 13:39+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ru/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: Weblate 5.2.1\n"
 
 msgid "DH_Pak40ATGun.VehicleNameString"
-msgstr "7,5-см противотанковое орудие Pak40"
+msgstr "7,5 см ПТ орудие Pak40"
 
 msgid "DH_M1927Cannon.ProjectileDescriptions<0>"
 msgstr "Осколочно-фугасный (HE)"
@@ -32,16 +32,16 @@ msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<2>"
 msgstr "Подкалиберный (APCR)"
 
 msgid "DH_Bofors40mmCannon.ProjectileDescriptions<0>"
-msgstr "Бронебойно-фугасный (HE-T)"
+msgstr "Фугасно-Трассирующий (HE-T)"
 
 msgid "DH_LeIG18Cannon.nProjectileDescriptions<0>"
 msgstr "Igr.38 Sрrgr"
 
 msgid "DH_45mmM1942Gun.VehicleNameString"
-msgstr "45-мм противотанковое орудие М-42"
+msgstr "45 мм ПТ орудие М-42"
 
 msgid "DH_Pak38Cannon.nProjectileDescriptions<1>"
-msgstr "PzGr.40"
+msgstr "Бронебойный подкалиберный PzGr.40"
 
 msgid "DH_17PounderGun.VehicleNameString"
 msgstr "17 фунтовая ПТ пушка"
@@ -50,13 +50,13 @@ msgid "DH_Pak39Cannon.ProjectileDescriptions<1>"
 msgstr "Подкалиберный (APCR)"
 
 msgid "DH_M116Cannon.nProjectileDescriptions<1>"
-msgstr "Фугас М66"
+msgstr "Кумулятивный (HEAT) М66"
 
 msgid "DH_45mmM1937GunCannon.ProjectileDescriptions<0>"
-msgstr "Бронебойный (APBC)"
+msgstr "Бронебойный с наконечником и баллистическим колпачком (APBC)"
 
 msgid "DH_Flak88Gun.VehicleNameString"
-msgstr "8,8-см орудие FlaK 36"
+msgstr "8,8 см орудие FlaK 36"
 
 msgid "DH_Flak88Cannon.nProjectileDescriptions<1>"
 msgstr "Schw.Sprgr.Patr."
@@ -65,28 +65,28 @@ msgid "DH_ZiS3CannonLate.ProjectileDescriptions<0>"
 msgstr "Бронебойный (APBC)"
 
 msgid "DH_PantherturmCannon.nProjectileDescriptions<2>"
-msgstr "Sprgr.Patr.42"
+msgstr "Осколочно-фугасный (Sprgr.Patr.42)"
 
 msgid "DH_M5Gun.VehicleNameString"
-msgstr "3-дюймовое орудие М5"
+msgstr "3 дюймовое орудие М5"
 
 msgid "DH_ZiS3CannonLate.nProjectileDescriptions<2>"
 msgstr "БР-350П"
 
 msgid "DH_M1927Gun.VehicleNameString"
-msgstr "76-мм полковое орудие образца 1927 г"
+msgstr "76 мм полковое орудие (обр. 1927 г.)"
 
 msgid "DH_M1927Cannon.ProjectileDescriptions<1>"
 msgstr "Кумультивный (HEAT)"
 
 msgid "DH_Pak39Cannon.nProjectileDescriptions<1>"
-msgstr "PzGr.40"
+msgstr "Бронебойный подкалиберный PzGr.40"
 
 msgid "DH_AT57Cannon.nProjectileDescriptions<0>"
-msgstr "БТР М86"
+msgstr "Бронебойный с наконечником (APC) М86"
 
 msgid "DH_45mmM1937Gun.VehicleNameString"
-msgstr "45-мм противотанковое орудие 53-К (1937 г.)"
+msgstr "45 мм ПТ орудие 53-К (обр. 1937 г.)"
 
 msgid "DH_6PounderGunCannon.ProjectileDescriptions<2>"
 msgstr "Осколочно-фугасный (HE)"
@@ -95,13 +95,13 @@ msgid "DH_ZiS2Cannon.ProjectileDescriptions<1>"
 msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_M45QuadmountGun.VehicleNameString"
-msgstr "M45 Четырехместное крепление"
+msgstr "Счетверённая установка M45"
 
 msgid "DH_Bofors40mmCannon.ProjectileDescriptions<1>"
 msgstr "Бронебойный (AP)"
 
 msgid "DH_Pak43Cannon.nProjectileDescriptions<0>"
-msgstr "PzGr.39/43"
+msgstr "Бронебойный каморный трассирующий PzGr.39/43"
 
 msgid "DH_ZiS3CannonLate.nProjectileDescriptions<0>"
 msgstr "БР-350Б"
@@ -110,7 +110,7 @@ msgid "DH_ZiS2Cannon.nProjectileDescriptions<0>"
 msgstr "БР-271"
 
 msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<1>"
-msgstr "О-240"
+msgstr "Осколочный О-240"
 
 msgid "DH_Pak40Cannon.ProjectileDescriptions<2>"
 msgstr "Подкалиберный (APCR)"
@@ -119,13 +119,13 @@ msgid "DH_ZiS3CannonLate.nProjectileDescriptions<1>"
 msgstr "ОФ-350"
 
 msgid "DH_6PounderGunCannon.ProjectileDescriptions<0>"
-msgstr "Бронебойный (APCBC)"
+msgstr "Бронебойный с наконечником и баллистическим колпачком (APCBC)"
 
 msgid "DH_Pak39Cannon.ProjectileDescriptions<0>"
-msgstr "Бронебойный (APCBC)"
+msgstr "(APCBC) Бронебойный с наконечником и баллистическим колпачком"
 
 msgid "DH_PantherturmCannon.nProjectileDescriptions<0>"
-msgstr "PzGr.39/42"
+msgstr "бронебойно-трассирующий каморный PzGr.39/42"
 
 msgid "DH_ZiS3CannonLate.ProjectileDescriptions<2>"
 msgstr "Подкалиберный (APCR)"
@@ -134,25 +134,25 @@ msgid "DH_ZiS3Cannon.nProjectileDescriptions<0>"
 msgstr "БР-350Б"
 
 msgid "DH_6PounderGunCannon.nProjectileDescriptions<1>"
-msgstr "Mk.I AПДС"
+msgstr "Подкалиберный (APDS) Mk.I"
 
 msgid "DH_LeIG18Cannon.nProjectileDescriptions<1>"
 msgstr "Igr.38 HL/A"
 
 msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<0>"
-msgstr "Бронебойный (APBC)"
+msgstr "Бронебойный с наконечником и баллистическим колпачком (APBC)"
 
 msgid "DH_Pak39Cannon.ProjectileDescriptions<2>"
 msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_Pak38Cannon.nProjectileDescriptions<2>"
-msgstr "Sprgr.Patr.38"
+msgstr "Осколочно-фугасный Sprgr.Patr.38"
 
 msgid "DH_LeIG18Cannon.ProjectileDescriptions<0>"
 msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_Pak40Cannon.nProjectileDescriptions<2>"
-msgstr "PzGr.40"
+msgstr "Бронебойный подкалиберный PzGr.40"
 
 msgid "DH_Pak38Cannon.ProjectileDescriptions<1>"
 msgstr "Подкалиберный (APCR)"
@@ -161,13 +161,13 @@ msgid "DH_Pak38Cannon.ProjectileDescriptions<2>"
 msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_6PounderGunCannon.nProjectileDescriptions<0>"
-msgstr "БТР Mk.XT"
+msgstr "Бронебойный с наконечником (APC) Mk.XT"
 
 msgid "DH_Flak38Gun.VehicleNameString"
-msgstr "2-см орудие FlaK 38"
+msgstr "2 см орудие FlaK 38"
 
 msgid "DH_PantherturmCannon.nProjectileDescriptions<1>"
-msgstr "PzGr.40/42"
+msgstr "Бронебойный подкалиберный трассирующий PzGr.40/42"
 
 msgid "DH_M1927Cannon.nProjectileDescriptions<0>"
 msgstr "ОФ-350"
@@ -179,19 +179,19 @@ msgid "DH_LeIG18Cannon.ProjectileDescriptions<1>"
 msgstr "Кумультивный (HEAT)"
 
 msgid "DH_Pak38Cannon.ProjectileDescriptions<0>"
-msgstr "Бронебойный (APCBC)"
+msgstr "Бронебойный с наконечником и баллистическим колпачком (APCBC)"
 
 msgid "DH_6PounderGunCannon.ProjectileDescriptions<1>"
 msgstr "Подкалиберный (APDS)"
 
 msgid "DH_Pak43Cannon.nProjectileDescriptions<1>"
-msgstr "Sprgr.Patr."
+msgstr "Осколочно-фугасный Sprgr.Patr."
 
 msgid "DH_M116Cannon.ProjectileDescriptions<1>"
 msgstr "Кумультивный (HEAT)"
 
 msgid "DH_PantherturmCannon.ProjectileDescriptions<0>"
-msgstr "Бронебойный (APCBC)"
+msgstr "Бронебойный с наконечником и баллистическим колпачком (APCBC)"
 
 msgid "DH_PantherturmCannon.ProjectileDescriptions<2>"
 msgstr "Осколочно-фугасный (HE)"
@@ -203,124 +203,125 @@ msgid "DH_Pak40Cannon.ProjectileDescriptions<1>"
 msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_6PounderGunCannon.nProjectileDescriptions<2>"
-msgstr "Mk.X HE-Т"
+msgstr "Фугасно-трассирующий (HE-T) Mk.X"
 
 msgid "DH_AT57Gun.VehicleNameString"
-msgstr "57-мм противотанковое орудие М1"
+msgstr "57 мм ПТ орудие М1"
 
 msgid "DH_Bofors40mmCannon.nProjectileDescriptions<0>"
-msgstr "Mk.II HE-Т"
+msgstr "Фугасно-трассирующий (HE-Т) Mk.II"
 
+#, fuzzy
 msgid "DH_17PounderGunCannon.nProjectileDescriptions<0>"
-msgstr "БТР Мк.IV"
+msgstr "(APC) MK.IV Бронебойный с наконечником"
 
 msgid "DH_ZiS3Cannon.ProjectileDescriptions<1>"
 msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_Pak39Cannon.nProjectileDescriptions<2>"
-msgstr "Sprgr.Patr.38"
+msgstr "Осколочно-фугасный Sprgr.Patr.38"
 
 msgid "DH_AT57Cannon.nProjectileDescriptions<1>"
-msgstr "M303 HE-Т"
+msgstr "Фугасно-трассирующий (HE-T) M303"
 
 msgid "DH_M116Gun.VehicleNameString"
-msgstr "75-мм ранцевая гаубица М1"
+msgstr "75 мм вьючная гаубица М1"
 
 msgid "DH_M1927Cannon.nProjectileDescriptions<1>"
 msgstr "БП-350М"
 
 msgid "DH_17PounderGunCannon.nProjectileDescriptions<1>"
-msgstr "Mk.I HE-T"
+msgstr "Фугасно-трассирующий (HE-T) Mk.I"
 
 msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<0>"
-msgstr "БР-240"
+msgstr "Бронебойный БР-240"
 
 msgid "DH_M116Cannon.nProjectileDescriptions<0>"
-msgstr "ОФ М48"
+msgstr "Осколочно-Фугасный (HE) М48"
 
 msgid "DH_ZiS2Cannon.nProjectileDescriptions<1>"
 msgstr "O-271"
 
 msgid "DH_6PounderGun.VehicleNameString"
-msgstr "6-фунтовое противотанковое орудие Mk.IV"
+msgstr "6 фунтовое ПТ орудие Mk.IV"
 
 msgid "DH_45mmM1942GunCannon.nProjectileDescriptions<0>"
 msgstr "БР-240"
 
 msgid "DH_Pak40Cannon.nProjectileDescriptions<1>"
-msgstr "Sprgr.Patr.34"
+msgstr "(Sprgr.Patr.34) Осколочно-фугасный"
 
 msgid "DH_45mmM1937GunCannon.ProjectileDescriptions<1>"
 msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_Pak40Cannon.nProjectileDescriptions<0>"
-msgstr "PzGr.39"
+msgstr "(PzGr.39) Бронебойный каморный"
 
 msgid "DH_ZiS2Gun.VehicleNameString"
-msgstr "57-мм противотанковое орудие ЗиС-2"
+msgstr "57 мм ПТ орудие ЗиС-2"
 
 msgid "DH_ZiS3Gun.VehicleNameString"
 msgstr "76-мм дивизионное орудие ЗиС-3"
 
 msgid "DH_Bofors40mmCannon.nProjectileDescriptions<1>"
-msgstr "М81А1 АП"
+msgstr "Бронебойный (AP) М81А1"
 
 msgid "DH_Pak39Gun.VehicleNameString"
-msgstr "5,0-см орудие KwK 39"
+msgstr "5,0 см орудие KwK 39"
 
 msgid "DH_ZiS3Cannon.nProjectileDescriptions<1>"
 msgstr "ОФ-350"
 
 msgid "DH_ZiS2Cannon.ProjectileDescriptions<0>"
-msgstr "Бронебойный (APBC)"
+msgstr "Бронебойный с наконечником и баллистическим колпачком (APCBC)"
 
 msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<1>"
 msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_M5GunCannon.nProjectileDescriptions<1>"
-msgstr "M42A1 HE-T"
+msgstr "Фугасно-трассирующий ( HE-T) M42A1"
 
 msgid "DH_Bofors40mmGun.VehicleNameString"
-msgstr "40-мм орудие 'Бофорс'"
+msgstr "40 мм орудие \"Bofors\""
 
 msgid "DH_M116Cannon.ProjectileDescriptions<0>"
 msgstr "Осколочно-фугасный (HE)"
 
 msgid "DH_LeIG18Gun.VehicleNameString"
-msgstr "7.5 cm leichtes Infanteriegeschütz 18"
+msgstr "7,5 см гаубица Leichtes Infanteriegeschütz 18"
 
 msgid "DH_Pak43ATGun.VehicleNameString"
-msgstr "8,8-см противотанковое орудие Pak43/41"
+msgstr "8,8 см ПТ орудие Pak43/41"
 
 msgid "DH_17PounderGunCannonPawn.RangeText"
 msgstr "Ярды"
 
 msgid "DH_Pak40Cannon.ProjectileDescriptions<0>"
-msgstr "Бронебойный (APCBC)"
+msgstr "Бронебойный с наконечником и баллистическим колпачком (APCBC)"
 
 msgid "DH_M5GunCannon.nProjectileDescriptions<0>"
-msgstr "БТР М62"
+msgstr "Бронебойный с наконечником (APC) М62"
 
 msgid "DH_Pak39Cannon.nProjectileDescriptions<0>"
-msgstr "PzGr.39"
+msgstr "Бронебойный каморный PzGr.39"
 
 msgid "DH_Flak88Cannon.nProjectileDescriptions<0>"
-msgstr "PzGр.39"
+msgstr "Бронебойный каморный (PzGr.39)"
 
 msgid "DH_ZiS3Cannon.ProjectileDescriptions<0>"
-msgstr "Бронебойный (APBC)"
+msgstr "Бронебойный с наконечником и баллистическим колпачком (APCBC)"
 
 msgid "DH_Pak38Cannon.nProjectileDescriptions<0>"
-msgstr "PzGr.39"
+msgstr "Бронебойный каморный PzGr.39"
 
 msgid "DH_Pak38ATGun.VehicleNameString"
-msgstr "5,0-см противотанковое орудие Pak38"
+msgstr "5,0 см ПТ орудие Pak38"
 
 msgid "DH_Flakvierling38Gun.VehicleNameString"
-msgstr "2-см орудие Flakvierling 38"
+msgstr "2 см орудие Flakvierling 38"
 
 msgid "DH_45mmM1942GunCannon.nProjectileDescriptions<2>"
-msgstr "БР-240П"
+msgstr "Подкалиберный БР-240П"
 
 msgid "DH_ZiS3CannonLate.ProjectileDescriptions<1>"
 msgstr "Осколочно-фугасный (HE)"
@@ -332,7 +333,7 @@ msgid "DH_Cannone4732Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебойный (AP)"
 
 msgid "DH_Cannone4732Cannon.ProjectileDescriptions<2>"
-msgstr "Кумультивный (HEAT)"
+msgstr "Кумулятивный (HEAT)"
 
 msgid "DH_Cannone4732Cannon.ProjectileDescriptions<1>"
 msgstr "Осколочно-фугасный (HE)"
