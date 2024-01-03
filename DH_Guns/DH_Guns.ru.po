@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-03 13:39+0000\n"
+"PO-Revision-Date: 2024-01-04 22:39+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ru/>\n"
@@ -231,7 +231,7 @@ msgid "DH_M1927Cannon.nProjectileDescriptions<1>"
 msgstr "БП-350М"
 
 msgid "DH_17PounderGunCannon.nProjectileDescriptions<1>"
-msgstr "Фугасно-трассирующий (HE-T) Mk.I"
+msgstr "(HE-T) Mk.I Фугасно-трассирующий"
 
 msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<0>"
 msgstr "Бронебойный БР-240"
