@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-03 13:39+0000\n"
+"PO-Revision-Date: 2024-01-28 22:27+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -1046,19 +1046,19 @@ msgid "DHLastObjectiveMessage.AxisAboutToWinMessage"
 msgstr "Последняя цель -- Войска Оси почти выиграли битву!"
 
 msgid "DHLib.ServerHealthStages[0].Text"
-msgstr "Отличный"
+msgstr "Отличное"
 
 msgid "DHLib.ServerHealthStages[1].Text"
-msgstr "Хорошо"
+msgstr "Хорошее"
 
 msgid "DHLib.ServerHealthStages[2].Text"
-msgstr "Удовлетворительный"
+msgstr "Удовлетворительное"
 
 msgid "DHLib.ServerHealthStages[3].Text"
-msgstr "Плохой"
+msgstr "Плохое"
 
 msgid "DHLib.ServerHealthStages[4].Text"
-msgstr "Ужасный"
+msgstr "Ужасное"
 
 msgid "DHLocalMessage.SquadLeaderID"
 msgstr "КО"
