@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-28 22:13+0000\n"
+"PO-Revision-Date: 2024-01-28 22:32+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -38,7 +38,7 @@ msgid "DHBrowser_OpenIP.IpEntryBox.Caption"
 msgstr "IP Адрес: "
 
 msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<0>"
-msgstr "Найти сервер"
+msgstr "Присоединиться к серверу"
 
 msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<1>"
 msgstr "Присоединиться как зритель"
@@ -695,7 +695,7 @@ msgid "DHMainMenu.QuitButton.Caption"
 msgstr "Выйти из игры"
 
 msgid "DHMainMenu.ServerButton.Caption"
-msgstr "Просмотр серверов"
+msgstr "Найти сервер"
 
 msgid "DHMainMenu.SettingsButton.Caption"
 msgstr "Настройки"
