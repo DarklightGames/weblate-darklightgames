@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-28 21:45+0000\n"
+"PO-Revision-Date: 2024-01-28 21:56+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -1135,9 +1135,7 @@ msgid "DHTab_MutatorSP.IAMutatorAll.Caption"
 msgstr "Добавить все"
 
 msgid "DHTab_GameSettings.ThrottleOtherVehicles.Caption"
-msgstr ""
-"Инкрементальный дроссель -\n"
-"другие транспортные средства"
+msgstr "Пошаговая ручка газа - другая техника"
 
 msgid "DHTab_GameSettings.ThrottleTanks.Hint"
 msgstr ""
