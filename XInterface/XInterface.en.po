@@ -1,0 +1,1230 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain\n"
+"Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
+
+msgid "AdminPlayerList.ColumnHeadings<0>"
+msgstr "Player Name"
+
+msgid "AdminPlayerList.ColumnHeadings<1>"
+msgstr "Unique ID"
+
+msgid "AdminPlayerList.ColumnHeadings<2>"
+msgstr "IP"
+
+msgid "Browser_AddBuddy.AddBuddyDesc.Caption"
+msgstr "Add Buddy"
+
+msgid "Browser_AddBuddy.BuddyEntryBox.Caption"
+msgstr "Buddy Name: "
+
+msgid "Browser_AddBuddy.CancelButton.Caption"
+msgstr "CANCEL"
+
+msgid "Browser_AddBuddy.OkButton.Caption"
+msgstr "OK"
+
+msgid "Browser_BuddyList.ColumnHeadings<0>"
+msgstr "Buddy Name"
+
+msgid "Browser_IRC.SystemLabel"
+msgstr "System"
+
+msgid "Browser_IRC.LeaveChannelCaption"
+msgstr "LEAVE CHANNEL"
+
+msgid "Browser_IRC.LeavePrivateCaptionHead"
+msgstr "CLOSE "
+
+msgid "Browser_IRC.ChooseNewNickText"
+msgstr "Choose A New Chat Nickname"
+
+msgid "Browser_IRC.MyBackButton.Caption"
+msgstr "BACK"
+
+msgid "Browser_IRC.MyChangeNickButton.Caption"
+msgstr "CHANGE NICK"
+
+msgid "Browser_IconKey.DialogText.Caption"
+msgstr "Server Icon Key"
+
+msgid "Browser_IconKey.OkButton.Caption"
+msgstr "OK"
+
+msgid "Browser_MOTD.VersionString"
+msgstr "Ver."
+
+msgid "Browser_MOTD.MyBackButton.Caption"
+msgstr "BACK"
+
+msgid "Browser_MOTD.MyRefreshButton.Caption"
+msgstr "REFRESH"
+
+msgid "Browser_MOTD.MyUpgradeButton.Caption"
+msgstr "UPGRADE"
+
+msgid "Browser_OpenIP.CancelButton.Caption"
+msgstr "CANCEL"
+
+msgid "Browser_OpenIP.IpEntryBox.Caption"
+msgstr "IP Address: "
+
+msgid "Browser_OpenIP.OkButton.Caption"
+msgstr "OK"
+
+msgid "Browser_OpenIP.OpenIPDesc.Caption"
+msgstr "Enter New IP Address"
+
+msgid "Browser_Page.StartQueryString"
+msgstr "Querying Master Server"
+
+msgid "Browser_Page.AuthFailString"
+msgstr "Authentication Failed"
+
+msgid "Browser_Page.ConnFailString"
+msgstr "Connection Failed - Retrying"
+
+msgid "Browser_Page.ConnTimeoutString"
+msgstr "Connection Timed Out"
+
+msgid "Browser_Page.QueryCompleteString"
+msgstr "Query Complete!"
+
+msgid "Browser_Page.RefreshCompleteString"
+msgstr "Refresh Complete!"
+
+msgid "Browser_Page.ReadyString"
+msgstr "Ready"
+
+msgid "Browser_PlayersList.ColumnHeadings<0>"
+msgstr "Player Name"
+
+msgid "Browser_PlayersList.ColumnHeadings<1>"
+msgstr "Score"
+
+msgid "Browser_PlayersList.ColumnHeadings<2>"
+msgstr "Stats ID"
+
+msgid "Browser_PlayersList.ColumnHeadings<3>"
+msgstr "Ping"
+
+msgid "Browser_Prefs.ViewStatsStrings[0]"
+msgstr "Any Servers"
+
+msgid "Browser_Prefs.ViewStatsStrings[1]"
+msgstr "Only Stats Servers"
+
+msgid "Browser_Prefs.ViewStatsStrings[2]"
+msgstr "No Stats Servers"
+
+msgid "Browser_Prefs.MutatorModeStrings[0]"
+msgstr "Any Mutators"
+
+msgid "Browser_Prefs.MutatorModeStrings[1]"
+msgstr "No Mutators"
+
+msgid "Browser_Prefs.MutatorModeStrings[2]"
+msgstr "This Mutator"
+
+msgid "Browser_Prefs.MutatorModeStrings[3]"
+msgstr "Not This Mutator"
+
+msgid "Browser_Prefs.WeaponStayStrings[0]"
+msgstr "Any Servers"
+
+msgid "Browser_Prefs.WeaponStayStrings[1]"
+msgstr "Only Weapon Stay Servers"
+
+msgid "Browser_Prefs.WeaponStayStrings[2]"
+msgstr "No Weapon Stay Servers"
+
+msgid "Browser_Prefs.TranslocatorStrings[0]"
+msgstr "Any Servers"
+
+msgid "Browser_Prefs.TranslocatorStrings[1]"
+msgstr "Only Translocator Servers"
+
+msgid "Browser_Prefs.TranslocatorStrings[2]"
+msgstr "No Translocator Servers"
+
+msgid "Browser_Prefs.CustomQuery.Caption"
+msgstr "Custom Query"
+
+msgid "Browser_Prefs.FilterTitle.Caption"
+msgstr "Server Filtering Options:"
+
+msgid "Browser_Prefs.MaxGamespeed.Caption"
+msgstr "Max"
+
+msgid "Browser_Prefs.MinGamespeed.Caption"
+msgstr "Game Speed Min"
+
+msgid "Browser_Prefs.MutatorModeCombo.Caption"
+msgstr "Mutators"
+
+msgid "Browser_Prefs.MyBackButton.Caption"
+msgstr "BACK"
+
+msgid "Browser_Prefs.MyKeyButton.Caption"
+msgstr "ICON KEY"
+
+msgid "Browser_Prefs.NoBotServersCheckBox.Caption"
+msgstr "No Servers With Bots"
+
+msgid "Browser_Prefs.NoEmptyCheckBox.Caption"
+msgstr "No Empty Servers"
+
+msgid "Browser_Prefs.NoFullCheckBox.Caption"
+msgstr "No Full Servers"
+
+msgid "Browser_Prefs.NoPasswdCheckBox.Caption"
+msgstr "No Passworded Servers"
+
+msgid "Browser_Prefs.OnlyStandardCheckBox.Caption"
+msgstr "Only Standard Servers"
+
+msgid "Browser_Prefs.StatsViewCombo.Caption"
+msgstr "Stats Servers"
+
+msgid "Browser_Prefs.TranslocatorCombo.Caption"
+msgstr "Translocator"
+
+msgid "Browser_Prefs.WeaponStayCombo.Caption"
+msgstr "WeaponStay"
+
+msgid "Browser_RulesList.TrueString"
+msgstr "Enabled"
+
+msgid "Browser_RulesList.FalseString"
+msgstr "Disabled"
+
+msgid "Browser_RulesList.ServerModeString"
+msgstr "Server Mode"
+
+msgid "Browser_RulesList.DedicatedString"
+msgstr "Dedicated"
+
+msgid "Browser_RulesList.NonDedicatedString"
+msgstr "Non-Dedicated"
+
+msgid "Browser_RulesList.AdminNameString"
+msgstr "Server Admin"
+
+msgid "Browser_RulesList.AdminEmailString"
+msgstr "Admin Email"
+
+msgid "Browser_RulesList.PasswordString"
+msgstr "Requires Password"
+
+msgid "Browser_RulesList.GameStatsString"
+msgstr "Red Orchestra Stats"
+
+msgid "Browser_RulesList.GameSpeedString"
+msgstr "Game Speed"
+
+msgid "Browser_RulesList.MutatorString"
+msgstr "Mutator"
+
+msgid "Browser_RulesList.BalanceTeamsString"
+msgstr "Bots Balance Teams"
+
+msgid "Browser_RulesList.PlayersBalanceTeamsString"
+msgstr "Balance Teams"
+
+msgid "Browser_RulesList.FriendlyFireString"
+msgstr "Friendly Fire"
+
+msgid "Browser_RulesList.GoalScoreString"
+msgstr "Goal Score"
+
+msgid "Browser_RulesList.TimeLimitString"
+msgstr "Time Limit"
+
+msgid "Browser_RulesList.MinPlayersString"
+msgstr "Minimum Players (bots)"
+
+msgid "Browser_RulesList.TranslocatorString"
+msgstr "Translocator"
+
+msgid "Browser_RulesList.WeaponStayString"
+msgstr "Weapons Stay"
+
+msgid "Browser_RulesList.ColumnHeadings<0>"
+msgstr "Setting"
+
+msgid "Browser_RulesList.ColumnHeadings<1>"
+msgstr "Value"
+
+msgid "Browser_ServerListPageBase.AddFavoriteButton.Caption"
+msgstr "ADD FAVORITE"
+
+msgid "Browser_ServerListPageBase.BackButton.Caption"
+msgstr "BACK"
+
+msgid "Browser_ServerListPageBase.JoinButton.Caption"
+msgstr "JOIN"
+
+msgid "Browser_ServerListPageBase.RefreshButton.Caption"
+msgstr "REFRESH LIST"
+
+msgid "Browser_ServerListPageBase.SpectateButton.Caption"
+msgstr "SPECTATE"
+
+msgid "Browser_ServerListPageBuddy.AddBuddyCaption"
+msgstr "ADD BUDDY"
+
+msgid "Browser_ServerListPageBuddy.RemoveBuddyCaption"
+msgstr "REMOVE BUDDY"
+
+msgid "Browser_ServerListPageFavorites.RemoveFavoriteCaption"
+msgstr "REMOVE FAVORITE"
+
+msgid "Browser_ServerListPageFavorites.AddIPCaption"
+msgstr "ADD IP"
+
+msgid "Browser_ServerListPageFavorites.RePingCaption"
+msgstr "RE-PING LIST"
+
+msgid "Browser_ServerListPageMS.QueryFinHead"
+msgstr "Query Complete! Received: "
+
+msgid "Browser_ServerListPageMS.QueryFinTail"
+msgstr " Servers"
+
+msgid "Browser_ServerListPageMS.PingRecvString"
+msgstr "Pinging Servers"
+
+msgid "Browser_ServerListPageMS.MustUpgradeString"
+msgstr "Upgrade available. Please refresh the News page."
+
+msgid "Browser_ServerListPageMS.RefreshFinHead"
+msgstr "Pinging Complete! "
+
+msgid "Browser_ServerListPageMS.RefreshFinMid"
+msgstr " Servers, "
+
+msgid "Browser_ServerListPageMS.RefreshFinTail"
+msgstr " Players"
+
+msgid "Browser_ServerListPageMS.RePingServersCaption"
+msgstr "RE-PING LIST"
+
+msgid "Browser_ServerListPageMS.RefreshCaption"
+msgstr "REFRESH LIST"
+
+msgid "Browser_ServerListPageMSCustom.MyGameTypeLabel.Caption"
+msgstr "Game Type"
+
+msgid "Browser_ServersList.ColumnHeadings<1>"
+msgstr "Server Name"
+
+msgid "Browser_ServersList.ColumnHeadings<2>"
+msgstr "Map"
+
+msgid "Browser_ServersList.ColumnHeadings<3>"
+msgstr "Players"
+
+msgid "Browser_ServersList.ColumnHeadings<4>"
+msgstr "Ping"
+
+msgid "DefaultCrosshairs.Crosshair<0>.FriendlyName"
+msgstr "Cross"
+
+msgid "ExtendedConsole.AddedCurrentHead"
+msgstr "Added Server:"
+
+msgid "ExtendedConsole.AddedCurrentTail"
+msgstr "To Favorites!"
+
+msgid "ExtendedConsole.ServerFullMsg"
+msgstr "Server is now full"
+
+msgid "ExtendedConsole.SMStateName[0]"
+msgstr "Speech Menu"
+
+msgid "ExtendedConsole.SMStateName[1]"
+msgstr "Voice Chat"
+
+msgid "ExtendedConsole.SMStateName[2]"
+msgstr "Acknowledge"
+
+msgid "ExtendedConsole.SMStateName[3]"
+msgstr "Friendly Fire"
+
+msgid "ExtendedConsole.SMStateName[4]"
+msgstr "Order"
+
+msgid "ExtendedConsole.SMStateName[5]"
+msgstr "Other"
+
+msgid "ExtendedConsole.SMStateName[6]"
+msgstr "Taunt"
+
+msgid "ExtendedConsole.SMStateName[7]"
+msgstr "Taunt Anim"
+
+msgid "ExtendedConsole.SMStateName[8]"
+msgstr "Player Select"
+
+msgid "ExtendedConsole.SMChannelOptions[0]"
+msgstr "Join"
+
+msgid "ExtendedConsole.SMChannelOptions[1]"
+msgstr "Leave"
+
+msgid "ExtendedConsole.SMChannelOptions[2]"
+msgstr "Talk"
+
+msgid "ExtendedConsole.SMAllString"
+msgstr "[ALL]"
+
+msgid "ExtendedConsole.SMMoreString"
+msgstr "[MORE]"
+
+msgid "GUIController.DesignModeHints<0>.Key"
+msgstr " Key"
+
+msgid "GUIController.DesignModeHints<0>.Description"
+msgstr "                                Description"
+
+msgid "GUIController.DesignModeHints<1>.Key"
+msgstr " (F1)"
+
+msgid "GUIController.DesignModeHints<1>.Description"
+msgstr "                                View this help screen"
+
+msgid "GUIController.DesignModeHints<2>.Key"
+msgstr " Ctrl + Alt + D"
+
+msgid "GUIController.DesignModeHints<2>.Description"
+msgstr "                      Toggles design mode"
+
+msgid "GUIController.DesignModeHints<3>.Key"
+msgstr " Ctrl + Alt + E"
+
+msgid "GUIController.DesignModeHints<3>.Description"
+msgstr "                      Toggles property editor mode"
+
+msgid "GUIController.DesignModeHints<4>.Key"
+msgstr " [Ctrl +] H"
+
+msgid "GUIController.DesignModeHints<4>.Description"
+msgstr "                          Toggles active/focused info"
+
+msgid "GUIController.DesignModeHints<5>.Key"
+msgstr " [Ctrl +] I"
+
+msgid "GUIController.DesignModeHints<5>.Description"
+msgstr "                          Toggle interactive mode"
+
+msgid "GUIController.DesignModeHints<6>.Key"
+msgstr " [Ctrl +] P"
+
+msgid "GUIController.DesignModeHints<6>.Description"
+msgstr "                          Toggles full MenuOwner chains for active/focused"
+
+msgid "GUIController.DesignModeHints<7>.Key"
+msgstr " [Ctrl +] C"
+
+msgid "GUIController.DesignModeHints<7>.Description"
+msgstr "                          Copy MoveControl position to clipboard"
+
+msgid "GUIController.DesignModeHints<8>.Key"
+msgstr " [Ctrl +] X"
+
+msgid "GUIController.DesignModeHints<8>.Description"
+msgstr "                          Export MoveControl to clipboard"
+
+msgid "GUIController.DesignModeHints<9>.Key"
+msgstr " [Ctrl +] U"
+
+msgid "GUIController.DesignModeHints<9>.Description"
+msgstr "                          Refresh the property window in the designer"
+
+msgid "GUIController.DesignModeHints<10>.Key"
+msgstr " [Ctrl +] Up/Down/Left/Right"
+
+msgid "GUIController.DesignModeHints<10>.Description"
+msgstr "         Reposition MoveControl using arrow keys"
+
+msgid "GUIController.DesignModeHints<11>.Key"
+msgstr " [Ctrl +] +/-"
+
+msgid "GUIController.DesignModeHints<11>.Description"
+msgstr "                        Resize MoveControl vertically"
+
+msgid "GUIController.DesignModeHints<12>.Key"
+msgstr " [Ctrl +] Num+/Num-"
+
+msgid "GUIController.DesignModeHints<12>.Description"
+msgstr "                  Resize selected component horizontally"
+
+msgid "GUIController.DesignModeHints<13>.Key"
+msgstr " [Ctrl +] WheelUp"
+
+msgid "GUIController.DesignModeHints<13>.Description"
+msgstr "                    Set MoveControl to MoveControl's menuowner"
+
+msgid "GUIController.DesignModeHints<14>.Key"
+msgstr " [Ctrl +] WheenDown"
+
+msgid "GUIController.DesignModeHints<14>.Description"
+msgstr "                  Set MoveControl to MoveControl's focused control"
+
+msgid "GUIController.DesignModeHints<15>.Key"
+msgstr " [(Ctrl + Alt) +] MouseX/Y+LMouse"
+
+msgid "GUIController.DesignModeHints<15>.Description"
+msgstr "    Reposition MoveControl using mouse"
+
+msgid "GUIController.DesignModeHints<16>.Key"
+msgstr " (Shift)"
+
+msgid "GUIController.DesignModeHints<16>.Description"
+msgstr "                             Hides all design mode indicators"
+
+msgid "GUIController.DesignModeHints<17>.Key"
+msgstr " (Ctrl + Alt)"
+
+msgid "GUIController.DesignModeHints<17>.Description"
+msgstr "                        View focus chain"
+
+msgid "GUIController.DesignModeHints<18>.Key"
+msgstr " [Ctrl +] Tab"
+
+msgid "GUIController.DesignModeHints<18>.Description"
+msgstr "                        Select new MoveControl"
+
+msgid "GUIController.DesignModeHints<19>.Key"
+msgstr " [Ctrl +] LMouse"
+
+msgid "GUIController.DesignModeHints<19>.Description"
+msgstr "                     Select new MoveControl"
+
+msgid "GUIQuestionPage.ButtonNames<0>"
+msgstr "Ok"
+
+msgid "GUIQuestionPage.ButtonNames<1>"
+msgstr "Cancel"
+
+msgid "GUIQuestionPage.ButtonNames<2>"
+msgstr "Retry"
+
+msgid "GUIQuestionPage.ButtonNames<3>"
+msgstr "Continue"
+
+msgid "GUIQuestionPage.ButtonNames<4>"
+msgstr "Yes"
+
+msgid "GUIQuestionPage.ButtonNames<5>"
+msgstr "No"
+
+msgid "GUIQuestionPage.ButtonNames<6>"
+msgstr "Abort"
+
+msgid "GUIQuestionPage.ButtonNames<7>"
+msgstr "Ignore"
+
+msgid "HudBase.InstructionFontName"
+msgstr "ROFonts.ROBtsrmVr7"
+
+msgid "HudBase.LevelActionLoading"
+msgstr "LOADING..."
+
+msgid "HudBase.LevelActionPaused"
+msgstr "PAUSED"
+
+msgid "HudBase.LevelActionFontName"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "HudBase.WonMatchPostFix"
+msgstr " won the match!"
+
+msgid "HudBase.WaitingToSpawn"
+msgstr "Press [Fire] to join the match!"
+
+msgid "HudBase.AtMenus"
+msgstr "Press [ESC] to close menu"
+
+msgid "HudBase.YouveWonTheMatch"
+msgstr "You've won the match!"
+
+msgid "HudBase.YouveLostTheMatch"
+msgstr "You've lost the match."
+
+msgid "HudBase.NowViewing"
+msgstr "Now viewing"
+
+msgid "HudBase.ScoreText"
+msgstr "Score"
+
+msgid "HudBase.InitialViewingString"
+msgstr "Press Fire to View a different Player"
+
+msgid "HudBase.FontArrayNames[0]"
+msgstr "ROFonts.ROBtsrmVr38"
+
+msgid "HudBase.FontArrayNames[1]"
+msgstr "ROFonts.ROBtsrmVr28"
+
+msgid "HudBase.FontArrayNames[2]"
+msgstr "ROFonts.ROBtsrmVr24"
+
+msgid "HudBase.FontArrayNames[3]"
+msgstr "ROFonts.ROBtsrmVr22"
+
+msgid "HudBase.FontArrayNames[4]"
+msgstr "ROFonts.ROBtsrmVr18"
+
+msgid "HudBase.FontArrayNames[5]"
+msgstr "ROFonts.ROBtsrmVr14"
+
+msgid "HudBase.FontArrayNames[6]"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "HudBase.FontArrayNames[7]"
+msgstr "ROFonts.ROBtsrmVr9"
+
+msgid "HudBase.FontArrayNames[8]"
+msgstr "ROFonts.ROBtsrmVr7"
+
+msgid "IRCLink.InvalidAddressText"
+msgstr "Invalid server address, aborting."
+
+msgid "IRCLink.ErrorBindingText"
+msgstr "Error binding local port, aborting."
+
+msgid "IRCLink.ResolveFailedText"
+msgstr "Failed to resolve server address, aborting."
+
+msgid "IRCLink.ConnectedText"
+msgstr "Connected."
+
+msgid "IRCLink.ConnectingToText"
+msgstr "Connecting to"
+
+msgid "IRCLink.TimeOutError"
+msgstr "Timeout connecting to server."
+
+msgid "IRCLink.InviteString"
+msgstr "invites you to join"
+
+msgid "IRCLink.NickInUseText"
+msgstr "Nickname Already In Use"
+
+msgid "IRCLink.NickInvalidText"
+msgstr "Nickname Is Invalid"
+
+msgid "IRC_NewNick.NewNickEntry.Caption"
+msgstr "New Nickname: "
+
+msgid "IRC_NewNick.OkButton.Caption"
+msgstr "OK"
+
+msgid "IRC_Page.HasLeftText"
+msgstr "has left"
+
+msgid "IRC_Page.HasJoinedText"
+msgstr "has joined"
+
+msgid "IRC_Page.WasKickedByText"
+msgstr "was kicked by"
+
+msgid "IRC_Page.NowKnownAsText"
+msgstr "is now known as"
+
+msgid "IRC_Page.QuitText"
+msgstr "Quit"
+
+msgid "IRC_Page.SetsModeText"
+msgstr "sets mode"
+
+msgid "IRC_Page.NewTopicText"
+msgstr "Topic"
+
+msgid "IRC_System.NotInAChannelText"
+msgstr "Not in a channel!"
+
+msgid "IRC_System.KickedFromText"
+msgstr "You were kicked from"
+
+msgid "IRC_System.ByText"
+msgstr "by"
+
+msgid "IRC_System.IsAwayText"
+msgstr "is away"
+
+msgid "IRC_System.ConnectText"
+msgstr "CONNECT"
+
+msgid "IRC_System.DisconnectText"
+msgstr "DISCONNECT"
+
+msgid "IRC_System.MyChannelLabel.Caption"
+msgstr "Channel"
+
+msgid "IRC_System.MyJoinChannelButton.Caption"
+msgstr "JOIN CHANNEL"
+
+msgid "IRC_System.MyRemoveChannelButton.Caption"
+msgstr "REMOVE CHANNEL"
+
+msgid "IRC_System.MyRemoveServerButton.Caption"
+msgstr "REMOVE SERVER"
+
+msgid "IRC_System.MyServerLabel.Caption"
+msgstr "Server"
+
+msgid "JoeTest.TestButton1.Caption"
+msgstr "Close Window"
+
+msgid "JoeTest.TitleText.Caption"
+msgstr "Joe's Amazing Test GUI"
+
+msgid "JoeTestPanelA.TestButtonA.Caption"
+msgstr "Wow"
+
+msgid "JoeTestPanelA.TestButtonB.Caption"
+msgstr "Damn"
+
+msgid "ScoreBoardDeathMatch.RankText"
+msgstr "RANK"
+
+msgid "ScoreBoardDeathMatch.PlayerText"
+msgstr "PLAYER"
+
+msgid "ScoreBoardDeathMatch.PointsText"
+msgstr "SCORE"
+
+msgid "ScoreBoardDeathMatch.TimeText"
+msgstr "TIME:"
+
+msgid "ScoreBoardDeathMatch.PingText"
+msgstr "PING:"
+
+msgid "ScoreBoardDeathMatch.PLText"
+msgstr "P/L:"
+
+msgid "ScoreBoardDeathMatch.DeathsText"
+msgstr "DEATHS"
+
+msgid "ScoreBoardDeathMatch.AdminText"
+msgstr "ADMIN"
+
+msgid "ScoreBoardDeathMatch.NetText"
+msgstr "NET"
+
+msgid "ScoreBoardDeathMatch.FooterText"
+msgstr "Elapsed Time:"
+
+msgid "ScoreBoardDeathMatch.MatchIDText"
+msgstr "Red Orchestra Stats Match ID"
+
+msgid "ScoreBoardDeathMatch.OutText"
+msgstr "OUT"
+
+msgid "ScoreBoardDeathMatch.OutFireText"
+msgstr "   You are OUT. Fire to view other players."
+
+msgid "ScoreBoardDeathMatch.ReadyText"
+msgstr "READY"
+
+msgid "ScoreBoardDeathMatch.NotReadyText"
+msgstr "NOT RDY"
+
+msgid "ScoreBoardDeathMatch.SkillLevel[0]"
+msgstr "NOVICE"
+
+msgid "ScoreBoardDeathMatch.SkillLevel[1]"
+msgstr "AVERAGE"
+
+msgid "ScoreBoardDeathMatch.SkillLevel[2]"
+msgstr "EXPERIENCED"
+
+msgid "ScoreBoardDeathMatch.SkillLevel[3]"
+msgstr "SKILLED"
+
+msgid "ScoreBoardDeathMatch.SkillLevel[4]"
+msgstr "ADEPT"
+
+msgid "ScoreBoardDeathMatch.SkillLevel[5]"
+msgstr "MASTERFUL"
+
+msgid "ScoreBoardDeathMatch.SkillLevel[6]"
+msgstr "INHUMAN"
+
+msgid "ScoreBoardDeathMatch.SkillLevel[7]"
+msgstr "GODLIKE"
+
+msgid "ScoreBoardDeathMatch.MaxLives"
+msgstr "MAX LIVES:"
+
+msgid "ScoreBoardDeathMatch.FragLimit"
+msgstr "FRAG LIMIT:"
+
+msgid "ScoreBoardDeathMatch.FPH"
+msgstr "PPH"
+
+msgid "ScoreBoardDeathMatch.GameType"
+msgstr "GAME"
+
+msgid "ScoreBoardDeathMatch.MapName"
+msgstr " in "
+
+msgid "ScoreBoardDeathMatch.Restart"
+msgstr "   You were killed. Press Fire to respawn!"
+
+msgid "ScoreBoardDeathMatch.Continue"
+msgstr " Press [Fire] to continue!"
+
+msgid "ScoreBoardDeathMatch.Ended"
+msgstr "The match has ended."
+
+msgid "ScoreBoardDeathMatch.TimeLimit"
+msgstr "REMAINING TIME:"
+
+msgid "ScoreBoardDeathMatch.Spacer"
+msgstr " "
+
+msgid "ScoreBoardTeamDeathMatch.FragLimit"
+msgstr "SCORE LIMIT:"
+
+msgid "ServerBrowser.MutantTypeName"
+msgstr "Mutant"
+
+msgid "ServerBrowser.InvasionTypeName"
+msgstr "Invasion"
+
+msgid "ServerBrowser.LMSTypeName"
+msgstr "Last Man Standing"
+
+msgid "ServerBrowser.MutantType"
+msgstr "xMutantGame"
+
+msgid "ServerBrowser.InvasionType"
+msgstr "Invasion"
+
+msgid "ServerBrowser.LMSType"
+msgstr "xLastManStanding"
+
+msgid "ServerBrowser.MyBRServerListPage.PageCaption"
+msgstr "Bombing Run"
+
+msgid "ServerBrowser.MyBuddiesPage.PageCaption"
+msgstr "Buddies"
+
+msgid "ServerBrowser.MyCTFServerListPage.PageCaption"
+msgstr "CTF"
+
+msgid "ServerBrowser.MyCustomServerListPage.PageCaption"
+msgstr "Custom"
+
+msgid "ServerBrowser.MyDMServerListPage.PageCaption"
+msgstr "DM"
+
+msgid "ServerBrowser.MyDomServerListPage.PageCaption"
+msgstr "Double Dom"
+
+msgid "ServerBrowser.MyFavoritesPage.PageCaption"
+msgstr "Favorites"
+
+msgid "ServerBrowser.MyIRCPage.PageCaption"
+msgstr "Chat"
+
+msgid "ServerBrowser.MyLANPage.PageCaption"
+msgstr "LAN"
+
+msgid "ServerBrowser.MyMOTDPage.PageCaption"
+msgstr "News"
+
+msgid "ServerBrowser.MyPrefsPage.PageCaption"
+msgstr "Filter"
+
+msgid "ServerBrowser.MyTDMServerListPage.PageCaption"
+msgstr "Team DM"
+
+msgid "ServerBrowser.ServerBrowserHeader.Caption"
+msgstr "Server Browser"
+
+msgid "Tab_NetworkSettings.NetSpeedText[0]"
+msgstr "Modem"
+
+msgid "Tab_NetworkSettings.NetSpeedText[1]"
+msgstr "ISDN"
+
+msgid "Tab_NetworkSettings.NetSpeedText[2]"
+msgstr "Cable/ADSL"
+
+msgid "Tab_NetworkSettings.NetSpeedText[3]"
+msgstr "LAN/T1"
+
+msgid "Tab_NetworkSettings.StatsURL"
+msgstr "http://redorchestragame.com/"
+
+msgid "Tab_NetworkSettings.EpicIDMsg"
+msgstr "Your Unique id is:"
+
+msgid "Tab_NetworkSettings.EpicID.Caption"
+msgstr "Your Unique id is:"
+
+msgid "Tab_NetworkSettings.InvalidWarning.Caption"
+msgstr "Your stats username or password is invalid.  Your username must be at least 4 characters long, and your password must be at least 6 characters long."
+
+msgid "Tab_NetworkSettings.NetworkDynamicNetspeed.Caption"
+msgstr "Dynamic Netspeed"
+
+msgid "Tab_NetworkSettings.NetworkDynamicNetspeed.Hint"
+msgstr "Dynamic adjust your netspeed on slower connections."
+
+msgid "Tab_NetworkSettings.OnlineNetSpeed.Caption"
+msgstr "Connection"
+
+msgid "Tab_NetworkSettings.OnlineNetSpeed.Hint"
+msgstr "How fast is your connection?"
+
+msgid "Tab_NetworkSettings.OnlineStatDesc.Caption"
+msgstr "Red Orchestra Global Stats"
+
+msgid "Tab_NetworkSettings.OnlineStatsName.Caption"
+msgstr "Stats UserName"
+
+msgid "Tab_NetworkSettings.OnlineStatsName.Hint"
+msgstr "Please select a name to use for UT Stats!"
+
+msgid "Tab_NetworkSettings.OnlineStatsPW.Caption"
+msgstr "Stats Password"
+
+msgid "Tab_NetworkSettings.OnlineStatsPW.Hint"
+msgstr "Please select a password that will secure your UT Stats!"
+
+msgid "Tab_NetworkSettings.OnlineTrackStats.Caption"
+msgstr "Track Stats"
+
+msgid "Tab_NetworkSettings.OnlineTrackStats.Hint"
+msgstr "Enable this option to join the online ranking system."
+
+msgid "Tab_NetworkSettings.ViewOnlineStats.Caption"
+msgstr "View Stats"
+
+msgid "Tab_NetworkSettings.ViewOnlineStats.Hint"
+msgstr "Click to launch the UT stats website."
+
+msgid "Tab_PlayerSettings.HandNames[0]"
+msgstr "Right"
+
+msgid "Tab_PlayerSettings.HandNames[1]"
+msgstr "Hidden"
+
+msgid "Tab_PlayerSettings.HandNames[2]"
+msgstr "Left"
+
+msgid "Tab_PlayerSettings.HandNames[3]"
+msgstr "Center"
+
+msgid "Tab_PlayerSettings.TeamNames[0]"
+msgstr "Red"
+
+msgid "Tab_PlayerSettings.TeamNames[1]"
+msgstr "Blue"
+
+msgid "Tab_PlayerSettings.ShowBioCaption"
+msgstr "Bio"
+
+msgid "Tab_PlayerSettings.Show3DViewCaption"
+msgstr "3D View"
+
+msgid "Tab_PlayerSettings.Player3DView.Caption"
+msgstr "3D View"
+
+msgid "Tab_PlayerSettings.Player3DView.Hint"
+msgstr "Toggle between 3D view and biography of character."
+
+msgid "Tab_PlayerSettings.PlayerCharList.Hint"
+msgstr "Changes the character you play as."
+
+msgid "Tab_PlayerSettings.PlayerFOV.Caption"
+msgstr "Default FOV"
+
+msgid "Tab_PlayerSettings.PlayerFOV.Hint"
+msgstr "This value will change your field of view while playing."
+
+msgid "Tab_PlayerSettings.PlayerHand.Caption"
+msgstr "Weapon"
+
+msgid "Tab_PlayerSettings.PlayerHand.Hint"
+msgstr "Changes whether your weapon is visible."
+
+msgid "Tab_PlayerSettings.PlayerName.Caption"
+msgstr "Name"
+
+msgid "Tab_PlayerSettings.PlayerName.Hint"
+msgstr "Changes the alias you play as."
+
+msgid "Tab_PlayerSettings.PlayerOGG.Caption"
+msgstr "Play List"
+
+msgid "Tab_PlayerSettings.PlayerOGG.Hint"
+msgstr "Configure your OGG Play List."
+
+msgid "Tab_PlayerSettings.PlayerSmallWeap.Caption"
+msgstr "Small Weapons"
+
+msgid "Tab_PlayerSettings.PlayerSmallWeap.Hint"
+msgstr "Makes your first person weapon smaller."
+
+msgid "Tab_PlayerSettings.PlayerTeam.Caption"
+msgstr "Preferred Team"
+
+msgid "Tab_PlayerSettings.PlayerTeam.Hint"
+msgstr "Changes the team you will play on by default."
+
+msgid "Tab_WeaponPref.WeaponAutoSwitch.Caption"
+msgstr "Switch On Pickup"
+
+msgid "Tab_WeaponPref.WeaponAutoSwitch.Hint"
+msgstr "Automatically change weapons when you pick up a better one."
+
+msgid "Tab_WeaponPref.WeaponDefaults.Caption"
+msgstr "Defaults"
+
+msgid "Tab_WeaponPref.WeaponDefaults.Hint"
+msgstr "Set the weapon priorities back to default"
+
+msgid "Tab_WeaponPref.WeaponPrefWeapDown.Caption"
+msgstr "Lower Priority"
+
+msgid "Tab_WeaponPref.WeaponPrefWeapDown.Hint"
+msgstr "Decrease the priority this weapon will have when picking your best weapon."
+
+msgid "Tab_WeaponPref.WeaponPrefWeapList.Hint"
+msgstr "Select order for weapons"
+
+msgid "Tab_WeaponPref.WeaponPrefWeapUp.Caption"
+msgstr "Raise Priority"
+
+msgid "Tab_WeaponPref.WeaponPrefWeapUp.Hint"
+msgstr "Increase the priority this weapon will have when picking your best weapon."
+
+msgid "Tab_WeaponPref.WeaponPriorityLabel.Caption"
+msgstr "Weapon Priority"
+
+msgid "Tab_WeaponPref.WeaponSwap.Caption"
+msgstr "Swap Fire Mode"
+
+msgid "Tab_WeaponPref.WeaponSwap.Hint"
+msgstr "Check this box to swap the firing mode on the selected weapon."
+
+msgid "TestImagePage.AddImage.Caption"
+msgstr "Add"
+
+msgid "TestImagePage.ImageAlign.Caption"
+msgstr "Align"
+
+msgid "TestImagePage.ImageRenderStyle.Caption"
+msgstr "Render Style"
+
+msgid "TestImagePage.ImageStyle.Caption"
+msgstr "Image Style"
+
+msgid "TestImagePage.SelectImage.Caption"
+msgstr "Select Image"
+
+msgid "TestVignette.LoadingFontName"
+msgstr "ROFonts.ROMain36"
+
+msgid "TestVignette.LoadingString"
+msgstr ". . . L O A D I N G . . ."
+
+msgid "UT2DefaultFont.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr9"
+
+msgid "UT2HeaderFont.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr14"
+
+msgid "UT2HeaderFont.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr18"
+
+msgid "UT2HeaderFont.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr22"
+
+msgid "UT2IRCFont.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr9"
+
+msgid "UT2IRCFont.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr9"
+
+msgid "UT2IRCFont.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr9"
+
+msgid "UT2IRCFont.FontArrayNames<3>"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "UT2LargeFont.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr24"
+
+msgid "UT2LargeFont.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr30"
+
+msgid "UT2LargeFont.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr38"
+
+msgid "UT2LoadingWeapons.LoadWeapText.Caption"
+msgstr "Loading Weapon Database"
+
+msgid "UT2MenuFont.FontArrayNames<0>"
+msgstr "UT2003Fonts.FontNeuzeit9"
+
+msgid "UT2MenuFont.FontArrayNames<1>"
+msgstr "UT2003Fonts.FontNeuzeit11"
+
+msgid "UT2MenuFont.FontArrayNames<2>"
+msgstr "UT2003Fonts.FontNeuzeit11"
+
+msgid "UT2MenuFont.FontArrayNames<3>"
+msgstr "UT2003Fonts.FontNeuzeit14"
+
+msgid "UT2MidGameFont.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr18"
+
+msgid "UT2MidGameFont.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr14"
+
+msgid "UT2MidGameFont.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "UT2MidGameFont.FontArrayNames<3>"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "UT2MidGameFont.FontArrayNames<4>"
+msgstr "ROFonts.ROBtsrmVr9"
+
+msgid "UT2MidGameFont.FontArrayNames<5>"
+msgstr "ROFonts.ROBtsrmVr9"
+
+msgid "UT2MidGameFont.FontArrayNames<6>"
+msgstr "ROFonts.ROBtsrmVr7"
+
+msgid "UT2ServerListFont.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr9"
+
+msgid "UT2ServerListFont.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr9"
+
+msgid "UT2ServerListFont.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr9"
+
+msgid "UT2ServerListFont.FontArrayNames<3>"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "UT2SettingsPage.VideoTabLabel"
+msgstr "Video"
+
+msgid "UT2SettingsPage.VideoTabHint"
+msgstr "Select your resolution and change your brightness..."
+
+msgid "UT2SettingsPage.DetailsTabLabel"
+msgstr "Details"
+
+msgid "UT2SettingsPage.DetailsTabHint"
+msgstr "Adjust the detail settings for better graphics or faster framerate..."
+
+msgid "UT2SettingsPage.AudioTabLabel"
+msgstr "Audio"
+
+msgid "UT2SettingsPage.AudioTabHint"
+msgstr "Adjust your audio experience..."
+
+msgid "UT2SettingsPage.PlayerTabLabel"
+msgstr "Player"
+
+msgid "UT2SettingsPage.PlayerTabHint"
+msgstr "Configure your UT2003 Avatar..."
+
+msgid "UT2SettingsPage.NetworkTabLabel"
+msgstr "Network"
+
+msgid "UT2SettingsPage.NetworkTabHint"
+msgstr "Configure UT2003 for Online and Lan play..."
+
+msgid "UT2SettingsPage.ControlsTabLabel"
+msgstr "Controls"
+
+msgid "UT2SettingsPage.ControlsTabHint"
+msgstr "Configure your controls..."
+
+msgid "UT2SettingsPage.IForceTabLabel"
+msgstr "Input"
+
+msgid "UT2SettingsPage.IForceTabHint"
+msgstr "Configure misc. input options..."
+
+msgid "UT2SettingsPage.WeaponsTabLabel"
+msgstr "Weapons"
+
+msgid "UT2SettingsPage.WeaponsTabHint"
+msgstr "Adjust your weapon priorities and settings..."
+
+msgid "UT2SettingsPage.GameTabLabel"
+msgstr "Game"
+
+msgid "UT2SettingsPage.GameTabHint"
+msgstr "Adjust various game related settings..."
+
+msgid "UT2SettingsPage.HudTabLabel"
+msgstr "Hud"
+
+msgid "UT2SettingsPage.HudTabHint"
+msgstr "Customize your hud..."
+
+msgid "UT2SettingsPage.SpeechBinderTabLabel"
+msgstr "Speech"
+
+msgid "UT2SettingsPage.SpeechBinderTabHint"
+msgstr "Bind messages to keys..."
+
+msgid "UT2SettingsPage.BackButton.Caption"
+msgstr "BACK"
+
+msgid "UT2SettingsPage.BackButton.Hint"
+msgstr "Return to Previous Menu"
+
+msgid "UT2SettingsPage.SettingHeader.Caption"
+msgstr "Settings"
+
+msgid "UT2SmallFont.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr9"
+
+msgid "UT2SmallFont.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "UT2SmallFont.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "UT2SmallFont.FontArrayNames<3>"
+msgstr "ROFonts.ROBtsrmVr14"
+
+msgid "UT2SmallHeaderFont.FontArrayNames<0>"
+msgstr "ROFonts.ROBtsrmVr8"
+
+msgid "UT2SmallHeaderFont.FontArrayNames<1>"
+msgstr "ROFonts.ROBtsrmVr9"
+
+msgid "UT2SmallHeaderFont.FontArrayNames<2>"
+msgstr "ROFonts.ROBtsrmVr12"
+
+msgid "UT2SmallHeaderFont.FontArrayNames<3>"
+msgstr "ROFonts.ROBtsrmVr14"
+
+msgid "UT2StatsPrompt.NoButton.Caption"
+msgstr "NO"
+
+msgid "UT2StatsPrompt.PromptHeader.Caption"
+msgstr "This server has Red Orchestra Stats ENABLED!"
+
+msgid "UT2StatsPrompt.YesButton.Caption"
+msgstr "YES"
+
+msgid "moButton.ButtonCaption"
+msgstr "Edit"
