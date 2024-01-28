@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-28 21:56+0000\n"
+"PO-Revision-Date: 2024-01-28 22:13+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -38,7 +38,7 @@ msgid "DHBrowser_OpenIP.IpEntryBox.Caption"
 msgstr "IP Адрес: "
 
 msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<0>"
-msgstr "Присоединиться к серверу"
+msgstr "Найти сервер"
 
 msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<1>"
 msgstr "Присоединиться как зритель"
@@ -1135,21 +1135,20 @@ msgid "DHTab_MutatorSP.IAMutatorAll.Caption"
 msgstr "Добавить все"
 
 msgid "DHTab_GameSettings.ThrottleOtherVehicles.Caption"
-msgstr "Пошаговая ручка газа - другая техника"
+msgstr "Ступенчатая ручка газа - другая техника"
 
 msgid "DHTab_GameSettings.ThrottleTanks.Hint"
 msgstr ""
-"Использует дроссельную заслонку для танков, что полезно при длительных "
-"поездках"
+"Использует пошаговую дроссельную заслонку для танков, что полезно при "
+"длительных поездках"
 
 msgid "DHTab_GameSettings.ViewFOV.Hint"
 msgstr ""
-"Какую часть мира можно увидеть по ширине экрана. Более низкое поле зрения "
-"дает немного больший масштаб изображения, а более высокое поле зрения "
-"увеличивает масштаб, но дает дополнительное периферийное зрение. Обратите "
-"внимание, что широкоэкранный монитор не обеспечивает дополнительной ширины "
-"обзора; тот же вид распространяется на более широкий экран, а верхняя и "
-"нижняя часть обрезаются."
+"Какую часть мира можно увидеть по ширине экрана. Меньшее значение поля "
+"зрения дает слабое приближение, а большее - отдаляет изображение, но дает "
+"дополнительное периферийное зрение. Обратите внимание, что широкоэкранный "
+"монитор не дает дополнительно ширины обзора; поле зрения останется прежним, "
+"а верх и низ изображения будут обрезаны."
 
 msgid "DHTab_Hud.GameHudSimpleColours.Hint"
 msgstr "Только красные/синие цвета HUD команды, для игроков с дальтонизмом."
@@ -1406,11 +1405,11 @@ msgstr "Как часто удалять пользовательские заг
 
 msgid "DHTab_GameSettings.ThrottleOtherVehicles.Hint"
 msgstr ""
-"Использует дроссельную заслонку для транспортных средств, не являющихся "
-"цистернами, не рекомендуется"
+"Добавляет пошаговую дроссельную заслонку для техники, кроме танков (не "
+"рекомендуется)"
 
 msgid "DHTab_GameSettings.ThrottleTanks.Caption"
-msgstr "Инкрементальный дроссель - Танки"
+msgstr "Ступенчатая ручка газа - Танки"
 
 msgid "DHTab_GameSettings.ViewFOV.Caption"
 msgstr "Поле зрения"
