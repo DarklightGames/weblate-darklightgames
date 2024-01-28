@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-28 22:39+0000\n"
+"PO-Revision-Date: 2024-01-28 22:49+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ru/>\n"
@@ -86,4 +86,22 @@ msgid "ROScoreBoard.SpectatorTeamName"
 msgstr "Зрители"
 
 msgid "ROTab_DetailSettings.DetailOptions[0]"
-msgstr "Минимальны"
+msgstr "Минимальные"
+
+msgid "ROTab_DetailSettings.DetailOptions[1]"
+msgstr "Низкие"
+
+msgid "ROTab_DetailSettings.DetailOptions[2]"
+msgstr "Средние"
+
+msgid "ROTab_DetailSettings.DetailOptions[3]"
+msgstr "Высокие"
+
+msgid "ROTab_DetailSettings.DetailOptions[4]"
+msgstr "Выше"
+
+msgid "ROTab_DetailSettings.DetailOptions[5]"
+msgstr "Наивысшие"
+
+msgid "ROTab_DetailSettings.DetailOptions[6]"
+msgstr "Пользовательские"
