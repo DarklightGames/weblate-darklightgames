@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-28 22:49+0000\n"
+"PO-Revision-Date: 2024-01-29 20:30+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ru/>\n"
@@ -105,3 +105,342 @@ msgstr "Наивысшие"
 
 msgid "ROTab_DetailSettings.DetailOptions[6]"
 msgstr "Пользовательские"
+
+msgid "ROControlBinder.BindingLabel[63]"
+msgstr "Использовать"
+
+msgid "ROControlBinder.BindingLabel[64]"
+msgstr "Пауза"
+
+msgid "ROControlBinder.BindingLabel[65]"
+msgstr "Скриншот"
+
+msgid "ROControlBinder.BindingLabel[73]"
+msgstr "Меню"
+
+msgid "ROControlBinder.BindingLabel[74]"
+msgstr "Музыкальный проигрыватель"
+
+msgid "ROControlBinder.BindingLabel[75]"
+msgstr "Меню голосования"
+
+msgid "ROControlBinder.BindingLabel[76]"
+msgstr "Показать консоль"
+
+msgid "ROControlBinder.BindingLabel[77]"
+msgstr "Посмотреть статус подключения"
+
+msgid "ROControlBinder.BindingLabel[0]"
+msgstr "Red Orchestra"
+
+msgid "ROControlBinder.BindingLabel[78]"
+msgstr "Отменить ожидающее подключение"
+
+msgid "ROControlBinder.BindingLabel[79]"
+msgstr "Связь в технике"
+
+msgid "ROControlBinder.BindingLabel[80]"
+msgstr "Чат внутри техники"
+
+msgid "ROTab_Controls.Headings[0]"
+msgstr "Действие"
+
+msgid "ROTab_Controls.Headings[1]"
+msgstr "клавиша 1"
+
+msgid "ROTab_Controls.Headings[2]"
+msgstr "Клавиша 2"
+
+msgid "ROControlBinder.BindingLabel[4]"
+msgstr "Сменить роль"
+
+msgid "ROControlBinder.BindingLabel[6]"
+msgstr "Лечь"
+
+msgid "ROControlBinder.BindingLabel[7]"
+msgstr "Примкнуть штык / Разложить Пулемёт"
+
+msgid "ROControlBinder.BindingLabel[8]"
+msgstr "Сменить ствол пулемёта"
+
+msgid "ROControlBinder.BindingLabel[72]"
+msgstr "Прочее"
+
+msgid "ROControlBinder.BindingLabel[9]"
+msgstr "Показать цели"
+
+msgid "ROControlBinder.BindingLabel[10]"
+msgstr "Детализация оптического прицела"
+
+msgid "ROControlBinder.BindingLabel[11]"
+msgstr "Сменить сторону"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<0>"
+msgstr "ничего"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<1>"
+msgstr "Выбрать карту"
+
+msgid "ROControlBinder.BindingLabel[14]"
+msgstr "Сменить оружие"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<2>"
+msgstr "Правила игры"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<3>"
+msgstr "Мутаторы"
+
+msgid "ROControlBinder.BindingLabel[15]"
+msgstr "Дать патроны пулемётчику"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<4>"
+msgstr "Настройка ботов"
+
+msgid "ROControlBinder.BindingLabel[16]"
+msgstr "Отметить цель для артиллерии"
+
+msgid "ROUT2K4GamePageSP.PanelHint<1>"
+msgstr "Предпросмотр карт для выбранного сейчас типа игры..."
+
+msgid "ROControlBinder.BindingLabel[17]"
+msgstr "Передвижение"
+
+msgid "ROControlBinder.BindingLabel[20]"
+msgstr "Влево"
+
+msgid "ROControlBinder.BindingLabel[23]"
+msgstr "Шаг"
+
+msgid "ROUT2K4GamePageSP.PanelHint<2>"
+msgstr "Настроить правила игры..."
+
+msgid "ROControlBinder.BindingLabel[50]"
+msgstr "Активация микрофона"
+
+msgid "ROUT2K4GamePageSP.PanelHint<3>"
+msgstr "Выбрать и настроить любые мутаторы для использования..."
+
+msgid "ROUT2K4GamePageSP.PanelHint<4>"
+msgstr "Настроить любых ботов, которые будут в сессии..."
+
+msgid "ROTab_AudioSettings.AudioModes[0]"
+msgstr "Безопасный режим"
+
+msgid "ROTab_DetailSettings.ScopeLevels[1]"
+msgstr "Текстура"
+
+msgid "ROTab_DetailSettings.ScopeLevels[2]"
+msgstr "Модель (Высокая)"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[0]"
+msgstr "Модель"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[1]"
+msgstr "Текстура"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[2]"
+msgstr "Высокая модель"
+
+msgid "ROTab_AudioSettings.AudioModes[1]"
+msgstr "3D Аудио"
+
+msgid "ROTab_AudioSettings.AudioModes[2]"
+msgstr "H/W 3D Аудио"
+
+msgid "ROTab_AudioSettings.VoiceModes[0]"
+msgstr "Все"
+
+msgid "ROTab_AudioSettings.AudioModes[3]"
+msgstr "H/W 3D + EAX"
+
+msgid "ROControlBinder.BindingLabel[3]"
+msgstr "Механический прицел"
+
+msgid "ROControlBinder.BindingLabel[2]"
+msgstr "Перезарядка"
+
+msgid "ROControlBinder.BindingLabel[1]"
+msgstr "Бег"
+
+msgid "ROTab_AudioSettings.VoiceModes[1]"
+msgstr "Без оскорблений"
+
+msgid "ROTab_AudioSettings.VoiceModes[2]"
+msgstr "Ничего"
+
+msgid "ROTab_Controls.captions_game[0]"
+msgstr "Открыть игровое меню"
+
+msgid "ROTab_Controls.captions_game[1]"
+msgstr "Использовать"
+
+msgid "ROTab_Controls.captions_game[2]"
+msgstr "Дать патроны"
+
+msgid "ROTab_Controls.captions_game[3]"
+msgstr "Поставить на паузу"
+
+msgid "ROControlBinder.BindingLabel[5]"
+msgstr "Показать / Спрятать интерфейс"
+
+msgid "ROControlBinder.BindingLabel[12]"
+msgstr "Использовать"
+
+msgid "ROControlBinder.BindingLabel[13]"
+msgstr "Переключить режим огня"
+
+msgid "ROControlBinder.BindingLabel[19]"
+msgstr "Назад"
+
+msgid "ROControlBinder.BindingLabel[21]"
+msgstr "Вправо"
+
+msgid "ROControlBinder.BindingLabel[22]"
+msgstr "Прыжок"
+
+msgid "ROControlBinder.BindingLabel[25]"
+msgstr "Присесть (удерживать)"
+
+msgid "ROControlBinder.BindingLabel[24]"
+msgstr "Присесть (нажать)"
+
+msgid "ROControlBinder.BindingLabel[26]"
+msgstr "Переключить движение вбок"
+
+msgid "ROControlBinder.BindingLabel[27]"
+msgstr "Наклон влево"
+
+msgid "ROControlBinder.BindingLabel[28]"
+msgstr "Наклон вправо"
+
+msgid "ROControlBinder.BindingLabel[29]"
+msgstr "Взгляд"
+
+msgid "ROControlBinder.BindingLabel[30]"
+msgstr "Повернуться влево"
+
+msgid "ROControlBinder.BindingLabel[31]"
+msgstr "Повернуться вправо"
+
+msgid "ROControlBinder.BindingLabel[32]"
+msgstr "Посмотреть нверх"
+
+msgid "ROControlBinder.BindingLabel[33]"
+msgstr "Посмотреть вниз"
+
+msgid "ROControlBinder.BindingLabel[34]"
+msgstr "Взгляд по центру"
+
+msgid "ROControlBinder.BindingLabel[35]"
+msgstr "Переключить "
+
+msgid "ROControlBinder.BindingLabel[36]"
+msgstr "Переключить режим камеры"
+
+msgid "ROControlBinder.BindingLabel[37]"
+msgstr "Вооружение"
+
+msgid "ROControlBinder.BindingLabel[38]"
+msgstr "Огонь"
+
+msgid "ROControlBinder.BindingLabel[39]"
+msgstr "Альтернативный огонь"
+
+msgid "ROControlBinder.BindingLabel[40]"
+msgstr "Выбросить оружие"
+
+msgid "ROControlBinder.BindingLabel[41]"
+msgstr "Лучшее оружие"
+
+msgid "ROControlBinder.BindingLabel[42]"
+msgstr "Следующее оружие"
+
+msgid "ROControlBinder.BindingLabel[43]"
+msgstr "Предыдущее оружие"
+
+msgid "ROControlBinder.BindingLabel[44]"
+msgstr "Последнее оружие"
+
+msgid "ROControlBinder.BindingLabel[45]"
+msgstr "Общение"
+
+msgid "ROControlBinder.BindingLabel[46]"
+msgstr "Общий чат"
+
+msgid "ROControlBinder.BindingLabel[47]"
+msgstr "Командный чат"
+
+msgid "ROControlBinder.BindingLabel[48]"
+msgstr "Игровой чат"
+
+msgid "ROControlBinder.BindingLabel[49]"
+msgstr "Меню голосовых команд"
+
+msgid "ROControlBinder.BindingLabel[51]"
+msgstr "Сказать в общий чат"
+
+msgid "ROControlBinder.BindingLabel[52]"
+msgstr "Сказать в локальный чат"
+
+msgid "ROControlBinder.BindingLabel[53]"
+msgstr "Сказать в командный чат"
+
+msgid "ROControlBinder.BindingLabel[54]"
+msgstr "Переключить на общий канал"
+
+msgid "ROControlBinder.BindingLabel[55]"
+msgstr "Переключить на локальный канал"
+
+msgid "ROControlBinder.BindingLabel[56]"
+msgstr "Переключить на командный канал"
+
+msgid "ROScoreBoard.TeamNameAxis"
+msgstr "Ось"
+
+msgid "ROScoreBoard.TeamNameAllies"
+msgstr "Союзники"
+
+msgid "ROSettingsPage_new.PanelCaption<2>"
+msgstr "Аудио"
+
+msgid "ROSettingsPage_new.PanelCaption<1>"
+msgstr "Дисплей"
+
+msgid "ROSettingsPage_new.PanelCaption<4>"
+msgstr "Устройство ввода"
+
+msgid "ROTab_Controls.ClearCaption"
+msgstr "Нажмите '%backspace%' что бы открепить %keybind% от клавиши %keyname%."
+
+msgid "ROTab_DetailSettings.ScopeLevels[0]"
+msgstr "Модель (Низкая)"
+
+msgid "ROUT2K4GamePageSP.PanelHint<0>"
+msgstr "ничего"
+
+msgid "ROControlBinder.BindingLabel[57]"
+msgstr "Интерфейс"
+
+msgid "ROControlBinder.BindingLabel[60]"
+msgstr "Показать счёт"
+
+msgid "ROControlBinder.BindingLabel[62]"
+msgstr "Игра"
+
+msgid "ROControlBinder.BindingLabel[61]"
+msgstr "Таблица счёта"
+
+msgid "ROControlBinder.BindingLabel[58]"
+msgstr "Прибавить интерфейс"
+
+msgid "ROControlBinder.BindingLabel[59]"
+msgstr "Убавить интерфейс"
+
+msgid "ROControlBinder.BindingLabel[18]"
+msgstr "Вперед"
+
+msgid "ROSettingsPage_new.PanelCaption<5>"
+msgstr "Интерфейс"
+
+msgid "ROTab_Controls.ActionText"
+msgstr "{%keybinds%} - в настоящее время привязаны к этой клавише"
