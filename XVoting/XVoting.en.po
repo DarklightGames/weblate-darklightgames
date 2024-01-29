@@ -1,0 +1,654 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain\n"
+"Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
+
+msgid "DefaultMapListLoader.UseMapListPropsDisplayText"
+msgstr "Use MapLists"
+
+msgid "DefaultMapListLoader.UserMapListPropDescription"
+msgstr "If enabled, the map lists are used instead of showing all map names."
+
+msgid "KickInfoPage.PingText"
+msgstr "Ping"
+
+msgid "KickInfoPage.ScoreText"
+msgstr "Score"
+
+msgid "KickInfoPage.IDText"
+msgstr "Player ID"
+
+msgid "KickInfoPage.IPText"
+msgstr "IP Address"
+
+msgid "KickInfoPage.KillsText"
+msgstr "Kills"
+
+msgid "KickInfoPage.DeathsText"
+msgstr "Deaths"
+
+msgid "KickInfoPage.SuicidesText"
+msgstr "Suicides"
+
+msgid "KickInfoPage.MultiKillsText"
+msgstr "MultiKills"
+
+msgid "KickInfoPage.SpreesText"
+msgstr "Sprees"
+
+msgid "KickInfoPage.ExitButton.Caption"
+msgstr "Close"
+
+msgid "KickInfoPage.PlayerNameLabel.Caption"
+msgstr "PlayerName"
+
+msgid "KickVoteMultiColumnList.ColumnHeadings<0>"
+msgstr "Player Name"
+
+msgid "KickVoteMultiColumnList.ColumnHeadings<1>"
+msgstr "Team"
+
+msgid "KickVoteMultiColumnList.ColumnHeadings<2>"
+msgstr "ID"
+
+msgid "KickVoteMultiColumnList.ColumnHeadings<3>"
+msgstr "Votes"
+
+msgid "KickVoteMultiColumnList.ColumnHeadingHints<0>"
+msgstr "Player Name"
+
+msgid "KickVoteMultiColumnList.ColumnHeadingHints<1>"
+msgstr "Player's Team"
+
+msgid "KickVoteMultiColumnList.ColumnHeadingHints<2>"
+msgstr "Player's ID number"
+
+msgid "KickVoteMultiColumnList.ColumnHeadingHints<3>"
+msgstr "Number of kick votes registered against this player."
+
+msgid "KickVoteMultiColumnListBox.RCMenu.ContextItems<0>"
+msgstr "Vote to Kick this Player"
+
+msgid "KickVoteMultiColumnListBox.RCMenu.ContextItems<1>"
+msgstr "View Player Details"
+
+msgid "KickVoteMultiColumnListBox.RCMenu.ContextItems<2>"
+msgstr "[Admin] Kick from Server"
+
+msgid "KickVoteMultiColumnListBox.RCMenu.ContextItems<3>"
+msgstr "[Admin] Ban from Server"
+
+msgid "KickVotingPage.lmsgKickVotingDisabled"
+msgstr "Sorry, Kick Voting has been disabled by the server administrator."
+
+msgid "KickVotingPage.WindowName"
+msgstr "Kick Voting"
+
+msgid "KickVotingPage.InfoButton.Caption"
+msgstr "Info"
+
+msgid "KickVotingPage.KickButton.Caption"
+msgstr "Kick"
+
+msgid "MapInfoPage.MessageNoInfo"
+msgstr "No information available!"
+
+msgid "MapInfoPage.AuthorText"
+msgstr "Author"
+
+msgid "MapInfoPage.PlayerText"
+msgstr "players"
+
+msgid "MapInfoPage.lmsgLevelPreviewUnavailable"
+msgstr "Level Preview Unavailable"
+
+msgid "MapInfoPage.MapAuthorLabel.Caption"
+msgstr "MapAuthor"
+
+msgid "MapInfoPage.MapPlayersLabel.Caption"
+msgstr "Players"
+
+msgid "MapInfoPage.NoPreview.Caption"
+msgstr "No Preview Available"
+
+msgid "MapVoteCountMultiColumnList.ColumnHeadings<0>"
+msgstr "GameType"
+
+msgid "MapVoteCountMultiColumnList.ColumnHeadings<1>"
+msgstr "MapName"
+
+msgid "MapVoteCountMultiColumnList.ColumnHeadings<2>"
+msgstr "Votes"
+
+msgid "MapVoteCountMultiColumnList.ColumnHeadingHints<0>"
+msgstr "Game Type"
+
+msgid "MapVoteCountMultiColumnList.ColumnHeadingHints<1>"
+msgstr "Map Name"
+
+msgid "MapVoteCountMultiColumnList.ColumnHeadingHints<2>"
+msgstr "Number of votes registered for this map."
+
+msgid "MapVoteCountMultiColumnListBox.RCMenu.ContextItems<0>"
+msgstr "Vote for this Map"
+
+msgid "MapVoteCountMultiColumnListBox.RCMenu.ContextItems<1>"
+msgstr "View Screenshot and Description"
+
+msgid "MapVoteFooter.AcceptButton.Caption"
+msgstr "Accept"
+
+msgid "MapVoteFooter.AcceptButton.Hint"
+msgstr "Click once you are satisfied with all settings and wish to offer no further modifications"
+
+msgid "MapVoteFooter.ChatEditbox.Caption"
+msgstr "Say"
+
+msgid "MapVoteFooter.CloseButton.Caption"
+msgstr "Close"
+
+msgid "MapVoteFooter.MapvoteFooterBackground.Caption"
+msgstr "Chat"
+
+msgid "MapVoteFooter.SubmitButton.Caption"
+msgstr "Submit"
+
+msgid "MapVoteGameConfigPage.lmsgNew"
+msgstr "New"
+
+msgid "MapVoteGameConfigPage.lmsgAdd"
+msgstr "Add"
+
+msgid "MapVoteGameConfigPage.WindowName"
+msgstr "Map Voting Game Configuration"
+
+msgid "MapVoteGameConfigPage.AcronymEditBox.Caption"
+msgstr "Abbreviation"
+
+msgid "MapVoteGameConfigPage.AcronymEditBox.Hint"
+msgstr "A short abbreviation, description, or acronym that identifies the game configuration. This will be appended to the map name in vote messages."
+
+msgid "MapVoteGameConfigPage.DefaultCheckBox.Caption"
+msgstr "Default"
+
+msgid "MapVoteGameConfigPage.DefaultCheckBox.Hint"
+msgstr "The selected game configuration will be the default if all the players leave the server"
+
+msgid "MapVoteGameConfigPage.DeleteButton.Caption"
+msgstr "Delete"
+
+msgid "MapVoteGameConfigPage.DeleteButton.Hint"
+msgstr "Delete the selected game configuration."
+
+msgid "MapVoteGameConfigPage.GameClassComboBox.Caption"
+msgstr "Game Class"
+
+msgid "MapVoteGameConfigPage.GameClassComboBox.Hint"
+msgstr "Select a game type for the select game configuration."
+
+msgid "MapVoteGameConfigPage.GameConfigListBox.Hint"
+msgstr "Select a game configuration to edit or delete."
+
+msgid "MapVoteGameConfigPage.GameTitleEditBox.Caption"
+msgstr "Game Title"
+
+msgid "MapVoteGameConfigPage.GameTitleEditBox.Hint"
+msgstr "Enter a custom game configuration title."
+
+msgid "MapVoteGameConfigPage.MutatorListBox.Hint"
+msgstr "Select each mutator that should be loaded with this game configuration."
+
+msgid "MapVoteGameConfigPage.NewButton.Caption"
+msgstr "New"
+
+msgid "MapVoteGameConfigPage.NewButton.Hint"
+msgstr "Create a new game configuration."
+
+msgid "MapVoteGameConfigPage.ParameterEditBox.Caption"
+msgstr "Parameters"
+
+msgid "MapVoteGameConfigPage.ParameterEditBox.Hint"
+msgstr "(Advanced) List of game parameters with values. Separated each with a comma. (ex. GoalScore=4,MinPlayers=4)"
+
+msgid "MapVoteGameConfigPage.PrefixEditBox.Caption"
+msgstr "Map Prefixes"
+
+msgid "MapVoteGameConfigPage.PrefixEditBox.Hint"
+msgstr "List of map name prefixes. Separate each with commas."
+
+msgid "MapVoteGameConfigPage.SBList.Caption"
+msgstr "GameTypes"
+
+msgid "MapVoteGameConfigPage.SBList2.Caption"
+msgstr "Mutators"
+
+msgid "MapVoteMapListConfigPage.sbCaption"
+msgstr "Map Cycle List"
+
+msgid "MapVoteMapListConfigPage.WindowName"
+msgstr "Map Voting List Configuration"
+
+msgid "MapVoteMapListConfigPage.MapListCheckBox.Caption"
+msgstr "Use Map Cycle List"
+
+msgid "MapVoteMapListConfigPage.MapListCheckBox.Hint"
+msgstr "Load map names from the specified maps lists or using the prefix."
+
+msgid "MapVoteMapListConfigPage.MapListListBox.Hint"
+msgstr "Select each maplist type to load map names from."
+
+msgid "MapVoteMapListConfigPage.MapListLoaderPrefixEditBox.Caption"
+msgstr "Map Prefixes"
+
+msgid "MapVoteMapListConfigPage.MapListLoaderPrefixEditBox.Hint"
+msgstr "List of map name prefixes. If more than one separate each with commas."
+
+msgid "MapVoteMultiColumnList.ColumnHeadings<0>"
+msgstr "Map Name"
+
+msgid "MapVoteMultiColumnList.ColumnHeadings<1>"
+msgstr "Played"
+
+msgid "MapVoteMultiColumnList.ColumnHeadings<2>"
+msgstr "Seq"
+
+msgid "MapVoteMultiColumnList.ColumnHeadingHints<0>"
+msgstr "Map Name"
+
+msgid "MapVoteMultiColumnList.ColumnHeadingHints<1>"
+msgstr "Number of times the map has been played."
+
+msgid "MapVoteMultiColumnList.ColumnHeadingHints<2>"
+msgstr "Sequence, The number of games that have been played since this map was last played."
+
+msgid "MapVoteMultiColumnListBox.RCMenu.ContextItems<0>"
+msgstr "Vote for this Map"
+
+msgid "MapVoteMultiColumnListBox.RCMenu.ContextItems<1>"
+msgstr "View Screenshot and Description"
+
+msgid "MapVotingPage.lmsgMapVotingDisabled"
+msgstr "Sorry, Map Voting has been disabled by the server administrator."
+
+msgid "MapVotingPage.lmsgReplicationNotFinished"
+msgstr "Map data download in progress. Please try again later."
+
+msgid "MapVotingPage.lmsgMapDisabled"
+msgstr "The selected Map is disabled."
+
+msgid "MapVotingPage.lmsgTotalMaps"
+msgstr "%mapcount% Total Maps"
+
+msgid "MapVotingPage.lmsgMode[0]"
+msgstr "Majority Mode"
+
+msgid "MapVotingPage.lmsgMode[1]"
+msgstr "Majority & Elimination Mode"
+
+msgid "MapVotingPage.lmsgMode[2]"
+msgstr "Score Mode"
+
+msgid "MapVotingPage.lmsgMode[3]"
+msgstr "Score & Elimination Mode"
+
+msgid "MapVotingPage.lmsgMode[4]"
+msgstr "Majority & Accumulation Mode"
+
+msgid "MapVotingPage.lmsgMode[5]"
+msgstr "Majority & Accumulation & Elimination Mode"
+
+msgid "MapVotingPage.lmsgMode[6]"
+msgstr "Score & Accumulation Mode"
+
+msgid "MapVotingPage.lmsgMode[7]"
+msgstr "Score & Accumulation & Elimination Mode"
+
+msgid "MapVotingPage.WindowName"
+msgstr "Map Voting"
+
+msgid "MapVotingPage.GameTypeCombo.Caption"
+msgstr "Filter Game Type:"
+
+msgid "MatchConfig.lmsgLoadingMatchProfile"
+msgstr "Match settings are being loaded now."
+
+msgid "MatchConfig.lmsgRestoringDefaultProfile"
+msgstr "Restoring default server profile."
+
+msgid "MatchConfig.lmsgDefaultNotAvailable"
+msgstr "Default Profile Not available."
+
+msgid "MatchSetupLoginPage.CancelButton.Caption"
+msgstr "Cancel"
+
+msgid "MatchSetupLoginPage.LoginButton.Caption"
+msgstr "Login"
+
+msgid "MatchSetupLoginPage.PasswordEditBox.Caption"
+msgstr "Password"
+
+msgid "MatchSetupLoginPage.TitleLabel.Caption"
+msgstr "Match Setup Login"
+
+msgid "MatchSetupLoginPage.UserIDEditBox.Caption"
+msgstr "UserID"
+
+msgid "MatchSetupLoginPanel.NoUsernameSpecified"
+msgstr "In order to login to match setup, you must supply a username."
+
+msgid "MatchSetupLoginPanel.NoPasswordSpecified"
+msgstr "In order to login to match setup, you must supply a password."
+
+msgid "MatchSetupLoginPanel.InvalidLoginText"
+msgstr "Login attempt failed - invalid username or password."
+
+msgid "MatchSetupLoginPanel.WaitingForLoginText"
+msgstr "Please wait while your login credentials are verified..."
+
+msgid "MatchSetupLoginPanel.LoggedText"
+msgstr "Successfully logged into match setup!"
+
+msgid "MatchSetupLoginPanel.ButtonLoginText"
+msgstr "Login"
+
+msgid "MatchSetupLoginPanel.ButtonLogoutText"
+msgstr "Logout"
+
+msgid "MatchSetupLoginPanel.PleaseWaitText"
+msgstr "Complete data transfer will take a few seconds..."
+
+msgid "MatchSetupLoginPanel.PanelCaption"
+msgstr "Login"
+
+msgid "MatchSetupLoginPanel.CancelButton.Caption"
+msgstr "Cancel"
+
+msgid "MatchSetupLoginPanel.LoginButton.Caption"
+msgstr "Login"
+
+msgid "MatchSetupLoginPanel.PasswordEditBox.Caption"
+msgstr "Password"
+
+msgid "MatchSetupLoginPanel.UserIDEditBox.Caption"
+msgstr "UserID"
+
+msgid "MatchSetupMain.PanelCaption"
+msgstr "General"
+
+msgid "MatchSetupMain.CommandLineParamsBox.Caption"
+msgstr "Additional Command Line Parameters"
+
+msgid "MatchSetupMain.CommandLineParamsBox.Hint"
+msgstr "Specify any additional command line parameters (optional)"
+
+msgid "MatchSetupMain.DemoRecBox.Caption"
+msgstr "Filename"
+
+msgid "MatchSetupMain.DemoRecBox.Hint"
+msgstr "Enter the name of the demo you'd like to record for this match"
+
+msgid "MatchSetupMain.DemoRecCheckbox.Caption"
+msgstr "Record Demo"
+
+msgid "MatchSetupMain.DemoRecCheckbox.Hint"
+msgstr "Record a server-side demo of this match"
+
+msgid "MatchSetupMain.GameTypeCombo.Caption"
+msgstr "Game Type"
+
+msgid "MatchSetupMain.GameTypeCombo.Hint"
+msgstr "Select the gametype to use in the current match"
+
+msgid "MatchSetupMain.TournamentCheckbox.Caption"
+msgstr "Tournament Mode"
+
+msgid "MatchSetupMain.TournamentCheckbox.Hint"
+msgstr "All players must be connected to the server before the match can start"
+
+msgid "MatchSetupMaps.PanelCaption"
+msgstr "Maplist"
+
+msgid "MatchSetupMaps.ActiveBackground.Caption"
+msgstr "Active Maps"
+
+msgid "MatchSetupMaps.AddAllButton.Caption"
+msgstr "Add All"
+
+msgid "MatchSetupMaps.AddAllButton.Hint"
+msgstr "Add all maps to your map list"
+
+msgid "MatchSetupMaps.AddButton.Caption"
+msgstr "Add"
+
+msgid "MatchSetupMaps.AddButton.Hint"
+msgstr "Add the selected maps to your map list"
+
+msgid "MatchSetupMaps.InactiveBackground.Caption"
+msgstr "Inactive Maps"
+
+msgid "MatchSetupMaps.MoveDownButton.Caption"
+msgstr "Down"
+
+msgid "MatchSetupMaps.MoveDownButton.Hint"
+msgstr "Move this map lower down in the list"
+
+msgid "MatchSetupMaps.MoveUpButton.Caption"
+msgstr "Up"
+
+msgid "MatchSetupMaps.MoveUpButton.Hint"
+msgstr "Move this map higher up in the list"
+
+msgid "MatchSetupMaps.RemoveAllButton.Caption"
+msgstr "Remove All"
+
+msgid "MatchSetupMaps.RemoveAllButton.Hint"
+msgstr "Remove all maps from your map list"
+
+msgid "MatchSetupMaps.RemoveButton.Caption"
+msgstr "Remove"
+
+msgid "MatchSetupMaps.RemoveButton.Hint"
+msgstr "Remove the selected maps from your map list"
+
+msgid "MatchSetupMutator.PanelCaption"
+msgstr "Mutators"
+
+msgid "MatchSetupMutator.ActiveBackground.Caption"
+msgstr "Active Mutators"
+
+msgid "MatchSetupMutator.InactiveBackground.Caption"
+msgstr "Inactive Mutators"
+
+msgid "MatchSetupMutator.MutAddAllButton.Caption"
+msgstr "Add All"
+
+msgid "MatchSetupMutator.MutAddAllButton.Hint"
+msgstr "Add all mutators to the list"
+
+msgid "MatchSetupMutator.MutAddButton.Caption"
+msgstr "Add"
+
+msgid "MatchSetupMutator.MutAddButton.Hint"
+msgstr "Add the selected mutators to the list"
+
+msgid "MatchSetupMutator.MutRemoveAllButton.Caption"
+msgstr "Remove All"
+
+msgid "MatchSetupMutator.MutRemoveAllButton.Hint"
+msgstr "Remove all mutators from the list"
+
+msgid "MatchSetupMutator.MutRemoveButton.Caption"
+msgstr "Remove"
+
+msgid "MatchSetupMutator.MutRemoveButton.Hint"
+msgstr "Remove the selected mutators from the list"
+
+msgid "MatchSetupRules.PanelCaption"
+msgstr "Rules"
+
+msgid "PlayerInfoMultiColumnList.ColumnHeadings<0>"
+msgstr "-"
+
+msgid "PlayerInfoMultiColumnList.ColumnHeadings<1>"
+msgstr "-"
+
+msgid "VotingReplicationInfo.lmsgSavedAsDefaultSuccess"
+msgstr "Profile was saved as default successfully"
+
+msgid "VotingReplicationInfo.lmsgNotAllAccepted"
+msgstr "You have Accepted the current settings, Waiting for other users to accept."
+
+msgid "xVotingHandler.lmsgInvalidPassword"
+msgstr "The password entered is invalid !"
+
+msgid "xVotingHandler.lmsgMatchSetupPermission"
+msgstr "Sorry, you do not have permission to use Match Setup !"
+
+msgid "xVotingHandler.lmsgKickVote"
+msgstr "%playername1% placed a kick vote against %playername2%"
+
+msgid "xVotingHandler.lmsgAnonymousKickVote"
+msgstr "A kick vote has been placed against %playername%"
+
+msgid "xVotingHandler.lmsgKickVoteAdmin"
+msgstr "%playername% attempted to submit a kick vote against the server administrator !"
+
+msgid "xVotingHandler.lmsgMapWon"
+msgstr "%mapname% has won !"
+
+msgid "xVotingHandler.lmsgMidGameVote"
+msgstr "Mid-Game Map Voting has been initiated !!!!"
+
+msgid "xVotingHandler.lmsgSpectatorsCantVote"
+msgstr "Sorry, Spectators can not vote."
+
+msgid "xVotingHandler.lmsgMapVotedFor"
+msgstr "%playername% has voted for %mapname%"
+
+msgid "xVotingHandler.lmsgMapVotedForWithCount"
+msgstr "%playername% has placed %votecount% votes for %mapname%"
+
+msgid "xVotingHandler.PropsDisplayText[0]"
+msgstr "Enable Map Voting"
+
+msgid "xVotingHandler.PropsDisplayText[1]"
+msgstr "Auto Open GUI"
+
+msgid "xVotingHandler.PropsDisplayText[2]"
+msgstr "ScoreBoard Delay"
+
+msgid "xVotingHandler.PropsDisplayText[3]"
+msgstr "Score Mode"
+
+msgid "xVotingHandler.PropsDisplayText[4]"
+msgstr "Accumulation Mode"
+
+msgid "xVotingHandler.PropsDisplayText[5]"
+msgstr "Elimination Mode"
+
+msgid "xVotingHandler.PropsDisplayText[6]"
+msgstr "Minimum Maps"
+
+msgid "xVotingHandler.PropsDisplayText[7]"
+msgstr "Repeat Limit"
+
+msgid "xVotingHandler.PropsDisplayText[8]"
+msgstr "Voting Time Limit"
+
+msgid "xVotingHandler.PropsDisplayText[9]"
+msgstr "Mid-Game Vote Percent"
+
+msgid "xVotingHandler.PropsDisplayText[10]"
+msgstr "Default Current GameType"
+
+msgid "xVotingHandler.PropsDisplayText[11]"
+msgstr "Enable Kick Voting"
+
+msgid "xVotingHandler.PropsDisplayText[12]"
+msgstr "Kick Vote Percent"
+
+msgid "xVotingHandler.PropsDisplayText[13]"
+msgstr "Anonymous Kick Voting"
+
+msgid "xVotingHandler.PropsDisplayText[14]"
+msgstr "Allow Match Setup"
+
+msgid "xVotingHandler.PropsDisplayText[15]"
+msgstr "Game Configuration"
+
+msgid "xVotingHandler.PropsDisplayText[16]"
+msgstr "Map List Configuration"
+
+msgid "xVotingHandler.PropDescription[0]"
+msgstr "If enabled players can vote for maps."
+
+msgid "xVotingHandler.PropDescription[1]"
+msgstr "If enabled the Map voting interface will automatically open at the end of each game."
+
+msgid "xVotingHandler.PropDescription[2]"
+msgstr "Sets the number of seconds to delay after the end of each game before opening the voting interface."
+
+msgid "xVotingHandler.PropDescription[3]"
+msgstr "If enabled, each player gets his or her score worth of votes."
+
+msgid "xVotingHandler.PropDescription[4]"
+msgstr "If enabled, each player will accumulate votes each game until they win."
+
+msgid "xVotingHandler.PropDescription[5]"
+msgstr "If enabled, available maps are disabled as they are played until there are X maps left."
+
+msgid "xVotingHandler.PropDescription[6]"
+msgstr "The number of enabled maps that remain in the map list (in Elimination mode) before the map list is reset."
+
+msgid "xVotingHandler.PropDescription[7]"
+msgstr "Number of previously played maps that should not be votable."
+
+msgid "xVotingHandler.PropDescription[8]"
+msgstr "Limits how much time (in seconds) to allow for voting."
+
+msgid "xVotingHandler.PropDescription[9]"
+msgstr "Percentage of players that must vote to trigger a Mid-Game vote."
+
+msgid "xVotingHandler.PropDescription[10]"
+msgstr "If enabled, and there are no players on the server then the server will stay on the current game type."
+
+msgid "xVotingHandler.PropDescription[11]"
+msgstr "If enable players can vote to kick other players."
+
+msgid "xVotingHandler.PropDescription[12]"
+msgstr "The percentage of players that must vote against an individual player to have them kicked from the server."
+
+msgid "xVotingHandler.PropDescription[13]"
+msgstr "If enabled players can place Kick votes without anyone knowing who placed the vote."
+
+msgid "xVotingHandler.PropDescription[14]"
+msgstr "Enables match setup on the server - valid admin username & password is required in order to use this feature"
+
+msgid "xVotingHandler.PropDescription[15]"
+msgstr "Opens the map voting game configuration screen"
+
+msgid "xVotingHandler.PropDescription[16]"
+msgstr "Opens the map voting list configuration screen"
+
+msgid "xVotingHandler.lmsgAdminMapChange"
+msgstr "Admin has forced map switch to %mapname%"
+
+msgid "xVotingHandler.lmsgGameConfigColumnTitle[0]"
+msgstr "GameType"
+
+msgid "xVotingHandler.lmsgGameConfigColumnTitle[1]"
+msgstr "MapPrefixes"
+
+msgid "xVotingHandler.lmsgGameConfigColumnTitle[2]"
+msgstr "Abbreviation"
+
+msgid "xVotingHandler.lmsgGameConfigColumnTitle[3]"
+msgstr "Name"
+
+msgid "xVotingHandler.lmsgGameConfigColumnTitle[4]"
+msgstr "Mutators"
+
+msgid "xVotingHandler.lmsgGameConfigColumnTitle[5]"
+msgstr "Options"
