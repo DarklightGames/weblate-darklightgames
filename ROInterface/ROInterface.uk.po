@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-01 12:39+0000\n"
+"PO-Revision-Date: 2024-01-29 20:30+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/uk/>\n"
@@ -83,3 +83,30 @@ msgstr "Потрібна допомога в..."
 
 msgid "ROConsole.SMStateName[13]"
 msgstr "Під атакою в..."
+
+msgid "ROControlBinder.BindingLabel[1]"
+msgstr "Ривок"
+
+msgid "ROControlBinder.BindingLabel[2]"
+msgstr "Перезарядка"
+
+msgid "ROControlBinder.BindingLabel[4]"
+msgstr "Змінити роль"
+
+msgid "ROControlBinder.BindingLabel[6]"
+msgstr ""
+
+msgid "ROControlBinder.BindingLabel[7]"
+msgstr "З'єднанати багнет/розгортання MG"
+
+msgid "ROControlBinder.BindingLabel[8]"
+msgstr "Змінити ствол MG"
+
+msgid "ROControlBinder.BindingLabel[5]"
+msgstr "Показати/Приховати HUD"
+
+msgid "ROControlBinder.BindingLabel[9]"
+msgstr "Показати цілі"
+
+msgid "ROControlBinder.BindingLabel[12]"
+msgstr "Використовувати"
