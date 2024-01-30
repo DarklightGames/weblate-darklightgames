@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-29 20:30+0000\n"
+"PO-Revision-Date: 2024-01-30 21:00+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/ru/>\n"
@@ -116,3 +116,24 @@ msgstr "Минимальное количество игроков (ботов)"
 
 msgid "UT2k4Browser_ServerListPageBase.PingCompleteText"
 msgstr "Запрос обработан! %NumServers% серверов, %NumPlayers% игроков"
+
+msgid "UT2K4SettingsPage.PanelCaption<0>"
+msgstr "Дисплей"
+
+msgid "UT2K4SettingsPage.PanelCaption<1>"
+msgstr "Аудио"
+
+msgid "UT2K4SettingsPage.PanelCaption<2>"
+msgstr "Игрок"
+
+msgid "UT2K4SettingsPage.PanelCaption<3>"
+msgstr "Игра"
+
+msgid "UT2K4SettingsPage.PanelCaption<4>"
+msgstr "Устройство ввода"
+
+msgid "UT2K4SettingsPage.PanelCaption<5>"
+msgstr "Вооружение"
+
+msgid "UT2K4SettingsPage.PanelCaption<6>"
+msgstr "Игровой дисплей (HUD)"
