@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-27 23:39+0000\n"
+"PO-Revision-Date: 2024-01-30 22:17+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/ru/>\n"
@@ -351,3 +351,9 @@ msgstr "Противотанковое ружье Wz.35"
 
 msgid "DH_MAB42Weapon.ItemName"
 msgstr "MAB M1938/42"
+
+msgid "DH_SRCMMod35SmokeGrenadeWeapon.ItemName"
+msgstr "Дымовая граната SCRM Mod.35"
+
+msgid "DH_SRCMMod35GrenadeWeapon.ItemName"
+msgstr "Граната SCRM Mod.35"
