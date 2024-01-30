@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 19:34+0000\n"
+"PO-Revision-Date: 2024-01-30 21:00+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ru/>\n"
@@ -275,7 +275,7 @@ msgid "ROTab_Controls.captions_game[1]"
 msgstr "Использовать"
 
 msgid "ROTab_Controls.captions_game[2]"
-msgstr "Дать патроны"
+msgstr "Дать патроны пулемётчику"
 
 msgid "ROTab_Controls.captions_game[3]"
 msgstr "Поставить на паузу"
@@ -446,3 +446,192 @@ msgstr "Интерфейс"
 
 msgid "ROTab_Controls.ActionText"
 msgstr "{%keybinds%} - в настоящее время привязаны к этой клавише"
+
+msgid "ROTab_Controls.Section_Misc"
+msgstr "Прочее"
+
+msgid "ROTab_Controls.captions_looking[6]"
+msgstr "Переключить режим камеры (Только в оффлайн)"
+
+msgid "ROTab_Controls.captions_weapons[9]"
+msgstr "Примкнуть штык / Разложить пулемёт"
+
+msgid "ROTab_Controls.captions_comm[8]"
+msgstr "Переключиться на Командный голосовой канал"
+
+msgid "ROTab_Controls.captions_looking[3]"
+msgstr "Посмотреть вниз"
+
+msgid "ROTab_Controls.captions_movement[10]"
+msgstr "Движение шагом"
+
+msgid "ROTab_Controls.captions_movement[11]"
+msgstr "Присесть (нажатие)"
+
+msgid "ROTab_Controls.captions_misc[0]"
+msgstr "Открыть меню голосований"
+
+msgid "ROTab_Controls.captions_misc[1]"
+msgstr "Открыть консоль"
+
+msgid "ROTab_Controls.captions_misc[2]"
+msgstr "Посмотреть статус подключения"
+
+msgid "ROTab_Controls.captions_misc[3]"
+msgstr "Отменить ожидаемое подключение"
+
+msgid "ROTab_Controls.captions_misc[4]"
+msgstr "Запустить запись демо"
+
+msgid "ROTab_Controls.captions_misc[5]"
+msgstr "Остановить запись демо"
+
+msgid "ROTab_Controls.captions_misc[6]"
+msgstr "Сделать скриншот"
+
+msgid "ROTab_Controls.captions_misc[7]"
+msgstr "Посмотреть информацию сервера"
+
+msgid "ROTab_Controls.captions_misc[8]"
+msgstr "Показать персональную статистику"
+
+msgid "ROTab_Controls.captions_misc[9]"
+msgstr "Посмотреть статистику следующего игрока"
+
+msgid "ROTab_Controls.captions_interface[0]"
+msgstr "Открыть карту"
+
+msgid "ROTab_Controls.captions_interface[2]"
+msgstr "Показать таблицу счёта (Удерживать)"
+
+msgid "ROTab_Controls.captions_interface[1]"
+msgstr "Показать таблицу счёта (Нажатие)"
+
+msgid "ROTab_Controls.captions_interface[3]"
+msgstr "Увеличить размер Игрового интерфейса (HUD)"
+
+msgid "ROTab_Controls.captions_comm[0]"
+msgstr "Общий чат"
+
+msgid "ROTab_Controls.captions_comm[1]"
+msgstr "Командный чат"
+
+msgid "ROTab_Controls.captions_comm[2]"
+msgstr "Чат в технике"
+
+msgid "ROTab_Controls.captions_comm[3]"
+msgstr "Меню голосовых команд"
+
+msgid "ROTab_Controls.captions_interface[4]"
+msgstr "Уменьшить размер Головного интерфейса (HUD)"
+
+msgid "ROTab_Controls.captions_weapons[0]"
+msgstr "Основной огонь"
+
+msgid "ROTab_Controls.captions_weapons[1]"
+msgstr "Альтернативный огонь"
+
+msgid "ROTab_Controls.captions_comm[4]"
+msgstr "Посмотреть внутриигровой чат"
+
+msgid "ROTab_Controls.captions_comm[5]"
+msgstr "Активация микрофона"
+
+msgid "ROTab_Controls.captions_comm[6]"
+msgstr "Переключиться на Публичный голосовой канал"
+
+msgid "ROTab_Controls.captions_comm[7]"
+msgstr "Переключиться на Локальный голосовой канал"
+
+msgid "ROTab_Controls.captions_weapons[3]"
+msgstr "Механический прицел"
+
+msgid "ROTab_Controls.captions_weapons[4]"
+msgstr "Выбросить оружие"
+
+msgid "ROTab_Controls.captions_weapons[5]"
+msgstr "Следующее оружие"
+
+msgid "ROTab_Controls.captions_weapons[6]"
+msgstr "Предыдущее оружие"
+
+msgid "ROTab_Controls.captions_weapons[7]"
+msgstr "Поменять на лучшее оружие"
+
+msgid "ROTab_Controls.captions_looking[0]"
+msgstr "Повернуться влево"
+
+msgid "ROTab_Controls.captions_looking[1]"
+msgstr "Повернуться вправо"
+
+msgid "ROTab_Controls.captions_looking[2]"
+msgstr "Посмотреть наверх"
+
+msgid "ROTab_Controls.captions_weapons[8]"
+msgstr "Поменять на последнее оружие"
+
+msgid "ROTab_Controls.captions_weapons[10]"
+msgstr "Сменить ствол пулемёта"
+
+msgid "ROTab_Controls.captions_weapons[11]"
+msgstr "Сменить режим огня"
+
+msgid "ROTab_Controls.captions_movement[0]"
+msgstr "Вперед"
+
+msgid "ROTab_Controls.captions_movement[1]"
+msgstr "Назад"
+
+msgid "ROTab_Controls.captions_movement[2]"
+msgstr "Движение влево"
+
+msgid "ROTab_Controls.captions_movement[3]"
+msgstr "Движение вправо"
+
+msgid "ROTab_Controls.captions_looking[5]"
+msgstr "Переключить на вид от 3-го лица (только в оффлайн)"
+
+msgid "ROTab_Controls.captions_movement[4]"
+msgstr "Наклон влево"
+
+msgid "ROTab_Controls.captions_movement[5]"
+msgstr "Наклон вправо"
+
+msgid "ROTab_Controls.captions_movement[6]"
+msgstr "Прыжок"
+
+msgid "ROTab_Controls.captions_movement[8]"
+msgstr "Положение лёжа"
+
+msgid "ROTab_Controls.captions_movement[9]"
+msgstr "Бег"
+
+msgid "ROTab_Controls.captions_movement[7]"
+msgstr "Присесть (удерживать)"
+
+msgid "ROTab_Controls.Section_Movement"
+msgstr "Передвижение"
+
+msgid "ROTab_Controls.Section_Looking"
+msgstr "Обзор"
+
+msgid "ROTab_Controls.Section_Weapons"
+msgstr "Вооружение"
+
+msgid "ROTab_Controls.Section_Comm"
+msgstr "Связь"
+
+msgid "ROTab_Controls.Section_Game"
+msgstr "Игра"
+
+msgid "ROTab_Controls.Section_Interface"
+msgstr "Интерфейс"
+
+msgid "ROTab_Controls.Section_Speech_Prefix"
+msgstr "Голосовые команды: "
+
+msgid "ROTab_Controls.captions_looking[4]"
+msgstr "Взгляд по центру"
+
+msgid "ROTab_Controls.captions_weapons[2]"
+msgstr "Перезарядка"
