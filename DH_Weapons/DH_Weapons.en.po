@@ -278,6 +278,12 @@ msgstr " "
 msgid "DH_RPG43GrenadeWeapon.ItemName"
 msgstr "RPG-43 Anti-Tank Grenade"
 
+msgid "DH_SRCMMod35GrenadeWeapon.ItemName"
+msgstr "SRCM Mod.35 Grenade"
+
+msgid "DH_SRCMMod35SmokeGrenadeWeapon.ItemName"
+msgstr "SRCM Mod.35 Smoke Grenade"
+
 msgid "DH_STG44ScopedWeapon.ItemName"
 msgstr "StG 44 (ZF4)"
 

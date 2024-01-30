@@ -260,6 +260,45 @@ msgstr "{1} Promote {0} to squad leader"
 msgid "DHContextMenu_SquadMembers.EntryTexts<15>"
 msgstr "{1} Kick {0} from squad"
 
+msgid "DHCreditsPage.ProjectLeadsText"
+msgstr "Project Leads"
+
+msgid "DHCreditsPage.ProgrammersText"
+msgstr "Programmers"
+
+msgid "DHCreditsPage.AnimatorsText"
+msgstr "Animators"
+
+msgid "DHCreditsPage.ModelersText"
+msgstr "Modelers"
+
+msgid "DHCreditsPage.TextureArtistsText"
+msgstr "Texture Artists"
+
+msgid "DHCreditsPage.ArtistsText"
+msgstr "Artists"
+
+msgid "DHCreditsPage.LevelDesignersText"
+msgstr "Level Designers"
+
+msgid "DHCreditsPage.SoundArtistsText"
+msgstr "Sound Artists"
+
+msgid "DHCreditsPage.LocalizationTeamText"
+msgstr "Localization Team"
+
+msgid "DHCreditsPage.CommunityAdminsText"
+msgstr "Community Admins"
+
+msgid "DHCreditsPage.PastPatreonSupportersText"
+msgstr "Past Patreon Supporters"
+
+msgid "DHCreditsPage.OtherContributorsText"
+msgstr "Other Contributors"
+
+msgid "DHCreditsPage.SpecialThanksText"
+msgstr "Special Thanks"
+
 msgid "DHCreditsPage.WindowName"
 msgstr "Credits"
 
@@ -913,6 +952,9 @@ msgstr "Tick: "
 
 msgid "DHScoreBoard.NetHealthText"
 msgstr "Loss: "
+
+msgid "DHScoreBoard.NoPlayersText"
+msgstr "No players"
 
 msgid "DHScoreBoard.ScoreboardColumns<0>.Title"
 msgstr "#"
