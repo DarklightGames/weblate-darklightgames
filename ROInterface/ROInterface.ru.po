@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 21:00+0000\n"
+"PO-Revision-Date: 2024-01-30 21:09+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ru/>\n"
@@ -404,7 +404,7 @@ msgid "ROSettingsPage_new.PanelCaption<2>"
 msgstr "Аудио"
 
 msgid "ROSettingsPage_new.PanelCaption<1>"
-msgstr "Дисплей"
+msgstr "Видео"
 
 msgid "ROSettingsPage_new.PanelCaption<4>"
 msgstr "Устройство ввода"
