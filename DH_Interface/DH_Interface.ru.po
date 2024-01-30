@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 21:00+0000\n"
+"PO-Revision-Date: 2024-01-30 22:17+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -355,7 +355,7 @@ msgid "DHContextMenu_SquadMembers.EntryTexts<15>"
 msgstr "{1} Исключить {0} из отряда"
 
 msgid "DHCreditsPage.WindowName"
-msgstr "Информация"
+msgstr "Титры"
 
 msgid "DHCreditsPage.CloseButton.Caption"
 msgstr "Закрыть"
@@ -1584,3 +1584,45 @@ msgstr "Размер карты"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<4>"
 msgstr "Рекомендованное количество игроков для этой карты."
+
+msgid "DHCreditsPage.ProjectLeadsText"
+msgstr "Руководители проекта"
+
+msgid "DHCreditsPage.TextureArtistsText"
+msgstr "Художники по текстурам"
+
+msgid "DHCreditsPage.PastPatreonSupportersText"
+msgstr "Последние поддержавшие на Patreon"
+
+msgid "DHScoreBoard.NoPlayersText"
+msgstr "Нет игроков"
+
+msgid "DHCreditsPage.ProgrammersText"
+msgstr "Программисты"
+
+msgid "DHCreditsPage.AnimatorsText"
+msgstr "Аниматоры"
+
+msgid "DHCreditsPage.ModelersText"
+msgstr "Моделисты"
+
+msgid "DHCreditsPage.ArtistsText"
+msgstr "Художники"
+
+msgid "DHCreditsPage.LevelDesignersText"
+msgstr "Разработчики уровней"
+
+msgid "DHCreditsPage.SoundArtistsText"
+msgstr "Звукорежиссёры"
+
+msgid "DHCreditsPage.LocalizationTeamText"
+msgstr "Команда локализации"
+
+msgid "DHCreditsPage.CommunityAdminsText"
+msgstr "Администрация сообщества"
+
+msgid "DHCreditsPage.OtherContributorsText"
+msgstr "Прочие участники"
+
+msgid "DHCreditsPage.SpecialThanksText"
+msgstr "Отдельное спасибо"
