@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 21:09+0000\n"
+"PO-Revision-Date: 2024-01-30 21:23+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/ru/>\n"
@@ -137,3 +137,24 @@ msgstr "Вооружение"
 
 msgid "UT2K4SettingsPage.PanelCaption<6>"
 msgstr "Игровой дисплей (HUD)"
+
+msgid "UT2K4VideoChangeOK.RestoreText"
+msgstr "(Изначальные настройки будут восстановлены через %count% %seconds%)"
+
+msgid "UT2K4VideoChangeOK.SecondText"
+msgstr "секунду"
+
+msgid "UT2K4VideoChangeOK.SecondsText"
+msgstr "секунд"
+
+msgid "UT2K4VideoChangeOK.bOk.Caption"
+msgstr "Оставить настройки"
+
+msgid "UT2K4VideoChangeOK.bCancel.Caption"
+msgstr "Откатить настройки"
+
+msgid "UT2K4VideoChangeOK.lbText.Caption"
+msgstr "Применить новые настройки?"
+
+msgid "UT2K4VideoChangeOK.lbText2.Caption"
+msgstr "(Изначальные настройки будут восстановлены через 15 секунд)"
