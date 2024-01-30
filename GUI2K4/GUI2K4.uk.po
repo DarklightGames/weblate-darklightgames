@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-29 20:30+0000\n"
+"PO-Revision-Date: 2024-01-30 19:34+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/uk/>\n"
@@ -89,3 +89,30 @@ msgstr "Вимкнено"
 
 msgid "UT2k4Browser_RulesList.AdminNameString"
 msgstr "Адміністратор сервера"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[1]"
+msgstr "Спрощені"
+
+msgid "UT2k4Browser_RulesList.MutatorString"
+msgstr "Мутатор"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<0>"
+msgstr "Налаштування"
+
+msgid "UT2k4Browser_RulesList.KickVotingString"
+msgstr "Голосування вигнання:"
+
+msgid "UT2k4Browser_RulesList.MapVotingString"
+msgstr "Голосування карта:"
+
+msgid "UT2k4Browser_RulesList.MinPlayersString"
+msgstr "Мінімум гравців (ботів)"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<1>"
+msgstr "Значення"
+
+msgid "UT2k4Browser_RulesList.AdminEmailString"
+msgstr "Електронна пошта адміністратора"
+
+msgid "UT2k4Browser_RulesList.TimeLimitString"
+msgstr "Ліміт часу"
