@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 21:00+0000\n"
+"PO-Revision-Date: 2024-01-30 21:09+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/ru/>\n"
@@ -118,7 +118,7 @@ msgid "UT2k4Browser_ServerListPageBase.PingCompleteText"
 msgstr "Запрос обработан! %NumServers% серверов, %NumPlayers% игроков"
 
 msgid "UT2K4SettingsPage.PanelCaption<0>"
-msgstr "Дисплей"
+msgstr "Видео"
 
 msgid "UT2K4SettingsPage.PanelCaption<1>"
 msgstr "Аудио"
