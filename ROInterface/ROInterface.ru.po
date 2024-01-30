@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-29 20:30+0000\n"
+"PO-Revision-Date: 2024-01-30 19:34+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ru/>\n"
@@ -101,7 +101,7 @@ msgid "ROTab_DetailSettings.DetailOptions[4]"
 msgstr "Выше"
 
 msgid "ROTab_DetailSettings.DetailOptions[5]"
-msgstr "Наивысшие"
+msgstr "Максимальные"
 
 msgid "ROTab_DetailSettings.DetailOptions[6]"
 msgstr "Пользовательские"
@@ -410,7 +410,9 @@ msgid "ROSettingsPage_new.PanelCaption<4>"
 msgstr "Устройство ввода"
 
 msgid "ROTab_Controls.ClearCaption"
-msgstr "Нажмите '%backspace%' что бы открепить %keybind% от клавиши %keyname%."
+msgstr ""
+"Нажмите '%backspace%' что бы удалить привязку действия %keyname% от клавиши "
+"%keybind%."
 
 msgid "ROTab_DetailSettings.ScopeLevels[0]"
 msgstr "Модель (Низкая)"
