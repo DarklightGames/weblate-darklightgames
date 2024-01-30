@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-28 22:32+0000\n"
+"PO-Revision-Date: 2024-01-30 21:00+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -183,8 +183,8 @@ msgstr "Понятно"
 
 msgid "DHMainMenu.SteamMustBeRunningText"
 msgstr ""
-"Для многопользовательской игры Steam должен быть запущен, и у вас должно "
-"быть активное подключение к Интернету"
+"Для игры по сети у вас должен быть запущен Steam и активное подключение к "
+"сети"
 
 msgid "DHMainMenu.GitHubButton.Hint"
 msgstr "Присоединяйтесь к нам на GitHub!"
@@ -232,12 +232,12 @@ msgstr "Научиться играть"
 
 msgid "DHMainMenu.ControlsChangedMessage"
 msgstr ""
-"В игру добавлены новые элементы управления. В результате ваши предыдущие "
-"привязки элементов управления могли быть изменены.||Хотите просмотреть "
-"настройки вашего элемента управления?"
+"В игру добавлены новые элементы управления. Возможно ваши предыдущие "
+"настройки управления могут быть изменены.||Хотите просмотреть ваши настройки "
+"управления?"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadings<3>"
-msgstr "Размер карты"
+msgstr "Тип игры"
 
 msgid "DHMainMenu.SteamCommunityButton.Hint"
 msgstr "Всупайте в сообщество Steam!"
@@ -254,13 +254,13 @@ msgstr "Вы уверены, что хотите выйти?"
 msgid "DHMapVotingPage.lmsgMapOutOfBounds"
 msgstr ""
 "Пожалуйста, проголосуйте за карту, подходящую для текущего количества "
-"игроков. Вы все еще можете проголосовать за эту карту в полном списке."
+"игроков. Вы все еще можете проголосовать за эту карту через полный список."
 
 msgid "DHNetworkStatusMsg.StatusMessages[12]"
 msgstr ""
 "Вас исключили до конца текущего раунда.||Если вас наказал не администратор, "
-"то это была автоматическая система по умолчанию за убийство союзников. Не "
-"делайте этого."
+"то это была автоматическая система по умолчанию за убийство союзников так "
+"что делайте этого."
 
 msgid "DHServerBrowser.PanelHint<1>"
 msgstr ""
@@ -290,7 +290,7 @@ msgid "DHTab_Controls.captions_game[7]"
 msgstr "Автоматически всупить в отряд"
 
 msgid "DHSettingsPage.PanelHint<3>"
-msgstr "Настройте элементы управления клавиатурой и мышью..."
+msgstr "Настройте управления клавиатурой и мышью..."
 
 msgid "DHSettings_Footer.BackB.Caption"
 msgstr "Назад"
@@ -309,7 +309,7 @@ msgid "DHTab_Controls.ControlProfiles[1]"
 msgstr "По умолчанию (Сброс)"
 
 msgid "DHTab_Controls.captions_movement[12]"
-msgstr "Уерживать бег"
+msgstr "Бег (нажатие)"
 
 msgid "DHTab_Controls.captions_weapons[10]"
 msgstr "Переключить режим стрельбы"
@@ -325,10 +325,10 @@ msgid "DHTab_AudioSettings.AudioBK3.Caption"
 msgstr "Голосовой чат"
 
 msgid "DHTab_AudioSettings.AutoJoinPublic.Caption"
-msgstr "Автоподключение к общедоступному каналу"
+msgstr "Автоподключение к общему каналу"
 
 msgid "DHTab_AudioSettings.Dampen.Caption"
-msgstr "Уменьшите громкость игры при использовании VOIP"
+msgstr "Уменьшать громкость игры при использовании Микрофона"
 
 msgid "DHTab_Controls.captions_comm[4]"
 msgstr "Меню голосовых команд"
@@ -648,16 +648,16 @@ msgid "DHLearnToPlayFooter.GameBackButton.Caption"
 msgstr "Назад"
 
 msgid "DHLearnToPlayPage.PanelCaption<0>"
-msgstr "Видео-Обучение"
+msgstr "Обучающие видео"
 
 msgid "DHLearnToPlayPage.PanelHint<0>"
-msgstr "Узнайте об игре, посмотрев видео"
+msgstr "Узнайте больше об игре, посмотрев видео"
 
 msgid "DHMOTDConfigPage.LockedCancelButton.Caption"
 msgstr "Отмена"
 
 msgid "DHMOTDConfigPage.LockedOKButton.Caption"
-msgstr "Хорошо"
+msgstr "Понятно"
 
 msgid "DHMainMenu.JoinTestServerString"
 msgstr "Присоединиться к тестовому серверу"
@@ -701,7 +701,7 @@ msgid "DHMainMenu.SettingsButton.Caption"
 msgstr "Настройки"
 
 msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<0>"
-msgstr "Номинированные карты"
+msgstr "Предложенные карты"
 
 msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<1>"
 msgstr "Вес голоса"
@@ -719,19 +719,19 @@ msgid "DHMapVoteMultiColumnList.ColumnHeadings<0>"
 msgstr "Название карты"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadings<1>"
-msgstr "Союзная нация"
+msgstr "Страны Союзников"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadings<2>"
-msgstr "Тип игры"
+msgstr "Страны Оси"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<1>"
 msgstr "Страна Союзников на карте."
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<2>"
-msgstr "Что за игра или битва на карте."
+msgstr "Страна Оси на карте."
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<3>"
-msgstr "Рекомендованно игроков для этой карты."
+msgstr "Что за тип игры или сражения на карте."
 
 msgid "DHMapVotingPage.lmsgMode[0]"
 msgstr "Победа большинства"
@@ -791,7 +791,7 @@ msgid "DHNetworkStatusMessage.NetStatOk.Caption"
 msgstr "Понятно"
 
 msgid "DHNetworkStatusMsg.StatusTitle[12]"
-msgstr "Вы были исключенны"
+msgstr "Вы были исключены"
 
 msgid "DHPlayerSetupPage.psTitleBar.Caption"
 msgstr "Настройка игрока"
@@ -899,7 +899,7 @@ msgid "DHSettingsPage.PanelCaption<4>"
 msgstr "Мышь"
 
 msgid "DHSettingsPage.PanelCaption<5>"
-msgstr "Интерфейс"
+msgstr "Игровой интерфейс (HUD)"
 
 msgid "DHSettingsPage.PanelHint<1>"
 msgstr "Выберите разрешение или измените настройки экрана и детализации..."
@@ -911,7 +911,7 @@ msgid "DHSettingsPage.PanelHint<4>"
 msgstr "Другие настройки. Варианты ввода..."
 
 msgid "DHSettingsPage.PanelHint<5>"
-msgstr "Настройте свой интерфейс..."
+msgstr "Настройте свой Игровой интерфейс (HUD)..."
 
 msgid "DHSettingsPage.PanelHint<6>"
 msgstr "как ты это получил?"
@@ -1008,16 +1008,16 @@ msgid "DHTab_Controls.ControlProfiles[0]"
 msgstr "Текущий"
 
 msgid "DHTab_Controls.ControlProfiles[2]"
-msgstr "RO Classic"
+msgstr "Классический RO"
 
 msgid "DHTab_Controls.ControlProfiles[3]"
-msgstr "Pro 104"
+msgstr "Про 104"
 
 msgid "DHTab_Controls.ControlProfiles[4]"
-msgstr "Pro 105"
+msgstr "Про 105"
 
 msgid "DHTab_Controls.ControlProfiles[5]"
-msgstr "XBox 360 Controller"
+msgstr "Контроллер XBox 360"
 
 msgid "DHTab_Controls.captions_weapons[9]"
 msgstr "Сменить ствол пулемета"
@@ -1032,7 +1032,7 @@ msgid "DHTab_Controls.captions_weapons[14]"
 msgstr "Переключить выбранную артиллерийскую цель"
 
 msgid "DHTab_Controls.captions_comm[3]"
-msgstr "Сказать отделению"
+msgstr "Чат отделения"
 
 msgid "DHTab_Controls.captions_comm[5]"
 msgstr "Посмотреть внутриигровой чат"
@@ -1063,18 +1063,18 @@ msgid "DHTab_Controls.captions_game[6]"
 msgstr "Меню отряда"
 
 msgid "DHTab_Controls.captions_game[8]"
-msgstr "Разместить точку сбора"
+msgstr "Поставить точку сбора"
 
 msgid "DHTab_DetailSettings.DetailProjectors.Caption"
 msgstr "Проекторы"
 
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
-msgstr "Динамическое расстояние тумана (рекомендуется)"
+msgstr "Динамическая дистанция тумана (рекомендуется)"
 
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
 msgstr ""
 "Поддерживает уровень FPS на максимально высоком уровне, автоматически "
-"регулируя расстояние тумана в зависимости от показателя FPS."
+"регулируя расстояние тумана в зависимости от его показателя."
 
 msgid "DHTab_DetailSettings.ScopeDetail.Caption"
 msgstr "Детализация оптического прицела"
@@ -1098,17 +1098,17 @@ msgstr "Показать информацию об оружии"
 
 msgid "DHTab_DetailSettings.UseVSyncCheckBox.Hint"
 msgstr ""
-"VSync используется для уменьшения разрывов экрана за счет высокой задержки "
-"ввода (настройки графического процессора могут переопределять многие "
-"графические настройки, такие как эта)"
+"Вертикальная синхронизация используется для уменьшения разрывов экрана за "
+"счет высокой задержки ввода (настройки графического процессора могут "
+"переопределять многие графические настройки, такие как эта)"
 
 msgid "DHTab_GameSettings.NetSpeedText[6]"
 msgstr "Определяется пользователем (%NetSpeed%)"
 
 msgid "DHTab_GameSettings.BayonetSpawn.Hint"
 msgstr ""
-"Полезно, если вы хотите, чтобы штык был примкнут к оружию вседа, и вам не "
-"нравится прикреплять его при каждом появлении"
+"Полезно, если вы хотите, что-бы штык был примкнут к оружию всегда, и вам не "
+"нравится прикреплять его снова при каждом появлении"
 
 msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Hint"
 msgstr "Когда отправлять автоматические голосовые оповещения в технике"
@@ -1129,7 +1129,7 @@ msgstr ""
 "читать в консоли."
 
 msgid "DHTab_Input.InputScopedFactor.Caption"
-msgstr "Прицел и коэффициент бинокулярной чувствительности"
+msgstr "Коэффициент чувствительности оптических прицелов и биноклей"
 
 msgid "DHTab_MutatorSP.IAMutatorAll.Caption"
 msgstr "Добавить все"
@@ -1151,7 +1151,8 @@ msgstr ""
 "а верх и низ изображения будут обрезаны."
 
 msgid "DHTab_Hud.GameHudSimpleColours.Hint"
-msgstr "Только красные/синие цвета HUD команды, для игроков с дальтонизмом."
+msgstr ""
+"Красные/синие цвета Игрового интерфейса (HUD), для игроков с дальтонизмом."
 
 msgid "DHTab_Hud.UseTechnicalAmmoNames.Caption"
 msgstr "Использовать родные названия снарядов (Танки/ПТ-орудия)"
@@ -1185,7 +1186,7 @@ msgstr "OpenGL (нестабильный)"
 
 msgid "DHTab_DetailSettings.RelaunchQuestion"
 msgstr ""
-"Графические настройки успешно изменены. Однако они не вступят в силу до "
+"Настройки графики успешно изменены. Однако они не вступят в силу до "
 "следующего запуска игры. Хотите перезапустить игру прямо сейчас?"
 
 msgid "DHTab_DetailSettings.BrightnessSlider.Caption"
@@ -1222,16 +1223,16 @@ msgid "DHTab_DetailSettings.DetailDecoLayers.Caption"
 msgstr "Детализация местности"
 
 msgid "DHTab_DetailSettings.DetailDetailTextures.Caption"
-msgstr "Детали текстур"
+msgstr "Детальные текстуры"
 
 msgid "DHTab_DetailSettings.DetailDynamicLighting.Caption"
 msgstr "Динамическое освещение"
 
 msgid "DHTab_DetailSettings.DetailForceFSAASS.Caption"
-msgstr "Скриншоты Force FSAA"
+msgstr "Художественные скриншоты"
 
 msgid "DHTab_DetailSettings.DetailPhysics.Caption"
-msgstr "Детали физики"
+msgstr "Физические детали"
 
 msgid "DHTab_DetailSettings.DetailTextureDetail.Caption"
 msgstr "Детализация текстур"
@@ -1243,7 +1244,7 @@ msgid "DHTab_DetailSettings.DetailWorldDetail.Caption"
 msgstr "Детали мира"
 
 msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
-msgstr "Расстояние тумана"
+msgstr "Дистанция тумана"
 
 msgid "DHTab_DetailSettings.GammaSlider.Caption"
 msgstr "Гамма"
@@ -1262,8 +1263,8 @@ msgstr "Минимально желаемый уровень FPS"
 
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
 msgstr ""
-"Используется функцией 'Динамического расстояния тумана', чтобы определить, "
-"когда начинать уменьшать его расстояне"
+"Используется функцией 'Динамической дистанции тумана', чтобы определить, "
+"когда начинать уменьшать его расстояние"
 
 msgid "DHTab_DetailSettings.MotionBlur.Caption"
 msgstr "Эффект размытия"
@@ -1272,7 +1273,7 @@ msgid "DHTab_DetailSettings.RenderDeviceCombo.Caption"
 msgstr "Устройство рендеринга"
 
 msgid "DHTab_DetailSettings.UseVSyncCheckBox.Caption"
-msgstr "VSync (не рекомендуется)"
+msgstr "Вертикальная синхронизация (не рекомендуется)"
 
 msgid "DHTab_DetailSettings.VideoColorDepth.Caption"
 msgstr "Глубина цвета"
@@ -1314,7 +1315,7 @@ msgid "DHTab_GameSettings.DegreesText"
 msgstr "градусов"
 
 msgid "DHTab_GameSettings.NetSpeedText[0]"
-msgstr "Самые низкие {0}"
+msgstr "Минимальные {0}"
 
 msgid "DHTab_GameSettings.NetSpeedText[1]"
 msgstr "Низкие {0}"
@@ -1329,7 +1330,7 @@ msgid "DHTab_GameSettings.NetSpeedText[4]"
 msgstr "Высокие ({0})"
 
 msgid "DHTab_GameSettings.NetSpeedText[5]"
-msgstr "Самые высокие {0}"
+msgstr "Максимальные {0}"
 
 msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[0]"
 msgstr "Никогда"
@@ -1412,7 +1413,7 @@ msgid "DHTab_GameSettings.ThrottleTanks.Caption"
 msgstr "Ступенчатая ручка газа - Танки"
 
 msgid "DHTab_GameSettings.ViewFOV.Caption"
-msgstr "Поле зрения"
+msgstr "Поле зрения (FOV)"
 
 msgid "DHTab_Hud.GameBK.Caption"
 msgstr "Настройки"
@@ -1442,10 +1443,10 @@ msgid "DHTab_Hud.GameHudShowVehicleVisionCone.Caption"
 msgstr "Показать меню управления транспорта"
 
 msgid "DHTab_Hud.GameHudSimpleColours.Caption"
-msgstr "Простые цвета интерфейса"
+msgstr "Простые цвета Игрового интерфейса HUD"
 
 msgid "DHTab_Hud.GameHudVisible.Caption"
-msgstr "Показать интерфейс"
+msgstr "Спрятать Игровой интерфейс (HUD)"
 
 msgid "DHTab_Hud.HintsCombo.Caption"
 msgstr "Подсказки"
@@ -1469,10 +1470,10 @@ msgid "DHTab_Hud.UseNativeRoleNames.Caption"
 msgstr "Использовать родные названия войск"
 
 msgid "DHTab_Hud.myGameHudOpacity.Caption"
-msgstr "Прозрачность интерфейса"
+msgstr "Прозрачность Игрового интерфейса"
 
 msgid "DHTab_Hud.myHudScale.Caption"
-msgstr "Масштаб интерфейса"
+msgstr "Масштабирование Головного интерфейса"
 
 msgid "DHTab_Input.InputAutoSlope.Caption"
 msgstr "Автоматический наклон"
@@ -1481,10 +1482,10 @@ msgid "DHTab_Input.InputBK1.Caption"
 msgstr "Настройки"
 
 msgid "DHTab_Input.InputBK3.Caption"
-msgstr "Отличная настройка"
+msgstr "Тонкая подстройка"
 
 msgid "DHTab_Input.InputInvertMouse.Caption"
-msgstr "Инверсия мышки"
+msgstr "Инвертировать мышь"
 
 msgid "DHTab_Input.InputIronSightFactor.Caption"
 msgstr "Коэффициент чувствительности прицела"
@@ -1511,7 +1512,7 @@ msgid "DHTab_Input.InputMouseSmoothing.Caption"
 msgstr "Сглаживание мыши"
 
 msgid "DHTab_Input.InputUseJoystick.Caption"
-msgstr "Включить джойстик"
+msgstr "Использовать джойстик"
 
 msgid "DHTab_MainSP.DifficultyCombo.Caption"
 msgstr "Сложность"
@@ -1562,7 +1563,7 @@ msgid "DHTab_ServerRulesPanel.AdvancedButton.Caption"
 msgstr "Посмотреть дополнительные параметры"
 
 msgid "DHTab_ServerRulesPanel.EnableWebadmin.Caption"
-msgstr "Включить Веб-Администратора"
+msgstr "Включить Веб-Администрирование"
 
 msgid "DHTab_ServerRulesPanel.LANServer.Caption"
 msgstr "Локальный сервер"
@@ -1572,7 +1573,8 @@ msgstr "Порт веб-администратора"
 
 msgid "DHMidGameVoiceChat.NOSPEECH.Hint"
 msgstr ""
-"Не получать никаких голосовых команд таких как \"В укрытие!\" от этого игрока"
+"Не получать никаких голосовых команд, как например \"В укрытие!\", от этого "
+"игрока"
 
 msgid "DHCommunicationPage.Panels<0>.Hint"
 msgstr "Управление общением с другими игроками"
@@ -1581,4 +1583,4 @@ msgid "DHMapVoteMultiColumnList.ColumnHeadings<4>"
 msgstr "Размер карты"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<4>"
-msgstr "Рекомендованоне количество игроков для этой карты."
+msgstr "Рекомендованное количество игроков для этой карты."

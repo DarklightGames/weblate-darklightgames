@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-01 12:39+0000\n"
+"PO-Revision-Date: 2024-01-30 19:34+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/uk/>\n"
@@ -83,3 +83,364 @@ msgstr "Потрібна допомога в..."
 
 msgid "ROConsole.SMStateName[13]"
 msgstr "Під атакою в..."
+
+msgid "ROControlBinder.BindingLabel[1]"
+msgstr "Ривок"
+
+msgid "ROControlBinder.BindingLabel[2]"
+msgstr "Перезарядка"
+
+msgid "ROControlBinder.BindingLabel[4]"
+msgstr "Змінити роль"
+
+msgid "ROControlBinder.BindingLabel[6]"
+msgstr "Лягти"
+
+msgid "ROControlBinder.BindingLabel[7]"
+msgstr "З'єднанати багнет/розгортання MG"
+
+msgid "ROControlBinder.BindingLabel[8]"
+msgstr "Змінити ствол MG"
+
+msgid "ROControlBinder.BindingLabel[5]"
+msgstr "Показати/Приховати HUD"
+
+msgid "ROControlBinder.BindingLabel[9]"
+msgstr "Показати цілі"
+
+msgid "ROControlBinder.BindingLabel[12]"
+msgstr "Використовувати"
+
+msgid "ROControlBinder.BindingLabel[63]"
+msgstr "Використовувати"
+
+msgid "ROControlBinder.BindingLabel[64]"
+msgstr "Пауза"
+
+msgid "ROControlBinder.BindingLabel[65]"
+msgstr "Скріншот"
+
+msgid "ROControlBinder.BindingLabel[72]"
+msgstr "Інше"
+
+msgid "ROControlBinder.BindingLabel[73]"
+msgstr "Меню"
+
+msgid "ROControlBinder.BindingLabel[75]"
+msgstr "Меню голосування"
+
+msgid "ROControlBinder.BindingLabel[74]"
+msgstr "Музикальний програвач"
+
+msgid "ROControlBinder.BindingLabel[76]"
+msgstr "Показати консоль"
+
+msgid "ROControlBinder.BindingLabel[77]"
+msgstr "Переглянути статус підключення"
+
+msgid "ROControlBinder.BindingLabel[0]"
+msgstr "Red Orchestra"
+
+msgid "ROControlBinder.BindingLabel[78]"
+msgstr "Скасувати очікування з'єднання"
+
+msgid "ROControlBinder.BindingLabel[79]"
+msgstr "Зв'язок в техніці"
+
+msgid "ROControlBinder.BindingLabel[80]"
+msgstr "Чат всередині техніки"
+
+msgid "ROTab_Controls.Headings[0]"
+msgstr "Дія"
+
+msgid "ROTab_Controls.Headings[1]"
+msgstr "Клавіша 1"
+
+msgid "ROTab_Controls.Headings[2]"
+msgstr "Клавіша 2"
+
+msgid "ROControlBinder.BindingLabel[10]"
+msgstr "Деталізація оптичного прицілу"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<0>"
+msgstr "нічого"
+
+msgid "ROControlBinder.BindingLabel[11]"
+msgstr "Змінити сторону"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<1>"
+msgstr "Вибрати карту"
+
+msgid "ROControlBinder.BindingLabel[14]"
+msgstr "Змінити зброю"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<2>"
+msgstr "Правила гри"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<3>"
+msgstr "Мутатори"
+
+msgid "ROControlBinder.BindingLabel[15]"
+msgstr "Дати набої кулеметнику"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<4>"
+msgstr "Налаштування ботів"
+
+msgid "ROUT2K4GamePageSP.PanelHint<1>"
+msgstr "Попередній перегляд карт для поточного вибраного типу гри..."
+
+msgid "ROControlBinder.BindingLabel[16]"
+msgstr "Відмітити ціль для артилерії"
+
+msgid "ROControlBinder.BindingLabel[17]"
+msgstr "Пересування"
+
+msgid "ROControlBinder.BindingLabel[20]"
+msgstr "Вліво"
+
+msgid "ROControlBinder.BindingLabel[23]"
+msgstr "Крок"
+
+msgid "ROControlBinder.BindingLabel[29]"
+msgstr "Погляд"
+
+msgid "ROControlBinder.BindingLabel[41]"
+msgstr "Найкраща зброя"
+
+msgid "ROUT2K4GamePageSP.PanelHint<2>"
+msgstr "Налаштувати правила гри..."
+
+msgid "ROControlBinder.BindingLabel[50]"
+msgstr "Активувати мікрофон"
+
+msgid "ROControlBinder.BindingLabel[56]"
+msgstr "Переключити командний канал"
+
+msgid "ROUT2K4GamePageSP.PanelHint<3>"
+msgstr "Виберіть і налаштуйте будь-які мутатори для використання..."
+
+msgid "ROUT2K4GamePageSP.PanelHint<4>"
+msgstr "Налаштуйте будь-яких ботів, які будуть в сесії..."
+
+msgid "ROTab_DetailSettings.DetailOptions[0]"
+msgstr "Мінімальні"
+
+msgid "ROTab_DetailSettings.DetailOptions[1]"
+msgstr "Низькі"
+
+msgid "ROTab_DetailSettings.DetailOptions[2]"
+msgstr "Середні"
+
+msgid "ROTab_DetailSettings.DetailOptions[3]"
+msgstr "Високі"
+
+msgid "ROTab_DetailSettings.DetailOptions[4]"
+msgstr "Вищі"
+
+msgid "ROTab_DetailSettings.DetailOptions[5]"
+msgstr "Найвищі"
+
+msgid "ROTab_DetailSettings.ScopeLevels[1]"
+msgstr "Текстурована"
+
+msgid "ROTab_DetailSettings.ScopeLevels[2]"
+msgstr "Модель (Висока)"
+
+msgid "ROTab_DetailSettings.DetailOptions[6]"
+msgstr "Користуватьські"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[0]"
+msgstr "Модель"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[1]"
+msgstr "Текстура"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[2]"
+msgstr "Висока модель"
+
+msgid "ROTab_AudioSettings.AudioModes[1]"
+msgstr "3D Аудіо"
+
+msgid "ROTab_AudioSettings.AudioModes[0]"
+msgstr "Безпечний режим"
+
+msgid "ROTab_AudioSettings.AudioModes[2]"
+msgstr "H/W 3D Аудіо"
+
+msgid "ROTab_AudioSettings.AudioModes[3]"
+msgstr "H/W 3D + EAX"
+
+msgid "ROTab_AudioSettings.VoiceModes[0]"
+msgstr "Все"
+
+msgid "ROControlBinder.BindingLabel[3]"
+msgstr "Механічний приціл"
+
+msgid "ROTab_AudioSettings.VoiceModes[1]"
+msgstr "Без образ"
+
+msgid "ROTab_AudioSettings.VoiceModes[2]"
+msgstr "Нічого"
+
+msgid "ROTab_Controls.captions_game[1]"
+msgstr "Використовувати"
+
+msgid "ROTab_Controls.captions_game[0]"
+msgstr "Відкрити ігрове меню"
+
+msgid "ROTab_Controls.captions_game[2]"
+msgstr "Дати набої"
+
+msgid "ROTab_Controls.captions_game[3]"
+msgstr "Поставити на паузу"
+
+msgid "ROControlBinder.BindingLabel[13]"
+msgstr "Переключити режим вогню"
+
+msgid "ROControlBinder.BindingLabel[18]"
+msgstr "Вперед"
+
+msgid "ROControlBinder.BindingLabel[21]"
+msgstr "Вправо"
+
+msgid "ROControlBinder.BindingLabel[22]"
+msgstr "Стрибок"
+
+msgid "ROControlBinder.BindingLabel[24]"
+msgstr "Присісти (натиснути)"
+
+msgid "ROControlBinder.BindingLabel[25]"
+msgstr "Присісти (утримувати)"
+
+msgid "ROControlBinder.BindingLabel[26]"
+msgstr "Переключити рух вбік"
+
+msgid "ROControlBinder.BindingLabel[27]"
+msgstr "Наклон вліво"
+
+msgid "ROControlBinder.BindingLabel[28]"
+msgstr "Наклон вправо"
+
+msgid "ROControlBinder.BindingLabel[30]"
+msgstr "Повернутись вліво"
+
+msgid "ROControlBinder.BindingLabel[31]"
+msgstr "Повернутись вправо"
+
+msgid "ROControlBinder.BindingLabel[32]"
+msgstr "Подивитись наверх"
+
+msgid "ROControlBinder.BindingLabel[33]"
+msgstr "Подивитись вниз"
+
+msgid "ROControlBinder.BindingLabel[34]"
+msgstr "Погляд по центру"
+
+msgid "ROControlBinder.BindingLabel[35]"
+msgstr "Переключити "
+
+msgid "ROControlBinder.BindingLabel[36]"
+msgstr "Переключити режим камери"
+
+msgid "ROControlBinder.BindingLabel[37]"
+msgstr "Озброєння"
+
+msgid "ROControlBinder.BindingLabel[38]"
+msgstr "Вогонь"
+
+msgid "ROControlBinder.BindingLabel[39]"
+msgstr "Альтернативний вогонь"
+
+msgid "ROControlBinder.BindingLabel[40]"
+msgstr "Викинути зброю"
+
+msgid "ROControlBinder.BindingLabel[42]"
+msgstr "Наступна зброя"
+
+msgid "ROControlBinder.BindingLabel[43]"
+msgstr "Попередня зброя"
+
+msgid "ROControlBinder.BindingLabel[44]"
+msgstr "Остання зброя"
+
+msgid "ROControlBinder.BindingLabel[45]"
+msgstr "Спілкування"
+
+msgid "ROControlBinder.BindingLabel[46]"
+msgstr "Загальний чат"
+
+msgid "ROControlBinder.BindingLabel[47]"
+msgstr "Командний чат"
+
+msgid "ROControlBinder.BindingLabel[48]"
+msgstr "Ігровий чат"
+
+msgid "ROControlBinder.BindingLabel[49]"
+msgstr "Меню голосових команд"
+
+msgid "ROControlBinder.BindingLabel[51]"
+msgstr "Сказати в загальний чат"
+
+msgid "ROControlBinder.BindingLabel[52]"
+msgstr "Сказати в локальний чат"
+
+msgid "ROControlBinder.BindingLabel[53]"
+msgstr "Сказати в командний чат"
+
+msgid "ROControlBinder.BindingLabel[54]"
+msgstr "Переключити загальнодоступний канал"
+
+msgid "ROControlBinder.BindingLabel[55]"
+msgstr "Переключити локальний канал"
+
+msgid "ROScoreBoard.TeamNameAxis"
+msgstr "Ось"
+
+msgid "ROScoreBoard.TeamNameAllies"
+msgstr "Союзники"
+
+msgid "ROSettingsPage_new.PanelCaption<2>"
+msgstr "Аудіо"
+
+msgid "ROSettingsPage_new.PanelCaption<1>"
+msgstr "Дисплей"
+
+msgid "ROSettingsPage_new.PanelCaption<5>"
+msgstr "Інтерфейс"
+
+msgid "ROSettingsPage_new.PanelCaption<4>"
+msgstr "Введення"
+
+msgid "ROTab_Controls.ClearCaption"
+msgstr ""
+"Натисніть «%backspace%», щоб від'єднати %keybind% від клавіші %keyname%."
+
+msgid "ROTab_DetailSettings.ScopeLevels[0]"
+msgstr "Модель (Низька)"
+
+msgid "ROUT2K4GamePageSP.PanelHint<0>"
+msgstr "нічого"
+
+msgid "ROControlBinder.BindingLabel[57]"
+msgstr "Інтерфейс"
+
+msgid "ROControlBinder.BindingLabel[59]"
+msgstr "Зменшити інтерфейс"
+
+msgid "ROControlBinder.BindingLabel[58]"
+msgstr "Збільшити інтерфейс"
+
+msgid "ROControlBinder.BindingLabel[60]"
+msgstr "Показати рахунок"
+
+msgid "ROControlBinder.BindingLabel[61]"
+msgstr "Таблиця рахунку"
+
+msgid "ROControlBinder.BindingLabel[62]"
+msgstr "Гра"
+
+msgid "ROControlBinder.BindingLabel[19]"
+msgstr "Назад"
+
+msgid "ROTab_Controls.ActionText"
+msgstr "{%keybinds%} - в даний час прив'язана до цієї клавіші."

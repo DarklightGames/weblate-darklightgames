@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-28 23:30+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
+"PO-Revision-Date: 2024-01-30 21:23+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/ru/>\n"
 "Language: ru\n"
@@ -14,3 +14,147 @@ msgstr ""
 
 msgid "UT2k4Browser_PlayersList.ColumnHeadings<3>"
 msgstr "Пинг"
+
+msgid "UT2k4Browser_ServerListPageBase.PingingText"
+msgstr "Отслеживание серверов ( %NumRec% / %TotalNum% )"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<0>"
+msgstr "Название"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[0]"
+msgstr "Минимальные"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[1]"
+msgstr "Очень низкие"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[2]"
+msgstr "Ниже"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[3]"
+msgstr "Низкие"
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[0]"
+msgstr "16 бит"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[0]"
+msgstr "Ничего"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[1]"
+msgstr "Упрощенные"
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[1]"
+msgstr "32 бита"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[2]"
+msgstr "Полные"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[4]"
+msgstr "Нормальные"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[5]"
+msgstr "Высокие"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[6]"
+msgstr "Выше"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[7]"
+msgstr "Очень высокие"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[8]"
+msgstr "Максимальные"
+
+msgid "UT2K4Browser_Page.StartQueryString"
+msgstr "Запрос к мастер серверу"
+
+msgid "UT2K4Browser_Page.ReadyString"
+msgstr "Готово"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<2>"
+msgstr "Ранг"
+
+msgid "UT2k4Browser_RulesList.TrueString"
+msgstr "Включено"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<1>"
+msgstr "Счёт"
+
+msgid "UT2k4Browser_RulesList.MutatorString"
+msgstr "Мутатор"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<0>"
+msgstr "Настройка"
+
+msgid "UT2k4Browser_RulesList.KickVotingString"
+msgstr "Голосование: кик"
+
+msgid "UT2k4Browser_RulesList.MapVotingString"
+msgstr "Голосование: карта"
+
+msgid "UT2k4Browser_RulesList.TimeLimitString"
+msgstr "Лимит времени"
+
+msgid "UT2k4Browser_RulesList.AdminEmailString"
+msgstr "Email Админа"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<1>"
+msgstr "Величина"
+
+msgid "UT2k4Browser_RulesList.FalseString"
+msgstr "Отключено"
+
+msgid "UT2k4Browser_RulesList.AdminNameString"
+msgstr "Админ сервера"
+
+msgid "UT2k4Browser_ServerListPageBase.QueryCompleteString"
+msgstr "Запрос выполнен! Получено: %NumServers% Серверов"
+
+msgid "UT2K4Browser_Page.QueryCompleteString"
+msgstr "Запрос выполнен!"
+
+msgid "UT2k4Browser_RulesList.MinPlayersString"
+msgstr "Минимальное количество игроков (ботов)"
+
+msgid "UT2k4Browser_ServerListPageBase.PingCompleteText"
+msgstr "Запрос обработан! %NumServers% серверов, %NumPlayers% игроков"
+
+msgid "UT2K4SettingsPage.PanelCaption<0>"
+msgstr "Видео"
+
+msgid "UT2K4SettingsPage.PanelCaption<1>"
+msgstr "Аудио"
+
+msgid "UT2K4SettingsPage.PanelCaption<2>"
+msgstr "Игрок"
+
+msgid "UT2K4SettingsPage.PanelCaption<3>"
+msgstr "Игра"
+
+msgid "UT2K4SettingsPage.PanelCaption<4>"
+msgstr "Устройство ввода"
+
+msgid "UT2K4SettingsPage.PanelCaption<5>"
+msgstr "Вооружение"
+
+msgid "UT2K4SettingsPage.PanelCaption<6>"
+msgstr "Игровой дисплей (HUD)"
+
+msgid "UT2K4VideoChangeOK.RestoreText"
+msgstr "(Изначальные настройки будут восстановлены через %count% %seconds%)"
+
+msgid "UT2K4VideoChangeOK.SecondText"
+msgstr "секунду"
+
+msgid "UT2K4VideoChangeOK.SecondsText"
+msgstr "секунд"
+
+msgid "UT2K4VideoChangeOK.bOk.Caption"
+msgstr "Оставить настройки"
+
+msgid "UT2K4VideoChangeOK.bCancel.Caption"
+msgstr "Откатить настройки"
+
+msgid "UT2K4VideoChangeOK.lbText.Caption"
+msgstr "Применить новые настройки?"
+
+msgid "UT2K4VideoChangeOK.lbText2.Caption"
+msgstr "(Изначальные настройки будут восстановлены через 15 секунд)"

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-19 04:39+0000\n"
+"PO-Revision-Date: 2024-01-30 19:34+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/uk/>\n"
@@ -29,3 +29,90 @@ msgstr "Готово"
 
 msgid "UT2k4Browser_ServerListPageBase.QueryCompleteString"
 msgstr "Запит виконано! Отримано: %NumServers% серверів"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<0>"
+msgstr "Назва"
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[0]"
+msgstr "16-біт"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[0]"
+msgstr "Найнижчий"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[2]"
+msgstr "Нижній"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[0]"
+msgstr "Нічого"
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[1]"
+msgstr "32-біт"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[2]"
+msgstr "Повний"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[3]"
+msgstr "Низький"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[4]"
+msgstr "Нормальний"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[5]"
+msgstr "Високий"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[6]"
+msgstr "Вищий"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[7]"
+msgstr "Дуже високий"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[8]"
+msgstr "Найвищий"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[1]"
+msgstr "Дуже низький"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<1>"
+msgstr "Рахунок"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<2>"
+msgstr "Ранг"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<3>"
+msgstr "Пінг"
+
+msgid "UT2k4Browser_RulesList.TrueString"
+msgstr "Увімкнено"
+
+msgid "UT2k4Browser_RulesList.FalseString"
+msgstr "Вимкнено"
+
+msgid "UT2k4Browser_RulesList.AdminNameString"
+msgstr "Адміністратор сервера"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[1]"
+msgstr "Спрощені"
+
+msgid "UT2k4Browser_RulesList.MutatorString"
+msgstr "Мутатор"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<0>"
+msgstr "Налаштування"
+
+msgid "UT2k4Browser_RulesList.KickVotingString"
+msgstr "Голосування вигнання:"
+
+msgid "UT2k4Browser_RulesList.MapVotingString"
+msgstr "Голосування карта:"
+
+msgid "UT2k4Browser_RulesList.MinPlayersString"
+msgstr "Мінімум гравців (ботів)"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<1>"
+msgstr "Значення"
+
+msgid "UT2k4Browser_RulesList.AdminEmailString"
+msgstr "Електронна пошта адміністратора"
+
+msgid "UT2k4Browser_RulesList.TimeLimitString"
+msgstr "Ліміт часу"
