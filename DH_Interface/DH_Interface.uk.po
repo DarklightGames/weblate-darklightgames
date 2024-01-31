@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-11 04:29+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2024-02-01 13:39+0000\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
 "Language: uk\n"
@@ -1845,3 +1845,54 @@ msgstr "Налаштування мутаторів"
 
 msgid "DHMidGameVoiceChat.NOSPEECH.Hint"
 msgstr "Не отримувати жодних голосових команд від цього гравця"
+
+msgid "DHCreditsPage.LevelDesignersText"
+msgstr "Розробники рівней"
+
+msgid "DHCreditsPage.ProjectLeadsText"
+msgstr "Керівники проекту"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<4>"
+msgstr "Розмір карти"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<4>"
+msgstr "Рекомендована кількість гравців для карти."
+
+msgid "DHCreditsPage.PastPatreonSupportersText"
+msgstr "Останні підтримавши на Patreon"
+
+msgid "DHCommunicationPage.Panels<0>.Hint"
+msgstr "Керувати спілкуванням з іншими гравцями"
+
+msgid "DHCreditsPage.ProgrammersText"
+msgstr "Програмісти"
+
+msgid "DHCreditsPage.AnimatorsText"
+msgstr "Аніматори"
+
+msgid "DHCreditsPage.ModelersText"
+msgstr "Моделісти"
+
+msgid "DHCreditsPage.TextureArtistsText"
+msgstr "Художники текстур"
+
+msgid "DHCreditsPage.ArtistsText"
+msgstr "Художники"
+
+msgid "DHCreditsPage.SoundArtistsText"
+msgstr "Звукові виконавці"
+
+msgid "DHCreditsPage.LocalizationTeamText"
+msgstr "Команда локалізації"
+
+msgid "DHCreditsPage.CommunityAdminsText"
+msgstr "Адміністрація спільноти"
+
+msgid "DHCreditsPage.OtherContributorsText"
+msgstr "Інші учасники"
+
+msgid "DHCreditsPage.SpecialThanksText"
+msgstr "Особлива подяка"
+
+msgid "DHScoreBoard.NoPlayersText"
+msgstr "Немає гравців"
