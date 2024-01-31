@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 21:09+0000\n"
+"PO-Revision-Date: 2024-02-01 13:39+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ru/>\n"
@@ -635,3 +635,12 @@ msgstr "Взгляд по центру"
 
 msgid "ROTab_Controls.captions_weapons[2]"
 msgstr "Перезарядка"
+
+msgid "ROUT2K4GamePageSP.SPFooter.PrimaryHint"
+msgstr "Запустить матч с данными настройками"
+
+msgid "ROUT2K4GamePageSP.PageCaption"
+msgstr "Одиночная игра"
+
+msgid "ROUT2K4GamePageSP.SPFooter.PrimaryCaption"
+msgstr "ЗАПУСТИТЬ ОДИНОЧНЫЙ РЕЖИМ"
