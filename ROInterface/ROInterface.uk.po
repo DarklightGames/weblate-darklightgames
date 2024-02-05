@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 19:34+0000\n"
+"PO-Revision-Date: 2024-02-06 17:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/uk/>\n"
@@ -154,10 +154,10 @@ msgid "ROTab_Controls.Headings[0]"
 msgstr "Дія"
 
 msgid "ROTab_Controls.Headings[1]"
-msgstr "Клавіша 1"
+msgstr "клавіша 1"
 
 msgid "ROTab_Controls.Headings[2]"
-msgstr "Клавіша 2"
+msgstr "клавіша 2"
 
 msgid "ROControlBinder.BindingLabel[10]"
 msgstr "Деталізація оптичного прицілу"
@@ -187,7 +187,7 @@ msgid "ROUT2K4GamePageSP.PanelCaption<4>"
 msgstr "Налаштування ботів"
 
 msgid "ROUT2K4GamePageSP.PanelHint<1>"
-msgstr "Попередній перегляд карт для поточного вибраного типу гри..."
+msgstr "Перегляд карт для обраного типу гри."
 
 msgid "ROControlBinder.BindingLabel[16]"
 msgstr "Відмітити ціль для артилерії"
@@ -217,10 +217,10 @@ msgid "ROControlBinder.BindingLabel[56]"
 msgstr "Переключити командний канал"
 
 msgid "ROUT2K4GamePageSP.PanelHint<3>"
-msgstr "Виберіть і налаштуйте будь-які мутатори для використання..."
+msgstr "Вибрати та налаштувати будь-які мутатори для використання..."
 
 msgid "ROUT2K4GamePageSP.PanelHint<4>"
-msgstr "Налаштуйте будь-яких ботів, які будуть в сесії..."
+msgstr "Налаштувати будь-яких ботів, які будуть у сесії..."
 
 msgid "ROTab_DetailSettings.DetailOptions[0]"
 msgstr "Мінімальні"
@@ -238,16 +238,16 @@ msgid "ROTab_DetailSettings.DetailOptions[4]"
 msgstr "Вищі"
 
 msgid "ROTab_DetailSettings.DetailOptions[5]"
-msgstr "Найвищі"
+msgstr "Максимальні"
 
 msgid "ROTab_DetailSettings.ScopeLevels[1]"
-msgstr "Текстурована"
+msgstr "Текстура"
 
 msgid "ROTab_DetailSettings.ScopeLevels[2]"
 msgstr "Модель (Висока)"
 
 msgid "ROTab_DetailSettings.DetailOptions[6]"
-msgstr "Користуватьські"
+msgstr "Користувальницькі"
 
 msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[0]"
 msgstr "Модель"
@@ -289,7 +289,7 @@ msgid "ROTab_Controls.captions_game[0]"
 msgstr "Відкрити ігрове меню"
 
 msgid "ROTab_Controls.captions_game[2]"
-msgstr "Дати набої"
+msgstr "Дати патрони кулеметнику"
 
 msgid "ROTab_Controls.captions_game[3]"
 msgstr "Поставити на паузу"
@@ -413,7 +413,8 @@ msgstr "Введення"
 
 msgid "ROTab_Controls.ClearCaption"
 msgstr ""
-"Натисніть «%backspace%», щоб від'єднати %keybind% від клавіші %keyname%."
+"Натисніть '%backspace%', щоб видалити прив'язку дії %keyname% від клавіші "
+"%keybind%."
 
 msgid "ROTab_DetailSettings.ScopeLevels[0]"
 msgstr "Модель (Низька)"
@@ -443,4 +444,202 @@ msgid "ROControlBinder.BindingLabel[19]"
 msgstr "Назад"
 
 msgid "ROTab_Controls.ActionText"
-msgstr "{%keybinds%} - в даний час прив'язана до цієї клавіші."
+msgstr "{%keybinds%} - зараз прив'язані до цієї клавіші."
+
+msgid "ROUT2K4GamePageSP.PageCaption"
+msgstr "Одиночна гра"
+
+msgid "ROUT2K4GamePageSP.SPFooter.PrimaryCaption"
+msgstr "ЗАПУСТИТИ ОДИНОЧНИЙ РЕЖИМ"
+
+msgid "ROUT2K4GamePageSP.SPFooter.PrimaryHint"
+msgstr "Запустити матч з цими налаштуваннями"
+
+msgid "ROTab_Controls.captions_looking[4]"
+msgstr "Погляд по центру"
+
+msgid "ROTab_Controls.Section_Misc"
+msgstr "Інше"
+
+msgid "ROTab_Controls.captions_looking[6]"
+msgstr "Переключити режим камери (Тільки в офлайн)"
+
+msgid "ROTab_Controls.captions_weapons[9]"
+msgstr "Приєднати багнет / Розкласти кулемет"
+
+msgid "ROTab_Controls.captions_comm[7]"
+msgstr "Перейти до Локального голосового каналу"
+
+msgid "ROTab_Controls.captions_comm[8]"
+msgstr "Перейти на Командний голосовий канал"
+
+msgid "ROTab_Controls.captions_weapons[2]"
+msgstr "Перезарядження"
+
+msgid "ROTab_Controls.captions_looking[2]"
+msgstr "Подивитися нагору"
+
+msgid "ROTab_Controls.captions_looking[3]"
+msgstr "Подивитися вниз"
+
+msgid "ROTab_Controls.captions_movement[9]"
+msgstr "Біг"
+
+msgid "ROTab_Controls.captions_movement[10]"
+msgstr "Рух кроком"
+
+msgid "ROTab_Controls.captions_movement[11]"
+msgstr "Присісти (натискання)"
+
+msgid "ROTab_Controls.captions_misc[0]"
+msgstr "Відкрити меню голосувань"
+
+msgid "ROTab_Controls.captions_misc[1]"
+msgstr "Відкрити консоль"
+
+msgid "ROTab_Controls.captions_misc[2]"
+msgstr "Переглянути статус підключення"
+
+msgid "ROTab_Controls.captions_misc[3]"
+msgstr "Скасувати очікуване підключення"
+
+msgid "ROTab_Controls.captions_misc[4]"
+msgstr "Запустити запис демо"
+
+msgid "ROTab_Controls.captions_misc[5]"
+msgstr "Зупинити запис демо"
+
+msgid "ROTab_Controls.captions_misc[6]"
+msgstr "Зробити скріншот"
+
+msgid "ROTab_Controls.captions_misc[7]"
+msgstr "Переглянути інформацію сервера"
+
+msgid "ROTab_Controls.captions_misc[8]"
+msgstr "Показати персональну статистику"
+
+msgid "ROTab_Controls.captions_misc[9]"
+msgstr "Переглянути статистику наступного гравця"
+
+msgid "ROTab_Controls.captions_interface[0]"
+msgstr "Відкрити карту"
+
+msgid "ROTab_Controls.captions_interface[1]"
+msgstr "Показати таблицю рахунку (Натискання)"
+
+msgid "ROTab_Controls.captions_interface[2]"
+msgstr "Показати таблицю рахунку (Утримувати)"
+
+msgid "ROTab_Controls.captions_interface[3]"
+msgstr "Збільшити розмір Ігрового інтерфейсу (HUD)"
+
+msgid "ROTab_Controls.captions_comm[0]"
+msgstr "Загальний чат"
+
+msgid "ROTab_Controls.captions_comm[1]"
+msgstr "Командний чат"
+
+msgid "ROTab_Controls.captions_comm[2]"
+msgstr "Чат у техніці"
+
+msgid "ROTab_Controls.captions_comm[3]"
+msgstr "Меню голосових команд"
+
+msgid "ROTab_Controls.captions_interface[4]"
+msgstr "Зменшити розмір Головного інтерфейсу (HUD)"
+
+msgid "ROTab_Controls.captions_weapons[0]"
+msgstr "Основний вогонь"
+
+msgid "ROTab_Controls.captions_weapons[1]"
+msgstr "Альтернативний вогонь"
+
+msgid "ROTab_Controls.captions_comm[4]"
+msgstr "Переглянути внутрішньоігровий чат"
+
+msgid "ROTab_Controls.captions_comm[5]"
+msgstr "Активація мікрофону"
+
+msgid "ROTab_Controls.captions_comm[6]"
+msgstr "Перейти до Публічного голосового каналу"
+
+msgid "ROTab_Controls.captions_weapons[3]"
+msgstr "Механічний приціл"
+
+msgid "ROTab_Controls.captions_weapons[4]"
+msgstr "Викинути зброю"
+
+msgid "ROTab_Controls.captions_weapons[5]"
+msgstr "Наступна зброя"
+
+msgid "ROTab_Controls.captions_weapons[6]"
+msgstr "Попередня зброя"
+
+msgid "ROTab_Controls.captions_weapons[7]"
+msgstr "Змінити на найкращу зброю"
+
+msgid "ROTab_Controls.captions_looking[0]"
+msgstr "Повернутися вліво"
+
+msgid "ROTab_Controls.captions_looking[1]"
+msgstr "Повернутись праворуч"
+
+msgid "ROTab_Controls.captions_weapons[8]"
+msgstr "Змінити на останню зброю"
+
+msgid "ROTab_Controls.captions_weapons[10]"
+msgstr "Змінити стовбур кулемету"
+
+msgid "ROTab_Controls.captions_weapons[11]"
+msgstr "Змінити режим вогню"
+
+msgid "ROTab_Controls.captions_movement[0]"
+msgstr "Вперед"
+
+msgid "ROTab_Controls.captions_movement[1]"
+msgstr "Назад"
+
+msgid "ROTab_Controls.captions_movement[2]"
+msgstr "Рух вліво"
+
+msgid "ROTab_Controls.captions_movement[3]"
+msgstr "Рух праворуч"
+
+msgid "ROTab_Controls.captions_looking[5]"
+msgstr "Переключити на вигляд від 3-ї особи (Тільки в офлайн)"
+
+msgid "ROTab_Controls.captions_movement[4]"
+msgstr "Нахил вліво"
+
+msgid "ROTab_Controls.captions_movement[5]"
+msgstr "Нахил вправо"
+
+msgid "ROTab_Controls.captions_movement[6]"
+msgstr "Стрибок"
+
+msgid "ROTab_Controls.captions_movement[7]"
+msgstr "Присісти (утримувати)"
+
+msgid "ROTab_Controls.captions_movement[8]"
+msgstr "Положення лежачи"
+
+msgid "ROTab_Controls.Section_Movement"
+msgstr "Пересування"
+
+msgid "ROTab_Controls.Section_Looking"
+msgstr "Огляд"
+
+msgid "ROTab_Controls.Section_Weapons"
+msgstr "Озброєння"
+
+msgid "ROTab_Controls.Section_Comm"
+msgstr "Зв'язок"
+
+msgid "ROTab_Controls.Section_Game"
+msgstr "Гра"
+
+msgid "ROTab_Controls.Section_Interface"
+msgstr "Інтерфейс"
+
+msgid "ROTab_Controls.Section_Speech_Prefix"
+msgstr "Голосові команди: "
