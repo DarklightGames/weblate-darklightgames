@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-17 22:08+0000\n"
+"PO-Revision-Date: 2024-02-06 17:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/ucore/uk/>\n"
@@ -16,7 +16,7 @@ msgid "DateTime.DayOfWeekNames[1]"
 msgstr "Понеділок"
 
 msgid "UUnits.RadiansSymbol"
-msgstr "радіус"
+msgstr ""
 
 msgid "DateTime.DayOfWeekNames[2]"
 msgstr "Вівторок"
@@ -25,7 +25,7 @@ msgid "DateTime.DayOfWeekNames[5]"
 msgstr "П'ятниця"
 
 msgid "UUnits.DegreesSymbol"
-msgstr "°"
+msgstr ""
 
 msgid "DateTime.DayOfWeekNames[3]"
 msgstr "Середа"
