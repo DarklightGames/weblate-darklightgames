@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-20 08:39+0000\n"
+"PO-Revision-Date: 2024-02-08 15:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/uk/>\n"
@@ -13,13 +13,13 @@ msgstr ""
 "X-Generator: Weblate 5.2.1\n"
 
 msgid "ROAmmoWeightMessage.HeavyMessage"
-msgstr "Новий важкий магазин"
+msgstr "Новий магазин важкий"
 
 msgid "ROAmmoWeightMessage.LightMessage"
-msgstr "Новий легкий магазин"
+msgstr "Новий магазин легкий"
 
 msgid "ROAmmoWeightMessage.VeryLightMessage"
-msgstr "Новий дуже легкий магазин"
+msgstr "Новий магазин дуже легкий"
 
 msgid "ROHud.ReinforcementText"
 msgstr "Підкріпленнь: "
