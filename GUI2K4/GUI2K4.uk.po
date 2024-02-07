@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 19:34+0000\n"
+"PO-Revision-Date: 2024-02-08 15:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/uk/>\n"
@@ -116,3 +116,45 @@ msgstr "Електронна пошта адміністратора"
 
 msgid "UT2k4Browser_RulesList.TimeLimitString"
 msgstr "Ліміт часу"
+
+msgid "UT2K4VideoChangeOK.bOk.Caption"
+msgstr "Залишити налаштування"
+
+msgid "UT2K4VideoChangeOK.lbText.Caption"
+msgstr "Застосувати нові налаштування?"
+
+msgid "UT2K4VideoChangeOK.lbText2.Caption"
+msgstr "(Початкові налаштування будуть відновлені через 15 секунд)"
+
+msgid "UT2K4SettingsPage.PanelCaption<0>"
+msgstr "Відео"
+
+msgid "UT2K4SettingsPage.PanelCaption<1>"
+msgstr "Аудіо"
+
+msgid "UT2K4SettingsPage.PanelCaption<2>"
+msgstr "Гравець"
+
+msgid "UT2K4SettingsPage.PanelCaption<3>"
+msgstr "Гра"
+
+msgid "UT2K4SettingsPage.PanelCaption<4>"
+msgstr "Пристрій введення"
+
+msgid "UT2K4SettingsPage.PanelCaption<5>"
+msgstr "Озброєння"
+
+msgid "UT2K4SettingsPage.PanelCaption<6>"
+msgstr "Ігровий дисплей (HUD)"
+
+msgid "UT2K4VideoChangeOK.RestoreText"
+msgstr "(Початкові налаштування будуть відновлені через %count% %seconds%)"
+
+msgid "UT2K4VideoChangeOK.SecondText"
+msgstr "секунду"
+
+msgid "UT2K4VideoChangeOK.SecondsText"
+msgstr "секунд"
+
+msgid "UT2K4VideoChangeOK.bCancel.Caption"
+msgstr "Відновити налаштування"
