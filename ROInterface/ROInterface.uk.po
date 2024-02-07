@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-06 17:39+0000\n"
+"PO-Revision-Date: 2024-02-08 15:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/uk/>\n"
@@ -46,7 +46,7 @@ msgid "ROTab_Hud.HintsCombo.Hint"
 msgstr "Дозволяє вибрати, чи потрібно показувати підказки чи ні."
 
 msgid "ROConsole.SMStateName[4]"
-msgstr "Оповіщення"
+msgstr "Попередження"
 
 msgid "ROConsole.SMStateName[5]"
 msgstr "Команди екіпажу"
@@ -61,16 +61,16 @@ msgid "ROConsole.SMStateName[10]"
 msgstr "Захищати..."
 
 msgid "ROConsole.SMStateName[11]"
-msgstr "Вперед до..."
+msgstr "Зміститися в..."
 
 msgid "ROConsole.SMStateName[14]"
-msgstr "Віддати наказ..."
+msgstr "Віддати наказ (вибір)..."
 
 msgid "ROConsole.SMStateName[1]"
 msgstr "Підтримка"
 
 msgid "ROConsole.SMStateName[3]"
-msgstr "Ворог помічений"
+msgstr "Ворог виявлений"
 
 msgid "ROConsole.SMStateName[6]"
 msgstr "Попередження екіпажу"
@@ -82,10 +82,10 @@ msgid "ROConsole.SMStateName[12]"
 msgstr "Потрібна допомога в..."
 
 msgid "ROConsole.SMStateName[13]"
-msgstr "Під атакою в..."
+msgstr "Під ударом в..."
 
 msgid "ROControlBinder.BindingLabel[1]"
-msgstr "Ривок"
+msgstr "Біг"
 
 msgid "ROControlBinder.BindingLabel[2]"
 msgstr "Перезарядка"
@@ -97,10 +97,10 @@ msgid "ROControlBinder.BindingLabel[6]"
 msgstr "Лягти"
 
 msgid "ROControlBinder.BindingLabel[7]"
-msgstr "З'єднанати багнет/розгортання MG"
+msgstr "З'єднанати багнет / Розгортути MG"
 
 msgid "ROControlBinder.BindingLabel[8]"
-msgstr "Змінити ствол MG"
+msgstr "Змінити дуло MG"
 
 msgid "ROControlBinder.BindingLabel[5]"
 msgstr "Показати/Приховати HUD"
