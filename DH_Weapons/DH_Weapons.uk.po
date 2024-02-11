@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-17 22:08+0000\n"
+"PO-Revision-Date: 2024-02-12 13:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/uk/>\n"
@@ -14,22 +14,22 @@ msgstr ""
 "X-Generator: Weblate 5.2.1\n"
 
 msgid "DH_ColtM1914Weapon.ItemName"
-msgstr "Kongsberg Colten M/1914"
+msgstr "Пістолет Конгсберг Кольтен М/1914"
 
 msgid "DH_30calWeapon.ItemName"
-msgstr "Кулемет M1919A6 Browning"
+msgstr "Кулемет Браунінга М1919А6"
 
 msgid "DH_BARNoBipodWeapon.ItemName"
-msgstr "Автоматична гвинтівка Браунінг M1918A2 (без сошок)"
+msgstr "БАР M1918A2 (без сошок)"
 
 msgid "DH_AVT40Weapon.ItemName"
 msgstr "АВТ-40"
 
 msgid "DH_BARWeapon.ItemName"
-msgstr "Автоматична гвинтівка Браунінг M1918A2"
+msgstr "БАР M1918A2"
 
 msgid "DH_BHPWeapon.ItemName"
-msgstr "Браунінг високої потужності"
+msgstr "Пістолет Браунінг Хай-Пауер"
 
 msgid "DH_BazookaM9Weapon.ItemName"
 msgstr "M9A1 Базука"
@@ -38,19 +38,19 @@ msgid "DH_BazookaWeapon.ItemName"
 msgstr "M1A1 Базука"
 
 msgid "DH_BrenWeapon.ItemName"
-msgstr "Bren Mk.II"
+msgstr "Кулемет Bren Mk.II"
 
 msgid "DH_C96Weapon.ItemName"
-msgstr "Маузер С96"
+msgstr "Пістолет Маузер С96"
 
 msgid "DH_ColtM1911Weapon.ItemName"
-msgstr "Кольт М1911А1"
+msgstr "Пістолет Кольт М1911А1"
 
 msgid "DH_Kar98ScopedWeapon.ItemName"
-msgstr "Kar 98k (ZF39)"
+msgstr "Гвинтівка Kar 98k (ZF39)"
 
 msgid "DH_Kz8cmGrW42Vehicle.VehicleNameString"
-msgstr "Kurz 8cm Granatwerfer 42"
+msgstr "Міномет Kurz 8cm Granatwerfer 42"
 
 msgid "DH_M34GrenadeWeapon.ItemName"
 msgstr "Граната RG-34"
@@ -59,7 +59,7 @@ msgid "DH_PTRDWeapon.ItemName"
 msgstr "Протитанкова рушниця ПТРД-41"
 
 msgid "DH_MKB42HWeapon.ItemName"
-msgstr "Mkb 42(H)"
+msgstr "Автомат Mkb 42(H)"
 
 msgid "DH_RPG43GrenadeWeapon.ItemName"
 msgstr "Протитанкова граната РПГ-43"
@@ -74,58 +74,58 @@ msgid "DH_PPS43Ammo.ItemName"
 msgstr "Магазин ППС43"
 
 msgid "DH_SpringfieldScopedWeapon.ItemName"
-msgstr "Спрингфілд М1903А4 (M73 Ткач)"
+msgstr "Гвинтівка Спрінгфілд M1903A4 (M73 Вівер)"
 
 msgid "DH_Vz24ScopedWeapon.ItemName"
-msgstr "Гвинтівка Vz.24 (IOR)"
+msgstr "Гвинтівка Vz.24 (ІОР)"
 
 msgid "DH_DP27Weapon.ItemName"
-msgstr "DP-27"
+msgstr "Кулемет ДП-27"
 
 msgid "DH_DP27LateWeapon.ItemName"
-msgstr "DP-27"
+msgstr "Кулемет ДП-27"
 
 msgid "DH_DP27Ammo.ItemName"
-msgstr "Обойма DP27"
+msgstr "Диск для ДП-27"
 
 msgid "DH_DT29Ammo.ItemName"
-msgstr "Обойма DT29"
+msgstr "Диск для ДТ-29"
 
 msgid "DH_DT29Weapon.ItemName"
-msgstr "DT-29"
+msgstr "Кулемет ДТ-29"
 
 msgid "DH_EnfieldNo2Weapon.ItemName"
-msgstr "Енфілд №2"
+msgstr "Револьвер Енфілд №2"
 
 msgid "DH_EnfieldNo4ScopedWeapon.ItemName"
-msgstr "Енфілд №4 Mk.I (T) (№32)"
+msgstr "Гвинтівка Лі-Енфілд №4 Mk.I (Т) (№32)"
 
 msgid "DH_EnfieldNo4Weapon.ItemName"
-msgstr "Гвинтівка Лі Енфілд №4"
+msgstr "Гвинтівка Лі-Енфілд №4"
 
 msgid "DH_F1GrenadeWeapon.ItemName"
-msgstr "Граната F1"
+msgstr "Граната Ф-1"
 
 msgid "DH_FG42ScopedWeapon.ItemName"
-msgstr "Fallschirmjägergewehr 42 (ZFG42)"
+msgstr "Гвинтівка парашутиста FG-42 (ZFG42)"
 
 msgid "DH_FG42Weapon.ItemName"
-msgstr "FG 42"
+msgstr "Гвинтівка парашутиста FG-42"
 
 msgid "DH_G41Weapon.ItemName"
-msgstr "G 41(В)"
+msgstr "Гвинтівка G-41(W)"
 
 msgid "DH_G43ScopedWeapon.ItemName"
-msgstr "G 43 (ZF4)"
+msgstr "Гвинтівка G 43 (ZF4)"
 
 msgid "DH_G43Weapon.ItemName"
-msgstr "G 43"
+msgstr "Гвинтівка G-43"
 
 msgid "DH_G98Weapon.ItemName"
-msgstr "G 98"
+msgstr "Гвинтівка G-98"
 
 msgid "DH_GLWeapon.ItemName"
-msgstr "StG 24 x7 Концентрований заряд"
+msgstr "Зв'язка 7 гранат StG.24 GL"
 
 msgid "DH_GeratPIIWeapon.ItemName"
 msgstr "Gerat Potsdam II"
@@ -134,43 +134,43 @@ msgid "DH_GeratPWeapon.ItemName"
 msgstr "Gerat Potsdam"
 
 msgid "DH_GreaseGunWeapon.ItemName"
-msgstr "Мастильний пістолет M3"
+msgstr "ПП M3 \"Маслянка\""
 
 msgid "DH_Kar98NoCoverWeapon.ItemName"
-msgstr "Kar 98k (без прицілу)"
+msgstr "Гвинтівка Kar.98k (відкрита мушка)"
 
 msgid "DH_Kar98ScopedZF41Weapon.ItemName"
-msgstr "Карабін 98k (ZF41)"
+msgstr "Гвинтівка Kar.98k (ZF41)"
 
 msgid "DH_Kar98Weapon.ItemName"
-msgstr "Kar 98k"
+msgstr "Гвинтівка Kar 98k"
 
 msgid "DH_KorovinWeapon.ItemName"
-msgstr "Коровін 1941р"
+msgstr "ПП Коровіна (обр.1941р.)"
 
 msgid "DH_Kz8cmGrW42Weapon.Description"
-msgstr "Kurz 8cm Granatwerfer 42"
+msgstr "Міномет Kurz 8cm Granatwerfer 42"
 
 msgid "DH_Kz8cmGrW42Weapon.ItemName"
-msgstr "Міномет Kz 8cm GrW 42"
+msgstr "Міномет Kz 8cм GrW 42"
 
 msgid "DH_M1924Weapon.ItemName"
 msgstr "Гвинтівка М1924"
 
 msgid "DH_M1928_20rndWeapon.ItemName"
-msgstr "M1928A1 Томпсон (20-й)"
+msgstr "ПП Томпсона M1928A1 (20 патронів)"
 
 msgid "DH_M1928_30rndWeapon.ItemName"
-msgstr "M1928A1 Томпсон (30-й)"
+msgstr "ПП Томпсона M1928A1 (30 патронів)"
 
 msgid "DH_M1928_50rndWeapon.ItemName"
-msgstr "M1928A1 Томпсон (50-й)"
+msgstr "ПП Томпсона M1928A1 (50 патронів)"
 
 msgid "DH_M1A1CarbineWeapon.ItemName"
 msgstr "Карабін М1А1"
 
 msgid "DH_M1GarandWeapon.ItemName"
-msgstr "М1 Гаранд"
+msgstr "Гвинтівка М1 Гаранд"
 
 msgid "DH_M1GrenadeWeapon.ItemName"
 msgstr "Граната Mk II"
@@ -185,37 +185,37 @@ msgid "DH_M2MortarWeapon.ItemName"
 msgstr "60-мм міномет М2"
 
 msgid "DH_M38Weapon.ItemName"
-msgstr "Мосіна М38"
+msgstr "Карабін Мосіна М38"
 
 msgid "DH_M44Weapon.ItemName"
-msgstr "Мосіна М44"
+msgstr "Карабін Мосіна М44"
 
 msgid "DH_M712Weapon.ItemName"
-msgstr "Mauser М712 «Швидка стрілянина»"
+msgstr "ПП Маузер М712 \"Schnellfeuer\""
 
 msgid "DH_M9530Weapon.ItemName"
-msgstr "Mannlicher M95/30"
+msgstr "Гвинтівка Манліхер M95/30"
 
 msgid "DH_M9531Weapon.ItemName"
-msgstr "31.М Гвинтівка"
+msgstr "Гвинтівка 31.М"
 
 msgid "DH_MAB38Weapon.ItemName"
 msgstr "MAB 38"
 
 msgid "DH_MG34Weapon.ItemName"
-msgstr "MG 34"
+msgstr "Кулемет MG-34"
 
 msgid "DH_MG42Weapon.ItemName"
-msgstr "MG 42"
+msgstr "Кулемет MG-42"
 
 msgid "DH_MN9130ScopedWeapon.ItemName"
-msgstr "Мосіна М91/30 (PU)"
+msgstr "Гвинтівка Мосіна М91/30 (ПУ)"
 
 msgid "DH_MN9130ScopedPEWeapon.ItemName"
-msgstr "Мосіна М91/30 (PE)"
+msgstr "Гвинтівка Мосіна М91/30 (ПE)"
 
 msgid "DH_MN9130Weapon.ItemName"
-msgstr "Мосіна M91/30"
+msgstr "Гвинтівка Мосіна M91/30"
 
 msgid "DH_MP3008Weapon.ItemName"
 msgstr "MP 3008"
@@ -224,28 +224,28 @@ msgid "DH_MP38Weapon.ItemName"
 msgstr "MP 38"
 
 msgid "DH_MP40Ammo.ItemName"
-msgstr "32-й магазин 9 мм"
+msgstr "Магазин 9-мм на 32 патрона"
 
 msgid "DH_MP40Weapon.ItemName"
 msgstr "MP 40"
 
 msgid "DH_MillsBombWeapon.ItemName"
-msgstr "Міллс Бомба"
+msgstr "Бомба Міллса"
 
 msgid "DH_Nagant1895BramitWeapon.ItemName"
-msgstr "Наган M1895 (БраМіт)"
+msgstr "Револьвер Наган M1895 (БраМіт)"
 
 msgid "DH_Nagant1895Weapon.ItemName"
-msgstr "Наган М1895"
+msgstr "Револьвер Наган М1895"
 
 msgid "DH_P08LugerWeapon.ItemName"
-msgstr "Люгер P08"
+msgstr "Пістолет Люгер P08"
 
 msgid "DH_P38Weapon.ItemName"
-msgstr "Вальтер P38"
+msgstr "Пістолет Вальтер P38"
 
 msgid "DH_PIATWeapon.ItemName"
-msgstr "ПІАТ"
+msgstr "Гранатомет ПІАТ"
 
 msgid "DH_PPD40Weapon.ItemName"
 msgstr "ППД-40"
@@ -254,25 +254,25 @@ msgid "DH_PPS43Weapon.ItemName"
 msgstr "ППС-43"
 
 msgid "DH_PPSH41_StickWeapon.ItemName"
-msgstr "ППШ-41 (35-й)"
+msgstr "ППШ-41 (35 патронів)"
 
 msgid "DH_PPSh41Ammo.ItemName"
-msgstr "71-й магазин 7,62 мм"
+msgstr "71-зарядний 7,62-мм магазин"
 
 msgid "DH_PPSh41Weapon.ItemName"
-msgstr "ППШ-41"
+msgstr "ППШ-41 (71 патрон)"
 
 msgid "DH_PanzerFaustWeapon.ItemName"
-msgstr "Панцерфауст 60"
+msgstr "Гранатомет Панцерфауст 60"
 
 msgid "DH_PanzerschreckWeapon.ItemName"
-msgstr "RPzB 54 'Панцершрек'"
+msgstr "Гранатомет RPzB 54 \"Панцершрек\""
 
 msgid "DH_STG44ScopedWeapon.ItemName"
-msgstr "StG 44 (ZF4)"
+msgstr "Автомат StG 44 (ZF4)"
 
 msgid "DH_STG44Weapon.ItemName"
-msgstr "StG 44"
+msgstr "Автомат StG 44"
 
 msgid "DH_SVT38Weapon.ItemName"
 msgstr "СВТ-38"
@@ -284,49 +284,49 @@ msgid "DH_SVT40Weapon.ItemName"
 msgstr "СВТ-40"
 
 msgid "DH_SatchelCharge10lb10sWeapon.ItemName"
-msgstr "Ранцева вибухівка 3КГ"
+msgstr "Ранцева вибухівка 3кг"
 
 msgid "DH_SpringfieldA1Weapon.ItemName"
-msgstr "Спрингфілд М1903A1"
+msgstr "Гвинтівка Спрингфілд М1903A1"
 
 msgid "DH_StenMkVWeapon.ItemName"
-msgstr "Стен Mk.V"
+msgstr "ПП СТЕН Mk.V"
 
 msgid "DH_StenMkIIWeapon.ItemName"
-msgstr "Стен Mk.II"
+msgstr "ПП СТЕН Mk.II"
 
 msgid "DH_StenMkIIIWeapon.ItemName"
-msgstr "Стен Mk.III"
+msgstr "ПП СТЕН Mk.III"
 
 msgid "DH_StenMkIICWeapon.ItemName"
-msgstr "Стен Mk.II"
+msgstr "ПП СТЕН Mk.II"
 
 msgid "DH_StielGranateWeapon.ItemName"
-msgstr "Граната StG 24"
+msgstr "Граната StG.24"
 
 msgid "DH_TT33Weapon.ItemName"
-msgstr "ТТ-33"
+msgstr "Пістолет ТТ-33"
 
 msgid "DH_ThompsonWeapon.ItemName"
-msgstr "M1A1 Томпсон"
+msgstr "ПП Томпсона M1A1"
 
 msgid "DH_VG15Weapon.ItemName"
-msgstr "VG 1-5"
+msgstr "Самозарядний карабін VG 1-5"
 
 msgid "DH_VK98Weapon.ItemName"
-msgstr "VK 98"
+msgstr "Карабін VK 98"
 
 msgid "DH_ViSWeapon.ItemName"
-msgstr "ViS wz.35"
+msgstr "Пістолет ViS wz.35"
 
 msgid "DH_Vz24Weapon.ItemName"
 msgstr "Гвинтівка Vz.24"
 
 msgid "DH_Winchester1897Weapon.ItemName"
-msgstr "Вінчестер, модель 1897 року"
+msgstr "Дробовик Вінчестер (обр.1897р.)"
 
 msgid "DH_WitchEnder666Weapon.ItemName"
-msgstr "WitchEnder 666 'Прокляття сатани'"
+msgstr "WitchEnder 666 \"Прокляття Сатани\""
 
 msgid "DH_ZB30Weapon.ItemName"
 msgstr "Кулемет ZB-30"
@@ -335,19 +335,25 @@ msgid "DH_MP41Weapon.ItemName"
 msgstr "MP 41"
 
 msgid "DH_Breda30Weapon.ItemName"
-msgstr "Breda modello 30"
+msgstr "Кулемет Breda modello 30"
 
 msgid "DH_CarcanoM91Weapon.ItemName"
-msgstr "Carcano M91"
+msgstr "Гвинтівка Каркано M91"
 
 msgid "DH_LtypeGrenadeWeapon.ItemName"
-msgstr "OTO bomba Tipo L"
+msgstr "Граната Tipo L"
 
 msgid "DH_MAB42Weapon.ItemName"
-msgstr "Moschetto Automatico Beretta M1938/42"
+msgstr "MAB M1938/42"
 
 msgid "DH_BerettaM1934Weapon.ItemName"
-msgstr "Беретта М1934"
+msgstr "Пістолет Беретта М1934"
 
 msgid "DH_Wz35Weapon.ItemName"
 msgstr "Протитанкова рушниця Wz-35"
+
+msgid "DH_SRCMMod35GrenadeWeapon.ItemName"
+msgstr "Граната SRCM Mod.35"
+
+msgid "DH_SRCMMod35SmokeGrenadeWeapon.ItemName"
+msgstr "Димова граната SCRM Mod.35"
