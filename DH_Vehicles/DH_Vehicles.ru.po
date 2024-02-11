@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-28 21:37+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"PO-Revision-Date: 2024-02-12 13:39+0000\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
 "Language: ru\n"
@@ -1109,7 +1109,7 @@ msgid "DH_CromwellCannon.nProjectileDescriptions<1>"
 msgstr "M48 HE-T"
 
 msgid "DH_HetzerDestroyer.VehicleNameString"
-msgstr "ПТ-САУ Jagd Pz.38(t) '\"Хетцер\""
+msgstr "ПТ-САУ Jagd Pz.38(t) \"Хетцер\""
 
 msgid "DH_IS2Cannon_Late.ProjectileDescriptions<0>"
 msgstr "БСБК"
