@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-08 15:39+0000\n"
+"PO-Revision-Date: 2024-02-12 13:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/uk/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Weblate 5.2.1\n"
 
 msgid "UT2k4Browser_ServerListPageBase.PingingText"
-msgstr "Пінг серверів ( %NumRec% / %TotalNum% )"
+msgstr "Відстеження серверів ( %NumRec% / %TotalNum% )"
 
 msgid "UT2K4Browser_Page.QueryCompleteString"
 msgstr "Запит виконано!"
@@ -100,19 +100,19 @@ msgid "UT2k4Browser_RulesList.ColumnHeadings<0>"
 msgstr "Налаштування"
 
 msgid "UT2k4Browser_RulesList.KickVotingString"
-msgstr "Голосування вигнання:"
+msgstr "Голосування: виключення"
 
 msgid "UT2k4Browser_RulesList.MapVotingString"
 msgstr "Голосування карта:"
 
 msgid "UT2k4Browser_RulesList.MinPlayersString"
-msgstr "Мінімум гравців (ботів)"
+msgstr "Мінімальна кількість гравців (ботів)"
 
 msgid "UT2k4Browser_RulesList.ColumnHeadings<1>"
-msgstr "Значення"
+msgstr "Величина"
 
 msgid "UT2k4Browser_RulesList.AdminEmailString"
-msgstr "Електронна пошта адміністратора"
+msgstr "Email адміністратора"
 
 msgid "UT2k4Browser_RulesList.TimeLimitString"
 msgstr "Ліміт часу"
