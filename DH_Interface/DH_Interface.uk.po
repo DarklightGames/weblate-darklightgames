@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-01 13:39+0000\n"
+"PO-Revision-Date: 2024-02-12 13:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
@@ -29,7 +29,7 @@ msgid "DHBrowser_Footer.BrowserRefresh.Caption"
 msgstr "Оновити"
 
 msgid "DHBrowser_Footer.BrowserSpec.Caption"
-msgstr "Споглядати"
+msgstr "Спостерігати"
 
 msgid "DHBrowser_Footer.OnlyStandardCheckBox.Caption"
 msgstr "Тільки стандартні сервери"
@@ -38,7 +38,7 @@ msgid "DHBrowser_OpenIP.CancelButton.Caption"
 msgstr "СКАСУВАТИ"
 
 msgid "DHBrowser_OpenIP.IPDesc.Caption"
-msgstr "Введіть нову IP-адресу"
+msgstr "Введіть новий IP-адрес"
 
 msgid "DHBrowser_OpenIP.IpEntryBox.Caption"
 msgstr "IP Адреса: "
@@ -71,7 +71,7 @@ msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<7>"
 msgstr "Створити шаблон"
 
 msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<8>"
-msgstr "Вимкнути всї фільтри"
+msgstr "Вимкнути всі фільтри"
 
 msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<9>"
 msgstr "-"
@@ -83,7 +83,7 @@ msgid "DHBrowser_ServersList.ColumnHeadings<2>"
 msgstr "Стан"
 
 msgid "DHBrowser_ServersList.ColumnHeadings<3>"
-msgstr "Локація"
+msgstr "Розташування"
 
 msgid "DHBrowser_ServersList.ColumnHeadings<4>"
 msgstr "Версія"
@@ -95,10 +95,10 @@ msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<11>"
 msgstr "Скопіювати адресу серверу"
 
 msgid "DHBrowser_ServersList.ColumnHeadings<1>"
-msgstr "Ім'я серверу"
+msgstr "Назва серверу"
 
 msgid "DHContextMenu_SquadMembers.AdminPrefixText"
-msgstr "АДМІН:"
+msgstr "Адміністратор:"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<0>"
 msgstr "-"
@@ -107,7 +107,7 @@ msgid "DHContextMenu_SquadMembers.EntryTexts<9>"
 msgstr "{1} Десантувати {0} до командира загону"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<3>"
-msgstr "Забанити {0}"
+msgstr "Заблокувати {0}"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<4>"
 msgstr "Підвищити {0} до командира загону"
@@ -116,7 +116,7 @@ msgid "DHContextMenu_SquadMembers.EntryTexts<13>"
 msgstr "{1} Десантувати непризначених гравців до маркера"
 
 msgid "DHDeployMenu.SelectRoleText"
-msgstr "Виберіть роль"
+msgstr "Вибрати роль"
 
 msgid "DHDeployMenu.ChangeTeamConfirmText"
 msgstr ""
@@ -124,10 +124,10 @@ msgstr ""
 "протягом {s} секунд)"
 
 msgid "DHDeployMenu.VehicleUnavailableString"
-msgstr "Траспортний засіб, який ви вибрали, більше не доступний."
+msgstr "Обрана вами техніка більше не доступна."
 
 msgid "DHDeployMenu.SurrenderResponseMessages<6>"
-msgstr "Ваша команда вже голосувала нещодавно. Спробуйте пізніше."
+msgstr "Раніше ваша команда вже проголосувала за відступ. Спробуйте пізніше."
 
 msgid "DHDeployMenu.ContinueButtonObject.Caption"
 msgstr "Продовжити"
@@ -137,8 +137,8 @@ msgstr "Ви впевнені, що хочете здатися?"
 
 msgid "DHDeployMenu.SurrenderConfirmNominationText"
 msgstr ""
-"Ця дія висуне відступ на голосування. Голосування розпочнеться коли {0}% "
-"команди запропонує відступити."
+"Ця дія призведе до командного голосування. Воно почнеться після того, як {0}"
+"% команди проголосують за відступ."
 
 msgid "DHDeployMenu.RoundTimeLabelObject.Hint"
 msgstr "Залишилось часу"
@@ -159,7 +159,7 @@ msgid "DHGetDataMenu.CancelButton.Caption"
 msgstr "СКАСУВАТИ"
 
 msgid "DHTab_MutatorSP.IAMutatorRemove.Caption"
-msgstr "Вилучити"
+msgstr "Прибрати"
 
 msgid "DHServerLoading.GameTypeText"
 msgstr "Тип гри: {0}"
@@ -171,7 +171,7 @@ msgid "DHGUISquadComponent.CreateSquadButton.Caption"
 msgstr "Створити загін"
 
 msgid "DHTab_ServerRulesPanel.AdvancedButton.Caption"
-msgstr "Додаткові параметри"
+msgstr "Показати додаткові параметри"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<1>"
 msgstr "Запросити {0}"
@@ -180,28 +180,28 @@ msgid "DHContextMenu_SquadMembers.EntryTexts<2>"
 msgstr "Вигнати {0}"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<5>"
-msgstr "Призначити {0} як помічника"
+msgstr "Призначити {0} помічником командира"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<6>"
-msgstr "Звільнити {0} з посади помічника"
+msgstr "Зняти {0} з посади помічника командира"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<8>"
-msgstr "Запросити об'єднати загони"
+msgstr "Запит на об'єднання загонів"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<10>"
 msgstr "{1} Десантувати {0} до маркера"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<11>"
-msgstr "{1} Десантувати ЗАГІН до командира"
+msgstr "{1} Десантувати загін до командира"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<12>"
-msgstr "{1} Десантувати ЗАГІН до маркера"
+msgstr "{1} Десантувати загін до маркера"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<14>"
 msgstr "{1} Підвищити {0} до командира загону"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<15>"
-msgstr "{1} Вигнати {0} з загону"
+msgstr "{1} Виключити {0} із загону"
 
 msgid "DHCreditsPage.WindowName"
 msgstr "Титри"
@@ -210,7 +210,7 @@ msgid "DHCreditsPage.CloseButton.Caption"
 msgstr "Закрити"
 
 msgid "DHDeployMenu.SelectSpawnPointText"
-msgstr "Виберіть місце респавну"
+msgstr "Вибрати точку появи"
 
 msgid "DHDeployMenu.ReservedString"
 msgstr "Зарезервовано"
@@ -219,25 +219,25 @@ msgid "DHDeployMenu.FreeChangeTeamConfirmText"
 msgstr "Ви впевнені, що хочете змінити команду?"
 
 msgid "DHDeployMenu.CantChangeTeamYetText"
-msgstr "Ви повинні почекати {s} секунд, перш ніж ви зможете змінити команду"
+msgstr "Вам доведеться зачекати {s} секунд, перш ніж ви зможете змінити команду"
 
 msgid "DHDeployMenu.LockedText"
-msgstr "Замкнено"
+msgstr "Заблоковано"
 
 msgid "DHDeployMenu.UnlockText"
-msgstr "Відімкнути"
+msgstr "Розблоковано"
 
 msgid "DHDeployMenu.LockText"
-msgstr "Замкнути"
+msgstr "Заблоковано"
 
 msgid "DHDeployMenu.BotsText"
-msgstr "БОТИ"
+msgstr "БОТ"
 
 msgid "DHDeployMenu.SquadOnlyText"
-msgstr "ТІЛЬКИ У ЗАГОНАХ"
+msgstr "ТІЛЬКИ ЗАГОНИ"
 
 msgid "DHDeployMenu.SquadLeadershipOnlyText"
-msgstr "ТІЛЬКИ ДЛЯ КОМАНДИРІВ"
+msgstr "ТІЛЬКИ КОМАНДИРИ"
 
 msgid "DHDeployMenu.UnassignedPlayersCaptionText"
 msgstr "Непризначені"
@@ -276,13 +276,13 @@ msgid "DHDeployMenu.SurrenderResponseMessages<9>"
 msgstr "Ви не можете відступити так рано."
 
 msgid "DHDeployMenu.SurrenderResponseMessages<10>"
-msgstr "Ви не можете відступити під час етапу организіції."
+msgstr "Ви не можете відступити на етапі підготовки."
 
 msgid "DHDeployMenu.AlliesButtonObject.Hint"
-msgstr "Приєднатися до Союзників"
+msgstr "Приєднатися до Військ Союзників"
 
 msgid "DHDeployMenu.ArtilleryVehicleImageObject.Hint"
-msgstr "Артилерійська машина"
+msgstr "Самохідна Артилерійська Установка"
 
 msgid "DHDeployMenu.AxisButtonObject.Hint"
 msgstr "Приєднатися до Військ Осі"
@@ -297,13 +297,13 @@ msgid "DHDeployMenu.RetreatButtonObject.Caption"
 msgstr "Відступити"
 
 msgid "DHDeployMenu.SpectateButtonObject.Hint"
-msgstr "Споглядати"
+msgstr "Спостерігати"
 
 msgid "DHDeployMenu.SquadsButtonObject.Hint"
 msgstr "Загони [F1]"
 
 msgid "DHDeployMenu.SuicideButtonObject.Caption"
-msgstr "Суїцид"
+msgstr "Самогубство"
 
 msgid "DHEditFavoritePage.UnknownText"
 msgstr "Невідомий сервер"
@@ -336,19 +336,19 @@ msgid "DHFilterListPage.bEdit.Caption"
 msgstr "Редагувати"
 
 msgid "DHFilterListPage.bRemove.Caption"
-msgstr "Видалити"
+msgstr "Прибрати"
 
 msgid "DHGUIMapComponent.SquadRallyPointSetAsSecondaryText"
-msgstr "Встановити як вторичну"
+msgstr "Встановити як запасну"
 
 msgid "DHGUIMapComponent.RemoveText"
-msgstr "Видалити {0}"
+msgstr "Прибрати {0}"
 
 msgid "DHGUIMapComponent.ActiveTargetSelectText"
 msgstr "Вибрати як активну ціль"
 
 msgid "DHGUIMapComponent.ActiveTargetDeselectText"
-msgstr "Зняти вибір активної цілі"
+msgstr "Скасувати вибір активної цілі"
 
 msgid "DHGUISquadComponent.JoinSquadButton.Caption"
 msgstr "Приєднатися до загону"
@@ -381,7 +381,7 @@ msgid "DHGUITeamSelection.TeamsCount2.Caption"
 msgstr "? гравців"
 
 msgid "DHGamePageSP.PageCaption"
-msgstr "Практика"
+msgstr "Самостійна гра"
 
 msgid "DHGetDataMenu.CancelButton.Hint"
 msgstr "Закрити це меню, скасувавши зміни."
@@ -393,13 +393,13 @@ msgid "DHNetworkStatusMessage.NetStatOk.Caption"
 msgstr "ОК"
 
 msgid "DHMaplistEditor.RemoveButton.Caption"
-msgstr "Видалити"
+msgstr "Прибрати"
 
 msgid "DHServerBrowser.GameTypeCombo.Caption"
 msgstr "Тип гри"
 
 msgid "DHServerBrowser.ServerBrowserHeader.Caption"
-msgstr "Сервери"
+msgstr "Браузер серверів"
 
 msgid "DHServerLoading.AuthorText"
 msgstr "Автор: {0}"
@@ -420,13 +420,13 @@ msgid "DHSettingsPage.PanelCaption<2>"
 msgstr "Аудіо"
 
 msgid "DHTab_ServerRulesPanel.EnableWebadmin.Caption"
-msgstr "Увімкнути WebAdmin"
+msgstr "Увімкнути Веб-Адміністрування"
 
 msgid "DHTab_ServerRulesPanel.LANServer.Caption"
 msgstr "Локальний сервер"
 
 msgid "DHTab_ServerRulesPanel.WebadminPort.Caption"
-msgstr "WebAdmin Порт"
+msgstr "Порт веб-адміністратора"
 
 msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<10>"
 msgstr "Додати до обраного"
@@ -435,16 +435,16 @@ msgid "DHTab_GameSettings.NetSpeedText[3]"
 msgstr "Рекомендовані ({0})"
 
 msgid "DHTab_DetailSettings.WeatherEffects.Caption"
-msgstr "Ефекти погоди"
+msgstr "Погодні ефекти"
 
 msgid "DHTab_DetailSettings.sbSection3.Caption"
 msgstr "Тест гамми"
 
 msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Hint"
-msgstr "Коли надсилати автоматичні голосові сповіщення в машинах"
+msgstr "Коли надсилати автоматичні голосові сповіщення в техніці"
 
 msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[1]"
-msgstr "Тільки з членами екіпажу"
+msgstr "Тільки з екіпажем"
 
 msgid "DHBrowser_ServersList.ColumnHeadings<6>"
 msgstr "Гравці"
@@ -474,7 +474,7 @@ msgid "DHTab_GameSettings.IDText"
 msgstr "ID:"
 
 msgid "DHTab_GameSettings.NoROIDText"
-msgstr "Спочатку приєднайтесь до мультиплеєра"
+msgstr "Спочатку необхідно приєднатися до мультиплеєра"
 
 msgid "DHTab_GameSettings.DegreesText"
 msgstr "градусів"
@@ -483,7 +483,7 @@ msgid "DHTab_GameSettings.NetSpeedText[4]"
 msgstr "Високі ({0})"
 
 msgid "DHTab_GameSettings.NetSpeedText[5]"
-msgstr "Екстремальні ({0})"
+msgstr "Максимальні ({0})"
 
 msgid "DHTab_GameSettings.NetSpeedText[6]"
 msgstr "Визначена користувачем (%NetSpeed%)"
@@ -495,7 +495,7 @@ msgid "DHTab_GameSettings.PanelCaption"
 msgstr "Гра"
 
 msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Caption"
-msgstr "Автоматичні сповіщення в машинах"
+msgstr "Автоматичне оповіщення в техніці"
 
 msgid "DHTab_GameSettings.CopyROIDButton.Caption"
 msgstr "Скопіювати ID до буферу обміну"
@@ -504,55 +504,56 @@ msgid "DHTab_GameSettings.CopyROIDButton.Hint"
 msgstr "Це дозволить вам вставити ROID як текст"
 
 msgid "DHTab_GameSettings.DynamicNetspeed.Caption"
-msgstr "Динамічна NetSpeed"
+msgstr "Динамічна швидкість мережі"
 
 msgid "DHMainMenu.JoinTestServerString"
 msgstr "Приєднатися до тестового сервера"
 
 msgid "DHMainMenu.SteamMustBeRunningText"
 msgstr ""
-"Steam має бути запущено, і ви повинні мати активне підключення до Інтернету, "
-"щоб грати в багатокористувацьку гру"
+"Для мережевої гри у вас має бути запущений Steam і активне підключення до "
+"мережі"
 
 msgid "DHMainMenu.ControlsChangedMessage"
 msgstr ""
-"У гру додано нові елементи керування. У результаті ваші попередні прив’язки "
-"елементів керування могли бути змінені.||Ви бажаєте переглянути налаштування "
-"елементів керування?"
+"У гру додано нові елементи управління. Можливо ваші попередні налаштування "
+"управління можуть бути змінені.||Хочете переглянути ваші налаштування "
+"управління?"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<2>"
-msgstr "Який тип гри чи битви за карту."
+msgstr "Країна Осі на карті."
 
 msgid "DHMainMenu.InstantActionButton.Caption"
-msgstr "Практика"
+msgstr "Самостійна гра"
 
 msgid "DHMainMenu.SteamCommunityButton.Hint"
-msgstr "Приєднуйтесь до спільноти Steam!"
+msgstr "Всупайте до спільноти Steam!"
 
 msgid "DHServerBrowser.BetaMessageText"
 msgstr ""
-"Ласкаво просимо до бета-версії The Darkest Hour: Europe '44-'45! Обов’язково "
-"приєднуйтеся до 500+ спільнот Discord, щоб обговорити гру, внести пропозиції "
-"або повідомити про будь-які помилки! До зустрічі на полі бою!"
+"Ласкаво просимо в бета-тест Darkest Hour: Europe '44-'45! Обов'язково "
+"приєднуйтесь до спільноти Discord з більш ніж 500+ людей, щоб обговорювати "
+"гру, вносити пропозиції або повідомляти про помилки! Побачимося на полі бою!"
 
 msgid "DHTab_Controls.captions_game[4]"
-msgstr "Блокування/розблокування бронеавтомобіля"
+msgstr "Блокування/розблокування бронетехніки"
 
 msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<1>"
-msgstr "Загальна кількість голосів гравців на карті."
+msgstr "Загальна кількість голосів гравців за карту."
 
 msgid "DHMapVotingPage.lmsgMapOutOfBounds"
 msgstr ""
-"Будь ласка, проголосуйте за карту, яка відповідає поточній кількості "
-"гравців. Ви все ще можете проголосувати за цю карту в повному списку."
+"Будь ласка, проголосуйте за карту, яка підходить для поточної кількості "
+"гравців. Ви все ще можете проголосувати за цю карту через повний список."
 
 msgid "DHNetworkStatusMsg.StatusMessages[12]"
 msgstr ""
-"Вас вигнали до кінця поточного рівня.||Якщо адміністратор не покарав вас, це "
-"стандартне покарання за командне вбивство, тому не робіть цього."
+"Вас виключили до кінця поточного раунду.||Якщо вас покарав не адміністратор, "
+"то це була автоматична система за замовчуванням за вбивство союзників, тож "
+"не робіть цього."
 
 msgid "DHSettingsPage.PanelHint<4>"
-msgstr "Налаштувати інші параметри введення..."
+msgstr "Інші налаштування. Варіанти введення..."
 
 msgid "DHTab_AudioSettings.AudioChannelsNum.Hint"
 msgstr "Кількість звукових каналів, які гра може використовувати одночасно"
@@ -564,86 +565,86 @@ msgid "DHTab_AudioSettings.DisableGameMusic.Caption"
 msgstr "Вимкнути музику під час гри"
 
 msgid "DHTab_AudioSettings.AudioPlayVoices.Caption"
-msgstr "Голосові повідомлення"
+msgstr "Відтворення голосових повідомлень"
 
 msgid "DHTab_AudioSettings.AutoJoinPublic.Caption"
-msgstr "Автоматичне приєднання до публічного каналу"
+msgstr "Автопідключення до загального каналу"
 
 msgid "DHTab_Controls.Captions_Inventory[0]"
-msgstr "Інвентарний слот 1"
+msgstr "Слот інвентарю 1"
 
 msgid "DHTab_Controls.Captions_Inventory[6]"
-msgstr "Інвентарний слот 7"
+msgstr "Слот інвентарю 7"
 
 msgid "DHTab_Controls.ControlProfiles[1]"
-msgstr "За замовчуванням (скидання)"
+msgstr "За замовчуванням (Скидання)"
 
 msgid "DHTab_Controls.captions_weapons[11]"
-msgstr "Розгорнути МГ / Приєднати багнет / Димову установку"
+msgstr ""
+"Розгорнути кулемет / прикріпити багнет / постріл димовою установкою з техніки"
 
 msgid "DHTab_Controls.captions_weapons[13]"
-msgstr ""
-"Зменшити дальність/обертання димової пускової установки транспортного засобу"
+msgstr "Зменшити дальність/поворот димової установки техніки"
 
 msgid "DHTab_Controls.captions_comm[7]"
-msgstr "Перехід на командний голосовий канал"
+msgstr "Переключитися на командний голосовий канал"
 
 msgid "DHTab_Controls.captions_comm[11]"
-msgstr "Почати вводити повідомлення в чаті"
+msgstr "Почніть вводити повідомлення в чат"
 
 msgid "DHTab_Controls.captions_game[5]"
 msgstr "Меню наказів загону"
 
 msgid "DHTab_DetailSettings.DetailDecoLayers.Caption"
-msgstr "Детальна земля"
+msgstr "Деталізація місцевості"
 
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
 msgstr ""
-"Підтримує максимальну частоту кадрів у секунду завдяки автоматичному "
-"регулюванню відстані до туману залежно від частоти кадрів у секунду"
+"Підтримує рівень FPS на максимально високому рівні, автоматично регулюючи "
+"відстань туману залежно від його показника"
 
 msgid "DHTab_Controls.ControlProfilesComboBox.Caption"
-msgstr "Профілі керування"
+msgstr "Профілі управління"
 
 msgid "DHTab_DetailSettings.DetailTextureDetail.Caption"
-msgstr "Деталі текстур"
+msgstr "Деталізація текстур"
 
 msgid "DHTab_DetailSettings.RelaunchQuestion"
 msgstr ""
-"Графічний режим успішно змінено. Однак він не набуде чинності до наступного "
-"запуску гри. Бажаєте перезапустити гру прямо зараз?"
+"Налаштування графіки успішно змінено. Однак вони не набудуть чинності до "
+"наступного запуску гри. Хочете перезапустити гру просто зараз?"
 
 msgid "DHTab_DetailSettings.UseVSyncCheckBox.Hint"
 msgstr ""
-"VSync використовується для зменшення розривів на екрані за рахунок затримки "
-"введення (налаштування графічного процесора можуть перевизначати багато "
-"графічних налаштувань, таких як ця)"
+"Вертикальна синхронізація використовується для зменшення розривів екрана "
+"через високу затримку введення (налаштування графічного процесора можуть "
+"перевизначати багато графічних налаштувань, таких як це)"
 
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
 msgstr ""
-"Використовується функцією Динамічна відстань туману, щоб визначити, коли "
-"починати зменшувати відстань до туману"
+"Використовується функцією 'Динамічна дистанція туману', щоб визначити, коли "
+"починати зменшувати його відстань"
 
 msgid "DHCommunicationPage.Panels<0>.Caption.Hint"
 msgstr "Керуйте спілкуванням з іншими гравцями"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<7>"
-msgstr "Стати помічником загону"
+msgstr "Запропонувати стати помічником командира"
 
 msgid "DHDeployMenu.NoneText"
 msgstr "Нічого"
 
 msgid "DHDeployMenu.DeployInTimeText"
-msgstr "Натисніть «Продовжити», щоб відродитися ({0})"
+msgstr "Натисніть Продовжити для відродження ({0})"
 
 msgid "DHDeployMenu.DeployNowText"
-msgstr "Натисніть Продовжити, щоб відродитися зараз!"
+msgstr "Натисніть продовжити, щоб відродитися зараз!"
 
 msgid "DHDeployMenu.RecommendJoiningSquadText"
 msgstr ""
-"Настійно рекомендується приєднатись до загону перед відродженням! Приєднання "
-"до загону надає вам додаткові можливості відродження та дає змогу швидше "
-"дістатися до бою.||Ви хочете автоматично приєднатися до загону зараз?"
+"НАСТІЙНО РЕКОМЕНДУЄТЬСЯ вступити до загону перед відродженням! Приєднання до "
+"загону відкриває вам додаткові можливості розгортання і дозволяє швидше "
+"вступити в бій.||Хочете автоматично приєднатися до загону зараз?"
 
 msgid "DHDeployMenu.SurrenderConfirmEndRoundText"
 msgstr "Це негайно завершить раунд на користь протилежної команди."
@@ -655,7 +656,7 @@ msgid "DHDeployMenu.MapVoteButtonObject.Caption"
 msgstr "Голосування"
 
 msgid "DHDeployMenu.MaxVehiclesImageObject.Hint"
-msgstr "Наявні танки"
+msgstr "Доступні танки"
 
 msgid "DHDeployMenu.ServersButtonObject.Caption"
 msgstr "Сервери"
@@ -664,7 +665,7 @@ msgid "DHDeployMenu.SettingsButtonObject.Caption"
 msgstr "Налаштування"
 
 msgid "DHDeployMenu.SpawnVehicleImageObject.Hint"
-msgstr "Розгорнути транспортний засіб"
+msgstr "Викликати техніку"
 
 msgid "DHDeployMenu.SupplyVehicleImageObject.Hint"
 msgstr "Автомобіль будівельного постачання"
@@ -673,19 +674,19 @@ msgid "DHDeployMenu.VehicleButtonObject.Hint"
 msgstr "Транспортні засоби"
 
 msgid "DHFilterEdit.ComboOpts[2]"
-msgstr "Має бути вимкнено"
+msgstr "Має бути вимкнений"
 
 msgid "DHFilterEdit.ComboOpts[1]"
 msgstr "Має бути увімкнений"
 
 msgid "DHFilterEdit.MutOpts[0]"
-msgstr "Без мутаторів"
+msgstr "Немає мутаторів"
 
 msgid "DHFilterEdit.MutOpts[1]"
 msgstr "Будь-який мутатор"
 
 msgid "DHFilterEdit.MutOpts[2]"
-msgstr "Користуватьський"
+msgstr "Користувацький"
 
 msgid "DHFilterEdit.WindowName"
 msgstr "Редагувати правила фільтрації..."
@@ -700,38 +701,38 @@ msgid "DHFilterEdit.cbTranslocator.Caption"
 msgstr "Транслокатор:"
 
 msgid "DHFilterEdit.cbWeaponStay.Caption"
-msgstr "Залишення зброї:"
+msgstr "Зброя залишається:"
 
 msgid "DHFilterEdit.ckBots.Caption"
 msgstr "Без ботів"
 
 msgid "DHFilterEdit.ckEmpty.Caption"
-msgstr "Немає порожніх серверів"
+msgstr "Без порожніх серверів"
 
 msgid "DHFilterEdit.ckFull.Caption"
-msgstr "Немає повних серверів"
+msgstr "Без повних серверів"
 
 msgid "DHFilterEdit.ckPassworded.Caption"
-msgstr "Немає серверів із паролем"
+msgstr "Без серверів із паролем"
 
 msgid "DHFilterEdit.ckVACOnly.Caption"
-msgstr "Тільки Valve Anti-Cheat Protected"
+msgstr "Тільки із захистом від читів Valve"
 
 msgid "DHFilterEdit.ebName.Caption"
 msgstr "Назва фільтра:"
 
 msgid "DHFilterEdit.sbMutators.Caption"
-msgstr "Спеціальна конфігурація мутатора"
+msgstr "Користувацькі налаштування мутатора"
 
 msgid "DHFilterEdit.sbOptions.Caption"
-msgstr "Опції..."
+msgstr "Параметри..."
 
 msgid "DHFilterListPage.sbBackground.Caption"
 msgstr "Фільтри..."
 
 msgid "DHGUISquadComponent.NoRallyPointsImage.Hint"
 msgstr ""
-"Давно цей загін не мав пунктів збору. Варіанти розгортання можуть бути "
+"У цього загону немає точок збору. Можливості відродження можуть бути "
 "обмежені!"
 
 msgid "DHGUITeamSelection.SizeBonusText"
@@ -741,7 +742,7 @@ msgid "DHGUITeamSelection.UnitsText"
 msgstr " гравців"
 
 msgid "DHGUITeamSelection.AutoSelect.Caption"
-msgstr "Автоматичний вибір"
+msgstr "Авто Вибір"
 
 msgid "DHGUITeamSelection.SettingsButtonObject.Caption"
 msgstr "Налаштування"
@@ -757,23 +758,23 @@ msgstr "Відданий"
 
 msgid "DHGamePageSP.NoBotsWarningText"
 msgstr ""
-"Darkest Hour: Europe '44-'45 зосереджена виключно на багатокористувацькій "
-"грі і, як наслідок, НЕ включає підтримку ботів у режимі практики."
+"Darkest Hour: Europe '44-'45 орієнтована виключно на багатокористувацьку гру "
+"і, як наслідок, НЕ містить підтримку ботів у режимі одиночної гри."
 
 msgid "DHGamePageSP.SPFooter.PrimaryCaption"
-msgstr "Розпочати тренувальну гру"
+msgstr "Почати самостійну гру"
 
 msgid "DHIAMultiColumnRulesPanel.AdvancedButton.Caption"
-msgstr "Переглянути додаткові параметри"
+msgstr "Показати додаткові параметри"
 
 msgid "DHLearnToPlayPage.PanelCaption<0>"
 msgstr "Відеопосібники"
 
 msgid "DHLearnToPlayPage.PanelHint<0>"
-msgstr "Дізнайтеся про гру, подивившись відео"
+msgstr "Дізнайтеся більше про гру, подивившись відео"
 
 msgid "DHLearnToPlayPage.LearnToPlayHeader.Caption"
-msgstr "Вчитися грати"
+msgstr "Навчитися грати"
 
 msgid "DHMainMenu.ConnectingString"
 msgstr "Приєднання"
@@ -786,12 +787,11 @@ msgstr "Помилка: не вдалося завантажити стрічк�
 
 msgid "DHMainMenu.BadConfigMessage"
 msgstr ""
-"Виникла проблема з вашим конфігураційним файлом, натисніть «Продовжити», щоб "
-"вийти з гри та відкрити посібник щодо виправлення вашого конфігураційного "
-"файлу."
+"Виникла проблема з вашим файлом конфігурації. Натисніть \"Продовжити\", щоб "
+"вийти з гри та відкрити посібник з виправлення файлу конфігурації."
 
 msgid "DHMainMenu.CreditsButton.Caption"
-msgstr "Тітри"
+msgstr "Титри"
 
 msgid "DHMainMenu.DiscordButton.Hint"
 msgstr "Приєднуйтесь до нас у Discord!"
@@ -815,7 +815,7 @@ msgid "DHMainMenu.SettingsButton.Caption"
 msgstr "Налаштування"
 
 msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<0>"
-msgstr "Номіновані карти"
+msgstr "Запропоновані карти"
 
 msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<1>"
 msgstr "Вага голосу"
@@ -827,31 +827,31 @@ msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<0>"
 msgstr "Назва карти."
 
 msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<2>"
-msgstr "Рекомендовано гравців для карти."
+msgstr "Рекомендована кількість гравців для цієї карти."
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadings<0>"
 msgstr "Назва карти"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadings<1>"
-msgstr "Союзна нація"
+msgstr "Країни Союзників"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadings<2>"
-msgstr "Тип гри"
+msgstr "Країни Осі"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadings<3>"
-msgstr "Розмір карти"
+msgstr "Тип гри"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<0>"
 msgstr "Назва карти."
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<1>"
-msgstr "Країна-Союзників на карті."
+msgstr "Країна Союзників на карті."
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<3>"
-msgstr "Рекомендовано гравців для карти."
+msgstr "Що за тип гри або битви на карті."
 
 msgid "DHMapVotingPage.lmsgMode[0]"
-msgstr "Перемагає більшість"
+msgstr "Перемога більшості"
 
 msgid "DHMapVotingPage.FilterClearButton.Caption"
 msgstr "Очистити"
@@ -860,7 +860,7 @@ msgid "DHMapVotingPage.FilterEditbox.Caption"
 msgstr "Пошук"
 
 msgid "DHMapVotingPage.GameTypeCombo.Caption"
-msgstr "Фільтр Тип гри:"
+msgstr "Фільтр типу гри:"
 
 msgid "DHMaplistEditor.ActiveBackground.Caption"
 msgstr "Вибрані карти"
@@ -905,16 +905,16 @@ msgid "DHNetworkStatusMsg.StatusTitle[12]"
 msgstr "Ви були виключені"
 
 msgid "DHPlayerSetupPage.psTitleBar.Caption"
-msgstr "Налаштування плеєра"
+msgstr "Налаштування гравця"
 
 msgid "DHQuitPage.NoButton.Caption"
-msgstr "Ні"
+msgstr "НІ"
 
 msgid "DHQuitPage.QuitDesc.Caption"
 msgstr "Ви впевнені, що хочете вийти?"
 
 msgid "DHQuitPage.YesButton.Caption"
-msgstr "Так"
+msgstr "ТАК"
 
 msgid "DHScoreBoard.MunitionPercentageText"
 msgstr "Боєприпаси"
@@ -947,16 +947,16 @@ msgid "DHScoreBoard.ScoreboardColumns<9>.Title"
 msgstr "Пінг"
 
 msgid "DHServerBrowser.PanelCaption<0>"
-msgstr "Улюблені"
+msgstr "Обране"
 
 msgid "DHServerBrowser.PanelCaption<1>"
-msgstr "Локальна мережа"
+msgstr "Локальна мережа (LAN)"
 
 msgid "DHServerBrowser.PanelCaption<2>"
 msgstr "Інтернет"
 
 msgid "DHServerBrowser.PanelCaption<3>"
-msgstr "Локальна мережа"
+msgstr "Локальна мережа (LAN)"
 
 msgid "DHServerBrowser.PanelCaption<4>"
 msgstr "Інтернет"
@@ -965,52 +965,50 @@ msgid "DHServerBrowser.PanelCaption<5>"
 msgstr "Інтернет"
 
 msgid "DHServerBrowser.PanelHint<0>"
-msgstr "Виберіть сервер, до якого ви хочете приєднатися, серед улюблених"
+msgstr "Вибрати сервер із числа обраного"
 
 msgid "DHServerBrowser.PanelHint<1>"
-msgstr ""
-"Перегляньте всі сервери DH, які зараз працюють у вашій локальній мережі"
+msgstr "Переглянути всі сервери DH, які зараз працюють у вашій локальній мережі"
 
 msgid "DHServerBrowser.PanelHint<2>"
-msgstr "Вибирайте з серверів DH по всьому світу"
+msgstr "Вибрати з серверів DH по всьому світу"
 
 msgid "DHServerBrowser.PanelHint<3>"
-msgstr ""
-"Перегляньте всі сервери RO, які зараз працюють у вашій локальній мережі"
+msgstr "Переглянути всі сервери RO, які зараз працюють у вашій локальній мережі"
 
 msgid "DHServerBrowser.PanelHint<4>"
-msgstr "Вибирайте із сотень серверів RO по всьому світу"
+msgstr "Вибрати із сотень серверів RO по всьому світу"
 
 msgid "DHServerBrowser.PanelHint<5>"
-msgstr "Вибирайте із сотень серверів RO по всьому світу"
+msgstr "Вибрати із сотень серверів RO по всьому світу"
 
 msgid "DHServerLoading.DeployingText"
 msgstr "Завантаження карти:{0}"
 
 msgid "DHSettingsPage.PanelCaption<3>"
-msgstr "Елементи керування"
+msgstr "Управління"
 
 msgid "DHSettingsPage.PanelCaption<4>"
-msgstr "Введення"
+msgstr "Миша"
 
 msgid "DHSettingsPage.PanelCaption<5>"
-msgstr "Інтерфейс"
+msgstr "Ігровий інтерфейс (HUD)"
 
 msgid "DHSettingsPage.PanelHint<0>"
-msgstr "Налаштування параметрів гри та мережі..."
+msgstr "Параметри налаштувань гри та мережі..."
 
 msgid "DHSettingsPage.PanelHint<1>"
 msgstr ""
-"Виберіть роздільну здатність або змініть параметри відображення та деталей..."
+"Виберіть роздільну здатність або змініть налаштування екрану і деталізації..."
 
 msgid "DHSettingsPage.PanelHint<2>"
-msgstr "Налаштуйте свій звук..."
+msgstr "Налаштуйте якість звуку..."
 
 msgid "DHSettingsPage.PanelHint<3>"
-msgstr "Налаштуйте елементи керування клавіатури та миші..."
+msgstr "Налаштуйте управління клавіатурою і мишею..."
 
 msgid "DHSettingsPage.PanelHint<5>"
-msgstr "Налаштуйте свій інтерфейс..."
+msgstr "Налаштуйте свій Ігровий інтерфейс (HUD)..."
 
 msgid "DHSettingsPage.PanelHint<6>"
 msgstr "як ти це отримав?"
@@ -1022,13 +1020,13 @@ msgid "DHSettings_Footer.DefaultB.Caption"
 msgstr "За замовчуванням"
 
 msgid "DHTab_AudioSettings.AudioBK1.Caption"
-msgstr "Звукова система"
+msgstr "Аудіосистема"
 
 msgid "DHTab_AudioSettings.AudioBK3.Caption"
 msgstr "Голосовий чат"
 
 msgid "DHTab_AudioSettings.AudioChannelsNum.Caption"
-msgstr "Максимум аудіоканалів"
+msgstr "Максимальна кількість аудіоканалів"
 
 msgid "DHTab_AudioSettings.AudioDefaultDriver.Caption"
 msgstr "Системний драйвер"
@@ -1040,10 +1038,10 @@ msgid "DHTab_AudioSettings.AudioLowDetail.Caption"
 msgstr "Низька деталізація звуку"
 
 msgid "DHTab_AudioSettings.AudioMessageBeep.Caption"
-msgstr "Звук сигналу повідомлення"
+msgstr "Звуковий сигнал повідомлення"
 
 msgid "DHTab_AudioSettings.AudioMode.Caption"
-msgstr "Режим звуку"
+msgstr "Режим аудіо"
 
 msgid "DHTab_AudioSettings.AudioMusicVolume.Caption"
 msgstr "Гучність музики"
@@ -1052,10 +1050,10 @@ msgid "DHTab_AudioSettings.AutoSpeakCheckbox.Caption"
 msgstr "Автоматичний вибір активного каналу"
 
 msgid "DHTab_AudioSettings.ChatPasswordEdit.Caption"
-msgstr "Пароль до чату"
+msgstr "Пароль чату"
 
 msgid "DHTab_AudioSettings.Dampen.Caption"
-msgstr "Зменшити гучність гри під час використання голосових повідомлень"
+msgstr "Зменшувати гучність гри під час використання Мікрофона"
 
 msgid "DHTab_AudioSettings.DefaultActiveChannelEditBox.Caption"
 msgstr "Назва каналу за замовчуванням"
@@ -1064,40 +1062,40 @@ msgid "DHTab_AudioSettings.EnableVoiceChat.Caption"
 msgstr "Увімкнути голосовий чат"
 
 msgid "DHTab_AudioSettings.VoiceQuality.Caption"
-msgstr "Якість інтернету"
+msgstr "Якість Інтернету"
 
 msgid "DHTab_AudioSettings.VoiceQualityLAN.Caption"
-msgstr "Якість локальної мережі"
+msgstr "Якість локальної мережі (LAN)"
 
 msgid "DHTab_AudioSettings.VoiceVolume.Caption"
-msgstr "Гучність прийому голосу"
+msgstr "Гучність голосового прийому"
 
 msgid "DHTab_Controls.Section_Inventory"
 msgstr "Інвентар"
 
 msgid "DHTab_Controls.Captions_Inventory[1]"
-msgstr "Інвентарний слот 2"
+msgstr "Слот інвентарю 2"
 
 msgid "DHTab_Controls.Captions_Inventory[2]"
-msgstr "Інвентарний слот 3"
+msgstr "Слот інвентарю 3"
 
 msgid "DHTab_Controls.Captions_Inventory[3]"
-msgstr "Інвентарний слот 4"
+msgstr "Слот інвентарю 4"
 
 msgid "DHTab_Controls.Captions_Inventory[4]"
-msgstr "Інвентарний слот 5"
+msgstr "Слот інвентарю 5"
 
 msgid "DHTab_Controls.Captions_Inventory[5]"
-msgstr "Інвентарний слот 6"
+msgstr "Слот інвентарю 6"
 
 msgid "DHTab_Controls.Captions_Inventory[7]"
-msgstr "Інвентарний слот 8"
+msgstr "Слот інвентарю 8"
 
 msgid "DHTab_Controls.Captions_Inventory[8]"
-msgstr "Інвентарний слот 9"
+msgstr "Слот інвентарю 9"
 
 msgid "DHTab_Controls.Captions_Inventory[9]"
-msgstr "Інвентарний слот 0"
+msgstr "Слот інвентарю 0"
 
 msgid "DHTab_Controls.ControlProfiles[0]"
 msgstr "Поточний"
@@ -1106,60 +1104,58 @@ msgid "DHTab_Controls.ControlProfiles[2]"
 msgstr "RO Класичний"
 
 msgid "DHTab_Controls.ControlProfiles[3]"
-msgstr "Pro 104"
+msgstr "Про 104"
 
 msgid "DHTab_Controls.ControlProfiles[4]"
-msgstr "Pro 105"
+msgstr "Про 105"
 
 msgid "DHTab_Controls.ControlProfiles[5]"
 msgstr "Контролер XBox 360"
 
 msgid "DHTab_Controls.captions_movement[12]"
-msgstr "Переключити біг"
+msgstr "Біг (натискання)"
 
 msgid "DHTab_Controls.captions_weapons[9]"
-msgstr "Зміна ствола MG"
+msgstr "Змінити ствол кулемета"
 
 msgid "DHTab_Controls.captions_weapons[10]"
-msgstr "Переключити режим вогню"
+msgstr "Переключити режим стрільби"
 
 msgid "DHTab_Controls.captions_weapons[12]"
-msgstr ""
-"Збільшення дальності/обертання димової пускової установки транспортного "
-"засобу"
+msgstr "Збільшити дальність/поворот димової установки техніки"
 
 msgid "DHTab_Controls.captions_weapons[14]"
-msgstr "Переключити вибрану артилерійську ціль"
+msgstr "Переключити обрану артилерійську ціль"
 
 msgid "DHTab_Controls.captions_comm[3]"
-msgstr "Сказати загону"
+msgstr "Чат загону"
 
 msgid "DHTab_Controls.captions_comm[4]"
 msgstr "Меню голосових команд"
 
 msgid "DHTab_Controls.captions_comm[5]"
-msgstr "Перегляд ігрового чату"
+msgstr "Переглянути внутрішньоігровий чат"
 
 msgid "DHTab_Controls.captions_comm[6]"
-msgstr "Увімкнути мікрофон"
+msgstr "Активувати мікрофон"
 
 msgid "DHTab_Controls.captions_comm[8]"
-msgstr "Перехід на місцевий голосовий канал"
+msgstr "Переключитися на місцевий голосовий канал"
 
 msgid "DHTab_Controls.captions_comm[9]"
-msgstr "Перехід на непризначений голосовий канал"
+msgstr "Переключитися на непризначений голосовий канал"
 
 msgid "DHTab_Controls.captions_comm[10]"
-msgstr "Перехід на голосовий канал загону"
+msgstr "Переключитися на голосовий канал загону"
 
 msgid "DHTab_Controls.captions_comm[12]"
-msgstr "Меню вимкнення звуку"
+msgstr "Вимкнути звук у меню"
 
 msgid "DHTab_Controls.captions_game[6]"
 msgstr "Меню загону"
 
 msgid "DHTab_Controls.captions_game[7]"
-msgstr "Автоматичне приєднання до загону"
+msgstr "Автоматично всупити в загін"
 
 msgid "DHTab_Controls.captions_game[8]"
 msgstr "Розмістити точку збору"
@@ -1168,7 +1164,7 @@ msgid "DHTab_Controls.PanelCaption"
 msgstr "Управління"
 
 msgid "DHTab_Controls.InputBK1.Caption"
-msgstr "Прив'язки"
+msgstr "Прив'язки клавіш"
 
 msgid "DHTab_DetailSettings.RenderModeText[0]"
 msgstr "Direct3D 9.0 (рекомендовано)"
@@ -1186,7 +1182,7 @@ msgid "DHTab_DetailSettings.ContrastSlider.Caption"
 msgstr "Контраст"
 
 msgid "DHTab_DetailSettings.CorpseStayTime.Caption"
-msgstr "Час перебування трупа (секунди)"
+msgstr "Час перебування трупа (секунд)"
 
 msgid "DHTab_DetailSettings.DetailAnisotropy.Caption"
 msgstr "Анізотропна фільтрація"
@@ -1201,28 +1197,28 @@ msgid "DHTab_DetailSettings.DetailCoronas.Caption"
 msgstr "Додаткове освітлення"
 
 msgid "DHTab_DetailSettings.DetailDecals.Caption"
-msgstr "Наклейки"
+msgstr "Декалі"
 
 msgid "DHTab_DetailSettings.DetailDecalStay.Caption"
-msgstr "Деталі написів"
+msgstr "Час перебування декалей"
 
 msgid "DHTab_DetailSettings.DetailDynamicLighting.Caption"
 msgstr "Динамічне освітлення"
 
 msgid "DHTab_DetailSettings.DetailForceFSAASS.Caption"
-msgstr "Знімки екрану Force FSAA"
+msgstr "Художні скріншоти"
 
 msgid "DHTab_DetailSettings.DetailProjectors.Caption"
-msgstr "Проєктори"
+msgstr "Проектори"
 
 msgid "DHTab_DetailSettings.DetailTrilinear.Caption"
 msgstr "Трилінійна фільтрація"
 
 msgid "DHTab_DetailSettings.DetailCharacterDetail.Caption"
-msgstr "Персонажі"
+msgstr "Деталізація персонажів"
 
 msgid "DHTab_DetailSettings.DetailPhysics.Caption"
-msgstr "Деталі фізики"
+msgstr "Фізичні деталі"
 
 msgid "DHTab_DetailSettings.DetailDetailTextures.Caption"
 msgstr "Детальні текстури"
@@ -1231,10 +1227,10 @@ msgid "DHTab_DetailSettings.DetailWorldDetail.Caption"
 msgstr "Деталі світу"
 
 msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
-msgstr "Відстань до туману"
+msgstr "Дистанція туману"
 
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
-msgstr "Динамічна відстань туману (рекомендовано)"
+msgstr "Динамічна дистанція туману (рекомендовано)"
 
 msgid "DHTab_DetailSettings.GammaSlider.Caption"
 msgstr "Гамма"
@@ -1249,19 +1245,19 @@ msgid "DHTab_DetailSettings.MeshLOD.Caption"
 msgstr "Динамічна сітка LOD"
 
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
-msgstr "Мінімальний бажаний FPS"
+msgstr "Мінімальний бажаний рівень FPS"
 
 msgid "DHTab_DetailSettings.MotionBlur.Caption"
-msgstr "Ефекти розмиття"
+msgstr "Ефект розмиття"
 
 msgid "DHTab_DetailSettings.RenderDeviceCombo.Caption"
 msgstr "Пристрій рендерингу"
 
 msgid "DHTab_DetailSettings.ScopeDetail.Caption"
-msgstr "Деталі прицілу"
+msgstr "Деталізація прицілу"
 
 msgid "DHTab_DetailSettings.UseVSyncCheckBox.Caption"
-msgstr "VSync (не рекомендується)"
+msgstr "Вертикальна синхронізація (не рекомендовано)"
 
 msgid "DHTab_DetailSettings.VideoColorDepth.Caption"
 msgstr "Глибина кольору"
@@ -1568,31 +1564,32 @@ msgstr "Попередній перегляд"
 
 msgid "DHTab_GameSettings.ManualReloading.Hint"
 msgstr ""
-"Снаряди не перезаряджатимуться, доки ви не натиснете після пострілу, що "
-"корисно, якщо ви вирішите змінити тип набоїв після пострілу"
+"Снаряди не будуть перезаряджатися, поки ви не натиснете кнопку після "
+"пострілу. Це корисно, якщо ви захочете змінити тип снаряда після пострілу"
 
 msgid "DHTab_GameSettings.PurgeCacheDays.Hint"
 msgstr "Як часто видаляти користувацькі завантажені файли з серверів"
 
 msgid "DHTab_GameSettings.ThrottleTanks.Caption"
-msgstr "Інкрементний дросель - Танки"
+msgstr "Ступінчаста ручка газу - Танки"
 
 msgid "DHTab_GameSettings.Netspeed.Hint"
 msgstr ""
-"Ваша максимальна бажана швидкість інтернету, яку використовує гра (у байтах "
-"в секунду). Сервери можуть встановлювати максимальну швидкість для клієнтів, "
-"яка буде перевищувати клієнтську."
+"Максимальна бажана швидкість інтернету, яка використовується грою (у байтах "
+"на секунду). Сервери можуть встановлювати максимальну швидкість клієнта, яка "
+"буде перевизначати клієнти."
 
 msgid "DHTab_Hud.GameHudSimpleColours.Hint"
-msgstr "Тільки червоний/синій кольори командного інтерфейсу, для дальтоніків."
+msgstr ""
+"Червоні/сині кольори Ігрового інтерфейсу (HUD), для гравців із дальтонізмом."
 
 msgid "DHTab_GameSettings.ViewFOV.Hint"
 msgstr ""
-"Яку частину світу можна побачити по всій ширині екрана. Менше поле зору дає "
-"трохи більш наближений вигляд, тоді як більше поле зору - більш віддалений, "
-"але дає додатковий периферійний огляд. Зверніть увагу, що широкоформатний "
-"монітор не дає додаткової ширини огляду; один і той самий вид поширюється на "
-"ширшому екрані, а верхня і нижня частини обрізаються."
+"Яку частину світу можна побачити за шириною екрана. Менше значення поля зору "
+"дає слабке наближення, а більше - віддаляє зображення, але дає додатковий "
+"периферійний зір. Зверніть увагу, що широкоекранний монітор не дає додатково "
+"ширини огляду; поле зору залишиться колишнім, а верх і низ зображення будуть "
+"обрізані."
 
 msgid "DHTab_Hud.ShowChatMessages.Hint"
 msgstr ""
@@ -1600,7 +1597,7 @@ msgstr ""
 "раніше, можна читати в консолі."
 
 msgid "DHTab_Hud.UseTechnicalAmmoNames.Caption"
-msgstr "Використовуйте технічні назви боєприпасів (Танки/ПТ-гармат)"
+msgstr "Використовувати технічні назви боєприпасів (Танки/ПТ-гармати)"
 
 msgid "DHTab_MutatorSP.AvailBackground.Caption"
 msgstr "Доступні мутатори"
@@ -1609,7 +1606,7 @@ msgid "DHTab_Input.InputBK3.Caption"
 msgstr "Відмінне налаштування"
 
 msgid "DHTab_GameSettings.LockTankOnEntry.Caption"
-msgstr "Блокування танка при вході в нього"
+msgstr "Блокувати техніку при вході в неї"
 
 msgid "DHTab_GameSettings.PurgeCacheDaysText[3]"
 msgstr "Користувацький (з ini-файлу) - кожні %NumDays% днів"
@@ -1624,23 +1621,23 @@ msgid "DHTab_GameSettings.NetSpeedText[2]"
 msgstr "Середні ({0})"
 
 msgid "DHTab_GameSettings.BayonetSpawn.Caption"
-msgstr "Відродження з прикріпленим багнетом"
+msgstr "З'являтися з примкнутим багнетом"
 
 msgid "DHTab_GameSettings.BayonetSpawn.Hint"
 msgstr ""
-"Корисно, якщо ви хочете, щоб ваш багнет завжди був прикріплений, і вам не "
-"подобається прикріплювати його щоразу при відтворенні"
+"Корисно, якщо ви хочете, щоб багнет був примкнений до зброї завжди, і вам не "
+"подобається прикріплювати його знову при кожній появі"
 
 msgid "DHTab_GameSettings.DynamicNetspeed.Hint"
 msgstr ""
-"Знизить NetSpeed до 6000 або до досягнення 40 пінгів, корисно для тих, кому "
-"потрібен кращий пінг порівняно зі стабільною NetSpeed"
+"Знизить NetSpeed до 6000 або доти, доки пінг не досягне 40, корисно для тих, "
+"кому важливий кращий пінг порівняно зі стабільним NetSpeed"
 
 msgid "DHTab_GameSettings.GameBK1.Caption"
-msgstr "Ігровий процес"
+msgstr "Геймплей"
 
 msgid "DHTab_GameSettings.GameBK2.Caption"
-msgstr "Транспортний засіб"
+msgstr "Техніка"
 
 msgid "DHTab_GameSettings.GameBK3.Caption"
 msgstr "Мережа"
@@ -1649,13 +1646,13 @@ msgid "DHTab_GameSettings.Incognito.Caption"
 msgstr "Режим інкогніто"
 
 msgid "DHTab_GameSettings.Incognito.Hint"
-msgstr "Не відображати мій статус Спонсора або Розробника в таблиці"
+msgstr "Не відображати мій статус спонсора Patreon або розробника"
 
 msgid "DHTab_GameSettings.LockTankOnEntry.Hint"
 msgstr ""
-"Автоматичне блокування танка (або іншої броньованої машини), коли ви в ньому "
-"з'являєтеся, або якщо ви входите в порожній танк. Це запобігає використанню "
-"позицій екіпажу танка іншими гравцями."
+"Автоматично блокує танк (або іншу бронетехніку) при появі в ньому або при "
+"вході в порожній танк. Це не дозволить іншим гравцям використовувати місця "
+"екіпажу всередині танка."
 
 msgid "DHTab_GameSettings.ManualReloading.Caption"
 msgstr "Ручне перезаряджання танка чи гармати"
@@ -1667,34 +1664,37 @@ msgid "DHTab_GameSettings.NoGore.Caption"
 msgstr "Вимкнути кров"
 
 msgid "DHTab_GameSettings.NoGore.Hint"
-msgstr "Рекомендується зняти цю галочку"
+msgstr "Рекомендується зняти цей прапорець"
 
 msgid "DHTab_GameSettings.PlayerName.Caption"
 msgstr "Ім'я гравця"
 
 msgid "DHTab_GameSettings.PlayersROID.Caption"
 msgstr ""
-"Ви повинні приєднатися до багатокористувацької гри, перш ніж ваш "
-"ідентифікатор з'явиться на екрані"
+"Перш ніж відобразиться ваш ID, необхідно спочатку приєднатися до "
+"багатокористувацької гри"
 
 msgid "DHTab_GameSettings.PurgeCacheDays.Caption"
-msgstr "Очистити кеш"
+msgstr "Очищати кеш"
 
 msgid "DHTab_GameSettings.ThrottleOtherVehicles.Caption"
-msgstr "Інкрементна дросельна заслінка - інші транспортні засоби"
+msgstr "Ступенева ручка газу - інша техніка"
 
 msgid "DHTab_GameSettings.ThrottleOtherVehicles.Hint"
 msgstr ""
-"Використовує дросель для нетанкових транспортних засобів, не рекомендується"
+"Додає покрокову дросельну заслінку для техніки, крім танків (не "
+"рекомендується)"
 
 msgid "DHTab_GameSettings.ThrottleTanks.Hint"
-msgstr "Використовує дросель для танків, корисний для тривалих поїздок"
+msgstr ""
+"Використовує покрокову дросельну заслінку для танків, що корисно під час "
+"тривалих поїздок"
 
 msgid "DHTab_GameSettings.ViewFOV.Caption"
-msgstr "Поле зору"
+msgstr "Поле зору (FOV)"
 
 msgid "DHTab_Hud.GameBK.Caption"
-msgstr "Параметри"
+msgstr "Налаштування"
 
 msgid "DHTab_Hud.GameBK1.Caption"
 msgstr "Стиль"
@@ -1736,19 +1736,19 @@ msgid "DHTab_Hud.ShowChatMessages.Caption"
 msgstr "Показати повідомлення чату"
 
 msgid "DHTab_Hud.ShowCompass.Caption"
-msgstr "Показувати компас"
+msgstr "Показати компас"
 
 msgid "DHTab_Hud.ShowMapFirstSpawn.Caption"
-msgstr "Показати мапу при першому вході на сервер"
+msgstr "Показати карту при першому вході на сервер"
 
 msgid "DHTab_Hud.ShowRallyPoint.Caption"
 msgstr "Показати статус точки збору загону"
 
 msgid "DHTab_Hud.UseNativeRoleNames.Caption"
-msgstr "Використовувати рідні імена ролей"
+msgstr "Використовувати рідні назви військ"
 
 msgid "DHTab_Hud.UseNativeItemNames.Caption"
-msgstr "Використовувати рідні предметів"
+msgstr "Використовувати рідні назви ролей і військ"
 
 msgid "DHTab_Hud.myGameHudOpacity.Caption"
 msgstr "Прозорість інтерфейсу"
@@ -1760,10 +1760,10 @@ msgid "DHTab_Input.InputAutoSlope.Caption"
 msgstr "Автоматичний нахил"
 
 msgid "DHTab_Input.InputBK1.Caption"
-msgstr "Параметри"
+msgstr "Налаштування"
 
 msgid "DHTab_Input.InputInvertMouse.Caption"
-msgstr "Інвертована миша"
+msgstr "Інвертувати мишу"
 
 msgid "DHTab_Input.InputIronSightBipodFactor.Caption"
 msgstr "Коефіцієнт чутливості сошок"
@@ -1784,7 +1784,7 @@ msgid "DHTab_Input.InputMouseLag.Hint"
 msgstr "Увімкнення цієї опції зменшить затримку миші."
 
 msgid "DHTab_Input.InputMousePollRate.Caption"
-msgstr "Швидкість опитування мишею"
+msgstr "Швидкість відгуку миші"
 
 msgid "DHTab_Input.InputMouseSensitivity.Caption"
 msgstr "Чутливість миші (Гра)"
@@ -1796,10 +1796,10 @@ msgid "DHTab_Input.InputMouseSmoothing.Caption"
 msgstr "Згладжування миші"
 
 msgid "DHTab_Input.InputScopedFactor.Caption"
-msgstr "Масштаб і коефіцієнт бінокулярної чутливості"
+msgstr "Коефіцієнт чутливості оптичних прицілів і біноклів"
 
 msgid "DHTab_Input.InputUseJoystick.Caption"
-msgstr "Увімкнути джойстик"
+msgstr "Використовувати джойстик"
 
 msgid "DHTab_MainSP.DifficultyCombo.Caption"
 msgstr "Складність"
@@ -1808,7 +1808,7 @@ msgid "DHTab_MainSP.MapAuthorLabel.Caption"
 msgstr "Тестування"
 
 msgid "DHTab_MainSP.MaplistButton.ButtonCaption"
-msgstr "Конфігурація списку мап"
+msgstr "Параметри списку карт"
 
 msgid "DHTab_MainSP.NoPreview.Caption"
 msgstr "Попередній перегляд недоступний"
@@ -1817,7 +1817,7 @@ msgid "DHTab_MainSP.OptionsContainer.Caption"
 msgstr "Параметри"
 
 msgid "DHTab_MainSP.RecommendedPlayers.Caption"
-msgstr "Найкраще підходить для 4-8 гравців"
+msgstr "Найкраще всього для 4-8 гравців"
 
 msgid "DHTab_MainSP.ScrollSection.Caption"
 msgstr "Опис карти"
@@ -1829,7 +1829,7 @@ msgid "DHTab_MutatorSP.ActiveBackground.Caption"
 msgstr "Активні мутатори"
 
 msgid "DHTab_MutatorSP.DescriptionBackground.Caption"
-msgstr "Деталі про мутатора"
+msgstr "Деталі мутатора"
 
 msgid "DHTab_MutatorSP.IAMutatorAdd.Caption"
 msgstr "Додати"
@@ -1844,7 +1844,9 @@ msgid "DHTab_MutatorSP.IAMutatorConfig.Caption"
 msgstr "Налаштування мутаторів"
 
 msgid "DHMidGameVoiceChat.NOSPEECH.Hint"
-msgstr "Не отримувати жодних голосових команд від цього гравця"
+msgstr ""
+"Не отримувати жодних голосових команд, як наприклад \"В укриття!\", від "
+"цього гравця"
 
 msgid "DHCreditsPage.LevelDesignersText"
 msgstr "Розробники рівней"
@@ -1856,10 +1858,10 @@ msgid "DHMapVoteMultiColumnList.ColumnHeadings<4>"
 msgstr "Розмір карти"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<4>"
-msgstr "Рекомендована кількість гравців для карти."
+msgstr "Рекомендована кількість гравців для цієї карти."
 
 msgid "DHCreditsPage.PastPatreonSupportersText"
-msgstr "Останні підтримавши на Patreon"
+msgstr "Останні, хто підтримав на Patreon"
 
 msgid "DHCommunicationPage.Panels<0>.Hint"
 msgstr "Керувати спілкуванням з іншими гравцями"
