@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-03 13:39+0000\n"
+"PO-Revision-Date: 2024-02-12 13:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/uk/>\n"
@@ -29,13 +29,13 @@ msgid "DH_BT7Tank.VehicleNameString"
 msgstr "БТ-7"
 
 msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<2>"
-msgstr "Дим"
+msgstr "Білий фосфор"
 
 msgid "DH_Fiat626TruckSupport.VehicleNameString"
-msgstr "Fiat 626 (Логістика)"
+msgstr "Фіат 626 (Постачання)"
 
 msgid "DH_Fiat626TruckTransport.VehicleNameString"
-msgstr "Fiat 626 (Транспорт)"
+msgstr "Фіат 626 (Транспорт)"
 
 msgid "DH_CromwellCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
@@ -44,7 +44,7 @@ msgid "DH_CromwellCannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_CromwellCannon.ProjectileDescriptions<2>"
-msgstr "Дим"
+msgstr "Білий фосфор"
 
 msgid "DH_BT7Cannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
@@ -56,19 +56,19 @@ msgid "DH_GAZ67Vehicle.VehicleNameString"
 msgstr "ГАЗ-67"
 
 msgid "DH_GMCTruckSupport.VehicleNameString"
-msgstr "GMC CCKW (Логістика)"
+msgstr "GMC CCKW (Постачання)"
 
 msgid "DH_GMCTruckTransport.VehicleNameString"
 msgstr "GMC CCKW (Транпорт)"
 
 msgid "DH_GreyhoundArmoredCar_British.VehicleNameString"
-msgstr "Бронеавтомобіль Greyhound"
+msgstr "Бронеавтомобіль Грейхаунд"
 
 msgid "DH_GreyhoundArmoredCar.VehicleNameString"
 msgstr "Бронеавтомобіль M8"
 
 msgid "DH_HetzerCannon.ProjectileDescriptions<2>"
-msgstr "Дим"
+msgstr "Димовий"
 
 msgid "DH_HigginsBoat.VehicleNameString"
 msgstr "Човен Гіггінса"
@@ -116,7 +116,7 @@ msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_ZiS5vTruckTransport.VehicleNameString"
-msgstr "ЗІС-5М (Траспорт)"
+msgstr "ЗіС-5М (Траспорт)"
 
 msgid "DH_IS2Cannon_Late.nProjectileDescriptions<0>"
 msgstr "БР-471Б"
@@ -242,10 +242,10 @@ msgid "DH_LocustCannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_KV1ETank.VehicleNameString"
-msgstr "КВ-1Е"
+msgstr "КВ-1Є"
 
 msgid "DH_KV1sTank.VehicleNameString"
-msgstr "КВ-1С"
+msgstr "КВ-1с"
 
 msgid "DH_LocustCannon.ProjectileDescriptions<2>"
 msgstr "Картеч"
@@ -287,10 +287,10 @@ msgid "DH_PanzerIIINCannon.ProjectileDescriptions<2>"
 msgstr "Картеч"
 
 msgid "DH_OpelBlitzSupport.VehicleNameString"
-msgstr "Opel Blitz (Логістика)"
+msgstr "Опель Бліц (Постачання)"
 
 msgid "DH_OpelBlitzTransport.VehicleNameString"
-msgstr "Opel Blitz (Траспорт)"
+msgstr "Опель Бліц (Траспорт)"
 
 msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
@@ -353,7 +353,7 @@ msgid "DH_ShermanCannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_ShermanCannon.ProjectileDescriptions<2>"
-msgstr "Дим"
+msgstr "Білий Фосфор"
 
 msgid "DH_ShermanCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
@@ -380,7 +380,7 @@ msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions<0>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions<1>"
-msgstr "Дим"
+msgstr "Білий Фосфор"
 
 msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions<2>"
 msgstr "Комулятивний (HEAT)"
@@ -392,7 +392,7 @@ msgid "DH_ShermanCannon_M4A3E2_Jumbo.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_ShermanCannon_M4A3E2_Jumbo.ProjectileDescriptions<2>"
-msgstr "Дим"
+msgstr "Білий Фосфор"
 
 msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
@@ -407,7 +407,7 @@ msgid "DH_Sdkfz2342ArmoredCar.VehicleNameString"
 msgstr "Бронеавтомобіль Sd.Kfz.234/2"
 
 msgid "DH_Sdkfz251Transport.VehicleNameString"
-msgstr "Бронетранспортер Sd.Kfz.251"
+msgstr "Напівгусеничний БТР Sd.Kfz.251"
 
 msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
@@ -485,16 +485,16 @@ msgid "DH_WolverineCannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_T3476Tank.VehicleNameString"
-msgstr "Т-34-76"
+msgstr "Т-34-76 (Обр. 1940р.)"
 
 msgid "DH_T3476_42Tank.VehicleNameString"
-msgstr "Т-34-76 зр. 1942"
+msgstr "Т-34-76 (Обр. 1942р.)"
 
 msgid "DH_T3476_43Tank.VehicleNameString"
-msgstr "Т-34-76 зр. 1943"
+msgstr "T-34-76 (Обр. 1943р.)"
 
 msgid "DH_T3485Tank.VehicleNameString"
-msgstr "Т-34-85"
+msgstr "Т-34-85 (Обр. 1944)"
 
 msgid "DH_T60Tank.VehicleNameString"
 msgstr "Легкий танк Т-60"
@@ -503,7 +503,7 @@ msgid "DH_WolverineCannon_Early.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
 
 msgid "DH_ZiS5vTruck.VehicleNameString"
-msgstr "ЗІС-5В"
+msgstr "ЗіС-5В"
 
 msgid "DH_WolverineCannon_Early.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
@@ -512,19 +512,19 @@ msgid "DH_WolverineCannon_Early.ProjectileDescriptions<2>"
 msgstr "Дим"
 
 msgid "DH_ZiS5vTruckSupport.VehicleNameString"
-msgstr "ЗІС-5В (Логістика)"
+msgstr "ЗіС-5В (Постачання)"
 
 msgid "DH_JacksonTank.VehicleNameString"
-msgstr "M36 Джексон"
+msgstr "ПТ-САУ M36 \"Джексон\""
 
 msgid "DH_PantherGTank.VehicleNameString"
-msgstr "Panzer V 'Пантера' Ausf.G"
+msgstr "Panzer V \"Пантера\" Ausf.G"
 
 msgid "DH_ShermanTankA_M4A176W.VehicleNameString"
-msgstr "M4A1(76) Шерман"
+msgstr "Шерман M4A1(76)"
 
 msgid "DH_ShermanTank_M4A3E8_Fury.VehicleNameString"
-msgstr "Sherman M4A3E8 'Лють'"
+msgstr "Шерман M4A3E8 \"Лють\""
 
 msgid "DH_50CalDamType.FemaleSuicide"
 msgstr "%o була вбита своїм кулеметом калібру .50 калібру."
@@ -533,7 +533,7 @@ msgid "DH_ChurchillMkVIITank.VehicleNameString"
 msgstr "Черчилль Mk.VII"
 
 msgid "DH_HetzerVehicleMessage.MGBlockingHatch"
-msgstr "MG блокує люк - поверніть його вбік, щоб відкрити"
+msgstr "Кулемет блокує люк - поверніть його вбік, щоб відкрити"
 
 msgid "DH_PanzerIVF1CannonPawn.VehiclePositionString"
 msgstr "в гарматі Panzer IV F1"
@@ -542,46 +542,46 @@ msgid "DH_PanzerIVGEarlyTank.VehicleNameString"
 msgstr "Panzer IV Ausf.G"
 
 msgid "DH_ShermanFireflyTank.VehicleNameString"
-msgstr "Sherman Mk.VC 'Світлячок'"
+msgstr "Шерман Mk.VC \"Світлячок\""
 
 msgid "DH_WolverineTank.VehicleNameString"
-msgstr "M10 Росомаха"
+msgstr "ПТ-САУ M10 \"Росомаха\""
 
 msgid "DH_JagdpantherTank.VehicleNameString"
-msgstr "Jagdpanzer V 'Ягдпантера'"
+msgstr "ПТ-САУ Jagdpanzer. V \"Ягдпантера\""
 
 msgid "DH_LocustTank.VehicleNameString"
-msgstr "М22 «Саранча» **WIP**"
+msgstr "М22 Саранча **WIP**"
 
 msgid "DH_50CalDamType.DeathString"
-msgstr "%o був убитий з кулемета .50 калібру %k."
+msgstr "%o був убитий %k з кулемета .50 калібру."
 
 msgid "DH_50CalDamType.MaleSuicide"
 msgstr "%o був убитий своїм кулеметом калібру .50 калібру."
 
 msgid "DH_AchillesTank.VehicleNameString"
-msgstr "Achilles Mk.IC"
+msgstr "ПТ-САУ Mk.IC \"Ахіллес\""
 
 msgid "DH_Autoblinda43ArmoredCar.VehicleNameString"
-msgstr "Автоблінда 43"
+msgstr "Бронеавтомобіль AB.43"
 
 msgid "DH_AutoblindaArmoredCar.VehicleNameString"
-msgstr "Автоблінда 41"
+msgstr "Бронеавтомобіль AB.41"
 
 msgid "DH_BesaDamType.DeathString"
-msgstr "%o був убитий з кулемета Беса %k."
+msgstr "%o був убитий %k з кулемета Беса."
 
 msgid "DH_BesaDamType.FemaleSuicide"
 msgstr "%o була вбита власним кулеметом Беса."
 
 msgid "DH_BesaDamType.MaleSuicide"
-msgstr "%o загинув від власного кулемета Беса."
+msgstr "%o був убитий із власного кулемета Беса."
 
 msgid "DH_BrenCarrierTransport.VehicleNameString"
-msgstr "Bren Carrier Mk.I"
+msgstr "Універсальний транспортер Mk.I"
 
 msgid "DH_CV33Tank.VehicleNameString"
-msgstr "Carro Armato L3/33"
+msgstr "Танкетка L3/33"
 
 msgid "DH_Cromwell6PdrTank.VehicleNameString"
 msgstr "Кромвель Mk.I"
@@ -593,13 +593,13 @@ msgid "DH_CromwellTank.VehicleNameString"
 msgstr "Кромвель Mk.IV"
 
 msgid "DH_DUKW.VehicleNameString"
-msgstr "DUKW"
+msgstr "Амфібія DUKW"
 
 msgid "DH_DUKWSupport.VehicleNameString"
-msgstr "DUKW (Підтримка)"
+msgstr "Амфібія DUKW (Підтримка)"
 
 msgid "DH_Fiat626Truck.VehicleNameString"
-msgstr "Fiat 626"
+msgstr "Фіат 626"
 
 msgid "DH_GMCTruck.VehicleNameString"
 msgstr "GMC CCKW"
@@ -608,47 +608,49 @@ msgid "DH_GermanCarrierTransport.VehicleNameString"
 msgstr "Брен 731(e)"
 
 msgid "DH_HellcatTank.VehicleNameString"
-msgstr "М18 Пекельна кішка"
+msgstr "ПТ-САУ М18 \"Пекельна кішка\""
 
 msgid "DH_HetzerDestroyer.VehicleNameString"
-msgstr "Jagdpanzer 38(t) 'Хетцер'"
+msgstr "ПТ-САУ Jagdpanzer 38(t) \"Хетцер\""
 
 msgid "DH_JagdpanzerIVL48Destroyer.VehicleNameString"
-msgstr "Jagdpanzer IV/48"
+msgstr "ПТ-САУ Jagdpanzer.IV/48"
 
 msgid "DH_JagdpanzerIVL70Destroyer.VehicleNameString"
-msgstr "Jagdpanzer IV/70(V)"
+msgstr "ПТ-САУ Jagdpanzer. IV/70 (V)"
 
 msgid "DH_JagdtigerTank.VehicleNameString"
-msgstr "Jagdpanzer VI 'Jagdtiger' Ausf.B"
+msgstr "ПТ-САУ Panzerjäger Tiger Ausf. B \"Ягдтигр\""
 
 msgid "DH_KubelwagenCar_WH.VehicleNameString"
-msgstr "Фольцваген Тип 82"
+msgstr "Фольксваген Тип 82"
 
 msgid "DH_M16Halftrack.VehicleNameString"
-msgstr "Напівгусеничний М16"
+msgstr "Зенітна САУ М16"
 
 msgid "DH_M3A1HalftrackTransport.VehicleNameString"
-msgstr "Напівгусеничний M3A1"
+msgstr "Напівгусеничний БТР M3A1"
 
 msgid "DH_M7Priest.VehicleNameString"
-msgstr "M7 Священик"
+msgstr "M7 «Священик»"
 
 msgid "DH_Marder3MDestroyer.VehicleNameString"
-msgstr "Marder III Ausf.M"
+msgstr "ПТ-САУ Marder III Ausf.M"
 
 msgid "DH_OpelBlitz.VehicleNameString"
 msgstr "Опель Бліц"
 
 msgid "DH_PantherDTank.VehicleNameString"
-msgstr "Panzer V 'Пантера' Ausf.D"
+msgstr "Panzer V \"Пантера\" Ausf.D"
 
 msgid "DH_PanzerIIIJTank.VehicleNameString"
 msgstr "Panzer III Ausf.J"
 
+#, fuzzy
 msgid "DH_PanzerIIILTank.VehicleNameString"
 msgstr "Panzer III Ausf.L"
 
+#, fuzzy
 msgid "DH_PanzerIIILTank_Camo.VehicleNameString"
 msgstr "Panzer III Ausf.M"
 
@@ -677,22 +679,22 @@ msgid "DH_SdKfz2519DTransport.VehicleNameString"
 msgstr "Sd.Kfz.251/9 Ausf.D Stummel"
 
 msgid "DH_SdKfz251_22Transport.VehicleNameString"
-msgstr "Sd.Kfz.251/22 Напівгусеничний"
+msgstr "Напівгусеничний БТР Sd.Kfz.251/22"
 
 msgid "DH_Sdkfz105Transport.VehicleNameString"
-msgstr "Sd.Kfz. 10/5"
+msgstr "Зенітна САУ Sd.Kfz. 10/5"
 
 msgid "DH_Semovente9053Destroyer.VehicleNameString"
-msgstr "Semovente da 90/53"
+msgstr "ПТ-САУ Semovente da 90/53"
 
 msgid "DH_ShermanTank.VehicleNameString"
-msgstr "M4A1(75) Шерман"
+msgstr "Шерман M4A1(75)"
 
 msgid "DH_ShermanTank_British.VehicleNameString"
 msgstr "Шерман Mk.II"
 
 msgid "DH_ShermanTank_DDay.VehicleNameString"
-msgstr "M4A1(75) Шерман DD"
+msgstr "Шерман M4A1(75) DD"
 
 msgid "DH_ShermanTank_M4A275W_Soviet.VehicleNameString"
 msgstr "M4A2(75)W"
@@ -701,31 +703,31 @@ msgid "DH_ShermanTank_M4A276W_Soviet.VehicleNameString"
 msgstr "M4A2(76)W"
 
 msgid "DH_ShermanTank_M4A3105_Howitzer.VehicleNameString"
-msgstr "M4A3(105) Шерман"
+msgstr "Шерман M4A3(105)"
 
 msgid "DH_ShermanTank_M4A375W.VehicleNameString"
-msgstr "M4A3(75)W Шерман"
+msgstr "Шерман M4A3(75)W"
 
 msgid "DH_ShermanTank_M4A376W.VehicleNameString"
-msgstr "M4A3(76)W Шерман"
+msgstr "Шерман M4A3(76)W"
 
 msgid "DH_ShermanTank_M4A3E2_Jumbo.VehicleNameString"
-msgstr "M4A3E2(75)W Шерман"
+msgstr "Шерман M4A3E2(75)W"
 
 msgid "DH_ShermanTank_M4A3E8.VehicleNameString"
 msgstr "Шерман M4A3E8"
 
 msgid "DH_ShermanTank_M4A3E8_ZombieSlayer.VehicleNameString"
-msgstr "Sherman M4A3E8 'Вбивця зомбі'"
+msgstr "Шерман M4A3E8 \"Вбивця зомбі\""
 
 msgid "DH_StuH42Destroyer.VehicleNameString"
-msgstr "StuH42 Ausf.G"
+msgstr "САУ StuH42 Ausf.G"
 
 msgid "DH_StuartTank.VehicleNameString"
-msgstr "M5 Stuart"
+msgstr "M5 Стюарт"
 
 msgid "DH_StuartTank_British.VehicleNameString"
-msgstr "Stuart Mk.VI"
+msgstr "Стюарт Mk.VI"
 
 msgid "DH_Stug3GDestroyer.VehicleNameString"
 msgstr "StuG III Ausf.G"
@@ -746,28 +748,28 @@ msgid "DH_T_4GEarlyTank.VehicleNameString"
 msgstr "T-IV mod.G"
 
 msgid "DH_T_5GTank.VehicleNameString"
-msgstr "T-V 'Пантера' mod.G"
+msgstr "T-V \"Пантера\" mod.G"
 
 msgid "DH_Tiger2BTank.VehicleNameString"
-msgstr "Panzer VI 'Королівський тигр' Ausf.B"
+msgstr "Panzer VI Ausf.B \"Королівський тигр\""
 
 msgid "DH_TigerTank.VehicleNameString"
-msgstr "Panzer VI 'Тигр' Ausf.E"
+msgstr "Panzer VI Ausf.E \"Тигр\""
 
 msgid "DH_TigerTank_Butcher.VehicleNameString"
-msgstr "Panzer VI Ausf.E 'М'ясник'"
+msgstr "Panzer VI Ausf.E \"М'ясник\""
 
 msgid "DH_UniversalCarrierTransport.VehicleNameString"
-msgstr "Універсальний перевізник"
+msgstr "Універсальний транспортер"
 
 msgid "DH_WillysJeep.VehicleNameString"
-msgstr "Джип Вілліс MB"
+msgstr "Джип Вілліс MБ"
 
 msgid "DH_WirbelwindTank.VehicleNameString"
-msgstr "Flakpanzer IV 'Вихор'"
+msgstr "2 см Flak auf Pz.IV \"Вірбельвінд\""
 
 msgid "DH_WolverineTank_British.VehicleNameString"
-msgstr "Росомаха SP"
+msgstr "ПТ-САУ Росомаха SP"
 
 msgid "DH_PanzerIVHCannon.nProjectileDescriptions<1>"
 msgstr "Sprgr.Patr.34"
@@ -779,4 +781,500 @@ msgid "DH_PanzerIVHCannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
 
 msgid "DH_AchillesCannon.nProjectileDescriptions<0>"
-msgstr "БТР Mk.IV"
+msgstr "Mk.IV APC"
+
+#, fuzzy
+msgid "DH_ShermanCannon_M4A3105_Howitzer.nProjectileDescriptions<0>"
+msgstr "M1 HE-T"
+
+msgid "DH_AchillesCannon.nProjectileDescriptions<1>"
+msgstr "Mk.I APDS"
+
+msgid "DH_AchillesCannon.nProjectileDescriptions<2>"
+msgstr "Mk.I HE-T"
+
+msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.38"
+
+msgid "DH_BT7Cannon.nProjectileDescriptions<1>"
+msgstr "O-240"
+
+msgid "DH_Cromwell95mmCannon.nProjectileDescriptions<0>"
+msgstr "Mk.IA HE-T"
+
+msgid "DH_HellcatCannon.nProjectileDescriptions<2>"
+msgstr "M42A1 HE-T"
+
+#, fuzzy
+msgid "DH_HetzerCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_HetzerCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+msgid "DH_HetzerCannon.nProjectileDescriptions<2>"
+msgstr "Nbgr.Kw.K"
+
+msgid "DH_JacksonCannon.nProjectileDescriptions<0>"
+msgstr "M82 APC"
+
+msgid "DH_JacksonCannon.nProjectileDescriptions<2>"
+msgstr "M71 HE-T"
+
+#, fuzzy
+msgid "DH_JacksonCannon_Early.nProjectileDescriptions<1>"
+msgstr "M77 AP-T"
+
+msgid "DH_JagdpanzerIVL48Cannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+msgid "DH_JagdpanzerIVL70Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39/42"
+
+#, fuzzy
+msgid "DH_JagdpanzerIVL70Cannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Patr.42"
+
+msgid "DH_KV1sCannon_Late.nProjectileDescriptions<0>"
+msgstr "BР-350Б"
+
+msgid "DH_LocustCannon.nProjectileDescriptions<0>"
+msgstr "M51B1 APC"
+
+msgid "DH_LocustCannon.nProjectileDescriptions<2>"
+msgstr "M2 Картеч"
+
+msgid "DH_PanzerIIIJCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+#, fuzzy
+msgid "DH_PanzerIIINCannon.nProjectileDescriptions<2>"
+msgstr "Kt.Kw.K"
+
+#, fuzzy
+msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<0>"
+msgstr "M62 APC"
+
+#, fuzzy
+msgid "DH_ShermanFireFlyCannon.nProjectileDescriptions<0>"
+msgstr "Mk.IV APC"
+
+#, fuzzy
+msgid "DH_Stug3GCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+#, fuzzy
+msgid "DH_Stug3GCannon.nProjectileDescriptions<2>"
+msgstr "Nbgr.Kw.K"
+
+msgid "DH_T3476_42Cannon.nProjectileDescriptions<0>"
+msgstr "БР-350БСП"
+
+msgid "DH_T3485Cannon_Berlin.nProjectileDescriptions<1>"
+msgstr "БР-365П"
+
+#, fuzzy
+msgid "DH_Tiger2BCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39/43"
+
+msgid "DH_WolverineCannon_Early.nProjectileDescriptions<1>"
+msgstr "M42A1 HE-T"
+
+msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Autoblinda43Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Autoblinda43Cannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.38"
+
+msgid "DH_BT7Cannon.nProjectileDescriptions<0>"
+msgstr "БР-240"
+
+msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<0>"
+msgstr "M61 APC"
+
+msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<1>"
+msgstr "M48 HE-T"
+
+msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<2>"
+msgstr "M89 WP"
+
+msgid "DH_Cromwell6PdrCannon.nProjectileDescriptions<0>"
+msgstr "Mk.IX APC"
+
+msgid "DH_Cromwell6PdrCannon.nProjectileDescriptions<1>"
+msgstr "Mk.X HE-T"
+
+msgid "DH_Cromwell95mmCannon.nProjectileDescriptions<1>"
+msgstr "Mk.IA SMK-BE"
+
+msgid "DH_Cromwell95mmCannon.nProjectileDescriptions<2>"
+msgstr "Mk.I HEAT"
+
+msgid "DH_CromwellCannon.nProjectileDescriptions<0>"
+msgstr "M61 APC"
+
+msgid "DH_CromwellCannon.nProjectileDescriptions<1>"
+msgstr "M48 HE-T"
+
+msgid "DH_CromwellCannon.nProjectileDescriptions<2>"
+msgstr "M64 WP"
+
+msgid "DH_Flak38Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.+Sprgr.39"
+
+msgid "DH_Flak38Cannon.nProjectileDescriptions<1>"
+msgstr "PzGr."
+
+msgid "DH_Flak38Cannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.39"
+
+msgid "DH_GreyhoundCannon.nProjectileDescriptions<0>"
+msgstr "M51B1 APC"
+
+msgid "DH_GreyhoundCannon.nProjectileDescriptions<1>"
+msgstr "M63 HE-T"
+
+msgid "DH_GreyhoundCannon.nProjectileDescriptions<2>"
+msgstr "Картечь M2"
+
+msgid "DH_HellcatCannon.nProjectileDescriptions<0>"
+msgstr "M62 APC"
+
+msgid "DH_HellcatCannon.nProjectileDescriptions<1>"
+msgstr "M93 HVAP"
+
+msgid "DH_JacksonCannon.nProjectileDescriptions<1>"
+msgstr "M304 HVAP"
+
+#, fuzzy
+msgid "DH_JacksonCannon_Early.nProjectileDescriptions<0>"
+msgstr "M82 APC"
+
+#, fuzzy
+msgid "DH_JacksonCannon_Early.nProjectileDescriptions<2>"
+msgstr "M71 HE-T"
+
+msgid "DH_JagdpantherCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39/43"
+
+msgid "DH_JagdpantherCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr."
+
+msgid "DH_JagdpanzerIVL48Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_JagdpanzerIVL48Cannon.nProjectileDescriptions<2>"
+msgstr "Nbgr.Kw.K"
+
+#, fuzzy
+msgid "DH_JagdpanzerIVL70Cannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40/42"
+
+msgid "DH_JagdtigerCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_JagdtigerCannon.nProjectileDescriptions<1>"
+msgstr "Schw.Spgr.Patr"
+
+msgid "DH_KV1sCannon.nProjectileDescriptions<0>"
+msgstr "БР-350БСП"
+
+msgid "DH_KV1sCannon.nProjectileDescriptions<1>"
+msgstr "OФ-350"
+
+msgid "DH_KV1sCannon_Late.nProjectileDescriptions<1>"
+msgstr "OФ-350"
+
+msgid "DH_KV1sCannon_Late.nProjectileDescriptions<2>"
+msgstr "БР-350П"
+
+msgid "DH_LocustCannon.nProjectileDescriptions<1>"
+msgstr "M63 HE-T"
+
+msgid "DH_M7PriestCannon.nProjectileDescriptions<0>"
+msgstr "M1 HE-T"
+
+msgid "DH_M7PriestCannon.nProjectileDescriptions<1>"
+msgstr "M60 WP"
+
+msgid "DH_M7PriestCannon.nProjectileDescriptions<2>"
+msgstr "M67 HEAT"
+
+msgid "DH_Marder3MCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Marder3MCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+msgid "DH_PantherDCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39/42"
+
+msgid "DH_PantherDCannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40/42"
+
+msgid "DH_PantherDCannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Patr.42"
+
+msgid "DH_PanzerIIIJCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.38"
+
+#, fuzzy
+msgid "DH_PanzerIIILCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+#, fuzzy
+msgid "DH_PanzerIIILCannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40"
+
+#, fuzzy
+msgid "DH_PanzerIIILCannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Patr.38"
+
+#, fuzzy
+msgid "DH_PanzerIIINCannon.nProjectileDescriptions<0>"
+msgstr "Sprgr.Kw.K."
+
+msgid "DH_PanzerIIINCannon.nProjectileDescriptions<1>"
+msgstr "Gr.38 Hl/С"
+
+#, fuzzy
+msgid "DH_PanzerIVF1Cannon.nProjectileDescriptions<0>"
+msgstr "K.Gr.rot Pz."
+
+#, fuzzy
+msgid "DH_PanzerIVF1Cannon.nProjectileDescriptions<1>"
+msgstr "Gr.38 Hl/B"
+
+#, fuzzy
+msgid "DH_PanzerIVF1Cannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Kw.K."
+
+#, fuzzy
+msgid "DH_PanzerIVGEarlyCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+#, fuzzy
+msgid "DH_PanzerIVGEarlyCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+#, fuzzy
+msgid "DH_PanzerIVGEarlyCannon.nProjectileDescriptions<2>"
+msgstr "Gr.38 Hl/B"
+
+#, fuzzy
+msgid "DH_PanzerIVGLateCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+#, fuzzy
+msgid "DH_PanzerIVGLateCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+msgid "DH_PanzerIVGLateCannon.nProjectileDescriptions<2>"
+msgstr "Gr.38 Hl/С"
+
+msgid "DH_SU76Cannon.nProjectileDescriptions<0>"
+msgstr "БР-350Б"
+
+msgid "DH_SU76Cannon.nProjectileDescriptions<1>"
+msgstr "OФ-350"
+
+msgid "DH_SU76Cannon.nProjectileDescriptions<2>"
+msgstr "БР-350П"
+
+#, fuzzy
+msgid "DH_SdKfz2519DCannon.nProjectileDescriptions<0>"
+msgstr "Sprgr.Kw.K."
+
+#, fuzzy
+msgid "DH_SdKfz2519DCannon.nProjectileDescriptions<1>"
+msgstr "Gr.38 Hl/C"
+
+#, fuzzy
+msgid "DH_SdKfz2519DCannon.nProjectileDescriptions<2>"
+msgstr "Nbgr.Kw.K."
+
+msgid "DH_Sdkfz2341Cannon.nProjectileDescriptions<0>"
+msgstr "Pzgr. L'spur"
+
+msgid "DH_Sdkfz2341Cannon.nProjectileDescriptions<1>"
+msgstr "Sprgr. L'spur"
+
+#, fuzzy
+msgid "DH_Sdkfz2341Cannon.nProjectileDescriptions<2>"
+msgstr "Pzgr. 40 L'spur"
+
+#, fuzzy
+msgid "DH_Sdkfz2342Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+#, fuzzy
+msgid "DH_Sdkfz2342Cannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.38"
+
+msgid "DH_Semovente9053Cannon.nProjectileDescriptions<0>"
+msgstr "Granata Perforante da 90"
+
+msgid "DH_Semovente9053Cannon.nProjectileDescriptions<1>"
+msgstr "Granata da 90"
+
+msgid "DH_ShermanCannon.nProjectileDescriptions<0>"
+msgstr "M61 APC"
+
+msgid "DH_ShermanCannon.nProjectileDescriptions<1>"
+msgstr "M48 HE-T"
+
+msgid "DH_ShermanCannon.nProjectileDescriptions<2>"
+msgstr "M64 WP"
+
+msgid "DH_ShermanCannonA_76mm.nProjectileDescriptions<0>"
+msgstr "M62 APC"
+
+#, fuzzy
+msgid "DH_ShermanCannonA_76mm.nProjectileDescriptions<1>"
+msgstr "M93 HVAP"
+
+#, fuzzy
+msgid "DH_ShermanCannonA_76mm.nProjectileDescriptions<2>"
+msgstr "M42A1 HE-T"
+
+#, fuzzy
+msgid "DH_ShermanCannonA_76mm_Early.nProjectileDescriptions<0>"
+msgstr "M62 APC"
+
+#, fuzzy
+msgid "DH_ShermanCannonA_76mm_Early.nProjectileDescriptions<1>"
+msgstr "M42A1 HE-T"
+
+#, fuzzy
+msgid "DH_ShermanCannonA_76mm_Early.nProjectileDescriptions<2>"
+msgstr "M88 HC"
+
+#, fuzzy
+msgid "DH_ShermanCannon_M4A3105_Howitzer.nProjectileDescriptions<1>"
+msgstr "M60 WP"
+
+#, fuzzy
+msgid "DH_ShermanCannon_M4A3105_Howitzer.nProjectileDescriptions<2>"
+msgstr "M67 HEAT"
+
+#, fuzzy
+msgid "DH_ShermanCannon_M4A3E2_Jumbo.nProjectileDescriptions<0>"
+msgstr "M61 APC"
+
+#, fuzzy
+msgid "DH_ShermanCannon_M4A3E2_Jumbo.nProjectileDescriptions<1>"
+msgstr "M48 HE-T"
+
+#, fuzzy
+msgid "DH_ShermanCannon_M4A3E2_Jumbo.nProjectileDescriptions<2>"
+msgstr "M64 WP"
+
+#, fuzzy
+msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<1>"
+msgstr "M42 HE"
+
+#, fuzzy
+msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<2>"
+msgstr "M88 HC"
+
+#, fuzzy
+msgid "DH_ShermanFireFlyCannon.nProjectileDescriptions<1>"
+msgstr "Mk.I APDS"
+
+#, fuzzy
+msgid "DH_ShermanFireFlyCannon.nProjectileDescriptions<2>"
+msgstr "Mk.I HE-T"
+
+#, fuzzy
+msgid "DH_StuH42Cannon.nProjectileDescriptions<0>"
+msgstr "F.H.Gr."
+
+#, fuzzy
+msgid "DH_StuH42Cannon.nProjectileDescriptions<1>"
+msgstr "F.H.Gr.Nb."
+
+#, fuzzy
+msgid "DH_StuH42Cannon.nProjectileDescriptions<2>"
+msgstr "Gr.39 Hl/C"
+
+msgid "DH_StuartCannon.nProjectileDescriptions<0>"
+msgstr "M51B1 APC"
+
+#, fuzzy
+msgid "DH_StuartCannon.nProjectileDescriptions<1>"
+msgstr "M63 HE-T"
+
+msgid "DH_StuartCannon.nProjectileDescriptions<2>"
+msgstr "M2 Картеч"
+
+#, fuzzy
+msgid "DH_Stug3GCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+msgid "DH_T3476Cannon.nProjectileDescriptions<0>"
+msgstr "БР-350A"
+
+msgid "DH_T3476Cannon.nProjectileDescriptions<1>"
+msgstr "OФ-350"
+
+msgid "DH_T3476_42Cannon.nProjectileDescriptions<1>"
+msgstr "OФ-350"
+
+msgid "DH_T3476_43Cannon.nProjectileDescriptions<0>"
+msgstr "БР-350Б"
+
+msgid "DH_T3476_43Cannon.nProjectileDescriptions<1>"
+msgstr "OФ-350"
+
+msgid "DH_T3476_43Cannon.nProjectileDescriptions<2>"
+msgstr "БР-350П"
+
+msgid "DH_T3485Cannon.nProjectileDescriptions<0>"
+msgstr "БР-365"
+
+msgid "DH_T3485Cannon.nProjectileDescriptions<1>"
+msgstr "БР-365П"
+
+#, fuzzy
+msgid "DH_T3485Cannon.nProjectileDescriptions<2>"
+msgstr "O-365"
+
+msgid "DH_T3485Cannon_Berlin.nProjectileDescriptions<0>"
+msgstr "БР-365Б"
+
+#, fuzzy
+msgid "DH_T3485Cannon_Berlin.nProjectileDescriptions<2>"
+msgstr "O-365"
+
+msgid "DH_T60Cannon.nProjectileDescriptions<0>"
+msgstr "Бронебійно-запалювально-трасуючий (BZT)"
+
+#, fuzzy
+msgid "DH_Tiger2BCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr."
+
+#, fuzzy
+msgid "DH_TigerCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+#, fuzzy
+msgid "DH_TigerCannon.nProjectileDescriptions<1>"
+msgstr "Schw.Sprgr.Patr."
+
+msgid "DH_WolverineCannon.nProjectileDescriptions<0>"
+msgstr "M62 APC"
+
+msgid "DH_WolverineCannon.nProjectileDescriptions<1>"
+msgstr "M93 HVAP"
+
+msgid "DH_WolverineCannon.nProjectileDescriptions<2>"
+msgstr "M42A1 HE-T"
+
+msgid "DH_WolverineCannon_Early.nProjectileDescriptions<0>"
+msgstr "M62 APC"
+
+msgid "DH_WolverineCannon_Early.nProjectileDescriptions<2>"
+msgstr "M88 HC"
