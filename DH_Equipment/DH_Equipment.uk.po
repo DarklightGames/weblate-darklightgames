@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-17 22:08+0000\n"
+"PO-Revision-Date: 2024-02-12 13:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/uk/>\n"
@@ -17,25 +17,25 @@ msgid "DH_RedSmokeWeapon.ItemName"
 msgstr "Сигнальна граната M16"
 
 msgid "DHTrenchMaceItem_Bone.ItemName"
-msgstr "Костяна дубина"
+msgstr "Кістяна Палиця"
 
 msgid "DH_NebelGranate39Weapon.ItemName"
 msgstr "Димова граната NB 39"
 
 msgid "DHShovelWarningMessage.CannotBeCrawling"
-msgstr "Ви не можете копати плазом."
+msgstr "Не можна копати під час повзання."
 
 msgid "DHShovelItem.ItemName"
 msgstr "Лопата"
 
 msgid "DHWireCuttersItem.ItemName"
-msgstr "Кусачки для дроту"
+msgstr "Кусачки"
 
 msgid "DHBinocularsItemAllied.ItemName"
 msgstr "Бінокль M13 6х30"
 
 msgid "DHTrenchMaceItem.ItemName"
-msgstr "Окопна палиця"
+msgstr "Окопна Палиця"
 
 msgid "DH_USSmokeGrenadeWeapon.ItemName"
 msgstr "Димова граната M8"
@@ -62,13 +62,13 @@ msgid "DH_ParachuteItem.ItemName"
 msgstr "Парашут"
 
 msgid "DH_ParachuteStaticLine.ItemName"
-msgstr "Витяжний строп"
+msgstr "Витяжний трос"
 
 msgid "DHRadioItem.ItemName"
 msgstr "Радіо"
 
 msgid "DHShovelWarningMessage.NeedMoreFriendliesToBuildMessage"
-msgstr "Щоб будувати, поблизу повинен бути одногрупник загону!"
+msgstr "Для будівництва необхідний ще один член загону!"
 
 msgid "DHBinocularsItemItalian.ItemName"
-msgstr "Fratelli Koristka 7x50"
+msgstr "Бінокль Fratelli Koristka 7x50"
