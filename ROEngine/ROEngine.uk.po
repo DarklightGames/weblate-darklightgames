@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-08 15:39+0000\n"
+"PO-Revision-Date: 2024-02-12 13:39+0000\n"
 "Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/uk/>\n"
@@ -31,7 +31,7 @@ msgid "ROVoicePack.SupportString[4]"
 msgstr "Нам потрібен кулеметник!"
 
 msgid "ROVoicePack.EnemyString[0]"
-msgstr "Піхота помічена!"
+msgstr "Виявлено піхоту!"
 
 msgid "ROVoicePack.EnemyAbbrevAxis[6]"
 msgstr "Танк"
@@ -55,7 +55,7 @@ msgid "ROVoicePack.VehicleAlertString[0]"
 msgstr "Ворог попереду!"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[3]"
-msgstr "Ворог за нами"
+msgstr "Ворог позаду нас"
 
 msgid "ROVoicePack.SupportString[3]"
 msgstr "Потрібен снайпер!"
@@ -88,7 +88,7 @@ msgid "ROVoicePack.AlertAbbrev[7]"
 msgstr "Дружній вогонь"
 
 msgid "ROVoicePack.VehicleDirectionString[1]"
-msgstr "Йти далі"
+msgstr "Висунутися вперед"
 
 msgid "ROVoicePack.VehicleDirectionString[6]"
 msgstr "Вперед на 5 метрів!"
@@ -127,7 +127,7 @@ msgid "ROVoicePack.AlertString[3]"
 msgstr "Стій!"
 
 msgid "ROVoicePack.VehicleDirectionString[3]"
-msgstr "Повернись назад"
+msgstr "Рухайся назад"
 
 msgid "ROVoicePack.AckString[2]"
 msgstr "Дякую"
@@ -145,7 +145,7 @@ msgid "ROVoicePack.VehicleDirectionAbbrev[6]"
 msgstr "Вперед на 5 метрів"
 
 msgid "ROVoicePack.VehicleAlertString[4]"
-msgstr "Ворожа піхота близько!"
+msgstr "Поруч ворожа піхота!"
 
 msgid "ROVoicePack.VehicleAlertString[7]"
 msgstr "Ми горимо!"
@@ -169,7 +169,7 @@ msgid "ROVoicePack.SupportAbbrev[4]"
 msgstr "Потрібна підтримка кулеметника"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[4]"
-msgstr "Ворожа піхота близько"
+msgstr "Поруч ворожа піхота"
 
 msgid "ROVoicePack.OrderString[7]"
 msgstr "Припинити вогонь!"
@@ -187,7 +187,7 @@ msgid "ROVoicePack.SupportAbbrev[7]"
 msgstr "Потрібен танк"
 
 msgid "ROVoicePack.SupportAbbrev[8]"
-msgstr "Запит артилерії"
+msgstr "Потрібен удар артилерії"
 
 msgid "ROVoicePack.SupportAbbrev[9]"
 msgstr "Потрібен транспорт"
@@ -196,13 +196,13 @@ msgid "ROVoicePack.SupportAbbrevAxis[5]"
 msgstr "Потрібен Панцерфауст"
 
 msgid "ROVoicePack.EnemyString[1]"
-msgstr "Помічено кулеметника!"
+msgstr "Виявлено кулеметника!"
 
 msgid "ROVoicePack.EnemyString[3]"
 msgstr "Сапер!"
 
 msgid "ROVoicePack.EnemyString[4]"
-msgstr "Протитанкові солдати!"
+msgstr "ПТ солдати!"
 
 msgid "ROVoicePack.EnemyString[5]"
 msgstr "Легкий транспорт!"
@@ -211,7 +211,7 @@ msgid "ROVoicePack.EnemyString[8]"
 msgstr "Ворожа артилерія!"
 
 msgid "ROVoicePack.EnemyAbbrev[0]"
-msgstr "Помічена піхота"
+msgstr "Виявлена піхота"
 
 msgid "ROVoicePack.EnemyAbbrev[5]"
 msgstr "Легкий транспорт"
@@ -277,7 +277,7 @@ msgid "ROVoicePack.VehicleAlertString[1]"
 msgstr "Ворог на лівому фланзі!"
 
 msgid "ROVoicePack.VehicleAlertString[3]"
-msgstr "Ворог за нами!"
+msgstr "Ворог позаду нас!"
 
 msgid "ROVoicePack.VehicleAlertString[6]"
 msgstr "Ніяк ні!"
@@ -301,7 +301,7 @@ msgid "ROVoicePack.VehicleAlertAbbrev[6]"
 msgstr "Ніяк ні"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[7]"
-msgstr "Ми палаємо"
+msgstr "Ми горимо"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[8]"
 msgstr "На вихід"
@@ -352,13 +352,13 @@ msgid "ROGameMessage.NewPlayerMessage"
 msgstr "На поле бою вийшов новий солдат."
 
 msgid "RORoundOverMsg.AxisWins"
-msgstr "Війська Осі перемагають у битві!"
+msgstr "Війська Осі виграють битву!"
 
 msgid "RORoundOverMsg.AlliesWins"
 msgstr "Війська Союзників виграють битву!"
 
 msgid "RORoundOverMsg.NoDecisiveOutcome"
-msgstr "Немає вирішальної перемоги"
+msgstr "Рішучої перемоги немає"
 
 msgid "ROVoicePack.SupportString[0]"
 msgstr "Нам потрібна допомога!"
@@ -388,7 +388,7 @@ msgid "ROVoicePack.EnemyAbbrev[7]"
 msgstr "Важкий танк"
 
 msgid "ROVoicePack.AlertAbbrev[8]"
-msgstr "Під атакою в об'єкті"
+msgstr "Під атакою в точці"
 
 msgid "ROVoicePack.VehicleDirectionAbbrev[4]"
 msgstr "Ліворуч"
@@ -403,7 +403,7 @@ msgid "ROVoicePack.VehicleAlertString[2]"
 msgstr "Ворог на правому фланзі!"
 
 msgid "ROVoicePack.VehicleAlertString[5]"
-msgstr "Так точно"
+msgstr "Так точно!"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[5]"
 msgstr "Так точно"
