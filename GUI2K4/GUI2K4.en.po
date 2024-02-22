@@ -92,6 +92,9 @@ msgstr "Look Down"
 msgid "ControlBinder.BindingLabel[14]"
 msgstr "Center View"
 
+msgid "ControlBinder.BindingLabel[15]"
+msgstr "Toggle \"BehindView\""
+
 msgid "ControlBinder.BindingLabel[16]"
 msgstr "Toggle Camera Mode"
 
@@ -1868,6 +1871,12 @@ msgstr "SEARCH"
 msgid "UT2K4QuickPlay.CancelText"
 msgstr "CANCEL"
 
+msgid "UT2K4QuickPlay.ConnectHint"
+msgstr "Once you've selected a gametype and difficulty level, click \"Search\" to begin searching for a server in the category that has the lowest ping"
+
+msgid "UT2K4QuickPlay.CancelHint"
+msgstr "Cancel the current \"Quick Join\" search"
+
 msgid "UT2K4QuickPlay.BeginningSearchText"
 msgstr "Please wait...requesting servers for gametype:"
 
@@ -1897,6 +1906,9 @@ msgstr "Quick Play"
 
 msgid "UT2K4QuickPlay.DifficultyLevel.Caption"
 msgstr "Difficulty"
+
+msgid "UT2K4QuickPlay.DifficultyLevel.Hint"
+msgstr "Select the desired game difficulty level to search for.  If you are new to Red Orchestra, it is recommended that you choose the \"Untrained\" setting."
 
 msgid "UT2K4QuickPlay.GameType.Caption"
 msgstr "Game Type"
@@ -2008,6 +2020,9 @@ msgstr "Reset all settings on this page to their default values"
 
 msgid "UT2K4StatsPrompt.NoButton.Caption"
 msgstr "NO"
+
+msgid "UT2K4StatsPrompt.PromptDesc.Caption"
+msgstr "You will only be able to join this server by turning on \"Track Stats\" and setting a unique Stats Username and Password. Currently you will only be able to connect to servers with stats DISABLED.||Would you like to configure your Stats Username and Password now?"
 
 msgid "UT2K4StatsPrompt.PromptHeader.Caption"
 msgstr "This server has Red Orchestra stats ENABLED!"
@@ -2947,6 +2962,9 @@ msgstr "Ban this player from your personal voice chat channel"
 
 msgid "UT2K4Tab_MidGameVoiceChat.NOSPEECH.Caption"
 msgstr "Ignore Speech"
+
+msgid "UT2K4Tab_MidGameVoiceChat.NOSPEECH.Hint"
+msgstr "Do not receive any speech messages, such as \"Incoming!\" from this player"
 
 msgid "UT2K4Tab_MidGameVoiceChat.NOTEXT.Caption"
 msgstr "Ignore Text"

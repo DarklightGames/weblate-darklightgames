@@ -93,7 +93,7 @@ msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<1>"
 msgstr "HE"
 
 msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<2>"
-msgstr "Smoke"
+msgstr "WP"
 
 msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<0>"
 msgstr "M61 APC"
@@ -150,7 +150,7 @@ msgid "DH_CromwellCannon.ProjectileDescriptions<1>"
 msgstr "HE"
 
 msgid "DH_CromwellCannon.ProjectileDescriptions<2>"
-msgstr "Smoke"
+msgstr "WP"
 
 msgid "DH_CromwellCannon.nProjectileDescriptions<0>"
 msgstr "M61 APC"
@@ -178,6 +178,27 @@ msgstr "Fiat 626 (Logistics)"
 
 msgid "DH_Fiat626TruckTransport.VehicleNameString"
 msgstr "Fiat 626 (Transport)"
+
+msgid "DH_FiatL640Cannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_FiatL640Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_FiatL640Cannon.ProjectileDescriptions<2>"
+msgstr "Canister"
+
+msgid "DH_FiatL640Cannon.nProjectileDescriptions<0>"
+msgstr "M51B1 APC"
+
+msgid "DH_FiatL640Cannon.nProjectileDescriptions<1>"
+msgstr "M63 HE-T"
+
+msgid "DH_FiatL640Cannon.nProjectileDescriptions<2>"
+msgstr "M2 Canister"
+
+msgid "DH_FiatL640Tank.VehicleNameString"
+msgstr "Carro Armato L6/40"
 
 msgid "DH_Flak38Cannon.ProjectileDescriptions<0>"
 msgstr "Mixed"
@@ -501,10 +522,10 @@ msgid "DH_M7Priest.VehicleNameString"
 msgstr "M7 Priest"
 
 msgid "DH_M7PriestCannon.ProjectileDescriptions<0>"
-msgstr "HE-1"
+msgstr "HE-T"
 
 msgid "DH_M7PriestCannon.ProjectileDescriptions<1>"
-msgstr "Smoke"
+msgstr "WP"
 
 msgid "DH_M7PriestCannon.ProjectileDescriptions<2>"
 msgstr "HEAT"
@@ -795,7 +816,7 @@ msgid "DH_ShermanCannon.ProjectileDescriptions<1>"
 msgstr "HE"
 
 msgid "DH_ShermanCannon.ProjectileDescriptions<2>"
-msgstr "Smoke"
+msgstr "HE"
 
 msgid "DH_ShermanCannon.nProjectileDescriptions<0>"
 msgstr "M61 APC"
@@ -846,7 +867,7 @@ msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions<0>"
 msgstr "HE"
 
 msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions<1>"
-msgstr "Smoke"
+msgstr "WP"
 
 msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions<2>"
 msgstr "HEAT"
@@ -867,7 +888,7 @@ msgid "DH_ShermanCannon_M4A3E2_Jumbo.ProjectileDescriptions<1>"
 msgstr "HE"
 
 msgid "DH_ShermanCannon_M4A3E2_Jumbo.ProjectileDescriptions<2>"
-msgstr "Smoke"
+msgstr "WP"
 
 msgid "DH_ShermanCannon_M4A3E2_Jumbo.nProjectileDescriptions<0>"
 msgstr "M61 APC"

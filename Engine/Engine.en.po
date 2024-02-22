@@ -5,6 +5,108 @@ msgstr ""
 "Content-Type: text/plain\n"
 "Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
 
+msgid "Errors.NetOpen"
+msgstr "Error opening file"
+
+msgid "Errors.NetWrite"
+msgstr "Error writing to file"
+
+msgid "Errors.NetRefused"
+msgstr "Server refused to send '%s'"
+
+msgid "Errors.NetClose"
+msgstr "Error closing file"
+
+msgid "Errors.NetSize"
+msgstr "File size mismatch"
+
+msgid "Errors.NetMove"
+msgstr "Error moving file"
+
+msgid "Errors.NetInvalid"
+msgstr "Received invalid file request"
+
+msgid "Errors.NoDownload"
+msgstr "Package '%s' is not downloadable"
+
+msgid "Errors.DownloadFailed"
+msgstr "Downloading package '%s' failed: %s"
+
+msgid "Errors.RequestDenied"
+msgstr "Server requested file from pending level: Denied"
+
+msgid "Errors.ConnectionFailed"
+msgstr "Connection failed"
+
+msgid "Errors.ChAllocate"
+msgstr "Couldn't allocate channel"
+
+msgid "Errors.NetAlready"
+msgstr "Already networking"
+
+msgid "Errors.NetListen"
+msgstr "Listen failed: No linker context available"
+
+msgid "Errors.LoadEntry"
+msgstr "Can't load Entry: %s"
+
+msgid "Errors.InvalidUrl"
+msgstr "Invalid URL: %s"
+
+msgid "Errors.InvalidLink"
+msgstr "Invalid Link: %s"
+
+msgid "Errors.FailedBrowse"
+msgstr "Failed to enter %s: %s"
+
+msgid "Errors.Listen"
+msgstr "Listen failed: %s"
+
+msgid "Errors.AbortToEntry"
+msgstr "Failed; returning to Entry"
+
+msgid "Errors.ServerOpen"
+msgstr "Servers can't open network URLs"
+
+msgid "Errors.ServerListen"
+msgstr "Dedicated server can't listen: %s"
+
+msgid "Errors.Pending"
+msgstr "Pending connect to '%s' failed; %s"
+
+msgid "Errors.LoadPlayerClass"
+msgstr "Failed to load player class"
+
+msgid "Errors.ServerOutdated"
+msgstr "Server's version is outdated"
+
+msgid "Errors.ClientOutdated"
+msgstr "You need to apply the latest patches"
+
+msgid "Errors.InvalidCDKey"
+msgstr "Your CD key appears to be invalid.  You will need to reinstall the game and enter your CD key to fix this problem."
+
+msgid "Errors.ConnectLost"
+msgstr "Connection Lost"
+
+msgid "Errors.DemoFileMissing"
+msgstr "Missing package '%s' for demo playback"
+
+msgid "Errors.DownloadNotAllowed"
+msgstr "Downloading '%s' not allowed"
+
+msgid "General.Upgrade"
+msgstr "To enter this server, you need the latest free update to Red Orchestra available from Tripwire's Web site:"
+
+msgid "General.UpgradeURL"
+msgstr "http://redorchestragame.com/"
+
+msgid "General.UpgradeQuestion"
+msgstr "Do you want to launch your web browser and go to the upgrade page now?"
+
+msgid "General.Version"
+msgstr "Version %i"
+
 msgid "KeyNames.Up"
 msgstr "UP"
 
@@ -17,8 +119,110 @@ msgstr "LEFT"
 msgid "KeyNames.Down"
 msgstr "DOWN"
 
+msgid "KeyNames.LeftMouse"
+msgstr "LEFT MOUSE"
+
+msgid "KeyNames.RightMouse"
+msgstr "RIGHT MOUSE"
+
+msgid "KeyNames.MiddleMouse"
+msgstr "MIDDLE MOUSE"
+
+msgid "KeyNames.MouseX"
+msgstr "MOUSE X"
+
+msgid "KeyNames.MouseY"
+msgstr "MOUSE Y"
+
+msgid "KeyNames.MouseZ"
+msgstr "MOUSE Z"
+
+msgid "KeyNames.MouseW"
+msgstr "MOUSE W"
+
+msgid "KeyNames.JoyX"
+msgstr "JOY X"
+
+msgid "KeyNames.JoyY"
+msgstr "JOY Y"
+
+msgid "KeyNames.JoyZ"
+msgstr "JOY Z"
+
+msgid "KeyNames.JoyU"
+msgstr "JOY U"
+
+msgid "KeyNames.JoyV"
+msgstr "JOY V"
+
+msgid "KeyNames.JoySlider1"
+msgstr "JOYSLIDER 1"
+
+msgid "KeyNames.JoySlider2"
+msgstr "JOYSLIDER 2"
+
+msgid "KeyNames.MouseWheelUp"
+msgstr "MOUSEWHEEL UP"
+
+msgid "KeyNames.MouseWheelDown"
+msgstr "MOUSEWHEEL DOWN"
+
+msgid "KeyNames.Joy1"
+msgstr "JOY 1"
+
+msgid "KeyNames.Joy2"
+msgstr "JOY 2"
+
+msgid "KeyNames.Joy3"
+msgstr "JOY 3"
+
+msgid "KeyNames.Joy4"
+msgstr "JOY 4"
+
+msgid "KeyNames.Joy5"
+msgstr "JOY 5"
+
+msgid "KeyNames.Joy6"
+msgstr "JOY 6"
+
+msgid "KeyNames.Joy7"
+msgstr "JOY 7"
+
+msgid "KeyNames.Joy8"
+msgstr "JOY 8"
+
+msgid "KeyNames.Joy9"
+msgstr "JOY 9"
+
+msgid "KeyNames.Joy10"
+msgstr "JOY 10"
+
+msgid "KeyNames.Joy11"
+msgstr "JOY 11"
+
+msgid "KeyNames.Joy12"
+msgstr "JOY 12"
+
+msgid "KeyNames.Joy13"
+msgstr "JOY 13"
+
+msgid "KeyNames.Joy14"
+msgstr "JOY 14"
+
+msgid "KeyNames.Joy15"
+msgstr "JOY 15"
+
+msgid "KeyNames.Joy16"
+msgstr "JOY 16"
+
 msgid "KeyNames.Space"
 msgstr "SPACE"
+
+msgid "KeyNames.PageUp"
+msgstr "PAGE UP"
+
+msgid "KeyNames.PageDown"
+msgstr "PAGE DOWN"
 
 msgid "KeyNames.End"
 msgstr "END"
@@ -47,8 +251,53 @@ msgstr "DELETE"
 msgid "KeyNames.Help"
 msgstr "HELP"
 
+msgid "KeyNames.NumPad0"
+msgstr "NUM 0"
+
+msgid "KeyNames.NumPad1"
+msgstr "NUM 1"
+
+msgid "KeyNames.NumPad2"
+msgstr "NUM 2"
+
+msgid "KeyNames.NumPad3"
+msgstr "NUM 3"
+
+msgid "KeyNames.NumPad4"
+msgstr "NUM 4"
+
+msgid "KeyNames.NumPad5"
+msgstr "NUM 5"
+
+msgid "KeyNames.NumPad6"
+msgstr "NUM 6"
+
+msgid "KeyNames.NumPad7"
+msgstr "NUM 7"
+
+msgid "KeyNames.NumPad8"
+msgstr "NUM 8"
+
+msgid "KeyNames.NumPad9"
+msgstr "NUM 9"
+
+msgid "KeyNames.GreyStar"
+msgstr "GREY STAR"
+
+msgid "KeyNames.GreyPlus"
+msgstr "GREY PLUS"
+
 msgid "KeyNames.Separator"
 msgstr "SEPARATOR"
+
+msgid "KeyNames.GreyMinus"
+msgstr "GREY MINUS"
+
+msgid "KeyNames.NumPadPeriod"
+msgstr "NUM ."
+
+msgid "KeyNames.GreySlash"
+msgstr "GREY SLASH"
 
 msgid "KeyNames.Pause"
 msgstr "PAUSE"
@@ -71,11 +320,56 @@ msgstr "NUMLOCK"
 msgid "KeyNames.Escape"
 msgstr "ESCAPE"
 
+msgid "Progress.CancelledConnect"
+msgstr "Cancelled Connect Attempt"
+
+msgid "Progress.RunningNet"
+msgstr "%s: %s (%i players)"
+
+msgid "Progress.NetReceiving"
+msgstr "Receiving '%s': %i/%i"
+
+msgid "Progress.NetReceiveOk"
+msgstr "Successfully received '%s'"
+
+msgid "Progress.NetSend"
+msgstr "Sending '%s'"
+
+msgid "Progress.NetSending"
+msgstr "Sending '%s': %i/%i"
+
+msgid "Progress.Connecting"
+msgstr "Connecting (F10 to Abort)..."
+
+msgid "Progress.Listening"
+msgstr "Listening for clients..."
+
 msgid "Progress.Loading"
 msgstr "Loading"
 
 msgid "Progress.Saving"
 msgstr "Saving"
+
+msgid "Progress.Paused"
+msgstr "Paused by %s"
+
+msgid "Progress.ReceiveFile"
+msgstr "Receiving '%s' (F10 Cancels)"
+
+msgid "Progress.ReceiveOptionalFile"
+msgstr "Receiving optional file '%s' (Press F10 to Skip)"
+
+msgid "Progress.ReceiveSize"
+msgstr "Size %iK, Complete %3.1f%%"
+
+msgid "Progress.ConnectingText"
+msgstr "Connecting (F10 Cancels):"
+
+msgid "Progress.ConnectingURL"
+msgstr "%s://%s/%s"
+
+msgid "Progress.CorruptConnect"
+msgstr "Incompatible Game Files!"
 
 msgid "Public.Object.Name"
 msgstr "Engine.ExportCacheCommandlet"
@@ -98,29 +392,155 @@ msgstr "Engine.GameInfo"
 msgid "Public.Preferences.Immediate"
 msgstr "True"
 
+msgid "UpgradeDrivers.OutdatedDrivers"
+msgstr "You are running old graphics card drivers that might not work in conjunction with the game."
+
+msgid "UpgradeDrivers.OursOrWeb"
+msgstr "Choose YES to install updated drivers from our CD and NO to visit the manufacturers homepage"
+
+msgid "UpgradeDrivers.InsertCD"
+msgstr "Please insert your Unreal Tournament CD 3"
+
+msgid "UpgradeDrivers.NvidiaURL"
+msgstr "http://www.nvidia.com/content/drivers/drivers.asp"
+
+msgid "UpgradeDrivers.AtiURL"
+msgstr "http://www.ati.com/support/driver.html"
+
+msgid "UpgradeDrivers.CDButton"
+msgstr "Upgrade from CD"
+
+msgid "UpgradeDrivers.WebButton"
+msgstr "Upgrade from Web"
+
+msgid "UpgradeDrivers.cancelButton"
+msgstr "Don't Upgrade"
+
 msgid "MasterMD5Commandlet.HelpCmd"
 msgstr "mastermd5"
+
+msgid "MasterMD5Commandlet.HelpOneLiner"
+msgstr "Manipulate the Master MD5 database"
+
+msgid "MasterMD5Commandlet.HelpUsage"
+msgstr "mastermd5 [-option..] <params>"
+
+msgid "MasterMD5Commandlet.HelpWebLink"
+msgstr "http://redorchestragame.com/"
+
+msgid "MasterMD5Commandlet.HelpParm[0]"
+msgstr "-c"
+
+msgid "MasterMD5Commandlet.HelpDesc[0]"
+msgstr "Creates a new MD5 database"
+
+msgid "MasterMD5Commandlet.HelpParm[1]"
+msgstr "-a"
+
+msgid "MasterMD5Commandlet.HelpDesc[1]"
+msgstr "Adds new packages to the database"
+
+msgid "MasterMD5Commandlet.HelpParm[2]"
+msgstr "-s"
+
+msgid "MasterMD5Commandlet.HelpDesc[2]"
+msgstr "Show the current database."
+
+msgid "MasterMD5Commandlet.HelpParm[3]"
+msgstr "-r"
+
+msgid "MasterMD5Commandlet.HelpDesc[3]"
+msgstr "Force the revision of all entries to <param>"
 
 msgid "UModUnpackCommandlet.HelpCmd"
 msgstr "umodunpack"
 
+msgid "UModUnpackCommandlet.HelpOneLiner"
+msgstr "Unpack UMOD files"
+
+msgid "UModUnpackCommandlet.HelpUsage"
+msgstr "umodunpack [-option] <filename>"
+
+msgid "UModUnpackCommandlet.HelpWebLink"
+msgstr "http://redorchestragame.com/"
+
+msgid "UModUnpackCommandlet.HelpParm[0]"
+msgstr "-x"
+
+msgid "UModUnpackCommandlet.HelpDesc[0]"
+msgstr "Extract files from <filename>"
+
+msgid "UModUnpackCommandlet.HelpParm[1]"
+msgstr "-l"
+
+msgid "UModUnpackCommandlet.HelpDesc[1]"
+msgstr "List files in <filename> without extracting."
+
 msgid "ServerCommandlet.HelpCmd"
 msgstr "server"
+
+msgid "ServerCommandlet.HelpOneLiner"
+msgstr "Network game server"
+
+msgid "ServerCommandlet.HelpUsage"
+msgstr "server map.unr[?game=gametype] [-option...] [parm=value]..."
+
+msgid "ServerCommandlet.HelpWebLink"
+msgstr "http://redorchestragame.com/"
 
 msgid "ServerCommandlet.HelpParm[0]"
 msgstr "Log"
 
+msgid "ServerCommandlet.HelpDesc[0]"
+msgstr "Specify the log file to generate"
+
 msgid "ServerCommandlet.HelpParm[1]"
 msgstr "AllAdmin"
 
+msgid "ServerCommandlet.HelpDesc[1]"
+msgstr "Give all players admin priveleges"
+
 msgid "ExportCacheCommandlet.HelpCmd"
 msgstr "exportcache"
+
+msgid "ExportCacheCommandlet.HelpOneLIner"
+msgstr "Generates cache record entries for the specified packages."
+
+msgid "ExportCacheCommandlet.HelpUsage"
+msgstr "exportcache [-a] [-y] [-v] <package.ext> [package.ext...] [destfilename.ucl]"
+
+msgid "ExportCacheCommandlet.HelpWebLink"
+msgstr "http://redorchestragame.com/"
+
+msgid "ExportCacheCommandlet.HelpParm[0]"
+msgstr "-a"
+
+msgid "ExportCacheCommandlet.HelpParm[1]"
+msgstr "-y"
+
+msgid "ExportCacheCommandlet.HelpParm[2]"
+msgstr "-v"
 
 msgid "ExportCacheCommandlet.HelpParm[3]"
 msgstr "package.ext"
 
 msgid "ExportCacheCommandlet.HelpParm[4]"
 msgstr "destfilename.ucl"
+
+msgid "ExportCacheCommandlet.HelpDesc[0]"
+msgstr "Update matching entries in destfilename.ucl.  Append any new entries."
+
+msgid "ExportCacheCommandlet.HelpDesc[1]"
+msgstr "Automatically answer 'Yes' to any prompts during the operation."
+
+msgid "ExportCacheCommandlet.HelpDesc[2]"
+msgstr "Verbose output (to ucc.log)"
+
+msgid "ExportCacheCommandlet.HelpDesc[3]"
+msgstr "Space delimited list of packages (including extension) that should be exported.  Wildcards are supported.  Paths are not required."
+
+msgid "ExportCacheCommandlet.HelpDesc[4]"
+msgstr "Destination file for exported entries.  Default filename is the name of the package being exported.  To export multiple packages to a single .ucl file, you must specify a destination filename."
 
 msgid "AccessControl.IPBanned"
 msgstr "Your IP address has been banned on this server."
@@ -775,6 +1195,9 @@ msgstr "Allowed VoIP LAN Codecs"
 
 msgid "VoiceChatReplicationInfo.VCDescText[0]"
 msgstr "Enable voice chat on the server."
+
+msgid "VoiceChatReplicationInfo.VCDescText[1]"
+msgstr "Determines whether the \"local\" voice chat channel is created, which allows players to broadcast voice transmissions to all players in the immediate vicinity."
 
 msgid "VoiceChatReplicationInfo.VCDescText[2]"
 msgstr "Maximum distance at which a broadcast on the local channel may be heard"

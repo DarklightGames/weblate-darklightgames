@@ -1220,6 +1220,9 @@ msgstr "ROFonts.ROBtsrmVr14"
 msgid "UT2StatsPrompt.NoButton.Caption"
 msgstr "NO"
 
+msgid "UT2StatsPrompt.PromptDesc.Caption"
+msgstr "You will only be able to join this server by turning on \"Track Stats\" and setting a unique Stats Username and Password. Currently you will only be able to connect to servers with stats DISABLED.||Would you like to configure your Stats Username and Password now?"
+
 msgid "UT2StatsPrompt.PromptHeader.Caption"
 msgstr "This server has Red Orchestra Stats ENABLED!"
 

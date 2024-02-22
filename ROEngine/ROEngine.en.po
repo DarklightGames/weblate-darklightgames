@@ -119,6 +119,9 @@ msgstr "You will attempt to respawn as "
 msgid "ROGameMessage.MaxRoleMsg"
 msgstr "Unable to change to "
 
+msgid "ROGameMessage.TypeForgiveMessage"
+msgstr "has team killed you, type \"np\" or \"forgive\" to forgive them."
+
 msgid "ROGameMessage.HasForgivenMessage"
 msgstr "has forgiven"
 

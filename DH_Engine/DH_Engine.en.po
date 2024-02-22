@@ -26,8 +26,11 @@ msgstr "Finish rotating"
 msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
 msgstr "Rotate"
 
-msgid "DHATGunTouchMessage.RotateHintString"
-msgstr "hold {0} to rotate"
+msgid "DHATGunTouchMessage.Controls<0>.Text"
+msgstr "Enter"
+
+msgid "DHATGunTouchMessage.Controls<1>.Text"
+msgstr "Rotate"
 
 msgid "DHATLoadFailMessage.CantLoad"
 msgstr "{0} must be deployed to be reloaded"
@@ -1584,7 +1587,7 @@ msgid "DHShellSmokeWPDamageType.MaleSuicide"
 msgstr "%o burned himself to a crisp."
 
 msgid "DHShellSmokeWPGasDamageType.DeathString"
-msgstr "%o was choked by white phosphorus that %k launched."
+msgstr "%o was choked by %k's white phosphorus."
 
 msgid "DHShellSmokeWPGasDamageType.FemaleSuicide"
 msgstr "%o choked herself to death on white phosphorus."
@@ -1959,7 +1962,7 @@ msgid "DHTeamSurrenderVoteMessage.VoteNominatedText"
 msgstr "{0} has nominated to retreat."
 
 msgid "DHTeamSurrenderVoteMessage.VoteNominationsRemainingText"
-msgstr "Need {0} more nomination{1} to start the vote."
+msgstr "Need {0} more nomination(s) to start the vote."
 
 msgid "DHThrowableExplosiveDamageType.DeathString"
 msgstr "%o was blown up by %k's %w."
@@ -2089,6 +2092,9 @@ msgstr "A Vehicle Pool has been destroyed."
 
 msgid "DHVehicleSayMessage.MessagePrefix"
 msgstr "[VEHICLE]"
+
+msgid "DHVehicleTouchControlsMessage.Controls<0>.Text"
+msgstr "Enter"
 
 msgid "DHVehicleTouchMessage.TouchMessage"
 msgstr "Press [%USE%] to enter {0}"
@@ -2231,11 +2237,11 @@ msgstr "%o skewered herself on her own %w bayonet."
 msgid "DHWeaponBayonetDamageType.MaleSuicide"
 msgstr "%o skewered himself on his own %w bayonet."
 
-msgid "DHWeaponPickup.TouchMessage"
-msgstr "Press {1} to pick up {0}"
-
 msgid "DHWeaponPickup.PickupMessage"
 msgstr "You got the {0}"
+
+msgid "DHWeaponPickupTouchMessage.TouchMessage"
+msgstr "Press {input} to pick up {item}"
 
 msgid "DHWeaponProjectileDamageType.DeathString"
 msgstr "%o was killed by %k's %w."

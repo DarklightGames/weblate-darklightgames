@@ -32,6 +32,9 @@ msgstr "Cancel"
 msgid "DHConstructionControlsMessage.Controls<2>.Text"
 msgstr "Rotate"
 
+msgid "DHConstructionControlsMessage.Controls<3>.Text"
+msgstr "Reset Rotation"
+
 msgid "DHConstructionGroup_Ammunition.GroupName"
 msgstr "Ammunition"
 
@@ -81,7 +84,7 @@ msgid "DHConstruction_PlatoonHQ.CustomErrorString"
 msgstr "Cannot {verb} a {name} close to {string} unless within {integer}m of controlled territory."
 
 msgid "DHConstruction_PlatoonHQ.MenuName"
-msgstr "Platoon HQ"
+msgstr "Command Post"
 
 msgid "DHConstruction_PlatoonHQ.MenuDescription"
 msgstr "Provides a team-wide spawn point."

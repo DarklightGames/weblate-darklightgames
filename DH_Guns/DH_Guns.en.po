@@ -120,7 +120,10 @@ msgid "DH_Cannone4732Cannon.nProjectileDescriptions<2>"
 msgstr "Effeto Pronto da 47"
 
 msgid "DH_Cannone4732Gun.VehicleNameString"
-msgstr "Cannone 47/32"
+msgstr "Cannone da 47/32"
+
+msgid "DH_Fiat1435Gun.VehicleNameString"
+msgstr "Fiat-Revelli Modello 14/35"
 
 msgid "DH_Flak38Gun.VehicleNameString"
 msgstr "2cm FlaK 38 gun"
