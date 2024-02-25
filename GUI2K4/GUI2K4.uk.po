@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-12 13:39+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2024-02-26 23:39+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/uk/>\n"
 "Language: uk\n"
@@ -158,3 +158,6 @@ msgstr "секунд"
 
 msgid "UT2K4VideoChangeOK.bCancel.Caption"
 msgstr "Відновити налаштування"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<4>"
+msgstr "Пінг"
