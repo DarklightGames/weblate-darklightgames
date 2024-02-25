@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-08 15:39+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2024-02-26 23:39+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/uk/>\n"
 "Language: uk\n"
@@ -643,3 +643,6 @@ msgstr "Інтерфейс"
 
 msgid "ROTab_Controls.Section_Speech_Prefix"
 msgstr "Голосові команди: "
+
+msgid "ROScoreBoard.ReinforcementsText"
+msgstr "Підкріплення"
