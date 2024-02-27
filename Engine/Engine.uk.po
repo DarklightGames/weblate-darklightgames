@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-12 13:39+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2024-02-29 00:39+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/uk/>\n"
 "Language: uk\n"
@@ -127,3 +127,162 @@ msgstr "ВВЕДЕННЯ"
 
 msgid "KeyNames.Tab"
 msgstr ""
+
+msgid "Errors.NetClose"
+msgstr "Помилка закриття файлу"
+
+msgid "Errors.NetInvalid"
+msgstr "Отримано недійсний запит до файлу"
+
+msgid "Errors.DownloadNotAllowed"
+msgstr "Завантаження '%s' не дозволено"
+
+msgid "KeyNames.Joy6"
+msgstr "ДЖОЙСТИК 6"
+
+msgid "KeyNames.JoySlider1"
+msgstr "СЛАЙДЕР ДЖОЙСТИКА 1"
+
+msgid "Errors.LoadPlayerClass"
+msgstr "Не вдалося завантажити клас гравця"
+
+msgid "Errors.ServerOutdated"
+msgstr "Версія сервера застаріла"
+
+msgid "Errors.ClientOutdated"
+msgstr "Потрібно встановити останні патчі"
+
+msgid "Errors.ConnectLost"
+msgstr "З'єднання втрачено"
+
+msgid "Errors.ChAllocate"
+msgstr "Не вдалося виділити канал"
+
+msgid "Errors.NetAlready"
+msgstr "Вже долучено до мережі"
+
+msgid "Errors.LoadEntry"
+msgstr "Не вдається завантажити запис: %s"
+
+msgid "Errors.InvalidUrl"
+msgstr "Некоректна URL-адреса: %s"
+
+msgid "Errors.InvalidLink"
+msgstr "Невірна адреса: %s"
+
+msgid "KeyNames.LeftMouse"
+msgstr "ЛІВА КНОПКА МИШІ"
+
+msgid "KeyNames.RightMouse"
+msgstr "ПРАВА КНОПКА МИШІ"
+
+msgid "KeyNames.MiddleMouse"
+msgstr "СЕРЕДНЯ КНОПКА МИШІ"
+
+msgid "KeyNames.MouseX"
+msgstr "МИША X"
+
+msgid "KeyNames.MouseY"
+msgstr "МИША Y"
+
+msgid "KeyNames.MouseZ"
+msgstr "МИША Z"
+
+msgid "KeyNames.JoyX"
+msgstr "ДЖОЙСТИК X"
+
+msgid "KeyNames.JoyY"
+msgstr "ДЖОЙСТИК Y"
+
+msgid "KeyNames.JoyZ"
+msgstr "ДЖОЙСТИК Z"
+
+msgid "KeyNames.JoyU"
+msgstr "ДЖОЙСТИК U"
+
+msgid "KeyNames.JoyV"
+msgstr "ДЖОЙСТИК V"
+
+msgid "KeyNames.JoySlider2"
+msgstr "СЛАЙДЕР ДЖОЙСТИКА 2"
+
+msgid "KeyNames.MouseWheelUp"
+msgstr "КОЛЕСО МИШІ ВГОРУ"
+
+msgid "KeyNames.MouseWheelDown"
+msgstr "КОЛЕСО МИШІ ВНИЗ"
+
+msgid "KeyNames.Joy1"
+msgstr "ДЖОЙСТИК 1"
+
+msgid "KeyNames.Joy2"
+msgstr "ДЖОЙСТИК 2"
+
+msgid "KeyNames.Joy3"
+msgstr "ДЖОЙСТИК 3"
+
+msgid "KeyNames.Joy4"
+msgstr "ДЖОЙСТИК 4"
+
+msgid "KeyNames.Joy5"
+msgstr "ДЖОЙСТИК 5"
+
+msgid "KeyNames.Joy7"
+msgstr "ДЖОЙСТИК 7"
+
+msgid "KeyNames.Joy8"
+msgstr "ДЖОЙСТИК 8"
+
+msgid "KeyNames.Joy9"
+msgstr "ДЖОЙСТИК 9"
+
+msgid "KeyNames.Joy10"
+msgstr "ДЖОЙСТИК 10"
+
+msgid "KeyNames.Joy11"
+msgstr "ДЖОЙСТИК 11"
+
+msgid "KeyNames.Joy12"
+msgstr "ДЖОЙСТИК 12"
+
+msgid "KeyNames.Joy13"
+msgstr "ДЖОЙСТИК 13"
+
+msgid "KeyNames.Joy14"
+msgstr "ДЖОЙСТИК 14"
+
+msgid "KeyNames.Joy15"
+msgstr "ДЖОЙСТИК 15"
+
+msgid "KeyNames.Joy16"
+msgstr "ДЖОЙСТИК 16"
+
+msgid "Progress.Connecting"
+msgstr "Підключення (F10 щоб скасувати)..."
+
+msgid "Errors.NetRefused"
+msgstr "Сервер відмовився відправити '%s'"
+
+msgid "Errors.NoDownload"
+msgstr "Пакет '%s' не можливо завантажити"
+
+msgid "Errors.NetOpen"
+msgstr "Помилка відкриття файлу"
+
+msgid "Errors.NetWrite"
+msgstr "Помилка запису до файлу"
+
+msgid "Errors.NetSize"
+msgstr "Невідповідність розміру файлу"
+
+msgid "Errors.NetMove"
+msgstr "Помилка переміщення файлу"
+
+msgid "Errors.DownloadFailed"
+msgstr "Не вдалося завантажити пакунок '%s': %s"
+
+msgid "Errors.RequestDenied"
+msgstr "Запит на файл з наступного рівня відхилено"
+
+msgid "Errors.ConnectionFailed"
+msgstr "Помилка з'єднання"
