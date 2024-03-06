@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-29 06:51+0000\n"
+"PO-Revision-Date: 2024-03-07 14:39+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/ru/>\n"
@@ -29,3 +29,21 @@ msgstr "ВНИЗ"
 
 msgid "KeyNames.Left"
 msgstr "ВЛЕВО"
+
+msgid "KeyNames.RightMouse"
+msgstr "ПРАВАЯ КНОПКА МЫШИ"
+
+msgid "KeyNames.MouseY"
+msgstr "ОСЬ Y (Мышь)"
+
+msgid "KeyNames.LeftMouse"
+msgstr "ЛЕВАЯ КНОПКА МЫШИ"
+
+msgid "KeyNames.MiddleMouse"
+msgstr "СРЕДНЯЯ КНОПКА МЫШИ"
+
+msgid "KeyNames.MouseX"
+msgstr "ОСЬ X (Мышь)"
+
+msgid "KeyNames.MouseZ"
+msgstr "ОСЬ Z (Мышь)"
