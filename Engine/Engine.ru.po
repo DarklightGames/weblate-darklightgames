@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-07 14:39+0000\n"
+"PO-Revision-Date: 2024-03-10 03:21+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/ru/>\n"
@@ -34,7 +34,7 @@ msgid "KeyNames.RightMouse"
 msgstr "ПРАВАЯ КНОПКА МЫШИ"
 
 msgid "KeyNames.MouseY"
-msgstr "ОСЬ Y (Мышь)"
+msgstr "МЫШЬ Y"
 
 msgid "KeyNames.LeftMouse"
 msgstr "ЛЕВАЯ КНОПКА МЫШИ"
@@ -43,7 +43,316 @@ msgid "KeyNames.MiddleMouse"
 msgstr "СРЕДНЯЯ КНОПКА МЫШИ"
 
 msgid "KeyNames.MouseX"
-msgstr "ОСЬ X (Мышь)"
+msgstr "МЫШЬ X"
 
 msgid "KeyNames.MouseZ"
-msgstr "ОСЬ Z (Мышь)"
+msgstr "МЫШЬ Z"
+
+msgid "Errors.NetRefused"
+msgstr "Сервер отказал в отправке"
+
+msgid "Errors.NetSize"
+msgstr "Несоответствие размера файлов"
+
+msgid "Errors.NetMove"
+msgstr "Ошибка перемещения файла"
+
+msgid "Errors.NoDownload"
+msgstr "Пакет '%s' недоступен для загрузки"
+
+msgid "Errors.DownloadFailed"
+msgstr "Загрузка пакета '%s' неудачно: %s"
+
+msgid "Errors.ConnectionFailed"
+msgstr "Подключение не удалось"
+
+msgid "Errors.ChAllocate"
+msgstr "Не удалось назначить канал"
+
+msgid "KeyNames.Joy14"
+msgstr "ДЖОЙ 14"
+
+msgid "KeyNames.PageUp"
+msgstr "PAGE UP"
+
+msgid "KeyNames.MouseWheelUp"
+msgstr "КОЛЁСИКО МЫШИ ВВЕРХ"
+
+msgid "Progress.ReceiveFile"
+msgstr "Приём '%s' (F10 для отмены)"
+
+msgid "Progress.ReceiveOptionalFile"
+msgstr "Приём опционального файла '%s' (Нажмите F10 что-бы пропустить)"
+
+msgid "KeyNames.JoyV"
+msgstr "ДЖОЙ V"
+
+msgid "KeyNames.Joy7"
+msgstr "ДЖОЙ 7"
+
+msgid "Progress.NetSending"
+msgstr "Отправка '%s': %i/%i"
+
+msgid "Errors.NetOpen"
+msgstr "Ошибка при открытии файла"
+
+msgid "KeyNames.NumPad7"
+msgstr "НУМПАД 7"
+
+msgid "KeyNames.NumPad8"
+msgstr "НУМПАД 8"
+
+msgid "Progress.CancelledConnect"
+msgstr "Попытка соединения отменена"
+
+msgid "Progress.NetSend"
+msgstr "Отправка '%s'"
+
+msgid "Progress.Connecting"
+msgstr "Подключение (нажмите F10 для отмены)..."
+
+msgid "Progress.Paused"
+msgstr "%s поставил на паузу"
+
+msgid "Errors.ServerOpen"
+msgstr "Серверы не могут открыть сетевые URL-адреса"
+
+msgid "Errors.ServerListen"
+msgstr "Выделенный сервер не может прослушать: %s"
+
+msgid "Errors.RequestDenied"
+msgstr "Запрошенный сервером файл из уровня ожидания: Отклонён"
+
+msgid "Errors.LoadPlayerClass"
+msgstr "Не удалось загрузить роли игроков"
+
+msgid "Errors.NetWrite"
+msgstr "Ошибка записи файла"
+
+msgid "Errors.NetAlready"
+msgstr "Уже в сети"
+
+msgid "Errors.NetClose"
+msgstr "Ошибка закрытия файла"
+
+msgid "Errors.NetInvalid"
+msgstr "Получен неверный запрос файла"
+
+msgid "Errors.NetListen"
+msgstr "Прослушивание не удалось: контекст компоновщика недоступен"
+
+msgid "Errors.Listen"
+msgstr "Прослушивание не удалось: %s"
+
+msgid "Errors.LoadEntry"
+msgstr "Не получилось загрузить Запись: %s"
+
+msgid "Errors.InvalidUrl"
+msgstr "Неверный URL-адрес: %s"
+
+msgid "Errors.InvalidLink"
+msgstr "Неверная ссылка: %s"
+
+msgid "Errors.FailedBrowse"
+msgstr "Не удалось войти на %s: %s"
+
+msgid "Errors.AbortToEntry"
+msgstr "Неудачно; возврат к записи"
+
+msgid "Errors.Pending"
+msgstr "Отложенное подключение к '%s' не удалось; %s"
+
+msgid "Errors.ServerOutdated"
+msgstr "Версия сервера устарела"
+
+msgid "Errors.ClientOutdated"
+msgstr "Вам необходимо установить последний патч"
+
+msgid "Errors.ConnectLost"
+msgstr "Соединение потеряно"
+
+msgid "Errors.DemoFileMissing"
+msgstr "Пакеты '%s' для проигрывания демо-записи отсутствуют"
+
+msgid "Errors.DownloadNotAllowed"
+msgstr "Загрузка '%s' запрещена"
+
+msgid "KeyNames.MouseW"
+msgstr "МЫШЬ W"
+
+msgid "KeyNames.JoyX"
+msgstr "ДЖОЙ X"
+
+msgid "KeyNames.JoyY"
+msgstr "ДЖОЙ Y"
+
+msgid "KeyNames.JoyZ"
+msgstr "ДЖОЙ Z"
+
+msgid "KeyNames.JoyU"
+msgstr "ДЖОЙ U"
+
+msgid "KeyNames.JoySlider1"
+msgstr "СЛАЙДЕР ДЖОЙСТИКА 1"
+
+msgid "KeyNames.JoySlider2"
+msgstr "СЛАЙДЕР ДЖОЙСТИКА 2"
+
+msgid "KeyNames.MouseWheelDown"
+msgstr "КОЛЁСИКО МЫШИ ВНИЗ"
+
+msgid "KeyNames.Joy3"
+msgstr "ДЖОЙ 3"
+
+msgid "KeyNames.Joy2"
+msgstr "ДЖОЙ 2"
+
+msgid "KeyNames.Joy1"
+msgstr "ДЖОЙ 1"
+
+msgid "KeyNames.Joy4"
+msgstr "ДЖОЙ 4"
+
+msgid "KeyNames.Joy5"
+msgstr "ДЖОЙ 5"
+
+msgid "KeyNames.Joy6"
+msgstr "ДЖОЙ 6"
+
+msgid "KeyNames.Joy9"
+msgstr "ДЖОЙ 9"
+
+msgid "KeyNames.Joy8"
+msgstr "ДЖОЙ 8"
+
+msgid "KeyNames.Joy10"
+msgstr "ДЖОЙ 10"
+
+msgid "KeyNames.Joy11"
+msgstr "ДЖОЙ 11"
+
+msgid "KeyNames.Joy12"
+msgstr "ДЖОЙ 12"
+
+msgid "KeyNames.Joy13"
+msgstr "ДЖОЙ 13"
+
+msgid "KeyNames.Joy15"
+msgstr "ДЖОЙ 15"
+
+msgid "KeyNames.Joy16"
+msgstr "ДЖОЙ 16"
+
+msgid "KeyNames.PageDown"
+msgstr "PAGE DOWN"
+
+msgid "KeyNames.NumPad0"
+msgstr "НУМПАД 0"
+
+msgid "KeyNames.NumPad1"
+msgstr "НУМПАД 1"
+
+msgid "KeyNames.NumPad2"
+msgstr "НУМПАД 2"
+
+msgid "KeyNames.NumPad3"
+msgstr "НУМПАД 3"
+
+msgid "KeyNames.NumPad4"
+msgstr "НУМПАД 4"
+
+msgid "KeyNames.NumPad5"
+msgstr "НУМПАД 5"
+
+msgid "KeyNames.NumPad6"
+msgstr "НУМПАД 6"
+
+msgid "KeyNames.NumPad9"
+msgstr "НУМПАД 9"
+
+msgid "KeyNames.GreyStar"
+msgstr "ТИЛЬДА"
+
+msgid "KeyNames.GreyPlus"
+msgstr "НУМПАД ПЛЮС"
+
+msgid "KeyNames.GreyMinus"
+msgstr "НУМПАД МИНУС"
+
+msgid "KeyNames.NumPadPeriod"
+msgstr "НУМПАД ."
+
+msgid "KeyNames.GreySlash"
+msgstr "СЛЭШ"
+
+msgid "Progress.RunningNet"
+msgstr "%s: %s (%i игроков)"
+
+msgid "Progress.NetReceiving"
+msgstr "Получено '%s': %i/%i"
+
+msgid "Progress.NetReceiveOk"
+msgstr "Успешно получено '%s'"
+
+msgid "Progress.Listening"
+msgstr "Прослушивание клиентов..."
+
+msgid "Progress.ReceiveSize"
+msgstr "Размер %iK, Завершено %3.1f%%"
+
+msgid "Progress.ConnectingText"
+msgstr "Подключение (F10 для отмены):"
+
+msgid "Progress.CorruptConnect"
+msgstr "Несовместимые файлы игры!"
+
+msgid "Progress.Loading"
+msgstr "Загрузка"
+
+msgid "KeyNames.End"
+msgstr "END"
+
+msgid "KeyNames.Home"
+msgstr "HOME"
+
+msgid "KeyNames.Select"
+msgstr "SELECT"
+
+msgid "KeyNames.Print"
+msgstr "PRINT"
+
+msgid "KeyNames.Execute"
+msgstr "EXECUTE"
+
+msgid "KeyNames.PrintScrn"
+msgstr "PRINTSCRN"
+
+msgid "KeyNames.Insert"
+msgstr "INSERT"
+
+msgid "KeyNames.Delete"
+msgstr "DELETE"
+
+msgid "KeyNames.Help"
+msgstr "HELP"
+
+msgid "KeyNames.Separator"
+msgstr "РАЗДЕЛИТЕЛЬНАЯ ЧЕРТА"
+
+msgid "KeyNames.Pause"
+msgstr "ПАУЗА"
+
+msgid "KeyNames.CapsLock"
+msgstr "КАПСЛОК"
+
+msgid "KeyNames.Tab"
+msgstr "ТАБ"
+
+msgid "KeyNames.Shift"
+msgstr "ШИФТ"
+
+msgid "KeyNames.NumLock"
+msgstr "НУМЛОК"
+
+msgid "KeyNames.Escape"
+msgstr "ESCAPE"
