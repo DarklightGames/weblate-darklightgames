@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-28 22:27+0000\n"
+"PO-Revision-Date: 2024-03-10 03:21+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -1154,7 +1154,7 @@ msgid "DHPassengerPawn.HudName"
 msgstr "Пассажир"
 
 msgid "DHPawnTouchMessage.Messages<0>"
-msgstr "Нажмите [%THROWMGAMO%], чтобы пополнить боеприпасы {0}"
+msgstr "Нажмите [%THROWMGAMO%], чтобы дать боеприпасы {0}"
 
 msgid "DHPawnTouchMessage.Messages<1>"
 msgstr "Нажмите [%THROWMGAMO%], чтобы перезарядить {0}"
@@ -2727,3 +2727,78 @@ msgstr "{name} начал голосование."
 
 msgid "DHGameMessage.NewTeamMessageRussian"
 msgstr "{name} присоединился к войскам Союзников."
+
+msgid "DHVoicePack.VehicleDirectionString[0]"
+msgstr "Переместиться в точку {objective}"
+
+msgid "DHGameMessage.LeftMessage"
+msgstr "{name} покинул поле боя."
+
+msgid "DHGameMessage.EnteredMessage"
+msgstr "{name} зашёл на поле боя."
+
+msgid "DHVoicePack.OrderString[1]"
+msgstr "Защищать {objective}"
+
+msgid "DHATGunTouchMessage.Controls<1>.Text"
+msgstr "Вращать"
+
+msgid "DHATGunTouchMessage.Controls<0>.Text"
+msgstr "Сесть"
+
+msgid "DHMapDatabase.SizeAnyText"
+msgstr "Любой"
+
+msgid "DHMapDatabase.SizeExtraSmallText"
+msgstr "Очень маленький"
+
+msgid "DHMapDatabase.SizeSmallText"
+msgstr "Маленький"
+
+msgid "DHMapDatabase.SizeMediumText"
+msgstr "Средний"
+
+msgid "DHMapDatabase.SizeLargeText"
+msgstr "Большой"
+
+msgid "DHPawn.AdminSpawnedVehicleText"
+msgstr "Администратор {name} вызвал {vehicle}"
+
+msgid "DHResetGameMsg.CountdownText"
+msgstr "Игра будет перезапущена через {seconds} секунд"
+
+msgid "DHResetGameMsg.GameRestartingText"
+msgstr "Игра перезапущена"
+
+msgid "DHUnits.UnrealDistanceSymbol"
+msgstr "uu"
+
+msgid "DHVehicleTouchControlsMessage.Controls<0>.Text"
+msgstr "Сесть"
+
+msgid "DHVoicePack.SupportString[1]"
+msgstr "Нужна помощь в точке {objective}"
+
+msgid "DHVoicePack.AlertString[8]"
+msgstr "Под атакой в точке {objective}"
+
+msgid "DHVoicePack.OrderString[0]"
+msgstr "Атаковать {objective}"
+
+msgid "DHWeaponPickupTouchMessage.TouchMessage"
+msgstr "Нажмите {input} что бы подобрать {item}"
+
+msgid "DHHud.SayTypeConsoleText"
+msgstr "[КОНСОЛЬ]"
+
+msgid "DHHud.SayTypeAllText"
+msgstr "[ВСЕ]"
+
+msgid "DHHintManager.Hints[55].Title"
+msgstr "Гранаты с ударным взрывателем"
+
+msgid "DHHintManager.Hints[55].Text"
+msgstr ""
+"Вы держите гранату с запалом ударного типа. Она взорвётся от удара об любую "
+"поверхность. Убедитесь что кидаете гранату не слишком слабо иначе она может "
+"не взорваться!"
