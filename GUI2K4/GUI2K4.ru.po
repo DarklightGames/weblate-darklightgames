@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 21:23+0000\n"
+"PO-Revision-Date: 2024-03-10 03:21+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/ru/>\n"
@@ -158,3 +158,32 @@ msgstr "Применить новые настройки?"
 
 msgid "UT2K4VideoChangeOK.lbText2.Caption"
 msgstr "(Изначальные настройки будут восстановлены через 15 секунд)"
+
+msgid "UT2K4Browser_ServerListPageMS.PanelCaption"
+msgstr "Браузер серверов: Интернет"
+
+msgid "UT2K4Tab_MidGameVoiceChat.NOSPEECH.Hint"
+msgstr ""
+"Не получать никаких голосовых сообщений, как например \"Артудар!\" от этого "
+"игрока"
+
+msgid "UT2k4Browser_ServerListPageFavorites.PanelCaption"
+msgstr "Браузер серверов: Избранное"
+
+msgid "ControlBinder.BindingLabel[15]"
+msgstr "Переключить на \"Вид сзади\""
+
+msgid "UT2k4Browser_ServerListPageLAN.PanelCaption"
+msgstr "Браузер серверов: Локальная сеть LAN"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<1>"
+msgstr "Название сервера"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<2>"
+msgstr "Карта"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<3>"
+msgstr "Игроки"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<4>"
+msgstr "Пинг"
