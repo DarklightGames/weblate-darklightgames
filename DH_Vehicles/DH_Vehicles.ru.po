@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-12 13:39+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2024-09-29 11:13+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
 "Language: ru\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DH_50CalDamType.FemaleSuicide"
 msgstr "%o была убита из собственного пулемета .50 калибра."
@@ -31,6 +31,7 @@ msgstr "Mk.I HE-T"
 msgid "DH_AchillesTank.VehicleNameString"
 msgstr "ПТ-САУ Mk.IC \"Ахиллес\""
 
+#, fuzzy
 msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
 
@@ -1081,6 +1082,7 @@ msgstr "%o был убит %k из пулемета .50 калибра ."
 msgid "DH_50CalDamType.MaleSuicide"
 msgstr "%o был убит из собственного пулемета .50 калибра."
 
+#, fuzzy
 msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<1>"
 msgstr "Sprgr.Patr.38"
 
