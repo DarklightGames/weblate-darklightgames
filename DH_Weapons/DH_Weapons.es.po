@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-15 03:25+0000\n"
-"Last-Translator: Argilas <argilas@hotmail.com>\n"
+"PO-Revision-Date: 2024-09-29 11:13+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/es/>\n"
 "Language: es\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DH_MKB42HWeapon.ItemName"
 msgstr "Mkb 42(H)"
@@ -318,6 +318,7 @@ msgstr "Granada StG 24"
 msgid "DH_RPG43GrenadeWeapon.ItemName"
 msgstr "Granada Antitanque RPG-43"
 
+#, fuzzy
 msgid "DH_FG42ScopedWeapon.ItemName"
 msgstr "Fallschirmjägergewehr 42 (ZFG42)"
 
@@ -339,6 +340,7 @@ msgstr "Beretta M1934"
 msgid "DH_LtypeGrenadeWeapon.ItemName"
 msgstr "OTO bomba Tipo L"
 
+#, fuzzy
 msgid "DH_MAB42Weapon.ItemName"
 msgstr "Moschetto Automatico Beretta M1938/42"
 
