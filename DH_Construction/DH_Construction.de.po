@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-11 18:36+0000\n"
-"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
+"PO-Revision-Date: 2024-09-29 11:13+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/de/>\n"
 "Language: de\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
 msgstr "Erschöpft"
@@ -47,6 +47,7 @@ msgstr "Stornieren"
 msgid "DHConstructionControlsMessage.Controls[2].Text"
 msgstr "Drehen"
 
+#, fuzzy
 msgid "DHCommandMenu_ConstructionGroup.RemainingText"
 msgstr "Verbleibend"
 
