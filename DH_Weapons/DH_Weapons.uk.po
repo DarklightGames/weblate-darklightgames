@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-12 13:39+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2024-09-29 11:13+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/uk/>\n"
 "Language: uk\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DH_ColtM1914Weapon.ItemName"
 msgstr "Пістолет Конгсберг Кольтен М/1914"
@@ -106,6 +106,7 @@ msgstr "Гвинтівка Лі-Енфілд №4"
 msgid "DH_F1GrenadeWeapon.ItemName"
 msgstr "Граната Ф-1"
 
+#, fuzzy
 msgid "DH_FG42ScopedWeapon.ItemName"
 msgstr "Гвинтівка парашутиста FG-42 (ZFG42)"
 
@@ -343,6 +344,7 @@ msgstr "Гвинтівка Каркано M91"
 msgid "DH_LtypeGrenadeWeapon.ItemName"
 msgstr "Граната Tipo L"
 
+#, fuzzy
 msgid "DH_MAB42Weapon.ItemName"
 msgstr "MAB M1938/42"
 
