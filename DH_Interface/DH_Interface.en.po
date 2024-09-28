@@ -284,6 +284,9 @@ msgstr "Level Designers"
 msgid "DHCreditsPage.SoundArtistsText"
 msgstr "Sound Artists"
 
+msgid "DHCreditsPage.VoiceActorsText"
+msgstr "Voice Actors"
+
 msgid "DHCreditsPage.LocalizationTeamText"
 msgstr "Localization Team"
 
@@ -361,6 +364,9 @@ msgstr "Unassigned"
 
 msgid "DHDeployMenu.NonSquadLeaderOnlyText"
 msgstr "NON-LEADERS ONLY"
+
+msgid "DHDeployMenu.RoleLockedText"
+msgstr "LOCKED"
 
 msgid "DHDeployMenu.SurrenderConfirmBaseText"
 msgstr "Are you sure you want to surrender?"

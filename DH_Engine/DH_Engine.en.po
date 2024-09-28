@@ -494,6 +494,9 @@ msgstr "Rotation unavailable"
 msgid "DHCommandMenu_ATGun.CooldownText"
 msgstr "Wait"
 
+msgid "DHCommandMenu_ATGun.BusyText"
+msgstr "Busy"
+
 msgid "DHCommandMenu_ATGun.Options<0>.ActionText"
 msgstr "Rotate"
 
@@ -683,6 +686,9 @@ msgstr "You cannot {verb} a {name} in enemy territory"
 msgid "DHConstructionErrorMessage.ErrorMessages<26>"
 msgstr "There are no more {name} available"
 
+msgid "DHConstructionErrorMessage.ErrorMessages<27>"
+msgstr "This socket is already occupied"
+
 msgid "DHConstructionGroup_Guns.GroupName"
 msgstr "Guns"
 
@@ -748,6 +754,12 @@ msgstr "{0} killed a friendly {1}."
 
 msgid "DHGameMessage.RoleInvalidatedMessage"
 msgstr "You are no longer qualified to be {article}{name}."
+
+msgid "DHGameMessage.RoleLockedMessage"
+msgstr "{role} has been locked."
+
+msgid "DHGameMessage.RoleUnlockedMessage"
+msgstr "{role} has been unlocked."
 
 msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
 msgstr "You must have another teammate nearby to deconstruct an enemy Platoon HQ!"
@@ -997,6 +1009,12 @@ msgstr "Barrel Destroyed"
 
 msgid "DHHintManager.Hints[64].Text"
 msgstr "Your weapon's barrel has been destroyed by overheating! You can no longer fire this weapon."
+
+msgid "DHHintManager.Hints[65].Title"
+msgstr "Semovente da 90/53"
+
+msgid "DHHintManager.Hints[65].Text"
+msgstr "Although the Semovente da 90/53 has a powerful gun, it has a very limited ammunition rack. Make every shot count!"
 
 msgid "DHHud.ServerNameText"
 msgstr "Server: "
@@ -1429,6 +1447,9 @@ msgstr "You cannot use enemy radios"
 
 msgid "DHRadioTouchMessage.BusyMessage"
 msgstr "Radio is currently in use"
+
+msgid "DHRadioTouchMessage.CalibratingMessage"
+msgstr "Radio is calibrating"
 
 msgid "DHReinforcementAwardMsg.ObjectiveString"
 msgstr "an objective"

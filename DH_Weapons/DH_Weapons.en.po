@@ -78,7 +78,7 @@ msgid "DH_F1GrenadeWeapon.ItemName"
 msgstr "F1 Grenade"
 
 msgid "DH_FG42ScopedWeapon.ItemName"
-msgstr "Fallschirmjägergewehr 42 (ZFG42)"
+msgstr "FG 42 (ZFG42)"
 
 msgid "DH_FG42Weapon.ItemName"
 msgstr "FG 42"
@@ -189,7 +189,7 @@ msgid "DH_MAB38Weapon.ItemName"
 msgstr "MAB 38"
 
 msgid "DH_MAB42Weapon.ItemName"
-msgstr "Moschetto Automatico Beretta M1938/42"
+msgstr "MAB 42"
 
 msgid "DH_MG34Weapon.ItemName"
 msgstr "MG 34"

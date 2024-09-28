@@ -21,7 +21,7 @@ msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
 msgstr "Exhausted"
 
 msgid "DHCommandMenu_ConstructionGroup.RemainingText"
-msgstr "Remaining"
+msgstr "{0} Remaining"
 
 msgid "DHConstructionControlsMessage.Controls<0>.Text"
 msgstr "Confirm"
@@ -81,7 +81,7 @@ msgid "DHConstruction_MortarPit.MenuName"
 msgstr "Mortar Pit"
 
 msgid "DHConstruction_PlatoonHQ.CustomErrorString"
-msgstr "Cannot {verb} a {name} close to {string} unless within {integer}m of controlled territory."
+msgstr "Cannot {verb} a {name} close to {string} unless within {integer}m of a controlled objective."
 
 msgid "DHConstruction_PlatoonHQ.MenuName"
 msgstr "Command Post"
@@ -136,6 +136,3 @@ msgstr "Provides a team-wide vehicle spawn point."
 
 msgid "DHConstruction_Watchtower.MenuName"
 msgstr "Watchtower"
-
-msgid "DHConstruction_WoodFence.MenuName"
-msgstr "Wood Fence"

@@ -36,10 +36,10 @@ msgid "DH_AchillesTank.VehicleNameString"
 msgstr "Achilles Mk.IC"
 
 msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<0>"
-msgstr "PzGr.39"
+msgstr "Granata Perforante da 20"
 
 msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<1>"
-msgstr "Sprgr.Patr.38"
+msgstr "Granata da 20"
 
 msgid "DH_Autoblinda43ArmoredCar.VehicleNameString"
 msgstr "Autoblinda 43"
@@ -170,6 +170,9 @@ msgstr "DUKW"
 msgid "DH_DUKWSupport.VehicleNameString"
 msgstr "DUKW (Support)"
 
+msgid "DH_Fiat508CMTransport.VehicleNameString"
+msgstr "Fiat 508CM"
+
 msgid "DH_Fiat626Truck.VehicleNameString"
 msgstr "Fiat 626"
 
@@ -178,24 +181,6 @@ msgstr "Fiat 626 (Logistics)"
 
 msgid "DH_Fiat626TruckTransport.VehicleNameString"
 msgstr "Fiat 626 (Transport)"
-
-msgid "DH_FiatL640Cannon.ProjectileDescriptions<0>"
-msgstr "APCBC"
-
-msgid "DH_FiatL640Cannon.ProjectileDescriptions<1>"
-msgstr "HE"
-
-msgid "DH_FiatL640Cannon.ProjectileDescriptions<2>"
-msgstr "Canister"
-
-msgid "DH_FiatL640Cannon.nProjectileDescriptions<0>"
-msgstr "M51B1 APC"
-
-msgid "DH_FiatL640Cannon.nProjectileDescriptions<1>"
-msgstr "M63 HE-T"
-
-msgid "DH_FiatL640Cannon.nProjectileDescriptions<2>"
-msgstr "M2 Canister"
 
 msgid "DH_FiatL640Tank.VehicleNameString"
 msgstr "Carro Armato L6/40"
@@ -799,6 +784,27 @@ msgstr "Sprgr.Patr.38"
 
 msgid "DH_Sdkfz251Transport.VehicleNameString"
 msgstr "Sd.Kfz.251 Halftrack"
+
+msgid "DH_Semovente4732Cannon.ProjectileDescriptions<0>"
+msgstr "AP"
+
+msgid "DH_Semovente4732Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_Semovente4732Cannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_Semovente4732Cannon.nProjectileDescriptions<0>"
+msgstr "Granata Perforante da 47"
+
+msgid "DH_Semovente4732Cannon.nProjectileDescriptions<1>"
+msgstr "Granata da 47"
+
+msgid "DH_Semovente4732Cannon.nProjectileDescriptions<2>"
+msgstr "Effeto Pronto da 47"
+
+msgid "DH_Semovente4732Destroyer.VehicleNameString"
+msgstr "Semovente L40 da 47/32"
 
 msgid "DH_Semovente9053Cannon.nProjectileDescriptions<0>"
 msgstr "Granata Perforante da 90"

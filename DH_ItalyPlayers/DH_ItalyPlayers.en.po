@@ -6,7 +6,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
 
 msgid "DHITAAntiTankRoles.AltName"
-msgstr "Anticarro Fuciliere"
+msgstr "Fuciliere Anticarro"
+
+msgid "DHITAEngineerRoles.AltName"
+msgstr "Guastatori"
 
 msgid "DHITAMachineGunnerRoles.AltName"
 msgstr "Mitragliere"
@@ -23,11 +26,20 @@ msgstr "Sergente"
 msgid "DHITATankCrewmanRoles.AltName"
 msgstr "Carrista"
 
+msgid "DHITAssaultRoles.AltName"
+msgstr "Camicie Nere"
+
+msgid "DHITCorporalRoles.AltName"
+msgstr "Caporale"
+
 msgid "DHItalyVoice.SupportStringAxis[5]"
-msgstr "We need a Panzerschreck!"
+msgstr "We need an anti-tank rifle!"
 
 msgid "DHItalyVoice.SupportAbbrevAxis[5]"
-msgstr "Need a Panzerschreck"
+msgstr "Need an Anti-Tank Rifle"
+
+msgid "DHItalyVoice.EnemyStringAxis[6]"
+msgstr "Tank! Tank!"
 
 msgid "DHNation_Italy.NationName"
 msgstr "Kingdom of Italy"
