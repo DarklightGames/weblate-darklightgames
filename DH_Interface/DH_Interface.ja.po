@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-15 03:25+0000\n"
+"PO-Revision-Date: 2024-10-04 04:13+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DHBrowser_OpenIP.CancelButton.Caption"
 msgstr "キャンセル"
@@ -346,3 +346,6 @@ msgstr "Facebookでフォローしてください！"
 
 msgid "DHMainMenu.QuitButton.Caption"
 msgstr "出口"
+
+msgid "DHBrowser_OpenIP.OkButton.Caption"
+msgstr "OK"
