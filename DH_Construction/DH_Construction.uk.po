@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-29 11:13+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-10-06 12:13+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/uk/>\n"
 "Language: uk\n"
@@ -17,7 +17,7 @@ msgid "DHConstructionControlsMessage.Controls<2>.Text"
 msgstr "Обернути"
 
 msgid "DHConstruction_Sandbags_Bunker.MenuName"
-msgstr "Мішки з піском (Бункер)"
+msgstr "Мішки з піском (бункер)"
 
 msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
 msgstr "Вичерпано"
@@ -44,7 +44,7 @@ msgid "DHCameraWeapon.ItemName"
 msgstr "Камера"
 
 msgid "DHConstruction_Sandbags_Crescent.MenuName"
-msgstr "Мішки з піском (Півколо)"
+msgstr "Мішки з піском (півколо)"
 
 msgid "DHConstruction_Foxhole.MenuName"
 msgstr "Поодинокий окоп"
@@ -58,15 +58,14 @@ msgstr "викопати"
 msgid "DHConstructionControlsMessage.Controls<0>.Text"
 msgstr "Підтвердити"
 
-#, fuzzy
 msgid "DHCommandMenu_ConstructionGroup.RemainingText"
-msgstr "Залишилось"
+msgstr "{0} Залишилось"
 
 msgid "DHConstruction_ConcertinaWire.MenuName"
-msgstr "Колючий дріт"
+msgstr "Колюча стрічка"
 
 msgid "DHConstruction_DragonsTooth.MenuName"
-msgstr "Драконячі зуби"
+msgstr "Зуби дракона"
 
 msgid "DHConstruction_Radio.MenuName"
 msgstr "Радіо"
@@ -84,7 +83,7 @@ msgid "DHConstruction_InventorySpawner.ConstructionVerb"
 msgstr "встановити"
 
 msgid "DHConstruction_Sandbags_Line.MenuName"
-msgstr "Мішки з піском (Лінія)"
+msgstr "Мішки з піском (лінія)"
 
 msgid "DHConstruction_SupplyCache.ConstructionVerb"
 msgstr "встановити"
@@ -111,7 +110,7 @@ msgid "DHConstruction_DragonsTooth.MenuDescription"
 msgstr "Ефективні для блокування будь-яких видів техніки."
 
 msgid "DHConstruction_Radio.MenuDescription"
-msgstr "Дозволяє викликати артилерійську підтримку."
+msgstr "Дозволяє викликати підтримку артилерії."
 
 msgid "DHConstruction_MortarPit.MenuName"
 msgstr "Мінометний окоп"
@@ -144,7 +143,10 @@ msgid "DHConstruction_SupplyCache.MenuDescription"
 msgstr "Зберігає і накопичує запаси з часом."
 
 msgid "DHConstruction_VehiclePool.MenuDescription"
-msgstr "Забезпечує точку появи техніки для всієї команди."
+msgstr "Забезпечує точку відродження техніки для всієї команди."
 
 msgid "DHConstruction_Watchtower.MenuName"
 msgstr "Спостережна вежа"
+
+msgid "DHConstructionControlsMessage.Controls<3>.Text"
+msgstr "Скинути обертання"
