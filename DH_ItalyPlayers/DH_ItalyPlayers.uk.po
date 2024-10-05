@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-29 11:13+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-10-06 12:13+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_italyplayers/uk/>\n"
 "Language: uk\n"
@@ -13,13 +13,14 @@ msgstr ""
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.7.2\n"
 
-#, fuzzy
 msgid "DHItalyVoice.SupportStringAxis[5]"
-msgstr "Нам потрібен Панцершрек!"
+msgstr "Нам потрібна протитанкова рушниця!"
 
 msgid "DHNation_Italy.NationName"
 msgstr "Королівство Італія"
 
-#, fuzzy
 msgid "DHItalyVoice.SupportAbbrevAxis[5]"
-msgstr "Потрібен Панцершрек"
+msgstr "Потрібна протитанкова рушниця"
+
+msgid "DHItalyVoice.EnemyStringAxis[6]"
+msgstr "Танк! Танк!"
