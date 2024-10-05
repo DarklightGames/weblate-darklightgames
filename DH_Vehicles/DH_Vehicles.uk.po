@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-29 11:13+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-10-06 12:13+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/uk/>\n"
 "Language: uk\n"
@@ -608,7 +608,7 @@ msgid "DH_GermanCarrierTransport.VehicleNameString"
 msgstr "Брен 731(e)"
 
 msgid "DH_HellcatTank.VehicleNameString"
-msgstr "ПТ-САУ М18 \"Пекельна кішка\""
+msgstr "М18 \"Хеллкет\""
 
 msgid "DH_HetzerDestroyer.VehicleNameString"
 msgstr "ПТ-САУ Jagdpanzer 38(t) \"Хетцер\""
@@ -646,7 +646,6 @@ msgstr "Panzer V \"Пантера\" Ausf.D"
 msgid "DH_PanzerIIIJTank.VehicleNameString"
 msgstr "Panzer III Ausf.J"
 
-#, fuzzy
 msgid "DH_PanzerIIILTank.VehicleNameString"
 msgstr "Panzer III Ausf.L"
 
@@ -793,9 +792,8 @@ msgstr "Mk.I APDS"
 msgid "DH_AchillesCannon.nProjectileDescriptions<2>"
 msgstr "Mk.I HE-T"
 
-#, fuzzy
 msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<1>"
-msgstr "Sprgr.Patr.38"
+msgstr "Granata da 20"
 
 msgid "DH_BT7Cannon.nProjectileDescriptions<1>"
 msgstr "O-240"
@@ -806,7 +804,6 @@ msgstr "Mk.IA HE-T"
 msgid "DH_HellcatCannon.nProjectileDescriptions<2>"
 msgstr "M42A1 HE-T"
 
-#, fuzzy
 msgid "DH_HetzerCannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
 
@@ -822,7 +819,6 @@ msgstr "M82 APC"
 msgid "DH_JacksonCannon.nProjectileDescriptions<2>"
 msgstr "M71 HE-T"
 
-#, fuzzy
 msgid "DH_JacksonCannon_Early.nProjectileDescriptions<1>"
 msgstr "M77 AP-T"
 
@@ -832,7 +828,6 @@ msgstr "Sprgr.Patr.34"
 msgid "DH_JagdpanzerIVL70Cannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39/42"
 
-#, fuzzy
 msgid "DH_JagdpanzerIVL70Cannon.nProjectileDescriptions<2>"
 msgstr "Sprgr.Patr.42"
 
@@ -881,9 +876,8 @@ msgstr "PzGr.39/43"
 msgid "DH_WolverineCannon_Early.nProjectileDescriptions<1>"
 msgstr "M42A1 HE-T"
 
-#, fuzzy
 msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<0>"
-msgstr "PzGr.39"
+msgstr "Granata Perforante da 20"
 
 msgid "DH_Autoblinda43Cannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
@@ -951,11 +945,9 @@ msgstr "M93 HVAP"
 msgid "DH_JacksonCannon.nProjectileDescriptions<1>"
 msgstr "M304 HVAP"
 
-#, fuzzy
 msgid "DH_JacksonCannon_Early.nProjectileDescriptions<0>"
 msgstr "M82 APC"
 
-#, fuzzy
 msgid "DH_JacksonCannon_Early.nProjectileDescriptions<2>"
 msgstr "M71 HE-T"
 
@@ -971,7 +963,6 @@ msgstr "PzGr.39"
 msgid "DH_JagdpanzerIVL48Cannon.nProjectileDescriptions<2>"
 msgstr "Nbgr.Kw.K"
 
-#, fuzzy
 msgid "DH_JagdpanzerIVL70Cannon.nProjectileDescriptions<1>"
 msgstr "PzGr.40/42"
 
@@ -1023,15 +1014,12 @@ msgstr "Sprgr.Patr.42"
 msgid "DH_PanzerIIIJCannon.nProjectileDescriptions<1>"
 msgstr "Sprgr.Patr.38"
 
-#, fuzzy
 msgid "DH_PanzerIIILCannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
 
-#, fuzzy
 msgid "DH_PanzerIIILCannon.nProjectileDescriptions<1>"
 msgstr "PzGr.40"
 
-#, fuzzy
 msgid "DH_PanzerIIILCannon.nProjectileDescriptions<2>"
 msgstr "Sprgr.Patr.38"
 
@@ -1280,3 +1268,9 @@ msgstr "M62 APC"
 
 msgid "DH_WolverineCannon_Early.nProjectileDescriptions<2>"
 msgstr "M88 HC"
+
+msgid "DH_Fiat508CMTransport.VehicleNameString"
+msgstr "Фіат 508CM"
+
+msgid "DH_FiatL640Tank.VehicleNameString"
+msgstr "Карро Армато L6/40"
