@@ -138,7 +138,7 @@ msgid "DH_Cannone4732Gun.VehicleNameString"
 msgstr "Cannone da 47/32"
 
 msgid "DH_Fiat1435Gun.VehicleNameString"
-msgstr "Fiat-Revelli Modello 14/35"
+msgstr "Fiat-Revelli modello 14/35"
 
 msgid "DH_Flak38Gun.VehicleNameString"
 msgstr "2cm FlaK 38 gun"
@@ -154,6 +154,21 @@ msgstr "8.8cm FlaK 36 gun"
 
 msgid "DH_Flakvierling38Gun.VehicleNameString"
 msgstr "2cm Flakvierling 38 gun"
+
+msgid "DH_Granatwerfer34Cannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_Granatwerfer34Cannon.ProjectileDescriptions<1>"
+msgstr "Smoke"
+
+msgid "DH_Granatwerfer34Cannon.nProjectileDescriptions<0>"
+msgstr "Wgr. 38"
+
+msgid "DH_Granatwerfer34Cannon.nProjectileDescriptions<1>"
+msgstr "Wgr. 38 Nb."
+
+msgid "DH_Granatwerfer34Mortar.VehicleNameString"
+msgstr "Granatwerfer 34"
 
 msgid "DH_LeIG18Cannon.ProjectileDescriptions<0>"
 msgstr "HE"
@@ -184,6 +199,9 @@ msgstr "HEAT M66"
 
 msgid "DH_M116Gun.VehicleNameString"
 msgstr "75mm Pack Howitzer M1"
+
+msgid "DH_M1919A4Gun.VehicleNameString"
+msgstr "M1919A4 Browning Machine Gun"
 
 msgid "DH_M1927Cannon.ProjectileDescriptions<0>"
 msgstr "HE"
@@ -224,8 +242,23 @@ msgstr "M62 APC"
 msgid "DH_M5GunCannon.nProjectileDescriptions<1>"
 msgstr "M42A1 HE-T"
 
+msgid "DH_ML3InchCannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_ML3InchCannon.ProjectileDescriptions<1>"
+msgstr "Smoke"
+
+msgid "DH_ML3InchCannon.nProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_ML3InchCannon.nProjectileDescriptions<1>"
+msgstr "Phosphorus"
+
+msgid "DH_ML3InchMortar.VehicleNameString"
+msgstr "Ordnance ML 3-inch Mortar"
+
 msgid "DH_Model35Mortar.VehicleNameString"
-msgstr "81/14 Model 35 Mortar"
+msgstr "Mortaio da 81/14 modello 35"
 
 msgid "DH_Model35MortarCannon.ProjectileDescriptions<0>"
 msgstr "HE"

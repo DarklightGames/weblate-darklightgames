@@ -111,7 +111,7 @@ msgid "DHAdminMenu_AdminMessages.ConfirmDisableRallyPoints"
 msgstr "Press enter to confirm you want to DISABLE rally point placement"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableRallyPoints"
-msgstr "Press enter to confirm you want to RE-ENABLE rally poiint placement"
+msgstr "Press enter to confirm you want to RE-ENABLE rally point placement"
 
 msgid "DHAdminMenu_DamageType.DeathString"
 msgstr "%o was re-spawned by an admin"

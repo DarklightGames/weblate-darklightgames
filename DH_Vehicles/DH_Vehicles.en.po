@@ -53,6 +53,12 @@ msgstr "Sprgr.Patr.38"
 msgid "DH_AutoblindaArmoredCar.VehicleNameString"
 msgstr "Autoblinda 41"
 
+msgid "DH_AutocarrettaOM.VehicleNameString"
+msgstr "Autocarretta OM 36P"
+
+msgid "DH_AutocarrettaOMSupport.VehicleNameString"
+msgstr "Autocarretta OM 36Mt (Logistics)"
+
 msgid "DH_BA64ArmoredCar.VehicleNameString"
 msgstr "BA64 Armored Car"
 
@@ -816,13 +822,13 @@ msgid "DH_Semovente9053Destroyer.VehicleNameString"
 msgstr "Semovente da 90/53"
 
 msgid "DH_ShermanCannon.ProjectileDescriptions<0>"
-msgstr "APCBC"
+msgstr "APC"
 
 msgid "DH_ShermanCannon.ProjectileDescriptions<1>"
 msgstr "HE"
 
 msgid "DH_ShermanCannon.ProjectileDescriptions<2>"
-msgstr "HE"
+msgstr "WP"
 
 msgid "DH_ShermanCannon.nProjectileDescriptions<0>"
 msgstr "M61 APC"

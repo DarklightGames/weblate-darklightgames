@@ -98,116 +98,11 @@ msgstr "Players"
 msgid "DHBrowser_ServersList.ColumnHeadings<7>"
 msgstr "Ping"
 
-msgid "DHButtonFont.FontArrayNames<0>"
-msgstr "DHFonts.DHButtonFont"
-
-msgid "DHButtonFont.FontArrayNames<1>"
-msgstr "DHFonts.DHButtonFont"
-
-msgid "DHButtonFont.FontArrayNames<2>"
-msgstr "DHFonts.DHButtonFont"
-
-msgid "DHButtonFont.FontArrayNames<3>"
-msgstr "DHFonts.DHButtonFont"
-
-msgid "DHButtonFont.FontArrayNames<4>"
-msgstr "DHFonts.DHButtonFont"
-
-msgid "DHButtonFont.FontArrayNames<5>"
-msgstr "DHFonts.DHButtonFont"
-
-msgid "DHButtonFont.FontArrayNames<6>"
-msgstr "DHFonts.DHButtonFont"
-
-msgid "DHButtonFont.FontArrayNames<7>"
-msgstr "DHFonts.DHButtonFont"
-
-msgid "DHButtonFont.FontArrayNames<8>"
-msgstr "DHFonts.DHButtonFont"
-
-msgid "DHButtonFont.FontArrayNames<9>"
-msgstr "DHFonts.DHButtonFont"
-
-msgid "DHButtonFont.FontArrayNames<10>"
-msgstr "DHFonts.DHButtonFont"
-
-msgid "DHButtonFont.FontArrayNames<11>"
-msgstr "DHFonts.DHButtonFont"
-
-msgid "DHButtonFont.FontArrayNames<12>"
-msgstr "DHFonts.DHButtonFont"
-
-msgid "DHButtonFont.FontArrayNames<13>"
-msgstr "DHFonts.DHButtonFont"
-
-msgid "DHButtonFont.FontArrayNames<14>"
-msgstr "DHFonts.DHButtonFont"
-
-msgid "DHButtonFontDS.FontArrayNames<0>"
-msgstr "DHFonts.DHButtonFontDS"
-
-msgid "DHButtonFontDS.FontArrayNames<1>"
-msgstr "DHFonts.DHButtonFontDS"
-
-msgid "DHButtonFontDS.FontArrayNames<2>"
-msgstr "DHFonts.DHButtonFontDS"
-
-msgid "DHButtonFontDS.FontArrayNames<3>"
-msgstr "DHFonts.DHButtonFontDS"
-
-msgid "DHButtonFontDS.FontArrayNames<4>"
-msgstr "DHFonts.DHButtonFontDS"
-
-msgid "DHButtonFontDS.FontArrayNames<5>"
-msgstr "DHFonts.DHButtonFontDS"
-
-msgid "DHButtonFontDS.FontArrayNames<6>"
-msgstr "DHFonts.DHButtonFontDS"
-
-msgid "DHButtonFontDS.FontArrayNames<7>"
-msgstr "DHFonts.DHButtonFontDS"
-
-msgid "DHButtonFontDS.FontArrayNames<8>"
-msgstr "DHFonts.DHButtonFontDS"
-
-msgid "DHButtonFontDS.FontArrayNames<9>"
-msgstr "DHFonts.DHButtonFontDS"
-
-msgid "DHButtonFontDS.FontArrayNames<10>"
-msgstr "DHFonts.DHButtonFontDS"
-
-msgid "DHButtonFontDS.FontArrayNames<11>"
-msgstr "DHFonts.DHButtonFontDS"
-
-msgid "DHButtonFontDS.FontArrayNames<12>"
-msgstr "DHFonts.DHButtonFontDS"
-
-msgid "DHButtonFontDS.FontArrayNames<13>"
-msgstr "DHFonts.DHButtonFontDS"
-
-msgid "DHButtonFontDS.FontArrayNames<14>"
-msgstr "DHFonts.DHButtonFontDS"
-
 msgid "DHCommunicationPage.Panels<0>.Caption"
 msgstr "Communication"
 
 msgid "DHCommunicationPage.Panels<0>.Hint"
 msgstr "Manage communication with other players"
-
-msgid "DHConsoleFont.FontArrayNames<0>"
-msgstr "DHFonts.DHConsoleFont"
-
-msgid "DHConsoleFont.FontArrayNames<1>"
-msgstr "DHFonts.DHConsoleFont"
-
-msgid "DHConsoleFont.FontArrayNames<2>"
-msgstr "DHFonts.DHConsoleFont"
-
-msgid "DHConsoleFont.FontArrayNames<3>"
-msgstr "DHFonts.DHConsoleFont"
-
-msgid "DHConsoleFont.FontArrayNames<4>"
-msgstr "DHFonts.DHConsoleFont"
 
 msgid "DHContextMenu_SquadMembers.AdminPrefixText"
 msgstr "ADMIN:"
@@ -578,6 +473,24 @@ msgstr "Select as Active Target"
 msgid "DHGUIMapComponent.ActiveTargetDeselectText"
 msgstr "Deselect Active Target"
 
+msgid "DHGUIMapComponent.AdminPlaceAlliedSpawnText"
+msgstr "ADMIN: Place ALLIED spawn"
+
+msgid "DHGUIMapComponent.AdminPlaceAxisSpawnText"
+msgstr "ADMIN: Place AXIS spawn"
+
+msgid "DHGUIMapComponent.AdminDestroyAlliedSpawnsText"
+msgstr "ADMIN: Destroy ALLIED admin spawns"
+
+msgid "DHGUIMapComponent.AdminDestroyAxisSpawnsText"
+msgstr "ADMIN: Destroy AXIS admin spawns"
+
+msgid "DHGUIMapComponent.AdminDestroySpawnText"
+msgstr "ADMIN: Destroy spawn"
+
+msgid "DHGUIMapComponent.AdminTeleportText"
+msgstr "ADMIN: Teleport here"
+
 msgid "DHGUISquadComponent.CreateSquadButton.Caption"
 msgstr "Create Squad"
 
@@ -644,68 +557,8 @@ msgstr "Close this menu, discarding changes."
 msgid "DHGetDataMenu.OkButton.Caption"
 msgstr "OK"
 
-msgid "DHHugeButtonFont.FontArrayNames<0>"
-msgstr "DHFonts.DHHugeButtonFont"
-
-msgid "DHHugeButtonFont.FontArrayNames<1>"
-msgstr "DHFonts.DHHugeButtonFont"
-
-msgid "DHHugeButtonFont.FontArrayNames<2>"
-msgstr "DHFonts.DHHugeButtonFont"
-
-msgid "DHHugeButtonFont.FontArrayNames<3>"
-msgstr "DHFonts.DHHugeButtonFont"
-
-msgid "DHHugeButtonFont.FontArrayNames<4>"
-msgstr "DHFonts.DHHugeButtonFont"
-
-msgid "DHHugeButtonFont.FontArrayNames<5>"
-msgstr "DHFonts.DHHugeButtonFont"
-
-msgid "DHHugeButtonFont.FontArrayNames<6>"
-msgstr "DHFonts.DHHugeButtonFont"
-
-msgid "DHHugeButtonFont.FontArrayNames<7>"
-msgstr "DHFonts.DHHugeButtonFont"
-
-msgid "DHHugeButtonFont.FontArrayNames<8>"
-msgstr "DHFonts.DHHugeButtonFont"
-
-msgid "DHHugeButtonFont.FontArrayNames<9>"
-msgstr "DHFonts.DHHugeButtonFont"
-
-msgid "DHHugeButtonFont.FontArrayNames<10>"
-msgstr "DHFonts.DHHugeButtonFont"
-
-msgid "DHHugeButtonFont.FontArrayNames<11>"
-msgstr "DHFonts.DHHugeButtonFont"
-
-msgid "DHHugeButtonFont.FontArrayNames<12>"
-msgstr "DHFonts.DHHugeButtonFont"
-
-msgid "DHHugeButtonFont.FontArrayNames<13>"
-msgstr "DHFonts.DHHugeButtonFont"
-
-msgid "DHHugeButtonFont.FontArrayNames<14>"
-msgstr "DHFonts.DHHugeButtonFont"
-
 msgid "DHIAMultiColumnRulesPanel.AdvancedButton.Caption"
 msgstr "View Advanced Options"
-
-msgid "DHLargeFont.FontArrayNames<0>"
-msgstr "DHFonts.DHLargeFont"
-
-msgid "DHLargeFont.FontArrayNames<1>"
-msgstr "DHFonts.DHLargeFont"
-
-msgid "DHLargeFont.FontArrayNames<2>"
-msgstr "DHFonts.DHLargeFont"
-
-msgid "DHLargeFont.FontArrayNames<3>"
-msgstr "DHFonts.DHLargeFont"
-
-msgid "DHLargeFont.FontArrayNames<4>"
-msgstr "DHFonts.DHLargeFont"
 
 msgid "DHLearnToPlayFooter.GameBackButton.Caption"
 msgstr "Back"
@@ -865,51 +718,6 @@ msgstr "Remove"
 
 msgid "DHMaplistEditor.RenameMaplistButton.Caption"
 msgstr "Rename"
-
-msgid "DHMenuFont.FontArrayNames<0>"
-msgstr "DHFonts.DHMenuFont"
-
-msgid "DHMenuFont.FontArrayNames<1>"
-msgstr "DHFonts.DHMenuFont"
-
-msgid "DHMenuFont.FontArrayNames<2>"
-msgstr "DHFonts.DHMenuFont"
-
-msgid "DHMenuFont.FontArrayNames<3>"
-msgstr "DHFonts.DHMenuFont"
-
-msgid "DHMenuFont.FontArrayNames<4>"
-msgstr "DHFonts.DHMenuFont"
-
-msgid "DHMenuFont.FontArrayNames<5>"
-msgstr "DHFonts.DHMenuFont"
-
-msgid "DHMenuFont.FontArrayNames<6>"
-msgstr "DHFonts.DHMenuFont"
-
-msgid "DHMenuFont.FontArrayNames<7>"
-msgstr "DHFonts.DHMenuFont"
-
-msgid "DHMenuFont.FontArrayNames<8>"
-msgstr "DHFonts.DHMenuFont"
-
-msgid "DHMenuFont.FontArrayNames<9>"
-msgstr "DHFonts.DHMenuFont"
-
-msgid "DHMenuFont.FontArrayNames<10>"
-msgstr "DHFonts.DHMenuFont"
-
-msgid "DHMenuFont.FontArrayNames<11>"
-msgstr "DHFonts.DHMenuFont"
-
-msgid "DHMenuFont.FontArrayNames<12>"
-msgstr "DHFonts.DHMenuFont"
-
-msgid "DHMenuFont.FontArrayNames<13>"
-msgstr "DHFonts.DHMenuFont"
-
-msgid "DHMenuFont.FontArrayNames<14>"
-msgstr "DHFonts.DHMenuFont"
 
 msgid "DHMidGameVoiceChat.NOSPEECH.Caption"
 msgstr "Ignore Voice Commands"
@@ -1078,36 +886,6 @@ msgstr "Back"
 
 msgid "DHSettings_Footer.DefaultB.Caption"
 msgstr "Defaults"
-
-msgid "DHSmallFont.FontArrayNames<0>"
-msgstr "DHFonts.DHSmallFont"
-
-msgid "DHSmallFont.FontArrayNames<1>"
-msgstr "DHFonts.DHSmallFont"
-
-msgid "DHSmallFont.FontArrayNames<2>"
-msgstr "DHFonts.DHSmallFont"
-
-msgid "DHSmallFont.FontArrayNames<3>"
-msgstr "DHFonts.DHSmallFont"
-
-msgid "DHSmallFont.FontArrayNames<4>"
-msgstr "DHFonts.DHSmallFont"
-
-msgid "DHSmallFontDS.FontArrayNames<0>"
-msgstr "DHFonts.DHSmallFontDS"
-
-msgid "DHSmallFontDS.FontArrayNames<1>"
-msgstr "DHFonts.DHSmallFontDS"
-
-msgid "DHSmallFontDS.FontArrayNames<2>"
-msgstr "DHFonts.DHSmallFontDS"
-
-msgid "DHSmallFontDS.FontArrayNames<3>"
-msgstr "DHFonts.DHSmallFontDS"
-
-msgid "DHSmallFontDS.FontArrayNames<4>"
-msgstr "DHFonts.DHSmallFontDS"
 
 msgid "DHTab_AudioSettings.AudioBK1.Caption"
 msgstr "Sound System"

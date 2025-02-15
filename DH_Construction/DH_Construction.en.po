@@ -23,6 +23,9 @@ msgstr "Exhausted"
 msgid "DHCommandMenu_ConstructionGroup.RemainingText"
 msgstr "{0} Remaining"
 
+msgid "DHCommandMenu_ConstructionGroup.MaxActiveText"
+msgstr "{0}/{1} Active"
+
 msgid "DHConstructionControlsMessage.Controls<0>.Text"
 msgstr "Confirm"
 
@@ -33,7 +36,13 @@ msgid "DHConstructionControlsMessage.Controls<2>.Text"
 msgstr "Rotate"
 
 msgid "DHConstructionControlsMessage.Controls<3>.Text"
-msgstr "Reset Rotation"
+msgstr "Reset"
+
+msgid "DHConstructionControlsMessage.Controls<4>.Text"
+msgstr "Change Variant"
+
+msgid "DHConstructionControlsMessage.Controls<5>.Text"
+msgstr "Change Skin"
 
 msgid "DHConstructionGroup_Ammunition.GroupName"
 msgstr "Ammunition"
@@ -88,12 +97,6 @@ msgstr "Command Post"
 
 msgid "DHConstruction_PlatoonHQ.MenuDescription"
 msgstr "Provides a team-wide spawn point."
-
-msgid "DHConstruction_Radio.MenuName"
-msgstr "Radio"
-
-msgid "DHConstruction_Radio.MenuDescription"
-msgstr "Allows artillery call-ins."
 
 msgid "DHConstruction_Resupply.ConstructionVerb"
 msgstr "drop"

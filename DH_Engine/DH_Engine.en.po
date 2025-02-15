@@ -56,6 +56,24 @@ msgstr "Admin '{0}' kicked '{1}' from squad '{2}'."
 msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
 msgstr "Admin '{0}' promoted '{1}' to lead squad '{2}'."
 
+msgid "DHAdminMessage.PlacedSpawnMessage"
+msgstr "Admin '{0}' has placed a spawn on {1} team."
+
+msgid "DHAdminMessage.DestroyedSpawnMessage"
+msgstr "Admin '{0}' has destroyed an admin-placed spawn on {1} team."
+
+msgid "DHAdminMessage.DestroyedAllSpawnsMessage"
+msgstr "Admin '{0}' destroyed all admin-placed spawns on {1} team."
+
+msgid "DHAdminMessage.AdminTeleportedMessage"
+msgstr "Admin '{0}' has teleported."
+
+msgid "DHAdminMessage.AlliedTeamNameGenitive"
+msgstr "Allied"
+
+msgid "DHAdminMessage.AxisTeamNameGenitive"
+msgstr "Axis"
+
 msgid "DHAlliedAntiTankRoles.MyName"
 msgstr "Anti-Tank Soldier"
 
@@ -518,6 +536,15 @@ msgstr "Paradrops: {0}"
 msgid "DHCommandMenu_FireSupport.AvailableAirstrikesText"
 msgstr "Airstrikes: {0}"
 
+msgid "DHCommandMenu_FireSupport.Options<0>.ActionText"
+msgstr " "
+
+msgid "DHCommandMenu_FireSupport.Options<1>.ActionText"
+msgstr " "
+
+msgid "DHCommandMenu_FireSupport.Options<2>.ActionText"
+msgstr " "
+
 msgid "DHCommandMenu_LoneWolf.AutoJoinSquadDisabledText"
 msgstr "No eligible squads"
 
@@ -604,6 +631,18 @@ msgstr "Invite to Squad"
 
 msgid "DHCommandMenu_SquadMenu.Options<0>.ActionText"
 msgstr "Leave Squad"
+
+msgid "DHCommandPostMessage.ActivatedMessage"
+msgstr "A {name} has been established."
+
+msgid "DHCommandPostMessage.OverrunMessage"
+msgstr "A {name} has been overrun by the enemy."
+
+msgid "DHCommandPostMessage.DestroyedMessage"
+msgstr "A {name} has been destroyed."
+
+msgid "DHCommandPostMessage.ConstructedMessage"
+msgstr "A {name} has been constructed and will be established in {seconds} seconds."
 
 msgid "DHCommandSayMessage.MessagePrefix"
 msgstr "[COMMAND]"
@@ -1016,6 +1055,12 @@ msgstr "Semovente da 90/53"
 msgid "DHHintManager.Hints[65].Text"
 msgstr "Although the Semovente da 90/53 has a powerful gun, it has a very limited ammunition rack. Make every shot count!"
 
+msgid "DHHintManager.Hints[66].Title"
+msgstr "Incoming!"
+
+msgid "DHHintManager.Hints[66].Text"
+msgstr "You have just launched a mortar round straight up into the air. You may want to take cover!"
+
 msgid "DHHud.ServerNameText"
 msgstr "Server: "
 
@@ -1088,6 +1133,9 @@ msgstr "[CONSOLE]"
 msgid "DHHud.SayTypeAllText"
 msgstr "[ALL]"
 
+msgid "DHHud.PrereleaseDisclaimerText"
+msgstr "This is a pre-release build. All content is subject to change."
+
 msgid "DHHud.ReinforcementText"
 msgstr "You will deploy as a {0} in {2} | Press [ESC] to change"
 
@@ -1114,102 +1162,6 @@ msgstr "Allied territory"
 
 msgid "DHHud.LegendArtilleryRadioText"
 msgstr "Artillery Radio"
-
-msgid "DHHud.SmallFontArrayNames[0]"
-msgstr "DHFonts.DHConsoleFontDS24"
-
-msgid "DHHud.SmallFontArrayNames[1]"
-msgstr "DHFonts.DHConsoleFontDS24"
-
-msgid "DHHud.SmallFontArrayNames[2]"
-msgstr "DHFonts.DHConsoleFontDS22"
-
-msgid "DHHud.SmallFontArrayNames[3]"
-msgstr "DHFonts.DHConsoleFontDS22"
-
-msgid "DHHud.SmallFontArrayNames[4]"
-msgstr "DHFonts.DHConsoleFontDS18"
-
-msgid "DHHud.SmallFontArrayNames[5]"
-msgstr "DHFonts.DHConsoleFontDS14"
-
-msgid "DHHud.SmallFontArrayNames[6]"
-msgstr "DHFonts.DHConsoleFontDS12"
-
-msgid "DHHud.SmallFontArrayNames[7]"
-msgstr "DHFonts.DHConsoleFontDS9"
-
-msgid "DHHud.SmallFontArrayNames[8]"
-msgstr "DHFonts.DHConsoleFontDS7"
-
-msgid "DHHud.MenuFontArrayNames[0]"
-msgstr "DHFonts.DHConsoleFontDS18"
-
-msgid "DHHud.MenuFontArrayNames[1]"
-msgstr "DHFonts.DHConsoleFontDS14"
-
-msgid "DHHud.MenuFontArrayNames[2]"
-msgstr "DHFonts.DHConsoleFontDS12"
-
-msgid "DHHud.MenuFontArrayNames[3]"
-msgstr "DHFonts.DHConsoleFontDS9"
-
-msgid "DHHud.MenuFontArrayNames[4]"
-msgstr "DHFonts.DHConsoleFontDS7"
-
-msgid "DHHud.CriticalMsgFontArrayNames[0]"
-msgstr "DHFonts.DHConsoleFont28"
-
-msgid "DHHud.CriticalMsgFontArrayNames[1]"
-msgstr "DHFonts.DHConsoleFont26"
-
-msgid "DHHud.CriticalMsgFontArrayNames[2]"
-msgstr "DHFonts.DHConsoleFont24"
-
-msgid "DHHud.CriticalMsgFontArrayNames[3]"
-msgstr "DHFonts.DHConsoleFont22"
-
-msgid "DHHud.CriticalMsgFontArrayNames[4]"
-msgstr "DHFonts.DHConsoleFont18"
-
-msgid "DHHud.CriticalMsgFontArrayNames[5]"
-msgstr "DHFonts.DHConsoleFont16"
-
-msgid "DHHud.CriticalMsgFontArrayNames[6]"
-msgstr "DHFonts.DHConsoleFont14"
-
-msgid "DHHud.CriticalMsgFontArrayNames[7]"
-msgstr "DHFonts.DHConsoleFont12"
-
-msgid "DHHud.CriticalMsgFontArrayNames[8]"
-msgstr "DHFonts.DHConsoleFont9"
-
-msgid "DHHud.FontArrayNames[0]"
-msgstr "DHFonts.DHConsoleFontDS28"
-
-msgid "DHHud.FontArrayNames[1]"
-msgstr "DHFonts.DHConsoleFontDS26"
-
-msgid "DHHud.FontArrayNames[2]"
-msgstr "DHFonts.DHConsoleFontDS24"
-
-msgid "DHHud.FontArrayNames[3]"
-msgstr "DHFonts.DHConsoleFontDS22"
-
-msgid "DHHud.FontArrayNames[4]"
-msgstr "DHFonts.DHConsoleFontDS18"
-
-msgid "DHHud.FontArrayNames[5]"
-msgstr "DHFonts.DHConsoleFontDS16"
-
-msgid "DHHud.FontArrayNames[6]"
-msgstr "DHFonts.DHConsoleFontDS14"
-
-msgid "DHHud.FontArrayNames[7]"
-msgstr "DHFonts.DHConsoleFontDS12"
-
-msgid "DHHud.FontArrayNames[8]"
-msgstr "DHFonts.DHConsoleFontDS9"
 
 msgid "DHIQMessage.LeaderAWOLMessage"
 msgstr "You're neglecting your squad and your supply lines."
@@ -1290,7 +1242,7 @@ msgid "DHMapDatabase.SizeLargeText"
 msgstr "Large"
 
 msgid "DHMapMarker_AdminParadrop.MarkerName"
-msgstr "ADMIN: Paradrop"
+msgstr "ADMIN: Place paradrop mark"
 
 msgid "DHMapMarker_Enemy_ATGun.MarkerName"
 msgstr "Enemy AT Gun"
@@ -1414,18 +1366,6 @@ msgstr "Press [%THROWMGAMMO%] to resupply and reload {0}"
 
 msgid "DHPawnTouchMessage.FallbackPlayerName"
 msgstr "friendly soldier"
-
-msgid "DHPlatoonHQMessage.ActivatedMessage"
-msgstr "A Platoon HQ has been established."
-
-msgid "DHPlatoonHQMessage.OverrunMessage"
-msgstr "A Platoon HQ has been overrun by the enemy."
-
-msgid "DHPlatoonHQMessage.DestroyedMessage"
-msgstr "A Platoon HQ has been destroyed."
-
-msgid "DHPlatoonHQMessage.ConstructedMessage"
-msgstr "A Platoon HQ has been constructed and will be established in {0} seconds."
 
 msgid "DHPlayerReplicationInfo.SquadLeaderAbbreviation"
 msgstr "SL"
@@ -1952,6 +1892,9 @@ msgstr "The nearby supply cache is full."
 msgid "DHSupplyMessage.SupplyCacheFallbackName"
 msgstr "supply cache"
 
+msgid "DHSupplyMessage.SuppliesRefunded"
+msgstr "{0} supplies have been refunded to nearby caches."
+
 msgid "DHSupplyVehicleMessage.Controls<0>.Text"
 msgstr "Load Supplies"
 
@@ -2261,8 +2204,8 @@ msgstr "%o skewered himself on his own %w bayonet."
 msgid "DHWeaponPickup.PickupMessage"
 msgstr "You got the {0}"
 
-msgid "DHWeaponPickupTouchMessage.TouchMessage"
-msgstr "Press {input} to pick up {item}"
+msgid "DHWeaponPickupTouchMessage.Controls<0>.Text"
+msgstr "Pick Up"
 
 msgid "DHWeaponProjectileDamageType.DeathString"
 msgstr "%o was killed by %k's %w."
