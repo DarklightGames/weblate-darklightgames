@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-29 11:13+0000\n"
+"PO-Revision-Date: 2025-02-16 11:17+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
@@ -680,6 +680,7 @@ msgstr "Granata da 90"
 msgid "DH_Semovente9053Destroyer.VehicleNameString"
 msgstr "ПТ-САУ Semovente da 90/53"
 
+#, fuzzy
 msgid "DH_ShermanCannon.ProjectileDescriptions<2>"
 msgstr "Белый Фосфор"
 
@@ -704,6 +705,7 @@ msgstr "ОФ-Т"
 msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions<2>"
 msgstr "ББС-Т"
 
+#, fuzzy
 msgid "DH_ShermanCannon.ProjectileDescriptions<0>"
 msgstr "БCНБК"
 
