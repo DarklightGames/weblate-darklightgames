@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 19:28+0000\n"
+"PO-Revision-Date: 2025-02-16 23:02+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ru/>\n"
@@ -439,7 +439,7 @@ msgid "ROControlBinder.BindingLabel[59]"
 msgstr "Убавить интерфейс"
 
 msgid "ROControlBinder.BindingLabel[18]"
-msgstr "Вперед"
+msgstr "Вперёд"
 
 msgid "ROSettingsPage_new.PanelCaption<5>"
 msgstr "Интерфейс"
@@ -577,7 +577,7 @@ msgid "ROTab_Controls.captions_weapons[11]"
 msgstr "Сменить режим огня"
 
 msgid "ROTab_Controls.captions_movement[0]"
-msgstr "Вперед"
+msgstr "Вперёд"
 
 msgid "ROTab_Controls.captions_movement[1]"
 msgstr "Назад"
