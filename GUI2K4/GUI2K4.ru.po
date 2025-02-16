@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 16:18+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2025-02-16 19:28+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/ru/>\n"
 "Language: ru\n"
@@ -22,16 +22,16 @@ msgid "UT2k4Browser_PlayersList.ColumnHeadings<0>"
 msgstr "Имя"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[0]"
-msgstr "Минимальные"
+msgstr "Минимально"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[1]"
-msgstr "Очень низкие"
+msgstr "Очень низко"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[2]"
 msgstr "Ниже"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[3]"
-msgstr "Низкие"
+msgstr "Низко"
 
 msgid "UT2K4Tab_DetailSettings.BitDepthText[0]"
 msgstr "16 бит"
@@ -40,7 +40,7 @@ msgid "UT2K4Tab_DetailSettings.ShadowOptions[0]"
 msgstr "Ничего"
 
 msgid "UT2K4Tab_DetailSettings.ShadowOptions[1]"
-msgstr "Упрощенные"
+msgstr "Упрощённые"
 
 msgid "UT2K4Tab_DetailSettings.BitDepthText[1]"
 msgstr "32 бита"
@@ -49,19 +49,19 @@ msgid "UT2K4Tab_DetailSettings.ShadowOptions[2]"
 msgstr "Полные"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[4]"
-msgstr "Нормальные"
+msgstr "Нормально"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[5]"
-msgstr "Высокие"
+msgstr "Высоко"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[6]"
 msgstr "Выше"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[7]"
-msgstr "Очень высокие"
+msgstr "Очень высоко"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[8]"
-msgstr "Максимальные"
+msgstr "Максимально"
 
 msgid "UT2K4Browser_Page.StartQueryString"
 msgstr "Запрос к мастер серверу"
@@ -187,3 +187,21 @@ msgstr "Игроки"
 
 msgid "UT2k4Browser_ServersList.ColumnHeadings<4>"
 msgstr "Пинг"
+
+msgid "UT2K4GamePageBase.PanelCaption<2>"
+msgstr "Правила игры"
+
+msgid "UT2K4GamePageBase.PanelCaption<3>"
+msgstr "Мутаторы"
+
+msgid "UT2K4GamePageBase.PanelCaption<4>"
+msgstr "Настройка ботов"
+
+msgid "UT2K4GamePageBase.PanelCaption<1>"
+msgstr "Выбор карты"
+
+msgid "ControlBinder.BindingLabel[41]"
+msgstr "Голосовое меню"
+
+msgid "UT2K4GamePageBase.PanelCaption<0>"
+msgstr "Тип игры"
