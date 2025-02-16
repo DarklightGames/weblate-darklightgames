@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 11:17+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-02-16 19:28+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
 "Language: ru\n"
@@ -17,7 +17,7 @@ msgid "DH_50CalDamType.FemaleSuicide"
 msgstr "%o была убита из собственного пулемета .50 калибра."
 
 msgid "DH_AchillesCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_AchillesCannon.ProjectileDescriptions<2>"
 msgstr "ОФ"
@@ -105,13 +105,13 @@ msgid "DH_AchillesCannon.nProjectileDescriptions<1>"
 msgstr "Mk.I APDS"
 
 msgid "DH_BT7Cannon.ProjectileDescriptions<0>"
-msgstr "ББФС-Т"
+msgstr "ББ-Т"
 
 msgid "DH_BT7Cannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
 
 msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -120,7 +120,7 @@ msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<2>"
 msgstr "M89 WP"
 
 msgid "DH_Cromwell6PdrCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_Cromwell6PdrCannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -129,13 +129,13 @@ msgid "DH_Cromwell95mmCannon.ProjectileDescriptions<0>"
 msgstr "ОФ"
 
 msgid "DH_Cromwell95mmCannon.ProjectileDescriptions<2>"
-msgstr "КС"
+msgstr "БК"
 
 msgid "DH_Cromwell95mmCannon.nProjectileDescriptions<2>"
 msgstr "Mk.I HEAT"
 
 msgid "DH_CromwellCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_CromwellCannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -186,7 +186,7 @@ msgid "DH_HellcatCannon.nProjectileDescriptions<0>"
 msgstr "M62 APC"
 
 msgid "DH_HetzerCannon.ProjectileDescriptions<2>"
-msgstr "Дымовой"
+msgstr "Дым"
 
 msgid "DH_HetzerCannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
@@ -225,13 +225,13 @@ msgid "DH_Flak38Cannon.ProjectileDescriptions<2>"
 msgstr "ОФ-Т"
 
 msgid "DH_GreyhoundCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_GreyhoundCannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
 
 msgid "DH_HellcatCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_HellcatCannon.ProjectileDescriptions<1>"
 msgstr "БПС"
@@ -249,7 +249,7 @@ msgid "DH_HellcatTank.VehicleNameString"
 msgstr "ПТ-САУ М18 \"Хеллкэт\""
 
 msgid "DH_HetzerCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_HetzerCannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -336,10 +336,10 @@ msgid "DH_ISU152Cannon_Late.ProjectileDescriptions<0>"
 msgstr "ОФ"
 
 msgid "DH_ISU152Cannon_Late.ProjectileDescriptions<1>"
-msgstr "БСБК"
+msgstr "ББ"
 
 msgid "DH_JacksonCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_JacksonCannon.ProjectileDescriptions<1>"
 msgstr "БПС"
@@ -354,7 +354,7 @@ msgid "DH_JacksonCannon.nProjectileDescriptions<2>"
 msgstr "M71 HE-T"
 
 msgid "DH_JacksonCannon_Early.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ-П"
 
 msgid "DH_JacksonCannon_Early.ProjectileDescriptions<1>"
 msgstr "ББ"
@@ -372,16 +372,16 @@ msgid "DH_JagdpantherTank.VehicleNameString"
 msgstr "ПТ-САУ Jagd PZ. V \"Ягдпантера\""
 
 msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
 
 msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions<1>"
-msgstr "ББС"
+msgstr "БПС"
 
 msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions<2>"
 msgstr "ОФ"
@@ -411,7 +411,7 @@ msgid "DH_M7Priest.VehicleNameString"
 msgstr "САУ M7 «Прист»"
 
 msgid "DH_M7PriestCannon.ProjectileDescriptions<1>"
-msgstr "Дым"
+msgstr "Белый фосфор"
 
 msgid "DH_Marder3MCannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
@@ -462,7 +462,7 @@ msgid "DH_KV1sCannon_Late.ProjectileDescriptions<1>"
 msgstr "ОФ"
 
 msgid "DH_KV1sCannon_Late.ProjectileDescriptions<2>"
-msgstr "ББС"
+msgstr "БПС"
 
 msgid "DH_KV1sCannon_Late.nProjectileDescriptions<0>"
 msgstr "БР-350Б"
@@ -477,7 +477,7 @@ msgid "DH_KV1sTank.VehicleNameString"
 msgstr "КВ-1с"
 
 msgid "DH_LocustCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_LocustCannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -486,7 +486,7 @@ msgid "DH_M7PriestCannon.ProjectileDescriptions<0>"
 msgstr "ОФ-Т"
 
 msgid "DH_M7PriestCannon.ProjectileDescriptions<2>"
-msgstr "КС"
+msgstr "БК"
 
 msgid "DH_M7PriestCannon.nProjectileDescriptions<1>"
 msgstr "M60 WP"
@@ -498,16 +498,16 @@ msgid "DH_Marder3MDestroyer.VehicleNameString"
 msgstr "ПТ-САУ Marder III Ausf.M"
 
 msgid "DH_PantherDCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_PantherDCannon.ProjectileDescriptions<1>"
-msgstr "ББС"
+msgstr "БПС"
 
 msgid "DH_PantherDCannon.ProjectileDescriptions<2>"
 msgstr "ОФ"
 
 msgid "DH_PanzerIIILCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_PanzerIIILCannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
@@ -570,16 +570,16 @@ msgid "DH_PanzerIIINCannon.ProjectileDescriptions<0>"
 msgstr "ОФ"
 
 msgid "DH_PanzerIIINCannon.ProjectileDescriptions<1>"
-msgstr "КС"
+msgstr "БК"
 
 msgid "DH_PanzerIIINCannon.nProjectileDescriptions<1>"
 msgstr "Gr.38 Hl/C"
 
 msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions<1>"
-msgstr "КС"
+msgstr "БК"
 
 msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions<2>"
 msgstr "ОФ"
@@ -588,37 +588,37 @@ msgid "DH_PanzerIVF1Cannon.nProjectileDescriptions<1>"
 msgstr "Gr.38 Hl/B"
 
 msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
 
 msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions<2>"
-msgstr "КС"
+msgstr "БК"
 
 msgid "DH_PanzerIVGEarlyCannon.nProjectileDescriptions<2>"
 msgstr "Gr.38 Hl/B"
 
 msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
 
 msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions<2>"
-msgstr "КС"
+msgstr "БК"
 
 msgid "DH_PanzerIVGLateCannon.nProjectileDescriptions<2>"
 msgstr "Gr.38 Hl/C"
 
 msgid "DH_SU76Cannon.ProjectileDescriptions<0>"
-msgstr "БСБК"
+msgstr "ББ"
 
 msgid "DH_SU76Cannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
 
 msgid "DH_SU76Cannon.ProjectileDescriptions<2>"
-msgstr "ББС"
+msgstr "БПС"
 
 msgid "DH_SU76Cannon.nProjectileDescriptions<0>"
 msgstr "БР-350Б"
@@ -703,11 +703,10 @@ msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions<1>"
 msgstr "ОФ-Т"
 
 msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions<2>"
-msgstr "ББС-Т"
+msgstr "БПС-Т"
 
-#, fuzzy
 msgid "DH_ShermanCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_ShermanCannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -716,7 +715,7 @@ msgid "DH_ShermanCannon.nProjectileDescriptions<1>"
 msgstr "M48 HE-T"
 
 msgid "DH_ShermanCannonA_76mm.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_ShermanCannonA_76mm.ProjectileDescriptions<1>"
 msgstr "БПС"
@@ -734,7 +733,7 @@ msgid "DH_ShermanCannonA_76mm.nProjectileDescriptions<2>"
 msgstr "M42A1 HE-T"
 
 msgid "DH_ShermanCannonA_76mm_Early.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_ShermanCannonA_76mm_Early.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -749,7 +748,7 @@ msgid "DH_ShermanCannonA_76mm_Early.nProjectileDescriptions<2>"
 msgstr "M88 HC"
 
 msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions<2>"
-msgstr "КС"
+msgstr "БК"
 
 msgid "DH_ShermanCannon_M4A3105_Howitzer.nProjectileDescriptions<0>"
 msgstr "M1 HE-T"
@@ -794,7 +793,7 @@ msgid "DH_ShermanTank_M4A3E8.VehicleNameString"
 msgstr "Шерман M4A3E8"
 
 msgid "DH_ShermanCannon_M4A3E2_Jumbo.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_ShermanCannon_M4A3E2_Jumbo.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -809,7 +808,7 @@ msgid "DH_ShermanCannon_M4A3E2_Jumbo.nProjectileDescriptions<2>"
 msgstr "M64 WP"
 
 msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -824,10 +823,10 @@ msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<2>"
 msgstr "M88 HC"
 
 msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions<1>"
-msgstr "БПCОП"
+msgstr "БПС"
 
 msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions<2>"
 msgstr "ОФ"
@@ -851,7 +850,7 @@ msgid "DH_StuH42Cannon.ProjectileDescriptions<1>"
 msgstr "Дым"
 
 msgid "DH_StuH42Cannon.ProjectileDescriptions<2>"
-msgstr "КС"
+msgstr "БК"
 
 msgid "DH_StuH42Cannon.nProjectileDescriptions<0>"
 msgstr "F.H.Gr."
@@ -866,7 +865,7 @@ msgid "DH_StuH42Destroyer.VehicleNameString"
 msgstr "САУ StuH42 Ausf.G"
 
 msgid "DH_StuartCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_StuartCannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -884,7 +883,7 @@ msgid "DH_StuartTank_British.VehicleNameString"
 msgstr "Стюарт Mk.VI"
 
 msgid "DH_Stug3GCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_Stug3GCannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -902,7 +901,7 @@ msgid "DH_Stug3GDestroyer.VehicleNameString"
 msgstr "StuG III Ausf.G"
 
 msgid "DH_T3476Cannon.ProjectileDescriptions<0>"
-msgstr "БСБК"
+msgstr "ББ"
 
 msgid "DH_T3476Cannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -923,7 +922,7 @@ msgid "DH_T3476Tank_GermanB.VehicleNameString"
 msgstr "Pz.Kpfw.747 T-34(r) Ausf.A"
 
 msgid "DH_T3476_42Cannon.ProjectileDescriptions<0>"
-msgstr "БСБК"
+msgstr "ББ"
 
 msgid "DH_T3476_42Cannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -938,7 +937,7 @@ msgid "DH_T3476_42Tank.VehicleNameString"
 msgstr "Т-34-76 (Обр. 1942г.)"
 
 msgid "DH_T3476_43Cannon.ProjectileDescriptions<0>"
-msgstr "БСБК"
+msgstr "ББ"
 
 msgid "DH_T3476_43Cannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -956,10 +955,10 @@ msgid "DH_T3476_43Tank.VehicleNameString"
 msgstr "T-34-76 (Обр. 1943г.)"
 
 msgid "DH_T3485Cannon.ProjectileDescriptions<0>"
-msgstr "БСБК"
+msgstr "ББ"
 
 msgid "DH_T3485Cannon.ProjectileDescriptions<1>"
-msgstr "ББС"
+msgstr "БПС"
 
 msgid "DH_T3485Cannon.ProjectileDescriptions<2>"
 msgstr "ОФ"
@@ -1031,7 +1030,7 @@ msgid "DH_WirbelwindTank.VehicleNameString"
 msgstr "2 см Flak auf Pz.IV \"Вирбельвинд\""
 
 msgid "DH_WolverineCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_WolverineCannon.ProjectileDescriptions<1>"
 msgstr "БПС"
@@ -1049,7 +1048,7 @@ msgid "DH_WolverineCannon.nProjectileDescriptions<2>"
 msgstr "M42A1 HE-T"
 
 msgid "DH_WolverineCannon_Early.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_WolverineCannon_Early.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -1107,7 +1106,7 @@ msgid "DH_JacksonTank.VehicleNameString"
 msgstr "ПТ-САУ М36 \"Джексон\""
 
 msgid "DH_AchillesCannon.ProjectileDescriptions<1>"
-msgstr "БПCОП"
+msgstr "БПС"
 
 msgid "DH_CromwellCannon.nProjectileDescriptions<1>"
 msgstr "M48 HE-T"
@@ -1116,10 +1115,10 @@ msgid "DH_HetzerDestroyer.VehicleNameString"
 msgstr "ПТ-САУ Jagd Pz.38(t) \"Хетцер\""
 
 msgid "DH_IS2Cannon_Late.ProjectileDescriptions<0>"
-msgstr "БСБК"
+msgstr "ББ"
 
 msgid "DH_KV1sCannon_Late.ProjectileDescriptions<0>"
-msgstr "БСБК"
+msgstr "ББ"
 
 msgid "DH_LocustCannon.nProjectileDescriptions<1>"
 msgstr "M63 HE-T"
@@ -1149,7 +1148,7 @@ msgid "DH_PanzerIIILCannon.ProjectileDescriptions<2>"
 msgstr "ОФ"
 
 msgid "DH_SdKfz2519DCannon.ProjectileDescriptions<1>"
-msgstr "КС"
+msgstr "БК"
 
 msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions<0>"
 msgstr "ОФ"
@@ -1173,7 +1172,7 @@ msgid "DH_M7PriestCannon.nProjectileDescriptions<0>"
 msgstr "M1 HE-T"
 
 msgid "DH_PanzerIIILCannon.ProjectileDescriptions<1>"
-msgstr "ББС"
+msgstr "БПС"
 
 msgid "DH_SdKfz2519DTransport.VehicleNameString"
 msgstr "Sd.Kfz.251/9 Ausf.D Stummel"
@@ -1209,7 +1208,7 @@ msgid "DH_StuartCannon.nProjectileDescriptions<2>"
 msgstr "М2 Картечь"
 
 msgid "DH_T3476_43Cannon.ProjectileDescriptions<2>"
-msgstr "ББС"
+msgstr "БПС"
 
 msgid "DH_T60Tank.VehicleNameString"
 msgstr "Легкий танк Т-60"
@@ -1225,3 +1224,27 @@ msgstr "Sprgr.Patr.34"
 
 msgid "DH_PanzerIVHCannon.nProjectileDescriptions<2>"
 msgstr "Gr.38 Hl/C"
+
+msgid "DH_FiatL640Tank.VehicleNameString"
+msgstr "Танк L6/40"
+
+msgid "DH_AutocarrettaOMSupport.VehicleNameString"
+msgstr "Грузовик OM 36Mt (Снабжение)"
+
+msgid "DH_Semovente4732Cannon.ProjectileDescriptions<0>"
+msgstr "ББ"
+
+msgid "DH_Semovente4732Cannon.ProjectileDescriptions<1>"
+msgstr "ОФ"
+
+msgid "DH_Semovente4732Cannon.ProjectileDescriptions<2>"
+msgstr "БК"
+
+msgid "DH_Semovente4732Destroyer.VehicleNameString"
+msgstr "ПТ-САУ semovente L40 da 47/32"
+
+msgid "DH_AutocarrettaOM.VehicleNameString"
+msgstr "Транспорт OM 36P"
+
+msgid "DH_Fiat508CMTransport.VehicleNameString"
+msgstr "Фиат 508СМ"
