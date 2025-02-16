@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-12 13:39+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2025-02-16 16:18+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
 "Language: uk\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DHBrowser_Footer.BrowserFilter.Caption"
 msgstr "Фільтри"
@@ -590,7 +590,7 @@ msgid "DHTab_Controls.captions_comm[7]"
 msgstr "Переключитися на командний голосовий канал"
 
 msgid "DHTab_Controls.captions_comm[11]"
-msgstr "Почніть вводити повідомлення в чат"
+msgstr "Почати ввід повідомлення в чат"
 
 msgid "DHTab_Controls.captions_game[5]"
 msgstr "Меню наказів загону"
@@ -1053,7 +1053,7 @@ msgid "DHTab_AudioSettings.ChatPasswordEdit.Caption"
 msgstr "Пароль чату"
 
 msgid "DHTab_AudioSettings.Dampen.Caption"
-msgstr "Зменшувати гучність гри під час використання Мікрофона"
+msgstr "Зменшувати гучність гри під час голосових повідомлень"
 
 msgid "DHTab_AudioSettings.DefaultActiveChannelEditBox.Caption"
 msgstr "Назва каналу за замовчуванням"
@@ -1571,7 +1571,7 @@ msgid "DHTab_GameSettings.PurgeCacheDays.Hint"
 msgstr "Як часто видаляти користувацькі завантажені файли з серверів"
 
 msgid "DHTab_GameSettings.ThrottleTanks.Caption"
-msgstr "Ступінчаста ручка газу - Танки"
+msgstr "Поступова ручка газу - Танки"
 
 msgid "DHTab_GameSettings.Netspeed.Hint"
 msgstr ""
@@ -1678,7 +1678,7 @@ msgid "DHTab_GameSettings.PurgeCacheDays.Caption"
 msgstr "Очищати кеш"
 
 msgid "DHTab_GameSettings.ThrottleOtherVehicles.Caption"
-msgstr "Ступенева ручка газу - інша техніка"
+msgstr "Поступова ручка газу - Інша техніка"
 
 msgid "DHTab_GameSettings.ThrottleOtherVehicles.Hint"
 msgstr ""
