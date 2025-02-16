@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-10-06 12:13+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2025-02-16 11:17+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/uk/>\n"
 "Language: uk\n"
@@ -148,5 +148,6 @@ msgstr "Забезпечує точку відродження техніки д
 msgid "DHConstruction_Watchtower.MenuName"
 msgstr "Спостережна вежа"
 
+#, fuzzy
 msgid "DHConstructionControlsMessage.Controls<3>.Text"
 msgstr "Скинути обертання"
