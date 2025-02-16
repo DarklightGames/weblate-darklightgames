@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 22:39+0000\n"
+"PO-Revision-Date: 2025-02-16 23:02+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -287,7 +287,7 @@ msgid "DHTab_Controls.captions_comm[7]"
 msgstr "Переключиться на командный голосовой канал"
 
 msgid "DHTab_Controls.captions_game[7]"
-msgstr "Автоматически всупить в отряд"
+msgstr "Автоматически вступить в отряд"
 
 msgid "DHSettingsPage.PanelHint<3>"
 msgstr "Настройте управления клавиатурой и мышью..."
@@ -1375,7 +1375,7 @@ msgid "DHTab_GameSettings.Incognito.Hint"
 msgstr "Не отображать мой статус спонсора Patron или разработчика"
 
 msgid "DHTab_GameSettings.LockTankOnEntry.Caption"
-msgstr "Блокировать технику при использовании"
+msgstr "Блокировать танк при входе в него"
 
 msgid "DHTab_GameSettings.ManualReloading.Caption"
 msgstr "Ручная перезарядка танка или орудия"
