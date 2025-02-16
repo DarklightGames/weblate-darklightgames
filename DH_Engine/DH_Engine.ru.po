@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-10 03:21+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"PO-Revision-Date: 2025-02-16 11:17+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
 "Language: ru\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DHAlliedAssaultRoles.PluralName"
 msgstr "Штурмовики"
@@ -1084,6 +1084,7 @@ msgstr "Вражеский транспорт"
 msgid "DHHud.LegendAlliesObjectiveText"
 msgstr "Территория Союзников"
 
+#, fuzzy
 msgid "DHMapMarker_AdminParadrop.MarkerName"
 msgstr "Администратор: Десантирование"
 
