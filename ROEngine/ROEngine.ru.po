@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 19:28+0000\n"
+"PO-Revision-Date: 2025-02-16 23:02+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/ru/>\n"
@@ -136,7 +136,7 @@ msgid "ROVoicePack.AlertAbbrev[7]"
 msgstr "Огонь по своим"
 
 msgid "ROVoicePack.VehicleDirectionString[1]"
-msgstr "Выдвинуться вперед"
+msgstr "Выдвинуться вперёд"
 
 msgid "ROVoicePack.VehicleDirectionString[2]"
 msgstr "Стоп"
@@ -425,3 +425,6 @@ msgstr "Просмотр: "
 
 msgid "ROPlayer.SpectatingModeName[2]"
 msgstr "Наблюдение за игроками"
+
+msgid "ROPlayer.SpectatingModeName[0]"
+msgstr "Просмотр себя"
