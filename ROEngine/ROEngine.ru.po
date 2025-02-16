@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 16:18+0000\n"
+"PO-Revision-Date: 2025-02-16 19:28+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/ru/>\n"
@@ -82,16 +82,16 @@ msgid "ROVoicePack.EnemyString[8]"
 msgstr "Вражеская артиллерия!"
 
 msgid "ROVoicePack.EnemyAbbrev[0]"
-msgstr "Замечена пехота"
+msgstr "Замечена пехота противника"
 
 msgid "ROVoicePack.EnemyAbbrev[1]"
 msgstr "Вражеский пулемёт"
 
 msgid "ROVoicePack.EnemyAbbrev[4]"
-msgstr "Противотанковая пехота"
+msgstr "Противотанковый стрелок"
 
 msgid "ROVoicePack.EnemyAbbrev[5]"
-msgstr "Легкий транспорт"
+msgstr "Лёгкая техника"
 
 msgid "ROVoicePack.EnemyAbbrevAxis[3]"
 msgstr "Сапёр"
@@ -112,7 +112,7 @@ msgid "ROVoicePack.AlertString[5]"
 msgstr "Взрывчатка заложена!"
 
 msgid "ROVoicePack.AlertString[7]"
-msgstr "Стреляете по своим!"
+msgstr "Огонь по своим!"
 
 msgid "ROVoicePack.AlertString[9]"
 msgstr "Отступаем!"
@@ -127,13 +127,13 @@ msgid "ROVoicePack.AlertAbbrev[5]"
 msgstr "Взрывчатка заложена"
 
 msgid "ROVoicePack.AlertAbbrev[8]"
-msgstr "Под ударом в точке"
+msgstr "Меня атакуют в точке"
 
 msgid "ROVoicePack.AlertAbbrev[9]"
 msgstr "Отступить"
 
 msgid "ROVoicePack.AlertAbbrev[7]"
-msgstr "Стреляете по своим"
+msgstr "Огонь по своим"
 
 msgid "ROVoicePack.VehicleDirectionString[1]"
 msgstr "Выдвинуться вперед"
@@ -142,7 +142,7 @@ msgid "ROVoicePack.VehicleDirectionString[2]"
 msgstr "Стоп"
 
 msgid "ROVoicePack.VehicleDirectionString[3]"
-msgstr "Двигайся назад"
+msgstr "Назад"
 
 msgid "ROVoicePack.VehicleDirectionString[4]"
 msgstr "Влево"
@@ -172,7 +172,7 @@ msgid "ROVoicePack.AlertAbbrev[2]"
 msgstr "В укрытие"
 
 msgid "ROVoicePack.EnemyString[5]"
-msgstr "Легкий транспорт!"
+msgstr "Лёгкая техника!"
 
 msgid "ROVoicePack.EnemyString[7]"
 msgstr "Тяжелый танк!"
@@ -247,16 +247,16 @@ msgid "ROVoicePack.AlertAbbrev[3]"
 msgstr "Стоп"
 
 msgid "ROVoicePack.VehicleDirectionAbbrev[0]"
-msgstr "Выдвинуться к..."
+msgstr "Выдвинуться к точке..."
 
 msgid "ROVoicePack.VehicleDirectionAbbrev[1]"
-msgstr "Выдвинуться вперед"
+msgstr "Выдвинуться вперёд"
 
 msgid "ROVoicePack.VehicleDirectionAbbrev[2]"
 msgstr "Стоп"
 
 msgid "ROVoicePack.VehicleDirectionAbbrev[3]"
-msgstr "Двигайся назад"
+msgstr "Назад"
 
 msgid "ROVoicePack.VehicleDirectionAbbrev[5]"
 msgstr "Вправо"
