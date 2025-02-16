@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-12 13:39+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2025-02-16 19:28+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
 "Language: ru\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DHBrowser_Footer.BrowserMain.Caption"
 msgstr "Главная"
@@ -316,7 +316,7 @@ msgstr "Переключить режим стрельбы"
 
 msgid "DHTab_Controls.captions_weapons[11]"
 msgstr ""
-"Развернуть пулемет / прикрепить штык / выстрел дымовой установкой из техники"
+"Установить пулемёт / Прикрепить штык / Выстрел дымовой установкой из танка"
 
 msgid "DHTab_Controls.captions_comm[10]"
 msgstr "Переключиться на голосовой канал отряда"
@@ -407,7 +407,7 @@ msgid "DHDeployMenu.UnassignedPlayersCaptionText"
 msgstr "Неназначенные"
 
 msgid "DHDeployMenu.NonSquadLeaderOnlyText"
-msgstr "НЕ ДЛЯ КОМАНДИРОВ"
+msgstr "НЕДОСТУПНО КОМАНДИРАМ"
 
 msgid "DHDeployMenu.SurrenderConfirmBaseText"
 msgstr "Вы уверены, что хотите сдаться?"
@@ -951,7 +951,7 @@ msgid "DHTab_AudioSettings.AudioPlayVoices.Caption"
 msgstr "Воспроизведение голосовых сообщений"
 
 msgid "DHTab_AudioSettings.AudioReverseStereo.Caption"
-msgstr "Обратное стерео"
+msgstr "Поменять местами левый и правый стерео каналы"
 
 msgid "DHTab_AudioSettings.AutoSpeakCheckbox.Caption"
 msgstr "Автоматический выбор активного канала"
@@ -1023,13 +1023,13 @@ msgid "DHTab_Controls.captions_weapons[9]"
 msgstr "Сменить ствол пулемета"
 
 msgid "DHTab_Controls.captions_weapons[12]"
-msgstr "Увеличить дальность/поворот дымовой установки техники"
+msgstr "Увеличить дальность дымовой установки в танке/ Повернуть вправо"
 
 msgid "DHTab_Controls.captions_weapons[13]"
-msgstr "Уменьшить дальность/поворот дымовой установки техники"
+msgstr "Уменьшить дальность дымовой установки в танке/ Повернуть влево"
 
 msgid "DHTab_Controls.captions_weapons[14]"
-msgstr "Переключить выбранную артиллерийскую цель"
+msgstr "Сменить выбранную артиллерийскую цель"
 
 msgid "DHTab_Controls.captions_comm[3]"
 msgstr "Чат отделения"
@@ -1047,14 +1047,14 @@ msgid "DHTab_Controls.captions_comm[9]"
 msgstr "Переключиться на неназначенный голосовой канал"
 
 msgid "DHTab_Controls.captions_comm[11]"
-msgstr "Начните вводить сообщение в чат"
+msgstr "Начать вводить сообщение в чат"
 
 #, fuzzy
 msgid "DHTab_Controls.captions_comm[12]"
 msgstr "Отключить звук в меню"
 
 msgid "DHTab_Controls.captions_game[4]"
-msgstr "Блокировка/разблокировка бронетехники"
+msgstr "Блокировать/ разблокировать танк"
 
 msgid "DHTab_Controls.captions_game[5]"
 msgstr "Меню приказов отряда"
@@ -1063,7 +1063,7 @@ msgid "DHTab_Controls.captions_game[6]"
 msgstr "Меню отряда"
 
 msgid "DHTab_Controls.captions_game[8]"
-msgstr "Поставить точку сбора"
+msgstr "Создать точку сбора"
 
 msgid "DHTab_DetailSettings.DetailProjectors.Caption"
 msgstr "Проекторы"
@@ -1129,7 +1129,7 @@ msgstr ""
 "читать в консоли."
 
 msgid "DHTab_Input.InputScopedFactor.Caption"
-msgstr "Коэффициент чувствительности оптических прицелов и биноклей"
+msgstr "Чувствительность оптических прицелов и биноклей"
 
 msgid "DHTab_MutatorSP.IAMutatorAll.Caption"
 msgstr "Добавить все"
@@ -1158,7 +1158,7 @@ msgid "DHTab_Hud.UseTechnicalAmmoNames.Caption"
 msgstr "Использовать родные названия снарядов (Танки/ПТ-орудия)"
 
 msgid "DHTab_Input.InputIronSightBipodFactor.Caption"
-msgstr "Коэффициент чувствительности сошек"
+msgstr "Чувствительность сошек"
 
 msgid "DHTab_Input.InputMouseLag.Hint"
 msgstr "Включение этой опции уменьшит задержку мыши."
@@ -1315,22 +1315,22 @@ msgid "DHTab_GameSettings.DegreesText"
 msgstr "градусов"
 
 msgid "DHTab_GameSettings.NetSpeedText[0]"
-msgstr "Минимальные {0}"
+msgstr "Минимальная {0}"
 
 msgid "DHTab_GameSettings.NetSpeedText[1]"
-msgstr "Низкие {0}"
+msgstr "Низкая {0}"
 
 msgid "DHTab_GameSettings.NetSpeedText[2]"
-msgstr "Средние {0}"
+msgstr "Средняя {0}"
 
 msgid "DHTab_GameSettings.NetSpeedText[3]"
-msgstr "Рекомендуемые ({0})"
+msgstr "Рекомендуемая ({0})"
 
 msgid "DHTab_GameSettings.NetSpeedText[4]"
-msgstr "Высокие ({0})"
+msgstr "Высокая ({0})"
 
 msgid "DHTab_GameSettings.NetSpeedText[5]"
-msgstr "Максимальные {0}"
+msgstr "Максимальная{0}"
 
 msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[0]"
 msgstr "Никогда"
@@ -1375,7 +1375,7 @@ msgid "DHTab_GameSettings.Incognito.Hint"
 msgstr "Не отображать мой статус спонсора Patron или разработчика"
 
 msgid "DHTab_GameSettings.LockTankOnEntry.Caption"
-msgstr "Блокировать технику при входе в неё"
+msgstr "Блокировать технику при использовании"
 
 msgid "DHTab_GameSettings.ManualReloading.Caption"
 msgstr "Ручная перезарядка танка или орудия"
@@ -1488,7 +1488,7 @@ msgid "DHTab_Input.InputInvertMouse.Caption"
 msgstr "Инвертировать мышь"
 
 msgid "DHTab_Input.InputIronSightFactor.Caption"
-msgstr "Коэффициент чувствительности прицела"
+msgstr "Чувствительность прицела"
 
 msgid "DHTab_Input.InputMenuSensitivity.Caption"
 msgstr "Чувствительность мыши (Меню)"
