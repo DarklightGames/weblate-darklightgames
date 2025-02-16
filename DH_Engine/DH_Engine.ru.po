@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 11:17+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-02-16 11:57+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
 "Language: ru\n"
@@ -74,11 +74,10 @@ msgid "DHATLoadMessage.LoadedGunner"
 msgstr "Вы дали патроны {0}"
 
 msgid "DHATLoadMessage.BeenLoaded"
-msgstr "Вам дали патроны {0}"
+msgstr "Вам дал патроны игрок {0}"
 
 msgid "DHAccessControl.SessionBanned"
-msgstr ""
-"Вы не можете присоединиться к этому серверу, пока он не поменяет карту."
+msgstr "Вы не можете присоединиться к этому серверу, пока не сменится карта."
 
 msgid "DHAdminMessage.KickedFromSquadMessage"
 msgstr "Администратор'{0}' выгнал '{1}' из отряда '{2}'."
@@ -2803,3 +2802,29 @@ msgstr ""
 "Вы держите гранату с запалом ударного типа. Она взорвётся от удара об любую "
 "поверхность. Убедитесь что кидаете гранату не слишком слабо иначе она может "
 "не взорваться!"
+
+msgid "DHAdminMessage.DestroyedSpawnMessage"
+msgstr "Администратор '{0}' убрал точку появления команды {1}."
+
+msgid "DHAdminMessage.PlacedSpawnMessage"
+msgstr "Администратор '{0}' установил точку появления для команды {1}."
+
+msgid "DHAdminMessage.DestroyedAllSpawnsMessage"
+msgstr "Администратор '{0}' убрал все точки появления у команды {1}."
+
+msgid "DHAdminMessage.AlliedTeamNameGenitive"
+msgstr "Союзников"
+
+msgid "DHAdminMessage.AxisTeamNameGenitive"
+msgstr "Оси"
+
+msgid "DHAdminMessage.AdminTeleportedMessage"
+msgstr "Администратор '{0}' телепортировался."
+
+msgid "DHHintManager.Hints[65].Title"
+msgstr "САУ Semovente da 90/53"
+
+msgid "DHHintManager.Hints[65].Text"
+msgstr ""
+"Несмотря на внушительный размер орудия самоходной установки Semovente 90/53 "
+"у неё очень ограниченный боезапас. Бей без промаха!"
