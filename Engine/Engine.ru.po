@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-02-16 16:18+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/ru/>\n"
 "Language: ru\n"
@@ -356,3 +356,54 @@ msgstr "НУМЛОК"
 
 msgid "KeyNames.Escape"
 msgstr "ESCAPE"
+
+msgid "ChatRoomMessage.AnonText"
+msgstr "Кто-то"
+
+msgid "ChatRoomMessage.ChatRoomString[2]"
+msgstr "Канал '%title%' запрашивает пароль!"
+
+msgid "ChatRoomMessage.ChatRoomString[4]"
+msgstr "Вас заблокировали в канале '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[3]"
+msgstr "Заданный для канала '%title%' пароль введён неверно"
+
+msgid "ChatRoomMessage.ChatRoomString[5]"
+msgstr "Невозможно подключиться к каналу '%title%'.  Канал заполнен!"
+
+msgid "ChatRoomMessage.ChatRoomString[11]"
+msgstr "'%pri%' подключился к каналу: '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[15]"
+msgstr "Голосовой чат отключён на этом сервере"
+
+msgid "ChatRoomMessage.ChatRoomString[12]"
+msgstr "'%pri%' покинул канал: '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[13]"
+msgstr "'%pri%' Успешно заблокирован в канале вашего персонального чата"
+
+msgid "ChatRoomMessage.ChatRoomString[14]"
+msgstr "Блокировка не удалась.  Игрок с таким ID не найден"
+
+msgid "ChatRoomMessage.ChatRoomString[6]"
+msgstr "Вам запрещено подключаться к каналу '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[7]"
+msgstr "Вы успешно подключились к каналу '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[9]"
+msgstr "Сейчас подключён к каналу '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[0]"
+msgstr "Канал '%title%' не существует или не может быть найден"
+
+msgid "ChatRoomMessage.ChatRoomString[10]"
+msgstr "Больше не подключён к каналу '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[1]"
+msgstr "Уже на канале: '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[8]"
+msgstr "Вы покинули канал '%title%'"
