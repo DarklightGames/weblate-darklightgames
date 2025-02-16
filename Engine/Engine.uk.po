@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 11:17+0000\n"
+"PO-Revision-Date: 2025-02-16 16:18+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/uk/>\n"
@@ -307,3 +307,9 @@ msgstr "Очікуванне підключення до '%s' не вдалос�
 
 msgid "Errors.DemoFileMissing"
 msgstr "Відсутній пакет '%s' щоб відворити демо-запис"
+
+msgid "Progress.Loading"
+msgstr "Завантаження"
+
+msgid "KeyNames.GreyStar"
+msgstr "АСТЕРИСК"
