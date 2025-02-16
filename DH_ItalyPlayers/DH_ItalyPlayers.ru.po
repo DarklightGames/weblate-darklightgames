@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-29 11:13+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-02-16 19:28+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_italyplayers/ru/>\n"
 "Language: ru\n"
@@ -19,9 +19,8 @@ msgstr ""
 msgid "DHITASergeantRoles.AltName"
 msgstr ""
 
-#, fuzzy
 msgid "DHItalyVoice.SupportStringAxis[5]"
-msgstr "Нам нужен Панцершрек!"
+msgstr "Нам нужно противотанковое ружьё!"
 
 msgid "DHNation_Italy.NationName"
 msgstr "Королевство Италия"
@@ -35,12 +34,14 @@ msgstr ""
 msgid "DHITAMachineGunnerRoles.AltName"
 msgstr ""
 
-#, fuzzy
 msgid "DHItalyVoice.SupportAbbrevAxis[5]"
-msgstr "Нужен Панцершрек"
+msgstr "Нужно противотанковое ружьё"
 
 msgid "DHITATankCrewmanRoles.AltName"
 msgstr ""
 
 msgid "DHITARiflemanRoles.AltName"
 msgstr ""
+
+msgid "DHItalyVoice.EnemyStringAxis[6]"
+msgstr "Танк! Танк!"
