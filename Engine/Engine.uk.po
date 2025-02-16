@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-29 00:39+0000\n"
+"PO-Revision-Date: 2025-02-16 11:17+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/uk/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "KeyNames.Up"
 msgstr "ВГОРУ"
@@ -286,3 +286,24 @@ msgstr "Запит на файл з наступного рівня відхил
 
 msgid "Errors.ConnectionFailed"
 msgstr "Помилка з'єднання"
+
+msgid "Errors.FailedBrowse"
+msgstr "Не вдалося зайти до %s: %s"
+
+msgid "Errors.Listen"
+msgstr "Не вдалося прослухати: %s"
+
+msgid "Errors.AbortToEntry"
+msgstr "Невдала спроба; повертаємось до вводу"
+
+msgid "Errors.ServerOpen"
+msgstr "Сервери не можуть відкрити мережеві URL-адреси"
+
+msgid "Errors.ServerListen"
+msgstr "Виділений сервер не може прослухати: %s"
+
+msgid "Errors.Pending"
+msgstr "Очікуванне підключення до '%s' не вдалося; %s"
+
+msgid "Errors.DemoFileMissing"
+msgstr "Відсутній пакет '%s' щоб відворити демо-запис"
