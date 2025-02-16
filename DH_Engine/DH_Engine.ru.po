@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 16:18+0000\n"
+"PO-Revision-Date: 2025-02-16 19:28+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -438,10 +438,10 @@ msgid "DHConstruction_Vehicle.ConstructionVerb"
 msgstr "разместить"
 
 msgid "DHEnemyInformationMsg.EnemyIsWeak"
-msgstr "У врага почти закончились подкрепления, победа уже близко!"
+msgstr "Подкрепления противника почти закончились, победа уже близко!"
 
 msgid "DHEnemyInformationMsg.EnemyIsSurrendering"
-msgstr "Враг отступает, бой скоро закончится!"
+msgstr "Противник отступает, бой скоро закончится!"
 
 msgid "DHExitMovingVehicleDamageType.FemaleSuicide"
 msgstr "%o погибла, выпрыгнув из мчащейся машины."
@@ -2796,7 +2796,7 @@ msgid "DHVoicePack.SupportString[1]"
 msgstr "Нужна помощь в точке {objective}"
 
 msgid "DHVoicePack.AlertString[8]"
-msgstr "Под атакой в точке {objective}"
+msgstr "Меня атакуют в точке {objective}"
 
 msgid "DHVoicePack.OrderString[0]"
 msgstr "Атаковать {objective}"
