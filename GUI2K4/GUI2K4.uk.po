@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-26 23:39+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
+"PO-Revision-Date: 2025-02-16 16:18+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/uk/>\n"
 "Language: uk\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "UT2k4Browser_ServerListPageBase.PingingText"
 msgstr "Відстеження серверів ( %NumRec% / %TotalNum% )"
@@ -31,7 +31,7 @@ msgid "UT2k4Browser_ServerListPageBase.QueryCompleteString"
 msgstr "Запит виконано! Отримано: %NumServers% серверів"
 
 msgid "UT2k4Browser_PlayersList.ColumnHeadings<0>"
-msgstr "Назва"
+msgstr "Ім'я"
 
 msgid "UT2K4Tab_DetailSettings.BitDepthText[0]"
 msgstr "16-біт"
@@ -109,7 +109,7 @@ msgid "UT2k4Browser_RulesList.MinPlayersString"
 msgstr "Мінімальна кількість гравців (ботів)"
 
 msgid "UT2k4Browser_RulesList.ColumnHeadings<1>"
-msgstr "Величина"
+msgstr "Значення"
 
 msgid "UT2k4Browser_RulesList.AdminEmailString"
 msgstr "Email адміністратора"
@@ -161,3 +161,18 @@ msgstr "Відновити налаштування"
 
 msgid "UT2k4Browser_ServersList.ColumnHeadings<4>"
 msgstr "Пінг"
+
+msgid "UT2K4GamePageBase.PanelCaption<0>"
+msgstr "Тип гри"
+
+msgid "UT2K4GamePageBase.PanelCaption<4>"
+msgstr "Налаштування ботів"
+
+msgid "UT2K4GamePageBase.PanelCaption<1>"
+msgstr "Вибрати карту"
+
+msgid "UT2K4GamePageBase.PanelCaption<2>"
+msgstr "Правила гри"
+
+msgid "UT2K4GamePageBase.PanelCaption<3>"
+msgstr "Мутатори"
