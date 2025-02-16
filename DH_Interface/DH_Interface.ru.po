@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 19:28+0000\n"
+"PO-Revision-Date: 2025-02-16 22:39+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -1054,7 +1054,7 @@ msgid "DHTab_Controls.captions_comm[12]"
 msgstr "Отключить звук в меню"
 
 msgid "DHTab_Controls.captions_game[4]"
-msgstr "Блокировать/ разблокировать танк"
+msgstr "Заблокировать/Разблокировать танк"
 
 msgid "DHTab_Controls.captions_game[5]"
 msgstr "Меню приказов отряда"
