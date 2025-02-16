@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-01 13:39+0000\n"
+"PO-Revision-Date: 2025-02-16 16:18+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ru/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "ROTab_Hud.Hints<0>"
 msgstr "Все подсказки (сброс)"
@@ -65,7 +65,7 @@ msgid "ROConsole.SMStateName[12]"
 msgstr "Нужна помощь в..."
 
 msgid "ROConsole.SMStateName[13]"
-msgstr "Под ударом в..."
+msgstr "Под ударом в точке..."
 
 msgid "ROGUITeamSelection.TeamJoinHint[1]"
 msgstr "Присоединиться к войскам Союзников"
@@ -158,7 +158,7 @@ msgid "ROControlBinder.BindingLabel[6]"
 msgstr "Лечь"
 
 msgid "ROControlBinder.BindingLabel[7]"
-msgstr "Примкнуть штык / Разложить Пулемёт"
+msgstr "Примкнуть штык / Установить пулемёт"
 
 msgid "ROControlBinder.BindingLabel[8]"
 msgstr "Сменить ствол пулемёта"
@@ -206,7 +206,7 @@ msgid "ROControlBinder.BindingLabel[17]"
 msgstr "Передвижение"
 
 msgid "ROControlBinder.BindingLabel[20]"
-msgstr "Влево"
+msgstr "Движение влево"
 
 msgid "ROControlBinder.BindingLabel[23]"
 msgstr "Шаг"
@@ -254,7 +254,7 @@ msgid "ROTab_AudioSettings.AudioModes[3]"
 msgstr "H/W 3D + EAX"
 
 msgid "ROControlBinder.BindingLabel[3]"
-msgstr "Механический прицел"
+msgstr "Прицелиться"
 
 msgid "ROControlBinder.BindingLabel[2]"
 msgstr "Перезарядка"
@@ -293,7 +293,7 @@ msgid "ROControlBinder.BindingLabel[19]"
 msgstr "Назад"
 
 msgid "ROControlBinder.BindingLabel[21]"
-msgstr "Вправо"
+msgstr "Движение вправо"
 
 msgid "ROControlBinder.BindingLabel[22]"
 msgstr "Прыжок"
@@ -644,3 +644,6 @@ msgstr "Одиночная игра"
 
 msgid "ROUT2K4GamePageSP.SPFooter.PrimaryCaption"
 msgstr "ЗАПУСТИТЬ ОДИНОЧНЫЙ РЕЖИМ"
+
+msgid "ROConsole.AllPlayersSquad"
+msgstr "Всем союзникам"
