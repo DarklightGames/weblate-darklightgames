@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-28 21:37+0000\n"
+"PO-Revision-Date: 2025-02-16 16:18+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ru/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DH_Pak40ATGun.VehicleNameString"
 msgstr "7,5 см ПТ орудие Pak40"
@@ -20,7 +20,7 @@ msgid "DH_M1927Cannon.ProjectileDescriptions<0>"
 msgstr "ОФ"
 
 msgid "DH_PantherturmCannon.ProjectileDescriptions<1>"
-msgstr "ББС"
+msgstr "БПС"
 
 msgid "DH_6PounderGunCannonPawn.RangeText"
 msgstr "Ярды"
@@ -29,7 +29,7 @@ msgid "DH_ZiS2Cannon.nProjectileDescriptions<2>"
 msgstr "БР-271П"
 
 msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<2>"
-msgstr "ББС"
+msgstr "БПС"
 
 msgid "DH_Bofors40mmCannon.ProjectileDescriptions<0>"
 msgstr "ОФ-Т"
@@ -47,13 +47,13 @@ msgid "DH_17PounderGun.VehicleNameString"
 msgstr "17 фунтовая ПТ пушка"
 
 msgid "DH_Pak39Cannon.ProjectileDescriptions<1>"
-msgstr "ББС"
+msgstr "БПС"
 
 msgid "DH_M116Cannon.nProjectileDescriptions<1>"
 msgstr "HEAT M66"
 
 msgid "DH_45mmM1937GunCannon.ProjectileDescriptions<0>"
-msgstr "БСБК"
+msgstr "ББ"
 
 msgid "DH_Flak88Gun.VehicleNameString"
 msgstr "8,8 см орудие FlaK 36"
@@ -62,7 +62,7 @@ msgid "DH_Flak88Cannon.nProjectileDescriptions<1>"
 msgstr "Schw.Sprgr.Patr."
 
 msgid "DH_ZiS3CannonLate.ProjectileDescriptions<0>"
-msgstr "БСБК"
+msgstr "ББ"
 
 msgid "DH_PantherturmCannon.nProjectileDescriptions<2>"
 msgstr "Sprgr.Patr.42"
@@ -77,7 +77,7 @@ msgid "DH_M1927Gun.VehicleNameString"
 msgstr "76 мм полковое орудие (обр. 1927 г.)"
 
 msgid "DH_M1927Cannon.ProjectileDescriptions<1>"
-msgstr "КС"
+msgstr "БК"
 
 msgid "DH_Pak39Cannon.nProjectileDescriptions<1>"
 msgstr "PzGr.40"
@@ -113,22 +113,22 @@ msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<1>"
 msgstr "О-240"
 
 msgid "DH_Pak40Cannon.ProjectileDescriptions<2>"
-msgstr "ББС"
+msgstr "БПС"
 
 msgid "DH_ZiS3CannonLate.nProjectileDescriptions<1>"
 msgstr "ОФ-350"
 
 msgid "DH_6PounderGunCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_Pak39Cannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_PantherturmCannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39/42"
 
 msgid "DH_ZiS3CannonLate.ProjectileDescriptions<2>"
-msgstr "ББС"
+msgstr "БПС"
 
 msgid "DH_ZiS3Cannon.nProjectileDescriptions<0>"
 msgstr "БР-350Б"
@@ -140,7 +140,7 @@ msgid "DH_LeIG18Cannon.nProjectileDescriptions<1>"
 msgstr "Igr.38 HL/A"
 
 msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<0>"
-msgstr "БСБК"
+msgstr "ББ"
 
 msgid "DH_Pak39Cannon.ProjectileDescriptions<2>"
 msgstr "ОФ"
@@ -155,7 +155,7 @@ msgid "DH_Pak40Cannon.nProjectileDescriptions<2>"
 msgstr "PzGr.40"
 
 msgid "DH_Pak38Cannon.ProjectileDescriptions<1>"
-msgstr "ББС"
+msgstr "БПС"
 
 msgid "DH_Pak38Cannon.ProjectileDescriptions<2>"
 msgstr "ОФ"
@@ -176,28 +176,28 @@ msgid "DH_45mmM1942GunCannon.nProjectileDescriptions<1>"
 msgstr "O-240"
 
 msgid "DH_LeIG18Cannon.ProjectileDescriptions<1>"
-msgstr "КС"
+msgstr "БК"
 
 msgid "DH_Pak38Cannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_6PounderGunCannon.ProjectileDescriptions<1>"
-msgstr "БПCОП"
+msgstr "БПС"
 
 msgid "DH_Pak43Cannon.nProjectileDescriptions<1>"
 msgstr "Sprgr.Patr."
 
 msgid "DH_M116Cannon.ProjectileDescriptions<1>"
-msgstr "КС"
+msgstr "БК"
 
 msgid "DH_PantherturmCannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_PantherturmCannon.ProjectileDescriptions<2>"
 msgstr "ОФ"
 
 msgid "DH_ZiS2Cannon.ProjectileDescriptions<2>"
-msgstr "ББС"
+msgstr "БПС"
 
 msgid "DH_Pak40Cannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -266,13 +266,13 @@ msgid "DH_Bofors40mmCannon.nProjectileDescriptions<1>"
 msgstr "M81A1 AP"
 
 msgid "DH_Pak39Gun.VehicleNameString"
-msgstr "5,0 см орудие KwK 39"
+msgstr "5 см орудие KwK 39"
 
 msgid "DH_ZiS3Cannon.nProjectileDescriptions<1>"
 msgstr "ОФ-350"
 
 msgid "DH_ZiS2Cannon.ProjectileDescriptions<0>"
-msgstr "БСБК"
+msgstr "ББ"
 
 msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -287,7 +287,7 @@ msgid "DH_M116Cannon.ProjectileDescriptions<0>"
 msgstr "ОФ"
 
 msgid "DH_LeIG18Gun.VehicleNameString"
-msgstr "7,5 см гаубица Leichtes Infanteriegeschütz 18"
+msgstr "7,5 см гаубица le.IG.18"
 
 msgid "DH_Pak43ATGun.VehicleNameString"
 msgstr "8,8 см ПТ орудие Pak43/41"
@@ -296,7 +296,7 @@ msgid "DH_17PounderGunCannonPawn.RangeText"
 msgstr "Ярды"
 
 msgid "DH_Pak40Cannon.ProjectileDescriptions<0>"
-msgstr "БCНБК"
+msgstr "ББ"
 
 msgid "DH_M5GunCannon.nProjectileDescriptions<0>"
 msgstr "M62 APC"
@@ -308,13 +308,13 @@ msgid "DH_Flak88Cannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
 
 msgid "DH_ZiS3Cannon.ProjectileDescriptions<0>"
-msgstr "БСБК"
+msgstr "ББ"
 
 msgid "DH_Pak38Cannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
 
 msgid "DH_Pak38ATGun.VehicleNameString"
-msgstr "5,0 см ПТ орудие Pak38"
+msgstr "5 см ПТ орудие Pak38"
 
 msgid "DH_Flakvierling38Gun.VehicleNameString"
 msgstr "2 см орудие Flakvierling 38"
@@ -332,7 +332,7 @@ msgid "DH_Cannone4732Cannon.ProjectileDescriptions<0>"
 msgstr "ББ"
 
 msgid "DH_Cannone4732Cannon.ProjectileDescriptions<2>"
-msgstr "КС"
+msgstr "БК"
 
 msgid "DH_Cannone4732Cannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
@@ -348,3 +348,87 @@ msgstr "Effeto Pronto da 47"
 
 msgid "DH_Cannone4732Gun.VehicleNameString"
 msgstr "ПТ орудие Cannone 47/32"
+
+msgid "DH_Fiat1435Gun.VehicleNameString"
+msgstr "Фиат-Ревелли мод. 14/35"
+
+msgid "DH_Granatwerfer34Cannon.ProjectileDescriptions<1>"
+msgstr "Дым"
+
+msgid "DH_Granatwerfer34Cannon.nProjectileDescriptions<0>"
+msgstr "Wgr. 38"
+
+msgid "DH_Granatwerfer34Cannon.nProjectileDescriptions<1>"
+msgstr "Wgr. 38 Nb."
+
+msgid "DH_Granatwerfer34Mortar.VehicleNameString"
+msgstr "81мм Миномёт GrW.34"
+
+msgid "DH_ML3InchCannon.ProjectileDescriptions<0>"
+msgstr "ОФ"
+
+msgid "DH_ML3InchCannon.ProjectileDescriptions<1>"
+msgstr "Дым"
+
+msgid "DH_ML3InchCannon.nProjectileDescriptions<0>"
+msgstr "ОФ"
+
+msgid "DH_ML3InchCannon.nProjectileDescriptions<1>"
+msgstr "Белый Фосфор"
+
+msgid "DH_ML3InchMortar.VehicleNameString"
+msgstr "3 дюймовый Миномёт ML"
+
+msgid "DH_Model35MortarCannon.ProjectileDescriptions<1>"
+msgstr "Дым"
+
+msgid "DH_Model35MortarCannon.ProjectileDescriptions<2>"
+msgstr "ОФ-Тяж."
+
+msgid "DH_Model35MortarCannon.nProjectileDescriptions<0>"
+msgstr "Bomba g. a. da 81"
+
+msgid "DH_Model35MortarCannon.nProjectileDescriptions<2>"
+msgstr "Bomba gr. c. da 81"
+
+msgid "DH_Granatwerfer34Cannon.ProjectileDescriptions<0>"
+msgstr "ОФ"
+
+msgid "DH_M1919A4Gun.VehicleNameString"
+msgstr "Пулемёт Браунинг М1919А4"
+
+msgid "DH_Model35MortarCannon.nProjectileDescriptions<1>"
+msgstr "Bomba Fumogena"
+
+msgid "DH_BM36Mortar.VehicleNameString"
+msgstr "82мм Батальонный миномёт БМ-36"
+
+msgid "DH_BM36MortarCannon.ProjectileDescriptions<1>"
+msgstr "Дым"
+
+msgid "DH_BM36MortarCannon.nProjectileDescriptions<0>"
+msgstr "О-832"
+
+msgid "DH_BM36MortarCannon.nProjectileDescriptions<1>"
+msgstr "Д-832"
+
+msgid "DH_BM36MortarCannon.ProjectileDescriptions<0>"
+msgstr "ОФ"
+
+msgid "DH_M1Mortar.VehicleNameString"
+msgstr "81мм Миномёт М1"
+
+msgid "DH_M1MortarCannon.nProjectileDescriptions<0>"
+msgstr "M34A1 HE"
+
+msgid "DH_M1MortarCannon.nProjectileDescriptions<1>"
+msgstr "M56 WP"
+
+msgid "DH_M1MortarCannon.nProjectileDescriptions<2>"
+msgstr "M56 HE"
+
+msgid "DH_Model35Mortar.VehicleNameString"
+msgstr "81мм Миномёт 81/14 мод. 35"
+
+msgid "DH_Model35MortarCannon.ProjectileDescriptions<0>"
+msgstr "ОФ"
