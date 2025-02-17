@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 23:02+0000\n"
+"PO-Revision-Date: 2025-02-17 09:23+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ru/>\n"
@@ -19,7 +19,7 @@ msgid "ROTab_Hud.Hints<1>"
 msgstr "Только новые подсказки"
 
 msgid "ROTab_Hud.Hints<2>"
-msgstr "Никаких подсказок"
+msgstr "Без подсказок"
 
 msgid "ROConsole.SMStateName[4]"
 msgstr "Предупреждение"
@@ -36,9 +36,8 @@ msgstr "Сместиться в..."
 msgid "ROConsole.SMStateName[14]"
 msgstr "Отдать приказ (выбор)..."
 
-#, fuzzy
 msgid "ROTab_Hud.HintsCombo.Caption"
-msgstr "Подсказки"
+msgstr "Количество подсказок"
 
 msgid "ROTab_Hud.HintsCombo.Hint"
 msgstr "Делает показ подсказок видимым или нет."
@@ -433,10 +432,10 @@ msgid "ROControlBinder.BindingLabel[61]"
 msgstr "Таблица счёта"
 
 msgid "ROControlBinder.BindingLabel[58]"
-msgstr "Прибавить интерфейс"
+msgstr "Увеличить интерфейс"
 
 msgid "ROControlBinder.BindingLabel[59]"
-msgstr "Убавить интерфейс"
+msgstr "Уменьшить интерфейс"
 
 msgid "ROControlBinder.BindingLabel[18]"
 msgstr "Вперёд"
@@ -523,7 +522,7 @@ msgid "ROTab_Controls.captions_comm[3]"
 msgstr "Меню голосовых команд"
 
 msgid "ROTab_Controls.captions_interface[4]"
-msgstr "Уменьшить размер Головного интерфейса (HUD)"
+msgstr "Уменьшить размер игрового интерфейса"
 
 msgid "ROTab_Controls.captions_weapons[0]"
 msgstr "Основной огонь"
