@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 11:17+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-02-17 18:57+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
 "Language: uk\n"
@@ -2513,3 +2513,22 @@ msgstr ""
 
 msgid "DHHintManager.Hints[65].Title"
 msgstr "Семовенте 90/53"
+
+msgid "DHAdminMessage.AdminTeleportedMessage"
+msgstr "Адміністратор '{0}' телепортувався."
+
+msgid "DHAdminMessage.DestroyedAllSpawnsMessage"
+msgstr ""
+"Адміністратор '{0}' знищив усі точки відродження, розміщені адміністратором "
+"у команді {1}."
+
+msgid "DHAdminMessage.DestroyedSpawnMessage"
+msgstr ""
+"Адміністратор '{0}' знищив точку відроження, розміщену адміністратором у "
+"команді {1}."
+
+msgid "DHAdminMessage.PlacedSpawnMessage"
+msgstr "Адміністратор '{0}' розмістив точку відродження у команді {1}."
+
+msgid "DHAdminMessage.AxisTeamNameGenitive"
+msgstr "Осі"
