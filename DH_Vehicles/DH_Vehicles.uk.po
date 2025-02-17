@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 11:17+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-02-17 17:51+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/uk/>\n"
 "Language: uk\n"
@@ -32,7 +32,7 @@ msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<2>"
 msgstr "Білий фосфор"
 
 msgid "DH_Fiat626TruckSupport.VehicleNameString"
-msgstr "Фіат 626 (Постачання)"
+msgstr "Фіат 626 (Логістика)"
 
 msgid "DH_Fiat626TruckTransport.VehicleNameString"
 msgstr "Фіат 626 (Транспорт)"
@@ -56,7 +56,7 @@ msgid "DH_GAZ67Vehicle.VehicleNameString"
 msgstr "ГАЗ-67"
 
 msgid "DH_GMCTruckSupport.VehicleNameString"
-msgstr "GMC CCKW (Постачання)"
+msgstr "GMC CCKW (Логістика)"
 
 msgid "DH_GMCTruckTransport.VehicleNameString"
 msgstr "GMC CCKW (Транпорт)"
@@ -287,7 +287,7 @@ msgid "DH_PanzerIIINCannon.ProjectileDescriptions<2>"
 msgstr "Картеч"
 
 msgid "DH_OpelBlitzSupport.VehicleNameString"
-msgstr "Опель Бліц (Постачання)"
+msgstr "Опель Бліц (Логістика)"
 
 msgid "DH_OpelBlitzTransport.VehicleNameString"
 msgstr "Опель Бліц (Траспорт)"
@@ -514,7 +514,7 @@ msgid "DH_WolverineCannon_Early.ProjectileDescriptions<2>"
 msgstr "Дим"
 
 msgid "DH_ZiS5vTruckSupport.VehicleNameString"
-msgstr "ЗіС-5В (Постачання)"
+msgstr "ЗіС-5В (Логістика)"
 
 msgid "DH_JacksonTank.VehicleNameString"
 msgstr "ПТ-САУ M36 \"Джексон\""
@@ -1276,3 +1276,21 @@ msgstr "Фіат 508CM"
 
 msgid "DH_FiatL640Tank.VehicleNameString"
 msgstr "Карро Армато L6/40"
+
+msgid "DH_AutocarrettaOM.VehicleNameString"
+msgstr "Транспорт OM 36P"
+
+msgid "DH_Semovente4732Cannon.ProjectileDescriptions<1>"
+msgstr "Осколково-фугасний (HE)"
+
+msgid "DH_Semovente4732Cannon.ProjectileDescriptions<0>"
+msgstr "Бронебійний (AP)"
+
+msgid "DH_Semovente4732Cannon.ProjectileDescriptions<2>"
+msgstr "Комулятивний (HEAT)"
+
+msgid "DH_AutocarrettaOMSupport.VehicleNameString"
+msgstr "Вантажівка OM36Mt (Логістика)"
+
+msgid "DH_Semovente4732Destroyer.VehicleNameString"
+msgstr "ПТ-САУ Semovente L40 da 47/32"
