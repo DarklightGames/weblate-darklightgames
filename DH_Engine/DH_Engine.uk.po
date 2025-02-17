@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-17 19:24+0000\n"
+"PO-Revision-Date: 2025-02-17 22:19+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
@@ -1328,9 +1328,8 @@ msgstr "КО"
 msgid "DHLocalMessage.SquadAssistantID"
 msgstr "П"
 
-#, fuzzy
 msgid "DHMapMarker_AdminParadrop.MarkerName"
-msgstr "Адміністратор: Десантування"
+msgstr "Адміністратор: Встановити точку десантування"
 
 msgid "DHMapMarker_Enemy_ATGun.MarkerName"
 msgstr "Ворожа ПТ зброя"
@@ -2561,3 +2560,29 @@ msgid "DHHintManager.Hints[66].Text"
 msgstr ""
 "Ви щойно запустили мінометний снаряд прямо над собою. На вашому місці я би "
 "знайшов укриття!"
+
+msgid "DHInventorySpawner.MenuNoun"
+msgstr "Ящик"
+
+msgid "DHUnits.UnrealDistanceSymbol"
+msgstr "uu"
+
+msgid "DHRadioTouchMessage.CalibratingMessage"
+msgstr "Радіостанція налагоджується"
+
+#, fuzzy
+msgid "DHInventorySpawner.MenuNameFormat"
+msgstr "{name} {noun}"
+
+msgid "DHAdminMessage.AlliedTeamNameGenitive"
+msgstr "Союзників"
+
+#, fuzzy
+msgid "DHHud.PrereleaseDisclaimerText"
+msgstr "Це пред-релізна версія. Контент може змінюватися."
+
+msgid "DHVehicleTouchControlsMessage.Controls<0>.Text"
+msgstr "Сісти"
+
+msgid "DHWeaponPickupTouchMessage.Controls<0>.Text"
+msgstr "Взяти"
