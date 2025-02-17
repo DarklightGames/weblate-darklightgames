@@ -1481,6 +1481,15 @@ msgstr "Scope and Binocular Sensitivity Factor"
 msgid "DHTab_Input.InputUseJoystick.Caption"
 msgstr "Enable Joystick"
 
+msgid "DHTab_MainSP.MapAuthorText"
+msgstr "Author: {author}"
+
+msgid "DHTab_MainSP.MapPlayersText"
+msgstr "{min} players"
+
+msgid "DHTab_MainSP.MapPlayersRangeText"
+msgstr "{min}-{max} players"
+
 msgid "DHTab_MainSP.DifficultyCombo.Caption"
 msgstr "Difficulty"
 
