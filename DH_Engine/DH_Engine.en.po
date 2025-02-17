@@ -1193,8 +1193,11 @@ msgstr "Brilliant!"
 msgid "DHIQMessage.Congratulations<7>"
 msgstr "You're the smartest!"
 
-msgid "DHInventorySpawner.ContainerNoun"
-msgstr "crate"
+msgid "DHInventorySpawner.MenuNoun"
+msgstr "Crate"
+
+msgid "DHInventorySpawner.MenuNameFormat"
+msgstr "{name} {noun}"
 
 msgid "DHLastObjectiveMessage.AxisAboutToWinMessage"
 msgstr "Last objective -- the Axis have almost won the battle!"
