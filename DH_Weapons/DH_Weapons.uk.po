@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-29 11:13+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-02-18 00:38+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/uk/>\n"
 "Language: uk\n"
@@ -159,13 +159,13 @@ msgid "DH_M1924Weapon.ItemName"
 msgstr "Гвинтівка М1924"
 
 msgid "DH_M1928_20rndWeapon.ItemName"
-msgstr "ПП Томпсона M1928A1 (20 патронів)"
+msgstr "ПК Томпсона M1928A1 (20 патронів)"
 
 msgid "DH_M1928_30rndWeapon.ItemName"
-msgstr "ПП Томпсона M1928A1 (30 патронів)"
+msgstr "ПК Томпсона M1928A1 (30 патронів)"
 
 msgid "DH_M1928_50rndWeapon.ItemName"
-msgstr "ПП Томпсона M1928A1 (50 патронів)"
+msgstr "ПК Томпсона M1928A1 (50 патронів)"
 
 msgid "DH_M1A1CarbineWeapon.ItemName"
 msgstr "Карабін М1А1"
@@ -192,7 +192,7 @@ msgid "DH_M44Weapon.ItemName"
 msgstr "Карабін Мосіна М44"
 
 msgid "DH_M712Weapon.ItemName"
-msgstr "ПП Маузер М712 \"Schnellfeuer\""
+msgstr "ПК Маузер М712 «Schnellfeuer»"
 
 msgid "DH_M9530Weapon.ItemName"
 msgstr "Гвинтівка Манліхер M95/30"
@@ -291,16 +291,16 @@ msgid "DH_SpringfieldA1Weapon.ItemName"
 msgstr "Гвинтівка Спрингфілд М1903A1"
 
 msgid "DH_StenMkVWeapon.ItemName"
-msgstr "ПП СТЕН Mk.V"
+msgstr "ПК СТЕН Mk.V"
 
 msgid "DH_StenMkIIWeapon.ItemName"
-msgstr "ПП СТЕН Mk.II"
+msgstr "ПК СТЕН Mk.II"
 
 msgid "DH_StenMkIIIWeapon.ItemName"
-msgstr "ПП СТЕН Mk.III"
+msgstr "ПК СТЕН Mk.III"
 
 msgid "DH_StenMkIICWeapon.ItemName"
-msgstr "ПП СТЕН Mk.II"
+msgstr "ПК СТЕН Mk.II"
 
 msgid "DH_StielGranateWeapon.ItemName"
 msgstr "Граната StG.24"
@@ -309,7 +309,7 @@ msgid "DH_TT33Weapon.ItemName"
 msgstr "Пістолет ТТ-33"
 
 msgid "DH_ThompsonWeapon.ItemName"
-msgstr "ПП Томпсона M1A1"
+msgstr "ПК Томпсона M1A1"
 
 msgid "DH_VG15Weapon.ItemName"
 msgstr "Самозарядний карабін VG 1-5"
