@@ -302,6 +302,15 @@ msgstr "Range"
 msgid "DHArtillerySpottingScope.PitchHeaderString"
 msgstr "Pitch"
 
+msgid "DHArtillerySpottingScope.SquadText"
+msgstr "Squad"
+
+msgid "DHArtillerySpottingScope.SelectedTargetText"
+msgstr "Selected Target"
+
+msgid "DHArtillerySpottingScope.MeasurementToolText"
+msgstr "Measurement Tool"
+
 msgid "DHArtillerySpottingScope.TargetToggleHint"
 msgstr "Press {0} to toggle between artillery targets"
 
@@ -1945,6 +1954,9 @@ msgstr "uu"
 
 msgid "DHUnits.MetersSymbol"
 msgstr "m"
+
+msgid "DHUnits.YardsSymbol"
+msgstr "yd"
 
 msgid "DHVehicle.VehicleNameString"
 msgstr "ADD VehicleNameString !!"
