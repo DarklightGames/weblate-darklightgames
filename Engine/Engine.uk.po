@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 16:18+0000\n"
+"PO-Revision-Date: 2025-02-17 22:19+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/uk/>\n"
@@ -49,7 +49,7 @@ msgid "ChatRoomMessage.ChatRoomString[9]"
 msgstr "Зараз виступає на каналі «%title%»"
 
 msgid "KeyNames.End"
-msgstr ""
+msgstr "END"
 
 msgid "ChatRoomMessage.ChatRoomString[13]"
 msgstr "Успішно заблоковано '%pri%' з вашого особистого каналу чату"
@@ -90,7 +90,7 @@ msgid "PlayerController.OwnCamera"
 msgstr "Перегляд власної камери"
 
 msgid "KeyNames.Home"
-msgstr ""
+msgstr "HOME"
 
 msgid "KeyNames.Select"
 msgstr ""
@@ -102,13 +102,13 @@ msgid "KeyNames.Print"
 msgstr ""
 
 msgid "KeyNames.PrintScrn"
-msgstr ""
+msgstr "PRINTSCRN"
 
 msgid "KeyNames.Insert"
-msgstr ""
+msgstr "INSERT"
 
 msgid "KeyNames.Delete"
-msgstr ""
+msgstr "DELETE"
 
 msgid "KeyNames.Help"
 msgstr ""
@@ -117,16 +117,16 @@ msgid "KeyNames.Separator"
 msgstr ""
 
 msgid "KeyNames.Pause"
-msgstr ""
+msgstr "PAUSE"
 
 msgid "KeyNames.CapsLock"
-msgstr ""
+msgstr "CAPSLOCK"
 
 msgid "KeyNames.Enter"
 msgstr "ВВЕДЕННЯ"
 
 msgid "KeyNames.Tab"
-msgstr ""
+msgstr "TAB"
 
 msgid "Errors.NetClose"
 msgstr "Помилка закриття файлу"
@@ -313,3 +313,21 @@ msgstr "Завантаження"
 
 msgid "KeyNames.GreyStar"
 msgstr "АСТЕРИСК"
+
+msgid "KeyNames.Shift"
+msgstr "SHIFT"
+
+msgid "KeyNames.NumLock"
+msgstr "NUMLOCK"
+
+msgid "KeyNames.Escape"
+msgstr "ESCAPE"
+
+msgid "Progress.ConnectingText"
+msgstr "Приєднання (F10 щоб скасувати):"
+
+msgid "KeyNames.PageUp"
+msgstr "PAGE UP"
+
+msgid "KeyNames.PageDown"
+msgstr "PAGE DOWN"
