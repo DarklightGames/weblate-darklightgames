@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-17 18:57+0000\n"
+"PO-Revision-Date: 2025-02-17 19:24+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
@@ -2532,3 +2532,32 @@ msgstr "Адміністратор '{0}' розмістив точку відр�
 
 msgid "DHAdminMessage.AxisTeamNameGenitive"
 msgstr "Осі"
+
+msgid "DHCommandPostMessage.OverrunMessage"
+msgstr "{name} захоплено ворогом."
+
+msgid "DHCommandPostMessage.ActivatedMessage"
+msgstr "{name} встановлено."
+
+msgid "DHCommandPostMessage.DestroyedMessage"
+msgstr "{name} знищено."
+
+msgid "DHCommandPostMessage.ConstructedMessage"
+msgstr "{name} побудовано та буде налагоджено через {seconds} seconds."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<27>"
+msgstr "Ця точка монтажу все зайнята"
+
+msgid "DHGameMessage.RoleLockedMessage"
+msgstr "Роль '{role}' заблоковано."
+
+msgid "DHGameMessage.RoleUnlockedMessage"
+msgstr "Роль '{role}' розблоковано."
+
+msgid "DHHintManager.Hints[66].Title"
+msgstr "До укриття!"
+
+msgid "DHHintManager.Hints[66].Text"
+msgstr ""
+"Ви щойно запустили мінометний снаряд прямо над собою. На вашому місці я би "
+"знайшов укриття!"
