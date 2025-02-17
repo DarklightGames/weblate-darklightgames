@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-17 22:19+0000\n"
+"PO-Revision-Date: 2025-02-18 00:38+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/uk/>\n"
@@ -485,16 +485,16 @@ msgid "DH_WolverineCannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
 msgid "DH_T3476Tank.VehicleNameString"
-msgstr "Т-34-76 (Обр. 1940р.)"
+msgstr "Т-34-76 (зр. 1940р.)"
 
 msgid "DH_T3476_42Tank.VehicleNameString"
-msgstr "Т-34-76 (Обр. 1942р.)"
+msgstr "Т-34-76 (зр. 1942р.)"
 
 msgid "DH_T3476_43Tank.VehicleNameString"
-msgstr "T-34-76 (Обр. 1943р.)"
+msgstr "T-34-76 (зр. 1943р.)"
 
 msgid "DH_T3485Tank.VehicleNameString"
-msgstr "Т-34-85 (Обр. 1944)"
+msgstr "Т-34-85 (зр. 1944р.)"
 
 msgid "DH_T60Tank.VehicleNameString"
 msgstr "Легкий танк Т-60"
@@ -545,13 +545,13 @@ msgid "DH_ShermanFireflyTank.VehicleNameString"
 msgstr "Шерман Mk.VC \"Світлячок\""
 
 msgid "DH_WolverineTank.VehicleNameString"
-msgstr "ПТ-САУ M10 \"Росомаха\""
+msgstr "M10 Вольверин"
 
 msgid "DH_JagdpantherTank.VehicleNameString"
 msgstr "ПТ-САУ Jagdpanzer. V \"Ягдпантера\""
 
 msgid "DH_LocustTank.VehicleNameString"
-msgstr "М22 Саранча **WIP**"
+msgstr "М22 Локуст **WIP**"
 
 msgid "DH_50CalDamType.DeathString"
 msgstr "%o був убитий %k з кулемета .50 калібру."
@@ -629,10 +629,10 @@ msgid "DH_M16Halftrack.VehicleNameString"
 msgstr "Зенітна САУ М16"
 
 msgid "DH_M3A1HalftrackTransport.VehicleNameString"
-msgstr "Напівгусеничний БТР M3A1"
+msgstr "Бронетранспортер M3A1"
 
 msgid "DH_M7Priest.VehicleNameString"
-msgstr "M7 «Священик»"
+msgstr "M7 Прист"
 
 msgid "DH_Marder3MDestroyer.VehicleNameString"
 msgstr "ПТ-САУ Marder III Ausf.M"
@@ -768,7 +768,7 @@ msgid "DH_WirbelwindTank.VehicleNameString"
 msgstr "2 см Flak auf Pz.IV \"Вірбельвінд\""
 
 msgid "DH_WolverineTank_British.VehicleNameString"
-msgstr "ПТ-САУ Росомаха SP"
+msgstr "Вольверин SP"
 
 msgid "DH_PanzerIVHCannon.nProjectileDescriptions<1>"
 msgstr "Sprgr.Patr.34"
