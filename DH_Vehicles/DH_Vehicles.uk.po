@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-17 17:51+0000\n"
+"PO-Revision-Date: 2025-02-17 22:19+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/uk/>\n"
@@ -352,13 +352,11 @@ msgstr "Бронеавтомобіль Sd.Kfz.234/1"
 msgid "DH_ShermanCannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-#, fuzzy
 msgid "DH_ShermanCannon.ProjectileDescriptions<2>"
-msgstr "Білий Фосфор"
+msgstr "Білий Фосфор (WP)"
 
-#, fuzzy
 msgid "DH_ShermanCannon.ProjectileDescriptions<0>"
-msgstr "Бронебійний (APCBC)"
+msgstr "Бронебійний (APC)"
 
 msgid "DH_ShermanCannonA_76mm.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
@@ -784,7 +782,6 @@ msgstr "PzGr.39"
 msgid "DH_AchillesCannon.nProjectileDescriptions<0>"
 msgstr "Mk.IV APC"
 
-#, fuzzy
 msgid "DH_ShermanCannon_M4A3105_Howitzer.nProjectileDescriptions<0>"
 msgstr "M1 HE-T"
 
@@ -845,23 +842,18 @@ msgstr "M2 Картеч"
 msgid "DH_PanzerIIIJCannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
 
-#, fuzzy
 msgid "DH_PanzerIIINCannon.nProjectileDescriptions<2>"
 msgstr "Kt.Kw.K"
 
-#, fuzzy
 msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<0>"
 msgstr "M62 APC"
 
-#, fuzzy
 msgid "DH_ShermanFireFlyCannon.nProjectileDescriptions<0>"
 msgstr "Mk.IV APC"
 
-#, fuzzy
 msgid "DH_Stug3GCannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
 
-#, fuzzy
 msgid "DH_Stug3GCannon.nProjectileDescriptions<2>"
 msgstr "Nbgr.Kw.K"
 
@@ -871,7 +863,6 @@ msgstr "БР-350БСП"
 msgid "DH_T3485Cannon_Berlin.nProjectileDescriptions<1>"
 msgstr "БР-365П"
 
-#, fuzzy
 msgid "DH_Tiger2BCannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39/43"
 
@@ -1025,42 +1016,33 @@ msgstr "PzGr.40"
 msgid "DH_PanzerIIILCannon.nProjectileDescriptions<2>"
 msgstr "Sprgr.Patr.38"
 
-#, fuzzy
 msgid "DH_PanzerIIINCannon.nProjectileDescriptions<0>"
 msgstr "Sprgr.Kw.K."
 
 msgid "DH_PanzerIIINCannon.nProjectileDescriptions<1>"
 msgstr "Gr.38 Hl/С"
 
-#, fuzzy
 msgid "DH_PanzerIVF1Cannon.nProjectileDescriptions<0>"
 msgstr "K.Gr.rot Pz."
 
-#, fuzzy
 msgid "DH_PanzerIVF1Cannon.nProjectileDescriptions<1>"
 msgstr "Gr.38 Hl/B"
 
-#, fuzzy
 msgid "DH_PanzerIVF1Cannon.nProjectileDescriptions<2>"
 msgstr "Sprgr.Kw.K."
 
-#, fuzzy
 msgid "DH_PanzerIVGEarlyCannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
 
-#, fuzzy
 msgid "DH_PanzerIVGEarlyCannon.nProjectileDescriptions<1>"
 msgstr "Sprgr.Patr.34"
 
-#, fuzzy
 msgid "DH_PanzerIVGEarlyCannon.nProjectileDescriptions<2>"
 msgstr "Gr.38 Hl/B"
 
-#, fuzzy
 msgid "DH_PanzerIVGLateCannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
 
-#, fuzzy
 msgid "DH_PanzerIVGLateCannon.nProjectileDescriptions<1>"
 msgstr "Sprgr.Patr.34"
 
@@ -1076,15 +1058,12 @@ msgstr "OФ-350"
 msgid "DH_SU76Cannon.nProjectileDescriptions<2>"
 msgstr "БР-350П"
 
-#, fuzzy
 msgid "DH_SdKfz2519DCannon.nProjectileDescriptions<0>"
 msgstr "Sprgr.Kw.K."
 
-#, fuzzy
 msgid "DH_SdKfz2519DCannon.nProjectileDescriptions<1>"
 msgstr "Gr.38 Hl/C"
 
-#, fuzzy
 msgid "DH_SdKfz2519DCannon.nProjectileDescriptions<2>"
 msgstr "Nbgr.Kw.K."
 
@@ -1094,15 +1073,12 @@ msgstr "Pzgr. L'spur"
 msgid "DH_Sdkfz2341Cannon.nProjectileDescriptions<1>"
 msgstr "Sprgr. L'spur"
 
-#, fuzzy
 msgid "DH_Sdkfz2341Cannon.nProjectileDescriptions<2>"
 msgstr "Pzgr. 40 L'spur"
 
-#, fuzzy
 msgid "DH_Sdkfz2342Cannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
 
-#, fuzzy
 msgid "DH_Sdkfz2342Cannon.nProjectileDescriptions<1>"
 msgstr "Sprgr.Patr.38"
 
@@ -1124,85 +1100,66 @@ msgstr "M64 WP"
 msgid "DH_ShermanCannonA_76mm.nProjectileDescriptions<0>"
 msgstr "M62 APC"
 
-#, fuzzy
 msgid "DH_ShermanCannonA_76mm.nProjectileDescriptions<1>"
 msgstr "M93 HVAP"
 
-#, fuzzy
 msgid "DH_ShermanCannonA_76mm.nProjectileDescriptions<2>"
 msgstr "M42A1 HE-T"
 
-#, fuzzy
 msgid "DH_ShermanCannonA_76mm_Early.nProjectileDescriptions<0>"
 msgstr "M62 APC"
 
-#, fuzzy
 msgid "DH_ShermanCannonA_76mm_Early.nProjectileDescriptions<1>"
 msgstr "M42A1 HE-T"
 
-#, fuzzy
 msgid "DH_ShermanCannonA_76mm_Early.nProjectileDescriptions<2>"
 msgstr "M88 HC"
 
-#, fuzzy
 msgid "DH_ShermanCannon_M4A3105_Howitzer.nProjectileDescriptions<1>"
 msgstr "M60 WP"
 
-#, fuzzy
 msgid "DH_ShermanCannon_M4A3105_Howitzer.nProjectileDescriptions<2>"
 msgstr "M67 HEAT"
 
-#, fuzzy
 msgid "DH_ShermanCannon_M4A3E2_Jumbo.nProjectileDescriptions<0>"
 msgstr "M61 APC"
 
-#, fuzzy
 msgid "DH_ShermanCannon_M4A3E2_Jumbo.nProjectileDescriptions<1>"
 msgstr "M48 HE-T"
 
-#, fuzzy
 msgid "DH_ShermanCannon_M4A3E2_Jumbo.nProjectileDescriptions<2>"
 msgstr "M64 WP"
 
-#, fuzzy
 msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<1>"
 msgstr "M42 HE"
 
-#, fuzzy
 msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<2>"
 msgstr "M88 HC"
 
-#, fuzzy
 msgid "DH_ShermanFireFlyCannon.nProjectileDescriptions<1>"
 msgstr "Mk.I APDS"
 
-#, fuzzy
 msgid "DH_ShermanFireFlyCannon.nProjectileDescriptions<2>"
 msgstr "Mk.I HE-T"
 
-#, fuzzy
 msgid "DH_StuH42Cannon.nProjectileDescriptions<0>"
 msgstr "F.H.Gr."
 
-#, fuzzy
 msgid "DH_StuH42Cannon.nProjectileDescriptions<1>"
 msgstr "F.H.Gr.Nb."
 
-#, fuzzy
 msgid "DH_StuH42Cannon.nProjectileDescriptions<2>"
 msgstr "Gr.39 Hl/C"
 
 msgid "DH_StuartCannon.nProjectileDescriptions<0>"
 msgstr "M51B1 APC"
 
-#, fuzzy
 msgid "DH_StuartCannon.nProjectileDescriptions<1>"
 msgstr "M63 HE-T"
 
 msgid "DH_StuartCannon.nProjectileDescriptions<2>"
 msgstr "M2 Картеч"
 
-#, fuzzy
 msgid "DH_Stug3GCannon.nProjectileDescriptions<1>"
 msgstr "Sprgr.Patr.34"
 
@@ -1230,29 +1187,24 @@ msgstr "БР-365"
 msgid "DH_T3485Cannon.nProjectileDescriptions<1>"
 msgstr "БР-365П"
 
-#, fuzzy
 msgid "DH_T3485Cannon.nProjectileDescriptions<2>"
-msgstr "O-365"
+msgstr "О-365"
 
 msgid "DH_T3485Cannon_Berlin.nProjectileDescriptions<0>"
 msgstr "БР-365Б"
 
-#, fuzzy
 msgid "DH_T3485Cannon_Berlin.nProjectileDescriptions<2>"
-msgstr "O-365"
+msgstr "О-365"
 
 msgid "DH_T60Cannon.nProjectileDescriptions<0>"
 msgstr "Бронебійно-запалювально-трасуючий (BZT)"
 
-#, fuzzy
 msgid "DH_Tiger2BCannon.nProjectileDescriptions<1>"
 msgstr "Sprgr.Patr."
 
-#, fuzzy
 msgid "DH_TigerCannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
 
-#, fuzzy
 msgid "DH_TigerCannon.nProjectileDescriptions<1>"
 msgstr "Schw.Sprgr.Patr."
 
