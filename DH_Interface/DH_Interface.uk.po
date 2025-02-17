@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-17 22:19+0000\n"
+"PO-Revision-Date: 2025-02-18 00:38+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
@@ -604,7 +604,7 @@ msgstr ""
 "відстань туману залежно від його показника"
 
 msgid "DHTab_Controls.ControlProfilesComboBox.Caption"
-msgstr "Профілі управління"
+msgstr "Профілі керування"
 
 msgid "DHTab_DetailSettings.DetailTextureDetail.Caption"
 msgstr "Деталізація текстур"
@@ -947,16 +947,16 @@ msgid "DHScoreBoard.ScoreboardColumns<9>.Title"
 msgstr "Пінг"
 
 msgid "DHServerBrowser.PanelCaption<0>"
-msgstr "Обране"
+msgstr "Вибрані"
 
 msgid "DHServerBrowser.PanelCaption<1>"
-msgstr "Локальна мережа (LAN)"
+msgstr "Локальні ігри"
 
 msgid "DHServerBrowser.PanelCaption<2>"
 msgstr "Інтернет"
 
 msgid "DHServerBrowser.PanelCaption<3>"
-msgstr "Локальна мережа (LAN)"
+msgstr "Локальні ігри"
 
 msgid "DHServerBrowser.PanelCaption<4>"
 msgstr "Інтернет"
@@ -986,13 +986,13 @@ msgid "DHServerLoading.DeployingText"
 msgstr "Завантаження карти:{0}"
 
 msgid "DHSettingsPage.PanelCaption<3>"
-msgstr "Управління"
+msgstr "Керування"
 
 msgid "DHSettingsPage.PanelCaption<4>"
 msgstr "Миша"
 
 msgid "DHSettingsPage.PanelCaption<5>"
-msgstr "Ігровий інтерфейс (HUD)"
+msgstr "Інтерфейс (HUD)"
 
 msgid "DHSettingsPage.PanelHint<0>"
 msgstr "Параметри налаштувань гри та мережі..."
@@ -1005,7 +1005,7 @@ msgid "DHSettingsPage.PanelHint<2>"
 msgstr "Налаштуйте якість звуку..."
 
 msgid "DHSettingsPage.PanelHint<3>"
-msgstr "Налаштуйте управління клавіатурою і мишею..."
+msgstr "Налаштуйте керування клавіатурою і мишею..."
 
 msgid "DHSettingsPage.PanelHint<5>"
 msgstr "Налаштуйте свій Ігровий інтерфейс (HUD)..."
@@ -1161,7 +1161,7 @@ msgid "DHTab_Controls.captions_game[8]"
 msgstr "Розмістити точку збору"
 
 msgid "DHTab_Controls.PanelCaption"
-msgstr "Управління"
+msgstr "Керування"
 
 msgid "DHTab_Controls.InputBK1.Caption"
 msgstr "Прив'язки клавіш"
@@ -1718,7 +1718,7 @@ msgid "DHTab_Hud.GameHudShowPersonalInfo.Caption"
 msgstr "Показати особисту інформацію"
 
 msgid "DHTab_Hud.GameHudShowVehicleVisionCone.Caption"
-msgstr "Показати меню управління транспорта"
+msgstr "Показати меню керування транспорта"
 
 msgid "DHTab_Hud.GameHudShowWeaponInfo.Caption"
 msgstr "Показати інформацію про зброю"
