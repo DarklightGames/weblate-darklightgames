@@ -1481,6 +1481,9 @@ msgstr "Scope and Binocular Sensitivity Factor"
 msgid "DHTab_Input.InputUseJoystick.Caption"
 msgstr "Enable Joystick"
 
+msgid "DHTab_MainSP.MapCaptionText"
+msgstr "{game} Maps"
+
 msgid "DHTab_MainSP.MapAuthorText"
 msgstr "Author: {author}"
 
