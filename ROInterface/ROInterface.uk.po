@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 16:18+0000\n"
+"PO-Revision-Date: 2025-02-17 22:19+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/uk/>\n"
@@ -646,3 +646,23 @@ msgstr "Голосові команди: "
 
 msgid "ROScoreBoard.ReinforcementsText"
 msgstr "Підкріплення"
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorRoundHasEnded"
+msgstr "Не можливо змінити команду: раунд закінчився."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorTooManyPlayers"
+msgstr "Не можливо змінити команду: забагато активних гравців."
+
+msgid "ROGUIRoleSelection.ErrorTeamMustJoinBeforeStart"
+msgstr "Не можливо змінити команду: потрібно обрати команду до початку раунду."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorTeamIsFull"
+msgstr "Не можливо змінити команду: обрана команда вже повна."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorGameHasStarted"
+msgstr ""
+"Не можливо змінити команду: сервер не дозволяє змінювати команду після "
+"початку раунду."
+
+msgid "ROTab_AudioSettings.PanelCaption"
+msgstr "Аудіо"
