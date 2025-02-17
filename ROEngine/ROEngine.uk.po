@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-12 13:39+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2025-02-17 22:19+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/uk/>\n"
 "Language: uk\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "ROAmmoWeightMessage.HeavyMessage"
 msgstr "Новий магазин важкий"
@@ -437,3 +437,86 @@ msgstr "Спостерігання точок"
 
 msgid "ROPlayer.SpectatingModeName[0]"
 msgstr "Перегляд себе"
+
+msgid "ROTeamGame.PropsDisplayText[2]"
+msgstr "Швидкість гри"
+
+#, fuzzy
+msgid "ROTeamGame.PropsDisplayText[8]"
+msgstr "Заблокувати спостерігання з 3-ї особи"
+
+msgid "ROTeamGame.PropsDisplayText[7]"
+msgstr "Спостерігати тільки з першої особи"
+
+msgid "ROHud.ViewingText"
+msgstr "Споглядаєте: "
+
+#, fuzzy
+msgid "ROGameMessage.TypeForgiveMessage"
+msgstr "вбив вас, напишіть \"np\" або \"forgive\" щоб вибачити."
+
+msgid "ROTeamGame.PropsDisplayText[0]"
+msgstr "Навички бота"
+
+#, fuzzy
+msgid "ROTeamGame.PropsDisplayText[1]"
+msgstr "Використовувати ротацію карт"
+
+msgid "ROTeamGame.PropsDisplayText[3]"
+msgstr "Максимум споглядачів"
+
+msgid "ROTeamGame.PropsDisplayText[4]"
+msgstr "Максимум гравців"
+
+#, fuzzy
+msgid "ROTeamGame.PropsDisplayText[5]"
+msgstr "Ліміт часу"
+
+#, fuzzy
+msgid "ROTeamGame.PropsDisplayText[9]"
+msgstr "Дозволити ViewPoint спостерігання"
+
+msgid "ROTeamGame.PropsDisplayText[10]"
+msgstr "Дозволити вільне спостерігання"
+
+msgid "ROTeamGame.PropsDisplayText[12]"
+msgstr "Дозволити призупинення гри адміністратором"
+
+msgid "ROTeamGame.PropsDisplayText[13]"
+msgstr "Мінімум гравців"
+
+msgid "ROTeamGame.PropsDisplayText[14]"
+msgstr "Режим ботів"
+
+msgid "ROTeamGame.PropsDisplayText[15]"
+msgstr "Затримка наприкінці раунду"
+
+msgid "ROTeamGame.PropsDisplayText[16]"
+msgstr "Змінити навички"
+
+msgid "ROTeamGame.PropsDisplayText[17]"
+msgstr "Ліміт перемог"
+
+msgid "ROTeamGame.PropsDisplayText[18]"
+msgstr "Ліміт раундів"
+
+msgid "ROTeamGame.PropsDisplayText[19]"
+msgstr "Тривалість періоду перед початком раунду"
+
+msgid "ROTeamGame.PropsDisplayText[22]"
+msgstr "Гравці повинні бути готові"
+
+msgid "ROTeamGame.PropsDisplayText[23]"
+msgstr "Коефіцієнт дружнього вогню"
+
+msgid "ROTeamGame.PropsDisplayText[24]"
+msgstr "Коефіцієнт дружнього вогню артилерії"
+
+msgid "ROTeamGame.PropsDisplayText[25]"
+msgstr "Коефіцієнт дружнього вогню вибухівок"
+
+msgid "ROTeamGame.PropsDisplayText[37]"
+msgstr "Пробачення дружнього вогню увімкнено"
+
+msgid "ROTeamGame.PropsDisplayText[36]"
+msgstr "Змінти максимальну кількість гравців"
