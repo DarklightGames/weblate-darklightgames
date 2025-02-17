@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 11:17+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-02-17 22:19+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/uk/>\n"
 "Language: uk\n"
@@ -100,7 +100,6 @@ msgstr "Штаб взводу"
 msgid "DHConstruction_Hedgehog.MenuDescription"
 msgstr "Ефективний для блокування легкої та середньої техніки."
 
-#, fuzzy
 msgid "DHConstruction_PlatoonHQ.CustomErrorString"
 msgstr ""
 "{name} не можливо {verb} поряд з {string}. Ви повинні знаходитись в межах "
@@ -148,6 +147,14 @@ msgstr "Забезпечує точку відродження техніки д
 msgid "DHConstruction_Watchtower.MenuName"
 msgstr "Спостережна вежа"
 
-#, fuzzy
 msgid "DHConstructionControlsMessage.Controls<3>.Text"
-msgstr "Скинути обертання"
+msgstr "Скинути"
+
+msgid "DHCommandMenu_ConstructionGroup.MaxActiveText"
+msgstr "Активно {0}/{1}"
+
+msgid "DHConstructionControlsMessage.Controls<4>.Text"
+msgstr "Змінити варіант"
+
+msgid "DHConstructionControlsMessage.Controls<5>.Text"
+msgstr "Змінити фарбування"
