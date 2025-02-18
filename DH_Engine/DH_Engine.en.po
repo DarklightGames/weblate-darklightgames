@@ -80,23 +80,11 @@ msgstr "Anti-Tank Soldier"
 msgid "DHAlliedAntiTankRoles.AltName"
 msgstr "Anti-Tank Soldier"
 
-msgid "DHAlliedAntiTankRoles.Article"
-msgstr "an "
-
-msgid "DHAlliedAntiTankRoles.PluralName"
-msgstr "Anti-Tank Soldiers"
-
 msgid "DHAlliedAssaultRoles.MyName"
 msgstr "Assault Trooper"
 
 msgid "DHAlliedAssaultRoles.AltName"
 msgstr "Assault Trooper"
-
-msgid "DHAlliedAssaultRoles.Article"
-msgstr "an "
-
-msgid "DHAlliedAssaultRoles.PluralName"
-msgstr "Assault Troops"
 
 msgid "DHAlliedAutoRifleRoles.MyName"
 msgstr "Light Machine-Gunner"
@@ -104,23 +92,11 @@ msgstr "Light Machine-Gunner"
 msgid "DHAlliedAutoRifleRoles.AltName"
 msgstr "Light Machine-Gunner"
 
-msgid "DHAlliedAutoRifleRoles.Article"
-msgstr "a "
-
-msgid "DHAlliedAutoRifleRoles.PluralName"
-msgstr "Light Machine-Gunners"
-
 msgid "DHAlliedCorporalRoles.MyName"
 msgstr "Corporal"
 
 msgid "DHAlliedCorporalRoles.AltName"
 msgstr "Corporal"
-
-msgid "DHAlliedCorporalRoles.Article"
-msgstr "a "
-
-msgid "DHAlliedCorporalRoles.PluralName"
-msgstr "Corporals"
 
 msgid "DHAlliedEngineerRoles.MyName"
 msgstr "Combat Engineer"
@@ -128,23 +104,11 @@ msgstr "Combat Engineer"
 msgid "DHAlliedEngineerRoles.AltName"
 msgstr "Combat Engineer"
 
-msgid "DHAlliedEngineerRoles.Article"
-msgstr "a "
-
-msgid "DHAlliedEngineerRoles.PluralName"
-msgstr "Combat Engineers"
-
 msgid "DHAlliedMachineGunnerRoles.MyName"
 msgstr "Machine-Gunner"
 
 msgid "DHAlliedMachineGunnerRoles.AltName"
 msgstr "Machine-Gunner"
-
-msgid "DHAlliedMachineGunnerRoles.Article"
-msgstr "a "
-
-msgid "DHAlliedMachineGunnerRoles.PluralName"
-msgstr "Machine-Gunners"
 
 msgid "DHAlliedMortarmanRoles.MyName"
 msgstr "Mortar Operator"
@@ -152,23 +116,11 @@ msgstr "Mortar Operator"
 msgid "DHAlliedMortarmanRoles.AltName"
 msgstr "Mortar Operator"
 
-msgid "DHAlliedMortarmanRoles.Article"
-msgstr "a "
-
-msgid "DHAlliedMortarmanRoles.PluralName"
-msgstr "Mortar Operators"
-
 msgid "DHAlliedRadioOperatorRoles.MyName"
 msgstr "Radio Operator"
 
 msgid "DHAlliedRadioOperatorRoles.AltName"
 msgstr "Radio Operator"
-
-msgid "DHAlliedRadioOperatorRoles.Article"
-msgstr "a "
-
-msgid "DHAlliedRadioOperatorRoles.PluralName"
-msgstr "Radio Operators"
 
 msgid "DHAlliedRiflemanRoles.MyName"
 msgstr "Rifleman"
@@ -176,23 +128,11 @@ msgstr "Rifleman"
 msgid "DHAlliedRiflemanRoles.AltName"
 msgstr "Rifleman"
 
-msgid "DHAlliedRiflemanRoles.Article"
-msgstr "a "
-
-msgid "DHAlliedRiflemanRoles.PluralName"
-msgstr "Riflemen"
-
 msgid "DHAlliedSergeantRoles.MyName"
 msgstr "Sergeant"
 
 msgid "DHAlliedSergeantRoles.AltName"
 msgstr "Sergeant"
-
-msgid "DHAlliedSergeantRoles.Article"
-msgstr "a "
-
-msgid "DHAlliedSergeantRoles.PluralName"
-msgstr "Sergeants"
 
 msgid "DHAlliedSniperRoles.MyName"
 msgstr "Sniper"
@@ -200,23 +140,11 @@ msgstr "Sniper"
 msgid "DHAlliedSniperRoles.AltName"
 msgstr "Sniper"
 
-msgid "DHAlliedSniperRoles.Article"
-msgstr "a "
-
-msgid "DHAlliedSniperRoles.PluralName"
-msgstr "Snipers"
-
 msgid "DHAlliedTankCrewmanRoles.MyName"
 msgstr "Tank Crewman"
 
 msgid "DHAlliedTankCrewmanRoles.AltName"
 msgstr "Tank Crewman"
-
-msgid "DHAlliedTankCrewmanRoles.Article"
-msgstr "a "
-
-msgid "DHAlliedTankCrewmanRoles.PluralName"
-msgstr "Tank Crewmen"
 
 msgid "DHAmericanCannonPawn.RangeText"
 msgstr "yards"
@@ -341,23 +269,11 @@ msgstr "Tank Hunter"
 msgid "DHAxisAntiTankRoles.AltName"
 msgstr "Panzerjäger"
 
-msgid "DHAxisAntiTankRoles.Article"
-msgstr "a "
-
-msgid "DHAxisAntiTankRoles.PluralName"
-msgstr "Tank Hunters"
-
 msgid "DHAxisAssaultRoles.MyName"
 msgstr "Assault Trooper"
 
 msgid "DHAxisAssaultRoles.AltName"
 msgstr "Stoßtruppe"
-
-msgid "DHAxisAssaultRoles.Article"
-msgstr "an "
-
-msgid "DHAxisAssaultRoles.PluralName"
-msgstr "Assault Troopers"
 
 msgid "DHAxisCorporalRoles.MyName"
 msgstr "Corporal"
@@ -365,23 +281,11 @@ msgstr "Corporal"
 msgid "DHAxisCorporalRoles.AltName"
 msgstr "Gefreiter"
 
-msgid "DHAxisCorporalRoles.Article"
-msgstr "a "
-
-msgid "DHAxisCorporalRoles.PluralName"
-msgstr "Corporals"
-
 msgid "DHAxisEngineerRoles.MyName"
 msgstr "Combat Engineer"
 
 msgid "DHAxisEngineerRoles.AltName"
 msgstr "Sturmpionier"
-
-msgid "DHAxisEngineerRoles.Article"
-msgstr "a "
-
-msgid "DHAxisEngineerRoles.PluralName"
-msgstr "Combat Engineers"
 
 msgid "DHAxisMachineGunnerRoles.MyName"
 msgstr "Machine-Gunner"
@@ -389,23 +293,11 @@ msgstr "Machine-Gunner"
 msgid "DHAxisMachineGunnerRoles.AltName"
 msgstr "Maschinengewehrschütze"
 
-msgid "DHAxisMachineGunnerRoles.Article"
-msgstr "a "
-
-msgid "DHAxisMachineGunnerRoles.PluralName"
-msgstr "Machine-Gunners"
-
 msgid "DHAxisMarksmanRoles.MyName"
 msgstr "Marksman"
 
 msgid "DHAxisMarksmanRoles.AltName"
 msgstr "Scharfschütze"
-
-msgid "DHAxisMarksmanRoles.Article"
-msgstr "a "
-
-msgid "DHAxisMarksmanRoles.PluralName"
-msgstr "Snipers"
 
 msgid "DHAxisMortarmanRoles.MyName"
 msgstr "Mortar Operator"
@@ -413,23 +305,11 @@ msgstr "Mortar Operator"
 msgid "DHAxisMortarmanRoles.AltName"
 msgstr "Werferschütze"
 
-msgid "DHAxisMortarmanRoles.Article"
-msgstr "a "
-
-msgid "DHAxisMortarmanRoles.PluralName"
-msgstr "Mortar Operators"
-
 msgid "DHAxisRadioOperatorRoles.MyName"
 msgstr "Radio Operator"
 
 msgid "DHAxisRadioOperatorRoles.AltName"
 msgstr "Funktruppe"
-
-msgid "DHAxisRadioOperatorRoles.Article"
-msgstr "a "
-
-msgid "DHAxisRadioOperatorRoles.PluralName"
-msgstr "Radio Operator"
 
 msgid "DHAxisRiflemanRoles.MyName"
 msgstr "Rifleman"
@@ -437,23 +317,11 @@ msgstr "Rifleman"
 msgid "DHAxisRiflemanRoles.AltName"
 msgstr "Schütze"
 
-msgid "DHAxisRiflemanRoles.Article"
-msgstr "a "
-
-msgid "DHAxisRiflemanRoles.PluralName"
-msgstr "Riflemen"
-
 msgid "DHAxisSergeantRoles.MyName"
 msgstr "Sergeant"
 
 msgid "DHAxisSergeantRoles.AltName"
 msgstr "Unteroffizier"
-
-msgid "DHAxisSergeantRoles.Article"
-msgstr "a "
-
-msgid "DHAxisSergeantRoles.PluralName"
-msgstr "Sergeants"
 
 msgid "DHAxisSniperRoles.MyName"
 msgstr "Sniper"
@@ -461,23 +329,11 @@ msgstr "Sniper"
 msgid "DHAxisSniperRoles.AltName"
 msgstr "Scharfschütze"
 
-msgid "DHAxisSniperRoles.Article"
-msgstr "a "
-
-msgid "DHAxisSniperRoles.PluralName"
-msgstr "Snipers"
-
 msgid "DHAxisTankCrewmanRoles.MyName"
 msgstr "Tank Crewman"
 
 msgid "DHAxisTankCrewmanRoles.AltName"
 msgstr "Panzerbesatzung"
-
-msgid "DHAxisTankCrewmanRoles.Article"
-msgstr "a "
-
-msgid "DHAxisTankCrewmanRoles.PluralName"
-msgstr "Tank Crewmen"
 
 msgid "DHBritishCannonPawn.RangeText"
 msgstr "yards"
@@ -801,7 +657,7 @@ msgid "DHGameMessage.VehicleTeamKilledMessage"
 msgstr "{0} killed a friendly {1}."
 
 msgid "DHGameMessage.RoleInvalidatedMessage"
-msgstr "You are no longer qualified to be {article}{name}."
+msgstr "You are no longer qualified to be {name}."
 
 msgid "DHGameMessage.RoleLockedMessage"
 msgstr "{role} has been locked."
@@ -825,7 +681,7 @@ msgid "DHGameMessage.FFViolationMessage"
 msgstr "Removing {name} due to a friendly fire violation."
 
 msgid "DHGameMessage.RoleChangeMsg"
-msgstr "You will attempt to respawn as {article}{role}."
+msgstr "You will attempt to respawn as {role}."
 
 msgid "DHGameMessage.MaxRoleMsg"
 msgstr "Unable to change to {role}."
@@ -1252,6 +1108,9 @@ msgstr "Medium"
 
 msgid "DHMapDatabase.SizeLargeText"
 msgstr "Large"
+
+msgid "DHMapMarker.CalculatingString"
+msgstr "Calculating..."
 
 msgid "DHMapMarker_AdminParadrop.MarkerName"
 msgstr "ADMIN: Place paradrop mark"

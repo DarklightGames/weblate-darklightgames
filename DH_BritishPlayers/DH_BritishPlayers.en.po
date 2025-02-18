@@ -17,29 +17,17 @@ msgstr "Tank Hunter"
 msgid "DHCWAntiTankRoles.AltName"
 msgstr "Tank Hunter"
 
-msgid "DHCWAntiTankRoles.Article"
-msgstr "a "
-
-msgid "DHCWAntiTankRoles.PluralName"
-msgstr "Tank Hunters"
-
 msgid "DHCWCorporalRoles.MyName"
 msgstr "Lance Corporal"
 
 msgid "DHCWCorporalRoles.AltName"
 msgstr "Lance Corporal"
 
-msgid "DHCWCorporalRoles.PluralName"
-msgstr "Lance Corporals"
-
 msgid "DHCWSergeantRoles.MyName"
 msgstr "Corporal"
 
 msgid "DHCWSergeantRoles.AltName"
 msgstr "Corporal"
-
-msgid "DHCWSergeantRoles.PluralName"
-msgstr "Corporals"
 
 msgid "DHCanadianVoice.SupportString[5]"
 msgstr "We need a PIAT!"

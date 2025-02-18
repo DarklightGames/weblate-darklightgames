@@ -41,26 +41,17 @@ msgstr "Artillery Gunner"
 msgid "DH_WHArtilleryGunner.AltName"
 msgstr "Artillerie Schütze"
 
-msgid "DH_WHArtilleryGunner.PluralName"
-msgstr "Artillery Gunners"
-
 msgid "DH_WHArtilleryOfficer.MyName"
 msgstr "Artillery Officer"
 
 msgid "DH_WHArtilleryOfficer.AltName"
 msgstr "Artillerie Offizier"
 
-msgid "DH_WHArtilleryOfficer.PluralName"
-msgstr "Artillery Officers"
-
 msgid "DH_WHSPCrew.MyName"
 msgstr "Assault Gun Crewman"
 
 msgid "DH_WHSPCrew.AltName"
 msgstr "Stugbesatzung"
-
-msgid "DH_WHSPCrew.PluralName"
-msgstr "Assault Gun Crewmen"
 
 msgid "DH_WKSquadLeader.AltName"
 msgstr "Scharführer"
@@ -100,12 +91,6 @@ msgstr "Berserker"
 
 msgid "DH_ZBerserker.AltName"
 msgstr "Berserker"
-
-msgid "DH_ZBerserker.Article"
-msgstr "a "
-
-msgid "DH_ZBerserker.PluralName"
-msgstr "Berserkers"
 
 msgid "DH_ZLeader.MyName"
 msgstr "Zombie Leader"
