@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-17 22:19+0000\n"
+"PO-Revision-Date: 2025-02-18 02:06+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/uk/>\n"
@@ -648,21 +648,29 @@ msgid "ROScoreBoard.ReinforcementsText"
 msgstr "Підкріплення"
 
 msgid "ROGUIRoleSelection.TeamSwitchErrorRoundHasEnded"
-msgstr "Не можливо змінити команду: раунд закінчився."
+msgstr "Неможливо змінити команду: раунд закінчився."
 
 msgid "ROGUIRoleSelection.TeamSwitchErrorTooManyPlayers"
-msgstr "Не можливо змінити команду: забагато активних гравців."
+msgstr "Неможливо змінити команду: забагато активних гравців."
 
 msgid "ROGUIRoleSelection.ErrorTeamMustJoinBeforeStart"
-msgstr "Не можливо змінити команду: потрібно обрати команду до початку раунду."
+msgstr "Неможливо змінити команду: потрібно обрати команду до початку раунду."
 
 msgid "ROGUIRoleSelection.TeamSwitchErrorTeamIsFull"
-msgstr "Не можливо змінити команду: обрана команда вже повна."
+msgstr "Неможливо змінити команду: обрана команда вже повна."
 
 msgid "ROGUIRoleSelection.TeamSwitchErrorGameHasStarted"
 msgstr ""
-"Не можливо змінити команду: сервер не дозволяє змінювати команду після "
+"Неможливо змінити команду: сервер не дозволяє змінювати команду після "
 "початку раунду."
 
 msgid "ROTab_AudioSettings.PanelCaption"
 msgstr "Аудіо"
+
+msgid "ROConsole.AllPlayersSquad"
+msgstr "Всім союзникам"
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorPlayingAgainstBots"
+msgstr ""
+"Неможливо змінити команду: cервер вимагає ботів в одній команді, а гравців в "
+"іншій."
