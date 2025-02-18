@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-17 09:23+0000\n"
+"PO-Revision-Date: 2025-02-18 10:48+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ru/>\n"
@@ -649,3 +649,29 @@ msgstr "Всем союзникам"
 
 msgid "ROScoreBoard.ReinforcementsText"
 msgstr "Подкрепления"
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorTooManyPlayers"
+msgstr "Невозможно сменить команду: Слишком много активных игроков."
+
+msgid "ROGUIRoleSelection.ErrorTeamMustJoinBeforeStart"
+msgstr ""
+"Невозможно сменить команду: Зайдите за одну из сторон перед началом игры."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorRoundHasEnded"
+msgstr "Невозможно сменить команду: Раунд закончился."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorPlayingAgainstBots"
+msgstr ""
+"Невозможно сменить команду: Правилами сервера установлено разделение ботов и "
+"игроков на разные команды."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorTeamIsFull"
+msgstr "Невозможно сменить команду: нет свободных мест."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorGameHasStarted"
+msgstr ""
+"Невозможно сменить команду: Правилами сервера установлен запрет на смену "
+"сторон после начала игры."
+
+msgid "ROTab_AudioSettings.PanelCaption"
+msgstr "Аудио"
