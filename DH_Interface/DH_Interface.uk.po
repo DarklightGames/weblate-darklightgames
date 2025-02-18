@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 00:38+0000\n"
+"PO-Revision-Date: 2025-02-18 02:06+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
@@ -1913,3 +1913,27 @@ msgstr "Актори озвучування"
 
 msgid "DHTab_DetailSettings.NoneText"
 msgstr "Вимкнено"
+
+msgid "DHTab_MainSP.MapCaptionText"
+msgstr "{game} Мапи"
+
+msgid "DHGUIMapComponent.AdminTeleportText"
+msgstr "Адмін: Телепортуватися сюди"
+
+msgid "DHGUIMapComponent.AdminDestroySpawnText"
+msgstr "Адмін: Знищити спавн"
+
+msgid "DHGUIMapComponent.AdminDestroyAlliedSpawnsText"
+msgstr "Адмін: Знищити всі адмін-спавни Союзників"
+
+msgid "DHGUIMapComponent.AdminPlaceAlliedSpawnText"
+msgstr "Адмін: Встановити спавн Союзників"
+
+msgid "DHGUIMapComponent.AdminDestroyAxisSpawnsText"
+msgstr "Адмін: Знищити всі адмін-спавни Осі"
+
+msgid "DHGUIMapComponent.AdminPlaceAxisSpawnText"
+msgstr "Адмін: Встановити спавн Осі"
+
+msgid "DHDeployMenu.RoleLockedText"
+msgstr "НЕДОСТУПНО"
