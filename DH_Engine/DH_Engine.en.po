@@ -143,35 +143,8 @@ msgstr "Tank Crewman"
 msgid "DHAlliedTankCrewmanRoles.AltName"
 msgstr "Tank Crewman"
 
-msgid "DHAntiTankProjectileDamageType.DeathString"
-msgstr "%o was blown up by %k's %w."
-
-msgid "DHAntiTankProjectileDamageType.FemaleSuicide"
-msgstr "%o was blown up by her own %w."
-
-msgid "DHAntiTankProjectileDamageType.MaleSuicide"
-msgstr "%o was blown up by his own %w."
-
 msgid "DHArtillery.MenuName"
 msgstr "Long-Range Artillery"
-
-msgid "DHArtillery105DamageType.DeathString"
-msgstr "%o was torn apart by an artillery shell."
-
-msgid "DHArtillery105DamageType.FemaleSuicide"
-msgstr "%o was careless with her own artillery shell."
-
-msgid "DHArtillery105DamageType.MaleSuicide"
-msgstr "%o was careless with his own artillery shell."
-
-msgid "DHArtilleryKillDamageType.DeathString"
-msgstr "%o was torn apart by an artillery shell."
-
-msgid "DHArtilleryKillDamageType.FemaleSuicide"
-msgstr "%o was careless with her own artillery shell."
-
-msgid "DHArtilleryKillDamageType.MaleSuicide"
-msgstr "%o was careless with his own artillery shell."
 
 msgid "DHArtilleryMessage.RequestText"
 msgstr "Requesting {name}."
@@ -328,24 +301,6 @@ msgstr "Tank Crewman"
 
 msgid "DHAxisTankCrewmanRoles.AltName"
 msgstr "Panzerbesatzung"
-
-msgid "DHBurningDamageType.DeathString"
-msgstr "%o was burned to a crisp by a fire that %k started."
-
-msgid "DHBurningDamageType.FemaleSuicide"
-msgstr "%o burned herself to a crisp."
-
-msgid "DHBurningDamageType.MaleSuicide"
-msgstr "%o burned himself to a crisp."
-
-msgid "DHCanisterShotDamageType.DeathString"
-msgstr "%o was filled with holes by %k's canister shot."
-
-msgid "DHCanisterShotDamageType.FemaleSuicide"
-msgstr "%o was filled with holes by her own canister shot."
-
-msgid "DHCanisterShotDamageType.MaleSuicide"
-msgstr "%o was filled with holes by his own canister shot."
 
 msgid "DHChatRoomMessage.CannotJoinSquadChannelText"
 msgstr "Couldn't join channel `%title%`. You must to be in a squad."
@@ -601,15 +556,6 @@ msgstr "The enemy is nearly out of reinforcements, victory is near!"
 
 msgid "DHEnemyInformationMsg.EnemyIsSurrendering"
 msgstr "The enemy is retreating, the battle will be over shortly!"
-
-msgid "DHExitMovingVehicleDamageType.DeathString"
-msgstr "%o was killed jumping from a speeding vehicle."
-
-msgid "DHExitMovingVehicleDamageType.FemaleSuicide"
-msgstr "%o was killed jumping from a speeding vehicle."
-
-msgid "DHExitMovingVehicleDamageType.MaleSuicide"
-msgstr "%o was killed jumping from a speeding vehicle."
 
 msgid "DHFireSupportMessage.OnMapArtilleryRequestConfirmedText"
 msgstr "Fire support target has been marked."
@@ -1154,15 +1100,6 @@ msgstr "Squad Defend"
 msgid "DHMapMarker_Squad_Move.MarkerName"
 msgstr "Squad Move"
 
-msgid "DHMortarDamageType.DeathString"
-msgstr "%o was blown up by %k's mortar shell."
-
-msgid "DHMortarDamageType.FemaleSuicide"
-msgstr "%o was blown up by her own mortar shell."
-
-msgid "DHMortarDamageType.MaleSuicide"
-msgstr "%o was blown up by his own mortar shell."
-
 msgid "DHMortarMessage.MustCrouch"
 msgstr "You must be crouched to deploy your mortar"
 
@@ -1283,24 +1220,6 @@ msgstr "You have been resupplied by {0}"
 msgid "DHResupplyMessage.HaveResuppliedFriendlyMortar"
 msgstr "You have resupplied a friendly mortar"
 
-msgid "DHRocketExhaustDamageType.DeathString"
-msgstr "%o was cooked by the exhaust from %k's %w."
-
-msgid "DHRocketExhaustDamageType.FemaleSuicide"
-msgstr "%o was cooked by the exhaust from her own %w."
-
-msgid "DHRocketExhaustDamageType.MaleSuicide"
-msgstr "%o was cooked by the exhaust from his own %w."
-
-msgid "DHRocketImpactDamage.DeathString"
-msgstr "%o was killed by %k's %w."
-
-msgid "DHRocketImpactDamage.FemaleSuicide"
-msgstr "%o was killed by her own %w."
-
-msgid "DHRocketImpactDamage.MaleSuicide"
-msgstr "%o was killed by his own %w."
-
 msgid "DHRocketWarningMessage.NoHipFire"
 msgstr "You cannot fire the {0} from the hip"
 
@@ -1379,56 +1298,11 @@ msgstr "The battle begins in {0}"
 msgid "DHSetupPhaseMessage.PhaseEndMessage"
 msgstr "The battle has begun!"
 
-msgid "DHShellExplosionDamageType.DeathString"
-msgstr "%o was blown up by %k's cannon shell."
-
-msgid "DHShellExplosionDamageType.FemaleSuicide"
-msgstr "%o was blown up by her own cannon shell."
-
-msgid "DHShellExplosionDamageType.MaleSuicide"
-msgstr "%o was blown up his own cannon shell."
-
-msgid "DHShellImpactDamageType.DeathString"
-msgstr "%o was killed by %k's cannon shell."
-
-msgid "DHShellImpactDamageType.FemaleSuicide"
-msgstr "%o was killed by her own cannon shell."
-
-msgid "DHShellImpactDamageType.MaleSuicide"
-msgstr "%o was killed by his own cannon shell."
-
-msgid "DHShellSmokeWPDamageType.DeathString"
-msgstr "%o was burned by white phosphorus that %k launched."
-
-msgid "DHShellSmokeWPDamageType.FemaleSuicide"
-msgstr "%o burned herself to a crisp."
-
-msgid "DHShellSmokeWPDamageType.MaleSuicide"
-msgstr "%o burned himself to a crisp."
-
-msgid "DHShellSmokeWPGasDamageType.DeathString"
-msgstr "%o was choked by %k's white phosphorus."
-
-msgid "DHShellSmokeWPGasDamageType.FemaleSuicide"
-msgstr "%o choked herself to death on white phosphorus."
-
-msgid "DHShellSmokeWPGasDamageType.MaleSuicide"
-msgstr "%o choked himself to death on white phosphorus."
-
 msgid "DHSignal_Fire.SignalName"
 msgstr "Fire"
 
 msgid "DHSignal_Move.SignalName"
 msgstr "Move"
-
-msgid "DHSpawnKillDamageType.DeathString"
-msgstr "%o was spawn killed by %k."
-
-msgid "DHSpawnKillDamageType.FemaleSuicide"
-msgstr "%o spawn killed herself."
-
-msgid "DHSpawnKillDamageType.MaleSuicide"
-msgstr "%o spawn killed himself."
 
 msgid "DHSpawnProtectMineVolume.SafePeriodWarningMessage"
 msgstr "This is now an enemy controlled area! You have %remaining% seconds to return to your lines!"
@@ -1787,15 +1661,6 @@ msgstr "{0} has nominated to retreat."
 msgid "DHTeamSurrenderVoteMessage.VoteNominationsRemainingText"
 msgstr "Need {0} more nomination(s) to start the vote."
 
-msgid "DHThrowableExplosiveDamageType.DeathString"
-msgstr "%o was blown up by %k's %w."
-
-msgid "DHThrowableExplosiveDamageType.FemaleSuicide"
-msgstr "%o was blown up by her own %w."
-
-msgid "DHThrowableExplosiveDamageType.MaleSuicide"
-msgstr "%o was blown up by his own %w."
-
 msgid "DHUnits.DistanceUnits<0>.Name"
 msgstr "Unreal Units"
 
@@ -1817,29 +1682,11 @@ msgstr "yd"
 msgid "DHVehicle.VehicleNameString"
 msgstr "ADD VehicleNameString !!"
 
-msgid "DHVehicleBurningDamageType.DeathString"
-msgstr "%o was burned up in a vehicle fire that %k started."
-
-msgid "DHVehicleBurningDamageType.FemaleSuicide"
-msgstr "%o burned up in a vehicle fire."
-
-msgid "DHVehicleBurningDamageType.MaleSuicide"
-msgstr "%o burned up in a vehicle fire."
-
 msgid "DHVehicleCannon.ProjectileDescriptions<0>"
 msgstr "APCBC"
 
 msgid "DHVehicleCannon.ProjectileDescriptions<1>"
 msgstr "HE"
-
-msgid "DHVehicleCollisionDamageType.DeathString"
-msgstr "%o was killed in a crash with %k's vehicle."
-
-msgid "DHVehicleCollisionDamageType.FemaleSuicide"
-msgstr "%o was killed in a vehicle crash."
-
-msgid "DHVehicleCollisionDamageType.MaleSuicide"
-msgstr "%o was killed in a vehicle crash."
 
 msgid "DHVehicleMessage.AllRiderPositionsFull"
 msgstr "All rider positions are occupied"
@@ -2045,38 +1892,11 @@ msgstr "Please wait %seconds% seconds before voting another map!"
 msgid "DHVotingHandler.SwapAndRestartText"
 msgstr "DH-[Swap Teams and Restart]"
 
-msgid "DHWeaponBashDamageType.DeathString"
-msgstr "%o was bludgeoned to death by %k's %w."
-
-msgid "DHWeaponBashDamageType.FemaleSuicide"
-msgstr "%o bludgeoned herself to death with her own %w."
-
-msgid "DHWeaponBashDamageType.MaleSuicide"
-msgstr "%o bludgeoned himself to death with his own %w."
-
-msgid "DHWeaponBayonetDamageType.DeathString"
-msgstr "%o was skewered on %k's %w bayonet."
-
-msgid "DHWeaponBayonetDamageType.FemaleSuicide"
-msgstr "%o skewered herself on her own %w bayonet."
-
-msgid "DHWeaponBayonetDamageType.MaleSuicide"
-msgstr "%o skewered himself on his own %w bayonet."
-
 msgid "DHWeaponPickup.PickupMessage"
 msgstr "You got the {0}"
 
 msgid "DHWeaponPickupTouchMessage.Controls<0>.Text"
 msgstr "Pick Up"
-
-msgid "DHWeaponProjectileDamageType.DeathString"
-msgstr "%o was killed by %k's %w."
-
-msgid "DHWeaponProjectileDamageType.FemaleSuicide"
-msgstr "%o was killed by her own %w."
-
-msgid "DHWeaponProjectileDamageType.MaleSuicide"
-msgstr "%o was killed by his own %w."
 
 msgid "DHWeaponsLockedMessage.LockedFFMessage"
 msgstr "Your weapons have been locked due to friendly fire!"

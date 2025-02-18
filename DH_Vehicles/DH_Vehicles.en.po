@@ -5,15 +5,6 @@ msgstr ""
 "Content-Type: text/plain\n"
 "Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
 
-msgid "DH_50CalDamType.DeathString"
-msgstr "%o was killed by %k's .50 cal machine gun."
-
-msgid "DH_50CalDamType.FemaleSuicide"
-msgstr "%o was killed by her own .50 cal machine gun."
-
-msgid "DH_50CalDamType.MaleSuicide"
-msgstr "%o was killed by his own .50 cal machine gun."
-
 msgid "DH_AchillesCannon.ProjectileDescriptions<0>"
 msgstr "APCBC"
 
@@ -76,15 +67,6 @@ msgstr "O-240"
 
 msgid "DH_BT7Tank.VehicleNameString"
 msgstr "BT-7"
-
-msgid "DH_BesaDamType.DeathString"
-msgstr "%o was killed by %k's Besa machine gun."
-
-msgid "DH_BesaDamType.FemaleSuicide"
-msgstr "%o was killed by her own Besa machine gun."
-
-msgid "DH_BesaDamType.MaleSuicide"
-msgstr "%o was killed by his own Besa machine gun."
 
 msgid "DH_BrenCarrierTransport.VehicleNameString"
 msgstr "Bren Carrier Mk.I"
