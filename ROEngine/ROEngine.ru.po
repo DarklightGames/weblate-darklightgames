@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"PO-Revision-Date: 2025-02-18 17:35+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/ru/>\n"
@@ -430,7 +430,7 @@ msgid "ROPlayer.SpectatingModeName[0]"
 msgstr "Просмотр себя"
 
 msgid "ROBipodWarningMsg.DeployToFire"
-msgstr "Вы должны упереть своё оружие что бы стрелять из него!"
+msgstr "Вы должны установить своё оружие что бы стрелять из него!"
 
 msgid "ROBipodWarningMsg.DeployToReload"
 msgstr "Вы должны упереть оружие что бы перезарядить его!"
@@ -454,7 +454,7 @@ msgid "ROTeamGame.PropsDisplayText[6]"
 msgstr "Разрешить вид сзади"
 
 msgid "ROTeamGame.PropsDisplayText[8]"
-msgstr "Заблюкировать наблюдение от 3-го лица"
+msgstr "Заблокировать наблюдение от 3-го лица"
 
 msgid "ROTeamGame.PropsDisplayText[7]"
 msgstr "Режим наблюдения только от 1-го лица"
@@ -480,9 +480,8 @@ msgstr "Силы Союзников выиграли битву!"
 msgid "ROPlayer.SpectatingModeName[1]"
 msgstr "Свободное перемещение"
 
-#, fuzzy
 msgid "ROTeamGame.PropsDisplayText[9]"
-msgstr "Разрешить наблюдение"
+msgstr "Разрешить наблюдение*"
 
 msgid "ROTeamGame.PropsDisplayText[10]"
 msgstr "Разрешить свободное перемещение наблюдателям"
@@ -521,13 +520,11 @@ msgstr "Минимальное подключение игроков"
 msgid "ROTeamGame.PropsDisplayText[26]"
 msgstr "Баланс команд ботами"
 
-#, fuzzy
 msgid "ROTeamGame.PropsDisplayText[25]"
-msgstr "Значение взрывов при огню по своим"
+msgstr "Значение урона по своим от взрыва"
 
-#, fuzzy
 msgid "ROTeamGame.PropsDisplayText[24]"
-msgstr "Значение арт. ударов при огню по своим"
+msgstr "Значение урона от арт. удара по своим"
 
 msgid "ROTeamGame.PropsDisplayText[23]"
 msgstr "Значение урона по своим"
@@ -555,7 +552,7 @@ msgid "ROTeamGame.PropsDisplayText[32]"
 msgstr "Черный экран после смерти"
 
 msgid "ROTeamGame.PropsDisplayText[33]"
-msgstr ""
+msgstr "Черный экран при просмотре других режимов кроме игроков"
 
 msgid "ROTeamGame.PropsDisplayText[37]"
 msgstr "Простить дружественное убийство"
@@ -580,3 +577,6 @@ msgstr "Показывать IP сервера в таблице счёта"
 
 msgid "ROTeamGame.PropsDisplayText[41]"
 msgstr "Показывать время в таблице счёта"
+
+msgid "ROPlayer.SpectatingModeName[3]"
+msgstr "Наблюдение точек захвата"
