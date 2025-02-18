@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 00:38+0000\n"
+"PO-Revision-Date: 2025-02-18 21:57+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/uk/>\n"
@@ -649,7 +649,6 @@ msgstr "Panzer III Ausf.J"
 msgid "DH_PanzerIIILTank.VehicleNameString"
 msgstr "Panzer III Ausf.L"
 
-#, fuzzy
 msgid "DH_PanzerIIILTank_Camo.VehicleNameString"
 msgstr "Panzer III Ausf.M"
 
