@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 19:28+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"PO-Revision-Date: 2025-02-18 00:41+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
 "Language: ru\n"
@@ -478,6 +478,7 @@ msgstr "{0} подкреплений отрезано."
 msgid "DHGameMessage.VehicleTeamKilledMessage"
 msgstr "{0} убил союзника {1}."
 
+#, fuzzy
 msgid "DHGameMessage.RoleInvalidatedMessage"
 msgstr "Вы больше не состоите в должности {article}{name}."
 
@@ -2726,6 +2727,7 @@ msgstr "{name} убил союзника."
 msgid "DHGameMessage.FFViolationMessage"
 msgstr "Исключение из игры {name} за нарушение правил огня по своим."
 
+#, fuzzy
 msgid "DHGameMessage.RoleChangeMsg"
 msgstr "Вы попытаетесь возродиться как {article} {role}."
 
