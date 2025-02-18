@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"PO-Revision-Date: 2025-02-18 17:35+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/ru/>\n"
@@ -410,3 +410,6 @@ msgstr "Вы покинули канал '%title%'"
 
 msgid "PlayerController.OwnCamera"
 msgstr "Наблюдение от"
+
+msgid "PlayerController.ViewingFrom"
+msgstr "Просмотр от лица"
