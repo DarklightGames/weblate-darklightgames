@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 02:06+0000\n"
+"PO-Revision-Date: 2025-02-18 10:48+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
@@ -89,7 +89,7 @@ msgid "DHBrowser_ServersList.ColumnHeadings<4>"
 msgstr "Версія"
 
 msgid "DHBrowser_ServersList.ColumnHeadings<5>"
-msgstr "Карта"
+msgstr "Мапа"
 
 msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<11>"
 msgstr "Скопіювати адресу серверу"
@@ -650,7 +650,7 @@ msgid "DHDeployMenu.SurrenderConfirmEndRoundText"
 msgstr "Це негайно завершить раунд на користь протилежної команди."
 
 msgid "DHDeployMenu.MapButtonObject.Hint"
-msgstr "Карта [F1]"
+msgstr "Мапа [F1]"
 
 msgid "DHDeployMenu.MapVoteButtonObject.Caption"
 msgstr "Голосування"
@@ -1603,7 +1603,7 @@ msgid "DHTab_MutatorSP.AvailBackground.Caption"
 msgstr "Доступні мутатори"
 
 msgid "DHTab_Input.InputBK3.Caption"
-msgstr "Відмінне налаштування"
+msgstr "Точне налаштування"
 
 msgid "DHTab_GameSettings.LockTankOnEntry.Caption"
 msgstr "Блокувати техніку при вході в неї"
@@ -1860,8 +1860,9 @@ msgstr "Розмір карти"
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<4>"
 msgstr "Рекомендована кількість гравців для цієї карти."
 
+#, fuzzy
 msgid "DHCreditsPage.PastPatreonSupportersText"
-msgstr "Останні, хто підтримав на Patreon"
+msgstr "Минулі спонсори Patreon"
 
 msgid "DHCommunicationPage.Panels<0>.Hint"
 msgstr "Керувати спілкуванням з іншими гравцями"
@@ -1873,7 +1874,7 @@ msgid "DHCreditsPage.AnimatorsText"
 msgstr "Аніматори"
 
 msgid "DHCreditsPage.ModelersText"
-msgstr "Моделісти"
+msgstr "3D художники"
 
 msgid "DHCreditsPage.TextureArtistsText"
 msgstr "Художники текстур"
@@ -1891,7 +1892,7 @@ msgid "DHCreditsPage.CommunityAdminsText"
 msgstr "Адміністрація спільноти"
 
 msgid "DHCreditsPage.OtherContributorsText"
-msgstr "Інші учасники"
+msgstr "Інший вклад"
 
 msgid "DHCreditsPage.SpecialThanksText"
 msgstr "Особлива подяка"
