@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 00:38+0000\n"
+"PO-Revision-Date: 2025-02-18 02:06+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/uk/>\n"
@@ -195,9 +195,8 @@ msgstr "Відео"
 msgid "UT2K4Tab_MainBase.MessageNoInfo"
 msgstr "Інформація не доступна!"
 
-#, fuzzy
 msgid "UT2K4Tab_MidGameVoiceChat.NOSPEECH.Hint"
-msgstr "Не отримувати мовних повідомлень від цього гравця."
+msgstr "Не отримувати мовних повідомлень від цього гравця"
 
 msgid "UT2K4Tab_IForceSettings.PanelCaption"
 msgstr "Миша"
