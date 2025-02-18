@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 02:06+0000\n"
+"PO-Revision-Date: 2025-02-18 21:57+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/uk/>\n"
@@ -106,9 +106,8 @@ msgstr "Гвинтівка Лі-Енфілд №4"
 msgid "DH_F1GrenadeWeapon.ItemName"
 msgstr "Граната Ф-1"
 
-#, fuzzy
 msgid "DH_FG42ScopedWeapon.ItemName"
-msgstr "Гвинтівка парашутиста FG-42 (ZFG42)"
+msgstr "Гвинтівка FG 42 (ZFG42)"
 
 msgid "DH_FG42Weapon.ItemName"
 msgstr "Гвинтівка парашутиста FG-42"
