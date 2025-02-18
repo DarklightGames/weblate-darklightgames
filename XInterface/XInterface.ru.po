@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 19:28+0000\n"
+"PO-Revision-Date: 2025-02-18 10:48+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/xinterface/ru/>\n"
@@ -17,3 +17,30 @@ msgstr "Подтверждение"
 
 msgid "ExtendedConsole.SMStateName[0]"
 msgstr "Голосовое меню"
+
+msgid "GUIQuestionPage.ButtonNames<1>"
+msgstr "Отменить"
+
+msgid "GUIQuestionPage.ButtonNames<0>"
+msgstr "Принять"
+
+msgid "GUIQuestionPage.ButtonNames<2>"
+msgstr "Повторить"
+
+msgid "GUIQuestionPage.ButtonNames<3>"
+msgstr "Продолжить"
+
+msgid "GUIQuestionPage.ButtonNames<4>"
+msgstr "Да"
+
+msgid "GUIQuestionPage.ButtonNames<7>"
+msgstr "Игнорировать"
+
+msgid "GUIQuestionPage.ButtonNames<6>"
+msgstr "Сбросить"
+
+msgid "GUIQuestionPage.ButtonNames<5>"
+msgstr "Нет"
+
+msgid "ExtendedConsole.ServerFullMsg"
+msgstr "Сервер полон"
