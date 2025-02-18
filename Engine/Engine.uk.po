@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 02:06+0000\n"
+"PO-Revision-Date: 2025-02-18 17:35+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/uk/>\n"
@@ -16,7 +16,7 @@ msgid "KeyNames.Up"
 msgstr "ВГОРУ"
 
 msgid "KeyNames.Space"
-msgstr "ПРОБІЛ"
+msgstr "SPACE"
 
 msgid "KeyNames.Right"
 msgstr "ПРАВОРУЧ"
@@ -93,13 +93,13 @@ msgid "KeyNames.Home"
 msgstr "HOME"
 
 msgid "KeyNames.Select"
-msgstr ""
+msgstr "SELECT"
 
 msgid "KeyNames.Execute"
-msgstr ""
+msgstr "EXECUTE"
 
 msgid "KeyNames.Print"
-msgstr ""
+msgstr "PRINT"
 
 msgid "KeyNames.PrintScrn"
 msgstr "PRINTSCRN"
@@ -111,10 +111,10 @@ msgid "KeyNames.Delete"
 msgstr "DELETE"
 
 msgid "KeyNames.Help"
-msgstr ""
+msgstr "HELP"
 
 msgid "KeyNames.Separator"
-msgstr ""
+msgstr "SEPARATOR"
 
 msgid "KeyNames.Pause"
 msgstr "PAUSE"
@@ -123,7 +123,7 @@ msgid "KeyNames.CapsLock"
 msgstr "CAPSLOCK"
 
 msgid "KeyNames.Enter"
-msgstr "ВВЕДЕННЯ"
+msgstr "ENTER"
 
 msgid "KeyNames.Tab"
 msgstr "TAB"
@@ -364,3 +364,15 @@ msgstr "NUM 1"
 
 msgid "KeyNames.NumPad0"
 msgstr "NUM 0"
+
+msgid "KeyNames.MouseW"
+msgstr "МИША W"
+
+msgid "KeyNames.GreySlash"
+msgstr "NUM /"
+
+msgid "KeyNames.NumPadPeriod"
+msgstr "NUM ."
+
+msgid "KeyNames.GreyMinus"
+msgstr "NUM -"
