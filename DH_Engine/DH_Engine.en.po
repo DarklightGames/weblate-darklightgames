@@ -18,7 +18,7 @@ msgid "DHATCannonMessage.CannotEnter"
 msgstr "The gun is already manned"
 
 msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
-msgstr "Finish rotating"
+msgstr "Finish"
 
 msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
 msgstr "Rotate"
@@ -142,9 +142,6 @@ msgstr "Tank Crewman"
 
 msgid "DHAlliedTankCrewmanRoles.AltName"
 msgstr "Tank Crewman"
-
-msgid "DHAmericanCannonPawn.RangeText"
-msgstr "yards"
 
 msgid "DHAntiTankProjectileDamageType.DeathString"
 msgstr "%o was blown up by %k's %w."
@@ -331,9 +328,6 @@ msgstr "Tank Crewman"
 
 msgid "DHAxisTankCrewmanRoles.AltName"
 msgstr "Panzerbesatzung"
-
-msgid "DHBritishCannonPawn.RangeText"
-msgstr "yards"
 
 msgid "DHBurningDamageType.DeathString"
 msgstr "%o was burned to a crisp by a fire that %k started."
@@ -1802,13 +1796,22 @@ msgstr "%o was blown up by her own %w."
 msgid "DHThrowableExplosiveDamageType.MaleSuicide"
 msgstr "%o was blown up by his own %w."
 
-msgid "DHUnits.UnrealDistanceSymbol"
+msgid "DHUnits.DistanceUnits<0>.Name"
+msgstr "Unreal Units"
+
+msgid "DHUnits.DistanceUnits<0>.Symbol"
 msgstr "uu"
 
-msgid "DHUnits.MetersSymbol"
+msgid "DHUnits.DistanceUnits<1>.Name"
+msgstr "Meters"
+
+msgid "DHUnits.DistanceUnits<1>.Symbol"
 msgstr "m"
 
-msgid "DHUnits.YardsSymbol"
+msgid "DHUnits.DistanceUnits<2>.Name"
+msgstr "Yards"
+
+msgid "DHUnits.DistanceUnits<2>.Symbol"
 msgstr "yd"
 
 msgid "DHVehicle.VehicleNameString"
@@ -1828,9 +1831,6 @@ msgstr "APCBC"
 
 msgid "DHVehicleCannon.ProjectileDescriptions<1>"
 msgstr "HE"
-
-msgid "DHVehicleCannonPawn.RangeText"
-msgstr "metres"
 
 msgid "DHVehicleCollisionDamageType.DeathString"
 msgstr "%o was killed in a crash with %k's vehicle."

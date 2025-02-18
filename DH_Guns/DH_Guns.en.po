@@ -14,9 +14,6 @@ msgstr "Mk.IV APC"
 msgid "DH_17PounderGunCannon.nProjectileDescriptions<1>"
 msgstr "Mk.I HE-T"
 
-msgid "DH_17PounderGunCannonPawn.RangeText"
-msgstr "Yards"
-
 msgid "DH_45mmM1937Gun.VehicleNameString"
 msgstr "45mm 53-K (1937) AT gun"
 
@@ -73,9 +70,6 @@ msgstr "Mk.I APDS"
 
 msgid "DH_6PounderGunCannon.nProjectileDescriptions<2>"
 msgstr "Mk.X HE-T"
-
-msgid "DH_6PounderGunCannonPawn.RangeText"
-msgstr "Yards"
 
 msgid "DH_AT57Cannon.nProjectileDescriptions<0>"
 msgstr "M86 APC"
