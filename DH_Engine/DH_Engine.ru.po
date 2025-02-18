@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-02-18 23:21+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
 "Language: ru\n"
@@ -2907,3 +2907,10 @@ msgstr "Расчёт..."
 
 msgid "DHCommandMenu_ATGun.BusyText"
 msgstr "Занято"
+
+msgid "DHUnits.DistanceUnits<0>.Symbol"
+msgstr "uu"
+
+#, fuzzy
+msgid "DHUnits.DistanceUnits<1>.Symbol"
+msgstr "м"
