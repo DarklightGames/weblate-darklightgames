@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 02:06+0000\n"
+"PO-Revision-Date: 2025-02-18 21:57+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/uk/>\n"
@@ -361,7 +361,6 @@ msgstr "Wgr. 38"
 msgid "DH_Granatwerfer34Cannon.nProjectileDescriptions<1>"
 msgstr "Wgr. 38 Nb."
 
-#, fuzzy
 msgid "DH_Granatwerfer34Mortar.VehicleNameString"
 msgstr "Міномет Gr.W.34"
 
@@ -377,7 +376,6 @@ msgstr "Дим"
 msgid "DH_ML3InchCannon.nProjectileDescriptions<0>"
 msgstr "HE"
 
-#, fuzzy
 msgid "DH_ML3InchMortar.VehicleNameString"
 msgstr "Міномет ML 3 inch"
 
@@ -417,7 +415,6 @@ msgstr "M56 WP"
 msgid "DH_M1MortarCannon.nProjectileDescriptions<2>"
 msgstr "M56 HE"
 
-#, fuzzy
 msgid "DH_Model35Mortar.VehicleNameString"
 msgstr "Міномет 81/14 mod. 35"
 
@@ -432,3 +429,6 @@ msgstr "Bomba gr. c. da 81"
 
 msgid "DH_ML3InchCannon.nProjectileDescriptions<1>"
 msgstr "Білий фосфор"
+
+msgid "DH_Fiat1435Gun.VehicleNameString"
+msgstr "Кулемет Fiat-Revelli mod. 14/35"
