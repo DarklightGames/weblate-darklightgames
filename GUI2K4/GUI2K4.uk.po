@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"PO-Revision-Date: 2025-02-18 21:57+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/uk/>\n"
@@ -212,3 +212,15 @@ msgstr "Мапа"
 
 msgid "UT2k4Browser_ServersList.ColumnHeadings<3>"
 msgstr "Гравці"
+
+msgid "UT2K4PerformWarn.OkButton.Caption"
+msgstr "Ок"
+
+msgid "ControlBinder.BindingLabel[15]"
+msgstr "Переключини вид з третьої особи"
+
+msgid "UT2K4PerformWarn.HideCheckbox.Caption"
+msgstr "  не показувати це сповіщення наступного разу"
+
+msgid "UT2K4PerformWarn.DialogText.Caption"
+msgstr "УВАГА"
