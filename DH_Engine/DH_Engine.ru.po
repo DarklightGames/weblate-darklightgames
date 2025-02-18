@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 20:25+0000\n"
+"PO-Revision-Date: 2025-02-18 21:57+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -44,7 +44,7 @@ msgid "DHBritishCannonPawn.RangeText"
 msgstr "ярды"
 
 msgid "DHBurningDamageType.FemaleSuicide"
-msgstr "%о сгорела дотла."
+msgstr "%o сгорела дотла."
 
 msgid "DHAlliedAntiTankRoles.AltName"
 msgstr ""
@@ -185,7 +185,7 @@ msgid "DHArtillery105DamageType.DeathString"
 msgstr "%o был разорван артиллерийским снарядом."
 
 msgid "DHBurningDamageType.MaleSuicide"
-msgstr "%о сгорел дотла."
+msgstr "%o сгорел дотла."
 
 msgid "DHArtilleryKillDamageType.DeathString"
 msgstr "%o был разорван артиллерийским снарядом."
