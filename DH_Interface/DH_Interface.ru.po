@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-17 09:28+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
+"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
 "Language: ru\n"
@@ -569,11 +569,9 @@ msgstr "Фильтры..."
 msgid "DHGUIDynArrayPage.LockedCancelButton.Caption"
 msgstr "Отмена"
 
-#, fuzzy
 msgid "DHGUIMapComponent.SquadRallyPointDestroyText"
 msgstr "Уничтожить точку сбора"
 
-#, fuzzy
 msgid "DHGUIMapComponent.SquadRallyPointSetAsSecondaryText"
 msgstr "Установить как запасную"
 
@@ -625,9 +623,8 @@ msgstr "Назад"
 msgid "DHGamePageMP.MPFooter.PrimaryCaption"
 msgstr "Слушать"
 
-#, fuzzy
 msgid "DHGamePageMP.MPFooter.SecondaryCaption"
-msgstr "Преданный"
+msgstr "Выделенный"
 
 msgid "DHGamePageSP.PageCaption"
 msgstr "Одиночная игра"
@@ -867,7 +864,6 @@ msgstr "Выбрать RO-сервер из сотен по всему миру"
 msgid "DHServerBrowser.GameTypeCombo.Caption"
 msgstr "Тип игры"
 
-#, fuzzy
 msgid "DHServerBrowser.ServerBrowserHeader.Caption"
 msgstr "Браузер серверов"
 
@@ -1049,7 +1045,6 @@ msgstr "Переключиться на неназначенный голосо�
 msgid "DHTab_Controls.captions_comm[11]"
 msgstr "Начать вводить сообщение в чат"
 
-#, fuzzy
 msgid "DHTab_Controls.captions_comm[12]"
 msgstr "Отключить звук в меню"
 
@@ -1627,6 +1622,41 @@ msgstr "Прочие участники"
 msgid "DHCreditsPage.SpecialThanksText"
 msgstr "Отдельное спасибо"
 
-#, fuzzy
 msgid "DHTab_DetailSettings.NoneText"
 msgstr "Ничего"
+
+msgid "DHTab_MainSP.MapPlayersRangeText"
+msgstr "{min}-{max} игроков"
+
+msgid "DHTab_MainSP.MapAuthorText"
+msgstr "Автор: {author}"
+
+msgid "DHTab_MainSP.MapPlayersText"
+msgstr "{min} игроков"
+
+msgid "DHTab_MainSP.MapCaptionText"
+msgstr "{game} карты"
+
+msgid "DHGUIMapComponent.AdminPlaceAlliedSpawnText"
+msgstr "АДМИН: Разместить точку появления для команды СОЮЗНИКОВ"
+
+msgid "DHGUIMapComponent.AdminDestroyAlliedSpawnsText"
+msgstr "АДМИН: Убрать точку появления для команды СОЮЗНИКОВ"
+
+msgid "DHGUIMapComponent.AdminDestroyAxisSpawnsText"
+msgstr "АДМИН: Убрать точку появления для команды ОСИ"
+
+msgid "DHGUIMapComponent.AdminDestroySpawnText"
+msgstr "АДМИН: Убрать точку появления"
+
+msgid "DHGUIMapComponent.AdminPlaceAxisSpawnText"
+msgstr "АДМИН: Разместить точку появления для команды ОСИ"
+
+msgid "DHGUIMapComponent.AdminTeleportText"
+msgstr "АДМИН: Телепортироваться сюда"
+
+msgid "DHDeployMenu.RoleLockedText"
+msgstr "ЗАБЛОКИРОВАНО"
+
+msgid "DHCreditsPage.VoiceActorsText"
+msgstr "Актёры озвучки"
