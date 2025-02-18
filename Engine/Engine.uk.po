@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-17 22:19+0000\n"
+"PO-Revision-Date: 2025-02-18 02:06+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/uk/>\n"
@@ -331,3 +331,36 @@ msgstr "PAGE UP"
 
 msgid "KeyNames.PageDown"
 msgstr "PAGE DOWN"
+
+msgid "KeyNames.GreyPlus"
+msgstr "NUM +"
+
+msgid "KeyNames.NumPad9"
+msgstr "NUM 9"
+
+msgid "KeyNames.NumPad8"
+msgstr "NUM 8"
+
+msgid "KeyNames.NumPad7"
+msgstr "NUM 7"
+
+msgid "KeyNames.NumPad6"
+msgstr "NUM 6"
+
+msgid "KeyNames.NumPad5"
+msgstr "NUM 5"
+
+msgid "KeyNames.NumPad4"
+msgstr "NUM 4"
+
+msgid "KeyNames.NumPad3"
+msgstr "NUM 3"
+
+msgid "KeyNames.NumPad2"
+msgstr "NUM 2"
+
+msgid "KeyNames.NumPad1"
+msgstr "NUM 1"
+
+msgid "KeyNames.NumPad0"
+msgstr "NUM 0"
