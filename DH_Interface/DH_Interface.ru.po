@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"PO-Revision-Date: 2025-02-18 17:35+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -529,9 +529,8 @@ msgstr "Статистика Сервера:"
 msgid "DHFilterEdit.cbTranslocator.Caption"
 msgstr "Транслокатор:"
 
-#, fuzzy
 msgid "DHFilterEdit.cbWeaponStay.Caption"
-msgstr "Оружие остается:"
+msgstr "Время:"
 
 msgid "DHFilterEdit.ckBots.Caption"
 msgstr "Без ботов"
@@ -930,9 +929,8 @@ msgstr "Системный драйвер"
 msgid "DHTab_AudioSettings.AudioEffectsVolumeSlider.Caption"
 msgstr "Громкость эффектов"
 
-#, fuzzy
 msgid "DHTab_AudioSettings.AudioLowDetail.Caption"
-msgstr "Детали низких частот"
+msgstr "Пониженное качество звука"
 
 msgid "DHTab_AudioSettings.AudioMessageBeep.Caption"
 msgstr "Звуковой сигнал сообщения"
