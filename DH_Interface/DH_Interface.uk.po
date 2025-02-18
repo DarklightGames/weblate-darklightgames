@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 17:35+0000\n"
+"PO-Revision-Date: 2025-02-18 21:57+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
@@ -1860,7 +1860,6 @@ msgstr "Розмір карти"
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<4>"
 msgstr "Рекомендована кількість гравців для цієї карти."
 
-#, fuzzy
 msgid "DHCreditsPage.PastPatreonSupportersText"
 msgstr "Минулі спонсори Patreon"
 
