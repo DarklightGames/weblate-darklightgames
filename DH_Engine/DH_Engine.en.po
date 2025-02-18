@@ -17,9 +17,6 @@ msgstr "Cannot use an enemy gun"
 msgid "DHATCannonMessage.CannotEnter"
 msgstr "The gun is already manned"
 
-msgid "DHATGunCannonPawn.HudName"
-msgstr "Gunner"
-
 msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
 msgstr "Finish rotating"
 
@@ -1220,9 +1217,6 @@ msgstr "secured"
 msgid "DHObjectiveMessage.NotificationMessage"
 msgstr "The {0} have {1} {2}"
 
-msgid "DHPassengerPawn.HudName"
-msgstr "Rider"
-
 msgid "DHPawn.AdminSpawnedVehicleText"
 msgstr "Admin {name} spawned a {vehicle}"
 
@@ -1838,9 +1832,6 @@ msgstr "HE"
 msgid "DHVehicleCannonPawn.RangeText"
 msgstr "metres"
 
-msgid "DHVehicleCannonPawn.HudName"
-msgstr "Cmdr"
-
 msgid "DHVehicleCollisionDamageType.DeathString"
 msgstr "%o was killed in a crash with %k's vehicle."
 
@@ -1849,9 +1840,6 @@ msgstr "%o was killed in a vehicle crash."
 
 msgid "DHVehicleCollisionDamageType.MaleSuicide"
 msgstr "%o was killed in a vehicle crash."
-
-msgid "DHVehicleMGPawn.HudName"
-msgstr "MG"
 
 msgid "DHVehicleMessage.AllRiderPositionsFull"
 msgstr "All rider positions are occupied"
