@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 00:41+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-02-18 17:57+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
 "Language: es\n"
@@ -222,9 +222,8 @@ msgstr "¡El enemigo se está retirando, la batalla terminará pronto!"
 msgid "DHFriendlyInformationMsg.TeamSurrendered"
 msgstr "¡Tu equipo ha decidido retirarse, la batalla terminará pronto!"
 
-#, fuzzy
 msgid "DHGameMessage.RoleInvalidatedMessage"
-msgstr "Ya no estás cualificado para ser {article}{name}."
+msgstr "Ya no estás cualificado para ser {name}."
 
 msgid "DHGameReplicationInfo.ForceScaleText"
 msgstr "Tamaño"
