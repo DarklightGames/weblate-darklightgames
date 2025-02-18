@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-29 11:13+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/pl/>\n"
 "Language: pl\n"
@@ -16,19 +16,19 @@ msgid "DHCameraWeapon.ItemName"
 msgstr "Kamera"
 
 msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
-msgstr "Wyczerpany"
+msgstr "Wyczerpane"
 
 msgid "DHConstruction_DragonsTooth.MenuDescription"
 msgstr "Skuteczne w blokowaniu wszystkich pojazdów."
 
 msgid "DHConstruction_Hedgehog.MenuDescription"
-msgstr "Skutecznie blokuje lekkie i średnie pojazdy."
+msgstr "Skuteczny w blokowaniu lekkich i średnich pojazdów."
 
 msgid "DHCommandMenu_ConstructionGroup.NotAvailableText"
 msgstr "Niedostępne"
 
 msgid "DHCommandMenu_ConstructionGroup.BusyText"
-msgstr "Zajęty"
+msgstr "Zajęte"
 
 msgid "DHConstructionControlsMessage.Controls<0>.Text"
 msgstr "Potwierdź"
@@ -37,7 +37,7 @@ msgid "DHConstructionControlsMessage.Controls<1>.Text"
 msgstr "Anuluj"
 
 msgid "DHConstructionControlsMessage.Controls<2>.Text"
-msgstr "Obróć"
+msgstr "Obrót"
 
 msgid "DHConstructionGroup_Ammunition.GroupName"
 msgstr "Amunicja"
@@ -72,18 +72,17 @@ msgstr "Zapewnia punkt zaopatrzenia dla piechoty."
 msgid "DHCommandMenu_ConstructionGroup.TeamLimitText"
 msgstr "Osiągnięto Limit"
 
-#, fuzzy
 msgid "DHCommandMenu_ConstructionGroup.RemainingText"
-msgstr "Pozostało"
+msgstr "{0} Pozostało"
 
 msgid "DHConstructionGroup_Defenses.GroupName"
-msgstr "Obrona"
+msgstr "Umocnienia"
 
 msgid "DHConstruction_ConcertinaWire.MenuName"
 msgstr "Drut Kolczasty"
 
 msgid "DHConstruction_Hedgehog.MenuName"
-msgstr "Jeż Przeciwczołgowy"
+msgstr "Jeż"
 
 msgid "DHConstruction_MortarPit.MenuName"
 msgstr "Okop Moździerzowy"
@@ -98,7 +97,7 @@ msgid "DHConstruction_PlatoonHQ.MenuName"
 msgstr "Sztab Plutonu"
 
 msgid "DHConstruction_PlatoonHQ.MenuDescription"
-msgstr "Zapewnia punkt odrodzenia dla całej drużyny."
+msgstr "Zapewnia punkt odrodzenia dla całego zespołu."
 
 msgid "DHConstruction_Radio.MenuName"
 msgstr "Radio"
@@ -107,16 +106,16 @@ msgid "DHConstruction_Radio.MenuDescription"
 msgstr "Umożliwia wzywanie artylerii."
 
 msgid "DHConstruction_Resupply_Players.MenuName"
-msgstr "Skrzynia z amunicją (piechota)"
+msgstr "Skrzynia z Amunicją (Piechota)"
 
 msgid "DHConstruction_Resupply_Vehicles.MenuName"
-msgstr "Skrzynia z amunicją (pojazdy)"
+msgstr "Skrzynia z Amunicją (Pojazdy)"
 
 msgid "DHConstruction_Sandbags_Bunker.MenuName"
-msgstr "Worki z piaskiem (bunkier)"
+msgstr "Worki z piaskiem (Bunkier)"
 
 msgid "DHConstruction_Sandbags_Line.MenuName"
-msgstr "Worki z piaskiem (linia)"
+msgstr "Worki z piaskiem (Linia)"
 
 msgid "DHConstruction_SupplyCache.MenuName"
 msgstr "Punkt Zaopatrzeniowy"
@@ -132,3 +131,21 @@ msgstr "Wieża Obserwacyjna"
 
 msgid "DHConstruction_WoodFence.MenuName"
 msgstr "Drewniany Płot"
+
+msgid "DHConstruction_Foxhole.MenuName"
+msgstr "Okop"
+
+msgid "DHConstructionControlsMessage.Controls<4>.Text"
+msgstr "Zmień Wariant"
+
+msgid "DHConstruction_Foxhole.ConstructionVerb"
+msgstr "kop"
+
+msgid "DHConstruction_Resupply.ConstructionVerb"
+msgstr "upuść"
+
+msgid "DHConstruction_Sandbags_Crescent.MenuName"
+msgstr "Worki z piaskiem (Półokrągłe)"
+
+msgid "DHConstructionControlsMessage.Controls<3>.Text"
+msgstr "Reset"
