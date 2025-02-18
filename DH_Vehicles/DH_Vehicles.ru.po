@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"PO-Revision-Date: 2025-02-18 17:35+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
@@ -32,7 +32,7 @@ msgid "DH_AchillesTank.VehicleNameString"
 msgstr "ПТ-САУ Mk.IC \"Ахиллес\""
 
 msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<0>"
-msgstr ""
+msgstr "Granata Perforante da 20"
 
 msgid "DH_Autoblinda43ArmoredCar.VehicleNameString"
 msgstr "Бронеавтомобиль AB.43"
@@ -1082,7 +1082,7 @@ msgid "DH_50CalDamType.MaleSuicide"
 msgstr "%o был убит из собственного пулемета .50 калибра."
 
 msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<1>"
-msgstr ""
+msgstr "Granata da 20"
 
 msgid "DH_BesaDamType.DeathString"
 msgstr "%o был убит %k из пулемета Беса."
