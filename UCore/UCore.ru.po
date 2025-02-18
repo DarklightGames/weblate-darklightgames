@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 10:48+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"PO-Revision-Date: 2025-02-18 20:25+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/ucore/ru/>\n"
 "Language: ru\n"
@@ -41,3 +41,6 @@ msgstr "Четверг"
 
 msgid "UUnits.RadiansSymbol"
 msgstr "Радиан"
+
+msgid "UUnits.UnrealAngleSymbol"
+msgstr "u"
