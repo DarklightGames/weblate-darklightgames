@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 17:35+0000\n"
+"PO-Revision-Date: 2025-02-18 21:57+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -389,7 +389,7 @@ msgid "DHDeployMenu.UnlockText"
 msgstr "Разблокировано"
 
 msgid "DHDeployMenu.LockText"
-msgstr "Заблокировано"
+msgstr "Заблокировать"
 
 msgid "DHDeployMenu.LockedText"
 msgstr "Заблокировано"
@@ -1451,7 +1451,7 @@ msgid "DHTab_Hud.ShowCompass.Caption"
 msgstr "Показать компас"
 
 msgid "DHTab_Hud.ShowMapFirstSpawn.Caption"
-msgstr "Показать карту при первом входе входе на сервер"
+msgstr "Показать карту при первом появлении"
 
 msgid "DHTab_Hud.ShowRallyPoint.Caption"
 msgstr "Показать статус точки сбора отряда"
