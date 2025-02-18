@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 17:57+0000\n"
+"PO-Revision-Date: 2025-02-18 18:36+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/ru/>\n"
@@ -502,7 +502,7 @@ msgid "ROTeamGame.PropsDisplayText[15]"
 msgstr "Задержка после окончания игры"
 
 msgid "ROTeamGame.PropsDisplayText[20]"
-msgstr "Ожидание сети"
+msgstr "Сетевое ожидание"
 
 msgid "ROTeamGame.PropsDisplayText[19]"
 msgstr "Время подготовки перед началом игры"
@@ -513,9 +513,8 @@ msgstr "Количество раундов"
 msgid "ROTeamGame.PropsDisplayText[17]"
 msgstr "Лимит побед"
 
-#, fuzzy
 msgid "ROTeamGame.PropsDisplayText[21]"
-msgstr "Минимальное подключение игроков"
+msgstr "Минимальное количество подключаемых игроков"
 
 msgid "ROTeamGame.PropsDisplayText[26]"
 msgstr "Баланс команд ботами"
@@ -534,7 +533,7 @@ msgstr "Игроки должны быть готовы"
 
 #, fuzzy
 msgid "ROTeamGame.PropsDisplayText[31]"
-msgstr "Режим сообщений мертвых игроков"
+msgstr "Режим сообщений мёртвых игроков"
 
 msgid "ROTeamGame.PropsDisplayText[30]"
 msgstr "Наказание за огонь по своим"
