@@ -1,15 +1,16 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-08 01:15+0000\n"
-"Last-Translator: Argilas <argilas@hotmail.com>\n"
-"Language-Team: Spanish <https://weblate.darklightgames.com/projects/darkesthour/dh_engine/es/>\n"
+"PO-Revision-Date: 2025-02-18 00:41+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_engine/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DHATLoadMessage.LoadedGunner"
 msgstr "Has recargado a {0}"
@@ -221,6 +222,7 @@ msgstr "¡El enemigo se está retirando, la batalla terminará pronto!"
 msgid "DHFriendlyInformationMsg.TeamSurrendered"
 msgstr "¡Tu equipo ha decidido retirarse, la batalla terminará pronto!"
 
+#, fuzzy
 msgid "DHGameMessage.RoleInvalidatedMessage"
 msgstr "Ya no estás cualificado para ser {article}{name}."
 
