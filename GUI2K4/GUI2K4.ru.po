@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"PO-Revision-Date: 2025-02-18 17:35+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/ru/>\n"
@@ -228,3 +228,14 @@ msgstr "Экран"
 
 msgid "UT2K4Tab_MainBase.MessageNoInfo"
 msgstr "Информация отсутствует!"
+
+msgid "Settings_Tabs.PerformanceWarningText"
+msgstr ""
+"Принятые изменения, могут негативно сказаться на производительности игры."
+
+msgid "UT2K4PerformWarn.DialogText.Caption"
+msgstr "ВНИМАНИЕ"
+
+msgid "UT2K4PerformWarn.DialogText2.Caption"
+msgstr ""
+"Принятые изменения, могут негативно сказаться на производительности игры."
