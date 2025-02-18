@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"PO-Revision-Date: 2025-02-18 17:35+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/pl/>\n"
@@ -61,7 +61,7 @@ msgid "DHConstruction_InventorySpawner.ConstructionVerb"
 msgstr "upuść"
 
 msgid "DHConstruction_VehiclePool.MenuDescription"
-msgstr "Zapewnia punkt odrodzenia pojazdów dla całej drużyny."
+msgstr "Zapewnia punkt odrodzenia pojazdów dla całego zespołu."
 
 msgid "DHConstruction_Resupply_Vehicles.MenuDescription"
 msgstr "Zapewnia punkt zaopatrzenia dla pojazdów i dział."
@@ -87,10 +87,9 @@ msgstr "Jeż"
 msgid "DHConstruction_MortarPit.MenuName"
 msgstr "Okop Moździerzowy"
 
-#, fuzzy
 msgid "DHConstruction_PlatoonHQ.CustomErrorString"
 msgstr ""
-"Nie można {verb} {name} blisko {string}, chyba że w obrębie {integer}m od "
+"Nie można {verb} {name} blisko {string}, chyba że w odległości {integer}m od "
 "kontrolowanego terytorium."
 
 msgid "DHConstruction_PlatoonHQ.MenuName"
@@ -118,13 +117,13 @@ msgid "DHConstruction_Sandbags_Line.MenuName"
 msgstr "Worki z piaskiem (Linia)"
 
 msgid "DHConstruction_SupplyCache.MenuName"
-msgstr "Punkt Zaopatrzeniowy"
+msgstr "Skład Zapasów"
 
 msgid "DHConstruction_SupplyCache.MenuDescription"
 msgstr "Przechowuje i generuje zapasy z upływem czasu."
 
 msgid "DHConstruction_VehiclePool.MenuName"
-msgstr "Baza pojazdów"
+msgstr "Warsztat Pojazdów"
 
 msgid "DHConstruction_Watchtower.MenuName"
 msgstr "Wieża Obserwacyjna"
@@ -149,3 +148,12 @@ msgstr "Worki z piaskiem (Półokrągłe)"
 
 msgid "DHConstructionControlsMessage.Controls<3>.Text"
 msgstr "Reset"
+
+msgid "DHCommandMenu_ConstructionGroup.MaxActiveText"
+msgstr "Aktywne {0}/{1}"
+
+msgid "DHConstructionControlsMessage.Controls<5>.Text"
+msgstr "Zmień Kolor"
+
+msgid "DHConstruction_SupplyCache.ConstructionVerb"
+msgstr "upuść"
