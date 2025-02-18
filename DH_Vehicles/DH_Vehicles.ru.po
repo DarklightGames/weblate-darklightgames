@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 19:28+0000\n"
+"PO-Revision-Date: 2025-02-18 10:48+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
@@ -31,9 +31,8 @@ msgstr "Mk.I HE-T"
 msgid "DH_AchillesTank.VehicleNameString"
 msgstr "ПТ-САУ Mk.IC \"Ахиллес\""
 
-#, fuzzy
 msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<0>"
-msgstr "PzGr.39"
+msgstr ""
 
 msgid "DH_Autoblinda43ArmoredCar.VehicleNameString"
 msgstr "Бронеавтомобиль AB.43"
@@ -680,9 +679,8 @@ msgstr "Granata da 90"
 msgid "DH_Semovente9053Destroyer.VehicleNameString"
 msgstr "ПТ-САУ Semovente da 90/53"
 
-#, fuzzy
 msgid "DH_ShermanCannon.ProjectileDescriptions<2>"
-msgstr "Белый Фосфор"
+msgstr "Белый фосфор"
 
 msgid "DH_ShermanCannon.nProjectileDescriptions<0>"
 msgstr "M61 APC"
@@ -1083,9 +1081,8 @@ msgstr "%o был убит %k из пулемета .50 калибра ."
 msgid "DH_50CalDamType.MaleSuicide"
 msgstr "%o был убит из собственного пулемета .50 калибра."
 
-#, fuzzy
 msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<1>"
-msgstr "Sprgr.Patr.38"
+msgstr ""
 
 msgid "DH_BesaDamType.DeathString"
 msgstr "%o был убит %k из пулемета Беса."
