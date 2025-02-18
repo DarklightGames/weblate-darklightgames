@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-28 22:39+0000\n"
+"PO-Revision-Date: 2025-02-18 02:06+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/ucore/ja/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DateTime.DayOfWeekNames[1]"
 msgstr "月曜日"
@@ -34,3 +34,12 @@ msgstr "土曜日"
 
 msgid "UUnits.MilsSymbol"
 msgstr "ミル"
+
+msgid "UUnits.UnrealAngleSymbol"
+msgstr "u"
+
+msgid "UUnits.DegreesSymbol"
+msgstr "度"
+
+msgid "UUnits.RadiansSymbol"
+msgstr "rad"
