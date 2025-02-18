@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-17 22:19+0000\n"
+"PO-Revision-Date: 2025-02-18 02:06+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/uk/>\n"
@@ -390,7 +390,6 @@ msgstr "Bomba g. a. da 81"
 msgid "DH_Model35MortarCannon.nProjectileDescriptions<1>"
 msgstr "Bomba Fumogena"
 
-#, fuzzy
 msgid "DH_BM36Mortar.VehicleNameString"
 msgstr "Міномет 82-БМ-36"
 
@@ -430,3 +429,6 @@ msgstr "Дим"
 
 msgid "DH_Model35MortarCannon.nProjectileDescriptions<2>"
 msgstr "Bomba gr. c. da 81"
+
+msgid "DH_ML3InchCannon.nProjectileDescriptions<1>"
+msgstr "Білий фосфор"
