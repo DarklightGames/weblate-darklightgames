@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-17 22:19+0000\n"
+"PO-Revision-Date: 2025-02-18 02:06+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/uk/>\n"
@@ -441,9 +441,8 @@ msgstr "Перегляд себе"
 msgid "ROTeamGame.PropsDisplayText[2]"
 msgstr "Швидкість гри"
 
-#, fuzzy
 msgid "ROTeamGame.PropsDisplayText[8]"
-msgstr "Заблокувати спостерігання з 3-ї особи"
+msgstr "Заблокувати спостерігання з третьої особи"
 
 msgid "ROTeamGame.PropsDisplayText[7]"
 msgstr "Спостерігати тільки з першої особи"
@@ -458,7 +457,6 @@ msgstr "вбив вас, напишіть \"np\" або \"forgive\" щоб ви�
 msgid "ROTeamGame.PropsDisplayText[0]"
 msgstr "Навички бота"
 
-#, fuzzy
 msgid "ROTeamGame.PropsDisplayText[1]"
 msgstr "Використовувати ротацію карт"
 
@@ -472,9 +470,8 @@ msgstr "Максимум гравців"
 msgid "ROTeamGame.PropsDisplayText[5]"
 msgstr "Ліміт часу"
 
-#, fuzzy
 msgid "ROTeamGame.PropsDisplayText[9]"
-msgstr "Дозволити ViewPoint спостерігання"
+msgstr "Дозволити спостерігання з ViewPoint"
 
 msgid "ROTeamGame.PropsDisplayText[10]"
 msgstr "Дозволити вільне спостерігання"
@@ -520,3 +517,43 @@ msgstr "Пробачення дружнього вогню увімкнено"
 
 msgid "ROTeamGame.PropsDisplayText[36]"
 msgstr "Змінти максимальну кількість гравців"
+
+msgid "ROBipodWarningMsg.DeployToReload"
+msgstr "Ви повинні встановити свою зброю щоб перезарядитися!"
+
+msgid "ROTeamGame.PropsDisplayText[6]"
+msgstr "Дозволити вид з третьої особи"
+
+msgid "ROBipodWarningMsg.DeployToFire"
+msgstr "Ви повинні встановити свою зброю для пострілу!"
+
+msgid "ROTeamGame.PropsDisplayText[21]"
+msgstr "Мінімум мережевих гравців"
+
+#, fuzzy
+msgid "ROTeamGame.PropsDisplayText[28]"
+msgstr "Крос-командний приватний чат"
+
+msgid "ROTeamGame.PropsDisplayText[29]"
+msgstr "Вигнати простоюючих граців через"
+
+msgid "ROTeamGame.PropsDisplayText[30]"
+msgstr "Карати дружній вогонь"
+
+msgid "ROTeamGame.PropsDisplayText[31]"
+msgstr "Режим повідомлень о смерті"
+
+msgid "ROTeamGame.PropsDisplayText[32]"
+msgstr "Чорний екран при смерті"
+
+msgid "ROTeamGame.PropsDisplayText[34]"
+msgstr "Балансувати команди при смерті"
+
+msgid "ROTeamGame.PropsDisplayText[35]"
+msgstr "Максимальна різниця між командами"
+
+msgid "ROTeamGame.PropsDisplayText[38]"
+msgstr "Ліміт вбивств союзників"
+
+msgid "ROTeamGame.PropsDisplayText[39]"
+msgstr "Ліміт ушконджень союзників"
