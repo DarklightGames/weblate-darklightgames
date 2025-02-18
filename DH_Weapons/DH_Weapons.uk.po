@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 00:38+0000\n"
+"PO-Revision-Date: 2025-02-18 02:06+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/uk/>\n"
@@ -344,7 +344,6 @@ msgstr "Гвинтівка Каркано M91"
 msgid "DH_LtypeGrenadeWeapon.ItemName"
 msgstr "Граната Tipo L"
 
-#, fuzzy
 msgid "DH_MAB42Weapon.ItemName"
 msgstr "MAB M1938/42"
 
