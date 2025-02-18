@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"PO-Revision-Date: 2025-02-18 17:57+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/ru/>\n"
@@ -17,7 +17,7 @@ msgid "DHAdminMenu_AdminMessages.ConfirmMatchLive"
 msgstr "Нажмите Enter, чтобы подтвердить, ЗАПУСК игры в режиме реализма"
 
 msgid "DHAdminMenu_AdminMessages.EnterPrivateMessage"
-msgstr "Введите личное сообщение игроку - затем нажмите Enter."
+msgstr "Введите личное сообщение игроку - затем нажмите Enter"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableCapProgress"
 msgstr ""
@@ -69,7 +69,7 @@ msgstr ""
 "игроков, реалистичного матча или во время тестирования"
 
 msgid "DHAdminMenu_AdminMessages.EnterNewPlayerName"
-msgstr "Пожалуйста, введите новое имя для игрока - затем нажмите Enter."
+msgstr "Пожалуйста, введите новое имя для игрока - затем нажмите Enter"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAlliesAtObjective"
 msgstr ""
