@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 17:35+0000\n"
+"PO-Revision-Date: 2025-02-18 17:57+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/ru/>\n"
@@ -481,7 +481,7 @@ msgid "ROPlayer.SpectatingModeName[1]"
 msgstr "Свободное перемещение"
 
 msgid "ROTeamGame.PropsDisplayText[9]"
-msgstr "Разрешить наблюдение*"
+msgstr "Разрешить наблюдение фиксированных"
 
 msgid "ROTeamGame.PropsDisplayText[10]"
 msgstr "Разрешить свободное перемещение наблюдателям"
