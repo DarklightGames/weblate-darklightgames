@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 11:17+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/ru/>\n"
 "Language: ru\n"
@@ -258,7 +258,6 @@ msgstr "Укажите новый размер отряда войск Оси (8
 msgid "DHAdminMenu_AdminMessages.SetGamePasswordText"
 msgstr "Пожалуйста, укажите новый пароль к игре"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableRallyPoints"
 msgstr ""
 "Нажмите Enter, чтобы подтвердить, что вы хотите ВКЛЮЧИТЬ возможность "
