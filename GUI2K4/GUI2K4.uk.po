@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 02:06+0000\n"
+"PO-Revision-Date: 2025-02-18 10:48+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/uk/>\n"
@@ -103,7 +103,7 @@ msgid "UT2k4Browser_RulesList.KickVotingString"
 msgstr "Голосування: виключення"
 
 msgid "UT2k4Browser_RulesList.MapVotingString"
-msgstr "Голосування карта:"
+msgstr "Голосування за мапу"
 
 msgid "UT2k4Browser_RulesList.MinPlayersString"
 msgstr "Мінімальна кількість гравців (ботів)"
