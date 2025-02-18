@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 11:57+0000\n"
+"PO-Revision-Date: 2025-02-18 10:48+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/ru/>\n"
@@ -35,7 +35,7 @@ msgid "DHConstructionGroup_Obstacles.GroupName"
 msgstr "Препятствия"
 
 msgid "DHConstruction_VehiclePool.MenuName"
-msgstr "Точка появления техники"
+msgstr "Капонир для техники"
 
 msgid "DHConstruction_Resupply_Players.MenuDescription"
 msgstr "Обеспечивает пехоту боеприпасами."
@@ -91,11 +91,10 @@ msgstr "копать"
 msgid "DHConstructionControlsMessage.Controls<0>.Text"
 msgstr "Подтвердить"
 
-#, fuzzy
 msgid "DHConstruction_PlatoonHQ.CustomErrorString"
 msgstr ""
 "Невозможно {verb} {name} вблизи {string}. Вы должны находиться в пределах "
-"{integer}м от контролируемой территории."
+"{integer}м от контролируемой точки."
 
 msgid "DHCommandMenu_ConstructionGroup.RemainingText"
 msgstr "{0} Осталось"
