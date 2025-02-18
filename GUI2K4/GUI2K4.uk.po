@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-17 22:19+0000\n"
+"PO-Revision-Date: 2025-02-18 00:38+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/uk/>\n"
@@ -178,7 +178,7 @@ msgid "UT2K4GamePageBase.PanelCaption<3>"
 msgstr "Мутатори"
 
 msgid "UT2k4Browser_ServerListPageLAN.PanelCaption"
-msgstr "Сервери : Локальні (LAN)"
+msgstr "Сервери : Локальні ігри"
 
 msgid "UT2k4Browser_ServersList.ColumnHeadings<1>"
 msgstr "Назва сервера"
@@ -206,10 +206,10 @@ msgid "ControlBinder.BindingLabel[41]"
 msgstr "Голосове меню"
 
 msgid "UT2k4Browser_ServerListPageFavorites.PanelCaption"
-msgstr "Сервери : Закладки"
+msgstr "Сервери : Вибрані"
 
 msgid "UT2k4Browser_ServersList.ColumnHeadings<2>"
 msgstr "Мапа"
 
 msgid "UT2k4Browser_ServersList.ColumnHeadings<3>"
-msgstr "Гравців"
+msgstr "Гравці"
