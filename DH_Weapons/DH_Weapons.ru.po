@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 19:28+0000\n"
+"PO-Revision-Date: 2025-02-18 10:48+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/ru/>\n"
@@ -325,7 +325,6 @@ msgstr "Граната StG.24"
 msgid "DH_RPG43GrenadeWeapon.ItemName"
 msgstr "Противотанковая граната РПГ-43"
 
-#, fuzzy
 msgid "DH_FG42ScopedWeapon.ItemName"
 msgstr "Винтовка парашютиста FG-42 (ZFG42)"
 
@@ -350,9 +349,8 @@ msgstr "Граната Tipo L"
 msgid "DH_Wz35Weapon.ItemName"
 msgstr "Противотанковое ружье Wz.35"
 
-#, fuzzy
 msgid "DH_MAB42Weapon.ItemName"
-msgstr "MAB M1938/42"
+msgstr "ПП MAB M1938/42"
 
 msgid "DH_SRCMMod35SmokeGrenadeWeapon.ItemName"
 msgstr "Дымовая граната SCRM Mod.35"
