@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain\n"
+"Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
+
+msgid "Errors.Unknown"
+msgstr "Unknown Error"
+
+msgid "Errors.Aborted"
+msgstr "Aborted"
+
+msgid "Errors.ExportOpen"
+msgstr "Error exporting %s: couldn't open file '%s'"
+
+msgid "Errors.ExportWrite"
+msgstr "Error exporting %s: couldn't write file '%s'"
+
+msgid "Errors.FileNotFound"
+msgstr "Can't find file '%s'"
+
+msgid "Errors.ObjectNotFound"
+msgstr "Failed to find object '%s %s.%s'"
+
+msgid "Errors.PackageNotFound"
+msgstr "Can't find file for package '%s'"
+
+msgid "Errors.PackageResolveFailed"
+msgstr "Can't resolve package name"
+
+msgid "Errors.FilenameToPackage"
+msgstr "Can't convert filename '%s' to package name"
+
+msgid "Errors.Sandbox"
+msgstr "Package '%s' is not accessible in this sandbox"
+
+msgid "Errors.PackageVersion"
+msgstr "Package '%s' version mismatch"
+
+msgid "Errors.FailedLoad"
+msgstr "Failed to load '%s': %s"
+
+msgid "Errors.ConfigNotFound"
+msgstr "Can't find '%s' in configuration file"
+
+msgid "Errors.LoadClassMismatch"
+msgstr "%s is not a child class of %s.%s"
+
+msgid "Errors.NotDll"
+msgstr "'%s' is not a DLL package; can't find export '%s'"
+
+msgid "Errors.NotInDll"
+msgstr "Can't find '%s' in '%s.dll'"
+
+msgid "Errors.FailedLoadPackage"
+msgstr "Failed loading package: %s"
+
+msgid "Errors.FailedLoadObject"
+msgstr "Failed to load '%s %s.%s': %s"
+
+msgid "Errors.TransientImport"
+msgstr "Transient object imported: %s"
+
+msgid "Errors.FailedSavePrivate"
+msgstr "Can't save %s: Graph is linked to external private object %s"
+
+msgid "Errors.FailedImportPrivate"
+msgstr "Can't import private object %s %s"
+
+msgid "Errors.FailedCreate"
+msgstr "%s %s not found for creation"
+
+msgid "Errors.FailedImport"
+msgstr "Can't find %s in file '%s'"
+
+msgid "Errors.FailedSaveFile"
+msgstr "Error saving file '%s': %s"
+
+msgid "Errors.SaveWarning"
+msgstr "Error saving '%s'"
+
+msgid "Errors.NotPackaged"
+msgstr "Object is not packaged: %s %s"
+
+msgid "Errors.NotWithin"
+msgstr "Object %s %s created in %s instead of %s"
+
+msgid "Errors.Abstract"
+msgstr "Can't create object %s: class %s is abstract"
+
+msgid "Errors.NoReplace"
+msgstr "Can't replace %s with %s"
+
+msgid "Errors.NoFindImport"
+msgstr "Can't find file '%s' for import"
+
+msgid "Errors.ReadFileFailed"
+msgstr "Failed to read file '%s' for import"
+
+msgid "Errors.SeekFailed"
+msgstr "Error seeking file"
+
+msgid "Errors.OpenFailed"
+msgstr "Error opening file"
+
+msgid "Errors.WriteFailed"
+msgstr "Error writing to file"
+
+msgid "Errors.ReadEof"
+msgstr "Read beyond end of file"
+
+msgid "Errors.IniReadOnly"
+msgstr "The file %s is write protected; settings cannot be saved"
+
+msgid "Errors.UrlFailed"
+msgstr "Failed launching URL"
+
+msgid "Errors.Warning"
+msgstr "Warning"
+
+msgid "Errors.Question"
+msgstr "Question"
+
+msgid "Errors.OutOfMemory"
+msgstr "Ran out of virtual memory. To prevent this condition, you must free up more space on your primary hard disk."
+
+msgid "Errors.History"
+msgstr "History"
+
+msgid "Errors.Assert"
+msgstr "Assertion failed: %s [File:%s] [Line: %i]"
+
+msgid "Errors.Debug"
+msgstr "Debug assertion failed: %s [File:%s] [Line: %i]"
+
+msgid "Errors.LinkerExists"
+msgstr "Linker for '%s' already exists"
+
+msgid "Errors.BinaryFormat"
+msgstr "The file '%s' contains unrecognizable data"
+
+msgid "Errors.SerialSize"
+msgstr "%s: Serial size mismatch: Got %i, Expected %i"
+
+msgid "Errors.ExportIndex"
+msgstr "Bad export index %i/%i"
+
+msgid "Errors.ImportIndex"
+msgstr "Bad import index %i/%i"
+
+msgid "Errors.Password"
+msgstr "Password not recognized"
+
+msgid "Errors.Exec"
+msgstr "Unrecognized command"
+
+msgid "Errors.BadProperty"
+msgstr "'%s': Bad or missing property '%s'"
+
+msgid "Errors.MisingIni"
+msgstr "Missing .ini file: %s"
+
+msgid "General.Product"
+msgstr "Unreal"
+
+msgid "General.Engine"
+msgstr "Unreal Engine"
+
+msgid "General.Copyright"
+msgstr "Copyright 2004 Epic Games, Inc."
+
+msgid "General.True"
+msgstr "True"
+
+msgid "General.False"
+msgstr "False"
+
+msgid "General.None"
+msgstr "None"
+
+msgid "General.Yes"
+msgstr "Yes"
+
+msgid "General.No"
+msgstr "No"
+
+msgid "Language.Language"
+msgstr "English (International)"
+
+msgid "Language.LangId"
+msgstr "9"
+
+msgid "Language.SubLangId"
+msgstr "1"
+
+msgid "Progress.Saving"
+msgstr "Saving file %s..."
+
+msgid "Progress.Loading"
+msgstr "Loading file %s..."
+
+msgid "Progress.Closing"
+msgstr "Closing"
+
+msgid "Public.Object"
+msgstr "(Name=Core.HelloWorldCommandlet,Class=Class,MetaClass=Core.Commandlet)"
+
+msgid "Public.Preferences"
+msgstr "(Caption=\"File System\",Parent=\"Advanced\",Class=Core.System,Immediate=True)"
+
+msgid "Query.OldVersion"
+msgstr "The file %s was saved by a previous version which is not backwards compatible with this one.  Reading it will likely fail, and may cause a crash. Do you want to try anyway?"
+
+msgid "Query.Name"
+msgstr "Name:"
+
+msgid "Query.Password"
+msgstr "Password:"
+
+msgid "Query.PassPrompt"
+msgstr "Enter your name and password:"
+
+msgid "Query.PassDlg"
+msgstr "Identity Check"
+
+msgid "Query.Overwrite"
+msgstr "The file '%s' needs to be updated.  Do you want to overwrite the existing version?"
+
+msgid "Query.OverwriteReadOnly"
+msgstr "'%s' is marked read-only.  Would you like to try to force overwriting it?"
+
+msgid "Query.CheckoutPerforce"
+msgstr "'%s' is marked read-only.  Should I try to check it out of Perforce?"
