@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"PO-Revision-Date: 2025-02-18 20:25+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -1241,47 +1241,36 @@ msgstr "Бой"
 msgid "DHScoreCategory_Support.HumanReadableName"
 msgstr "Поддержка"
 
-#, fuzzy
 msgid "DHScoreEvent_ConstructionCompleted.HumanReadableName"
 msgstr "Сооружений построено"
 
-#, fuzzy
 msgid "DHScoreEvent_FireSupportSpottingAssist.HumanReadableName"
 msgstr "Помощь огневой поддержки"
 
-#, fuzzy
 msgid "DHScoreEvent_FriendlyResupply.HumanReadableName"
 msgstr "Союзников снабжено патронами"
 
-#, fuzzy
 msgid "DHScoreEvent_Kill.HumanReadableName"
 msgstr "Убийств"
 
-#, fuzzy
 msgid "DHScoreEvent_ObjectiveCapture.HumanReadableName"
 msgstr "Целей захвачено"
 
-#, fuzzy
 msgid "DHScoreEvent_ObjectiveNeutralize.HumanReadableName"
 msgstr "Целей нейтрализовано"
 
-#, fuzzy
 msgid "DHScoreEvent_SquadRallyPointEstablishedAssist.HumanReadableName"
 msgstr "Создано точка сбора отряда (Помощь)"
 
-#, fuzzy
 msgid "DHScoreEvent_SquadRallyPointSpawn.HumanReadableName"
 msgstr "Появилось игроков на точке сбора отряда"
 
-#, fuzzy
 msgid "DHScoreEvent_Suicide.HumanReadableName"
 msgstr "Самоубийств"
 
-#, fuzzy
 msgid "DHScoreEvent_TeamKill.HumanReadableName"
 msgstr "Убийств союзников"
 
-#, fuzzy
 msgid "DHScoreEvent_TeamKillPunish.HumanReadableName"
 msgstr "Союзных убийств наказано"
 
@@ -2031,7 +2020,6 @@ msgstr "Ваша команда теряет значительное подкр
 msgid "DHRocketExhaustDamageType.DeathString"
 msgstr "%o был сожжен выхлопом %w %k."
 
-#, fuzzy
 msgid "DHScoreEvent_SquadRallyPointEstablished.HumanReadableName"
 msgstr "Создано точек сбора отряда"
 
@@ -2052,7 +2040,6 @@ msgstr ""
 msgid "DHSpawnProtectMineVolume.WarningMessage"
 msgstr "Вы зашли на территорию, контролируемую противником. Отойдите назад!"
 
-#, fuzzy
 msgid "DHScoreEvent_VehicleKill.HumanReadableName"
 msgstr "Уничтожено техники"
 

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"PO-Revision-Date: 2025-02-18 20:25+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/xinterface/ru/>\n"
@@ -37,7 +37,7 @@ msgid "GUIQuestionPage.ButtonNames<7>"
 msgstr "Игнорировать"
 
 msgid "GUIQuestionPage.ButtonNames<6>"
-msgstr "Сбросить"
+msgstr "Прервать"
 
 msgid "GUIQuestionPage.ButtonNames<5>"
 msgstr "Нет"

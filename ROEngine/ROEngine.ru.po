@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 18:36+0000\n"
+"PO-Revision-Date: 2025-02-18 20:25+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/ru/>\n"
@@ -481,7 +481,7 @@ msgid "ROPlayer.SpectatingModeName[1]"
 msgstr "Свободное перемещение"
 
 msgid "ROTeamGame.PropsDisplayText[9]"
-msgstr "Разрешить наблюдение фиксированных"
+msgstr "Разрешить наблюдение через статичные камеры"
 
 msgid "ROTeamGame.PropsDisplayText[10]"
 msgstr "Разрешить свободное перемещение наблюдателям"
@@ -496,7 +496,7 @@ msgid "ROTeamGame.PropsDisplayText[13]"
 msgstr "Минимальное количество игроков"
 
 msgid "ROTeamGame.PropsDisplayText[12]"
-msgstr "Разрешить администратору ставить на паузу"
+msgstr "Разрешить администратору ставить игру на паузу"
 
 msgid "ROTeamGame.PropsDisplayText[15]"
 msgstr "Задержка после окончания игры"
@@ -520,18 +520,17 @@ msgid "ROTeamGame.PropsDisplayText[26]"
 msgstr "Баланс команд ботами"
 
 msgid "ROTeamGame.PropsDisplayText[25]"
-msgstr "Значение урона по своим от взрыва"
+msgstr "Количество урона по своим от взрывов"
 
 msgid "ROTeamGame.PropsDisplayText[24]"
-msgstr "Значение урона от арт. удара по своим"
+msgstr "Количество урона по своим от артиллерии"
 
 msgid "ROTeamGame.PropsDisplayText[23]"
-msgstr "Значение урона по своим"
+msgstr "Разрешённое количество урона по своим"
 
 msgid "ROTeamGame.PropsDisplayText[22]"
 msgstr "Игроки должны быть готовы"
 
-#, fuzzy
 msgid "ROTeamGame.PropsDisplayText[31]"
 msgstr "Режим сообщений мёртвых игроков"
 
@@ -539,7 +538,7 @@ msgid "ROTeamGame.PropsDisplayText[30]"
 msgstr "Наказание за огонь по своим"
 
 msgid "ROTeamGame.PropsDisplayText[29]"
-msgstr "Таймер после которого будет исключён игрок стоящий без дела"
+msgstr "Таймер после которого игрок, стоящий без дела, будет исключён"
 
 msgid "ROTeamGame.PropsDisplayText[28]"
 msgstr "Личные сообщения между командами"
@@ -548,13 +547,13 @@ msgid "ROTeamGame.PropsDisplayText[27]"
 msgstr "Баланс команд игроками"
 
 msgid "ROTeamGame.PropsDisplayText[32]"
-msgstr "Черный экран после смерти"
+msgstr "Чёрный экран после смерти"
 
 msgid "ROTeamGame.PropsDisplayText[33]"
-msgstr "Черный экран при просмотре других режимов кроме игроков"
+msgstr "Чёрный экран при просмотре других режимов кроме игроков"
 
 msgid "ROTeamGame.PropsDisplayText[37]"
-msgstr "Простить дружественное убийство"
+msgstr "Прощение дружественных убийств включено"
 
 msgid "ROTeamGame.PropsDisplayText[34]"
 msgstr "Автоматический баланс команд после смерти"
