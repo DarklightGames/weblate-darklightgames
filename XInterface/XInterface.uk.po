@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 02:06+0000\n"
+"PO-Revision-Date: 2025-02-18 21:57+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/xinterface/uk/>\n"
@@ -32,3 +32,15 @@ msgstr "Так"
 
 msgid "GUIQuestionPage.ButtonNames<7>"
 msgstr "Ігнорувати"
+
+msgid "GUIQuestionPage.ButtonNames<2>"
+msgstr "Повторити"
+
+msgid "GUIQuestionPage.ButtonNames<1>"
+msgstr "Скасувати"
+
+msgid "GUIQuestionPage.ButtonNames<3>"
+msgstr "Далі"
+
+msgid "GUIQuestionPage.ButtonNames<6>"
+msgstr "Перервати"
