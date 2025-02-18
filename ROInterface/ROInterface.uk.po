@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 02:06+0000\n"
+"PO-Revision-Date: 2025-02-18 10:48+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/uk/>\n"
@@ -28,7 +28,7 @@ msgid "ROGUITeamSelection.TeamJoinHint[0]"
 msgstr "Приєднатися до військ Осі"
 
 msgid "ROScoreBoard.UnassignedTeamName"
-msgstr "Не призначено"
+msgstr "Непризначені"
 
 msgid "ROTab_Hud.Hints<0>"
 msgstr "Всі підказки (скинути)"
