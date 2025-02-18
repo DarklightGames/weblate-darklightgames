@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 00:38+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2025-02-18 00:41+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
 "Language: uk\n"
@@ -355,6 +355,7 @@ msgstr "Не вдалося позначити ціль вогневої під�
 msgid "DHGameMessage.VehicleDestroyedMessage"
 msgstr "{0} - знищено."
 
+#, fuzzy
 msgid "DHGameMessage.RoleInvalidatedMessage"
 msgstr "Ви більше не перебуваєте на посаді {article}{name}."
 
@@ -2445,6 +2446,7 @@ msgstr "{name} приєднався до військ Осі."
 msgid "DHGameMessage.FFViolationMessage"
 msgstr "Відсторонення від гри {name} через порушення правил вогню по своїх."
 
+#, fuzzy
 msgid "DHGameMessage.RoleChangeMsg"
 msgstr "Ви спробуєте відродитися як {article} {role}."
 
