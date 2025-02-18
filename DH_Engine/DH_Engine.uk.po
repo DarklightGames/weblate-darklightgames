@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 02:06+0000\n"
+"PO-Revision-Date: 2025-02-18 10:48+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
@@ -388,7 +388,7 @@ msgid "DHConstructionErrorMessage.ErrorMessages<26>"
 msgstr "{name} більше не доступно"
 
 msgid "DHHud.MapNameText"
-msgstr "Карта: "
+msgstr "Мапа: "
 
 msgid "DHHud.ServerNameText"
 msgstr "Сервер: "
@@ -1308,7 +1308,7 @@ msgid "DHLastObjectiveMessage.AxisAboutToWinMessage"
 msgstr "Остання ціль - Війська Осі майже виграли битву!"
 
 msgid "DHLib.ServerHealthStages[0].Text"
-msgstr "Відмінне"
+msgstr "Відмінний"
 
 msgid "DHLib.ServerHealthStages[1].Text"
 msgstr "Гарне"
@@ -2077,7 +2077,7 @@ msgstr ""
 "розблокована"
 
 msgid "DHVehicleMessage.MapDisabledVehicleLocking"
-msgstr "Ця карта не дозволяє блокувати техніку"
+msgstr "Ця мапа не дозволяє блокувати техніку"
 
 msgid "DHVehicleMessage.CantLockNonCrewVehicle"
 msgstr ""
