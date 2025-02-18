@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"PO-Revision-Date: 2025-02-18 17:35+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
@@ -983,7 +983,7 @@ msgid "DHServerBrowser.PanelHint<5>"
 msgstr "Вибрати із сотень серверів RO по всьому світу"
 
 msgid "DHServerLoading.DeployingText"
-msgstr "Завантаження карти:{0}"
+msgstr "На шляху до: {0}"
 
 msgid "DHSettingsPage.PanelCaption<3>"
 msgstr "Керування"
