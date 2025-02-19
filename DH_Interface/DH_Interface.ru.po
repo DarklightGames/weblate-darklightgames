@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 21:57+0000\n"
+"PO-Revision-Date: 2025-02-19 20:30+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -128,7 +128,7 @@ msgid "DHBrowser_Footer.BrowserSpec.Caption"
 msgstr "Наблюдать"
 
 msgid "DHBrowser_OpenIP.OkButton.Caption"
-msgstr "Понятно"
+msgstr "Принять"
 
 msgid "DHCommunicationPage.Panels<0>.Caption.Hint"
 msgstr "Управляйте общением с другими игроками"
@@ -179,7 +179,7 @@ msgid "DHFilterEdit.sbMutators.Caption"
 msgstr "Пользовательские настройки мутатора"
 
 msgid "DHGUIDynArrayPage.LockedOKButton.Caption"
-msgstr "Понятно"
+msgstr "Принять"
 
 msgid "DHMainMenu.SteamMustBeRunningText"
 msgstr ""
@@ -518,7 +518,7 @@ msgid "DHFilterEdit.WindowName"
 msgstr "Изменить правила фильтрации..."
 
 msgid "DHFilterEdit.bOk.Caption"
-msgstr "Понятно"
+msgstr "Принять"
 
 msgid "DHFilterEdit.cbMutators.Caption"
 msgstr "Мутаторы:"
@@ -557,7 +557,7 @@ msgid "DHFilterListPage.bEdit.Caption"
 msgstr "Редактировать"
 
 msgid "DHFilterListPage.bOk.Caption"
-msgstr "Понятно"
+msgstr "Принять"
 
 msgid "DHFilterListPage.bRemove.Caption"
 msgstr "Убрать"
@@ -638,7 +638,7 @@ msgid "DHGetDataMenu.CancelButton.Hint"
 msgstr "Закрыть это меню, отменив изменения."
 
 msgid "DHGetDataMenu.OkButton.Caption"
-msgstr "Понятно"
+msgstr "Принять"
 
 msgid "DHLearnToPlayFooter.GameBackButton.Caption"
 msgstr "Назад"
@@ -653,7 +653,7 @@ msgid "DHMOTDConfigPage.LockedCancelButton.Caption"
 msgstr "Отмена"
 
 msgid "DHMOTDConfigPage.LockedOKButton.Caption"
-msgstr "Понятно"
+msgstr "Принять"
 
 msgid "DHMainMenu.JoinTestServerString"
 msgstr "Присоединиться к тестовому серверу"
@@ -679,7 +679,7 @@ msgid "DHMainMenu.DiscordButton.Hint"
 msgstr "Заходите к нам в Discord!"
 
 msgid "DHMainMenu.FacebookButton.Hint"
-msgstr "Следите за нами на Facebook!"
+msgstr "Подпишитесь на наш Facebook!"
 
 msgid "DHMainMenu.InstantActionButton.Caption"
 msgstr "Одиночная игра"
@@ -781,10 +781,10 @@ msgid "DHMutatorConfigMenu.LockedCancelButton.Caption"
 msgstr "Отмена"
 
 msgid "DHMutatorConfigMenu.LockedOKButton.Caption"
-msgstr "Понятно"
+msgstr "Принять"
 
 msgid "DHNetworkStatusMessage.NetStatOk.Caption"
-msgstr "Понятно"
+msgstr "Принять"
 
 msgid "DHNetworkStatusMsg.StatusTitle[12]"
 msgstr "Вы были исключены"
@@ -1014,7 +1014,7 @@ msgid "DHTab_Controls.ControlProfiles[5]"
 msgstr "Контроллер XBox 360"
 
 msgid "DHTab_Controls.captions_weapons[9]"
-msgstr "Сменить ствол пулемета"
+msgstr "Сменить ствол пулемёта"
 
 msgid "DHTab_Controls.captions_weapons[12]"
 msgstr "Увеличить дальность дымовой установки в танке/ Повернуть вправо"
@@ -1035,7 +1035,7 @@ msgid "DHTab_Controls.captions_comm[6]"
 msgstr "Активировать микрофон"
 
 msgid "DHTab_Controls.captions_comm[8]"
-msgstr "Переключиться на местный голосовой канал"
+msgstr "Переключиться на локальный голосовой канал"
 
 msgid "DHTab_Controls.captions_comm[9]"
 msgstr "Переключиться на неназначенный голосовой канал"
@@ -1053,7 +1053,7 @@ msgid "DHTab_Controls.captions_game[5]"
 msgstr "Меню приказов отряда"
 
 msgid "DHTab_Controls.captions_game[6]"
-msgstr "Меню отряда"
+msgstr "Меню отрядов"
 
 msgid "DHTab_Controls.captions_game[8]"
 msgstr "Создать точку сбора"
@@ -1077,14 +1077,15 @@ msgstr "Сначала необходимо присоединиться к му
 
 msgid "DHTab_GameSettings.LockTankOnEntry.Hint"
 msgstr ""
-"Автоматически блокирует танк (или другую бронетехнику) при появлении в нем "
-"или при входе в пустой танк. Это не позволит другим игрокам использовать "
-"места экипажа внутри танка."
+"Автоматически блокирует танк (и другую бронетехнику) при появлении в нем, "
+"или если вы заняли пустой танк. Эта функция не позволит другим игрокам "
+"занять места экипажа внутри техники."
 
 msgid "DHTab_GameSettings.ManualReloading.Hint"
 msgstr ""
-"Снаряды не будут перезаряжаться, пока вы не нажмёте кнопку после выстрела. "
-"Это полезно, если вы захотите изменить тип снаряда после выстрела"
+"Противотанковые пушки и орудия танков не будут перезаряжаться после выстрела "
+"пока вы не нажмёте соответствующую кнопку. Может быть полезно, если вы "
+"захотите сменить тип снаряда сразу после выстрела."
 
 msgid "DHTab_Hud.GameHudShowWeaponInfo.Caption"
 msgstr "Показать информацию об оружии"
@@ -1132,7 +1133,7 @@ msgstr "Ступенчатая ручка газа - другая техника
 
 msgid "DHTab_GameSettings.ThrottleTanks.Hint"
 msgstr ""
-"Использует пошаговую дроссельную заслонку для танков, что полезно при "
+"Добавляет ступенчатую ручку газа для танков. Может быть полезно при "
 "длительных поездках"
 
 msgid "DHTab_GameSettings.ViewFOV.Hint"
@@ -1365,7 +1366,7 @@ msgid "DHTab_GameSettings.Incognito.Caption"
 msgstr "Режим инкогнито"
 
 msgid "DHTab_GameSettings.Incognito.Hint"
-msgstr "Не отображать мой статус спонсора Patron или разработчика"
+msgstr "Скрыть мой статус спонсора Patron или разработчика"
 
 msgid "DHTab_GameSettings.LockTankOnEntry.Caption"
 msgstr "Блокировать танк при входе в него"
@@ -1538,7 +1539,7 @@ msgid "DHTab_MutatorSP.AvailBackground.Caption"
 msgstr "Доступные мутаторы"
 
 msgid "DHTab_MutatorSP.DescriptionBackground.Caption"
-msgstr "Детали мутатора"
+msgstr "Описание мутатора"
 
 msgid "DHTab_MutatorSP.IAMutatorAdd.Caption"
 msgstr "Добавить"
