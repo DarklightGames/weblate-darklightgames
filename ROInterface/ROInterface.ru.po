@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"PO-Revision-Date: 2025-02-19 20:30+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ru/>\n"
@@ -444,7 +444,7 @@ msgid "ROSettingsPage_new.PanelCaption<5>"
 msgstr "Интерфейс"
 
 msgid "ROTab_Controls.ActionText"
-msgstr "В настоящее время к этой клавише привязано значение - {%keybinds%}."
+msgstr "В настоящее время к этой функции привязана клавиша - {%keybinds%}."
 
 msgid "ROTab_Controls.Section_Misc"
 msgstr "Прочее"
@@ -465,7 +465,7 @@ msgid "ROTab_Controls.captions_movement[10]"
 msgstr "Передвижение шагом"
 
 msgid "ROTab_Controls.captions_movement[11]"
-msgstr "Присесть (нажатие)"
+msgstr "Присесть (одинарное нажатие)"
 
 msgid "ROTab_Controls.captions_misc[0]"
 msgstr "Открыть меню голосований"
@@ -516,7 +516,7 @@ msgid "ROTab_Controls.captions_comm[1]"
 msgstr "Командный чат"
 
 msgid "ROTab_Controls.captions_comm[2]"
-msgstr "Чат в технике"
+msgstr "Чат внутри техники"
 
 msgid "ROTab_Controls.captions_comm[3]"
 msgstr "Меню голосовых команд"
