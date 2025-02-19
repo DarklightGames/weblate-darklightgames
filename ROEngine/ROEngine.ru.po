@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 20:25+0000\n"
+"PO-Revision-Date: 2025-02-19 20:30+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/ru/>\n"
@@ -250,7 +250,7 @@ msgid "ROVoicePack.VehicleDirectionAbbrev[0]"
 msgstr "Выдвинуться к точке..."
 
 msgid "ROVoicePack.VehicleDirectionAbbrev[1]"
-msgstr "Выдвинуться вперёд"
+msgstr "Вперёд"
 
 msgid "ROVoicePack.VehicleDirectionAbbrev[2]"
 msgstr "Стоп"
