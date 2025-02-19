@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 23:21+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
+"PO-Revision-Date: 2025-02-19 20:30+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
 "Language: ru\n"
@@ -61,9 +61,8 @@ msgstr "Использовать "
 msgid "DHATGunCannonPawn.HudName"
 msgstr "Стрелок-наводчик"
 
-#, fuzzy
 msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
-msgstr "Завершить вращение"
+msgstr "Завершить"
 
 msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
 msgstr "Вращать"
@@ -2630,8 +2629,9 @@ msgstr "Наблюдение"
 msgid "DHCommandMenu_SquadAssistant.Options<0>.ActionText"
 msgstr "Строительство"
 
+#, fuzzy
 msgid "DHCommandMenu_SquadAssistant.Options<1>.ActionText"
-msgstr "Наблюдение"
+msgstr "Пометить"
 
 msgid "DHCommandMenu_SquadLeader.Options<0>.ActionText"
 msgstr "Создать точку сбора"
@@ -2911,6 +2911,17 @@ msgstr "Занято"
 msgid "DHUnits.DistanceUnits<0>.Symbol"
 msgstr "uu"
 
-#, fuzzy
 msgid "DHUnits.DistanceUnits<1>.Symbol"
 msgstr "м"
+
+msgid "DHUnits.DistanceUnits<0>.Name"
+msgstr "Анриал Юниты"
+
+msgid "DHUnits.DistanceUnits<1>.Name"
+msgstr "Метры"
+
+msgid "DHUnits.DistanceUnits<2>.Name"
+msgstr "Ярды"
+
+msgid "DHUnits.DistanceUnits<2>.Symbol"
+msgstr "ярд"
