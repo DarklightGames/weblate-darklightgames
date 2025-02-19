@@ -83,9 +83,6 @@ msgstr "Fireteam leader"
 msgid "DHSOVCorporalRoles.AltName"
 msgstr "Komandir zvena"
 
-msgid "DHSOVCorporalRoles.PluralName"
-msgstr "Fireteam leaders"
-
 msgid "DHSOVEngineerRoles.AltName"
 msgstr "Saper"
 
@@ -103,9 +100,6 @@ msgstr "Squad leader"
 
 msgid "DHSOVSergeantRoles.AltName"
 msgstr "Komandir otdeleniya"
-
-msgid "DHSOVSergeantRoles.PluralName"
-msgstr "Squad leaders"
 
 msgid "DHSOVTankCrewmanRoles.AltName"
 msgstr "Ekipazh tanka"

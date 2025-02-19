@@ -32,9 +32,6 @@ msgstr "Osttruppe Rifleman"
 msgid "DH_OstTruppenRifleman.AltName"
 msgstr "Schütze Osttruppe"
 
-msgid "DH_OstTruppenRifleman.PluralName"
-msgstr "Osttruppe Riflemen"
-
 msgid "DH_WHArtilleryGunner.MyName"
 msgstr "Artillery Gunner"
 
