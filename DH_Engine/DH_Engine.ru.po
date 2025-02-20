@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-02-20 09:35+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
 "Language: ru\n"
@@ -1425,7 +1425,7 @@ msgid "DHSquadMessage.RallyPointOverrunMessage"
 msgstr "Точка сбора была разбита противником."
 
 msgid "DHSquadMessage.RallyPointGroundTooSteep"
-msgstr "Поверхность здесь слишком крутая, чтобы установить точку сбора."
+msgstr "Ладшафт слишком крутой, чтобы установить здесь точку сбора."
 
 msgid "DHSquadMessage.RallyPointInMinefield"
 msgstr "Нельзя создать точку сбора отряда на минном поле."
