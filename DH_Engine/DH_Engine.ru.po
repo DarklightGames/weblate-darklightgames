@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-19 20:30+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"PO-Revision-Date: 2025-02-20 06:44+0000\n"
+"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
 "Language: ru\n"
@@ -2629,9 +2629,8 @@ msgstr "Наблюдение"
 msgid "DHCommandMenu_SquadAssistant.Options<0>.ActionText"
 msgstr "Строительство"
 
-#, fuzzy
 msgid "DHCommandMenu_SquadAssistant.Options<1>.ActionText"
-msgstr "Пометить"
+msgstr "Наь"
 
 msgid "DHCommandMenu_SquadLeader.Options<0>.ActionText"
 msgstr "Создать точку сбора"
