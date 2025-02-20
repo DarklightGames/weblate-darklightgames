@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-20 06:44+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2025-02-20 09:35+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
 "Language: ru\n"
@@ -80,7 +80,7 @@ msgid "DHAccessControl.SessionBanned"
 msgstr "Вы не можете присоединиться к этому серверу, пока не сменится карта."
 
 msgid "DHAdminMessage.KickedFromSquadMessage"
-msgstr "Администратор'{0}' выгнал '{1}' из отряда '{2}'."
+msgstr "Администратор'{0}' выгнал игрока '{1}' из отряда '{2}'."
 
 msgid "DHAlliedAntiTankRoles.MyName"
 msgstr "ПТ солдат"
@@ -512,13 +512,13 @@ msgid "DHATCannonMessage.GunIsRotating"
 msgstr "Орудие вращается"
 
 msgid "DHATCannonMessage.NotQualified"
-msgstr "Недостаточно обучен для работы с этим орудием"
+msgstr "Вы недостаточно обучены работе с этим орудием"
 
 msgid "DHAxisRiflemanRoles.AltName"
 msgstr ""
 
 msgid "DHAccessControl.IPBanned"
-msgstr "Вы не можете присоединиться к этому серверу, потому что вас забанили."
+msgstr "Вы не можете присоединиться к этому серверу потому что вас забанили."
 
 msgid "DHAlliedEngineerRoles.PluralName"
 msgstr "Сапёры"
@@ -2630,7 +2630,7 @@ msgid "DHCommandMenu_SquadAssistant.Options<0>.ActionText"
 msgstr "Строительство"
 
 msgid "DHCommandMenu_SquadAssistant.Options<1>.ActionText"
-msgstr "Наь"
+msgstr "Пометить"
 
 msgid "DHCommandMenu_SquadLeader.Options<0>.ActionText"
 msgstr "Создать точку сбора"
