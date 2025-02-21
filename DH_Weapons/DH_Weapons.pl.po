@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-19 20:30+0000\n"
+"PO-Revision-Date: 2025-02-21 20:32+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/pl/>\n"
@@ -23,3 +23,336 @@ msgstr "Karabin Maszynowy Browning M1918A2"
 
 msgid "DH_BARNoBipodWeapon.ItemName"
 msgstr "Karabin Maszynowy Browning M1918A2 (Bez Dwójnogu)"
+
+msgid "DH_BHPWeapon.ItemName"
+msgstr "Browning High-Power"
+
+msgid "DH_BazookaM9Weapon.ItemName"
+msgstr "M9A1 Bazooka"
+
+msgid "DH_BazookaWeapon.ItemName"
+msgstr "M1A1 Bazooka"
+
+msgid "DH_BerettaM1934Weapon.ItemName"
+msgstr "Beretta M1934"
+
+msgid "DH_Breda30Weapon.ItemName"
+msgstr "Breda modello 30"
+
+msgid "DH_BrenWeapon.ItemName"
+msgstr "Bren Mk.II"
+
+msgid "DH_C96Weapon.ItemName"
+msgstr "Mauser C96"
+
+msgid "DH_CarcanoM91Weapon.ItemName"
+msgstr "Carcano M91"
+
+msgid "DH_ColtM1911Weapon.ItemName"
+msgstr "Colt M1911A1"
+
+msgid "DH_DP27LateWeapon.ItemName"
+msgstr "DP-27"
+
+msgid "DH_DP27Weapon.ItemName"
+msgstr "DP-27"
+
+msgid "DH_DP27Ammo.ItemName"
+msgstr "Magazynek do DP27"
+
+msgid "DH_DT29Ammo.ItemName"
+msgstr "Magazynek do DT29"
+
+msgid "DH_DT29Weapon.ItemName"
+msgstr "DT-29"
+
+msgid "DH_EnfieldNo2Weapon.ItemName"
+msgstr "Rewolwer Enfield No.2"
+
+msgid "DH_EnfieldNo4ScopedWeapon.ItemName"
+msgstr "Enfield No.4 Mk.I (T) (No.32)"
+
+msgid "DH_EnfieldNo4Weapon.ItemName"
+msgstr "Karabin Lee Enfield No.4"
+
+msgid "DH_F1GrenadeWeapon.ItemName"
+msgstr "Granat F1"
+
+msgid "DH_FG42ScopedWeapon.ItemName"
+msgstr "FG 42 (ZFG42)"
+
+msgid "DH_FG42Weapon.ItemName"
+msgstr "FG 42"
+
+msgid "DH_G41Weapon.ItemName"
+msgstr "G 41(W)"
+
+msgid "DH_G43Weapon.ItemName"
+msgstr "G 43"
+
+msgid "DH_G98Weapon.ItemName"
+msgstr "G 98"
+
+msgid "DH_GLWeapon.ItemName"
+msgstr "StG 24 x7 Geballte Ladung"
+
+msgid "DH_GeratPIIWeapon.ItemName"
+msgstr "Gerat Potsdam II"
+
+msgid "DH_GeratPWeapon.ItemName"
+msgstr "Gerat Potsdam"
+
+msgid "DH_GreaseGunWeapon.ItemName"
+msgstr "M3 Grease Gun"
+
+msgid "DH_Kar98NoCoverWeapon.ItemName"
+msgstr "Kar 98k (bez osłony celownika)"
+
+msgid "DH_Kar98ScopedWeapon.ItemName"
+msgstr "Kar 98k (ZF39)"
+
+msgid "DH_Kar98Weapon.ItemName"
+msgstr "Kar 98k"
+
+msgid "DH_KorovinWeapon.ItemName"
+msgstr "Korovin 1941"
+
+msgid "DH_Kz8cmGrW42Vehicle.VehicleNameString"
+msgstr "Kurz 8cm Granatwerfer 42"
+
+msgid "DH_Kz8cmGrW42Weapon.Description"
+msgstr "Kurz 8cm Granatwerfer 42"
+
+msgid "DH_Kz8cmGrW42Weapon.ItemName"
+msgstr "Kz 8cm GrW 42 Mortar"
+
+msgid "DH_LtypeGrenadeWeapon.ItemName"
+msgstr "OTO bomba Tipo L"
+
+msgid "DH_M1924Weapon.ItemName"
+msgstr "Karabin M1924"
+
+msgid "DH_M1928_20rndWeapon.ItemName"
+msgstr "M1928A1 Thompson (20naboi)"
+
+msgid "DH_M1928_30rndWeapon.ItemName"
+msgstr "M1928A1 Thompson (30naboi)"
+
+msgid "DH_M1928_50rndWeapon.ItemName"
+msgstr "M1928A1 Thompson (50naboi)"
+
+msgid "DH_M1GarandWeapon.ItemName"
+msgstr "M1 Garand"
+
+msgid "DH_M1GrenadeWeapon.ItemName"
+msgstr "Granat Mk II"
+
+msgid "DH_M1A1CarbineWeapon.ItemName"
+msgstr "Karabinek M1A1"
+
+msgid "DH_M1T17CarbineWeapon.ItemName"
+msgstr "Karabinek Automatyczny M1/T17"
+
+msgid "DH_M2MortarVehicle.VehicleNameString"
+msgstr "60mm Moździerz M2"
+
+msgid "DH_M2MortarWeapon.ItemName"
+msgstr "60mm Moździerz M2"
+
+msgid "DH_M34GrenadeWeapon.ItemName"
+msgstr "Granat RG-34"
+
+msgid "DH_M38Weapon.ItemName"
+msgstr "Mosin M38"
+
+msgid "DH_M44Weapon.ItemName"
+msgstr "Mosin M44"
+
+msgid "DH_M712Weapon.ItemName"
+msgstr "Mauser M712 'Schnellfeuer'"
+
+msgid "DH_M9530Weapon.ItemName"
+msgstr "Mannlicher M95/30"
+
+msgid "DH_M9531Weapon.ItemName"
+msgstr "Karabin 31.M"
+
+msgid "DH_MAB38Weapon.ItemName"
+msgstr "MAB 38"
+
+msgid "DH_MAB42Weapon.ItemName"
+msgstr "MAB 42"
+
+msgid "DH_MG34Weapon.ItemName"
+msgstr "MG 34"
+
+msgid "DH_MG42Weapon.ItemName"
+msgstr "MG 42"
+
+msgid "DH_MKB42HWeapon.ItemName"
+msgstr "Mkb 42(H)"
+
+msgid "DH_MN9130ScopedPEWeapon.ItemName"
+msgstr "Mosin M91/30 (PE)"
+
+msgid "DH_MN9130ScopedWeapon.ItemName"
+msgstr "Mosin M91/30 (PU)"
+
+msgid "DH_MN9130Weapon.ItemName"
+msgstr "Mosin M91/30"
+
+msgid "DH_MP3008Weapon.ItemName"
+msgstr "MP 3008"
+
+msgid "DH_MP38Weapon.ItemName"
+msgstr "MP 38"
+
+msgid "DH_MP40Ammo.ItemName"
+msgstr "Magazynek na 32 naboje 9mm"
+
+msgid "DH_MP40Weapon.ItemName"
+msgstr "MP 40"
+
+msgid "DH_MP41RWeapon.ItemName"
+msgstr "MP 41(r)"
+
+msgid "DH_MP41Weapon.ItemName"
+msgstr "MP 41"
+
+msgid "DH_MillsBombWeapon.ItemName"
+msgstr "Bomba Millsa"
+
+msgid "DH_Nagant1895BramitWeapon.ItemName"
+msgstr "Nagant M1895 (BraMit)"
+
+msgid "DH_Nagant1895Weapon.ItemName"
+msgstr "Nagant M1895"
+
+msgid "DH_P08LugerWeapon.ItemName"
+msgstr "Luger P08"
+
+msgid "DH_P38Weapon.ItemName"
+msgstr "Walther P38"
+
+msgid "DH_PIATWeapon.ItemName"
+msgstr "PIAT"
+
+msgid "DH_PPD40Weapon.ItemName"
+msgstr "PPD-40"
+
+msgid "DH_PPS43Ammo.ItemName"
+msgstr "Magazynek do PPS43"
+
+msgid "DH_PPS43Weapon.ItemName"
+msgstr "PPS-43"
+
+msgid "DH_PPSH41_StickWeapon.ItemName"
+msgstr "PPSh-41 (35naboi)"
+
+msgid "DH_PPSh41Ammo.ItemName"
+msgstr "Magazynek na 71 nabojów 7.62mm"
+
+msgid "DH_PPSh41Weapon.ItemName"
+msgstr "PPSh-41"
+
+msgid "DH_PTRDWeapon.ItemName"
+msgstr "Karabin Przeciwpancerny PTRD-41"
+
+msgid "DH_PanzerFaustWeapon.ItemName"
+msgstr "Panzerfaust 60"
+
+msgid "DH_PanzerschreckWeapon.ItemName"
+msgstr "RPzB 54 'Panzerschrek'"
+
+msgid "DH_RPG43GrenadeWeapon.ItemName"
+msgstr "Granat Przeciwpancerny RPG-43"
+
+msgid "DH_STG44ScopedWeapon.ItemName"
+msgstr "StG 44 (ZF4)"
+
+msgid "DH_STG44Weapon.ItemName"
+msgstr "StG 44"
+
+msgid "DH_StielGranateWeapon.ItemName"
+msgstr "Granat StG 24"
+
+msgid "DH_TT33Weapon.ItemName"
+msgstr "TT-33"
+
+msgid "DH_ThompsonWeapon.ItemName"
+msgstr "M1A1 Thompson"
+
+msgid "DH_Kar98ScopedZF41Weapon.ItemName"
+msgstr "Karabiner 98k (ZF41)"
+
+msgid "DH_ColtM1914Weapon.ItemName"
+msgstr "Kongsberg Colten M/1914"
+
+msgid "DH_G43ScopedWeapon.ItemName"
+msgstr "G 43 (ZF4)"
+
+msgid "DH_M1CarbineWeapon.ItemName"
+msgstr "Karabinek M1"
+
+msgid "DH_SRCMMod35GrenadeWeapon.ItemName"
+msgstr "Granat SRCM Mod.35"
+
+msgid "DH_SRCMMod35SmokeGrenadeWeapon.ItemName"
+msgstr "Granat Dymny SRCM Mod.35"
+
+msgid "DH_SVT38Weapon.ItemName"
+msgstr "SVT-38"
+
+msgid "DH_SVT40ScopedWeapon.ItemName"
+msgstr "SVT-40 (PU)"
+
+msgid "DH_SVT40Weapon.ItemName"
+msgstr "SVT-40"
+
+msgid "DH_SatchelCharge10lb10sWeapon.ItemName"
+msgstr "Ładunek wybuchowy 3kg"
+
+msgid "DH_SpringfieldA1Weapon.ItemName"
+msgstr "Springfield M1903A1"
+
+msgid "DH_SpringfieldScopedWeapon.ItemName"
+msgstr "M1903A4 Springfield (M73 Weaver)"
+
+msgid "DH_StenMkIICWeapon.ItemName"
+msgstr "STEN Mk.II"
+
+msgid "DH_StenMkIIIWeapon.ItemName"
+msgstr "STEN Mk.III"
+
+msgid "DH_StenMkIIWeapon.ItemName"
+msgstr "STEN Mk.II"
+
+msgid "DH_StenMkVWeapon.ItemName"
+msgstr "STEN Mk.V"
+
+msgid "DH_VG15Weapon.ItemName"
+msgstr "VG 1-5"
+
+msgid "DH_VK98Weapon.ItemName"
+msgstr "VK 98"
+
+msgid "DH_ViSWeapon.ItemName"
+msgstr "ViS wz.35"
+
+msgid "DH_Vz24ScopedWeapon.ItemName"
+msgstr "Karabin Vz.24 (IOR)"
+
+msgid "DH_Vz24Weapon.ItemName"
+msgstr "Karabin Vz.24"
+
+msgid "DH_Winchester1897Weapon.ItemName"
+msgstr "Winchester Model 1897"
+
+msgid "DH_WitchEnder666Weapon.ItemName"
+msgstr "WitchEnder 666 'Zmora Szatana'"
+
+msgid "DH_Wz35Weapon.ItemName"
+msgstr "Fucile Controcarro 35(P)"
+
+msgid "DH_ZB30Weapon.ItemName"
+msgstr "Karabin Maszynowy ZB-30"
