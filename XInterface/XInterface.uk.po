@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 21:57+0000\n"
+"PO-Revision-Date: 2025-02-21 11:54+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/xinterface/uk/>\n"
@@ -19,7 +19,7 @@ msgid "ExtendedConsole.SMStateName[2]"
 msgstr "Підтвердження"
 
 msgid "ExtendedConsole.SMStateName[0]"
-msgstr "Голосове меню"
+msgstr "Меню голосових команд"
 
 msgid "GUIQuestionPage.ButtonNames<0>"
 msgstr "Ок"
