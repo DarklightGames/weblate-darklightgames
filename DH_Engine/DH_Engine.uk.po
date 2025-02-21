@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 11:54+0000\n"
+"PO-Revision-Date: 2025-02-21 20:32+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
@@ -309,7 +309,8 @@ msgid "DHGameMessage.VehicleTeamKilledMessage"
 msgstr "{0} убив союзника {1}."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<24>"
-msgstr "Ви можете {verb} тільки в межах {integer}м від дружнього {string}"
+msgstr ""
+"Ви можете {verb} {name} тільки в межах {integer}м від дружнього {string}"
 
 msgid "DHConstructionErrorMessage.ErrorMessages<23>"
 msgstr ""
@@ -1635,7 +1636,7 @@ msgstr ""
 "загонів."
 
 msgid "DHTeamSurrenderVoteMessage.VoteNominationsRemainingText"
-msgstr "Щоб розпочати голосування, потрібно {0} додатково номінувати {1}."
+msgstr "Щоб розпочати голосування, потрібно ще {0} заявок."
 
 msgid "DHVehicleCollisionDamageType.FemaleSuicide"
 msgstr "%o загинула в автокатастрофі."
