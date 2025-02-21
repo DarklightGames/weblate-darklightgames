@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 17:35+0000\n"
+"PO-Revision-Date: 2025-02-21 11:54+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/uk/>\n"
@@ -376,3 +376,42 @@ msgstr "NUM ."
 
 msgid "KeyNames.GreyMinus"
 msgstr "NUM -"
+
+msgid "Errors.NetListen"
+msgstr "Прослуховування не вдалося: контекст посилання відсутній"
+
+msgid "Progress.CancelledConnect"
+msgstr "Скасована спроба приєднання"
+
+msgid "Progress.NetReceiving"
+msgstr "Отримую '%s': %i/%i"
+
+msgid "Progress.NetReceiveOk"
+msgstr "Успішно отримано '%s'"
+
+msgid "Progress.NetSend"
+msgstr "Відправляю '%s'"
+
+msgid "Progress.NetSending"
+msgstr "Відправляю '%s': %i/%i"
+
+msgid "Progress.Listening"
+msgstr "Пошук клієнтів..."
+
+msgid "Progress.Paused"
+msgstr "%s призупинили гру"
+
+msgid "Progress.ReceiveOptionalFile"
+msgstr "Отримую додатковий файл '%s' (F10, щоб пропустити)"
+
+msgid "Progress.ReceiveFile"
+msgstr "Отримую '%s' (F10, щоб скасувати)"
+
+msgid "Progress.ReceiveSize"
+msgstr "Розмір %iK, Завершено %3.1f%%"
+
+msgid "Progress.CorruptConnect"
+msgstr "Несумісні файли гри!"
+
+msgid "Progress.RunningNet"
+msgstr "%s: %s (%i гравців)"
