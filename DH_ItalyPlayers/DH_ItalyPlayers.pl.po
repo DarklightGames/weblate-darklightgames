@@ -1,2 +1,25 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-02-21 20:32+0000\n"
+"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
+"Language-Team: Polish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_italyplayers/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "DHItalyVoice.SupportStringAxis[5]"
+msgstr "Potrzebujemy karabinu przeciwpancernego!"
+
+msgid "DHItalyVoice.SupportAbbrevAxis[5]"
+msgstr "Potrzebny Karabin Przeciwpancerny"
+
+msgid "DHNation_Italy.NationName"
+msgstr "Królestwo Włoch"
+
+msgid "DHItalyVoice.EnemyStringAxis[6]"
+msgstr "Czołg! Czołg!"
