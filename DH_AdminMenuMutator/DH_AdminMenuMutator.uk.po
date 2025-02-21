@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 21:57+0000\n"
+"PO-Revision-Date: 2025-02-21 11:54+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/uk/>\n"
@@ -253,7 +253,6 @@ msgstr ""
 "Натисніть Enter, щоб підтвердити, що ви хочете ВІДКЛЮЧИТИ можливість "
 "розміщення точок збору"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableRallyPoints"
 msgstr ""
 "Натисніть Enter, щоб підтвердити, що ви хочете УВІМКНУТИ можливість "
@@ -363,9 +362,8 @@ msgstr "Іконки гравців на карті УВІМКНЕНІ адмі�
 msgid "DHAdminMenu_NotifyMessages.BroadcastChangedGameSpeed"
 msgstr "Швидкість гри змінена адміністратором на x #insert_number#"
 
-#, fuzzy
 msgid "DHAdminMenu_NotifyMessages.BroadcastSetTimeRemaining"
-msgstr "Час раунду, що залишився, змінено адміністратором"
+msgstr "Залишок часу змінено адміністратором"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastAxisSquadSizeChanged"
 msgstr "Розмір загонів військ Осі було змінено адміністратором"
@@ -412,9 +410,8 @@ msgstr "[Гравець під прицілом]"
 msgid "DHAdminMenu_PlayerMenu.Label_ServerMenu"
 msgstr "M = меню сервера (загальні налаштування сервера)"
 
-#, fuzzy
 msgid "DHAdminMenu_PlayerMenu.MenuTitle"
-msgstr "АДМІНІСТРАТИВНЕ МЕНЮ ГРАВЦІВ"
+msgstr "МЕНЮ ГРАВЦІВ АДМІНІСТРАТОРА"
 
 msgid "DHAdminMenu_PrivateMessage.MessageHeader"
 msgstr "Ви отримали особисте повідомлення від адміністратора"
@@ -446,7 +443,6 @@ msgstr "Десантувати з парашутом усіх гравців у 
 msgid "DHAdminMenu_RealismMenu.MenuText<11>"
 msgstr "Вимкнути/увімкнути мінні поля"
 
-#, fuzzy
 msgid "DHAdminMenu_RealismMenu.MenuText<13>"
 msgstr "Вимкнути/увімкнути піктограму розташування гравця"
 
