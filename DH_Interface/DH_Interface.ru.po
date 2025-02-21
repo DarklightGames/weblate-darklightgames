@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-19 20:30+0000\n"
+"PO-Revision-Date: 2025-02-21 11:54+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -309,7 +309,7 @@ msgid "DHTab_Controls.ControlProfiles[1]"
 msgstr "По умолчанию (Сброс)"
 
 msgid "DHTab_Controls.captions_movement[12]"
-msgstr "Бег (нажатие)"
+msgstr "Бег (одинарное нажатие)"
 
 msgid "DHTab_Controls.captions_weapons[10]"
 msgstr "Переключить режим стрельбы"
