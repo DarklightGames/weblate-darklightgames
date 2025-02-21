@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 21:57+0000\n"
+"PO-Revision-Date: 2025-02-21 11:54+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/uk/>\n"
@@ -529,9 +529,8 @@ msgstr "Ви повинні встановити свою зброю для по
 msgid "ROTeamGame.PropsDisplayText[21]"
 msgstr "Мінімум мережевих гравців"
 
-#, fuzzy
 msgid "ROTeamGame.PropsDisplayText[28]"
-msgstr "Крос-командний приватний чат"
+msgstr "Приватний чат між командами"
 
 msgid "ROTeamGame.PropsDisplayText[29]"
 msgstr "Вигнати простоюючих граців через"
@@ -556,3 +555,24 @@ msgstr "Ліміт вбивств союзників"
 
 msgid "ROTeamGame.PropsDisplayText[39]"
 msgstr "Ліміт ушконджень союзників"
+
+msgid "ROTeamGame.PropsDisplayText[11]"
+msgstr "Дозволити вільне спостерігання після смерті"
+
+msgid "ROTeamGame.PropsDisplayText[20]"
+msgstr "Затримка мережі"
+
+msgid "ROTeamGame.PropsDisplayText[26]"
+msgstr "Балансувати команди ботами"
+
+msgid "ROTeamGame.PropsDisplayText[27]"
+msgstr "Балансувати команди гравцями"
+
+msgid "ROTeamGame.PropsDisplayText[33]"
+msgstr "Чорний екран після смерті"
+
+msgid "ROTeamGame.PropsDisplayText[40]"
+msgstr "Показувати IP серверу на сторінці рахунку"
+
+msgid "ROTeamGame.PropsDisplayText[41]"
+msgstr "Показувати час на сторінці рахунку"
