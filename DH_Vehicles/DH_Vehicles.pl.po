@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 17:57+0000\n"
+"PO-Revision-Date: 2025-02-21 20:32+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/pl/>\n"
@@ -36,3 +36,661 @@ msgstr "Mk.IV APC"
 
 msgid "DH_AchillesCannon.nProjectileDescriptions<1>"
 msgstr "Mk.I APDS"
+
+msgid "DH_Cromwell6PdrCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_CromwellCannon.nProjectileDescriptions<0>"
+msgstr "M61 APC"
+
+msgid "DH_JacksonCannon.nProjectileDescriptions<2>"
+msgstr "M71 HE-T"
+
+#, fuzzy
+msgid "DH_M7PriestCannon.nProjectileDescriptions<1>"
+msgstr "M60 WP"
+
+#, fuzzy
+msgid "DH_PantherDCannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Patr.42"
+
+msgid "DH_AutoblindaArmoredCar.VehicleNameString"
+msgstr "Autoblinda 41"
+
+msgid "DH_BA64ArmoredCar.VehicleNameString"
+msgstr "Samochód Opancerzony BA64"
+
+msgid "DH_AchillesTank.VehicleNameString"
+msgstr "Achilles Mk.IC"
+
+msgid "DH_Autoblinda43ArmoredCar.VehicleNameString"
+msgstr "Autoblinda 43"
+
+msgid "DH_BT7Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_CromwellTank.VehicleNameString"
+msgstr "Cromwell Mk.IV"
+
+msgid "DH_DUKW.VehicleNameString"
+msgstr "DUKW"
+
+msgid "DH_DUKWSupport.VehicleNameString"
+msgstr "DUKW (Wsparcie)"
+
+msgid "DH_Fiat626Truck.VehicleNameString"
+msgstr "Fiat 626"
+
+msgid "DH_Cromwell95mmTank.VehicleNameString"
+msgstr "Cromwell Mk.VI"
+
+msgid "DH_CromwellCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_CromwellCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_HetzerDestroyer.VehicleNameString"
+msgstr "Jagdpanzer 38(t) 'Hetzer'"
+
+#, fuzzy
+msgid "DH_JagdpanzerIVL70Destroyer.VehicleNameString"
+msgstr "Jagdpanzer IV/70(V)"
+
+msgid "DH_PanzerIIILTank.VehicleNameString"
+msgstr "Panzer III Ausf.L"
+
+msgid "DH_PanzerIIILTank_Camo.VehicleNameString"
+msgstr "Panzer III Ausf.M"
+
+msgid "DH_CromwellCannon.ProjectileDescriptions<2>"
+msgstr "Biały Fosfor"
+
+msgid "DH_FiatL640Tank.VehicleNameString"
+msgstr "Carro Armato L6/40"
+
+msgid "DH_AutocarrettaOM.VehicleNameString"
+msgstr "Autocarretta OM 36P"
+
+msgid "DH_AutocarrettaOMSupport.VehicleNameString"
+msgstr "Autocarretta OM 36Mt (Logistyczny)"
+
+msgid "DH_BT7Cannon.ProjectileDescriptions<0>"
+msgstr "APHE-T"
+
+msgid "DH_BT7Tank.VehicleNameString"
+msgstr "BT-7"
+
+msgid "DH_BrenCarrierTransport.VehicleNameString"
+msgstr "Bren Carrier Mk.I"
+
+msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<2>"
+msgstr "Biały Fosfor"
+
+msgid "DH_ChurchillMkVIITank.VehicleNameString"
+msgstr "Churchill Mk.VII"
+
+msgid "DH_CV33Tank.VehicleNameString"
+msgstr "Carro Armato L3/33"
+
+msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_Fiat626TruckSupport.VehicleNameString"
+msgstr "Fiat 626 (Logistyczny)"
+
+msgid "DH_Fiat626TruckTransport.VehicleNameString"
+msgstr "Fiat 626 (Transport)"
+
+msgid "DH_Cromwell6PdrCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_Cromwell6PdrTank.VehicleNameString"
+msgstr "Cromwell Mk.I"
+
+msgid "DH_Cromwell95mmCannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_Cromwell95mmCannon.ProjectileDescriptions<1>"
+msgstr "Dymny"
+
+msgid "DH_Cromwell95mmCannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_GreyhoundCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_GreyhoundCannon.ProjectileDescriptions<2>"
+msgstr "Kartacz"
+
+msgid "DH_HellcatCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_HellcatCannon.ProjectileDescriptions<1>"
+msgstr "HVAP"
+
+msgid "DH_Flak38Cannon.ProjectileDescriptions<0>"
+msgstr "Mieszana"
+
+msgid "DH_Flak38Cannon.ProjectileDescriptions<1>"
+msgstr "AP"
+
+msgid "DH_Flak38Cannon.ProjectileDescriptions<2>"
+msgstr "HE-T"
+
+msgid "DH_GAZ67Vehicle.VehicleNameString"
+msgstr "GAZ-67"
+
+msgid "DH_GMCTruck.VehicleNameString"
+msgstr "GMC CCKW"
+
+msgid "DH_GMCTruckSupport.VehicleNameString"
+msgstr "GMC CCKW (Logistyczny)"
+
+msgid "DH_GreyhoundArmoredCar.VehicleNameString"
+msgstr "Samochód Opancerzony M8"
+
+msgid "DH_GreyhoundArmoredCar_British.VehicleNameString"
+msgstr "Samochód Opancerzony Greyhound"
+
+msgid "DH_GreyhoundCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_HetzerVehicleMessage.MGBlockingHatch"
+msgstr "KM blokuje właz - obróć KM w bok aby otworzyć"
+
+msgid "DH_HigginsBoat.VehicleNameString"
+msgstr "Łódź Higginsa"
+
+msgid "DH_IS2Cannon.ProjectileDescriptions<0>"
+msgstr "AP"
+
+msgid "DH_IS2Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_IS2Cannon_Late.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_HellcatCannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_HellcatTank.VehicleNameString"
+msgstr "M18 Hellcat"
+
+msgid "DH_HetzerCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_HetzerCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_HetzerCannon.ProjectileDescriptions<2>"
+msgstr "Dymny"
+
+msgid "DH_IS2Cannon_Late.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_IS2Cannon_Late.nProjectileDescriptions<1>"
+msgstr "OF-471"
+
+msgid "DH_IS2Tank.VehicleNameString"
+msgstr "IS2"
+
+msgid "DH_JacksonCannon_Early.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_JacksonCannon_Early.ProjectileDescriptions<1>"
+msgstr "AP"
+
+msgid "DH_JacksonCannon_Early.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_JacksonTank.VehicleNameString"
+msgstr "M36 Jackson"
+
+msgid "DH_JagdpantherTank.VehicleNameString"
+msgstr "Jagdpanzer V 'Jagdpanther'"
+
+msgid "DH_ISU152Cannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_ISU152Cannon.ProjectileDescriptions<1>"
+msgstr "AP"
+
+msgid "DH_ISU152Cannon_Late.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_ISU152Cannon_Late.ProjectileDescriptions<1>"
+msgstr "APBC"
+
+msgid "DH_ISU152Destroyer.VehicleNameString"
+msgstr "ISU-152"
+
+msgid "DH_JacksonCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_JacksonCannon.ProjectileDescriptions<1>"
+msgstr "HVAP"
+
+msgid "DH_JacksonCannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+#, fuzzy
+msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions<2>"
+msgstr "Dymny"
+
+#, fuzzy
+msgid "DH_JagdpanzerIVL48Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+#, fuzzy
+msgid "DH_JagdpanzerIVL48Destroyer.VehicleNameString"
+msgstr "Jagdpanzer IV/48"
+
+#, fuzzy
+msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+#, fuzzy
+msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions<1>"
+msgstr "APCR"
+
+#, fuzzy
+msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+#, fuzzy
+msgid "DH_JagdtigerTank.VehicleNameString"
+msgstr "Jagdpanzer VI 'Jagdtiger' Ausf.B"
+
+#, fuzzy
+msgid "DH_KV1ETank.VehicleNameString"
+msgstr "KV-1E"
+
+#, fuzzy
+msgid "DH_KV1sCannon_Late.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_M16Halftrack.VehicleNameString"
+msgstr "HalftrackM16"
+
+msgid "DH_M3A1HalftrackTransport.VehicleNameString"
+msgstr "Halftrack M3A1"
+
+msgid "DH_M7Priest.VehicleNameString"
+msgstr "M7 Priest"
+
+#, fuzzy
+msgid "DH_M7PriestCannon.ProjectileDescriptions<0>"
+msgstr "HE-T"
+
+msgid "DH_M7PriestCannon.ProjectileDescriptions<1>"
+msgstr "Biały Fosfor"
+
+#, fuzzy
+msgid "DH_M7PriestCannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+#, fuzzy
+msgid "DH_KV1sCannon_Late.ProjectileDescriptions<1>"
+msgstr "HE"
+
+#, fuzzy
+msgid "DH_KV1sCannon_Late.ProjectileDescriptions<2>"
+msgstr "APCR"
+
+#, fuzzy
+msgid "DH_KV1sTank.VehicleNameString"
+msgstr "KV-1S"
+
+msgid "DH_KubelwagenCar_WH.VehicleNameString"
+msgstr "Volkswagen Typ 82"
+
+#, fuzzy
+msgid "DH_LocustCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+#, fuzzy
+msgid "DH_LocustCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_LocustCannon.ProjectileDescriptions<2>"
+msgstr "Kartacz"
+
+#, fuzzy
+msgid "DH_LocustTank.VehicleNameString"
+msgstr "M22 Locust **WIP**"
+
+#, fuzzy
+msgid "DH_Marder3MDestroyer.VehicleNameString"
+msgstr "Marder III Ausf.M"
+
+#, fuzzy
+msgid "DH_OpelBlitz.VehicleNameString"
+msgstr "Opel Blitz"
+
+msgid "DH_OpelBlitzSupport.VehicleNameString"
+msgstr "Opel Blitz (Logistyka)"
+
+#, fuzzy
+msgid "DH_OpelBlitzTransport.VehicleNameString"
+msgstr "Opel Blitz (Transport)"
+
+#, fuzzy
+msgid "DH_PantherDCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+#, fuzzy
+msgid "DH_PantherDCannon.ProjectileDescriptions<1>"
+msgstr "APCR"
+
+#, fuzzy
+msgid "DH_PantherDCannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+#, fuzzy
+msgid "DH_PantherDTank.VehicleNameString"
+msgstr "Panzer V 'Panther' Ausf.D"
+
+#, fuzzy
+msgid "DH_PanzerIIINCannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_PanzerIIINCannon.ProjectileDescriptions<1>"
+msgstr "HEAT"
+
+msgid "DH_PanzerIIINCannon.ProjectileDescriptions<2>"
+msgstr "Kartacz"
+
+msgid "DH_PanzerIIINTank.VehicleNameString"
+msgstr "Panzer III Ausf.N"
+
+#, fuzzy
+msgid "DH_PantherGTank.VehicleNameString"
+msgstr "Panzer V 'Panther' Ausf.G"
+
+#, fuzzy
+msgid "DH_PanzerIIIJTank.VehicleNameString"
+msgstr "Panzer III Ausf.J"
+
+#, fuzzy
+msgid "DH_PanzerIIILCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+#, fuzzy
+msgid "DH_PanzerIIILCannon.ProjectileDescriptions<1>"
+msgstr "APCR"
+
+#, fuzzy
+msgid "DH_PanzerIIILCannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions<1>"
+msgstr "HEAT"
+
+msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_PanzerIVF1Cannon.nProjectileDescriptions<1>"
+msgstr "Gr.38 Hl/B"
+
+msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<0>"
+msgstr "Granata Perforante da 20"
+
+msgid "DH_Autoblinda43Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_AchillesCannon.nProjectileDescriptions<2>"
+msgstr "Mk.I HE-T"
+
+msgid "DH_Autoblinda43Cannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.38"
+
+msgid "DH_BT7Cannon.nProjectileDescriptions<0>"
+msgstr "BR-240"
+
+msgid "DH_BT7Cannon.nProjectileDescriptions<1>"
+msgstr "O-240"
+
+msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<0>"
+msgstr "M61 APC"
+
+msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<1>"
+msgstr "M48 HE-T"
+
+msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<2>"
+msgstr "M89 WP"
+
+msgid "DH_Cromwell6PdrCannon.nProjectileDescriptions<0>"
+msgstr "Mk.IX APC"
+
+msgid "DH_Cromwell6PdrCannon.nProjectileDescriptions<1>"
+msgstr "Mk.X HE-T"
+
+msgid "DH_Cromwell95mmCannon.nProjectileDescriptions<0>"
+msgstr "Mk.IA HE-T"
+
+msgid "DH_Cromwell95mmCannon.nProjectileDescriptions<1>"
+msgstr "Mk.IA SMK-BE"
+
+msgid "DH_Cromwell95mmCannon.nProjectileDescriptions<2>"
+msgstr "Mk.I HEAT"
+
+msgid "DH_CromwellCannon.nProjectileDescriptions<1>"
+msgstr "M48 HE-T"
+
+msgid "DH_CromwellCannon.nProjectileDescriptions<2>"
+msgstr "M64 WP"
+
+msgid "DH_Flak38Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.+Sprgr.39"
+
+msgid "DH_Flak38Cannon.nProjectileDescriptions<1>"
+msgstr "PzGr."
+
+msgid "DH_Flak38Cannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.39"
+
+msgid "DH_GreyhoundCannon.nProjectileDescriptions<2>"
+msgstr "Kartacz M2"
+
+msgid "DH_HellcatCannon.nProjectileDescriptions<0>"
+msgstr "M62 APC"
+
+msgid "DH_HellcatCannon.nProjectileDescriptions<1>"
+msgstr "M93 HVAP"
+
+msgid "DH_GreyhoundCannon.nProjectileDescriptions<0>"
+msgstr "M51B1 APC"
+
+msgid "DH_GreyhoundCannon.nProjectileDescriptions<1>"
+msgstr "M63 HE-T"
+
+msgid "DH_HetzerCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+msgid "DH_HetzerCannon.nProjectileDescriptions<2>"
+msgstr "Nbgr.Kw.K"
+
+msgid "DH_IS2Cannon.nProjectileDescriptions<0>"
+msgstr "BR-471"
+
+msgid "DH_IS2Cannon.nProjectileDescriptions<1>"
+msgstr "OF-471"
+
+msgid "DH_IS2Cannon_Late.nProjectileDescriptions<0>"
+msgstr "BR-471B"
+
+msgid "DH_HellcatCannon.nProjectileDescriptions<2>"
+msgstr "M42A1 HE-T"
+
+msgid "DH_HetzerCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_ISU152Cannon_Late.nProjectileDescriptions<1>"
+msgstr "BR-540B"
+
+msgid "DH_JacksonCannon.nProjectileDescriptions<0>"
+msgstr "M82 APC"
+
+msgid "DH_JacksonCannon.nProjectileDescriptions<1>"
+msgstr "M304 HVAP"
+
+msgid "DH_ISU152Cannon.nProjectileDescriptions<0>"
+msgstr "OF-540"
+
+msgid "DH_ISU152Cannon.nProjectileDescriptions<1>"
+msgstr "BR-540"
+
+msgid "DH_ISU152Cannon_Late.nProjectileDescriptions<0>"
+msgstr "OF-540"
+
+msgid "DH_JagdpantherCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39/43"
+
+msgid "DH_JagdpantherCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr."
+
+msgid "DH_JacksonCannon_Early.nProjectileDescriptions<0>"
+msgstr "M82 APC"
+
+msgid "DH_JacksonCannon_Early.nProjectileDescriptions<1>"
+msgstr "M77 AP-T"
+
+msgid "DH_JacksonCannon_Early.nProjectileDescriptions<2>"
+msgstr "M71 HE-T"
+
+#, fuzzy
+msgid "DH_JagdpanzerIVL70Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39/42"
+
+#, fuzzy
+msgid "DH_JagdpanzerIVL70Cannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40/42"
+
+#, fuzzy
+msgid "DH_JagdpanzerIVL70Cannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Patr.42"
+
+#, fuzzy
+msgid "DH_JagdtigerCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+#, fuzzy
+msgid "DH_JagdpanzerIVL48Cannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+#, fuzzy
+msgid "DH_JagdpanzerIVL48Cannon.nProjectileDescriptions<2>"
+msgstr "Nbgr.Kw.K"
+
+#, fuzzy
+msgid "DH_JagdtigerCannon.nProjectileDescriptions<1>"
+msgstr "Schw.Spgr.Patr"
+
+#, fuzzy
+msgid "DH_KV1sCannon.nProjectileDescriptions<0>"
+msgstr "BR-350BSP"
+
+#, fuzzy
+msgid "DH_KV1sCannon.nProjectileDescriptions<1>"
+msgstr "OF-350"
+
+#, fuzzy
+msgid "DH_KV1sCannon_Late.nProjectileDescriptions<0>"
+msgstr "BR-350B"
+
+#, fuzzy
+msgid "DH_KV1sCannon_Late.nProjectileDescriptions<1>"
+msgstr "OF-350"
+
+#, fuzzy
+msgid "DH_LocustCannon.nProjectileDescriptions<1>"
+msgstr "M63 HE-T"
+
+#, fuzzy
+msgid "DH_M7PriestCannon.nProjectileDescriptions<0>"
+msgstr "M1 HE-T"
+
+msgid "DH_LocustCannon.nProjectileDescriptions<2>"
+msgstr "Kartacz M2"
+
+#, fuzzy
+msgid "DH_KV1sCannon_Late.nProjectileDescriptions<2>"
+msgstr "BR-350P"
+
+#, fuzzy
+msgid "DH_LocustCannon.nProjectileDescriptions<0>"
+msgstr "M51B1 APC"
+
+#, fuzzy
+msgid "DH_PantherDCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39/42"
+
+#, fuzzy
+msgid "DH_M7PriestCannon.nProjectileDescriptions<2>"
+msgstr "M67 HEAT"
+
+#, fuzzy
+msgid "DH_PantherDCannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40/42"
+
+#, fuzzy
+msgid "DH_Marder3MCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Marder3MCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+#, fuzzy
+msgid "DH_PanzerIIIJCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+#, fuzzy
+msgid "DH_PanzerIIIJCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.38"
+
+#, fuzzy
+msgid "DH_PanzerIIILCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_PanzerIIILCannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40"
+
+msgid "DH_PanzerIIINCannon.nProjectileDescriptions<0>"
+msgstr "Sprgr.Kw.K."
+
+msgid "DH_PanzerIIINCannon.nProjectileDescriptions<1>"
+msgstr "Gr.38 Hl/B"
+
+msgid "DH_PanzerIIINCannon.nProjectileDescriptions<2>"
+msgstr "Kt.Kw.K"
+
+msgid "DH_PanzerIVF1Cannon.nProjectileDescriptions<0>"
+msgstr "K.Gr.rot Pz."
+
+msgid "DH_PanzerIIILCannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Patr.38"
+
+msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<1>"
+msgstr "Granata da 20"
+
+msgid "DH_Fiat508CMTransport.VehicleNameString"
+msgstr "Fiat 508CM"
+
+msgid "DH_GMCTruckTransport.VehicleNameString"
+msgstr "GMC CCKW (Transport)"
+
+msgid "DH_GermanCarrierTransport.VehicleNameString"
+msgstr "Bren 731(e)"
