@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 17:57+0000\n"
+"PO-Revision-Date: 2025-02-21 20:32+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/ru/>\n"
@@ -458,7 +458,7 @@ msgid "DHAdminMenu_RealismMenu.MenuText<15>"
 msgstr "Установите новую скорость игры"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<16>"
-msgstr "Установить новое оставшееся время раунда (минуты)"
+msgstr "Установить новое значение оставшегося времени раунда (минуты)"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<18>"
 msgstr "Уничтожить субъект в вашем поле зрения"
