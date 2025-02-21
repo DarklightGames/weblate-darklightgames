@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 21:57+0000\n"
+"PO-Revision-Date: 2025-02-21 11:54+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/xvoting/uk/>\n"
@@ -17,3 +17,10 @@ msgstr "Обрана мапа вимкнена."
 
 msgid "MapVotingPage.lmsgMapVotingDisabled"
 msgstr "Голосування за мапу було вимкнено адміністратором."
+
+msgid "MapVotingPage.WindowName"
+msgstr "Голосування за мапу"
+
+msgid "MapVotingPage.lmsgReplicationNotFinished"
+msgstr ""
+"Триває завантаження даних о мапах. Будь ласка, спробуйте ще раз пізніше."
