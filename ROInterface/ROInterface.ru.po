@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-19 20:30+0000\n"
+"PO-Revision-Date: 2025-02-21 11:54+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ru/>\n"
@@ -301,7 +301,7 @@ msgid "ROControlBinder.BindingLabel[25]"
 msgstr "Присесть (удерживать)"
 
 msgid "ROControlBinder.BindingLabel[24]"
-msgstr "Присесть (нажать)"
+msgstr "Присесть (одинарное нажатие)"
 
 msgid "ROControlBinder.BindingLabel[26]"
 msgstr "Переключить движение вбок"
@@ -504,7 +504,7 @@ msgid "ROTab_Controls.captions_interface[2]"
 msgstr "Показать таблицу счёта (Удерживать)"
 
 msgid "ROTab_Controls.captions_interface[1]"
-msgstr "Показать таблицу счёта (Нажатие)"
+msgstr "Показать таблицу счёта (одинарное ажатие)"
 
 msgid "ROTab_Controls.captions_interface[3]"
 msgstr "Увеличить размер Игрового интерфейса (HUD)"
