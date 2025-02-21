@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"PO-Revision-Date: 2025-02-21 20:32+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/ru/>\n"
@@ -29,7 +29,7 @@ msgid "DH_SVT40ScopedWeapon.ItemName"
 msgstr "СВТ-40 (ПУ)"
 
 msgid "DH_M1928_50rndWeapon.ItemName"
-msgstr "ПП Томпсона M1928A1 (50 патронов)"
+msgstr "Томпсон M1928A1 (50 патронов)"
 
 msgid "DH_Kar98NoCoverWeapon.ItemName"
 msgstr "Kar.98k (открытая мушка)"
@@ -56,7 +56,7 @@ msgid "DH_P08LugerWeapon.ItemName"
 msgstr "Люгер P08"
 
 msgid "DH_EnfieldNo4Weapon.ItemName"
-msgstr "Ли-Энфилд №4"
+msgstr "Винтовка Ли-Энфилд No.4"
 
 msgid "DH_MN9130Weapon.ItemName"
 msgstr "Винтовка Мосина М91/30"
@@ -110,7 +110,7 @@ msgid "DH_DT29Ammo.ItemName"
 msgstr "Диск для ДТ-29"
 
 msgid "DH_EnfieldNo4ScopedWeapon.ItemName"
-msgstr "Ли-Энфилд №4 Mk.I (Т) (№32)"
+msgstr "Ли-Энфилд №4 Mk.I (Т) (No.32)"
 
 msgid "DH_ViSWeapon.ItemName"
 msgstr "Пистолет ViS wz.35"
@@ -122,7 +122,7 @@ msgid "DH_G41Weapon.ItemName"
 msgstr "Винтовка G-41(W)"
 
 msgid "DH_M2MortarVehicle.VehicleNameString"
-msgstr "60-мм миномет М2"
+msgstr "60-мм миномёт М2"
 
 msgid "DH_StenMkIIIWeapon.ItemName"
 msgstr "ПП СТЭН Мк.III"
@@ -149,7 +149,7 @@ msgid "DH_BARNoBipodWeapon.ItemName"
 msgstr "БАР M1918A2 (без сошек)"
 
 msgid "DH_M2MortarWeapon.ItemName"
-msgstr "60-мм миномет М2"
+msgstr "60-мм миномёт М2"
 
 msgid "DH_M44Weapon.ItemName"
 msgstr "Карабин Мосина М44"
@@ -194,7 +194,7 @@ msgid "DH_DP27Weapon.ItemName"
 msgstr "ДП-27"
 
 msgid "DH_M1928_30rndWeapon.ItemName"
-msgstr "ПП Томпсона M1928A1 (30 патронов)"
+msgstr "Томпсон M1928A1 (30 патронов)"
 
 msgid "DH_MP38Weapon.ItemName"
 msgstr "MP-38"
@@ -209,7 +209,7 @@ msgid "DH_M9531Weapon.ItemName"
 msgstr "Винтовка 31.М"
 
 msgid "DH_M1928_20rndWeapon.ItemName"
-msgstr "ПП Томпсона M1928A1 (20 патронов)"
+msgstr "Томпсон M1928A1 (20 патронов)"
 
 msgid "DH_BazookaWeapon.ItemName"
 msgstr "М1А1 Базука"
@@ -266,7 +266,7 @@ msgid "DH_BazookaM9Weapon.ItemName"
 msgstr "M9A1 Базука"
 
 msgid "DH_GreaseGunWeapon.ItemName"
-msgstr "ПП M3 \"Маслёнка\""
+msgstr "M3 \"Маслёнка\""
 
 msgid "DH_BARWeapon.ItemName"
 msgstr "БАР M1918A2"
@@ -299,7 +299,7 @@ msgid "DH_PPSH41_StickWeapon.ItemName"
 msgstr "ППШ-41 (35 патронов)"
 
 msgid "DH_EnfieldNo2Weapon.ItemName"
-msgstr "Револьвер Энфилд №2"
+msgstr "Револьвер Энфилд No.2"
 
 msgid "DH_PPD40Weapon.ItemName"
 msgstr "ППД-40"
@@ -329,7 +329,7 @@ msgid "DH_FG42ScopedWeapon.ItemName"
 msgstr "Винтовка парашютиста FG-42 (ZFG42)"
 
 msgid "DH_ThompsonWeapon.ItemName"
-msgstr "ПП Томпсона М1А1"
+msgstr "Томпсон М1А1"
 
 msgid "DH_STG44Weapon.ItemName"
 msgstr "Автомат StG 44"
@@ -350,7 +350,7 @@ msgid "DH_Wz35Weapon.ItemName"
 msgstr "Противотанковое ружье Wz.35"
 
 msgid "DH_MAB42Weapon.ItemName"
-msgstr "ПП MAB M1938/42"
+msgstr "МАБ M1938/42"
 
 msgid "DH_SRCMMod35SmokeGrenadeWeapon.ItemName"
 msgstr "Дымовая граната SCRM Mod.35"
