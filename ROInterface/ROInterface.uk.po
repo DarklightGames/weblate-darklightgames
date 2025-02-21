@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"PO-Revision-Date: 2025-02-21 20:32+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/uk/>\n"
@@ -196,7 +196,7 @@ msgid "ROControlBinder.BindingLabel[17]"
 msgstr "Пересування"
 
 msgid "ROControlBinder.BindingLabel[20]"
-msgstr "Вліво"
+msgstr "Стрейф ліворуч"
 
 msgid "ROControlBinder.BindingLabel[23]"
 msgstr "Крок"
@@ -301,7 +301,7 @@ msgid "ROControlBinder.BindingLabel[18]"
 msgstr "Вперед"
 
 msgid "ROControlBinder.BindingLabel[21]"
-msgstr "Вправо"
+msgstr "Стрейф праворуч"
 
 msgid "ROControlBinder.BindingLabel[22]"
 msgstr "Стрибок"
@@ -313,7 +313,7 @@ msgid "ROControlBinder.BindingLabel[25]"
 msgstr "Присісти (утримувати)"
 
 msgid "ROControlBinder.BindingLabel[26]"
-msgstr "Переключити рух вбік"
+msgstr "Переключити стрейф"
 
 msgid "ROControlBinder.BindingLabel[27]"
 msgstr "Наклон вліво"
@@ -600,10 +600,10 @@ msgid "ROTab_Controls.captions_movement[1]"
 msgstr "Назад"
 
 msgid "ROTab_Controls.captions_movement[2]"
-msgstr "Рух вліво"
+msgstr "Стрейф ліворуч"
 
 msgid "ROTab_Controls.captions_movement[3]"
-msgstr "Рух праворуч"
+msgstr "Стрейф праворуч"
 
 msgid "ROTab_Controls.captions_looking[5]"
 msgstr "Переключити на вигляд від 3-ї особи (Тільки в офлайн)"
