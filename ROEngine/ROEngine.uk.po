@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 11:54+0000\n"
+"PO-Revision-Date: 2025-02-21 20:32+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/uk/>\n"
@@ -394,7 +394,7 @@ msgid "ROVoicePack.VehicleDirectionAbbrev[4]"
 msgstr "Ліворуч"
 
 msgid "ROVoicePack.VehicleDirectionAbbrev[8]"
-msgstr "Трохи лівіше!"
+msgstr "Трохи лівіше"
 
 msgid "ROVoicePack.VehicleDirectionAbbrev[9]"
 msgstr "Трохи правіше"
