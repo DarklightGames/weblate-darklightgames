@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 23:21+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-02-21 11:54+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
 "Language: uk\n"
@@ -19,7 +19,6 @@ msgstr "Не можна використовувати ворожу зброю"
 msgid "DHATCannonMessage.CannotEnter"
 msgstr "Гармата вже зайнята"
 
-#, fuzzy
 msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
 msgstr "Завершити обертання"
 
@@ -2609,3 +2608,24 @@ msgstr "Вимірюється..."
 
 msgid "DHUnits.YardsSymbol"
 msgstr "yd"
+
+msgid "DHUnits.DistanceUnits<0>.Symbol"
+msgstr "uu"
+
+msgid "DHUnits.DistanceUnits<1>.Name"
+msgstr "Метри"
+
+msgid "DHUnits.DistanceUnits<1>.Symbol"
+msgstr "м"
+
+msgid "DHUnits.DistanceUnits<2>.Name"
+msgstr "Ярди"
+
+msgid "DHUnits.DistanceUnits<2>.Symbol"
+msgstr "ярд"
+
+msgid "DHSupplyMessage.SuppliesRefunded"
+msgstr "{0} запасів було повернуто на сусідні склади."
+
+msgid "DHUnits.DistanceUnits<0>.Name"
+msgstr "Одиниця вимірювання довжини Unreal™"
