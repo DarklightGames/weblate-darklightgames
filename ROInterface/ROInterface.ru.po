@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 11:54+0000\n"
+"PO-Revision-Date: 2025-02-21 20:32+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ru/>\n"
@@ -157,7 +157,7 @@ msgid "ROControlBinder.BindingLabel[6]"
 msgstr "Лечь"
 
 msgid "ROControlBinder.BindingLabel[7]"
-msgstr "Примкнуть штык / Установить пулемёт"
+msgstr "Примкнуть штык / Установить пулемёт в боевое положение"
 
 msgid "ROControlBinder.BindingLabel[8]"
 msgstr "Сменить ствол пулемёта"
