@@ -1,15 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-19 04:39+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
-"Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
-"darkesthour/roengine/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.2.1\n"
+"Content-Type: text/plain\n"
+"Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
 
 msgid "ROAmmoWeightMessage.HeavyMessage"
 msgstr "新しい弾倉は重い"
@@ -19,3 +13,1092 @@ msgstr "新しい弾倉は軽い"
 
 msgid "ROAmmoWeightMessage.VeryLightMessage"
 msgstr "新しい弾倉はとても軽い"
+
+msgid "ROArtilleryMsg.SavedPosition"
+msgstr "砲撃座標決定"
+
+msgid "ROArtilleryMsg.RequestStrike"
+msgstr "小隊指揮官より砲撃要請"
+
+msgid "ROArtilleryMsg.StrikeDenied"
+msgstr "司令部は砲撃要請を認可できない"
+
+msgid "ROArtilleryMsg.StrikeConfirmed"
+msgstr "司令部は砲撃要請を認可|砲撃可能回数 残り"
+
+msgid "ROArtilleryMsg.NoCoords"
+msgstr "砲撃座標が指定されていない!"
+
+msgid "ROArtilleryMsg.InvalidTarget"
+msgstr "その場所には砲撃できない!"
+
+msgid "ROArtilleryMsg.OutOfStrikes"
+msgstr "我々は弾薬を使い果たした。|要請を許可することはできない。"
+
+msgid "ROArtilleryMsg.TryAgainLater"
+msgstr "我々は別の砲撃任務を遂行中である。|当分要請を許可することはできない。"
+
+msgid "ROArtilleryMsg.TryAgainSoon"
+msgstr "もうしばらくしたら要請を許可することができる。"
+
+msgid "ROArtilleryMsg.StrikesRemaining"
+msgstr "回"
+
+msgid "ROArtilleryMsg.NoArtyAvailable"
+msgstr "使用可能な砲撃支援は無い"
+
+msgid "ROBipodWarningMsg.DeployToFire"
+msgstr "この銃で射撃するには二脚を展開し、設置しなければならない！"
+
+msgid "ROBipodWarningMsg.DeployToReload"
+msgstr "この銃の装填には二脚を展開し、設置しなければならない！"
+
+msgid "RODaddyMessage.DaddyMessage"
+msgstr "アンタリアンはあなたのお父さんです!"
+
+msgid "RODeathMessage.KilledString"
+msgstr "は殺された。 殺害者は"
+
+msgid "RODeathMessage.SomeoneString"
+msgstr "誰か"
+
+msgid "RODemolitionChargePlacedMsg.DemoChargePlaced"
+msgstr "爆薬が設置された!注意しろ!"
+
+msgid "ROGameMessage.NewTeamMessageRussian"
+msgstr "は連合軍に参戦した。"
+
+msgid "ROGameMessage.NewTeamMessageGerman"
+msgstr "は枢軸軍に参戦した。"
+
+msgid "ROGameMessage.FFKillMessage"
+msgstr "は仲間を殺害した。"
+
+msgid "ROGameMessage.FFViolationMessage"
+msgstr "強制除隊"
+
+msgid "ROGameMessage.FFDamageMessage"
+msgstr "貴様は仲間を傷つけた!"
+
+msgid "ROGameMessage.RoleChangeMsg"
+msgstr "転属願いを提出した。 転属先:"
+
+msgid "ROGameMessage.MaxRoleMsg"
+msgstr "転属願いは認可されなかった。 転属先:"
+
+msgid "ROGameMessage.TypeForgiveMessage"
+msgstr "は仲間であるあなたを殺害してしまいました。\\"np\\"もしくは\\"forgive\\"とタイプして許してあげてください。"
+
+msgid "ROGameMessage.HasForgivenMessage"
+msgstr "は寛大な心で許した。対象者："
+
+msgid "ROGameMessage.YouHaveLoggedInAsAdminMsg"
+msgstr "あなたは管理者としてログインしました。"
+
+msgid "ROGameMessage.LeftMessage"
+msgstr "が戦線を離脱した。"
+
+msgid "ROGameMessage.EnteredMessage"
+msgstr "が戦場に到着した。"
+
+msgid "ROGameMessage.NewPlayerMessage"
+msgstr "新たなる兵士が戦場に投入される。"
+
+msgid "ROHintManager.Hints[0].Title"
+msgstr "ようこそ"
+
+msgid "ROHintManager.Hints[0].Hint"
+msgstr "Red Orchestraによく来たな!||貴様が生き残れるよう私がこのようなメッセージでアドバイスしてやるから注意しておけ! このメッセージは設定メニューのHUDの項目で消すこともできるが新兵はそんなことしないよな!?"
+
+msgid "ROHintManager.Hints[1].Title"
+msgstr "スタミナ"
+
+msgid "ROHintManager.Hints[1].Hint"
+msgstr "走ったり飛んだりしているとスタミナが減ってゆき、息が切れて走れなくなるだろう。|そんな時は少し立ち止まってスタミナが回復するのを待つんだ。|だからと言って戦場のど真ん中で立ち止まるなよ!"
+
+msgid "ROHintManager.Hints[2].Title"
+msgstr "ジャンプ"
+
+msgid "ROHintManager.Hints[2].Hint"
+msgstr "貴様らのようにやわな奴は何度もジャンプしているとすぐスタミナがなくなるから注意しろ!"
+
+msgid "ROHintManager.Hints[3].Title"
+msgstr "傾き"
+
+msgid "ROHintManager.Hints[3].Hint"
+msgstr "%LeanRight%キーや%LeanLeft%キーを押すと体を傾けられる。建物の角などで使えば貴様らのたるんだ腹を敵に見せずに攻撃することできるだろう。"
+
+msgid "ROHintManager.Hints[4].Title"
+msgstr "兵科選択"
+
+msgid "ROHintManager.Hints[4].Hint"
+msgstr "%SHOWMENU%キーを押して兵科を選択すれば復活時にその兵科に転属できる。|本来なら貴様らには兵科を選ぶ権利などないが、このゲームでは私が特別に兵科を選べるようにしておいたから感謝しろ!"
+
+msgid "ROHintManager.Hints[5].Title"
+msgstr "銃眼視点(アイアンサイト)"
+
+msgid "ROHintManager.Hints[5].Hint"
+msgstr "%ROIronSights%キー押せば銃眼視点になる。|腰だめより狙いやすくなるから射撃が下手糞な貴様らには嬉しい機能だろう!"
+
+msgid "ROHintManager.Hints[6].Title"
+msgstr "精度"
+
+msgid "ROHintManager.Hints[6].Hint"
+msgstr "フルオートの銃を使うときは2発、3発ずつで射撃しろ。引き金を引きっぱなしで敵を殺せると思ったら大間違いだ!"
+
+msgid "ROHintManager.Hints[7].Title"
+msgstr "座席"
+
+msgid "ROHintManager.Hints[7].Hint"
+msgstr "数字キー(%SWITCHWEAPON 1%, %SWITCHWEAPON 2%, %SWITCHWEAPON 3%, ...)を押せば車両での座席位置を変更できる。|他の乗組員の迷惑にならない座席に座るんだな!"
+
+msgid "ROHintManager.Hints[8].Title"
+msgstr "乗組員"
+
+msgid "ROHintManager.Hints[8].Hint"
+msgstr "戦車は1人だけ乗っていてもまともに機能しなから他の乗組員も乗車させろ。貴様らのような半人前は数人集まってようやく一人前なんだからな!"
+
+msgid "ROHintManager.Hints[9].Title"
+msgstr "戦況マップ"
+
+msgid "ROHintManager.Hints[9].Hint"
+msgstr "%SHOWOBJECTIVES%キーを押して地図を確認することは重要だ。こまめに確認して人手が必要な場所に向かえ。"
+
+msgid "ROHintManager.Hints[10].Title"
+msgstr "弱点"
+
+msgid "ROHintManager.Hints[10].Hint"
+msgstr "戦車にはそれぞれ弱点がある。車体と砲塔基部や操縦手の展望窓を狙うんだ!"
+
+msgid "ROHintManager.Hints[11].Title"
+msgstr "砲弾の種類"
+
+msgid "ROHintManager.Hints[11].Hint"
+msgstr "%SwitchFireMode%キーを押せば砲弾の種類を切り替えることができる。"
+
+msgid "ROHintManager.Hints[12].Title"
+msgstr "弾薬の装填"
+
+msgid "ROHintManager.Hints[12].Hint"
+msgstr "%ROManualReload%を押せば新しい弾倉に交換することができる。'新しい弾倉は重い'と出ればその弾倉には半分以上の弾が残っている。敵の目の前で弾倉が空っぽ、なんてことがないように常に注意しておけ!"
+
+msgid "ROHintManager.Hints[13].Title"
+msgstr "ソビエト軍の手榴弾"
+
+msgid "ROHintManager.Hints[13].Hint"
+msgstr "%FIRE%キーを押しながら%ALTFIRE%キーを押せば手榴弾を'料理'することができる。|程よく料理できたら%FIRE%キーを離して思い切り投げろ。|ただし料理しすぎて自分の手の中で爆発させるなよ!"
+
+msgid "ROHintManager.Hints[14].Title"
+msgstr "集合地点"
+
+msgid "ROHintManager.Hints[14].Hint"
+msgstr "双眼鏡を覗いているとき集合地点を決定するには%AltFire%キーを押せ。集合地点は仲間全員の戦況マップに表示される。"
+
+msgid "ROHintManager.Hints[15].Title"
+msgstr "砲撃座標"
+
+msgid "ROHintManager.Hints[15].Hint"
+msgstr "砲撃座標を決定するには双眼鏡を覗いた状態で%Fire%キーを押すんだ。砲撃座標が指定できたら無線機の前で%USE%キーを押し、砲撃を要請しろ。要請後はすばやく身を隠し、味方への注意を忘れるな！"
+
+msgid "ROHintManager.Hints[16].Title"
+msgstr "機関銃の装填"
+
+msgid "ROHintManager.Hints[16].Hint"
+msgstr "機関銃は設置した状態でしか装填できないから注意しろ。"
+
+msgid "ROHintManager.Hints[17].Title"
+msgstr "弾薬要請"
+
+msgid "ROHintManager.Hints[17].Hint"
+msgstr "機関銃の弾が不足してきたら%SpeechMenuToggle%キーでボイスメニューを呼び出し、仲間に弾薬補給を要請するんだ。弾薬を要請すると戦況マップに表示される。"
+
+msgid "ROHintManager.Hints[18].Title"
+msgstr "機関銃の設置"
+
+msgid "ROHintManager.Hints[18].Hint"
+msgstr "機関銃を設置中は無防備になるから仲間に背中を守ってもらえ！"
+
+msgid "ROHintManager.Hints[19].Title"
+msgstr "銃剣"
+
+msgid "ROHintManager.Hints[19].Hint"
+msgstr "幾つかの銃では銃剣が使用できる。%Deploy%キーで着剣し、%AltFire%キーで敵の胸に突き立てろ！"
+
+msgid "ROHintManager.Hints[20].Title"
+msgstr "パンツァーファウストでの照準"
+
+msgid "ROHintManager.Hints[20].Hint"
+msgstr "パンツァーファウストは%Deploy%キーで照準距離を変更することができる。敵との位置をよく考えて照準距離を調整するんだ。"
+
+msgid "ROHintManager.Hints[21].Title"
+msgstr "手榴弾"
+
+msgid "ROHintManager.Hints[21].Hint"
+msgstr "手榴弾の殺傷範囲は広い。物陰に隠れるか遠くに離れるんだ。"
+
+msgid "ROHintManager.Hints[22].Title"
+msgstr "攻撃を受けている目標"
+
+msgid "ROHintManager.Hints[22].Hint"
+msgstr "目標のアイコンが光っている時はその目標が攻撃を受けている。仲間が攻撃しているのか、防御しているのか関係なく彼らは貴官の援護を必要としているだろう。"
+
+msgid "ROHintManager.Hints[23].Title"
+msgstr "集合地点"
+
+msgid "ROHintManager.Hints[23].Hint"
+msgstr "分隊長は戦況マップをクリックすることによって集合地点を決定でき、全ての仲間は地図上でその集合地点を確認することができる。"
+
+msgid "ROHintManager.Hints[24].Title"
+msgstr "命令と要請"
+
+msgid "ROHintManager.Hints[24].Hint"
+msgstr "分隊長は特定目標の攻撃/防御命令を下すことができ、それらの目標は戦況マップに表示される。同様に弾薬要請も戦況マップに表示される。"
+
+msgid "ROHintManager.Hints[25].Title"
+msgstr "機関銃弾薬の補給"
+
+msgid "ROHintManager.Hints[25].Hint"
+msgstr "弾薬補給が必要な機関銃手を見つけたら%ThrowMGAmmo%キーで弾薬を渡せ。"
+
+msgid "ROHintManager.Hints[26].Title"
+msgstr "得点"
+
+msgid "ROHintManager.Hints[26].Hint"
+msgstr "目標を制圧することができれば10点の得点が与えられる。"
+
+msgid "ROHintManager.Hints[27].Title"
+msgstr "目標の制圧"
+
+msgid "ROHintManager.Hints[27].Hint"
+msgstr "目標を制圧するにはまず制圧可能区域に入らなければならない。制圧可能区域に入ることができたらHUD上に制圧状況を示すバーが表示される。完全に制圧するにはさらに2人以上が必要となるだろう。"
+
+msgid "ROHintManager.Hints[28].Title"
+msgstr "精度"
+
+msgid "ROHintManager.Hints[28].Hint"
+msgstr "射撃時に屈む、または伏せることで銃の反動を抑え安定させることができる。%duck%キーで屈み、%prone%キーで伏せる。落ち着いて撃つ、これは基本中の基本だ！"
+
+msgid "ROHintManager.Hints[29].Title"
+msgstr "銃身の交換"
+
+msgid "ROHintManager.Hints[29].Hint"
+msgstr "%ROMGOperation%キーで機関銃の銃身を交換することができる。ただしDP 28の銃身は交換できないから過熱しすぎないように注意しろ！"
+
+msgid "ROHintManager.Hints[30].Title"
+msgstr "士官"
+
+msgid "ROHintManager.Hints[30].Hint"
+msgstr "士官の存在は仲間の士気を高め、目標制圧を容易にする。無能な指揮官は部隊を滅ぼすぞ！"
+
+msgid "ROHintManager.Hints[31].Title"
+msgstr "飛び込み伏せ"
+
+msgid "ROHintManager.Hints[31].Hint"
+msgstr "走っている時に%PRONE%キーを押せば飛び込みながら伏せることができる。手榴弾が飛んできた時や敵に狙われた時はこのテクニックで素早く身を隠せ！"
+
+msgid "ROHintManager.Hints[32].Title"
+msgstr "機関銃手への攻撃"
+
+msgid "ROHintManager.Hints[32].Hint"
+msgstr "設置された機関銃は驚異だが視野は限られている。射線に入らないよう側面から攻撃するんだ。"
+
+msgid "ROHintManager.Hints[33].Title"
+msgstr "依託射撃"
+
+msgid "ROHintManager.Hints[33].Hint"
+msgstr "机や壁など水平もしくは垂直な面を利用すれば安定した射撃を行うことができる。依託状態は画面右下に表示される。"
+
+msgid "ROHintManager.Hints[34].Title"
+msgstr "視点位置"
+
+msgid "ROHintManager.Hints[34].Hint"
+msgstr "車両乗車時は%PREVWEAPON%キーもしくは%NEXTWEAPON%キーで視点の位置を変更できる場合がある。ハッチから顔を出せば視界は広くなるが、攻撃される可能性も高くなるから注意しろ！"
+
+msgid "ROHintManager.Hints[35].Title"
+msgstr "戦車の操縦"
+
+msgid "ROHintManager.Hints[35].Hint"
+msgstr "戦車の方向転換やスロットル制御は移動キーを、ブレーキをかけるには%JUMP%キーを使え。"
+
+msgid "ROHintManager.Hints[36].Title"
+msgstr "装甲"
+
+msgid "ROHintManager.Hints[36].Hint"
+msgstr "敵戦車と交戦する時、正面装甲が一番頑丈であることを思い出せ。なるべく遠くから、わずかに角度を取って戦うのだ。"
+
+msgid "ROHintManager.Hints[37].Title"
+msgstr "砲の射撃範囲"
+
+msgid "ROHintManager.Hints[37].Hint"
+msgstr "砲の射撃範囲を変更するには%LEANLEFT%キーと%LEANRIGHT%キーを使え。画面上に現在の射撃範囲が表示される。"
+
+msgid "ROHintManager.Hints[38].Title"
+msgstr "同軸機銃"
+
+msgid "ROHintManager.Hints[38].Hint"
+msgstr "大概の戦車は主砲の他に同軸機銃を備えている。%ALTFIRE%.キーを押せば砲手席から機銃を発射することができる。注:射撃範囲調整は同軸機銃に影響を与えない。"
+
+msgid "ROHintManager.Hints[39].Title"
+msgstr "梱包爆薬"
+
+msgid "ROHintManager.Hints[39].Hint"
+msgstr "梱包爆薬には高性能爆薬が詰め込まれていて敵車両や、破壊目標の爆破に使用される。全ての戦場に破壊可能な目標があるわけではなく、特定の破壊目標がある場合にのみ戦況マップに印が記入される。"
+
+msgid "ROHintManager.Hints[40].Title"
+msgstr "ドイツ軍の手榴弾"
+
+msgid "ROHintManager.Hints[40].Hint"
+msgstr "ドイツ軍の手榴弾は%FIRE%キー、%ALTFIRE%キーのどちらでもすぐさまヒューズに点火される。"
+
+msgid "ROHintManager.Hints[41].Title"
+msgstr "機関銃の設置"
+
+msgid "ROHintManager.Hints[41].Hint"
+msgstr "機関銃を安定して射撃するには設置して使用する必要がある。伏せていたり、近くに水平で設置可能な場所がある場合はHUD右下にアイコンが表示される。アイコンが表示されたら%Deploy%キーで設置しろ。"
+
+msgid "ROHintManager.Hints[42].Title"
+msgstr "殴打攻撃"
+
+msgid "ROHintManager.Hints[42].Hint"
+msgstr "%ALTFIRE%キーを押せば持っている武器で敵を殴打することができる。キーを長く押しているほど攻撃力が増す。素早く倒すには敵の頭部めがけて叩き込め！"
+
+msgid "ROHintManager.Hints[43].Title"
+msgstr "ボルト操作"
+
+msgid "ROHintManager.Hints[43].Hint"
+msgstr "ボルトアクションの小銃を使用する場合はボルト操作が必要となる。射撃した後、弾薬を薬室に送り込むためもう一度%FIRE%キーを押せ。ダブルクリックで射撃とボルト操作を迅速にするんだ。"
+
+msgid "ROHintManager.Hints[44].Title"
+msgstr "重要報告"
+
+msgid "ROHintManager.Hints[44].Hint"
+msgstr "重要な情報は画面左上の角に表示される。戦況を知るために常に注意しろ。"
+
+msgid "ROHud.ReinforcementText"
+msgstr "援軍到着まで : "
+
+msgid "ROHud.TimeRemainingText"
+msgstr "残り時間 : "
+
+msgid "ROHud.TimeText"
+msgstr "時間: "
+
+msgid "ROHud.ViewingText"
+msgstr "観戦中 : "
+
+msgid "ROHud.NoReinforcementsText"
+msgstr "援軍はもう来ない"
+
+msgid "ROHud.TeamMessagePrefix"
+msgstr "*小隊* "
+
+msgid "ROHud.ObjectivesText"
+msgstr "目標"
+
+msgid "ROHud.NeedAmmoText"
+msgstr "弾薬が必要"
+
+msgid "ROHud.CanResupplyText"
+msgstr "%THROWMGAMMO%キーで補給"
+
+msgid "ROHud.OpenMapText"
+msgstr "%SHOWOBJECTIVES%キーで開く"
+
+msgid "ROHud.SituationMapInstructionsText"
+msgstr "%SHOWOBJECTIVES%キーで戦況マップを表示/非表示"
+
+msgid "ROHud.LegendAxisObjectiveText"
+msgstr "枢軸軍制圧地域"
+
+msgid "ROHud.LegendAlliesObjectiveText"
+msgstr "連合軍制圧地域"
+
+msgid "ROHud.LegendNeutralObjectiveText"
+msgstr "未制圧地域"
+
+msgid "ROHud.LegendArtilleryRadioText"
+msgstr "無線機"
+
+msgid "ROHud.LegendResupplyAreaText"
+msgstr "補給所"
+
+msgid "ROHud.LegendRallyPointText"
+msgstr "集合地点"
+
+msgid "ROHud.LegendSavedArtilleryText"
+msgstr "砲撃予定座標"
+
+msgid "ROHud.LegendOrderTargetText"
+msgstr "命令目標"
+
+msgid "ROHud.LegendArtyStrikeText"
+msgstr "砲撃中座標"
+
+msgid "ROHud.LegendHelpRequestText"
+msgstr "援護要請"
+
+msgid "ROHud.LegendDestroyableItemText"
+msgstr "破壊目標"
+
+msgid "ROHud.LegendDestroyedItemText"
+msgstr "破壊目標"
+
+msgid "ROHud.LegendMGResupplyText"
+msgstr "弾薬の要請"
+
+msgid "ROHud.LegendVehResupplyAreaText"
+msgstr "車両用補給所"
+
+msgid "ROHud.LegendATGunText"
+msgstr "対戦車砲"
+
+msgid "ROHud.MapTimerTitle.Text"
+msgstr "残り時間"
+
+msgid "ROHud.MapLegendTitle.Text"
+msgstr "記号一覧"
+
+msgid "ROHud.MapObjectivesTitle.Text"
+msgstr "目標"
+
+msgid "ROHud.MapRequiredObjectivesTitle.Text"
+msgstr "必須目標"
+
+msgid "ROHud.MapSecondaryObjectivesTitle.Text"
+msgstr "副目標"
+
+msgid "ROLastObjectiveMsg.AboutToWin"
+msgstr "最後の目標---我々の勝利は目前だ!"
+
+msgid "ROLastObjectiveMsg.AboutToLose"
+msgstr "最後の目標---我々にはもう後がない!"
+
+msgid "ROLevelInfo.Axis.UnitName"
+msgstr "枢軸軍"
+
+msgid "ROLevelInfo.Allies.UnitName"
+msgstr "連合軍"
+
+msgid "ROLevelInfo.AxisUnitDescription"
+msgstr "このマップでの枢軸軍の部隊情報を設定してください。"
+
+msgid "ROLevelInfo.AlliesUnitDescription"
+msgstr "このマップでの連合軍の部隊情報を設定してください。"
+
+msgid "ROMineVolume.WarningMessage"
+msgstr "警告: ここは地雷原だ! 直ちに離れろ!"
+
+msgid "ROObjectiveMsg.AxisCapture"
+msgstr "枢軸軍が拠点を確保|拠点:"
+
+msgid "ROObjectiveMsg.AlliesCapture"
+msgstr "連合軍が拠点を確保|拠点:"
+
+msgid "ROObjectiveMsg.AxisTriggeredMessage"
+msgstr "枢軸軍が目標を破壊|目標:"
+
+msgid "ROObjectiveMsg.AlliesTriggeredMessage"
+msgstr "連合軍が目標を破壊した|目標:"
+
+msgid "ROPlayer.SpectatingModeName[0]"
+msgstr "自分視点"
+
+msgid "ROPlayer.SpectatingModeName[1]"
+msgstr "偵察"
+
+msgid "ROPlayer.SpectatingModeName[2]"
+msgstr "プレイヤー視点"
+
+msgid "ROPlayer.SpectatingModeName[3]"
+msgstr "ビューポイント観戦"
+
+msgid "RORallyMsg.SavedPosition"
+msgstr "集合地点決定"
+
+msgid "RORallyMsg.CheckObjectives"
+msgstr "集合地点が指示された - 地図を確認しろ!"
+
+msgid "RORallyMsg.RallySpam"
+msgstr "集合地点はすでに指示済みだ!"
+
+msgid "ROReinforcementMsg.LowReinforcements"
+msgstr "援軍が不足している!"
+
+msgid "ROReinforcementMsg.NoReinforcements"
+msgstr "援軍が途絶えた!"
+
+msgid "ROResetGameMsg.CountdownLeftSide"
+msgstr "ゲームのリスタートまであと"
+
+msgid "ROResetGameMsg.CountdownRightSide"
+msgstr "秒"
+
+msgid "ROResetGameMsg.GameRestarting"
+msgstr "ゲームはりスター途中です。"
+
+msgid "ROResupplyMessage.ResuppliedGunner"
+msgstr "弾薬を補給した 補給相手:"
+
+msgid "ROResupplyMessage.BeenResupplied"
+msgstr "弾薬を受け取った 提供者:"
+
+msgid "RORoleInfo.InfoText"
+msgstr "提供される情報はない。"
+
+msgid "RORoundOverMsg.AxisWins"
+msgstr "枢軸軍が勝利した!"
+
+msgid "RORoundOverMsg.AlliesWins"
+msgstr "連合軍が勝利した!"
+
+msgid "RORoundOverMsg.NoDecisiveOutcome"
+msgstr "勝敗は決まらなかった"
+
+msgid "ROSayDeadMessage.MessagePrefix"
+msgstr "(死亡) "
+
+msgid "ROSayDeadMessage.SpecPrefix"
+msgstr "(非戦闘員) "
+
+msgid "ROTankCannon.ProjectileDescriptions<0>"
+msgstr "徹甲弾"
+
+msgid "ROTankCannon.ProjectileDescriptions<1>"
+msgstr "榴弾"
+
+msgid "ROTeamGame.PropsDisplayText[0]"
+msgstr "Botの熟練度"
+
+msgid "ROTeamGame.PropsDisplayText[1]"
+msgstr "マップ巡回を使用"
+
+msgid "ROTeamGame.PropsDisplayText[2]"
+msgstr "ゲーム速度"
+
+msgid "ROTeamGame.PropsDisplayText[3]"
+msgstr "最大観戦者数"
+
+msgid "ROTeamGame.PropsDisplayText[4]"
+msgstr "最大プレイヤー数"
+
+msgid "ROTeamGame.PropsDisplayText[5]"
+msgstr "制限時間"
+
+msgid "ROTeamGame.PropsDisplayText[6]"
+msgstr "三人称視点を許可"
+
+msgid "ROTeamGame.PropsDisplayText[7]"
+msgstr "一人称視点での観戦のみ"
+
+msgid "ROTeamGame.PropsDisplayText[8]"
+msgstr "三人称視点での観戦不可"
+
+msgid "ROTeamGame.PropsDisplayText[9]"
+msgstr "ビューポイント観戦を許可"
+
+msgid "ROTeamGame.PropsDisplayText[10]"
+msgstr "散策観戦を許可"
+
+msgid "ROTeamGame.PropsDisplayText[11]"
+msgstr "死亡後の散策観戦を許可"
+
+msgid "ROTeamGame.PropsDisplayText[12]"
+msgstr "Adminのポーズを許可"
+
+msgid "ROTeamGame.PropsDisplayText[13]"
+msgstr "最小プレイヤー数"
+
+msgid "ROTeamGame.PropsDisplayText[14]"
+msgstr "Botモード"
+
+msgid "ROTeamGame.PropsDisplayText[15]"
+msgstr "試合終了後の猶予"
+
+msgid "ROTeamGame.PropsDisplayText[16]"
+msgstr "熟練度自動調節"
+
+msgid "ROTeamGame.PropsDisplayText[17]"
+msgstr "勝利数制限"
+
+msgid "ROTeamGame.PropsDisplayText[18]"
+msgstr "ラウンド数制限"
+
+msgid "ROTeamGame.PropsDisplayText[19]"
+msgstr "開始までの待ち時間"
+
+msgid "ROTeamGame.PropsDisplayText[26]"
+msgstr "Botのチームバランス自動調整"
+
+msgid "ROTeamGame.PropsDisplayText[27]"
+msgstr "チームバランスを自動調整"
+
+msgid "ROTeamGame.PropsDisplayText[29]"
+msgstr "動かないプレイヤーをKickするまでの時間"
+
+msgid "ROTeamGame.PropsDisplayText[31]"
+msgstr "死亡メッセージモード"
+
+msgid "ROTeamGame.PropsDisplayText[32]"
+msgstr "死亡時に画面を黒くする"
+
+msgid "ROTeamGame.PropsDisplayText[33]"
+msgstr "非プレイヤー視点のとき画面を黒くする"
+
+msgid "ROTeamGame.PropsDisplayText[34]"
+msgstr "死亡時に自動でチームバランス調整"
+
+msgid "ROTeamGame.PropsDisplayText[35]"
+msgstr "最大チーム差"
+
+msgid "ROTeamGame.PropsDisplayText[36]"
+msgstr "最大人数をオーバーライド"
+
+msgid "ROTeamGame.PropsDisplayText[37]"
+msgstr "Team Kill Forgivingを有効"
+
+msgid "ROTeamGame.PropsDisplayText[40]"
+msgstr "サーバのIPをスコアボードに表示"
+
+msgid "ROTeamGame.PropsDisplayText[41]"
+msgstr "時間をスコアボードに表示"
+
+msgid "ROTeamGame.PropsExtras[0]"
+msgstr "0.000000;未訓練;1.000000;新兵;2.000000;未熟な兵士;3.000000;前線の兵士;4.000000;経験豊富な兵士;5.000000;実践で鍛え抜かれた兵士;6.000000;多くの叙勲を受けた兵士;7.000000;戦争狂"
+
+msgid "ROTeamSayDeadMessage.MessagePrefix"
+msgstr "(死亡) *小隊* "
+
+msgid "ROTeamSayMessage.MessagePrefix"
+msgstr "*小隊* "
+
+msgid "ROTreadCraft.VehiclePositionString"
+msgstr "戦車"
+
+msgid "ROTreadCraft.VehicleNameString"
+msgstr "戦車"
+
+msgid "ROVehicle.TouchMessage"
+msgstr "乗車: "
+
+msgid "ROVehicleMessage.NotQualified"
+msgstr "この車両に乗車する資格がない"
+
+msgid "ROVehicleMessage.VehicleIsEnemy"
+msgstr "敵の車両には乗車できない"
+
+msgid "ROVehicleMessage.CannotEnter"
+msgstr "この車両には乗車できない"
+
+msgid "ROVehicleWaitingMsg.WaitingForCrew"
+msgstr "他の乗組員を待っています"
+
+msgid "ROVehicleWeaponPawn.DriverHudName"
+msgstr "操縦席"
+
+msgid "ROVoicePack.SupportString[0]"
+msgstr "誰か来てくれ!"
+
+msgid "ROVoicePack.SupportString[1]"
+msgstr "誰か来てくれ! 場所は"
+
+msgid "ROVoicePack.SupportString[2]"
+msgstr "弾をくれ!"
+
+msgid "ROVoicePack.SupportString[3]"
+msgstr "狙撃手が必要だ!"
+
+msgid "ROVoicePack.SupportString[4]"
+msgstr "機関銃の支援が必要だ!"
+
+msgid "ROVoicePack.SupportString[5]"
+msgstr "対戦車小銃が必要だ!"
+
+msgid "ROVoicePack.SupportString[6]"
+msgstr "爆薬で吹き飛ばせ!"
+
+msgid "ROVoicePack.SupportString[7]"
+msgstr "戦車が必要だ!"
+
+msgid "ROVoicePack.SupportString[8]"
+msgstr "砲撃を頼む!"
+
+msgid "ROVoicePack.SupportString[9]"
+msgstr "乗せてくれ!"
+
+msgid "ROVoicePack.SupportAbbrev[0]"
+msgstr "誰か来てくれ!"
+
+msgid "ROVoicePack.SupportAbbrev[1]"
+msgstr "誰か来てくれ! 場所は"
+
+msgid "ROVoicePack.SupportAbbrev[2]"
+msgstr "弾をくれ!"
+
+msgid "ROVoicePack.SupportAbbrev[3]"
+msgstr "狙撃手が必要だ!"
+
+msgid "ROVoicePack.SupportAbbrev[4]"
+msgstr "機関銃の支援が必要だ!"
+
+msgid "ROVoicePack.SupportAbbrev[5]"
+msgstr "対戦車小銃が必要だ!"
+
+msgid "ROVoicePack.SupportAbbrev[6]"
+msgstr "爆薬で吹き飛ばせ!"
+
+msgid "ROVoicePack.SupportAbbrev[7]"
+msgstr "戦車が必要だ!"
+
+msgid "ROVoicePack.SupportAbbrev[8]"
+msgstr "砲撃を頼む!"
+
+msgid "ROVoicePack.SupportAbbrev[9]"
+msgstr "乗せてくれ!"
+
+msgid "ROVoicePack.SupportStringAxis[5]"
+msgstr "パンツァーファウストが必要だ!"
+
+msgid "ROVoicePack.SupportAbbrevAxis[5]"
+msgstr "パンツァーファウストが必要だ!"
+
+msgid "ROVoicePack.EnemyString[0]"
+msgstr "歩兵だ!"
+
+msgid "ROVoicePack.EnemyString[1]"
+msgstr "機関銃だ!"
+
+msgid "ROVoicePack.EnemyString[2]"
+msgstr "狙撃手だ!"
+
+msgid "ROVoicePack.EnemyString[3]"
+msgstr "工兵だ!"
+
+msgid "ROVoicePack.EnemyString[4]"
+msgstr "対戦車兵だ!"
+
+msgid "ROVoicePack.EnemyString[5]"
+msgstr "敵車両だ!"
+
+msgid "ROVoicePack.EnemyString[6]"
+msgstr "戦車だ!気をつけろ!"
+
+msgid "ROVoicePack.EnemyString[7]"
+msgstr "重戦車だ!"
+
+msgid "ROVoicePack.EnemyString[8]"
+msgstr "砲撃だ!隠れろ!"
+
+msgid "ROVoicePack.EnemyAbbrev[0]"
+msgstr "歩兵だ!"
+
+msgid "ROVoicePack.EnemyAbbrev[1]"
+msgstr "機関銃だ!"
+
+msgid "ROVoicePack.EnemyAbbrev[2]"
+msgstr "狙撃手だ!"
+
+msgid "ROVoicePack.EnemyAbbrev[3]"
+msgstr "工兵だ!"
+
+msgid "ROVoicePack.EnemyAbbrev[4]"
+msgstr "対戦車兵だ!"
+
+msgid "ROVoicePack.EnemyAbbrev[5]"
+msgstr "敵車両だ!"
+
+msgid "ROVoicePack.EnemyAbbrev[6]"
+msgstr "戦車だ!気をつけろ!"
+
+msgid "ROVoicePack.EnemyAbbrev[7]"
+msgstr "重戦車だ!"
+
+msgid "ROVoicePack.EnemyAbbrev[8]"
+msgstr "砲撃だ!隠れろ!"
+
+msgid "ROVoicePack.EnemyStringAxis[3]"
+msgstr "工兵だ!"
+
+msgid "ROVoicePack.EnemyStringAxis[6]"
+msgstr "気をつけろ!戦車だ!"
+
+msgid "ROVoicePack.EnemyAbbrevAxis[3]"
+msgstr "工兵だ!"
+
+msgid "ROVoicePack.EnemyAbbrevAxis[6]"
+msgstr "気をつけろ!戦車だ!"
+
+msgid "ROVoicePack.AlertString[0]"
+msgstr "手榴弾!"
+
+msgid "ROVoicePack.AlertString[1]"
+msgstr "行け! 行け!"
+
+msgid "ROVoicePack.AlertString[2]"
+msgstr "隠れろ!"
+
+msgid "ROVoicePack.AlertString[3]"
+msgstr "止まれ!"
+
+msgid "ROVoicePack.AlertString[4]"
+msgstr "俺について来い!"
+
+msgid "ROVoicePack.AlertString[5]"
+msgstr "爆薬を仕掛けた!"
+
+msgid "ROVoicePack.AlertString[6]"
+msgstr "援護射撃!"
+
+msgid "ROVoicePack.AlertString[7]"
+msgstr "やめろ! 味方だ!"
+
+msgid "ROVoicePack.AlertString[8]"
+msgstr "攻撃を受けている! 場所は"
+
+msgid "ROVoicePack.AlertString[9]"
+msgstr "撤退!"
+
+msgid "ROVoicePack.AlertAbbrev[0]"
+msgstr "手榴弾!"
+
+msgid "ROVoicePack.AlertAbbrev[1]"
+msgstr "行け! 行け!"
+
+msgid "ROVoicePack.AlertAbbrev[2]"
+msgstr "隠れろ!"
+
+msgid "ROVoicePack.AlertAbbrev[3]"
+msgstr "止まれ!"
+
+msgid "ROVoicePack.AlertAbbrev[4]"
+msgstr "俺について来い!"
+
+msgid "ROVoicePack.AlertAbbrev[5]"
+msgstr "爆薬を仕掛けた!"
+
+msgid "ROVoicePack.AlertAbbrev[6]"
+msgstr "援護射撃!"
+
+msgid "ROVoicePack.AlertAbbrev[7]"
+msgstr "やめろ! 味方だ!"
+
+msgid "ROVoicePack.AlertAbbrev[8]"
+msgstr "攻撃を受けている! 場所は"
+
+msgid "ROVoicePack.AlertAbbrev[9]"
+msgstr "撤退!"
+
+msgid "ROVoicePack.VehicleDirectionString[0]"
+msgstr "移動しろ! 目的地は"
+
+msgid "ROVoicePack.VehicleDirectionString[1]"
+msgstr "前進!"
+
+msgid "ROVoicePack.VehicleDirectionString[2]"
+msgstr "止まれ!"
+
+msgid "ROVoicePack.VehicleDirectionString[3]"
+msgstr "後退!"
+
+msgid "ROVoicePack.VehicleDirectionString[4]"
+msgstr "左に進め!"
+
+msgid "ROVoicePack.VehicleDirectionString[5]"
+msgstr "右に進め!"
+
+msgid "ROVoicePack.VehicleDirectionString[6]"
+msgstr "5m前へ!"
+
+msgid "ROVoicePack.VehicleDirectionString[7]"
+msgstr "5m後ろへ!"
+
+msgid "ROVoicePack.VehicleDirectionString[8]"
+msgstr "少し左に回れ!"
+
+msgid "ROVoicePack.VehicleDirectionString[9]"
+msgstr "少し右に回れ!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[0]"
+msgstr "移動しろ! 目的地は"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[1]"
+msgstr "前進!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[2]"
+msgstr "止まれ!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[3]"
+msgstr "後退!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[4]"
+msgstr "左に進め!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[5]"
+msgstr "右に進め!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[6]"
+msgstr "5m前へ!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[7]"
+msgstr "5m後ろへ!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[8]"
+msgstr "少し左に回れ!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[9]"
+msgstr "少し右に回れ!"
+
+msgid "ROVoicePack.VehicleAlertString[0]"
+msgstr "前方に敵!"
+
+msgid "ROVoicePack.VehicleAlertString[1]"
+msgstr "左方向に敵!"
+
+msgid "ROVoicePack.VehicleAlertString[2]"
+msgstr "右方向に敵!"
+
+msgid "ROVoicePack.VehicleAlertString[3]"
+msgstr "後方に敵!"
+
+msgid "ROVoicePack.VehicleAlertString[4]"
+msgstr "歩兵が近くにいるぞ!"
+
+msgid "ROVoicePack.VehicleAlertString[5]"
+msgstr "了解!"
+
+msgid "ROVoicePack.VehicleAlertString[6]"
+msgstr "できません!"
+
+msgid "ROVoicePack.VehicleAlertString[7]"
+msgstr "燃えてるぞ!"
+
+msgid "ROVoicePack.VehicleAlertString[8]"
+msgstr "出ろ!"
+
+msgid "ROVoicePack.VehicleAlertString[9]"
+msgstr "装填完了!"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[0]"
+msgstr "前方に敵!"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[1]"
+msgstr "左方向に敵!"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[2]"
+msgstr "右方向に敵!"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[3]"
+msgstr "後方に敵!"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[4]"
+msgstr "歩兵が近くにいるぞ!"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[5]"
+msgstr "了解!"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[6]"
+msgstr "できません!"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[7]"
+msgstr "燃えてるぞ!"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[8]"
+msgstr "出ろ!"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[9]"
+msgstr "装填完了!"
+
+msgid "ROVoicePack.ExtraString[0]"
+msgstr "殺してやる!"
+
+msgid "ROVoicePack.ExtraString[1]"
+msgstr "逃げるな!"
+
+msgid "ROVoicePack.ExtraString[2]"
+msgstr "*侮辱*"
+
+msgid "ROVoicePack.ExtraAbbrev[0]"
+msgstr "殺してやる!"
+
+msgid "ROVoicePack.ExtraAbbrev[1]"
+msgstr "逃げるな!"
+
+msgid "ROVoicePack.ExtraAbbrev[2]"
+msgstr "侮辱"
+
+msgid "ROVoicePack.AckString[0]"
+msgstr "了解!"
+
+msgid "ROVoicePack.AckString[1]"
+msgstr "できません!"
+
+msgid "ROVoicePack.AckString[2]"
+msgstr "ありがとう"
+
+msgid "ROVoicePack.AckString[3]"
+msgstr "すまない"
+
+msgid "ROVoicePack.AckAbbrev[0]"
+msgstr "了解!"
+
+msgid "ROVoicePack.AckAbbrev[1]"
+msgstr "できません!"
+
+msgid "ROVoicePack.AckAbbrev[2]"
+msgstr "ありがとう"
+
+msgid "ROVoicePack.AckAbbrev[3]"
+msgstr "すまない"
+
+msgid "ROVoicePack.OrderString[0]"
+msgstr "攻撃目標は"
+
+msgid "ROVoicePack.OrderString[1]"
+msgstr "守備目標は"
+
+msgid "ROVoicePack.OrderString[2]"
+msgstr "その場を離れるな!"
+
+msgid "ROVoicePack.OrderString[3]"
+msgstr "俺について来い!"
+
+msgid "ROVoicePack.OrderString[4]"
+msgstr "進め!"
+
+msgid "ROVoicePack.OrderString[5]"
+msgstr "撤退!"
+
+msgid "ROVoicePack.OrderString[6]"
+msgstr "撃て!"
+
+msgid "ROVoicePack.OrderString[7]"
+msgstr "撃ち方やめ!"
+
+msgid "ROVoicePack.OrderAbbrev[0]"
+msgstr "攻撃目標は"
+
+msgid "ROVoicePack.OrderAbbrev[1]"
+msgstr "守備目標は"
+
+msgid "ROVoicePack.OrderAbbrev[2]"
+msgstr "その場を離れるな!"
+
+msgid "ROVoicePack.OrderAbbrev[3]"
+msgstr "俺について来い!"
+
+msgid "ROVoicePack.OrderAbbrev[4]"
+msgstr "進め!"
+
+msgid "ROVoicePack.OrderAbbrev[5]"
+msgstr "撤退!"
+
+msgid "ROVoicePack.OrderAbbrev[6]"
+msgstr "撃て!"
+
+msgid "ROVoicePack.OrderAbbrev[7]"
+msgstr "撃ち方やめ!"
+
+msgid "ROWeaponAttachment.MenuDescription"
+msgstr "説明は利用できない。"
+
+msgid "ROWeaponLostMessage.WeaponLostMessage"
+msgstr "手を撃たれて武器を落とした!"

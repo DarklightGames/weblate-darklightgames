@@ -1,2 +1,1254 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain\n"
+"Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
+
+msgid "ROCommunicationPage.Panels<0>.Hint"
+msgstr "他のプレイヤーとのコミュニケーションを管理"
+
+msgid "ROCommunicationPage.SPRulesPanel.Caption"
+msgstr "ルール"
+
+msgid "ROCommunicationPage.SPRulesPanel.Hint"
+msgstr "ゲームセッティング"
+
+msgid "ROCommunicationPage.CloseButton.Caption"
+msgstr "閉じる"
+
+msgid "ROCommunicationPage.CloseButton.Hint"
+msgstr "ウィンドウを閉じる"
+
+msgid "ROCommunicationPage.ResetButton.Caption"
+msgstr "リセット"
+
+msgid "ROCommunicationPage.ResetButton.Hint"
+msgstr "すべてのプレイヤーのチャット制限などを解除"
+
+msgid "ROConsole.AllPlayersSquad"
+msgstr "すべての仲間"
+
+msgid "ROConsole.OwnSquad"
+msgstr "自分の分隊"
+
+msgid "ROConsole.SquadSuffix"
+msgstr "の分隊"
+
+msgid "ROConsole.SMStateName[1]"
+msgstr "支援"
+
+msgid "ROConsole.SMStateName[2]"
+msgstr "返事"
+
+msgid "ROConsole.SMStateName[3]"
+msgstr "敵発見"
+
+msgid "ROConsole.SMStateName[4]"
+msgstr "警告"
+
+msgid "ROConsole.SMStateName[5]"
+msgstr "車両命令"
+
+msgid "ROConsole.SMStateName[6]"
+msgstr "車両警告"
+
+msgid "ROConsole.SMStateName[7]"
+msgstr "命令"
+
+msgid "ROConsole.SMStateName[8]"
+msgstr "挑発"
+
+msgid "ROConsole.SMStateName[9]"
+msgstr "...を攻撃"
+
+msgid "ROConsole.SMStateName[10]"
+msgstr "...を防御"
+
+msgid "ROConsole.SMStateName[11]"
+msgstr "...に移動"
+
+msgid "ROConsole.SMStateName[12]"
+msgstr "...に援護が必要"
+
+msgid "ROConsole.SMStateName[13]"
+msgstr "...に敵の攻撃"
+
+msgid "ROCreditsPage.WindowName"
+msgstr "クレジット"
+
+msgid "ROCreditsPage.CloseButton.Caption"
+msgstr "閉じる"
+
+msgid "RODisconnectOptionPage.MainMenuButton.Caption"
+msgstr "メインメニュー"
+
+msgid "RODisconnectOptionPage.QuitButton.Caption"
+msgstr "Red Orchestraを終了"
+
+msgid "RODisconnectOptionPage.ReconnectButton.Caption"
+msgstr "再接続"
+
+msgid "RODisconnectOptionPage.ServerBrowserButton.Caption"
+msgstr "サーバブラウザ"
+
+msgid "RODisconnectOptionPage.cNetStatLabel.Caption"
+msgstr "オプションを選択"
+
+msgid "ROGUIRoleSelection.NoSelectedRoleText"
+msgstr "リストから兵科を選択してください。"
+
+msgid "ROGUIRoleSelection.RoleHasBotsText"
+msgstr " (Bot含む)"
+
+msgid "ROGUIRoleSelection.RoleFullText"
+msgstr "満員"
+
+msgid "ROGUIRoleSelection.SelectEquipmentText"
+msgstr "説明を見るにはアイテムを選択してください。"
+
+msgid "ROGUIRoleSelection.RoleIsFullMessageText"
+msgstr "選択した兵科は満員です。他の兵科を選択してください。"
+
+msgid "ROGUIRoleSelection.ChangingRoleMessageText"
+msgstr "あなたのプレイヤー情報を更新するまで待ってください。"
+
+msgid "ROGUIRoleSelection.UnknownErrorMessageText"
+msgstr "プレイヤー情報を更新するとき、未知のエラーが起きました。しばらく待って再試行してください。"
+
+msgid "ROGUIRoleSelection.ErrorChangingTeamsMessageText"
+msgstr "チーム変更の際エラーが起きました。しばらく待って再試行するか他のチームを選択してください。"
+
+msgid "ROGUIRoleSelection.UnknownErrorSpectatorMissingReplicationInfo"
+msgstr " (観戦モード切替エラー: player has no replication info.)"
+
+msgid "ROGUIRoleSelection.SpectatorErrorTooManySpectators"
+msgstr "観戦モードに切り替えることが出来ません: 観戦者数が満員です。"
+
+msgid "ROGUIRoleSelection.SpectatorErrorRoundHasEnded"
+msgstr "観戦モードに切り替えることが出来ません: ラウンドは終了しました。"
+
+msgid "ROGUIRoleSelection.UnknownErrorTeamMissingReplicationInfo"
+msgstr " (チーム切り替えエラー: player has no replication info.)"
+
+msgid "ROGUIRoleSelection.ErrorTeamMustJoinBeforeStart"
+msgstr "チームを切り替えることが出来ません: ゲーム開始前にチームに参加しなければなりません。"
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorTooManyPlayers"
+msgstr "チームを切り替えることが出来ません: 人数が多すぎます。"
+
+msgid "ROGUIRoleSelection.UnknownErrorTeamMaxLives"
+msgstr " (チーム切り替えエラー: MaxLives > 0)"
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorRoundHasEnded"
+msgstr "チームを切り替えることが出来ません: ラウンドは終了しました。"
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorGameHasStarted"
+msgstr "チームを切り替えることが出来ません: サーバはゲーム開始後のチーム変更を認めていません。"
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorPlayingAgainstBots"
+msgstr "チームを切り替えることが出来ません: 片方のチームはBotだけである必要があります。"
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorTeamIsFull"
+msgstr "チームを切り替えることが出来ません: 選択したチームは満員です。"
+
+msgid "ROGUIRoleSelection.ConfigurationButtonText1"
+msgstr "ゲームコントロール"
+
+msgid "ROGUIRoleSelection.ConfigurationButtonHint1"
+msgstr "各種設定や調整を行います"
+
+msgid "ROGUIRoleSelection.ConfigurationButtonText2"
+msgstr "兵科選択"
+
+msgid "ROGUIRoleSelection.ConfigurationButtonHint2"
+msgstr "兵科選択画面を表示"
+
+msgid "ROGUIRoleSelection.CommunicationButton.Caption"
+msgstr "コミュニケーション"
+
+msgid "ROGUIRoleSelection.CommunicationButton.Hint"
+msgstr "VOIPコミュニケーションダイアログを開きます"
+
+msgid "ROGUIRoleSelection.ConfigurationButton.Caption"
+msgstr "各種設定"
+
+msgid "ROGUIRoleSelection.ConfigurationButton.Hint"
+msgstr "Red Orchestraの設定を行います"
+
+msgid "ROGUIRoleSelection.ContinueButton.Caption"
+msgstr "継続"
+
+msgid "ROGUIRoleSelection.ContinueButton.Hint"
+msgstr "ゲームを継続"
+
+msgid "ROGUIRoleSelection.DisconnectButton.Caption"
+msgstr "切断"
+
+msgid "ROGUIRoleSelection.DisconnectButton.Hint"
+msgstr "現在のゲームから切断"
+
+msgid "ROGUIRoleSelection.EquipmentWeaponTitle.Caption"
+msgstr "その他の装備"
+
+msgid "ROGUIRoleSelection.ExitROButton.Caption"
+msgstr "Red Orchestraを終了"
+
+msgid "ROGUIRoleSelection.ExitROButton.Hint"
+msgstr "ゲームを終了"
+
+msgid "ROGUIRoleSelection.FavoritesButton.Caption"
+msgstr "お気に入りに追加"
+
+msgid "ROGUIRoleSelection.FavoritesButton.Hint"
+msgstr "現在のサーバをお気に入りリストに追加"
+
+msgid "ROGUIRoleSelection.JoinAlliesButton.Caption"
+msgstr "連合軍に加勢"
+
+msgid "ROGUIRoleSelection.JoinAlliesButton.Hint"
+msgstr "連合軍として参戦"
+
+msgid "ROGUIRoleSelection.JoinAxisButton.Caption"
+msgstr "枢軸軍に加勢"
+
+msgid "ROGUIRoleSelection.JoinAxisButton.Hint"
+msgstr "枢軸軍として参戦"
+
+msgid "ROGUIRoleSelection.KickVotingButton.Caption"
+msgstr "Kick投票"
+
+msgid "ROGUIRoleSelection.KickVotingButton.Hint"
+msgstr "Kick投票ダイアログを開きます"
+
+msgid "ROGUIRoleSelection.MapButton.Caption"
+msgstr "戦況マップ"
+
+msgid "ROGUIRoleSelection.MapButton.Hint"
+msgstr "戦況マップを確認"
+
+msgid "ROGUIRoleSelection.MapVotingButton.Caption"
+msgstr "マップ投票"
+
+msgid "ROGUIRoleSelection.MapVotingButton.Hint"
+msgstr "マップ投票ダイアログを開きます"
+
+msgid "ROGUIRoleSelection.PlayerNameLabel.Caption"
+msgstr "名前:"
+
+msgid "ROGUIRoleSelection.PrimaryWeaponTitle.Caption"
+msgstr "主要武器"
+
+msgid "ROGUIRoleSelection.RoleDescTitle.Caption"
+msgstr "兵科概要"
+
+msgid "ROGUIRoleSelection.RolesTitle.Caption"
+msgstr "兵科選択"
+
+msgid "ROGUIRoleSelection.ScoreButton.Caption"
+msgstr "戦績"
+
+msgid "ROGUIRoleSelection.ScoreButton.Hint"
+msgstr "チーム、プレイヤーの現在の戦績を表示"
+
+msgid "ROGUIRoleSelection.SecondaryWeaponTitle.Caption"
+msgstr "補助武器"
+
+msgid "ROGUIRoleSelection.ServerBrowserButton.Caption"
+msgstr "サーバブラウザ"
+
+msgid "ROGUIRoleSelection.ServerBrowserButton.Hint"
+msgstr "利用可能なRed Orchestraサーバを表示"
+
+msgid "ROGUIRoleSelection.SpectateButton.Caption"
+msgstr "非戦闘員"
+
+msgid "ROGUIRoleSelection.SpectateButton.Hint"
+msgstr "戦闘に参加せず戦況を見守ります"
+
+msgid "ROGUIRoleSelection.StartNewGameButton.Caption"
+msgstr "新規ゲーム"
+
+msgid "ROGUIRoleSelection.StartNewGameButton.Hint"
+msgstr "新規のシングルプレイヤーゲームを開始"
+
+msgid "ROGUIServerInfo.PanelCaption<1>"
+msgstr "ルール"
+
+msgid "ROGUIServerInfo.PanelCaption<2>"
+msgstr "マップ"
+
+msgid "ROGUIServerInfo.PanelHint<0>"
+msgstr "今日の一言"
+
+msgid "ROGUIServerInfo.PanelHint<1>"
+msgstr "ゲームルール"
+
+msgid "ROGUIServerInfo.PanelHint<2>"
+msgstr "巡回マップ"
+
+msgid "ROGUIServerInfo.WindowName"
+msgstr "サーバ情報"
+
+msgid "ROGUITeamSelection.Briefing[0]"
+msgstr "枢軸軍 戦闘概況"
+
+msgid "ROGUITeamSelection.Briefing[1]"
+msgstr "連合軍 戦闘概況"
+
+msgid "ROGUITeamSelection.TeamJoinText[0]"
+msgstr "枢軸軍に加勢"
+
+msgid "ROGUITeamSelection.TeamJoinText[1]"
+msgstr "連合軍に加勢"
+
+msgid "ROGUITeamSelection.TeamJoinHint[0]"
+msgstr "枢軸軍として参戦"
+
+msgid "ROGUITeamSelection.TeamJoinHint[1]"
+msgstr "連合軍として参戦"
+
+msgid "ROGUITeamSelection.UnitsText"
+msgstr " 人"
+
+msgid "ROGUITeamSelection.AutoSelect.Caption"
+msgstr "自動選択"
+
+msgid "ROGUITeamSelection.AutoSelect.Hint"
+msgstr "押されている陣営に自動で参戦"
+
+msgid "ROGUITeamSelection.Spectate.Caption"
+msgstr "非戦闘員"
+
+msgid "ROGUITeamSelection.Spectate.Hint"
+msgstr "戦闘に参加せずに見守ります"
+
+msgid "ROGUITeamSelection.TeamsCount.Caption"
+msgstr "? 人"
+
+msgid "ROGUITeamSelection.TeamsCount2.Caption"
+msgstr "? 人"
+
+msgid "ROIAMultiColumnRulesPanel.AdvancedButton.Caption"
+msgstr "拡張オプションを表示"
+
+msgid "ROIAMultiColumnRulesPanel.AdvancedButton.Hint"
+msgstr "拡張オプションの表示/非表示"
+
+msgid "ROMainMenu.SinglePlayerDisabledText"
+msgstr "模擬訓練はフルバージョンのみ有効です。"
+
+msgid "ROMainMenu.BackButton.Caption"
+msgstr "戻る"
+
+msgid "ROMainMenu.BackButton.Hint"
+msgstr "メインメニューに戻る"
+
+msgid "ROMainMenu.CreditsButton.Caption"
+msgstr "クレジット"
+
+msgid "ROMainMenu.CreditsButton.Hint"
+msgstr "クレジットを見る"
+
+msgid "ROMainMenu.DemosButton.Caption"
+msgstr "Demo管理"
+
+msgid "ROMainMenu.DemosButton.Hint"
+msgstr "録画したデモの管理"
+
+msgid "ROMainMenu.HelpButton.Caption"
+msgstr "ヘルプ & ゲーム管理"
+
+msgid "ROMainMenu.HelpButton.Hint"
+msgstr "ヘルプとゲーム管理ユーティリティ"
+
+msgid "ROMainMenu.HostButton.Caption"
+msgstr "ホストゲーム"
+
+msgid "ROMainMenu.HostButton.Hint"
+msgstr "新たな戦場を作り出す"
+
+msgid "ROMainMenu.InstantActionButton.Caption"
+msgstr "模擬訓練"
+
+msgid "ROMainMenu.InstantActionButton.Hint"
+msgstr "模擬訓練を行う"
+
+msgid "ROMainMenu.ManualButton.Caption"
+msgstr "マニュアル"
+
+msgid "ROMainMenu.ManualButton.Hint"
+msgstr "マニュアルを読む"
+
+msgid "ROMainMenu.QuitButton.Caption"
+msgstr "終了"
+
+msgid "ROMainMenu.QuitButton.Hint"
+msgstr "ゲームを終了"
+
+msgid "ROMainMenu.ServerButton.Caption"
+msgstr "マルチプレイヤー"
+
+msgid "ROMainMenu.ServerButton.Hint"
+msgstr "戦場へ向かう"
+
+msgid "ROMainMenu.SettingsButton.Caption"
+msgstr "設定"
+
+msgid "ROMainMenu.SettingsButton.Hint"
+msgstr "設定を変更"
+
+msgid "ROMainMenu.WebsiteButton.Caption"
+msgstr "Webサイト"
+
+msgid "ROMainMenu.WebsiteButton.Hint"
+msgstr "Red Orchestra公式サイトを開く"
+
+msgid "ROMapVoteCountMultiColumnList.ColumnHeadings<0>"
+msgstr "マップ名"
+
+msgid "ROMapVoteCountMultiColumnList.ColumnHeadings<1>"
+msgstr "投票数"
+
+msgid "ROMapVoteCountMultiColumnList.ColumnHeadingHints<0>"
+msgstr "マップ名"
+
+msgid "ROMapVoteCountMultiColumnList.ColumnHeadingHints<1>"
+msgstr "マップの投票数."
+
+msgid "ROMaplistEditor.ActiveBackground.Caption"
+msgstr "マップを選択"
+
+msgid "ROMaplistEditor.AddAllButton.Caption"
+msgstr "すべて追加"
+
+msgid "ROMaplistEditor.AddAllButton.Hint"
+msgstr "すべてのマップをマップリストに追加"
+
+msgid "ROMaplistEditor.AddButton.Caption"
+msgstr "追加"
+
+msgid "ROMaplistEditor.AddButton.Hint"
+msgstr "選択したマップをマップリストに追加"
+
+msgid "ROMaplistEditor.AvailBackground.Caption"
+msgstr "利用可能なマップ"
+
+msgid "ROMaplistEditor.DeleteMaplistButton.Caption"
+msgstr "削除"
+
+msgid "ROMaplistEditor.DeleteMaplistButton.Hint"
+msgstr "選択したマップリストを削除。最後のマップリストを削除した場合デフォルトのマップリストが作成される"
+
+msgid "ROMaplistEditor.MapListSectionBackground.Caption"
+msgstr "マップリストを保存"
+
+msgid "ROMaplistEditor.MoveDownButton.Caption"
+msgstr "下へ"
+
+msgid "ROMaplistEditor.MoveDownButton.Hint"
+msgstr "このマップをリストに下へ移動"
+
+msgid "ROMaplistEditor.MoveUpButton.Caption"
+msgstr "上へ"
+
+msgid "ROMaplistEditor.MoveUpButton.Hint"
+msgstr "このマップをリストに上へ移動"
+
+msgid "ROMaplistEditor.NewMaplistButton.Caption"
+msgstr "新規"
+
+msgid "ROMaplistEditor.NewMaplistButton.Hint"
+msgstr "新規にマップリストを作成"
+
+msgid "ROMaplistEditor.RemoveAllButton.Caption"
+msgstr "すべて削除"
+
+msgid "ROMaplistEditor.RemoveAllButton.Hint"
+msgstr "マップリストからすべてのマップを削除"
+
+msgid "ROMaplistEditor.RemoveButton.Caption"
+msgstr "削除"
+
+msgid "ROMaplistEditor.RemoveButton.Hint"
+msgstr "選択したマップをマップリストから削除"
+
+msgid "ROMaplistEditor.RenameMaplistButton.Caption"
+msgstr "名前変更"
+
+msgid "ROMaplistEditor.RenameMaplistButton.Hint"
+msgstr "選択したマップリストの名前を変更"
+
+msgid "ROMaplistEditor.SelectMaplistCombo.Hint"
+msgstr "カスタムマップリストを読み込む"
+
+msgid "ROMidGameMenu.LeaveMPButtonText"
+msgstr "切断"
+
+msgid "ROMidGameMenu.LeaveSPButtonText"
+msgstr "終了"
+
+msgid "ROMidGameMenu.LeaveEntryButtonText"
+msgstr "サーバブラウザ"
+
+msgid "ROMidGameMenu.AddFavoriteButton.Caption"
+msgstr "お気に入りに追加"
+
+msgid "ROMidGameMenu.BrowserButton.Caption"
+msgstr "サーバブラウザ"
+
+msgid "ROMidGameMenu.CommunicationButton.Caption"
+msgstr "コミュニケーション"
+
+msgid "ROMidGameMenu.ContMatchButton.Caption"
+msgstr "継続"
+
+msgid "ROMidGameMenu.KickVotingButton.Caption"
+msgstr "Kick投票"
+
+msgid "ROMidGameMenu.MapVotingButton.Caption"
+msgstr "マップ投票"
+
+msgid "ROMidGameMenu.QuitGameButton.Caption"
+msgstr "Red Orchestraの終了"
+
+msgid "ROMidGameMenu.SettingsButton.Caption"
+msgstr "各種設定"
+
+msgid "ROScoreBoard.SpectatorTeamName"
+msgstr "非戦闘員"
+
+msgid "ROScoreBoard.UnassignedTeamName"
+msgstr "未入隊"
+
+msgid "ROScoreBoard.TitleText"
+msgstr "戦績"
+
+msgid "ROScoreBoard.NameText"
+msgstr "名前"
+
+msgid "ROScoreBoard.AdminText"
+msgstr "管理者"
+
+msgid "ROScoreBoard.RoleText"
+msgstr "兵科"
+
+msgid "ROScoreBoard.ScoreText"
+msgstr "戦績"
+
+msgid "ROScoreBoard.TimeText"
+msgstr "時間"
+
+msgid "ROScoreBoard.PlayerText"
+msgstr "兵士"
+
+msgid "ROScoreBoard.PlayerPluralText"
+msgstr "兵士"
+
+msgid "ROScoreBoard.TotalsText"
+msgstr "合計"
+
+msgid "ROScoreBoard.RoundsWonText"
+msgstr "ラウンド勝利数"
+
+msgid "ROScoreBoard.TeamNameAllies"
+msgstr "連合軍"
+
+msgid "ROScoreBoard.TeamNameAxis"
+msgstr "枢軸軍"
+
+msgid "ROScoreBoard.ReinforcementsText"
+msgstr "増援"
+
+msgid "ROServerLoading.loadingMapPrefix"
+msgstr "行軍中...目的地 :"
+
+msgid "ROServerLoading.vacSecuredText"
+msgstr "このサーバはVACで保護されています。|不正行為を働くと永久にBANされます。"
+
+msgid "ROSettingsPage_new.PanelCaption<0>"
+msgstr "ゲーム"
+
+msgid "ROSettingsPage_new.PanelCaption<1>"
+msgstr "ディスプレイ"
+
+msgid "ROSettingsPage_new.PanelCaption<2>"
+msgstr "オーディオ"
+
+msgid "ROSettingsPage_new.PanelCaption<3>"
+msgstr "操作"
+
+msgid "ROSettingsPage_new.PanelCaption<4>"
+msgstr "入力"
+
+msgid "ROSettingsPage_new.PanelHint<0>"
+msgstr "Red Orchestraゲームオプションを設定..."
+
+msgid "ROSettingsPage_new.PanelHint<1>"
+msgstr "解像度や画面のディティールを設定..."
+
+msgid "ROSettingsPage_new.PanelHint<2>"
+msgstr "オーディオを設定..."
+
+msgid "ROSettingsPage_new.PanelHint<3>"
+msgstr "操作のためのキーを設定..."
+
+msgid "ROSettingsPage_new.PanelHint<4>"
+msgstr "入力機器の設定やその他の設定を..."
+
+msgid "ROSettingsPage_new.PanelHint<5>"
+msgstr "HUDをカスタマイズ..."
+
+msgid "ROTab_AudioSettings.AudioModes[0]"
+msgstr "セーフモード"
+
+msgid "ROTab_AudioSettings.VoiceModes[0]"
+msgstr "すべて再生"
+
+msgid "ROTab_AudioSettings.VoiceModes[1]"
+msgstr "挑発なし"
+
+msgid "ROTab_AudioSettings.VoiceModes[2]"
+msgstr "すべてなし"
+
+msgid "ROTab_AudioSettings.PanelCaption"
+msgstr "オーディオ"
+
+msgid "ROTab_AudioSettings.AudioBK1.Caption"
+msgstr "サウンドシステム"
+
+msgid "ROTab_AudioSettings.AudioBK3.Caption"
+msgstr "ボイスチャット"
+
+msgid "ROTab_AudioSettings.AudioDefaultDriver.Caption"
+msgstr "システムドライバ"
+
+msgid "ROTab_AudioSettings.AudioDefaultDriver.Hint"
+msgstr "システムにインストールされたOpen ALドライバを使用"
+
+msgid "ROTab_AudioSettings.AudioEffectsVolumeSlider.Caption"
+msgstr "エフェクト音量"
+
+msgid "ROTab_AudioSettings.AudioEffectsVolumeSlider.Hint"
+msgstr "ゲーム中のエフェクトの音量を調節"
+
+msgid "ROTab_AudioSettings.AudioLowDetail.Caption"
+msgstr "低音質"
+
+msgid "ROTab_AudioSettings.AudioLowDetail.Hint"
+msgstr "低い音質を使用"
+
+msgid "ROTab_AudioSettings.AudioMessageBeep.Caption"
+msgstr "メッセージBeep"
+
+msgid "ROTab_AudioSettings.AudioMessageBeep.Hint"
+msgstr "テキストメッセージを受け取った際にメッセージBeepを鳴らす。"
+
+msgid "ROTab_AudioSettings.AudioMode.Caption"
+msgstr "オーディオモード"
+
+msgid "ROTab_AudioSettings.AudioMode.Hint"
+msgstr "オーディオシステムを変更"
+
+msgid "ROTab_AudioSettings.AudioMusicVolume.Caption"
+msgstr "ミュージック音量"
+
+msgid "ROTab_AudioSettings.AudioMusicVolume.Hint"
+msgstr "バックグラウンドミュージックの音量を調節"
+
+msgid "ROTab_AudioSettings.AudioPlayVoices.Caption"
+msgstr "ボイスメッセージの再生"
+
+msgid "ROTab_AudioSettings.AudioPlayVoices.Hint"
+msgstr "ボイスメッセージの再生方法を設定してください。"
+
+msgid "ROTab_AudioSettings.AudioReverseStereo.Caption"
+msgstr "リバースステレオ"
+
+msgid "ROTab_AudioSettings.AudioReverseStereo.Hint"
+msgstr "ステレオの左右のチャンネルを入れ替えます。"
+
+msgid "ROTab_AudioSettings.AutoJoinPublic.Caption"
+msgstr "Publicチャンネルに自動で入る"
+
+msgid "ROTab_AudioSettings.AutoJoinPublic.Hint"
+msgstr "サーバに接続したとき自動で'Public'チャンネルに入ります。"
+
+msgid "ROTab_AudioSettings.AutoSpeakCheckbox.Caption"
+msgstr "有効なチャンネルを自動選択"
+
+msgid "ROTab_AudioSettings.AutoSpeakCheckbox.Hint"
+msgstr "サーバに接続したとき自動的に有効なチャンネルに入る。デフォルトのチャンネルはゲームタイプによって自動的に設定されるが、以下のエディットボックスで設定することも可能"
+
+msgid "ROTab_AudioSettings.ChatPasswordEdit.Caption"
+msgstr "チャットパスワード"
+
+msgid "ROTab_AudioSettings.ChatPasswordEdit.Hint"
+msgstr "個人的なチャットに制限をかけるためのパスワードを設定"
+
+msgid "ROTab_AudioSettings.Dampen.Caption"
+msgstr "VOIP使用時ゲーム音量を下げる"
+
+msgid "ROTab_AudioSettings.Dampen.Hint"
+msgstr "VOIPを使用する際、ゲーム音量を下げます。"
+
+msgid "ROTab_AudioSettings.DefaultActiveChannelEditBox.Caption"
+msgstr "デフォルトチャンネル名"
+
+msgid "ROTab_AudioSettings.DefaultActiveChannelEditBox.Hint"
+msgstr "サーバに入る際、自動で入るチャンネル名を入れてください。ゲームタイプのデフォルトチャンネルを使用する場合は空にしてください。"
+
+msgid "ROTab_AudioSettings.DisableGameMusic.Caption"
+msgstr "プレイ中は音楽を止める"
+
+msgid "ROTab_AudioSettings.DisableGameMusic.Hint"
+msgstr "ゲームプレイ中に音楽を再生しない。"
+
+msgid "ROTab_AudioSettings.EnableVoiceChat.Caption"
+msgstr "ボイスチャットを有効"
+
+msgid "ROTab_AudioSettings.EnableVoiceChat.Hint"
+msgstr "オンラインゲーム中ボイスチャットを有効"
+
+msgid "ROTab_AudioSettings.VoiceQuality.Caption"
+msgstr "インターネット品質"
+
+msgid "ROTab_AudioSettings.VoiceQuality.Hint"
+msgstr "ボイスチャットをインターネットサーバに送る際の品質を選択"
+
+msgid "ROTab_AudioSettings.VoiceQualityLAN.Caption"
+msgstr "LAN品質"
+
+msgid "ROTab_AudioSettings.VoiceQualityLAN.Hint"
+msgstr "ボイスチャットをLANサーバに送る際に使用する品質を選択"
+
+msgid "ROTab_AudioSettings.VoiceVolume.Caption"
+msgstr "ボイスチャット音量"
+
+msgid "ROTab_AudioSettings.VoiceVolume.Hint"
+msgstr "他のプレイヤーのボイスチャット音量を調節"
+
+msgid "ROTab_Controls.PanelCaption"
+msgstr "操作"
+
+msgid "ROTab_Controls.Headings[0]"
+msgstr "動作"
+
+msgid "ROTab_Controls.Headings[1]"
+msgstr "キー1"
+
+msgid "ROTab_Controls.Headings[2]"
+msgstr "キー2"
+
+msgid "ROTab_Controls.ClearCaption"
+msgstr "'%backspace%'で'%keyname%'から'%keybind%'を解除する。"
+
+msgid "ROTab_Controls.ActionText"
+msgstr "{%keybinds%} - 現在はこのキーが割り当てられれています。"
+
+msgid "ROTab_Controls.Section_Movement"
+msgstr "移動"
+
+msgid "ROTab_Controls.Section_Looking"
+msgstr "視点"
+
+msgid "ROTab_Controls.Section_Weapons"
+msgstr "武器"
+
+msgid "ROTab_Controls.Section_Comm"
+msgstr "コミュニケーション"
+
+msgid "ROTab_Controls.Section_Game"
+msgstr "ゲーム"
+
+msgid "ROTab_Controls.Section_Misc"
+msgstr "その他"
+
+msgid "ROTab_Controls.Section_Interface"
+msgstr "インターフェース"
+
+msgid "ROTab_Controls.Section_Speech_Prefix"
+msgstr "ボイスコマンド: "
+
+msgid "ROTab_Controls.captions_movement[0]"
+msgstr "前進"
+
+msgid "ROTab_Controls.captions_movement[1]"
+msgstr "後退"
+
+msgid "ROTab_Controls.captions_movement[2]"
+msgstr "左移動"
+
+msgid "ROTab_Controls.captions_movement[3]"
+msgstr "右移動"
+
+msgid "ROTab_Controls.captions_movement[4]"
+msgstr "左に傾く"
+
+msgid "ROTab_Controls.captions_movement[5]"
+msgstr "右に傾く"
+
+msgid "ROTab_Controls.captions_movement[6]"
+msgstr "ジャンプ"
+
+msgid "ROTab_Controls.captions_movement[7]"
+msgstr "屈む"
+
+msgid "ROTab_Controls.captions_movement[8]"
+msgstr "伏せる"
+
+msgid "ROTab_Controls.captions_movement[9]"
+msgstr "走る"
+
+msgid "ROTab_Controls.captions_movement[10]"
+msgstr "歩く"
+
+msgid "ROTab_Controls.captions_movement[11]"
+msgstr "[切り替え]屈む"
+
+msgid "ROTab_Controls.captions_looking[0]"
+msgstr "左回転"
+
+msgid "ROTab_Controls.captions_looking[1]"
+msgstr "右回転"
+
+msgid "ROTab_Controls.captions_looking[2]"
+msgstr "上を見る"
+
+msgid "ROTab_Controls.captions_looking[3]"
+msgstr "下を見る"
+
+msgid "ROTab_Controls.captions_looking[4]"
+msgstr "視点を中心に戻す"
+
+msgid "ROTab_Controls.captions_looking[5]"
+msgstr "[切り替え]三人称視点(オフライン専用)"
+
+msgid "ROTab_Controls.captions_looking[6]"
+msgstr "[切り替え]カメラモード(オフライン専用)"
+
+msgid "ROTab_Controls.captions_weapons[0]"
+msgstr "プライマリ攻撃"
+
+msgid "ROTab_Controls.captions_weapons[1]"
+msgstr "セカンダリ攻撃"
+
+msgid "ROTab_Controls.captions_weapons[2]"
+msgstr "リロード"
+
+msgid "ROTab_Controls.captions_weapons[3]"
+msgstr "銃眼視点(アイアンサイト)"
+
+msgid "ROTab_Controls.captions_weapons[4]"
+msgstr "武器を捨てる"
+
+msgid "ROTab_Controls.captions_weapons[5]"
+msgstr "次の武器"
+
+msgid "ROTab_Controls.captions_weapons[6]"
+msgstr "前の武器"
+
+msgid "ROTab_Controls.captions_weapons[7]"
+msgstr "最良の武器に切り替え"
+
+msgid "ROTab_Controls.captions_weapons[8]"
+msgstr "最後に使った武器に切り替え"
+
+msgid "ROTab_Controls.captions_weapons[9]"
+msgstr "銃剣着脱/機関銃設置"
+
+msgid "ROTab_Controls.captions_weapons[10]"
+msgstr "機関銃の銃身交換"
+
+msgid "ROTab_Controls.captions_weapons[11]"
+msgstr "射撃モード切替"
+
+msgid "ROTab_Controls.captions_comm[0]"
+msgstr "Say(全員チャット)"
+
+msgid "ROTab_Controls.captions_comm[1]"
+msgstr "Team Say(\\"チームチャット)"
+
+msgid "ROTab_Controls.captions_comm[2]"
+msgstr "Vehicle Say(車両チャット)"
+
+msgid "ROTab_Controls.captions_comm[3]"
+msgstr "ボイスコマンドメニュー"
+
+msgid "ROTab_Controls.captions_comm[4]"
+msgstr "ゲーム内チャットを見る"
+
+msgid "ROTab_Controls.captions_comm[5]"
+msgstr "マイク有効"
+
+msgid "ROTab_Controls.captions_comm[6]"
+msgstr "Publicボイスチャンネルに切替"
+
+msgid "ROTab_Controls.captions_comm[7]"
+msgstr "Localボイスチャンネルに切替"
+
+msgid "ROTab_Controls.captions_comm[8]"
+msgstr "Teamボイスチャンネルに切替"
+
+msgid "ROTab_Controls.captions_game[0]"
+msgstr "ゲームメニューを開く"
+
+msgid "ROTab_Controls.captions_game[1]"
+msgstr "使う"
+
+msgid "ROTab_Controls.captions_game[2]"
+msgstr "機関銃手に弾を補給"
+
+msgid "ROTab_Controls.captions_game[3]"
+msgstr "ゲームを一時停止"
+
+msgid "ROTab_Controls.captions_misc[0]"
+msgstr "投票メニューを開く"
+
+msgid "ROTab_Controls.captions_misc[1]"
+msgstr "コンソールの表示/非表示"
+
+msgid "ROTab_Controls.captions_misc[2]"
+msgstr "接続情報を見る"
+
+msgid "ROTab_Controls.captions_misc[3]"
+msgstr "接続を中止する"
+
+msgid "ROTab_Controls.captions_misc[4]"
+msgstr "Demo録画を開始"
+
+msgid "ROTab_Controls.captions_misc[5]"
+msgstr "Demo録画を停止"
+
+msgid "ROTab_Controls.captions_misc[6]"
+msgstr "スクリーンショットを撮る"
+
+msgid "ROTab_Controls.captions_misc[7]"
+msgstr "サーバ情報を見る"
+
+msgid "ROTab_Controls.captions_misc[8]"
+msgstr "個人情報を表示"
+
+msgid "ROTab_Controls.captions_misc[9]"
+msgstr "次のプレイヤーの情報を見る"
+
+msgid "ROTab_Controls.captions_interface[0]"
+msgstr "戦況マップの表示/非表示"
+
+msgid "ROTab_Controls.captions_interface[1]"
+msgstr "戦果の表示/非表示"
+
+msgid "ROTab_Controls.captions_interface[2]"
+msgstr "戦果を表示"
+
+msgid "ROTab_Controls.captions_interface[3]"
+msgstr "HUDを増やす"
+
+msgid "ROTab_Controls.captions_interface[4]"
+msgstr "HUDを減らす"
+
+msgid "ROTab_Controls.InputBK1.Caption"
+msgstr "操作割り当て"
+
+msgid "ROTab_DetailSettings.DetailOptions[0]"
+msgstr "最低"
+
+msgid "ROTab_DetailSettings.DetailOptions[1]"
+msgstr "低い"
+
+msgid "ROTab_DetailSettings.DetailOptions[2]"
+msgstr "普通"
+
+msgid "ROTab_DetailSettings.DetailOptions[3]"
+msgstr "高い"
+
+msgid "ROTab_DetailSettings.DetailOptions[4]"
+msgstr "より高い"
+
+msgid "ROTab_DetailSettings.DetailOptions[5]"
+msgstr "最高"
+
+msgid "ROTab_DetailSettings.DetailOptions[6]"
+msgstr "カスタム"
+
+msgid "ROTab_DetailSettings.ScopeLevels[0]"
+msgstr "モデル (低)"
+
+msgid "ROTab_DetailSettings.ScopeLevels[1]"
+msgstr "テクスチャ"
+
+msgid "ROTab_DetailSettings.ScopeLevels[2]"
+msgstr "モデル (高)"
+
+msgid "ROTab_DetailSettings.RenderModeText[2]"
+msgstr "ソフトウェア"
+
+msgid "ROTab_DetailSettings.Advanced.Caption"
+msgstr "拡張オプションを表示"
+
+msgid "ROTab_DetailSettings.Advanced.Hint"
+msgstr "拡張オプションの表示/非表示"
+
+msgid "ROTab_DetailSettings.GlobalDetails.Caption"
+msgstr "画質"
+
+msgid "ROTab_DetailSettings.GlobalDetails.Hint"
+msgstr "ゲーム中のグラフィックディティールを選択"
+
+msgid "ROTab_DetailSettings.HDRCheckbox.Caption"
+msgstr "HDRブルーム"
+
+msgid "ROTab_DetailSettings.HDRCheckbox.Hint"
+msgstr "ブルームエフェクトを有効"
+
+msgid "ROTab_DetailSettings.MotionBlur.Caption"
+msgstr "モーションブラー"
+
+msgid "ROTab_DetailSettings.MotionBlur.Hint"
+msgstr "爆発時のモーションブラーを有効"
+
+msgid "ROTab_DetailSettings.ScopeDetail.Caption"
+msgstr "スコープディティール"
+
+msgid "ROTab_DetailSettings.ScopeDetail.Hint"
+msgstr "スコープのディティールを選択"
+
+msgid "ROTab_DetailSettings.sbSection1.Caption"
+msgstr "解像度"
+
+msgid "ROTab_DetailSettings.sbSection3.Caption"
+msgstr "ガンマテスト"
+
+msgid "ROTab_GameSettings.PanelCaption"
+msgstr "ゲーム"
+
+msgid "ROTab_GameSettings.GameBK1.Caption"
+msgstr "ゲームプレイ"
+
+msgid "ROTab_GameSettings.GameBK2.Caption"
+msgstr "ネットワーク"
+
+msgid "ROTab_GameSettings.GameBK3.Caption"
+msgstr "シミュレーションリアリズム"
+
+msgid "ROTab_GameSettings.GameGoreLevel.Caption"
+msgstr "残虐表現"
+
+msgid "ROTab_GameSettings.GameGoreLevel.Hint"
+msgstr "ゲーム中の流血表現や残虐表現を調節"
+
+msgid "ROTab_GameSettings.ManualReloading.Caption"
+msgstr "戦車砲弾の手動装填"
+
+msgid "ROTab_GameSettings.ManualReloading.Hint"
+msgstr "戦車砲弾の自動装填を解除し、装填の前に砲弾タイプを切り替える事が出来ます"
+
+msgid "ROTab_GameSettings.NetworkDynamicNetspeed.Hint"
+msgstr "回線速度があなたのネットワーク接続速度に自動で調節されます"
+
+msgid "ROTab_GameSettings.OnlineNetSpeed.Caption"
+msgstr "回線速度"
+
+msgid "ROTab_GameSettings.OnlineNetSpeed.Hint"
+msgstr "あなたの回線速度は?"
+
+msgid "ROTab_GameSettings.OnlineStatsName.Caption"
+msgstr "プレイヤー名"
+
+msgid "ROTab_GameSettings.OnlineStatsName.Hint"
+msgstr "ゲーム中に使用する名前を設定"
+
+msgid "ROTab_GameSettings.ThrottleTanks.Caption"
+msgstr "インクリメンタルスロット[戦車]"
+
+msgid "ROTab_GameSettings.ThrottleTanks.Hint"
+msgstr "有効にすることで戦車のスロットルを少しずつ増減することができます"
+
+msgid "ROTab_GameSettings.ThrottleVehicle.Caption"
+msgstr "インクリメンタルスロット[車両]"
+
+msgid "ROTab_GameSettings.ThrottleVehicle.Hint"
+msgstr "有効にすることで戦車以外の車両のスロットルを少しずつ増減することができます"
+
+msgid "ROTab_Hud.Hints<0>"
+msgstr "すべてのヒント(リセット)"
+
+msgid "ROTab_Hud.Hints<1>"
+msgstr "新しいヒントのみ"
+
+msgid "ROTab_Hud.Hints<2>"
+msgstr "ヒントなし"
+
+msgid "ROTab_Hud.GameBK.Caption"
+msgstr "オプション"
+
+msgid "ROTab_Hud.GameBK1.Caption"
+msgstr "スタイル"
+
+msgid "ROTab_Hud.HintsCombo.Caption"
+msgstr "ヒントレベル"
+
+msgid "ROTab_Hud.HintsCombo.Hint"
+msgstr "ゲーム中のヒントのレベルを選択"
+
+msgid "ROTab_Hud.ShowCompass.Caption"
+msgstr "コンパスの表示"
+
+msgid "ROTab_Hud.ShowCompass.Hint"
+msgstr "HUDにコンパスを表示"
+
+msgid "ROTab_Hud.ShowMapFirstSpawn.Caption"
+msgstr "初回復活時にマップを表示"
+
+msgid "ROTab_Hud.ShowMapFirstSpawn.Hint"
+msgstr "それぞれのレベルで初回復活時に戦況マップを表示"
+
+msgid "ROTab_Hud.ShowMapUpdateText.Caption"
+msgstr "'戦況マップ更新'の文字を表示"
+
+msgid "ROTab_Hud.ShowMapUpdateText.Hint"
+msgstr "'戦況マップ更新'をHUDに表示"
+
+msgid "ROTab_Hud.UseNativeRoleNames.Caption"
+msgstr "役職名に各国の呼称を使用"
+
+msgid "ROTab_Hud.UseNativeRoleNames.Hint"
+msgstr "HUDやメニューに表示される役職名を各国の呼称で表示"
+
+msgid "ROTab_Hud.myGameHudOpacity.Caption"
+msgstr "HUDの不透明度"
+
+msgid "ROTab_Hud.myGameHudOpacity.Hint"
+msgstr "HUDの透明度を調節"
+
+msgid "ROTab_Hud.myHudScale.Caption"
+msgstr "HUDサイズ"
+
+msgid "ROTab_Hud.myHudScale.Hint"
+msgstr "HUD上のアイテムの大きさを調節"
+
+msgid "ROTab_Input.InputBK1.Caption"
+msgstr "オプション"
+
+msgid "ROTab_Input.InputBK3.Caption"
+msgstr "微調整"
+
+msgid "ROUT2K4Browser_Footer.BrowserBack.Caption"
+msgstr "戻る"
+
+msgid "ROUT2K4Browser_Footer.BrowserBack.Hint"
+msgstr "前のメニューに戻る"
+
+msgid "ROUT2K4Browser_Footer.BrowserFilter.Caption"
+msgstr "フィルタ"
+
+msgid "ROUT2K4Browser_Footer.BrowserFilter.Hint"
+msgstr "フィルタでサーバの絞込みが可能"
+
+msgid "ROUT2K4Browser_Footer.BrowserJoin.Caption"
+msgstr "接続"
+
+msgid "ROUT2K4Browser_Footer.BrowserRefresh.Caption"
+msgstr "更新"
+
+msgid "ROUT2K4Browser_Footer.BrowserSpec.Caption"
+msgstr "観戦"
+
+msgid "ROUT2K4Browser_Footer.OnlyStandardCheckBox.Caption"
+msgstr "標準サーバのみ"
+
+msgid "ROUT2K4Browser_Footer.OnlyStandardCheckBox.Hint"
+msgstr "サーバリストに標準のサーバのみ表示"
+
+msgid "ROUT2K4GameFooterSP.GameBackButton.Caption"
+msgstr "戻る"
+
+msgid "ROUT2K4GameFooterSP.GameBackButton.Hint"
+msgstr "前のメニューに戻る"
+
+msgid "ROUT2K4GamePageMP.MPFooter.PrimaryHint"
+msgstr "以上の設定でListenサーバを開始"
+
+msgid "ROUT2K4GamePageMP.MPFooter.SecondaryHint"
+msgstr "以上の設定でDedicatedサーバを開始"
+
+msgid "ROUT2K4GamePageSP.PageCaption"
+msgstr "シングルプレイヤー"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<1>"
+msgstr "マップ選択"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<2>"
+msgstr "ゲームルール"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<3>"
+msgstr "ミューテータ"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<4>"
+msgstr "Bot設定"
+
+msgid "ROUT2K4GamePageSP.PanelHint<1>"
+msgstr "現在のゲームタイプで使用するマップを選択..."
+
+msgid "ROUT2K4GamePageSP.PanelHint<2>"
+msgstr "ゲームのルールを設定..."
+
+msgid "ROUT2K4GamePageSP.PanelHint<3>"
+msgstr "ミューテータの使用および設定..."
+
+msgid "ROUT2K4GamePageSP.PanelHint<4>"
+msgstr "Botの設定..."
+
+msgid "ROUT2K4GamePageSP.SPFooter.PrimaryCaption"
+msgstr "模擬訓練を開始"
+
+msgid "ROUT2K4GamePageSP.SPFooter.PrimaryHint"
+msgstr "現在の設定で模擬訓練を開始"
+
+msgid "ROUT2K4PlayerSetupPage.psTitleBar.Caption"
+msgstr "プレイヤー設定"
+
+msgid "ROUT2K4QuitPage.cNoButton.Caption"
+msgstr "いいえ"
+
+msgid "ROUT2K4QuitPage.cYesButton.Caption"
+msgstr "はい"
+
+msgid "ROUT2K4Tab_MainSP.DifficultyCombo.Caption"
+msgstr "難易度"
+
+msgid "ROUT2K4Tab_MainSP.DifficultyCombo.Hint"
+msgstr "対戦する敵の強さを選択"
+
+msgid "ROUT2K4Tab_MainSP.MaplistButton.ButtonCaption"
+msgstr "マップリスト設定"
+
+msgid "ROUT2K4Tab_MainSP.MaplistButton.Hint"
+msgstr "ゲームプレイに使用するマップリストを設定"
+
+msgid "ROUT2K4Tab_MainSP.OptionsContainer.Caption"
+msgstr "オプション"
+
+msgid "ROUT2K4Tab_MainSP.PreviewGroup.Caption"
+msgstr "プレビュー"
+
+msgid "ROUT2K4Tab_MainSP.SelectionGroup.Caption"
+msgstr "マップ選択"
+
+msgid "ROUT2K4Tab_MutatorSP.ActiveBackground.Caption"
+msgstr "使用するミューテータ"
+
+msgid "ROUT2K4Tab_MutatorSP.AvailBackground.Caption"
+msgstr "利用可能なミューテータ"
+
+msgid "ROUT2K4Tab_MutatorSP.DescriptionBackground.Caption"
+msgstr "ミューテータの詳細"
+
+msgid "ROUT2k4Browser_MOTD.VersionString"
+msgstr "ROバージョン"
+
+msgid "ROUT2k4Browser_MOTD.PanelCaption"
+msgstr "Tripwire Interactiveからの新着情報"
+
+msgid "RoleFullMsg.RoleFullMessage"
+msgstr "選択した兵科は満員です。他の兵科を選択してください"

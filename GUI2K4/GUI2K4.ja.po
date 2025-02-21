@@ -1,2 +1,603 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain\n"
+"Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
+
+msgid "MaplistEditor.WindowName"
+msgstr "マップリスト編集"
+
+msgid "MutatorConfigMenu.ConfigButtonText"
+msgstr "開く"
+
+msgid "MutatorConfigMenu.EditButtonText"
+msgstr "編集"
+
+msgid "MutatorConfigMenu.NoPropsMessage"
+msgstr "設定可能な項目なし"
+
+msgid "MutatorConfigMenu.SubCaption"
+msgstr "ミューテータの設定"
+
+msgid "MutatorConfigMenu.WindowName"
+msgstr "カスタム設定"
+
+msgid "MutatorConfigMenu.AdvancedButton.Caption"
+msgstr "拡張オプション"
+
+msgid "MutatorConfigMenu.AdvancedButton.Hint"
+msgstr "拡張オプションの表示/非表示"
+
+msgid "UT2K4Browser_Page.MustUpgradeString"
+msgstr "アップグレードが利用できます。ニュースページを更新してください。"
+
+msgid "UT2K4Browser_Page.QueryCompleteString"
+msgstr "問い合わせ完了!"
+
+msgid "UT2K4Browser_Page.StartQueryString"
+msgstr "マスターサーバ問い合わせ完了"
+
+msgid "UT2K4Browser_Page.AuthFailString"
+msgstr "認証に失敗"
+
+msgid "UT2K4Browser_Page.ConnFailString"
+msgstr "接続に失敗"
+
+msgid "UT2K4Browser_Page.ConnTimeoutString"
+msgstr "接続がタイムアウトになりました"
+
+msgid "UT2K4Browser_Page.RetryString"
+msgstr " - 再試行中"
+
+msgid "UT2K4Browser_Page.ReadyString"
+msgstr "準備完了"
+
+msgid "UT2K4Browser_Page.BackCaption"
+msgstr "戻る"
+
+msgid "UT2K4Browser_Page.RefreshCaption"
+msgstr "更新"
+
+msgid "UT2K4Browser_Page.JoinCaption"
+msgstr "参加"
+
+msgid "UT2K4Browser_Page.SpectateCaption"
+msgstr "観戦"
+
+msgid "UT2K4Browser_Page.FilterCaption"
+msgstr "フィルタ"
+
+msgid "UT2K4Browser_Page.UnspecifiedNetworkError"
+msgstr "ネットワーク接続中に未知のエラーが検出されました。"
+
+msgid "UT2K4Browser_ServerListPageMS.PanelCaption"
+msgstr "サーバブラウザ : Internet"
+
+msgid "UT2K4QuitPage.cQuitDesc.Caption"
+msgstr "本当に終了しますか？"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[0]"
+msgstr "最低"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[1]"
+msgstr "かなり低い"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[2]"
+msgstr "より低い"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[3]"
+msgstr "低い"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[4]"
+msgstr "普通"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[5]"
+msgstr "高い"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[6]"
+msgstr "より高い"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[7]"
+msgstr "かなり高い"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[8]"
+msgstr "最高"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[0]"
+msgstr "なし"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[1]"
+msgstr "円形"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[2]"
+msgstr "完全"
+
+msgid "UT2K4Tab_DetailSettings.RenderModeText[1]"
+msgstr "ソフトウェア"
+
+msgid "UT2K4Tab_DetailSettings.RelaunchQuestion"
+msgstr "グラフィックモードが変更されました。変更は次回起動時に適用されます。今すぐRed Orchestraを再起動しますか?"
+
+msgid "UT2K4Tab_DetailSettings.InvalidSelectionText"
+msgstr "選択された解像度はあなたのマシンでは使用できません。'解像度'ドロップダウンメニューから互換性のある解像度を選択してください。"
+
+msgid "UT2K4Tab_DetailSettings.PanelCaption"
+msgstr "ディスプレイ"
+
+msgid "UT2K4Tab_DetailSettings.BrightnessSlider.Caption"
+msgstr "明るさ"
+
+msgid "UT2K4Tab_DetailSettings.BrightnessSlider.Hint"
+msgstr "モニタに合わせて明るさを調節"
+
+msgid "UT2K4Tab_DetailSettings.ContrastSlider.Caption"
+msgstr "コントラスト"
+
+msgid "UT2K4Tab_DetailSettings.ContrastSlider.Hint"
+msgstr "モニタに合わせてコントラストを調節"
+
+msgid "UT2K4Tab_DetailSettings.DetailAnisotropy.Caption"
+msgstr "異方性フィルタリング"
+
+msgid "UT2K4Tab_DetailSettings.DetailAnisotropy.Hint"
+msgstr "異方性のフィルタリングのレベルを調節してください。低スペックPCの場合は'無し'を推奨します。"
+
+msgid "UT2K4Tab_DetailSettings.DetailAntialiasing.Caption"
+msgstr "アンチエイリアス"
+
+msgid "UT2K4Tab_DetailSettings.DetailAntialiasing.Hint"
+msgstr "アンチエイリアスのためにマルチサンプリングの詳細を調節してください。低スペックPCの場合は'無し'を推奨します。"
+
+msgid "UT2K4Tab_DetailSettings.DetailCharacterDetail.Caption"
+msgstr "キャラクターディティール"
+
+msgid "UT2K4Tab_DetailSettings.DetailCharacterDetail.Hint"
+msgstr "キャラクタのディティールを設定"
+
+msgid "UT2K4Tab_DetailSettings.DetailCharacterShadows.Caption"
+msgstr "キャラクターシャドウ"
+
+msgid "UT2K4Tab_DetailSettings.DetailCharacterShadows.Hint"
+msgstr "キャラクタの影を選択。マシンスペックが低い場合は'なし'もしくは'円形'を推奨"
+
+msgid "UT2K4Tab_DetailSettings.DetailCoronas.Caption"
+msgstr "コロナ"
+
+msgid "UT2K4Tab_DetailSettings.DetailCoronas.Hint"
+msgstr "コロナを有効"
+
+msgid "UT2K4Tab_DetailSettings.DetailDecalStay.Caption"
+msgstr "弾痕表示時間"
+
+msgid "UT2K4Tab_DetailSettings.DetailDecalStay.Hint"
+msgstr "弾痕がどのくらいの時間表示されるか設定"
+
+msgid "UT2K4Tab_DetailSettings.DetailDecals.Caption"
+msgstr "弾痕"
+
+msgid "UT2K4Tab_DetailSettings.DetailDecals.Hint"
+msgstr "弾痕を有効"
+
+msgid "UT2K4Tab_DetailSettings.DetailDecoLayers.Caption"
+msgstr "木の葉"
+
+msgid "UT2K4Tab_DetailSettings.DetailDecoLayers.Hint"
+msgstr "草や木の葉などの装飾を有効"
+
+msgid "UT2K4Tab_DetailSettings.DetailDetailTextures.Caption"
+msgstr "ディティールテクスチャ"
+
+msgid "UT2K4Tab_DetailSettings.DetailDetailTextures.Hint"
+msgstr "ディティールテクスチャを有効"
+
+msgid "UT2K4Tab_DetailSettings.DetailDynamicLighting.Caption"
+msgstr "ダイナミックライティング"
+
+msgid "UT2K4Tab_DetailSettings.DetailDynamicLighting.Hint"
+msgstr "ダイナミックライティングを有効"
+
+msgid "UT2K4Tab_DetailSettings.DetailForceFSAASS.Caption"
+msgstr "Force FSAAスクリーンショット"
+
+msgid "UT2K4Tab_DetailSettings.DetailPhysics.Caption"
+msgstr "物理演算"
+
+msgid "UT2K4Tab_DetailSettings.DetailPhysics.Hint"
+msgstr "物理シミュレーションのレベルを設定"
+
+msgid "UT2K4Tab_DetailSettings.DetailProjectors.Caption"
+msgstr "プロジェクター"
+
+msgid "UT2K4Tab_DetailSettings.DetailProjectors.Hint"
+msgstr "プロジェクタを有効"
+
+msgid "UT2K4Tab_DetailSettings.DetailTextureDetail.Caption"
+msgstr "テクスチャディティール"
+
+msgid "UT2K4Tab_DetailSettings.DetailTextureDetail.Hint"
+msgstr "テクスチャのディティールを設定"
+
+msgid "UT2K4Tab_DetailSettings.DetailTrilinear.Caption"
+msgstr "トライリニアフィルタリング"
+
+msgid "UT2K4Tab_DetailSettings.DetailTrilinear.Hint"
+msgstr "トライリニアフィルタリングを有効"
+
+msgid "UT2K4Tab_DetailSettings.DetailWorldDetail.Caption"
+msgstr "ワールドディティール"
+
+msgid "UT2K4Tab_DetailSettings.DetailWorldDetail.Hint"
+msgstr "地形やエフェクトなどのディティールを選択"
+
+msgid "UT2K4Tab_DetailSettings.DistanceLODSlider.Caption"
+msgstr "フォグの距離"
+
+msgid "UT2K4Tab_DetailSettings.DistanceLODSlider.Hint"
+msgstr "フォグの距離を減らすとパフォーマンスが向上"
+
+msgid "UT2K4Tab_DetailSettings.GammaSlider.Caption"
+msgstr "ガンマ"
+
+msgid "UT2K4Tab_DetailSettings.GammaSlider.Hint"
+msgstr "モニタに合わせてガンマ値を調節"
+
+msgid "UT2K4Tab_DetailSettings.MeshLOD.Caption"
+msgstr "ダイナミックメッシュLOD"
+
+msgid "UT2K4Tab_DetailSettings.MeshLOD.Hint"
+msgstr "キャラクタや乗り物のディティールが距離によってどの程度落とされるかを調節。設定を高くするとディティールが落とされる距離が増加"
+
+msgid "UT2K4Tab_DetailSettings.RenderDeviceCombo.Caption"
+msgstr "レンダーデバイス"
+
+msgid "UT2K4Tab_DetailSettings.RenderDeviceCombo.Hint"
+msgstr "代替のレンダリングデバイスはマシンの性能を上げてくれるかもしれません"
+
+msgid "UT2K4Tab_DetailSettings.VideoColorDepth.Caption"
+msgstr "色数"
+
+msgid "UT2K4Tab_DetailSettings.VideoColorDepth.Hint"
+msgstr "画面表示の最大色数を選択"
+
+msgid "UT2K4Tab_DetailSettings.VideoFullScreen.Caption"
+msgstr "フルスクリーン"
+
+msgid "UT2K4Tab_DetailSettings.VideoFullScreen.Hint"
+msgstr "フルスクリーンでプレイ"
+
+msgid "UT2K4Tab_DetailSettings.VideoResolution.Caption"
+msgstr "解像度"
+
+msgid "UT2K4Tab_DetailSettings.VideoResolution.Hint"
+msgstr "解像度を選択"
+
+msgid "UT2K4Tab_DetailSettings.WeatherEffects.Caption"
+msgstr "天候効果"
+
+msgid "UT2K4Tab_DetailSettings.WeatherEffects.Hint"
+msgstr "雨や雷などの天候効果を有効"
+
+msgid "UT2K4Tab_MainBase.AuthorText"
+msgstr "製作者"
+
+msgid "UT2K4Tab_MainBase.PlayerText"
+msgstr "人用"
+
+msgid "UT2K4Tab_MainSP.MapCaption"
+msgstr "マップ"
+
+msgid "UT2K4Tab_MainSP.AvailableMaps.Hint"
+msgstr "プレビューと説明を見るにはマップ名をクリック。マップ名をダブルクリックすればそのマップで訓練開始"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorAdd.Caption"
+msgstr "追加"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorAdd.Hint"
+msgstr "選択中のミューテータを使用するミューテータリストに追加"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorAll.Caption"
+msgstr "すべて追加"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorAll.Hint"
+msgstr "すべてのミューテータを使用するミューテータリストに追加"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorAvailList.Hint"
+msgstr "利用可能なミューテータ"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorClear.Caption"
+msgstr "すべて削除"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorClear.Hint"
+msgstr "使用するミューテータリストからすべてのミューテータを削除"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorConfig.Caption"
+msgstr "ミューテータ設定"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorConfig.Hint"
+msgstr "選択したミューテータの設定"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorRemove.Caption"
+msgstr "削除"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorRemove.Hint"
+msgstr "選択中のミューテータを使用するミューテータリストから削除"
+
+msgid "UT2K4Tab_MutatorBase.IAMutatorSelectedList.Hint"
+msgstr "選択されたミューテータ"
+
+msgid "UT2K4Tab_PlayerLoginControls.BuddyText"
+msgstr "相棒リストに追加"
+
+msgid "UT2K4_FilterListPage.CantRemove"
+msgstr "デフォルトフィルタは削除できない"
+
+msgid "UT2K4_FilterListPage.WindowName"
+msgstr "フィルタを選択"
+
+msgid "UT2K4_FilterListPage.bCancel.Caption"
+msgstr "中止"
+
+msgid "UT2K4_FilterListPage.bCreate.Caption"
+msgstr "作成"
+
+msgid "UT2K4_FilterListPage.bEdit.Caption"
+msgstr "編集"
+
+msgid "UT2K4_FilterListPage.bOk.Caption"
+msgstr "決定"
+
+msgid "UT2K4_FilterListPage.bRemove.Caption"
+msgstr "削除"
+
+msgid "UT2K4_FilterListPage.sbBackground.Caption"
+msgstr "フィルタ..."
+
+msgid "UT2k4Browser_BuddyList.ColumnHeadings<0>"
+msgstr "相棒名"
+
+msgid "UT2k4Browser_IRC.SystemLabel"
+msgstr "システム"
+
+msgid "UT2k4Browser_IRC.PanelCaption"
+msgstr "Red Orchestraインターネットチャットクライアント"
+
+msgid "UT2k4Browser_MOTD.UpgradeCaption"
+msgstr "アップグレード"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<0>"
+msgstr "名前"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<1>"
+msgstr "戦果"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<2>"
+msgstr "順位"
+
+msgid "UT2k4Browser_PlayersListBox.ContextMenuText[1]"
+msgstr "相棒リストに追加"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<0>"
+msgstr "設定項目"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<1>"
+msgstr "値"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<0>"
+msgstr "サーバに入る"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<1>"
+msgstr "観戦者として入る"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<3>"
+msgstr "サーバ情報を更新"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<4>"
+msgstr "リストを更新"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<6>"
+msgstr "フィルタを設定"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<7>"
+msgstr "テンプレートを作成"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<8>"
+msgstr "すべてのフィルタを解除"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<10>"
+msgstr "お気に入りに追加"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<11>"
+msgstr "サーバアドレスをコピー"
+
+msgid "UT2k4Browser_ServerListBox.RCMenu.ContextItems<12>"
+msgstr "IPを開く"
+
+msgid "UT2k4Browser_ServerListPageBase.PingingText"
+msgstr "サーバ取得中 ( %NumRec% / %TotalNum% )"
+
+msgid "UT2k4Browser_ServerListPageBase.QueryCompleteString"
+msgstr "問い合わせ完了! %NumServers%個のサーバを取得"
+
+msgid "UT2k4Browser_ServerListPageBase.PanelCaption"
+msgstr "サーバブラウザ"
+
+msgid "UT2k4Browser_ServerListPageBuddy.AddBuddyCaption"
+msgstr "相棒の追加"
+
+msgid "UT2k4Browser_ServerListPageBuddy.AddBuddyLabel"
+msgstr "相棒の追加"
+
+msgid "UT2k4Browser_ServerListPageBuddy.RemoveBuddyCaption"
+msgstr "相棒の削除"
+
+msgid "UT2k4Browser_ServerListPageBuddy.BuddyNameCaption"
+msgstr "相棒名: "
+
+msgid "UT2k4Browser_ServerListPageBuddy.PanelCaption"
+msgstr "相棒ブラウザ"
+
+msgid "UT2k4Browser_ServerListPageBuddy.RCMenu.ContextItems<0>"
+msgstr "相棒の追加"
+
+msgid "UT2k4Browser_ServerListPageBuddy.RCMenu.ContextItems<1>"
+msgstr "相棒の削除"
+
+msgid "UT2k4Browser_ServerListPageFavorites.AddFavoriteCaption"
+msgstr "お気に入りに追加"
+
+msgid "UT2k4Browser_ServerListPageFavorites.RemoveFavoriteCaption"
+msgstr "お気に入りから削除"
+
+msgid "UT2k4Browser_ServerListPageFavorites.RemoveFavoriteText"
+msgstr "お気に入りから削除"
+
+msgid "UT2k4Browser_ServerListPageFavorites.EditFavoriteText"
+msgstr "IPアドレスを編集"
+
+msgid "UT2k4Browser_ServerListPageFavorites.PanelCaption"
+msgstr "サーバブラウザ : お気に入り"
+
+msgid "UT2k4Browser_ServerListPageLAN.PanelCaption"
+msgstr "サーバブラウザ : LAN"
+
+msgid "UT2k4Browser_ServersList.IconDescriptions<0>"
+msgstr "要パスワード"
+
+msgid "UT2k4Browser_ServersList.IconDescriptions<2>"
+msgstr "最新バージョン"
+
+msgid "UT2k4Browser_ServersList.IconDescriptions<3>"
+msgstr "Listenサーバ"
+
+msgid "UT2k4Browser_ServersList.IconDescriptions<4>"
+msgstr "VAC保護"
+
+msgid "UT2k4Browser_ServersList.IconDescriptions<5>"
+msgstr "標準サーバ"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<1>"
+msgstr "サーバ名"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<2>"
+msgstr "マップ"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<3>"
+msgstr "プレイヤー数"
+
+msgid "UT2k4IRC_Panel.ConnectText"
+msgstr "接続"
+
+msgid "UT2k4IRC_Panel.DisconnectText"
+msgstr "切断"
+
+msgid "UT2k4IRC_Panel.MyChannelCombo.Caption"
+msgstr "チャンネル"
+
+msgid "UT2k4IRC_Panel.MyConnectButton.Caption"
+msgstr "接続"
+
+msgid "UT2k4IRC_Panel.MyJoinChannelButton.Caption"
+msgstr "入室"
+
+msgid "UT2k4IRC_Panel.MyRemoveChannelButton.Caption"
+msgstr "削除"
+
+msgid "UT2k4IRC_Panel.MyRemoveServerButton.Caption"
+msgstr "削除"
+
+msgid "UT2k4IRC_Panel.MyServerCombo.Caption"
+msgstr "サーバ"
+
+msgid "UT2k4IRC_System.ChooseNewNickText"
+msgstr "新たなIRCニックネームを選択"
+
+msgid "UT2k4IRC_System.NickInUseText"
+msgstr "そのニックネームは既に使用されています。"
+
+msgid "UT2k4IRC_System.NickInvalidText"
+msgstr "そのニックネームが無効です。"
+
+msgid "UT2k4IRC_System.LeavePrivateText"
+msgstr "%ChanName% を閉じる"
+
+msgid "UT2k4IRC_System.CloseWindowCaption"
+msgstr "チャンネルから退室"
+
+msgid "UT2k4IRC_System.DisconnectCaption"
+msgstr "切断"
+
+msgid "UT2k4IRC_System.ChangeNickCaption"
+msgstr "ニックネームを変更"
+
+msgid "UT2k4ServerBrowser.PanelCaption<0>"
+msgstr "新着情報"
+
+msgid "UT2k4ServerBrowser.PanelCaption<1>"
+msgstr "チャット"
+
+msgid "UT2k4ServerBrowser.PanelCaption<2>"
+msgstr "お気に入り"
+
+msgid "UT2k4ServerBrowser.PanelCaption<4>"
+msgstr "相棒"
+
+msgid "UT2k4ServerBrowser.PanelHint<0>"
+msgstr "Tripwireからの新着情報を読む"
+
+msgid "UT2k4ServerBrowser.PanelHint<1>"
+msgstr "RO搭載のIRCクライアント"
+
+msgid "UT2k4ServerBrowser.PanelHint<2>"
+msgstr "お気に入りの中から参加するサーバを選択"
+
+msgid "UT2k4ServerBrowser.PanelHint<3>"
+msgstr "現在LAN上で稼動しているすべてのサーバを表示"
+
+msgid "UT2k4ServerBrowser.PanelHint<4>"
+msgstr "相棒がプレイしているサーバを表示"
+
+msgid "UT2k4ServerBrowser.PanelHint<5>"
+msgstr "世界中のサーバから参加するサーバから選択"
+
+msgid "UT2k4ServerBrowser.GameTypeCombo.Caption"
+msgstr "ゲームタイプ"
+
+msgid "UT2k4ServerBrowser.ServerBrowserHeader.Caption"
+msgstr "サーバブラウザ"
+
+msgid "Ut2K4_FilterEdit.WindowName"
+msgstr "フィルタを編集..."
+
+msgid "Ut2K4_FilterEdit.bCancel.Caption"
+msgstr "中止"
+
+msgid "Ut2K4_FilterEdit.bOk.Caption"
+msgstr "決定"
+
+msgid "Ut2K4_FilterEdit.cbStats.Caption"
+msgstr "統計サーバ:"
+
+msgid "Ut2K4_FilterEdit.ckBots.Caption"
+msgstr "Botなし"
+
+msgid "Ut2K4_FilterEdit.ckEmpty.Caption"
+msgstr "誰もいないサーバを表示しない"
+
+msgid "Ut2K4_FilterEdit.ckFull.Caption"
+msgstr "満員のサーバを表示しない"
+
+msgid "Ut2K4_FilterEdit.ckPassworded.Caption"
+msgstr "パスワードが必要なサーバを表示しない"
+
+msgid "Ut2K4_FilterEdit.ckVACOnly.Caption"
+msgstr "Valve Anti-Cheatで保護されたサーバのみ表示"
+
+msgid "Ut2K4_FilterEdit.ebName.Caption"
+msgstr "フィルタ名:"
+
+msgid "Ut2K4_FilterEdit.sbMutators.Caption"
+msgstr "カスタムミューテータ設定"
+
+msgid "Ut2K4_FilterEdit.sbOptions.Caption"
+msgstr "項目..."
