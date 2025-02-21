@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 21:57+0000\n"
+"PO-Revision-Date: 2025-02-21 20:32+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
@@ -1193,7 +1193,7 @@ msgid "DH_DUKWSupport.VehicleNameString"
 msgstr "Амфибия DUKW (Поддержка)"
 
 msgid "DH_HetzerVehicleMessage.MGBlockingHatch"
-msgstr "Пулемёт блокирует люк — отверните его в сторону, чтобы открыть"
+msgstr "Пулемёт блокирует люк - поверните его в сторону, чтобы открыть"
 
 msgid "DH_ShermanCannon.nProjectileDescriptions<2>"
 msgstr "M64 WP"
