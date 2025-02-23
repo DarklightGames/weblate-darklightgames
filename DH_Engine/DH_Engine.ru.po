@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-23 15:01+0000\n"
+"PO-Revision-Date: 2025-02-23 16:48+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -458,9 +458,7 @@ msgstr ""
 "секунд."
 
 msgid "DHFireSupportMessage.ArtilleryOperatorNotification"
-msgstr ""
-"Командир отряда {squad} запрашивает {type} по цели, отмеченной для средств "
-"огневой поддержки."
+msgstr "Командир отряда {squad} запрашивает {type}."
 
 msgid "DHFireSupportMessage.ErrorText"
 msgstr "Не удалось отметить цель огневой поддержки."
@@ -982,7 +980,7 @@ msgid "DHHud.SelectSpawnPointText"
 msgstr "Нажмите [ESC], чтобы выбрать точку появления"
 
 msgid "DHMapMarker_FireSupport_HE.MarkerName"
-msgstr "удар осколочными снарядами"
+msgstr "удар ОСКОЛОЧНЫМИ снарядами"
 
 msgid "DHHud.SpawnRallyPointText"
 msgstr ""
@@ -1092,7 +1090,7 @@ msgid "DHMapMarker_AdminParadrop.MarkerName"
 msgstr "Администратор: Разместить точку для десантирования"
 
 msgid "DHMapMarker_FireSupport_Smoke.MarkerName"
-msgstr "удар дымовыми снарядами"
+msgstr "удар ДЫМОВЫМИ снарядами"
 
 msgid "DHMapMarker_Friendly_PlatoonHQ.MarkerName"
 msgstr "Запросить штаба взвода"
