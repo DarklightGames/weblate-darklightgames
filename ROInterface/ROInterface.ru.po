@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 20:32+0000\n"
+"PO-Revision-Date: 2025-02-23 15:01+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ru/>\n"
@@ -151,7 +151,7 @@ msgid "ROTab_Controls.Headings[2]"
 msgstr "Клавиша 2"
 
 msgid "ROControlBinder.BindingLabel[4]"
-msgstr "Сменить роль"
+msgstr "Сменить должность"
 
 msgid "ROControlBinder.BindingLabel[6]"
 msgstr "Лечь"
