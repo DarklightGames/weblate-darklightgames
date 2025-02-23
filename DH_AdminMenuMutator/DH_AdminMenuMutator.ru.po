@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 20:32+0000\n"
+"PO-Revision-Date: 2025-02-23 15:01+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/ru/>\n"
@@ -183,7 +183,7 @@ msgid "DHAdminMenu_NotifyMessages.BroadcastMinesDisabled"
 msgstr "Все минные поля отключены администратором"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText<7>"
-msgstr "Переключить игрока на роль войск Оси"
+msgstr "Переместить игрока на должность войск Оси"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<14>"
 msgstr "Убить всех игроков (завершите матч в режиме реализма)"
@@ -313,7 +313,7 @@ msgid "DHAdminMenu_ErrorMessages.ErrorMessage[18]"
 msgstr "ОШИБКА: не указано допустимое название команды"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[19]"
-msgstr "ОШИБКА: невозможно найти роль игрока %insert_name%"
+msgstr "ОШИБКА: невозможно найти должность игрока %insert_name%"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[21]"
 msgstr ""
@@ -347,7 +347,7 @@ msgid "DHAdminMenu_MenuBase.Label_ExitMenu"
 msgstr "Esc = выйти из меню администратора"
 
 msgid "DHAdminMenu_NotifyMessages.NotifySwitch"
-msgstr "Вы были переведены на новую роль или команду администратором"
+msgstr "Вы были переведены на новую должность или команду администратором"
 
 msgid "DHAdminMenu_NotifyMessages.NotifyParaDrop"
 msgstr "Вы были куда-то десантированы администратором"
@@ -398,7 +398,7 @@ msgid "DHAdminMenu_PlayerActionsMenu.MenuText<5>"
 msgstr "Запретить общаться этому игроку"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText<6>"
-msgstr "Переключить игрока на роль Союзников"
+msgstr "Переместить игрока на должность Союзников"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText<8>"
 msgstr "Выбросить игрока из парашюта возле цели"
