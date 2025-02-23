@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 20:32+0000\n"
+"PO-Revision-Date: 2025-02-23 15:01+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -450,15 +450,17 @@ msgid "DHExitMovingVehicleDamageType.MaleSuicide"
 msgstr "%o погиб, выпрыгнув из мчащейся машины."
 
 msgid "DHFireSupportMessage.OnMapArtilleryRequestConfirmedText"
-msgstr "Цель огневой поддержки отмечена."
+msgstr "Цель для огневой поддержки отмечена."
 
 msgid "DHFireSupportMessage.OnMapArtilleryRequestingLocked"
 msgstr ""
-"Вы не можете отметить еще одну цель огневой поддержки в течение еще {seconds}"
-" секунд."
+"Вы не можете отметить ещё одну цель огневой поддержки. Подождите {seconds} "
+"секунд."
 
 msgid "DHFireSupportMessage.ArtilleryOperatorNotification"
-msgstr "Отряд {squad} отметил {type} цель для огневой поддержки."
+msgstr ""
+"Командир отряда {squad} запрашивает {type} по цели, отмеченной для средств "
+"огневой поддержки."
 
 msgid "DHFireSupportMessage.ErrorText"
 msgstr "Не удалось отметить цель огневой поддержки."
@@ -980,7 +982,7 @@ msgid "DHHud.SelectSpawnPointText"
 msgstr "Нажмите [ESC], чтобы выбрать точку появления"
 
 msgid "DHMapMarker_FireSupport_HE.MarkerName"
-msgstr "Запрос удара ОФ снарядами"
+msgstr "удар осколочными снарядами"
 
 msgid "DHHud.SpawnRallyPointText"
 msgstr ""
@@ -1090,7 +1092,7 @@ msgid "DHMapMarker_AdminParadrop.MarkerName"
 msgstr "Администратор: Разместить точку для десантирования"
 
 msgid "DHMapMarker_FireSupport_Smoke.MarkerName"
-msgstr "Запрос удара дымовыми снарядами"
+msgstr "удар дымовыми снарядами"
 
 msgid "DHMapMarker_Friendly_PlatoonHQ.MarkerName"
 msgstr "Запросить штаба взвода"
@@ -1105,7 +1107,7 @@ msgid "DHMapMarker_Squad_Defend.MarkerName"
 msgstr "Отряд - оборонять"
 
 msgid "DHMapMarker_Squad_Move.MarkerName"
-msgstr "Отряд - выдвинуться туда"
+msgstr "Отряд - передислоцироваться"
 
 msgid "DHMapMarker_Squad_Attack.MarkerName"
 msgstr "Отряд - атаковать"
@@ -1444,10 +1446,10 @@ msgid "DHSquadMessage.RallyPointBadLocation"
 msgstr "В этой локации нельзя создать точку сбора отряда."
 
 msgid "DHSquadMessage.RallyPointRemoved"
-msgstr "Командир отряда принудительно удалил точку сбора."
+msgstr "Командир отряда удалил точку сбора."
 
 msgid "DHSquadMessage.RallyPointSwapped"
-msgstr "Лидер отряда принудительно сменил активную точку сбора."
+msgstr "Командир отряда сменил активную точку сбора."
 
 msgid "DHSquadMessage.RallyPointTooCloseToConstruction"
 msgstr "Вы не можете создать точку сбора отряда так близко к {0}."
@@ -1787,7 +1789,7 @@ msgid "DarkestHourGame.ROHints<1>"
 msgstr ""
 "Вы можете придержать гранаты Ф-1, Mk.II и бомбу Миллса с тлеющим запалом "
 "перед броском, что бы сократить время её детонации после приземления. Для "
-"этого нажмите %FIRE3%, удерживая гранату в руке."
+"этого нажмите %FIRE3%, удерживая гранату без чеки в руке."
 
 msgid "DarkestHourGame.ROHints<3>"
 msgstr ""
@@ -2088,8 +2090,7 @@ msgstr ""
 "м дальше."
 
 msgid "DHSquadMessage.RallyPointTooSoon"
-msgstr ""
-"Вам придется подождать {0} секунд, пока ваш отряд не создаст точку сбора."
+msgstr "Подождите {0} секунд, перед тем как создать новую точку сбора."
 
 msgid "DHSquadMessage.RallyPointAbandonmentWarning"
 msgstr "Недавно созданная точка сбора отряда заброшена!"
@@ -2718,7 +2719,7 @@ msgid "DHGameMessage.RoleChangeMsg"
 msgstr "Вы попытаетесь возродиться как {role}."
 
 msgid "DHGameMessage.MaxRoleMsg"
-msgstr "Невозможно сменить роль на {role}."
+msgstr "Невозможно сменить должность на {role}."
 
 msgid "DHGameMessage.HasForgivenMessage"
 msgstr "{victim} простил {killer}."
@@ -2860,7 +2861,7 @@ msgstr ""
 "Панцерфауст - это {name}, а ящик - {noun}"
 
 msgid "DHGameMessage.RoleUnlockedMessage"
-msgstr "Роль {role} теперь разблокирована."
+msgstr "Должность {role} теперь разблокирована."
 
 msgid "DHArtillerySpottingScope.MeasurementToolText"
 msgstr "Линейка"
@@ -2893,7 +2894,7 @@ msgid "DHCommandPostMessage.ActivatedMessage"
 msgstr "{name} теперь доступен."
 
 msgid "DHGameMessage.RoleLockedMessage"
-msgstr "Роль {role} была заблокирована."
+msgstr "Должность {role} была заблокирована."
 
 msgid "DHWeaponPickupTouchMessage.Controls<0>.Text"
 msgstr "Подобрать"
