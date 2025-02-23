@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 20:32+0000\n"
+"PO-Revision-Date: 2025-02-23 15:01+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/pl/>\n"
@@ -694,3 +694,139 @@ msgstr "GMC CCKW (Transport)"
 
 msgid "DH_GermanCarrierTransport.VehicleNameString"
 msgstr "Bren 731(e)"
+
+msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_PanzerIVGEarlyTank.VehicleNameString"
+msgstr "Panzer IV Ausf.G"
+
+#, fuzzy
+msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_PanzerIVGLateTank.VehicleNameString"
+msgstr "Panzer IV Ausf.G"
+
+msgid "DH_PanzerIVHCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_PanzerIVF1CannonPawn.VehiclePositionString"
+msgstr "za działem Panzer IV F1"
+
+msgid "DH_PanzerIVF1CannonPawn.VehicleNameString"
+msgstr "Działo Panzer IV F1"
+
+msgid "DH_PanzerIVHCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+msgid "DH_PanzerIVHCannon.nProjectileDescriptions<2>"
+msgstr "Gr.38 Hl/C"
+
+msgid "DH_PanzerIVHTank.VehicleNameString"
+msgstr "Panzer IV Ausf.H"
+
+msgid "DH_PanzerIVJTank.VehicleNameString"
+msgstr "Panzer IV Ausf.J"
+
+msgid "DH_SU76Cannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_SU76Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_SU76Cannon.ProjectileDescriptions<2>"
+msgstr "APCR"
+
+msgid "DH_SU76Destroyer.VehicleNameString"
+msgstr "SU-76M"
+
+msgid "DH_SdKfz2519DCannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_SdKfz2519DCannon.ProjectileDescriptions<1>"
+msgstr "HEAT"
+
+msgid "DH_SdKfz2519DCannon.ProjectileDescriptions<2>"
+msgstr "Dym"
+
+msgid "DH_SdKfz251_22Transport.VehicleNameString"
+msgstr "Halftrack Sd.Kfz.251/22"
+
+msgid "DH_SdKfz2519DTransport.VehicleNameString"
+msgstr "Sd.Kfz.251/9 Ausf.D Stummel"
+
+msgid "DH_Sdkfz105Transport.VehicleNameString"
+msgstr "Sd.Kfz. 10/5"
+
+msgid "DH_Sdkfz2341ArmoredCar.VehicleNameString"
+msgstr "Samochód Opancerzony Sd.Kfz.234/1"
+
+msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions<0>"
+msgstr "AP-T"
+
+msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions<1>"
+msgstr "HE-T"
+
+msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions<2>"
+msgstr "APCR-T"
+
+msgid "DH_PanzerIVGEarlyCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_PanzerIVGEarlyCannon.nProjectileDescriptions<2>"
+msgstr "Gr.38 Hl/B"
+
+msgid "DH_PanzerIVGLateCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_PanzerIVGLateCannon.nProjectileDescriptions<2>"
+msgstr "Gr.38 Hl/B"
+
+msgid "DH_SU76Cannon.nProjectileDescriptions<0>"
+msgstr "BR-350B"
+
+msgid "DH_SU76Cannon.nProjectileDescriptions<1>"
+msgstr "OF-350"
+
+msgid "DH_SU76Cannon.nProjectileDescriptions<2>"
+msgstr "BR-350P"
+
+msgid "DH_SdKfz2519DCannon.nProjectileDescriptions<1>"
+msgstr "Gr.38 Hl/C"
+
+msgid "DH_SdKfz2519DCannon.nProjectileDescriptions<2>"
+msgstr "Nbgr.Kw.K."
+
+msgid "DH_Sdkfz2341Cannon.nProjectileDescriptions<0>"
+msgstr "Pzgr. L'spur"
+
+msgid "DH_Sdkfz2341Cannon.nProjectileDescriptions<1>"
+msgstr "Sprgr. L'spur"
+
+msgid "DH_PanzerIVF1Cannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Kw.K."
+
+msgid "DH_PanzerIVF1Tank.VehicleNameString"
+msgstr "Panzer IV Ausf.F1"
+
+msgid "DH_PanzerIVGEarlyCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+msgid "DH_PanzerIVGLateCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+msgid "DH_SdKfz2519DCannon.nProjectileDescriptions<0>"
+msgstr "Sprgr.Kw.K."
