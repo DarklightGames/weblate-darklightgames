@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-23 15:01+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"PO-Revision-Date: 2025-02-24 10:48+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
 "Language: ru\n"
@@ -815,12 +815,15 @@ msgstr "#"
 msgid "DHScoreBoard.ScoreboardColumns<3>.Title"
 msgstr "Должность"
 
+#, fuzzy
 msgid "DHScoreBoard.ScoreboardColumns<6>.Title"
 msgstr "У"
 
+#, fuzzy
 msgid "DHScoreBoard.ScoreboardColumns<7>.Title"
 msgstr "С"
 
+#, fuzzy
 msgid "DHScoreBoard.ScoreboardColumns<8>.Title"
 msgstr "Счет"
 
