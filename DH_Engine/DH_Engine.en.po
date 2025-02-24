@@ -603,7 +603,7 @@ msgid "DHGameMessage.RoleUnlockedMessage"
 msgstr "{role} has been unlocked."
 
 msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
-msgstr "You must have another teammate nearby to deconstruct an enemy Platoon HQ!"
+msgstr "You must have another teammate nearby to deconstruct an enemy Command Post!"
 
 msgid "DHGameMessage.NewTeamMessageRussian"
 msgstr "{name} has joined the Allied forces."
@@ -1055,11 +1055,11 @@ msgstr "ADMIN: Place paradrop mark"
 msgid "DHMapMarker_Enemy_ATGun.MarkerName"
 msgstr "Enemy AT Gun"
 
+msgid "DHMapMarker_Enemy_CommandPost.MarkerName"
+msgstr "Enemy Command Post"
+
 msgid "DHMapMarker_Enemy_Infantry.MarkerName"
 msgstr "Enemy Infantry"
-
-msgid "DHMapMarker_Enemy_PlatoonHQ.MarkerName"
-msgstr "Enemy HQ"
 
 msgid "DHMapMarker_Enemy_Tank.MarkerName"
 msgstr "Enemy Tank"
@@ -1076,8 +1076,8 @@ msgstr "Long-Range Fire Support"
 msgid "DHMapMarker_FireSupport_Smoke.MarkerName"
 msgstr "Smoke Request"
 
-msgid "DHMapMarker_Friendly_PlatoonHQ.MarkerName"
-msgstr "Request Platoon HQ"
+msgid "DHMapMarker_Friendly_CommandPost.MarkerName"
+msgstr "Request Command Post"
 
 msgid "DHMapMarker_Friendly_Supplies.MarkerName"
 msgstr "Request Supplies"
