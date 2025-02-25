@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-25 17:27+0000\n"
+"PO-Revision-Date: 2025-02-26 17:43+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -80,7 +80,7 @@ msgid "DHAccessControl.SessionBanned"
 msgstr "Вы не можете присоединиться к этому серверу, пока не сменится карта."
 
 msgid "DHAdminMessage.KickedFromSquadMessage"
-msgstr "Администратор'{0}' выгнал игрока '{1}' из отряда '{2}'."
+msgstr "Администратор '{0}' выгнал игрока '{1}' из отряда '{2}'."
 
 msgid "DHAlliedAntiTankRoles.MyName"
 msgstr "ПТ солдат"
@@ -263,7 +263,7 @@ msgid "DHArtilleryTargetMessage.TargetMarkedHE"
 msgstr "{0} отметил артиллерийскую цель"
 
 msgid "DHArtilleryTargetMessage.CannotMarkTargetYet"
-msgstr "Вы пока не можете отметить другой маркер артиллерийской цели"
+msgstr "Вы пока не можете отметить другую цель для артиллерии"
 
 msgid "DHArtilleryTargetMessage.TooManyArtilleryTargets"
 msgstr "Слишком много активных артиллерийских целей"
@@ -491,13 +491,13 @@ msgid "DHAlliedMachineGunnerRoles.AltName"
 msgstr ""
 
 msgid "DHATLoadFailMessage.CantLoad"
-msgstr "{0} должен быть развернут для перезарядки"
+msgstr "{0} должен быть установлен на сошки/плечо для перезарядки"
 
 msgid "DHAlliedRiflemanRoles.AltName"
 msgstr ""
 
 msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
-msgstr "Администратор'{0}' повысил '{1}' до командира отряда '{2}'."
+msgstr "Администратор '{0}' повысил '{1}' до командира отряда '{2}'."
 
 msgid "DHAlliedAutoRifleRoles.MyName"
 msgstr "Легкий пулемётчик"
