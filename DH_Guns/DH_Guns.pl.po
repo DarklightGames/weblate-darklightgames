@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-19 20:30+0000\n"
+"PO-Revision-Date: 2025-02-26 17:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/pl/>\n"
@@ -399,3 +399,33 @@ msgstr "BR-350B"
 
 msgid "DH_ZiS3CannonLate.ProjectileDescriptions<0>"
 msgstr "APBC"
+
+msgid "DH_Bofors40mmGun.VehicleNameString"
+msgstr "Działo 40mm Bofors"
+
+msgid "DH_Granatwerfer34Cannon.ProjectileDescriptions<1>"
+msgstr "Dym"
+
+msgid "DH_BM36Mortar.VehicleNameString"
+msgstr "Moździerz 82mm BM-36"
+
+msgid "DH_BM36MortarCannon.ProjectileDescriptions<1>"
+msgstr "Dym"
+
+msgid "DH_BM36MortarCannon.nProjectileDescriptions<0>"
+msgstr "57O832 HE"
+
+msgid "DH_BM36MortarCannon.nProjectileDescriptions<1>"
+msgstr "57D832 Dym"
+
+msgid "DH_Granatwerfer34Mortar.VehicleNameString"
+msgstr "Moździerz Granatwerfer 34"
+
+msgid "DH_ML3InchCannon.ProjectileDescriptions<1>"
+msgstr "Dym"
+
+msgid "DH_Model35MortarCannon.ProjectileDescriptions<1>"
+msgstr "Dym"
+
+msgid "DH_ML3InchMortar.VehicleNameString"
+msgstr "Moździerz Ordnance ML 3-inch"
