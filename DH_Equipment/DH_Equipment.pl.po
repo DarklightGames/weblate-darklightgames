@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"PO-Revision-Date: 2025-02-26 17:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/pl/>\n"
@@ -65,3 +65,11 @@ msgstr "Granat Sygnałowy M16"
 
 msgid "DH_USSmokeGrenadeWeapon.ItemName"
 msgstr "Granat Dymny M8"
+
+msgid "DHShovelWarningMessage.NeedMoreFriendliesToBuildMessage"
+msgstr ""
+"Musisz mieć w pobliżu innego członka drużyny, żeby móc używać saperki do "
+"budowania!"
+
+msgid "DH_ParachuteStaticLine.ItemName"
+msgstr "Linia Statyczna"
