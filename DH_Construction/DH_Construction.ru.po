@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 20:32+0000\n"
+"PO-Revision-Date: 2025-02-25 17:27+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/ru/>\n"
@@ -53,7 +53,7 @@ msgid "DHConstruction_SupplyCache.MenuName"
 msgstr "Склад снабжения"
 
 msgid "DHConstruction_PlatoonHQ.MenuName"
-msgstr "Штаб взвода"
+msgstr "Командный Пункт"
 
 msgid "DHConstruction_VehiclePool.MenuDescription"
 msgstr "Создаёт точку появления техники для всей команды."
