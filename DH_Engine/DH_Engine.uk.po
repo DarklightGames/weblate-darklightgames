@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-24 10:48+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-02-25 17:27+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
 "Language: uk\n"
@@ -288,9 +288,10 @@ msgstr ""
 msgid "DHConstructionErrorMessage.ErrorMessages<25>"
 msgstr "{name} не можливо {verb} на ворожій території"
 
-#, fuzzy
 msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
-msgstr "Вам потрібен ще один товариш по команді, щоб зруйнувати ворожий штаб!"
+msgstr ""
+"Вам потрібен ще один товариш по команді, щоб демонтувати ворожий командний "
+"пункт!"
 
 msgid "DHConstructionErrorMessage.ErrorMessages<21>"
 msgstr "Ви не можете {verb} тут '{name}', оскільки ви зайняті."
@@ -2631,3 +2632,9 @@ msgstr "{0} запасів було повернуто на сусідні ск�
 
 msgid "DHUnits.DistanceUnits<0>.Name"
 msgstr "Одиниця вимірювання довжини Unreal™"
+
+msgid "DHMapMarker_Enemy_CommandPost.MarkerName"
+msgstr "Ворожий командний пункт"
+
+msgid "DHMapMarker_Friendly_CommandPost.MarkerName"
+msgstr "Запросити командний пункт"
