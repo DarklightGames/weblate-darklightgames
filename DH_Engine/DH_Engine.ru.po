@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-24 10:48+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-02-25 17:27+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
 "Language: ru\n"
@@ -642,10 +642,10 @@ msgstr "%o погиб, выпрыгнув из мчащейся машины."
 msgid "DHFireSupportMessage.RadiomanNotification"
 msgstr "Отряд {squad} отметил цель для огневой поддержки."
 
-#, fuzzy
 msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
 msgstr ""
-"Вам нужен ещё один товарищ по команде, что бы разрушить штаб противника!"
+"Рядом должен находиться ещё один союзник что бы уничтожить командный пункт "
+"противника!"
 
 msgid "DHVehicleCannon.ProjectileDescriptions<1>"
 msgstr "Осколочно-фугасный (HE)"
@@ -2927,3 +2927,9 @@ msgstr "Ярды"
 
 msgid "DHUnits.DistanceUnits<2>.Symbol"
 msgstr "ярд"
+
+msgid "DHMapMarker_Enemy_CommandPost.MarkerName"
+msgstr "Командный пункт противника"
+
+msgid "DHMapMarker_Friendly_CommandPost.MarkerName"
+msgstr "Запросить командный пункт"
