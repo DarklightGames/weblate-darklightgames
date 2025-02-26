@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-25 17:27+0000\n"
+"PO-Revision-Date: 2025-02-26 17:43+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
@@ -586,6 +586,7 @@ msgstr "Ваш загін встановив нову точку збору."
 msgid "DHSquadMessage.RallyPointExhaustedMessage"
 msgstr "Точка збору загону вичерпана."
 
+#, fuzzy
 msgid "DHSquadMessage.RallyPointCreatedMessage"
 msgstr ""
 "Ви встановили точку збору. Захищайте територію, щоб активувати цю точку."
@@ -1326,7 +1327,7 @@ msgid "DHLib.ServerHealthStages[4].Text"
 msgstr "Жахливий"
 
 msgid "DHLocalMessage.SquadLeaderID"
-msgstr "КО"
+msgstr "КЗ"
 
 msgid "DHLocalMessage.SquadAssistantID"
 msgstr "П"
@@ -1712,7 +1713,7 @@ msgid "DHPlatoonHQMessage.OverrunMessage"
 msgstr "Ворог захопив штаб взводу."
 
 msgid "DHPlayerReplicationInfo.SquadLeaderAbbreviation"
-msgstr "КО"
+msgstr "КЗ"
 
 msgid "DHPlayerReplicationInfo.AssistantAbbreviation"
 msgstr "П"
