@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-23 15:01+0000\n"
+"PO-Revision-Date: 2025-02-26 17:43+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/ru/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: Weblate 5.7.2\n"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmMatchLive"
-msgstr "Нажмите Enter, чтобы подтвердить, ЗАПУСК игры в режиме реализма"
+msgstr "Нажмите Enter, чтобы подтвердить ЗАПУСК игры в режиме реализма"
 
 msgid "DHAdminMenu_AdminMessages.EnterPrivateMessage"
 msgstr "Введите личное сообщение игроку - затем нажмите Enter"
@@ -30,8 +30,8 @@ msgstr ""
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAtObjective"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите высадить с парашюта этого "
-"игрока к выбранной цели"
+"Нажмите Enter, чтобы подтвердить, что вы хотите ДЕСАНТИРОВАТЬ этого игрока к "
+"выбранной цели"
 
 msgid "DHAdminMenu_AdminMessages.EnterKickReason"
 msgstr ""
@@ -42,12 +42,12 @@ msgid "DHAdminMenu_AdminMessages.EnterWarningMessage"
 msgstr "Введите предупреждающее сообщение игроку, затем нажмите Enter"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmKillPlayer"
-msgstr "Нажмите Enter, чтобы подтвердить, что вы хотите убить этого игрока"
+msgstr "Нажмите Enter, чтобы подтвердить, что вы хотите УБИТЬ этого игрока"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAxisRole"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите присоединить этого игрока к "
-"войскам Оси"
+"Нажмите Enter, чтобы подтвердить, что вы хотите ПЕРЕВЕСТИ этого игрока на "
+"должность в войсках ОСИ"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisablePlayerIcon"
 msgstr ""
@@ -65,8 +65,8 @@ msgstr ""
 
 msgid "DHAdminMenuMutator.Description"
 msgstr ""
-"Параметры экранного меню, позволяющие администратору лучше контролировать "
-"игроков, реалистичного матча или во время тестирования"
+"Параметры экранного меню, дающие администратору контроль над игроками, "
+"реалистичным матчем или во время тестирования"
 
 msgid "DHAdminMenu_AdminMessages.EnterNewPlayerName"
 msgstr "Пожалуйста, введите новое имя для игрока - затем нажмите Enter"
@@ -83,7 +83,7 @@ msgstr ""
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableMines"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите ОТКЛЮЧИТ все минные поля"
+"Нажмите Enter, чтобы подтвердить, что вы хотите ОТКЛЮЧИТЬ все минные поля"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmKillAll"
 msgstr "Нажмите Enter, чтобы подтвердить, что вы хотите УБИТЬ ВСЕХ игроков"
@@ -99,7 +99,7 @@ msgstr ""
 
 msgid "DHAdminMenu_AdminMessages.ConfirmGagPlayer"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите отключить сообщения этому "
+"Нажмите Enter, чтобы подтвердить, что вы хотите ОТКЛЮЧИТЬ СООБЩЕНИЯ этому "
 "игроку"
 
 msgid "DHAdminMenuMutator.FriendlyName"
@@ -122,8 +122,8 @@ msgstr ""
 
 msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAlliesRole"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите присоединить этого игрока к "
-"войскам Союзников"
+"Нажмите Enter, чтобы подтвердить, что вы хотите ПЕРЕВЕСТИ этого игрока на "
+"должность в войсках СОЮЗНИКОВ"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[1]"
 msgstr ""
@@ -156,7 +156,7 @@ msgstr ""
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[14]"
 msgstr ""
 "ОШИБКА: невозможно выгнать ни одного игрока, так как на сервере нет "
-"необходимого субъекта AccessControl (обратите внимание, что это нормально "
+"необходимого актора \"AccessControl\" (обратите внимание, что это нормально "
 "для одиночной игры)"
 
 msgid "DHAdminMenu_MenuBase.Label_PreviousPage"
@@ -171,7 +171,7 @@ msgstr ""
 "использовать эту опцию"
 
 msgid "DHAdminMenu_NotifyMessages.NotifyGag"
-msgstr "Администратор запретил вам общаться"
+msgstr "Администратор запретил вам отправлять сообщения"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconEnabled"
 msgstr "Иконки игроков на карте ВКЛЮЧЕНЫ администратором"
@@ -217,14 +217,14 @@ msgstr "Переключить блокировку оружия"
 
 msgid "DHAdminMenu_NotifyMessages.NotifyToggleAdminCanPause"
 msgstr ""
-"Вы переключили настройку «Администратор может приостановить» на "
+"Вы переключили настройку «Администратор может поставить а паузу» на "
 "#bAdminCanPause#"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsDisabled"
 msgstr "Размещение точек сбора ОТКЛЮЧЕНО администратором"
 
 msgid "DHAdminMenu_PlayerMenu.Label_AimedPlayer"
-msgstr "[Игрок под прицелом]"
+msgstr "[Игрок в поле зрения]"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<11>"
 msgstr "Выключить/включить минные поля"
@@ -233,19 +233,19 @@ msgid "DHAdminMenu_RealismMenu.MenuText<17>"
 msgstr "Переключить возможность администратора приостановить игру"
 
 msgid "DHAdminMenu_AdminMessages.EnterGameSpeed"
-msgstr "Пожалуйста, укажите новый множитель скорости игры (1 — нормальная)"
+msgstr "Пожалуйста укажите новое значение скорости игры (1 — нормальная)"
 
 msgid "DHAdminMenu_AdminMessages.EnterTimeRemaining"
-msgstr "Пожалуйста, укажите длительность нового раунда (в минутах)"
+msgstr "Пожалуйста укажите длительность нового раунда (в минутах)"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmToggleAdminCanPause"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите переключить опцию "
-"«Администратор может приостановить»"
+"Нажмите Enter, чтобы подтвердить переключение опции «Администратор может "
+"поставить на паузу»"
 
 msgid "DHAdminMenu_AdminMessages.DestroyActorInSights"
 msgstr ""
-"Нажмите Enter, чтобы подтвердить, что вы хотите УНИЧТОЖИТЬ субъект в поле "
+"Нажмите Enter, чтобы подтвердить, что вы хотите УНИЧТОЖИТЬ актор в поле "
 "зрения"
 
 msgid "DHAdminMenu_AdminMessages.ChangeAlliesSquadSize"
@@ -256,7 +256,7 @@ msgid "DHAdminMenu_AdminMessages.ChangeAxisSquadSize"
 msgstr "Укажите новый размер отряда войск Оси (8 и 12 или 0 для сброса)"
 
 msgid "DHAdminMenu_AdminMessages.SetGamePasswordText"
-msgstr "Пожалуйста, укажите новый пароль к игре"
+msgstr "Пожалуйста укажите новый пароль к игре"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableRallyPoints"
 msgstr ""
@@ -270,7 +270,7 @@ msgid "DHAdminMenu_ErrorMessages.MissingNameText"
 msgstr "<имя отсутствует>"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[2]"
-msgstr "На этом сервере запрещено выбрасывать игрока с парашютом"
+msgstr "На этом сервере запрещено десантировать игроков"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[3]"
 msgstr ""
@@ -287,10 +287,10 @@ msgid "DHAdminMenu_ErrorMessages.ErrorMessage[8]"
 msgstr "<ОШИБКА: нет имени администратора>"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[10]"
-msgstr "'%insert_name%' уже находится на этой роли"
+msgstr "'%insert_name%' уже находится на этой должности"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[11]"
-msgstr "К сожалению, выполнить это действие с ботом невозможно"
+msgstr "Извините, выполнить это действие с ботом невозможно"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[12]"
 msgstr "ОШИБКА: сообщение не указано"
@@ -395,19 +395,19 @@ msgid "DHAdminMenu_PlayerActionsMenu.MenuText<4>"
 msgstr "Убить этого игрока"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText<5>"
-msgstr "Запретить общаться этому игроку"
+msgstr "Запретить этому игроку отправлять сообщения"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText<6>"
 msgstr "Переместить игрока на должность Союзников"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText<8>"
-msgstr "Выбросить игрока из парашюта возле цели"
+msgstr "Десантировать игрока возле цели"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText<10>"
-msgstr "Выбросить игрока с парашюта в текущем месте"
+msgstr "Десантировать игрока в текущем месте"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText<9>"
-msgstr "Выбросить игрока с парашюта в квадрат"
+msgstr "Десантироать игрока в квадрат"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuTitle"
 msgstr "ДЕЙСТВИЯ ИГРОКА:"
@@ -431,22 +431,22 @@ msgid "DHAdminMenu_RealismMenu.MenuText<2>"
 msgstr "Отключить реалистичный матч"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<4>"
-msgstr "Выбросить все войска Союзников на цель с парашютом"
+msgstr "Десантировать все войска Союзников на цель"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<5>"
-msgstr "Выбросить все войска Оси на цель с парашютом"
+msgstr "Десантировать все войска Оси на цель"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<6>"
-msgstr "Выбросить всех игроков на цель из парашюта"
+msgstr "Десантировать всех игроков на цель"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<7>"
-msgstr "Выбросить с парашютом все войска Союзников в квадрате"
+msgstr "Десантировать все войска Союзников в квадрат"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<8>"
-msgstr "Выбросить с парашютом все войска Оси в квадрат"
+msgstr "Десантировать все войска Оси в квадрат"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<9>"
-msgstr "Высадить с парашютом всех игроков в квадрат"
+msgstr "Десантировать всех игроков в квадрат"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<12>"
 msgstr "Выключить/включить индикатор захвата цели"
@@ -455,13 +455,13 @@ msgid "DHAdminMenu_RealismMenu.MenuText<13>"
 msgstr "Выключить/включить значок местоположения игрока"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<15>"
-msgstr "Установите новую скорость игры"
+msgstr "Установить новую скорость игры"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<16>"
 msgstr "Установить новое значение оставшегося времени раунда (минуты)"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<18>"
-msgstr "Уничтожить субъект в вашем поле зрения"
+msgstr "Уничтожить актор в вашем поле зрения"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<19>"
 msgstr "Изменить размер отряда войск Союзников"
