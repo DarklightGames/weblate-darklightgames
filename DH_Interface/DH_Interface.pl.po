@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-15 03:25+0000\n"
+"PO-Revision-Date: 2025-03-03 22:10+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/pl/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DHBrowser_Footer.BrowserBack.Caption"
 msgstr "Wstecz"
@@ -95,3 +95,140 @@ msgstr "Gracze"
 
 msgid "DHBrowser_ServersList.ColumnHeadings<7>"
 msgstr "Ping"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<0>"
+msgstr "Dołącz do Serwera"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<2>"
+msgstr "Stabilność"
+
+msgid "DHCommunicationPage.Panels<0>.Caption"
+msgstr "Komunikacja"
+
+msgid "DHCommunicationPage.Panels<0>.Hint"
+msgstr "Zarządzaj komunikacją z innymi graczami"
+
+msgid "DHContextMenu_SquadMembers.AdminPrefixText"
+msgstr "Administrator:"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<0>"
+msgstr "-"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<1>"
+msgstr "Zaproś {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<2>"
+msgstr "Wyrzuć {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<3>"
+msgstr "Zbanuj {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<4>"
+msgstr "Promuj {0} na dowódcę drużyny"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<8>"
+msgstr "Prośba o połączenie drużyn"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<5>"
+msgstr "Przydziel {0} jako asystenta"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<6>"
+msgstr "Usuń przypisanie {0} jako asystenta"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<7>"
+msgstr "Zgłoś chęć zostania asystentem dowódcy"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<10>"
+msgstr "{1} Desant Spadochronowy {0} na znacznik"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<13>"
+msgstr "{1} Zdesantuj spadochronowo nieprzypisanych graczy na znacznik"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<9>"
+msgstr "{1} Desant spadochronowy {0} do dowódcy drużyny"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<12>"
+msgstr "{1} Zdesantuj spadochronowo DRUŻYNĘ na znacznik"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<11>"
+msgstr "{1} Zdesantuj spadochronowo DRUŻYNĘ do dowódcy drużyny"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<15>"
+msgstr "{1} Wykop {0} z drużyny"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<14>"
+msgstr "{1} Promuj {0} na dowódcę drużyny"
+
+msgid "DHCreditsPage.VoiceActorsText"
+msgstr "Aktorzy Głosowi"
+
+msgid "DHDeployMenu.DeployNowText"
+msgstr "Wciśnij Kontynuuj aby się teraz odrodzić!"
+
+msgid "DHDeployMenu.ReservedString"
+msgstr "Zarezerwowane"
+
+msgid "DHDeployMenu.ChangeTeamConfirmText"
+msgstr ""
+"Czy na pewno chcesz zmienić drużynę? (zmiana nie będzie możliwa przez {s} "
+"sekund)"
+
+msgid "DHDeployMenu.FreeChangeTeamConfirmText"
+msgstr "Czy na pewno chcesz zmienić drużynę?"
+
+msgid "DHCreditsPage.ProjectLeadsText"
+msgstr "Liderzy Projektu"
+
+msgid "DHCreditsPage.ProgrammersText"
+msgstr "Programiści"
+
+msgid "DHCreditsPage.AnimatorsText"
+msgstr "Animatorzy"
+
+msgid "DHCreditsPage.ModelersText"
+msgstr "Modelarze"
+
+msgid "DHCreditsPage.TextureArtistsText"
+msgstr "Artyści Tekstur"
+
+msgid "DHCreditsPage.ArtistsText"
+msgstr "Artyści"
+
+msgid "DHCreditsPage.LevelDesignersText"
+msgstr "Projektanci Poziomów"
+
+msgid "DHCreditsPage.SoundArtistsText"
+msgstr "Artyści Dźwięku"
+
+msgid "DHCreditsPage.LocalizationTeamText"
+msgstr "Zespół Lokalizacji"
+
+msgid "DHCreditsPage.CommunityAdminsText"
+msgstr "Administratorzy Społeczności"
+
+msgid "DHCreditsPage.PastPatreonSupportersText"
+msgstr "Wspierający Patreon w przeszłości"
+
+msgid "DHCreditsPage.OtherContributorsText"
+msgstr "Inni Współtwórcy"
+
+msgid "DHCreditsPage.SpecialThanksText"
+msgstr "Specjalne Podziękowania"
+
+msgid "DHCreditsPage.WindowName"
+msgstr "Twórcy"
+
+msgid "DHCreditsPage.CloseButton.Caption"
+msgstr "Zamknij"
+
+msgid "DHDeployMenu.NoneText"
+msgstr "Brak"
+
+msgid "DHDeployMenu.SelectRoleText"
+msgstr "Wybierz rolę"
+
+msgid "DHDeployMenu.SelectSpawnPointText"
+msgstr "Wybierz punkt odrodzenia"
+
+msgid "DHDeployMenu.DeployInTimeText"
+msgstr "Wciśnij Kontynuuj aby się odrodzić ({0})"
