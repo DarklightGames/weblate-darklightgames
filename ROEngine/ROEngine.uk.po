@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 20:32+0000\n"
+"PO-Revision-Date: 2025-03-03 22:10+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/uk/>\n"
@@ -352,10 +352,10 @@ msgid "ROGameMessage.NewPlayerMessage"
 msgstr "На поле бою вийшов новий солдат."
 
 msgid "RORoundOverMsg.AxisWins"
-msgstr "Війська Осі виграють битву!"
+msgstr "Війська Осі виграли битву!"
 
 msgid "RORoundOverMsg.AlliesWins"
-msgstr "Війська Союзників виграють битву!"
+msgstr "Війська Союзників виграли битву!"
 
 msgid "RORoundOverMsg.NoDecisiveOutcome"
 msgstr "Рішучої перемоги немає"
