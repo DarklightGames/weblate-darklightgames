@@ -71,6 +71,12 @@ msgstr "Allied"
 msgid "DHAdminMessage.AxisTeamNameGenitive"
 msgstr "Axis"
 
+msgid "DHAdminMessage.AdminLoggedInMessage"
+msgstr "{0} logged in as a server administrator."
+
+msgid "DHAdminMessage.AdminLoggedOutMessage"
+msgstr "{0} gave up administrator abilities."
+
 msgid "DHAlliedAntiTankRoles.MyName"
 msgstr "Anti-Tank Soldier"
 
