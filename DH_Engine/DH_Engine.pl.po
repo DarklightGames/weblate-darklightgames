@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 23:21+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-03-03 22:10+0000\n"
+"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pl/>\n"
 "Language: pl\n"
@@ -134,3 +134,48 @@ msgstr "%o został wysadzony w powietrze przez własnego %w."
 
 msgid "DHArtillery.MenuName"
 msgstr "Artyleria Dalekiego Zasięgu"
+
+msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
+msgstr "Obróć"
+
+msgid "DHATLoadFailMessage.CantLoad"
+msgstr "{0} musi być rozstawiony aby przeładować"
+
+msgid "DHATLoadMessage.LoadedGunner"
+msgstr "Załadowałeś {0}"
+
+msgid "DHATLoadMessage.BeenLoaded"
+msgstr "Zostałeś załadowany przez {0}"
+
+msgid "DHAdminMessage.AdminTeleportedMessage"
+msgstr "Administrator '{0}' teleportował się."
+
+msgid "DHAdminMessage.AlliedTeamNameGenitive"
+msgstr "Aliantów"
+
+msgid "DHAdminMessage.AxisTeamNameGenitive"
+msgstr "Osi"
+
+msgid "DHArtilleryMessage.ConfirmText"
+msgstr "{name} potwierdzono."
+
+msgid "DHArtilleryMessage.DenyText"
+msgstr "{name} odrzucono."
+
+msgid "DHArtilleryMessage.TooSoonText"
+msgstr "{name} jest aktualnie w użyciu. Spróbuj ponownie wkrótce."
+
+msgid "DHArtilleryMessage.ExhaustedText"
+msgstr "{name} został wyczerpany."
+
+msgid "DHATGunTouchMessage.Controls<0>.Text"
+msgstr "Obsadź"
+
+msgid "DHATGunTouchMessage.Controls<1>.Text"
+msgstr "Obróć"
+
+msgid "DHAdminMessage.KickedFromSquadMessage"
+msgstr "Administrator '{0}' wyrzucił '{1}' z oddziału '{2}'."
+
+msgid "DHAdminMessage.PlacedSpawnMessage"
+msgstr "Administrator '{0}' postawił punkt odrodzenia dla {1} drużyny."
