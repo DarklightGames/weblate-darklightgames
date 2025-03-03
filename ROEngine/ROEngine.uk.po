@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-03 22:10+0000\n"
+"PO-Revision-Date: 2025-03-04 22:43+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/uk/>\n"
@@ -576,3 +576,6 @@ msgstr "Показувати IP серверу на сторінці рахун�
 
 msgid "ROTeamGame.PropsDisplayText[41]"
 msgstr "Показувати час на сторінці рахунку"
+
+msgid "ROGameMessage.YouHaveLoggedInAsAdminMsg"
+msgstr "Ви увійшли як адміністратор."
