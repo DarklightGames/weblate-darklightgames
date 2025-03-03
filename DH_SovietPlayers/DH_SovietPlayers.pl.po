@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-26 17:43+0000\n"
+"PO-Revision-Date: 2025-03-03 22:10+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_sovietplayers/pl/>\n"
@@ -34,3 +34,9 @@ msgstr "Dowódca Drużyny Ogniowej"
 
 msgid "DHNation_Poland.NationName"
 msgstr "Ludowe Wojsko Polskie"
+
+msgid "DHSOVEngineerRoles.AltName"
+msgstr "Saper"
+
+msgid "DHSOVMachineGunnerRoles.AltName"
+msgstr "Pulemetchik"
