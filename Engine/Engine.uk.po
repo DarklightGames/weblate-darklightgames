@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 11:54+0000\n"
+"PO-Revision-Date: 2025-03-03 22:10+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/uk/>\n"
@@ -171,13 +171,13 @@ msgid "Errors.InvalidLink"
 msgstr "Невірна адреса: %s"
 
 msgid "KeyNames.LeftMouse"
-msgstr "ЛІВА КНОПКА МИШІ"
+msgstr "МИША 1"
 
 msgid "KeyNames.RightMouse"
-msgstr "ПРАВА КНОПКА МИШІ"
+msgstr "МИША 2"
 
 msgid "KeyNames.MiddleMouse"
-msgstr "СЕРЕДНЯ КНОПКА МИШІ"
+msgstr "МИША 3"
 
 msgid "KeyNames.MouseX"
 msgstr "МИША X"
