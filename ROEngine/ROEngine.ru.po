@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 20:32+0000\n"
+"PO-Revision-Date: 2025-03-04 22:43+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/ru/>\n"
@@ -579,3 +579,6 @@ msgstr "Показывать время в таблице счёта"
 
 msgid "ROPlayer.SpectatingModeName[3]"
 msgstr "Наблюдение точек захвата"
+
+msgid "ROGameMessage.YouHaveLoggedInAsAdminMsg"
+msgstr "Вы авторизовались как администратор."
