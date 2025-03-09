@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-03 22:10+0000\n"
+"PO-Revision-Date: 2025-03-10 21:43+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/uk/>\n"
@@ -84,7 +84,7 @@ msgid "ChatRoomMessage.ChatRoomString[11]"
 msgstr "'%pri%' приєднався до каналу '%title%'"
 
 msgid "PlayerController.ViewingFrom"
-msgstr "Зараз перегляд з"
+msgstr "Зараз споглядаєте з"
 
 msgid "PlayerController.OwnCamera"
 msgstr "Перегляд власної камери"
