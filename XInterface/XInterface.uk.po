@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 11:54+0000\n"
+"PO-Revision-Date: 2025-03-10 21:43+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/xinterface/uk/>\n"
@@ -44,3 +44,6 @@ msgstr "Далі"
 
 msgid "GUIQuestionPage.ButtonNames<6>"
 msgstr "Перервати"
+
+msgid "HudBase.NowViewing"
+msgstr "Споглядаєте"
