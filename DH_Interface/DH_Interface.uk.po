@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-25 17:27+0000\n"
+"PO-Revision-Date: 2025-03-10 21:43+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
@@ -1939,7 +1939,7 @@ msgid "DHDeployMenu.RoleLockedText"
 msgstr "НЕДОСТУПНО"
 
 msgid "DHScoreBoard.ScoreboardColumns<2>.Title"
-msgstr "Посада"
+msgstr "Роль"
 
 msgid "DHScoreBoard.ScoreboardColumns<5>.Title"
 msgstr "В"
