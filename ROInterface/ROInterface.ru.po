@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-23 15:01+0000\n"
+"PO-Revision-Date: 2025-03-10 21:43+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ru/>\n"
@@ -675,3 +675,8 @@ msgstr ""
 
 msgid "ROTab_AudioSettings.PanelCaption"
 msgstr "Аудио"
+
+msgid "ROGUIRoleSelection.UnknownErrorMessageText"
+msgstr ""
+"Во время обновления информации об игроке произошла неизвестная ошибка. "
+"Пожалуйста подождите и попробуйте снова."
