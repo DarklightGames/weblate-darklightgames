@@ -677,6 +677,18 @@ msgstr "Push"
 msgid "DHGameType_Stalemate.GameTypeName"
 msgstr "Stalemate"
 
+msgid "DHGetPassword.LabelText"
+msgstr "A password is required to play on this server."
+
+msgid "DHGetPassword.EditBoxText"
+msgstr "Server Password"
+
+msgid "DHGetPassword.OKButtonText"
+msgstr "Submit"
+
+msgid "DHGetPassword.CancelButtonText"
+msgstr "Cancel"
+
 msgid "DHHintManager.Hints[0].Title"
 msgstr "Welcome to Darkest Hour!"
 
