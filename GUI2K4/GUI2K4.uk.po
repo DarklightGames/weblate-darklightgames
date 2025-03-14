@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-14 09:39+0000\n"
+"PO-Revision-Date: 2025-03-14 10:08+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/uk/>\n"
@@ -238,3 +238,15 @@ msgstr ""
 
 msgid "UT2K4GetPassword.IncorrectPassword"
 msgstr "Введено невірний пароль. Будь ласка, спробуйте знову."
+
+msgid "UT2K4GetPassword.GetPassLabel.Caption"
+msgstr "Для гри на цьому сервері необхідно ввести пароль."
+
+msgid "UT2K4GetPassword.GetPassPW.Caption"
+msgstr "Пароль сервера"
+
+msgid "UT2K4GetPassword.GetPassRetry.Caption"
+msgstr "Прийняти"
+
+msgid "UT2K4GetPassword.GetPassFail.Caption"
+msgstr "Скасувати"
