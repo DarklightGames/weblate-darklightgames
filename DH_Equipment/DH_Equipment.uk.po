@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-12 13:39+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2025-03-14 11:07+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/uk/>\n"
 "Language: uk\n"
@@ -11,13 +11,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DH_RedSmokeWeapon.ItemName"
 msgstr "Сигнальна граната M16"
 
 msgid "DHTrenchMaceItem_Bone.ItemName"
-msgstr "Кістяна Палиця"
+msgstr "Кістяна палиця"
 
 msgid "DH_NebelGranate39Weapon.ItemName"
 msgstr "Димова граната NB 39"
@@ -35,7 +35,7 @@ msgid "DHBinocularsItemAllied.ItemName"
 msgstr "Бінокль M13 6х30"
 
 msgid "DHTrenchMaceItem.ItemName"
-msgstr "Окопна Палиця"
+msgstr "Окопна палиця"
 
 msgid "DH_USSmokeGrenadeWeapon.ItemName"
 msgstr "Димова граната M8"
