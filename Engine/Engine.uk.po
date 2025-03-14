@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-10 21:43+0000\n"
+"PO-Revision-Date: 2025-03-14 09:39+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/uk/>\n"
@@ -415,3 +415,6 @@ msgstr "Несумісні файли гри!"
 
 msgid "Progress.RunningNet"
 msgstr "%s: %s (%i гравців)"
+
+msgid "AccessControl.WrongPassword"
+msgstr ""
