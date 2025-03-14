@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-10 21:43+0000\n"
+"PO-Revision-Date: 2025-03-14 04:53+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
@@ -95,7 +95,7 @@ msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<11>"
 msgstr "Скопіювати адресу серверу"
 
 msgid "DHBrowser_ServersList.ColumnHeadings<1>"
-msgstr "Назва серверу"
+msgstr "Назва сервера"
 
 msgid "DHContextMenu_SquadMembers.AdminPrefixText"
 msgstr "Адміністратор:"
@@ -716,7 +716,7 @@ msgid "DHFilterEdit.ckPassworded.Caption"
 msgstr "Без серверів із паролем"
 
 msgid "DHFilterEdit.ckVACOnly.Caption"
-msgstr "Тільки із захистом від читів Valve"
+msgstr "Тільки з античітом Valve"
 
 msgid "DHFilterEdit.ebName.Caption"
 msgstr "Назва фільтра:"
