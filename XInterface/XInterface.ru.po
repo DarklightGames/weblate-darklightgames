@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 20:25+0000\n"
+"PO-Revision-Date: 2025-03-14 09:39+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/xinterface/ru/>\n"
@@ -44,3 +44,6 @@ msgstr "Нет"
 
 msgid "ExtendedConsole.ServerFullMsg"
 msgstr "Сервер полон"
+
+msgid "HudBase.NowViewing"
+msgstr "Наблюдаете"
