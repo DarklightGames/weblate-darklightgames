@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-03 22:10+0000\n"
+"PO-Revision-Date: 2025-03-22 09:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pl/>\n"
@@ -179,3 +179,59 @@ msgstr "Administrator '{0}' wyrzucił '{1}' z oddziału '{2}'."
 
 msgid "DHAdminMessage.PlacedSpawnMessage"
 msgstr "Administrator '{0}' postawił punkt odrodzenia dla {1} drużyny."
+
+msgid "DHArtillerySpottingScope.TargetToggleHint"
+msgstr "Wciśnij {0} aby przełączać między celami artyleryjskimi"
+
+msgid "DHAxisRadioOperatorRoles.MyName"
+msgstr "Radiooperator"
+
+msgid "DHAxisRiflemanRoles.MyName"
+msgstr "Strzelec"
+
+msgid "DHAxisTankCrewmanRoles.MyName"
+msgstr "Czołgista"
+
+msgid "DHArtillerySpottingScope.NoTargetsHint"
+msgstr "Brak dostępnych celów"
+
+msgid "DHAxisSergeantRoles.MyName"
+msgstr "Sierżant"
+
+msgid "DHChatRoomMessage.CannotJoinSquadChannelText"
+msgstr "Nie udało się dołączyć do kanału`%title%`. Musisz być w drużynie."
+
+msgid "DHChatRoomMessage.CannotJoinCommandChannelText"
+msgstr ""
+"Nie udało się dołączyć do kanału `%title%`. Musisz być dowódcą drużyny lub "
+"asystentem, i Twoja drużyna musi mieć co najmniej 2 członków."
+
+msgid "DHArtilleryTargetMessage.TargetInvalid"
+msgstr "Nieprawidłowy cel artyleryjski"
+
+msgid "DHArtilleryTargetMessage.CannotMarkTargetYet"
+msgstr "Nie możesz jeszcze oznaczyć innego celu artyleryjskiego"
+
+msgid "DHArtilleryTargetMessage.TooManyArtilleryTargets"
+msgstr "Jest zbyt wiele aktywnych znaczników artyleryjskich"
+
+msgid "DHAxisAssaultRoles.MyName"
+msgstr "Szturmowiec"
+
+msgid "DHAxisCorporalRoles.MyName"
+msgstr "Kapral"
+
+msgid "DHAxisEngineerRoles.MyName"
+msgstr "Saper"
+
+msgid "DHAxisMarksmanRoles.MyName"
+msgstr "Strzelec Wyborowy"
+
+msgid "DHAxisMortarmanRoles.MyName"
+msgstr "Operator Moździerza"
+
+msgid "DHAxisSniperRoles.MyName"
+msgstr "Snajper"
+
+msgid "DHArtillerySpottingScope.SelectTargetHint"
+msgstr "Wciśnij {0} by wybrać cel artyleryjski"
