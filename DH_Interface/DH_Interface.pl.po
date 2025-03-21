@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-03 22:10+0000\n"
+"PO-Revision-Date: 2025-03-22 09:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/pl/>\n"
@@ -232,3 +232,128 @@ msgstr "Wybierz punkt odrodzenia"
 
 msgid "DHDeployMenu.DeployInTimeText"
 msgstr "Wciśnij Kontynuuj aby się odrodzić ({0})"
+
+msgid "DHDeployMenu.CantChangeTeamYetText"
+msgstr "Musisz poczekać {s} zanim będziesz mógł zmienić drużynę"
+
+msgid "DHGUIMapComponent.ActiveTargetDeselectText"
+msgstr "Odznacz Aktywny Cel"
+
+msgid "DHDeployMenu.SurrenderConfirmBaseText"
+msgstr "Czy na pewno chcesz się poddać?"
+
+msgid "DHDeployMenu.SettingsButtonObject.Caption"
+msgstr "Ustawienia"
+
+msgid "DHDeployMenu.SurrenderConfirmEndRoundText"
+msgstr ""
+"Spowoduje to natychmiastowe zakończenie rundy na korzyść drużyny przeciwnej."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<5>"
+msgstr "Już się wycofałeś."
+
+msgid "DHDeployMenu.ArtilleryVehicleImageObject.Hint"
+msgstr "Pojazd Artyleryjski"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<2>"
+msgstr "Runda jeszcze się nie rozpoczęła."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<3>"
+msgstr "Głosowanie za odwrotem jest wyłączone."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<4>"
+msgstr "Głosowanie jest już w toku."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<6>"
+msgstr ""
+"Twoja drużyna już wcześniej zagłosowała za wycofaniem się. Spróbuj ponownie "
+"później."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<7>"
+msgstr "Po zakończeniu rundy nie można się wycofać."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<9>"
+msgstr "Nie można wycofać się tak wcześnie."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<10>"
+msgstr "Nie można wycofać się w trakcie fazy przygotowań."
+
+msgid "DHDeployMenu.AlliesButtonObject.Hint"
+msgstr "Dołącz do Aliantów"
+
+msgid "DHDeployMenu.AxisButtonObject.Hint"
+msgstr "Dołącz do Osi"
+
+msgid "DHDeployMenu.ContinueButtonObject.Caption"
+msgstr "Kontynuuj"
+
+msgid "DHDeployMenu.DisconnectButtonObject.Caption"
+msgstr "Rozłącz"
+
+msgid "DHDeployMenu.EquipmentButtonObject.Hint"
+msgstr "Ekwipunek"
+
+msgid "DHDeployMenu.MapButtonObject.Hint"
+msgstr "Mapa [F1]"
+
+msgid "DHDeployMenu.MapVoteButtonObject.Caption"
+msgstr "Głos na mapę"
+
+msgid "DHDeployMenu.MaxVehiclesImageObject.Hint"
+msgstr "Czołgi Dostępne"
+
+msgid "DHDeployMenu.RetreatButtonObject.Caption"
+msgstr "Odwrót"
+
+msgid "DHDeployMenu.RoundTimeLabelObject.Hint"
+msgstr "Pozostały Czas"
+
+msgid "DHDeployMenu.ServersButtonObject.Caption"
+msgstr "Serwery"
+
+msgid "DHGUIMapComponent.AdminTeleportText"
+msgstr "ADMIN: Teleportuj tutaj"
+
+msgid "DHDeployMenu.LockText"
+msgstr "Zablokuj"
+
+msgid "DHDeployMenu.UnlockText"
+msgstr "Odblokuj"
+
+msgid "DHDeployMenu.VehicleUnavailableString"
+msgstr "Pojazd który miałeś wybrany nie jest już dostępny."
+
+msgid "DHDeployMenu.LockedText"
+msgstr "Zablokowany"
+
+msgid "DHDeployMenu.BotsText"
+msgstr "BOTY"
+
+msgid "DHDeployMenu.SquadOnlyText"
+msgstr "DLA DRUŻYN"
+
+msgid "DHDeployMenu.SquadLeadershipOnlyText"
+msgstr "TYLKO DOWÓDCY"
+
+msgid "DHDeployMenu.UnassignedPlayersCaptionText"
+msgstr "Nieprzypisany"
+
+msgid "DHDeployMenu.NonSquadLeaderOnlyText"
+msgstr "NIE DLA DOWÓDCÓW"
+
+msgid "DHDeployMenu.RoleLockedText"
+msgstr "ZABLOKOWANY"
+
+msgid "DHDeployMenu.SurrenderConfirmNominationText"
+msgstr ""
+"Ta akcja nominuje głosowanie w całej drużynie. Głosowanie rozpocznie się, "
+"gdy {0}% drużyny zdecyduje się na odwrót."
+
+msgid "DHDeployMenu.SurrenderButtonText[0]"
+msgstr "Odwrót"
+
+msgid "DHDeployMenu.SurrenderButtonText[1]"
+msgstr "Kontynuuj walkę"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<0>"
+msgstr "Błąd krytyczny!"
