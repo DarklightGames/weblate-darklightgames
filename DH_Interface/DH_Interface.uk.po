@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-14 04:53+0000\n"
+"PO-Revision-Date: 2025-03-24 16:43+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
@@ -47,7 +47,7 @@ msgid "DHBrowser_OpenIP.OkButton.Caption"
 msgstr "OK"
 
 msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<0>"
-msgstr "Приєднатися до серверу"
+msgstr "Приєднатися до сервера"
 
 msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<1>"
 msgstr "Приєднатися як глядач"
@@ -92,7 +92,7 @@ msgid "DHBrowser_ServersList.ColumnHeadings<5>"
 msgstr "Мапа"
 
 msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<11>"
-msgstr "Скопіювати адресу серверу"
+msgstr "Скопіювати адресу сервера"
 
 msgid "DHBrowser_ServersList.ColumnHeadings<1>"
 msgstr "Назва сервера"
@@ -429,7 +429,7 @@ msgid "DHTab_ServerRulesPanel.WebadminPort.Caption"
 msgstr "Порт веб-адміністратора"
 
 msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<10>"
-msgstr "Додати до обраного"
+msgstr "Додати до вибраних"
 
 msgid "DHTab_GameSettings.NetSpeedText[3]"
 msgstr "Рекомендовані ({0})"
@@ -965,7 +965,7 @@ msgid "DHServerBrowser.PanelCaption<5>"
 msgstr "Інтернет"
 
 msgid "DHServerBrowser.PanelHint<0>"
-msgstr "Вибрати сервер із числа обраного"
+msgstr "Вибрати сервер із числа ваших улюблених"
 
 msgid "DHServerBrowser.PanelHint<1>"
 msgstr "Переглянути всі сервери DH, які зараз працюють у вашій локальній мережі"
