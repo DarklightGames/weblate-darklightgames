@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-14 11:07+0000\n"
+"PO-Revision-Date: 2025-03-24 16:43+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/uk/>\n"
@@ -22,7 +22,7 @@ msgid "UT2k4Browser_ServerListPageBase.PingCompleteText"
 msgstr "Пінг завершено! %NumServers% серверів, %NumPlayers% гравців"
 
 msgid "UT2K4Browser_Page.StartQueryString"
-msgstr "Запит до головного серверу"
+msgstr "Запит до мастер сервера"
 
 msgid "UT2K4Browser_Page.ReadyString"
 msgstr "Готово"
@@ -250,3 +250,9 @@ msgstr ""
 
 msgid "UT2K4GetPassword.GetPassFail.Caption"
 msgstr ""
+
+msgid "UT2k4Browser_ServerListPageFavorites.EditFavoriteText"
+msgstr "Редагувати IP-адресу"
+
+msgid "UT2k4Browser_ServerListPageFavorites.RemoveFavoriteText"
+msgstr "Вилучити з вибраних"
