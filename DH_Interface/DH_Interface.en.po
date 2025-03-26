@@ -789,7 +789,7 @@ msgid "DHScoreBoard.ScoreboardColumns<8>.Title"
 msgstr "Ping"
 
 msgid "DHServerBrowser.WelcomeMessageText"
-msgstr "Welcome to the Darkest Hour: Europe '44-'45! Be sure to join the 5000+ strong Discord community to discuss the game, make suggestions, or report any bugs! See you on the battlefield!"
+msgstr "Welcome to Darkest Hour: Europe '44-'45! Be sure to join the 5000+ strong Discord community to discuss the game, make suggestions, or report any bugs! See you on the battlefield!"
 
 msgid "DHServerBrowser.WelcomeMessageDiscordButtonText"
 msgstr "Join Discord!"
