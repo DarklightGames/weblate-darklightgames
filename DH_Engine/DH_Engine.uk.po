@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-14 11:07+0000\n"
+"PO-Revision-Date: 2025-03-26 19:13+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
@@ -1436,10 +1436,10 @@ msgid "DHSquadMessage.SquadPromotionRequestSentMessage"
 msgstr "Запит на підвищення командира загону відправлено гравцю {0}."
 
 msgid "DHSquadOrderMessage.AttackText"
-msgstr "Командир загону віддав новий наказ на \"Атаку\""
+msgstr "Командир загону віддав новий наказ на «Атаку»"
 
 msgid "DHSquadOrderMessage.AttentionText"
-msgstr "Командир загону віддав новий наказ \" Увага\""
+msgstr "Командир загону віддав новий наказ: «Увага!»"
 
 msgid "DHSquadMessage.SquadPromotionRequestDuplicateMessage"
 msgstr "Ви вже надіслали гравцю {0} запит на підвищення."
@@ -1448,10 +1448,10 @@ msgid "DHSquadOrderMessage.WaitText"
 msgstr "Зачекайте, перш ніж віддати новий наказ"
 
 msgid "DHSquadOrderMessage.DefendText"
-msgstr "Командир загону віддав новий наказ на \"Оборону\""
+msgstr "Командир загону віддав новий наказ на «Оборону»"
 
 msgid "DHSquadOrderMessage.MoveText"
-msgstr "Командир загону віддав новий наказ \"Пересуватися\""
+msgstr "Командир загону віддав новий наказ на «Пересування»"
 
 msgid "DHSquadPromotionRequestInteraction.PromptText"
 msgstr "{0} хоче підвищити вас до командира загону {1}."
