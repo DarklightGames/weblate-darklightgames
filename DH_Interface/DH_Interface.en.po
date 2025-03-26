@@ -788,8 +788,14 @@ msgstr "Score"
 msgid "DHScoreBoard.ScoreboardColumns<8>.Title"
 msgstr "Ping"
 
-msgid "DHServerBrowser.BetaMessageText"
-msgstr "Welcome to the Darkest Hour: Europe '44-'45 live beta! Be sure to join the 500+ strong Discord community to discuss the game, make suggestions, or report any bugs! See you on the battlefield!"
+msgid "DHServerBrowser.WelcomeMessageText"
+msgstr "Welcome to the Darkest Hour: Europe '44-'45! Be sure to join the 5000+ strong Discord community to discuss the game, make suggestions, or report any bugs! See you on the battlefield!"
+
+msgid "DHServerBrowser.WelcomeMessageDiscordButtonText"
+msgstr "Join Discord!"
+
+msgid "DHServerBrowser.WelcomeMessagePlayButtonText"
+msgstr "Just play!"
 
 msgid "DHServerBrowser.PanelCaption<0>"
 msgstr "Favorites"
