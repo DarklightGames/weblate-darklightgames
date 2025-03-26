@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-02 22:43+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"PO-Revision-Date: 2025-03-26 19:48+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
 "Language: ru\n"
@@ -1664,3 +1664,10 @@ msgstr "Должность"
 
 msgid "DHScoreBoard.ScoreboardColumns<5>.Title"
 msgstr "У"
+
+#, fuzzy
+msgid "DHServerBrowser.WelcomeMessageText"
+msgstr ""
+"Добро пожаловать в Darkest Hour: Europe '44-'45! Обязательно присоединяйтесь "
+"к сообществу Discord с более чем 5000+ человек, чтобы обсуждать игру, "
+"вносить предложения или сообщать об ошибках! Увидимся на поле боя!"
