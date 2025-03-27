@@ -743,6 +743,9 @@ msgstr "You have been kicked for the remainder of the current level.||If an admi
 msgid "DHNetworkStatusMsg.StatusTitle[12]"
 msgstr "Session Kicked"
 
+msgid "DHPerformanceWarning.OkButton.Caption"
+msgstr "OK"
+
 msgid "DHPlayerSetupPage.psTitleBar.Caption"
 msgstr "Player Setup"
 
@@ -792,7 +795,7 @@ msgid "DHServerBrowser.WelcomeMessageText"
 msgstr "Welcome to Darkest Hour: Europe '44-'45! Be sure to join the 5000+ strong Discord community to discuss the game, make suggestions, or report any bugs! See you on the battlefield!"
 
 msgid "DHServerBrowser.WelcomeMessageDiscordButtonText"
-msgstr "Join Discord!"
+msgstr "Join Discord"
 
 msgid "DHServerBrowser.WelcomeMessagePlayButtonText"
 msgstr "Just play!"
@@ -1561,3 +1564,9 @@ msgstr "LAN Server"
 
 msgid "DHTab_ServerRulesPanel.WebadminPort.Caption"
 msgstr "WebAdmin Port"
+
+msgid "DHVideoChangePrompt.bCancel.Caption"
+msgstr "Restore Settings"
+
+msgid "DHVideoChangePrompt.bOk.Caption"
+msgstr "Keep Settings"
