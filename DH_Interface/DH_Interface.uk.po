@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-26 19:48+0000\n"
+"PO-Revision-Date: 2025-03-27 06:16+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
@@ -614,11 +614,12 @@ msgstr ""
 "Налаштування графіки успішно змінено. Однак вони не набудуть чинності до "
 "наступного запуску гри. Хочете перезапустити гру просто зараз?"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.UseVSyncCheckBox.Hint"
 msgstr ""
-"Вертикальна синхронізація використовується для зменшення розривів екрана "
-"через високу затримку введення (налаштування графічного процесора можуть "
-"перевизначати багато графічних налаштувань, таких як це)"
+"Вертикальна синхронізація використовується для зменшення розривів екрана за "
+"рахунок затримки вводу (налаштування відеокарти можуть перевизначати деякі "
+"графічні параметри, такі як це)"
 
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
 msgstr ""
