@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-27 06:16+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"PO-Revision-Date: 2025-03-27 06:43+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/ru/>\n"
 "Language: ru\n"
@@ -213,7 +213,7 @@ msgid "UT2K4Tab_HudSettings.PanelCaption"
 msgstr "Интерфейс"
 
 msgid "UT2K4PerformWarn.OkButton.Caption"
-msgstr "Принять"
+msgstr ""
 
 msgid "UT2K4PerformWarn.HideCheckbox.Hint"
 msgstr ""
