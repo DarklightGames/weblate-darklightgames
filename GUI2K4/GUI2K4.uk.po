@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-24 16:43+0000\n"
+"PO-Revision-Date: 2025-03-27 06:43+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/uk/>\n"
@@ -214,7 +214,7 @@ msgid "UT2k4Browser_ServersList.ColumnHeadings<3>"
 msgstr "Гравці"
 
 msgid "UT2K4PerformWarn.OkButton.Caption"
-msgstr "Ок"
+msgstr ""
 
 msgid "ControlBinder.BindingLabel[15]"
 msgstr "Переключини вид з третьої особи"
