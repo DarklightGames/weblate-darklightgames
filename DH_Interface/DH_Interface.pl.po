@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-22 09:43+0000\n"
+"PO-Revision-Date: 2025-04-04 10:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/pl/>\n"
@@ -357,3 +357,315 @@ msgstr "Kontynuuj walkę"
 
 msgid "DHDeployMenu.SurrenderResponseMessages<0>"
 msgstr "Błąd krytyczny!"
+
+msgid "DHFilterEdit.sbOptions.Caption"
+msgstr "Opcje..."
+
+msgid "DHFilterListPage.bCancel.Caption"
+msgstr "Anuluj"
+
+msgid "DHGetDataMenu.OkButton.Caption"
+msgstr "OK"
+
+msgid "DHGetDataMenu.CancelButton.Caption"
+msgstr "ANULUJ"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<0>"
+msgstr "Nazwa mapy."
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<1>"
+msgstr "Łączna siła głosów graczy na mapie."
+
+msgid "DHFilterEdit.ComboOpts[0]"
+msgstr "Bez znaczenia"
+
+#, fuzzy
+msgid "DHFilterEdit.cbStats.Caption"
+msgstr "Statystyki Serwera:"
+
+msgid "DHGUIMapComponent.AdminDestroySpawnText"
+msgstr "ADMIN: Zniszcz punkt odrodzenia"
+
+msgid "DHGUITeamSelection.Spectate.Caption"
+msgstr "Obserwuj"
+
+msgid "DHMainMenu.PatreonButton.Hint"
+msgstr "Wspieraj nas na Patreonie!"
+
+msgid "DHFilterEdit.ckVACOnly.Caption"
+msgstr "Tylko chronione przez Valve Anti-Cheat"
+
+#, fuzzy
+msgid "DHGamePageSP.NoBotsWarningText"
+msgstr ""
+"Darkest Hour: Europe '44-'45 koncentruje się wyłącznie na rozgrywce "
+"wieloosobowej i w związku z tym NIE obejmuje obsługi botów w trybie "
+"szkolenia."
+
+msgid "DHGetDataMenu.CancelButton.Hint"
+msgstr "Zamknij to menu, odrzucając zmiany."
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<2>"
+msgstr "Zalecana liczba graczy dla mapy."
+
+#, fuzzy
+msgid "DHGUITeamSelection.AutoSelect.Caption"
+msgstr "Auto wybór"
+
+msgid "DHMainMenu.SteamMustBeRunningText"
+msgstr ""
+"Steam musi być uruchomiony i musisz mieć aktywne połączenie internetowe, aby "
+"grać w trybie wieloosobowym"
+
+msgid "DHDeployMenu.SpawnVehicleImageObject.Hint"
+msgstr "Odrodzenie Pojazdu"
+
+msgid "DHDeployMenu.SpectateButtonObject.Hint"
+msgstr "Obserwuj"
+
+msgid "DHDeployMenu.SuicideButtonObject.Caption"
+msgstr "Samobójstwo"
+
+#, fuzzy
+msgid "DHDeployMenu.SupplyVehicleImageObject.Hint"
+msgstr "Pojazd Zaopatrzeniowy"
+
+msgid "DHDeployMenu.VehicleButtonObject.Hint"
+msgstr "Pojazdy"
+
+msgid "DHEditFavoritePage.UnknownText"
+msgstr "Nieznany Serwer"
+
+msgid "DHEditFavoritePage.IpEntryBox.Caption"
+msgstr "Adres IP: "
+
+msgid "DHFilterEdit.ComboOpts[2]"
+msgstr "Musi być wyłączone"
+
+msgid "DHFilterEdit.ComboOpts[1]"
+msgstr "Musi być włączone"
+
+msgid "DHFilterEdit.MutOpts[0]"
+msgstr "Bez Mutatorów"
+
+msgid "DHFilterEdit.MutOpts[1]"
+msgstr "Dowolny Mutator"
+
+msgid "DHFilterEdit.MutOpts[2]"
+msgstr "Niestandardowe"
+
+msgid "DHFilterEdit.WindowName"
+msgstr "Edytuj reguły filtra..."
+
+msgid "DHFilterEdit.bCancel.Caption"
+msgstr "Anuluj"
+
+msgid "DHFilterEdit.bOk.Caption"
+msgstr "OK"
+
+msgid "DHFilterEdit.cbMutators.Caption"
+msgstr "Mutatory:"
+
+msgid "DHFilterEdit.ckBots.Caption"
+msgstr "Bez Botów"
+
+msgid "DHFilterEdit.ckEmpty.Caption"
+msgstr "Bez pustych serwerów"
+
+msgid "DHFilterEdit.ckFull.Caption"
+msgstr "Bez pełnych serwerów"
+
+msgid "DHFilterEdit.ckPassworded.Caption"
+msgstr "Bez serwerów z hasłem"
+
+msgid "DHFilterEdit.ebName.Caption"
+msgstr "Nazwa filtra:"
+
+msgid "DHFilterEdit.sbMutators.Caption"
+msgstr "Własna konfiguracja mutatora"
+
+msgid "DHFilterListPage.bCreate.Caption"
+msgstr "Stwórz"
+
+msgid "DHFilterListPage.bEdit.Caption"
+msgstr "Edytuj"
+
+msgid "DHFilterListPage.bOk.Caption"
+msgstr "OK"
+
+msgid "DHFilterListPage.bRemove.Caption"
+msgstr "Usuń"
+
+msgid "DHGUIMapComponent.AdminPlaceAlliedSpawnText"
+msgstr "ADMIN: Umieść punkt odrodzenia ALIANTÓW"
+
+msgid "DHGUIMapComponent.AdminPlaceAxisSpawnText"
+msgstr "ADMIN: Umieść punkt odrodzenia OSI"
+
+msgid "DHGUIMapComponent.AdminDestroyAlliedSpawnsText"
+msgstr "ADMIN: Zniszcz punkty odrodzenia ALIANTÓW"
+
+msgid "DHGUIMapComponent.AdminDestroyAxisSpawnsText"
+msgstr "ADMIN: Zniszcz punkty odrodzenia OSI"
+
+msgid "DHGUITeamSelection.SettingsButtonObject.Caption"
+msgstr "Ustawienia"
+
+msgid "DHGUITeamSelection.TeamsCount.Caption"
+msgstr "? graczy"
+
+msgid "DHGUITeamSelection.TeamsCount2.Caption"
+msgstr "? graczy"
+
+msgid "DHGameFooterMP.GameBackButton.Caption"
+msgstr "Wstecz"
+
+msgid "DHGameFooterSP.GameBackButton.Caption"
+msgstr "Wstecz"
+
+msgid "DHGamePageMP.MPFooter.SecondaryCaption"
+msgstr "Dedykowany"
+
+msgid "DHGamePageMP.MPFooter.PrimaryCaption"
+msgstr "Nasłuchujący"
+
+msgid "DHIAMultiColumnRulesPanel.AdvancedButton.Caption"
+msgstr "Wyświetl opcje zaawansowane"
+
+msgid "DHLearnToPlayFooter.GameBackButton.Caption"
+msgstr "Wstecz"
+
+msgid "DHLearnToPlayPage.PanelCaption<0>"
+msgstr "Poradniki Wideo"
+
+msgid "DHLearnToPlayPage.PanelHint<0>"
+msgstr "Dowiedz się więcej o grze, oglądając wideo"
+
+msgid "DHLearnToPlayPage.LearnToPlayHeader.Caption"
+msgstr "Naucz się grać"
+
+msgid "DHMOTDConfigPage.LockedCancelButton.Caption"
+msgstr "Anuluj"
+
+msgid "DHMOTDConfigPage.LockedOKButton.Caption"
+msgstr "OK"
+
+msgid "DHMainMenu.MOTDErrorString"
+msgstr "Błąd: Nie można pobrać kanału wiadomości ({0})"
+
+#, fuzzy
+msgid "DHMainMenu.ControlsChangedMessage"
+msgstr ""
+"Do gry dodano nowe elementy sterujące. W rezultacie poprzednie ustawienia "
+"sterowania mogły zostać zmienione.||Chcesz sprawdzić swoje ustawienia "
+"sterowania?"
+
+msgid "DHMainMenu.BadConfigMessage"
+msgstr ""
+"Wystąpił problem z plikiem konfiguracyjnym, kliknij Kontynuuj, aby zamknąć "
+"grę i otworzyć poradnik, jak naprawić plik konfiguracyjny."
+
+msgid "DHMainMenu.CreditsButton.Caption"
+msgstr "Twórcy gry"
+
+msgid "DHMainMenu.DiscordButton.Hint"
+msgstr "Dołącz do nas na Discordzie!"
+
+msgid "DHMainMenu.FacebookButton.Hint"
+msgstr "Dołącz do nas na Facebooku!"
+
+msgid "DHMainMenu.GitHubButton.Hint"
+msgstr "Dołącz do nas na GitHub!"
+
+#, fuzzy
+msgid "DHMainMenu.QuitButton.Caption"
+msgstr "Wyjście z gry"
+
+msgid "DHMainMenu.ServerButton.Caption"
+msgstr "Przeglądarka Serwerów"
+
+msgid "DHMainMenu.SettingsButton.Caption"
+msgstr "Ustawienia"
+
+msgid "DHMainMenu.SteamCommunityButton.Hint"
+msgstr "Dołącz do Społeczności Steam!"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<0>"
+msgstr "Nominowane Mapy"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<1>"
+msgstr "Waga Głosu"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<2>"
+msgstr "Rozmiar Mapy"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<0>"
+msgstr "Nazwa Mapy"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<1>"
+msgstr "Państwo Aliantów"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<2>"
+msgstr "Państwo Osi"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<3>"
+msgstr "Typ Gry"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<4>"
+msgstr "Rozmiar Mapy"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<0>"
+msgstr "Nazwa mapy."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<1>"
+msgstr "Państwo Aliantów na tej mapie."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<2>"
+msgstr "Państwo Osi na tej mapie."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<3>"
+msgstr "Jaki rodzaj gry lub bitwy na mapie."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<4>"
+msgstr "Zalecani gracze dla mapy."
+
+msgid "DHMapVotingPage.lmsgMapOutOfBounds"
+msgstr ""
+"Prosimy o głosowanie na mapę odpowiednią dla obecnej liczby graczy. Nadal "
+"można głosować na tę mapę na pełnej liście."
+
+msgid "DHMapVotingPage.lmsgMode[0]"
+msgstr "Większość Wygrywa"
+
+msgid "DHMapVotingPage.FilterClearButton.Caption"
+msgstr "Wyczyść"
+
+msgid "DHGUIDynArrayPage.LockedCancelButton.Caption"
+msgstr "Anuluj"
+
+msgid "DHGUIDynArrayPage.LockedOKButton.Caption"
+msgstr "OK"
+
+msgid "DHGUIMapComponent.SquadRallyPointDestroyText"
+msgstr "Zniszcz Punkt Zbiórki"
+
+msgid "DHGUIMapComponent.SquadRallyPointSetAsSecondaryText"
+msgstr "Ustaw jako drugorzędny"
+
+msgid "DHGUIMapComponent.RemoveText"
+msgstr "Usuń {0}"
+
+msgid "DHGUIMapComponent.ActiveTargetSelectText"
+msgstr "Wybierz jako Aktywny Cel"
+
+msgid "DHGUITeamSelection.SizeBonusText"
+msgstr "rozmiar armii"
+
+msgid "DHFilterListPage.sbBackground.Caption"
+msgstr "Filtry..."
+
+msgid "DHGUITeamSelection.UnitsText"
+msgstr " graczy"
+
+msgid "DHGUITeamSelection.Disconnect.Caption"
+msgstr "Rozłącz"
