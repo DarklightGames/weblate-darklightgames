@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-22 09:43+0000\n"
+"PO-Revision-Date: 2025-04-07 09:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pl/>\n"
@@ -34,9 +34,8 @@ msgstr "To działo jest już obsadzone"
 msgid "DHATGunCannonPawn.HudName"
 msgstr "Strzelec"
 
-#, fuzzy
 msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
-msgstr "Zakończ obracanie"
+msgstr "Zakończ"
 
 #, fuzzy
 msgid "DHATGunTouchMessage.RotateHintString"
@@ -235,3 +234,221 @@ msgstr "Snajper"
 
 msgid "DHArtillerySpottingScope.SelectTargetHint"
 msgstr "Wciśnij {0} by wybrać cel artyleryjski"
+
+msgid "DHAdminMessage.DestroyedAllSpawnsMessage"
+msgstr ""
+"Administrator „{0}” zniszczył wszystkie punkty odrodzenia rozmieszczone "
+"przez administratora w drużynie {1}."
+
+msgid "DHArtilleryMessage.RequestText"
+msgstr "Wezwij {name}."
+
+msgid "DHArtilleryMessage.BadLocationText"
+msgstr "Nieprawidłowa lokalizacja celu dla {name}."
+
+msgid "DHArtilleryMessage.NotQualifiedText"
+msgstr "Nie jesteś uprawniony do wezwania {name}."
+
+msgid "DHArtilleryMessage.UnavailableText"
+msgstr "{name} jest obecnie niedostępne."
+
+msgid "DHArtilleryMessage.CancelledText"
+msgstr "{name} został anulowany."
+
+msgid "DHArtilleryMessage.NoTargetText"
+msgstr "Brak lokacji celu."
+
+msgid "DHCommandMenu_FireSupport.AvailableArtilleryText"
+msgstr "Artyleria: {0}"
+
+msgid "DHCommandMenu_FireSupport.AvailableAirstrikesText"
+msgstr "Naloty: {0}"
+
+msgid "DHCommandMenu_FireSupport.Options<0>.ActionText"
+msgstr " "
+
+msgid "DHCommandMenu_FireSupport.AvailableParadropsText"
+msgstr "Desanty Spadochronowe: {0}"
+
+msgid "DHCommandMenu_Patron.Options<0>.ActionText"
+msgstr "Budowa"
+
+msgid "DHCommandMenu_Radio.AvailableText"
+msgstr "Dostępne"
+
+msgid "DHCommandMenu_Radio.CancelText"
+msgstr "W trakcie (Anuluj)"
+
+msgid "DHCommandPostMessage.OverrunMessage"
+msgstr "{name} został opanowany przez wroga."
+
+msgid "DHCommandPostMessage.ConstructedMessage"
+msgstr "{name} został zbudowany i zostanie aktywowany za {seconds} sekund."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<7>"
+msgstr "Musisz {verb} {name} na uziemionej powierzchni."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<11>"
+msgstr "Nie możesz {verb} {name} w pobliżu punktu odrodzenia."
+
+msgid "DHGameType.GameTypeName"
+msgstr "Nieznany Typ Gry"
+
+msgid "DHArtillerySpottingScope.RightString"
+msgstr "Prawo"
+
+msgid "DHArtillerySpottingScope.CorrectionString"
+msgstr "Poprawka"
+
+msgid "DHArtillerySpottingScope.PitchHeaderString"
+msgstr "Nachylenie"
+
+msgid "DHArtillerySpottingScope.LeftString"
+msgstr "Lewo"
+
+msgid "DHArtillerySpottingScope.DistanceString"
+msgstr "Korekta"
+
+msgid "DHArtillerySpottingScope.RangeHeaderString"
+msgstr "Odległość"
+
+msgid "DHArtilleryMessage.ActiveTargetChosen"
+msgstr "Wybrano cel wsparcia ogniowego."
+
+msgid "DHCommandMenu_ATGun.CannotBeRotatedText"
+msgstr "Nie można obrócić"
+
+msgid "DHCommandMenu_ATGun.CooldownText"
+msgstr "Czekaj"
+
+msgid "DHCommandMenu_ATGun.Options<0>.ActionText"
+msgstr "Obrót"
+
+msgid "DHCommandMenu_FireSupport.UnavailableText"
+msgstr "Niedostępne"
+
+msgid "DHCommandMenu_FireSupport.InvalidTargetText"
+msgstr "Niepoprawny cel"
+
+msgid "DHCommandMenu_FireSupport.OffMapSupportExhaustedText"
+msgstr "Wyczerpane"
+
+msgid "DHCommandMenu_Patron.Options<1>.ActionText"
+msgstr "Oznaczanie"
+
+msgid "DHCommandMenu_ATGun.FatalText"
+msgstr "Obrót niedostępny"
+
+msgid "DHConstruction.ConstructionVerb"
+msgstr "buduj"
+
+msgid "DHAdminMessage.DestroyedSpawnMessage"
+msgstr ""
+"Administrator „{0}” zniszczył punkt odrodzeń umieszczony przez "
+"administratora w drużynie {1}."
+
+msgid "DHCommandMenu_ATGun.EnemyGunText"
+msgstr "Nie można obrócić działa przeciwnika"
+
+msgid "DHCommandMenu_ATGun.OccupiedText"
+msgstr "Działo jest zajęte"
+
+msgid "DHCommandPostMessage.DestroyedMessage"
+msgstr "{name} został zniszczony."
+
+msgid "DHCommandMenu_FireSupport.Options<2>.ActionText"
+msgstr " "
+
+msgid "DHCommandMenu_Radio.UnavailableText"
+msgstr "Niedostępne"
+
+msgid "DHCommunicationMessage.AllChatDisabledMessage"
+msgstr "Czat publiczny jest obecnie wyłączony."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<10>"
+msgstr "Nie możesz {verb} {name} na polu minowym."
+
+msgid "DHCommandMenu_Radio.OngoingText"
+msgstr "W trakcie"
+
+msgid "DHCommandPostMessage.ActivatedMessage"
+msgstr "{name} został ustanowiony."
+
+msgid "DHArtillerySpottingScope.SelectedTargetText"
+msgstr "Wybrany Cel"
+
+msgid "DHArtillerySpottingScope.MeasurementToolText"
+msgstr "Narzędzie Pomiarowe"
+
+msgid "DHArtilleryTargetMessage.TargetMarkedHE"
+msgstr "{0} oznaczył cel dla artylerii (HE)"
+
+msgid "DHArtilleryTargetMessage.TargetMarkedSmoke"
+msgstr "{0} oznaczył cel dla artylerii (DYM)"
+
+#, fuzzy
+msgid "DHCommandMenu_FireSupport.Options<1>.ActionText"
+msgstr " "
+
+msgid "DHCommandMenu_Radio.ExhaustedText"
+msgstr "Wyczerpane"
+
+msgid "DHCommandMenu_Radio.UnqualifiedText"
+msgstr "Nieprzeszkolony"
+
+msgid "DHCommandMenu_SquadLeader.Options<5>.ActionText"
+msgstr "Ruchy"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<2>"
+msgstr "Musisz {verb} {name} na solidnym gruncie."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<3>"
+msgstr "Podłoże jest tu zbyt strome, by {verb} {name}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<4>"
+msgstr "Nie można {verb} {name} w wodzie."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<5>"
+msgstr "Nie możesz {verb} {name} w tym miejscu."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<6>"
+msgstr "Nie ma tu wystarczająco dużo miejsca by {verb} {name}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<12>"
+msgstr "Nie możesz {verb} {name} w pomieszczeniu."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<13>"
+msgstr "Nie możesz {verb} {name} wewnątrz celu."
+
+msgid "DHCommandMenu_SquadAssistant.Options<0>.ActionText"
+msgstr "Budowa"
+
+msgid "DHCommandMenu_SquadAssistant.Options<1>.ActionText"
+msgstr "Oznaczanie"
+
+msgid "DHCommandMenu_SquadLeader.InEnemyTerritory"
+msgstr "Na terytorium wroga"
+
+msgid "DHCommandMenu_SquadLeader.Options<0>.ActionText"
+msgstr "Stwórz Punkt Zbiórki"
+
+msgid "DHCommandMenu_SquadLeader.Options<1>.ActionText"
+msgstr "Ognia"
+
+msgid "DHCommandMenu_SquadLeader.Options<2>.ActionText"
+msgstr "Budowa"
+
+msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
+msgstr "Brak Gracza "
+
+msgid "DHCommandMenu_SquadLeader.Options<4>.ActionText"
+msgstr "Oznaczanie"
+
+msgid "DHCommandMenu_ATGun.BusyText"
+msgstr "Zajęte"
+
+msgid "DHAdminMessage.AdminLoggedInMessage"
+msgstr "{0} zalogował się jako administrator serwera."
+
+msgid "DHAdminMessage.AdminLoggedOutMessage"
+msgstr "{0} oddał uprawnienia administratora."
