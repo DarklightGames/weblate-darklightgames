@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-04 10:43+0000\n"
+"PO-Revision-Date: 2025-04-07 09:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/pl/>\n"
@@ -669,3 +669,506 @@ msgstr " graczy"
 
 msgid "DHGUITeamSelection.Disconnect.Caption"
 msgstr "Rozłącz"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[2]"
+msgstr "Zawsze"
+
+msgid "DHTab_GameSettings.BayonetSpawn.Caption"
+msgstr "Odrodzenie z przyczepionym bagnetem"
+
+msgid "DHTab_GameSettings.ManualReloading.Hint"
+msgstr ""
+"Pociski nie zostaną przeładowane, dopóki nie klikniesz po oddaniu strzału, "
+"co jest przydatne, jeśli po oddaniu strzału zdecydujesz się zmienić rodzaj "
+"pocisków"
+
+msgid "DHTab_GameSettings.Netspeed.Caption"
+msgstr "Szybkość Sieci (bajty na sekundę)"
+
+msgid "DHTab_AudioSettings.VoiceVolume.Caption"
+msgstr "Głośność odbierania głosu"
+
+#, fuzzy
+msgid "DHTab_Controls.Section_Inventory"
+msgstr "Ekwipunek"
+
+msgid "DHTab_Controls.Captions_Inventory[0]"
+msgstr "Slot Ekwipunku 1"
+
+msgid "DHTab_Controls.Captions_Inventory[2]"
+msgstr "Slot Ekwipunku 3"
+
+msgid "DHTab_Controls.Captions_Inventory[3]"
+msgstr "Slot Ekwipunku 4"
+
+msgid "DHTab_Controls.Captions_Inventory[4]"
+msgstr "Slot Ekwipunku 5"
+
+msgid "DHTab_Controls.Captions_Inventory[6]"
+msgstr "Slot Ekwipunku 7"
+
+msgid "DHTab_Controls.Captions_Inventory[7]"
+msgstr "Slot Ekwipunku 8"
+
+msgid "DHTab_Controls.Captions_Inventory[8]"
+msgstr "Slot Ekwipunku 9"
+
+msgid "DHTab_Controls.Captions_Inventory[9]"
+msgstr "Slot Ekwipunku 0"
+
+msgid "DHTab_Controls.ControlProfiles[0]"
+msgstr "Aktualny"
+
+msgid "DHTab_Controls.ControlProfiles[1]"
+msgstr "Domyślne (Reset)"
+
+msgid "DHTab_Controls.ControlProfiles[2]"
+msgstr "Klasyczne RO"
+
+msgid "DHTab_Controls.ControlProfiles[3]"
+msgstr "Pro 104"
+
+msgid "DHTab_Controls.ControlProfiles[4]"
+msgstr "Pro 105"
+
+msgid "DHTab_Controls.captions_weapons[12]"
+msgstr "Zwiększenie zasięgu wyrzutni dymu w pojazdach/Ustawienie Obrotu"
+
+msgid "DHTab_Controls.captions_weapons[13]"
+msgstr "Zmniejszenie zasięgu wyrzutni dymu pojazdu/Ustawienie Obrotu"
+
+msgid "DHTab_Controls.captions_comm[4]"
+msgstr "Menu Komend Głosowych"
+
+msgid "DHTab_Controls.captions_comm[5]"
+msgstr "Wyświetl czat w grze"
+
+msgid "DHTab_Controls.captions_comm[6]"
+msgstr "Aktywuj Mikrofon"
+
+msgid "DHTab_Controls.captions_comm[9]"
+msgstr "Przełącz na Nieprzypisany kanał głosowy"
+
+msgid "DHTab_Controls.captions_comm[11]"
+msgstr "Rozpocznij pisanie wiadomości na czacie"
+
+msgid "DHTab_Controls.captions_comm[12]"
+msgstr "Menu Wyciszenia"
+
+msgid "DHTab_Controls.captions_game[4]"
+msgstr "Zablokuj/Odblokuj Pojazd Opancerzony"
+
+msgid "DHTab_Controls.captions_game[8]"
+msgstr "Rozstaw Punkt Zbiórki"
+
+msgid "DHTab_Controls.PanelCaption"
+msgstr "Sterowanie"
+
+msgid "DHTab_Controls.ControlProfilesComboBox.Caption"
+msgstr "Profile Sterowania"
+
+msgid "DHTab_DetailSettings.BrightnessSlider.Caption"
+msgstr "Jasność"
+
+msgid "DHTab_DetailSettings.CorpseStayTime.Caption"
+msgstr "Czas Pozostawania Zwłok (Sekundy)"
+
+msgid "DHTab_DetailSettings.DetailAntialiasing.Caption"
+msgstr "Antyaliasing"
+
+msgid "DHTab_DetailSettings.DetailCharacterDetail.Caption"
+msgstr "Szczegóły Postaci"
+
+msgid "DHTab_DetailSettings.DetailCharacterShadows.Caption"
+msgstr "Cienie Postaci"
+
+msgid "DHTab_DetailSettings.DetailCoronas.Caption"
+msgstr "Oświetlenie Dodatkowe"
+
+#, fuzzy
+msgid "DHTab_DetailSettings.DetailDecalStay.Caption"
+msgstr "Pozostawanie Śladów"
+
+msgid "DHTab_DetailSettings.DetailDecals.Caption"
+msgstr "Ślady"
+
+msgid "DHTab_DetailSettings.DetailDynamicLighting.Caption"
+msgstr "Dynamiczne Oświetlenie"
+
+msgid "DHTab_DetailSettings.DetailPhysics.Caption"
+msgstr "Szczegóły Fizyki"
+
+msgid "DHTab_DetailSettings.DetailProjectors.Caption"
+msgstr "Projektory"
+
+msgid "DHTab_DetailSettings.DetailTrilinear.Caption"
+msgstr "Filtrowanie Trójliniowe"
+
+msgid "DHTab_DetailSettings.DetailWorldDetail.Caption"
+msgstr "Szczegółowość Świata"
+
+msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
+msgstr "Dynamiczna Odległość Mgły (Zalecane)"
+
+msgid "DHTab_DetailSettings.GammaSlider.Caption"
+msgstr "Gamma"
+
+msgid "DHTab_DetailSettings.GlobalDetails.Caption"
+msgstr "Detale gry"
+
+msgid "DHTab_DetailSettings.HDRCheckbox.Caption"
+msgstr "Bloom HDR"
+
+msgid "DHTab_DetailSettings.MeshLOD.Caption"
+msgstr "Dynamiczna Siatka LOD"
+
+msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
+msgstr "Minimalna pożądana liczba FPS"
+
+msgid "DHTab_DetailSettings.MotionBlur.Caption"
+msgstr "Efekty Rozmycia"
+
+msgid "DHTab_DetailSettings.UseVSyncCheckBox.Caption"
+msgstr "VSync (Niezalecane)"
+
+msgid "DHTab_DetailSettings.VideoColorDepth.Caption"
+msgstr "Głębia Kolorów"
+
+msgid "DHTab_DetailSettings.VideoFullScreen.Caption"
+msgstr "Pełny Ekran"
+
+msgid "DHTab_DetailSettings.VideoResolution.Caption"
+msgstr "Rozdzielczość"
+
+msgid "DHTab_DetailSettings.WeatherEffects.Caption"
+msgstr "Efekty Pogodowe"
+
+msgid "DHTab_DetailSettings.sbSection3.Caption"
+msgstr "Test Gammy"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[0]"
+msgstr "Nigdy"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[1]"
+msgstr "Miesięcznie"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[2]"
+msgstr "Rocznie"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[3]"
+msgstr "Niestandardowe (z pliku ini) - co %NumDays% dni"
+
+msgid "DHTab_GameSettings.IDText"
+msgstr "ID:"
+
+msgid "DHTab_GameSettings.DegreesText"
+msgstr "stopnie"
+
+msgid "DHTab_GameSettings.NetSpeedText[0]"
+msgstr "Najniższa ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[1]"
+msgstr "Niska ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[2]"
+msgstr "Średnia ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[3]"
+msgstr "Zalecana ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[4]"
+msgstr "Wysoka ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[5]"
+msgstr "Ekstremalna ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[6]"
+msgstr "Zdefiniowana przez użytkownika (%NetSpeed%)"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[0]"
+msgstr "Nigdy"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[1]"
+msgstr "Tylko z członkami załogi"
+
+msgid "DHTab_GameSettings.PanelCaption"
+msgstr "Gra"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Caption"
+msgstr "Powiadomienia pojazdu"
+
+msgid "DHTab_GameSettings.CopyROIDButton.Caption"
+msgstr "Skopiuj ID do schowka"
+
+msgid "DHTab_GameSettings.CopyROIDButton.Hint"
+msgstr "Umożliwi to wklejenie identyfikatora ROID jako tekst"
+
+msgid "DHTab_GameSettings.DynamicNetspeed.Caption"
+msgstr "Dynamiczna Prędkość Sieci (Netspeed)"
+
+msgid "DHTab_GameSettings.GameBK1.Caption"
+msgstr "Rozgrywka"
+
+msgid "DHTab_GameSettings.GameBK2.Caption"
+msgstr "Pojazd"
+
+msgid "DHTab_GameSettings.GameBK3.Caption"
+msgstr "Sieć"
+
+msgid "DHTab_GameSettings.LockTankOnEntry.Caption"
+msgstr "Zablokuj czołg przy wejściu do niego"
+
+msgid "DHTab_GameSettings.ManualReloading.Caption"
+msgstr "Ręczne Przeładowywanie Pocisków Czołgowych"
+
+msgid "DHTab_GameSettings.Netspeed.Hint"
+msgstr ""
+"Maksymalna pożądana prędkość Internetu używana przez grę (w bajtach na "
+"sekundę). Serwery mogą ustawić maksymalną prędkość klienta, która będzie "
+"nadrzędna w stosunku do klientów."
+
+msgid "DHTab_GameSettings.NoGore.Caption"
+msgstr "Bez Krwi"
+
+msgid "DHTab_GameSettings.NoGore.Hint"
+msgstr "Zalecane jest odznaczenie tej opcji"
+
+msgid "DHTab_GameSettings.PlayerName.Caption"
+msgstr "Nazwa Gracza"
+
+msgid "DHTab_GameSettings.PlayersROID.Caption"
+msgstr ""
+"Musisz dołączyć do gry wieloosobowej zanim zostanie wyświetlony Twój "
+"identyfikator"
+
+msgid "DHTab_GameSettings.PurgeCacheDays.Caption"
+msgstr "Wyczyść Cache"
+
+msgid "DHTab_GameSettings.PurgeCacheDays.Hint"
+msgstr "Jak często usuwać niestandardowe pliki pobrane z serwerów"
+
+msgid "DHTab_GameSettings.ThrottleOtherVehicles.Caption"
+msgstr "Stopniowe Przyspieszanie – Inne Pojazdy"
+
+msgid "DHTab_GameSettings.ThrottleTanks.Caption"
+msgstr "Stopniowe Przyspieszanie – Czołgi"
+
+msgid "DHTab_Hud.GameHudShowDeathMessages.Caption"
+msgstr "Pokaż Wiadomości o Śmierci"
+
+msgid "DHTab_Hud.GameHudShowIndicators.Caption"
+msgstr "Pokaż Wskaźnik Utraty Pakietów"
+
+#, fuzzy
+msgid "DHTab_Hud.ShowRallyPoint.Caption"
+msgstr "Pokaż Status Punktu Zbiórki Drużyny"
+
+msgid "DHTab_Hud.UseNativeRoleNames.Caption"
+msgstr "Używaj Natywnych Nazw Ról"
+
+msgid "DHTab_Hud.UseTechnicalAmmoNames.Caption"
+msgstr "Używaj Technicznych Nazw Amunicji (Czołgi/Działa PPanc)"
+
+msgid "DHTab_Hud.myGameHudOpacity.Caption"
+msgstr "Przezroczystość HUD"
+
+msgid "DHTab_Hud.myHudScale.Caption"
+msgstr "Skalowanie HUD"
+
+msgid "DHTab_Input.InputBK1.Caption"
+msgstr "Opcje"
+
+msgid "DHTab_Input.InputBK3.Caption"
+msgstr "Precyzyjne Dostrojenie"
+
+msgid "DHTab_Input.InputIronSightBipodFactor.Caption"
+msgstr "Współczynnik Czułości Dwójnogu"
+
+msgid "DHTab_Input.InputIronSightFactor.Caption"
+msgstr "Współczynnik Czułości Przyrządów Celowniczych"
+
+msgid "DHTab_Controls.captions_weapons[11]"
+msgstr "Rozmieszczenie KM/ Bagnet / Wyrzutnia dymu z pojazdu"
+
+#, fuzzy
+msgid "DHTab_Controls.captions_comm[7]"
+msgstr "Przełącz na kanał głosowy Dowództwa"
+
+msgid "DHTab_DetailSettings.ContrastSlider.Caption"
+msgstr "Kontrast"
+
+msgid "DHTab_DetailSettings.DetailDecoLayers.Caption"
+msgstr "Szczegóły Terenu"
+
+msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
+msgstr "Odległość Mgły"
+
+msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
+msgstr ""
+"Utrzymuje FPS na jak najwyższym poziomie, automatycznie dostosowując "
+"odległość mgły w oparciu o FPS"
+
+msgid "DHTab_GameSettings.NoROIDText"
+msgstr "Najpierw musisz dołączyć do gry wieloosobowej"
+
+msgid "DHTab_GameSettings.DynamicNetspeed.Hint"
+msgstr ""
+"Obniży NetSpeed do 6000 lub do momentu osiągnięcia 40 pingu, przydatne dla "
+"tych, którzy wolą lepszy ping niż stabilny NetSpeed"
+
+#, fuzzy
+msgid "DHTab_AudioSettings.VoiceQualityLAN.Caption"
+msgstr "Jakość LAN"
+
+msgid "DHTab_Controls.Captions_Inventory[1]"
+msgstr "Slot Ekwipunku 2"
+
+msgid "DHTab_Controls.Captions_Inventory[5]"
+msgstr "Slot Ekwipunku 6"
+
+msgid "DHTab_DetailSettings.DetailAnisotropy.Caption"
+msgstr "Filtrowanie Anizotropowe"
+
+msgid "DHTab_DetailSettings.UseVSyncCheckBox.Hint"
+msgstr ""
+"VSync służy do redukcji rozrywania ekranu kosztem dużego opóźnienia wejścia ("
+"ustawienia GPU mogą zastąpić wiele ustawień graficznych, takich jak to)"
+
+msgid "DHTab_GameSettings.Incognito.Caption"
+msgstr "Tryb Incognito"
+
+msgid "DHTab_GameSettings.Incognito.Hint"
+msgstr "Nie wyświetlaj mojego statusu Patrona lub Dewelopera na tablicy wyników"
+
+msgid "DHTab_GameSettings.ViewFOV.Caption"
+msgstr "Normalne Pole Widzenia"
+
+msgid "DHTab_Hud.GameBK.Caption"
+msgstr "Opcje"
+
+msgid "DHTab_Hud.GameHudMessageCount.Caption"
+msgstr "Max. Liczba Czatów"
+
+msgid "DHTab_Hud.GameHudMessageOffset.Caption"
+msgstr "Przesunięcie Czcionki Wiadomości"
+
+msgid "DHTab_Hud.GameHudMessageScale.Caption"
+msgstr "Rozmiar Czcionki Czatu"
+
+msgid "DHTab_Hud.GameHudShowWeaponInfo.Caption"
+msgstr "Pokaż Informacje o Broni"
+
+msgid "DHTab_Hud.GameHudSimpleColours.Hint"
+msgstr ""
+"Tylko Czerwone/Niebieskie kolory interfejsu drużyny, dla graczy ze ślepotą "
+"barw."
+
+msgid "DHTab_Hud.GameHudVisible.Caption"
+msgstr "Ukryj HUD"
+
+msgid "DHTab_Hud.HintsCombo.Caption"
+msgstr "Poziom Wskazówek"
+
+msgid "DHTab_Hud.ShowChatMessages.Caption"
+msgstr "Pokaż Wiadomości na Czacie"
+
+msgid "DHTab_Hud.ShowCompass.Caption"
+msgstr "Pokaż Kompas"
+
+msgid "DHTab_Hud.ShowMapFirstSpawn.Caption"
+msgstr "Pokaż Mapę Przy Pierwszym Odrodzeniu"
+
+msgid "DHTab_Input.InputInvertMouse.Caption"
+msgstr "Odwróć Mysz"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Hint"
+msgstr "Kiedy wysyłać automatyczne powiadomienia głosowe pojazdu"
+
+msgid "DHTab_GameSettings.BayonetSpawn.Hint"
+msgstr ""
+"Przydatne, jeśli zawsze chcesz mieć założony bagnet i nie lubisz go zakładać "
+"przy każdym odrodzeniu"
+
+msgid "DHTab_GameSettings.LockTankOnEntry.Hint"
+msgstr ""
+"Automatycznie blokuj czołg (lub inny pojazd opancerzony), gdy się w nim "
+"odrodzisz lub gdy wjedziesz do pustego czołgu. Uniemożliwia to innym graczom "
+"korzystanie ze stanowisk załogi czołgu."
+
+msgid "DHTab_GameSettings.ThrottleOtherVehicles.Hint"
+msgstr "Używa przepustnicy dla pojazdów innych niż czołgi, niezalecane"
+
+msgid "DHTab_GameSettings.ThrottleTanks.Hint"
+msgstr "Używa przepustnicy dla czołgów, przydatne podczas długich jazd"
+
+msgid "DHTab_GameSettings.ViewFOV.Hint"
+msgstr ""
+"Jak duża część świata jest widoczna na całej szerokości ekranu. Niższy FOV "
+"daje nieco bardziej powiększony widok, podczas gdy wyższy FOV jest bardziej "
+"pomniejszony, ale zapewnia dodatkowe widzenie peryferyjne. Należy pamiętać, "
+"że monitor panoramiczny nie zapewnia dodatkowej szerokości widzenia; ten sam "
+"widok jest rozłożony na szerszym ekranie, a góra i dół są przycięte."
+
+msgid "DHTab_Hud.GameHudShowVehicleVisionCone.Caption"
+msgstr "Pokaż Stożek Widzenia Pojazdu"
+
+msgid "DHTab_Hud.GameHudSimpleColours.Caption"
+msgstr "Proste Kolory HUD"
+
+msgid "DHTab_Hud.ShowChatMessages.Hint"
+msgstr ""
+"Pokazuje wiadomości na czacie od graczy i serwera. Wiadomości mogą być nadal "
+"odczytywane w konsoli."
+
+msgid "DHTab_Input.InputMenuSensitivity.Caption"
+msgstr "Czułość Myszki (Menu)"
+
+msgid "DHTab_Hud.UseNativeItemNames.Caption"
+msgstr "Używaj Natywnych Nazw Elementów"
+
+msgid "DHTab_Input.InputAutoSlope.Caption"
+msgstr "Automatyczne Nachylenie"
+
+msgid "DHTab_Controls.ControlProfiles[5]"
+msgstr "Kontroler XBox 360"
+
+msgid "DHTab_Controls.captions_movement[12]"
+msgstr "Bieg (pojedyncze naciśnięcie)"
+
+msgid "DHTab_Controls.captions_weapons[9]"
+msgstr "Zmiana lufy KM"
+
+msgid "DHTab_Controls.captions_weapons[10]"
+msgstr "Przełącz tryb ognia"
+
+msgid "DHTab_Controls.captions_weapons[14]"
+msgstr "Przełącz wybrany cel artyleryjski"
+
+msgid "DHTab_Controls.InputBK1.Caption"
+msgstr "Przypisanie klawiszy"
+
+msgid "DHTab_DetailSettings.RenderModeText[0]"
+msgstr "Direct3D 9.0 (Zalecany)"
+
+msgid "DHTab_Controls.captions_comm[8]"
+msgstr "Przełącz na Lokalny kanał głosowy"
+
+msgid "DHTab_DetailSettings.NoneText"
+msgstr "Brak"
+
+msgid "DHTab_DetailSettings.RenderModeText[1]"
+msgstr "Direct3D 8.0 (Problemy z renderowaniem)"
+
+msgid "DHTab_DetailSettings.RenderModeText[2]"
+msgstr "OpenGL (Niestabilne)"
+
+msgid "DHTab_DetailSettings.RelaunchQuestion"
+msgstr ""
+"Tryb graficzny został pomyślnie zmieniony.  Nie będzie jednak obowiązywać aż "
+"do następnego uruchomienia gry.  Czy chcesz teraz ponownie uruchomić grę?"
+
+msgid "DHTab_Input.InputMouseAccel.Caption"
+msgstr "Próg Przyśpieszenia Myszy"
+
+msgid "DHTab_Input.InputMouseLag.Caption"
+msgstr "Redukuj Opóźnienie Myszy"
