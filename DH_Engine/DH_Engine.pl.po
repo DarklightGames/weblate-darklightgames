@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-07 09:43+0000\n"
+"PO-Revision-Date: 2025-04-09 17:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pl/>\n"
@@ -452,3 +452,248 @@ msgstr "{0} zalogował się jako administrator serwera."
 
 msgid "DHAdminMessage.AdminLoggedOutMessage"
 msgstr "{0} oddał uprawnienia administratora."
+
+msgid "DHGameType_Domination.GameTypeName"
+msgstr "Dominacja"
+
+msgid "DHGameType_Defence.GameTypeName"
+msgstr "Obrona"
+
+msgid "DHGameType_Push.GameTypeName"
+msgstr "Szturm"
+
+msgid "DHHintManager.Hints[0].Title"
+msgstr "Witamy w Darkest Hour!"
+
+msgid "DHHintManager.Hints[0].Text"
+msgstr ""
+"Te podpowiedzi będą pojawiać się okresowo w grze. Zwróć na nie uwagę, od "
+"tego może zależeć twoje przetrwanie! Można je wyłączyć w zakładce HUD w menu "
+"konfiguracji."
+
+msgid "DHHintManager.Hints[1].Text"
+msgstr ""
+"Możesz wspiąć się na małe przeszkody! Aby wspiąć się, stój przed dowolną "
+"niską przeszkodą, aż pojawi się ikona wspinania, a następnie naciśnij "
+"%JUMP%, aby wspiąć się na przeszkodę."
+
+msgid "DHHintManager.Hints[2].Title"
+msgstr "Spadochrony"
+
+msgid "DHHintManager.Hints[2].Text"
+msgstr ""
+"Możesz kierować trajektorią twojego spadochronu za pomocą klawiszy ruchu!"
+
+msgid "DHHintManager.Hints[3].Title"
+msgstr "Kolorowe Granaty Dymne"
+
+msgid "DHHintManager.Hints[3].Text"
+msgstr ""
+"Kolorowe granaty dymne służą do komunikacji na polu bitwy z członkami "
+"drużyny. Pamiętaj, aby powiedzieć członkom drużyny, co oznacza kolorowy dym."
+
+msgid "DHHintManager.Hints[6].Title"
+msgstr "Moździerze"
+
+msgid "DHHud.CanReloadText"
+msgstr "Wciśnij %THROWMGAMMO% by pomóc w przeładowaniu"
+
+msgid "DHHintManager.Hints[61].Title"
+msgstr "Desperackie środki"
+
+msgid "DHHintManager.Hints[62].Text"
+msgstr ""
+"Lufa twojej broni się przegrzewa! Przegrzewanie luf może skutkować mniejszą "
+"celnością i ewentualnym zniszczeniem lufy."
+
+msgid "DHGameType_Armored_Advance.GameTypeName"
+msgstr "Natarcie Pancerne"
+
+msgid "DHGameType_Advance.GameTypeName"
+msgstr "Natarcie"
+
+msgid "DHGameType_Cutoff.GameTypeName"
+msgstr "Odcięcie"
+
+msgid "DHHintManager.Hints[8].Title"
+msgstr "Cele Artylerii"
+
+msgid "DHHintManager.Hints[66].Title"
+msgstr "Nadlatuje!"
+
+msgid "DHHintManager.Hints[66].Text"
+msgstr ""
+"Właśnie wystrzeliłeś pocisk moździerzowy prosto do góry. Możesz chcieć się "
+"schować!"
+
+msgid "DHHintManager.Hints[53].Text"
+msgstr ""
+"Aby dodać znaczniki na mapie i wejść z nimi w interakcję, najedź kursorem na "
+"obszar lub obiekt zainteresowania i naciśnij [RIGHTMOUSE], aby wyświetlić "
+"menu kontekstowe."
+
+msgid "DHHintManager.Hints[54].Text"
+msgstr ""
+"Oznaczyłeś cel dla wsparcia ogniowego dalekiego zasięgu. Znajdź radio, by "
+"móc je wezwać!"
+
+msgid "DHHintManager.Hints[64].Title"
+msgstr "Zniszczenie Lufy"
+
+msgid "DHHud.MapGameTypeText"
+msgstr "Typ Gry: "
+
+msgid "DHHud.NoTimeLimitText"
+msgstr "Nieskończony"
+
+msgid "DHHud.AndMoreText"
+msgstr "i więcej..."
+
+msgid "DHHud.LegendCarriedArtilleryRadioText"
+msgstr "Radiooperator Artylerii"
+
+msgid "DHHud.SpawnAtVehicleText"
+msgstr "Odrodzisz się jako {0} w {1} za {2} | Wciśnij [ESC], aby zmienić"
+
+msgid "DHHintManager.Hints[7].Title"
+msgstr "Obsługiwanie Moździerza"
+
+msgid "DHHintManager.Hints[54].Title"
+msgstr "Znajdź Radio"
+
+msgid "DHHintManager.Hints[60].Text"
+msgstr ""
+"Ta broń ma regulowany celownik! Naciśnij %SWITCHFIREMODE% aby zmienić zasięg "
+"celownika."
+
+msgid "DHHintManager.Hints[65].Title"
+msgstr "Semovente da 90/53"
+
+msgid "DHHintManager.Hints[8].Text"
+msgstr ""
+"Dowódcy oddziałów mogą oznaczać cele, które staną się widoczne na mapie. Gdy "
+"pocisk wyląduje w pobliżu znacznika celu, miejsce uderzenia zostanie "
+"zaznaczone na mapie. Użyj tych znaczników, aby wyzerować cel."
+
+msgid "DHHintManager.Hints[6].Text"
+msgstr ""
+"Kiedy trzymasz moździerz, nie możesz sprintować, zmieniać broni, czołgać się "
+"ani pokonywać przeszkód. Aby rozstawić moździerz, kucnij na płaskim terenie "
+"i naciśnij %DEPLOY%."
+
+msgid "DHHintManager.Hints[9].Title"
+msgstr "Opuszczanie Moździerza"
+
+msgid "DHHintManager.Hints[65].Text"
+msgstr ""
+"Chociaż Semovente da 90/53 ma potężną armatę, ma bardzo ograniczony magazyn "
+"amunicji. Każdy strzał jest na wagę złota!"
+
+msgid "DHHintManager.Hints[63].Title"
+msgstr "Wymiana Lufy"
+
+msgid "DHHintManager.Hints[64].Text"
+msgstr ""
+"Lufa twojej broni uległa zniszczeniu przez przegrzanie! Nie możesz już "
+"strzelać z tej broni."
+
+msgid "DHHud.MapNameText"
+msgstr "Mapa: "
+
+msgid "DHHud.SpawnNoRoleText"
+msgstr "Wciśnij [ESC], aby zmienić rolę"
+
+msgid "DHHud.NeedReloadText"
+msgstr "Potrzebuje przeładowania"
+
+msgid "DHHintManager.Hints[63].Text"
+msgstr ""
+"Możesz zmienić lufę tej broni. Gdy rozstawisz broń wciśnij %ROMGOPERATION%, "
+"aby zmienić lufę na zapasową."
+
+msgid "DHHud.SayTypeAllText"
+msgstr "[WSZYSCY]"
+
+msgid "DHHud.PrereleaseDisclaimerText"
+msgstr "To jest wersja przedpremierowa. Cała zawartość może ulec zmianie."
+
+msgid "DHHud.SpectateInstructionText2"
+msgstr "Wciśnij [%ALTFIRE%], aby zmienić Tryb Widza"
+
+msgid "DHGameType_Stalemate.GameTypeName"
+msgstr "Impas"
+
+msgid "DHHintManager.Hints[55].Title"
+msgstr "Granaty Uderzeniowe"
+
+msgid "DHHintManager.Hints[55].Text"
+msgstr ""
+"Trzymasz granat z zapalnikiem uderzeniowym. Granat eksploduje po uderzeniu w "
+"dowolną powierzchnię. Upewnij się, że rzucasz mocno, bo inaczej może nie "
+"wybuchnąć!"
+
+msgid "DHHintManager.Hints[60].Title"
+msgstr "Zasięg Strzału"
+
+msgid "DHHintManager.Hints[61].Text"
+msgstr ""
+"Ta broń używa niestandardowej amunicji która nie może być uzupełniona. Nie "
+"marnuj strzałów!"
+
+msgid "DHHintManager.Hints[62].Title"
+msgstr "Przegrzewanie Lufy"
+
+msgid "DHHud.ServerNameText"
+msgstr "Serwer: "
+
+msgid "DHHud.TimeElapsedText"
+msgstr "Czas Trwania: "
+
+#, fuzzy
+msgid "DHHud.JoinTeamText"
+msgstr "Wciśnij [ESC] aby dołączyć do zespołu"
+
+msgid "DHHud.InvalidSpawnSettingsText"
+msgstr ""
+"Wciśnij [ESC] aby potwierdzić twoją rolę, pojazd, i wybór punktu odrodzenia"
+
+#, fuzzy
+msgid "DHHud.NotReadyToSpawnText"
+msgstr ""
+"Odradzanie rozpocznie się za {s} (wykorzystaj ten czas na zorganizowanie "
+"oddziałów i planowanie)."
+
+msgid "DHHud.SelectSpawnPointText"
+msgstr "Wciśnij [ESC] aby wybrać punkt odrodzenia"
+
+msgid "DHHud.SpawnInfantryText"
+msgstr "Odrodzisz się jako {0} w {2}. | Wciśnij [ESC], aby zmienić"
+
+msgid "DHHud.SpawnVehicleText"
+msgstr ""
+"Odrodzisz się jako {0} jako kierowca w {3} za {2} | Wciśnij [ESC], aby "
+"zmienić"
+
+msgid "DHHud.NeedsClearedText"
+msgstr " (Nie zabezpieczone)"
+
+msgid "DHHud.BlackoutText"
+msgstr "Zaciemnienie"
+
+msgid "DHHud.PlaceRallyPointText"
+msgstr "Wciśnij [%PLACERALLYPOINT%]"
+
+msgid "DHHud.ReinforcementText"
+msgstr "Odrodzisz się jako {0} za {2} | Wciśnij [ESC], aby zmienić"
+
+msgid "DHHud.SpectateInstructionText1"
+msgstr "Wciśnij [%FIRE%], aby zmienić Punkt Widokowy/Graczy"
+
+msgid "DHGetPassword.GetPassFail.Caption"
+msgstr "Anuluj"
+
+msgid "DHGetPassword.GetPassRetry.Caption"
+msgstr "Prześlij"
+
+msgid "DHHud.SayTypeConsoleText"
+msgstr "[KONSOLA]"
