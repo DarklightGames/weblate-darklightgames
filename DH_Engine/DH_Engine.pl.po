@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-09 17:43+0000\n"
+"PO-Revision-Date: 2025-04-13 18:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pl/>\n"
@@ -697,3 +697,146 @@ msgstr "Prześlij"
 
 msgid "DHHud.SayTypeConsoleText"
 msgstr "[KONSOLA]"
+
+msgid "DHScoreEvent_FireSupportSpottingAssist.HumanReadableName"
+msgstr "Asysta Wsparcia Ogniowego"
+
+msgid "DHScoreEvent_FriendlyReload.HumanReadableName"
+msgstr "Pomoc przy przeładowywaniu sojuszników"
+
+msgid "DHScoreEvent_SquadRallyPointSpawn.HumanReadableName"
+msgstr "Odrodzenie na Punkcie Zbiórki"
+
+msgid "DHScoreEvent_Suicide.HumanReadableName"
+msgstr "Samobójstwo"
+
+msgid "DHMortarMessage.CannotLean"
+msgstr "Nie można rozstawić moździerza, będąc pochylonym"
+
+msgid "DHMortarMessage.BadSurface"
+msgstr "Nie można rozstawić moździerza na tej powierzchni"
+
+msgid "DHResetGameMsg.GameRestartingText"
+msgstr "Gra uruchamia się ponownie"
+
+msgid "DHRocketWarningMessage.NoHipFire"
+msgstr "Nie możesz wystrzelić {0} z biodra"
+
+msgid "DHScoreCategory_Combat.HumanReadableName"
+msgstr "Walka"
+
+msgid "DHObjectiveMessage.NotificationTypes[0]"
+msgstr "zneutralizowały"
+
+msgid "DHRocketWarningMessage.ProneOrRestToFire"
+msgstr ""
+"Musisz być w pozycji leżącej lub mieć rozstawioną broń aby wystrzelić z {0}"
+
+msgid "DHRocketWarningMessage.NoProneReload"
+msgstr "Nie możesz przeładować {0} w pozycji leżącej"
+
+msgid "DHRocketWarningMessage.ShoulderForAssistedReload"
+msgstr "Musisz położyć {0} na ramieniu, aby sojusznicy mogli przeładować broń"
+
+msgid "DHMortarMessage.CannotDeploy"
+msgstr "Nie możesz rozstawić tutaj moździerza"
+
+msgid "DHMortarMessage.NotQualified"
+msgstr "Nie jesteś wykwalifikowany do obsługi moździerza"
+
+msgid "DHResetGameMsg.CountdownText"
+msgstr "Gra zostanie zrestartowana za {seconds} s."
+
+msgid "DHResupplyMessage.BeenResupplied"
+msgstr "Zostałeś ponownie zaopatrzony przez {0}"
+
+msgid "DHResupplyMessage.HaveResuppliedFriendlyMortar"
+msgstr "Uzupełniłeś zapasy w sojuszniczym moździerzu"
+
+msgid "DHScoreCategory_Support.HumanReadableName"
+msgstr "Wsparcie"
+
+msgid "DHObjectiveMessage.TeamStrings[1]"
+msgstr "Wojska Aliantów"
+
+msgid "DHReinforcementMsg.ReinforcementsDepleted"
+msgstr "Twojej drużynie skończyły się posiłki!"
+
+msgid "DHRocketWarningMessage.RestToReload"
+msgstr "Musisz być w pozycji leżącej, aby przeładować {0}"
+
+msgid "DHMortarMessage.InWater"
+msgstr "Nie możesz rozstawić moździerza w wodzie"
+
+msgid "DHPawn.AdminSpawnedVehicleText"
+msgstr "Administrator {name} odrodził {vehicle}"
+
+msgid "DHResupplyMessage.HaveResupplied"
+msgstr "Uzupełniłeś {0}"
+
+msgid "DHRocketWarningMessage.CrouchOrRestToFire"
+msgstr ""
+"Musisz być w pozycji klęczącej lub mieć rozstawioną broń aby wystrzelić z {0}"
+
+msgid "DHMapMarker_Ruler.MarkerName"
+msgstr "Pomiar"
+
+msgid "DHMortarMessage.MustBeStill"
+msgstr "Nie można rozstawić moździerza podczas ruchu"
+
+msgid "DHObjectiveMessage.TeamStrings[0]"
+msgstr "Wojska Osi"
+
+msgid "DHMortarMessage.NotEnoughRoom"
+msgstr "Nie ma tutaj wystarczająco miejsca aby rozstawić moździerz"
+
+msgid "DHMortarMessage.EnemyMortar"
+msgstr "Nie możesz obsługiwać wrogiego moździerza"
+
+msgid "DHMortarMessage.InUse"
+msgstr "Nie możesz obsługiwać tego moździerza, ponieważ jest on obecnie używany"
+
+msgid "DHMortarMessage.MustCrouch"
+msgstr "Musisz być w pozycji klęczącej, aby rozłożyć moździerz"
+
+msgid "DHObjectiveMessage.NotificationTypes[1]"
+msgstr "zdobyły"
+
+msgid "DHRocketWarningMessage.CantBeMoving"
+msgstr "Musisz być nieruchomy, aby wystrzelić {0}"
+
+msgid "DHScoreEvent_ConstructionCompleted.HumanReadableName"
+msgstr "Zbudowane Konstrukcje"
+
+msgid "DHObjectiveMessage.NotificationTypes[2]"
+msgstr "zabezpieczyły"
+
+msgid "DHScoreEvent_Kill.HumanReadableName"
+msgstr "Zabójstwa"
+
+msgid "DHScoreEvent_ObjectiveCapture.HumanReadableName"
+msgstr "Zdobyty Cel"
+
+msgid "DHScoreEvent_ObjectiveNeutralize.HumanReadableName"
+msgstr "Zneurtalizowany Cel"
+
+msgid "DHScoreEvent_SquadRallyPointEstablished.HumanReadableName"
+msgstr "Utworzono Punkt Zbiórki"
+
+msgid "DHScoreEvent_SquadRallyPointEstablishedAssist.HumanReadableName"
+msgstr "Utworzono Punkt Zbiórki (Asysta)"
+
+msgid "DHScoreEvent_FriendlyResupply.HumanReadableName"
+msgstr "Uzupełnianie sojuszników"
+
+msgid "DHScoreEvent_TeamKill.HumanReadableName"
+msgstr "Zabójstwo Drużynowe"
+
+msgid "DHScoreEvent_TeamKillPunish.HumanReadableName"
+msgstr "Ukarane Zabójstwo Drużynowe"
+
+msgid "DHScoreEvent_VehicleKill.HumanReadableName"
+msgstr "Zabójstwo Pojazdem"
+
+msgid "DHServerSayMessage.MessagePrefix"
+msgstr "[SERWER]"
