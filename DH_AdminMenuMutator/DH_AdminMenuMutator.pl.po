@@ -1,2 +1,63 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-04-19 10:43+0000\n"
+"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
+"Language-Team: Polish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_adminmenumutator/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "DHAdminMenu_AdminMessages.EnterPrivateMessage"
+msgstr "Wpisz swoją prywatną wiadomość do gracza - następnie naciśnij Enter"
+
+msgid "DHAdminMenu_AdminMessages.EnterKickReason"
+msgstr "Wpisz powód wyrzucenia gracza - naciśnij Enter, aby go WYRZUCIĆ"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmKillPlayer"
+msgstr "Naciśnij Enter, aby potwierdzić, że chcesz ZABIĆ tego gracza"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmGagPlayer"
+msgstr "Naciśnij Enter, aby potwierdzić, że chcesz UCISZYĆ tego gracza"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAxisRole"
+msgstr ""
+"Naciśnij Enter, aby potwierdzić ZMIANĘ roli tego gracza na nową rolę OSI"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableCapProgress"
+msgstr ""
+"Naciśnij Enter, aby potwierdzić WYŁĄCZENIE paska postępu przejmowania celu "
+"na mapie"
+
+msgid "DHAdminMenuMutator.FriendlyName"
+msgstr "Menu administratora"
+
+msgid "DHAdminMenu_AdminMessages.EnterNewPlayerName"
+msgstr "Proszę wprowadzić nową nazwę dla gracza - następnie naciśnij Enter"
+
+msgid "DHAdminMenu_AdminMessages.EnterWarningMessage"
+msgstr ""
+"Wpisz swoją wiadomość ostrzegawczą wiadomość do gracza - następnie naciśnij "
+"Enter"
+
+msgid "DHAdminMenuMutator.Description"
+msgstr ""
+"Opcje menu ekranowego, które dają administratorowi kontrolę nad graczami, "
+"realistycznym meczem lub podczas testów"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAlliesRole"
+msgstr ""
+"Naciśnij Enter, aby potwierdzić ZMIANĘ roli tego gracza na nową rolę ALIANTÓW"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableMines"
+msgstr ""
+"Wciśnij Enter, aby zatwierdzić PONOWNE WŁĄCZENIE wszystkich pól minowych"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableCapProgress"
+msgstr ""
+"Naciśnij Enter, aby potwierdzić PONOWNE WŁĄCZENIE paska postępu przejmowania "
+"celu na mapie"
