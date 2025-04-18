@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-13 18:43+0000\n"
+"PO-Revision-Date: 2025-04-19 10:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pl/>\n"
@@ -840,3 +840,235 @@ msgstr "Zabójstwo Pojazdem"
 
 msgid "DHServerSayMessage.MessagePrefix"
 msgstr "[SERWER]"
+
+msgid "DHUnits.DistanceUnits<0>.Name"
+msgstr "Jednostki Unreal"
+
+msgid "DHUnits.DistanceUnits<0>.Symbol"
+msgstr "uu"
+
+msgid "DHUnits.DistanceUnits<1>.Name"
+msgstr "Metry"
+
+msgid "DHUnits.DistanceUnits<1>.Symbol"
+msgstr "m"
+
+msgid "DHUnits.DistanceUnits<2>.Name"
+msgstr "Jardy"
+
+msgid "DHUnits.DistanceUnits<2>.Symbol"
+msgstr "yd"
+
+msgid "DHVehicleMessage.NoRiderPositions"
+msgstr "Nie można wsiąść na ten pojazd"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecDescription"
+msgstr ""
+"(9,6 kb/s) – Zużywa więcej przepustowości, ale dźwięk jest znacznie "
+"wyraźniejszy."
+
+msgid "DarkestHourGame.ROHints<1>"
+msgstr "Możesz 'ugotować' granat Mk II, przytrzymując go i naciskając %FIRE3%."
+
+msgid "DHSquadMessage.RallyPointGroundTooSteep"
+msgstr "Teren jest zbyt stromy, aby ustawić tutaj punkt zbiórki."
+
+msgid "DHVehicleCannon.ProjectileDescriptions<1>"
+msgstr "Odłamkowo-Burzący (HE)"
+
+msgid "DHSquadOrderMessage.WaitText"
+msgstr "Proszę poczekać, zanim wydasz nowy rozkaz"
+
+msgid "DHSupplyVehicleMessage.Controls<0>.Text"
+msgstr "Załaduj Zapasy"
+
+msgid "DHVehicleMessage.VehicleNowLocked"
+msgstr "Stanowiska załogi czołgu w tym pojeździe zostały teraz zablokowane"
+
+msgid "DHVehicleMessage.ExitCommandersHatch"
+msgstr "Musisz wyjść przez właz dowódcy"
+
+msgid "DHVehicleMessage.ExitCommandersOrMGHatch"
+msgstr "Wyjdź przez właz dowódcy lub karabinu maszynowego"
+
+msgid "DHVehicleMessage.CantFindExitPosition"
+msgstr "Nie można znaleźć miejsca wyjścia"
+
+msgid "DHVehicleMessage.AbandonedVehicleUnlocked"
+msgstr ""
+"Twój zablokowany pojazd został odblokowany, ponieważ opuściłeś(aś) go na "
+"zbyt długo"
+
+msgid "DHVoteInfo.Options<0>.Text"
+msgstr "Tak"
+
+msgid "DHVoiceSayMessage.MessagePrefix"
+msgstr "[GŁOS]"
+
+msgid "DHWeaponsLockedMessage.LockedWithTimerMessage"
+msgstr "Twoja broń jest zablokowana na {0} sekund"
+
+msgid "DH_ModifyRoundTimeMessage.DecreasedText"
+msgstr "zmniejszony"
+
+msgid "DarkestHourGame.ROHints<0>"
+msgstr ""
+"Możesz zobaczyć mapę celów do zdobycia lub obrony, naciskając "
+"%SHOWOBJECTIVES%."
+
+msgid "DH_ModifyRoundTimeMessage.ChangedText"
+msgstr "zmieniony"
+
+msgid "DHSupplyVehicleMessage.Controls<1>.Text"
+msgstr "Rozładuj Zapasy"
+
+msgid "DHTeamKillInteraction.Options<0>.Text"
+msgstr "Wybacz"
+
+msgid "DHTeamKillInteraction.PromptText"
+msgstr "{0} zabił(a) cię ogniem przyjacielskim!"
+
+msgid "DHTeamKillInteraction.Options<1>.Text"
+msgstr "Ukaraj"
+
+msgid "DHTeamSurrenderVoteMessage.VoteSucceededText"
+msgstr "Głosowanie za odwrotem zakończyło się sukcesem ({0})."
+
+msgid "DHTeamSurrenderVoteMessage.VoteFailedText"
+msgstr "Głosowanie za odwrotem zakończyło się niepowodzeniem({0})."
+
+msgid "DHTeamSurrenderVoteMessage.VoteSummaryText"
+msgstr "Za: {0}, Potrzeba: {1}"
+
+msgid "DHTeamSurrenderVoteMessage.VoteNominatedText"
+msgstr "{0} zgłosił(a) chęć wycofania się."
+
+msgid "DarkestHourGame.ROHints<3>"
+msgstr ""
+"Naciśnij %PLAYERMENU 2%, aby zmienić swoją rolę gracza podczas gry, oraz "
+"%PLAYERMENU%, aby zmienić drużynę."
+
+msgid "DHSquadMessage.SquadTargetSelectionRefused"
+msgstr ""
+"Jesteś obserwatorem artylerii. Nie możesz zmienić aktywnego celu "
+"artyleryjskiego na swój własny znacznik."
+
+msgid "DHSupplyMessage.SuppliesRefunded"
+msgstr "{0} zapasów zostało zwróconych do pobliskich składów."
+
+msgid "DHVehicleCannon.ProjectileDescriptions<0>"
+msgstr "Przeciwpancerny (APCBC)"
+
+msgid "DHVehicleMessage.VehicleNowUnlocked"
+msgstr "Stanowiska załogi czołgu w tym pojeździe zostały teraz odblokowane"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecName"
+msgstr "Lepsza Jakość"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecDescription"
+msgstr ""
+"(9,6 kb/s) – Zużywa więcej przepustowości, ale dźwięk jest znacznie "
+"wyraźniejszy."
+
+msgid "DHWeaponsLockedMessage.LockedFFMessage"
+msgstr "Twoja boń została zablokowana z powodu ognia przyjacielskiego!"
+
+msgid "DH_ModifyRoundTimeMessage.IncreasedText"
+msgstr "zwiększony"
+
+msgid "DHSupplyMessage.NoSupplyCaches"
+msgstr "W pobliżu nie ma żadnych składów zapasów."
+
+msgid "DHVehicleMessage.OpenHatchToExit"
+msgstr "Musisz odsunąć właz {0}, aby wyjść"
+
+msgid "DH_ModifyRoundTimeMessage.RoundTimeModifiedText"
+msgstr "Pozostały czas został {0}."
+
+msgid "DarkestHourGame.ROHints<2>"
+msgstr ""
+"Aby przejąć cel, musisz najpierw wejść na jego obszar. Prawdopodobnie "
+"będziesz potrzebować więcej niż jednego dodatkowego sojusznika, aby "
+"rozpocząć i zakończyć przejęcie."
+
+msgid "DHVehicleMessage.ExitDriverOrComHatch"
+msgstr "Wyjdź przez właz kierowcy lub dowódcy"
+
+msgid "DHWeaponsLockedMessage.LockedSKMessage"
+msgstr ""
+"Twoje uzbrojenie zostało zablokowane z powodu nadmiernego spawnkillingu!"
+
+msgid "DHSupplyMessage.VehicleEmpty"
+msgstr "Skład zapasów pojazdu jest pusty."
+
+msgid "DHSupplyMessage.SupplyCacheEmpty"
+msgstr "Pobliski skład zapasów jest pusty."
+
+msgid "DHTeamSurrenderVoteMessage.VoteNominationsRemainingText"
+msgstr "Potrzeba jeszcze {0} zgłoszeń, aby rozpocząć głosowanie."
+
+msgid "DHVehicleMessage.CantEnterLockedVehicle"
+msgstr "Ten pojazd został zablokowany przez jego załogę"
+
+msgid "DHSquadPromotionRequestInteraction.Options<0>.Text"
+msgstr "Akceptuj"
+
+msgid "DHSquadPromotionRequestInteraction.Options<1>.Text"
+msgstr "Odmów"
+
+msgid "DHSupplyMessage.SupplyCacheFull"
+msgstr "Pobliski skład zapasów jest pełny."
+
+msgid "DHVehicleMessage.AllRiderPositionsFull"
+msgstr "Wszystkie pozycje jeźdźców są zajęte"
+
+msgid "DHVoteInfo.Options<1>.Text"
+msgstr "Nie"
+
+msgid "DHVoteInfo_TeamSurrender.QuestionText"
+msgstr "Chcesz się wycofać i zawalczyć innym razem?"
+
+msgid "DHVoteMessage.VoteReceievedText"
+msgstr "Twój głos został przyjęty."
+
+msgid "DHVotingHandler.lmsgMapVotedTooRecently"
+msgstr "Proszę poczekać %seconds% sekund przed zagłosowaniem na kolejną mapę!"
+
+msgid "DHVotingHandler.SwapAndRestartText"
+msgstr "DH–[Zamień drużyny i zrestartuj]"
+
+msgid "DHWeaponPickup.PickupMessage"
+msgstr "Podniosłeś {0}"
+
+msgid "DHWeaponPickupTouchMessage.Controls<0>.Text"
+msgstr "Podnieś"
+
+msgid "DHWeaponsLockedMessage.UnlockedMessage"
+msgstr "Twoja broń została odblokowana"
+
+msgid "DHVoteMessage.VoteConcludedText"
+msgstr "Głosowanie zostało zakończone."
+
+msgid "DHSquadPromotionRequestInteraction.Options<2>.Text"
+msgstr "Ignoruj Wszystkie"
+
+msgid "DHSupplyMessage.SuppliesUnloaded"
+msgstr "{0} zapasów zostało rozładowanych z pojazdu do pobliskiego {1}"
+
+msgid "DHSupplyMessage.SuppliesLoaded"
+msgstr "{0} zapasów zostało załadowanych do pojazdu z pobliskiego {1}"
+
+msgid "DHVehicleMessage.VehicleBurning"
+msgstr "Pojazd się pali!"
+
+msgid "DHWeaponsLockedMessage.LockedSetupPhaseMessage"
+msgstr "Twoja broń jest zablokowana podczas fazy przygotowań"
+
+msgid "DHWeaponsLockedMessage.LockedFFSKMessage"
+msgstr "Twoje uzbrojenie zostało zablokowane z powodu spawnkilla na sojuszniku!"
+
+msgid "DHSupplyMessage.VehicleFull"
+msgstr "Skład zapasów pojazdu jest pełny."
+
+msgid "DHSupplyMessage.SupplyCacheFallbackName"
+msgstr "skład zapasów"
