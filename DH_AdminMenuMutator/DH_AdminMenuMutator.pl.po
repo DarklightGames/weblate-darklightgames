@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-19 10:43+0000\n"
+"PO-Revision-Date: 2025-04-25 13:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/pl/>\n"
@@ -61,3 +61,26 @@ msgid "DHAdminMenu_AdminMessages.ConfirmEnableCapProgress"
 msgstr ""
 "Naciśnij Enter, aby potwierdzić PONOWNE WŁĄCZENIE paska postępu przejmowania "
 "celu na mapie"
+
+msgid "DHAdminMenu_AdminMessages.EnterGameSpeed"
+msgstr "Proszę określić nowy mnożnik prędkości gry (1 jest wartością normalną)"
+
+msgid "DHAdminMenu_AdminMessages.EnterTimeRemaining"
+msgstr "Proszę podać pozostały czas nowej rundy (w minutach)"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmToggleAdminCanPause"
+msgstr ""
+"Naciśnij Enter, aby potwierdzić, że chcesz przełączyć opcję „administrator "
+"może pauzować”"
+
+msgid "DHAdminMenu_AdminMessages.SetGamePasswordText"
+msgstr "Proszę określić hasło nowej gry"
+
+msgid "DHAdminMenu_AdminMessages.ToggleWeaponLockText"
+msgstr ""
+"Naciśnij Enter, aby potwierdzić, że chcesz włączyć/wyłączyć blokadę broni"
+
+msgid "DHAdminMenu_AdminMessages.DestroyActorInSights"
+msgstr ""
+"Naciśnij Enter, aby potwierdzić, że chcesz ZNISZCZYĆ aktora znajdującego się "
+"na celowniku"
