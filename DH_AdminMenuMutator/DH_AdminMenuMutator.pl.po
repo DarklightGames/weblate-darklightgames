@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-25 13:43+0000\n"
+"PO-Revision-Date: 2025-04-28 08:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/pl/>\n"
@@ -84,3 +84,258 @@ msgid "DHAdminMenu_AdminMessages.DestroyActorInSights"
 msgstr ""
 "Naciśnij Enter, aby potwierdzić, że chcesz ZNISZCZYĆ aktora znajdującego się "
 "na celowniku"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[7]"
+msgstr "<BŁĄD: brak nazwy gracza>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[8]"
+msgstr "<BŁĄD: brak nazwy administratora>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[15]"
+msgstr "Na tej mapie nie ma pól minowych"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[16]"
+msgstr "Pola minowe już są wyłączone"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[17]"
+msgstr "Pola minowe już są włączone"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[18]"
+msgstr "BŁĄD: nie podano prawidłowej nazwy drużyny"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<7>"
+msgstr "Zrzuć wszystkich graczy aliantów na kwadrat"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<6>"
+msgstr "Zrzuć wszystkich graczy na cel"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<9>"
+msgstr "Zrzuć wszystkich graczy na kwadrat"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<11>"
+msgstr "Przełączanie pól minowych wył/wł"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<12>"
+msgstr "Przełącz pasek postępu zdobywania celu wył/wł"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<13>"
+msgstr "Przełącz ikonę lokacji gracza wył/wł"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<15>"
+msgstr "Ustaw nową prędkość gry"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<8>"
+msgstr "Zrzuć wszystkich graczy osi na kwadrat"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[10]"
+msgstr "'%insert_name%' już ma tą rolę"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[11]"
+msgstr "Przepraszamy, nie jest możliwe wykonanie tej akcji na bocie"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[12]"
+msgstr "BŁĄD: nie określono wiadomości"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[19]"
+msgstr "BŁĄD: nie można znaleźć roli gracza %insert_name%"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[22]"
+msgstr "BŁĄD: nieprawidłowe koordynaty mapy"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[23]"
+msgstr ""
+"Aby zalogować się automatycznie, musisz skonfigurować plik DarkestHour.ini z "
+"twoimi danymi logowania administratora"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[24]"
+msgstr "Brak gracza na celowniku"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[25]"
+msgstr ""
+"Ten tryb gry nie zezwala na punkty zbiórki, więc nie można użyć tej opcji"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[26]"
+msgstr "Umieszczanie punktów zbiórki już jest wyłączone"
+
+msgid "DHAdminMenu_MenuBase.Label_PageNumber"
+msgstr "Strona %X% z %Y%"
+
+msgid "DHAdminMenu_MenuBase.Label_PreviousMenu"
+msgstr "PgUp = poprzednie menu"
+
+msgid "DHAdminMenu_MenuBase.Label_PreviousPage"
+msgstr "PgUp = poprzednia strona"
+
+msgid "DHAdminMenu_MenuBase.Label_NextPage"
+msgstr "PgDn = następna strona"
+
+msgid "DHAdminMenu_MenuBase.Label_ExitMenu"
+msgstr "Esc = wyjście z menu administratora"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyRename"
+msgstr "Twoja nazwa gry została zmieniona przed administratora"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyKill"
+msgstr "Zostałeś odrodzony przez administratora"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyGag"
+msgstr "Zostałeś wyciszony przez administratora"
+
+msgid "DHAdminMenu_NotifyMessages.NotifySwitch"
+msgstr "Zostałeś przeniesiony do nowej roli lub drużyny przez administratora"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyParaDrop"
+msgstr "Zostałeś gdzieś zrzucony przez administratora"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastMinesEnabled"
+msgstr "Wszystkie pola minowe WŁĄCZONE przez administratora"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressDisabled"
+msgstr "Paski postępu zdobywania WYŁĄCZONE przez administratora"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressEnabled"
+msgstr "Paski postępu zdobywania WŁĄCZONE przez administratora"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconDisabled"
+msgstr "Ikony graczy na mapie WYŁĄCZONE przez administratora"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconEnabled"
+msgstr "Ikony graczy na mapie WŁĄCZONE przez administratora"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastKilledAllPlayers"
+msgstr "Wszyscy gracze zostali zabici przez administratora"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastChangedGameSpeed"
+msgstr ""
+"Prędkość gry została zmieniona na x #insert_number# przez administratora"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastSetTimeRemaining"
+msgstr "Pozostały czas rundy został zmieniony przez administratora"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyToggleAdminCanPause"
+msgstr ""
+"Przełączyłeś ustawienie „administrator może pauzować” na #bAdminCanPause#"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsEnabled"
+msgstr "Umieszczanie punktów zbiórki jest WŁĄCZONE przez administratora"
+
+msgid "DHAdminMenu_ObjectivesMenu.MenuTitle"
+msgstr "MENU WYBORU CELU"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<0>"
+msgstr "Zmiana nazwy gracza"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<1>"
+msgstr "Wyślij prywatną wiadomość"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<2>"
+msgstr "Wyślij wiadomość ostrzegawczą (z dźwiękiem)"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<3>"
+msgstr "Wykop z wiadomością"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<5>"
+msgstr "Wycisz tego gracza"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<6>"
+msgstr "Przełącz gracza na rolę aliantów"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<7>"
+msgstr "Przełącz gracza na rolę osi"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<8>"
+msgstr "Zrzuć gracza na celu"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<10>"
+msgstr "Zrzuć gracza na bieżącą lokalizację"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuTitle"
+msgstr "DZIAŁANIA GRACZA:"
+
+msgid "DHAdminMenu_PlayerMenu.Label_AimedPlayer"
+msgstr "[Gracz w zasięgu wzroku]"
+
+msgid "DHAdminMenu_PlayerMenu.Label_RealismMenu"
+msgstr "R = menu meczu realizmu (lub testowania)"
+
+msgid "DHAdminMenu_PlayerMenu.Label_ServerMenu"
+msgstr "M = menu serwera (typowe ustawienia serwera)"
+
+msgid "DHAdminMenu_PlayerMenu.MenuTitle"
+msgstr "MENU GRACZA ADMINISTRATORA"
+
+msgid "DHAdminMenu_PrivateMessage.MessageHeader"
+msgstr "Otrzymałeś prywatną wiadomość od administratora"
+
+msgid "DHAdminMenu_PrivateMessage.MessageChatPrefix"
+msgstr "WIADOMOŚĆ ADMINISTRATORA od"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<1>"
+msgstr "Włącz mecz realizmu"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<2>"
+msgstr "Wyłącz mecz realizmu"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<3>"
+msgstr "START meczu w trybie realizmu"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<4>"
+msgstr "Zrzuć wszystkich aliantów na cel"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<5>"
+msgstr "Zrzuć wszystkich graczy osi na cel"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<17>"
+msgstr "Ustaw czy administrator może wstrzymać grę"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[9]"
+msgstr ""
+"Gracz «%insert_name%» nie jest obecnie aktywny, więc nie można użyć tej opcji"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[13]"
+msgstr ""
+"BŁĄD: nie udało się wykopać «%insert_name%» (pamiętaj, że nie będzie można "
+"wykopać gracza zalogowanego jako administrator)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[14]"
+msgstr ""
+"BŁĄD: Nie można wykopać żadnego gracza, ponieważ niezbędny aktor "
+"„AccessControl” nie znajduje się na serwerze (to normalne w trybie dla "
+"jednego gracza)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[27]"
+msgstr "Umieszczanie punktów zbiórki już jest włączone"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<4>"
+msgstr "Zabij tego gracza"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<16>"
+msgstr "Ustaw nowy pozostały czas rundy (minuty)"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<9>"
+msgstr "Zrzuć gracza na kwadrat"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[6]"
+msgstr ""
+"PROBLEM: znaleziono więcej niż jednego gracza o nazwie „%insert_name%”, więc "
+"wykonanie tej akcji nie jest bezpieczne"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastMinesDisabled"
+msgstr "Wszystkie pola minowe WYŁĄCZONE przez administratora"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsDisabled"
+msgstr "Umieszczanie punktów zbiórki jest WYŁĄCZONE przez administratora"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[21]"
+msgstr ""
+"BŁĄD: nie określono prawidłowego typu lokalizacji upuszczenia (tj. "
+"AtObjective, AtGrid lub AtCurrentLocation)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[20]"
+msgstr "BŁĄD: nie można znaleźć celu %insert_name%"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<14>"
+msgstr "Zabij wszystkich graczy (zakończ mecz realizmu)"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<18>"
+msgstr "Zniszcz aktora w zasięgu wzroku"
