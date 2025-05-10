@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-29 11:13+0000\n"
+"PO-Revision-Date: 2025-05-10 06:10+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/de/>\n"
@@ -200,6 +200,7 @@ msgstr "Mannlicher M95/30"
 msgid "DH_M9531Weapon.ItemName"
 msgstr "31.M Gewehr"
 
+#, fuzzy
 msgid "DH_MAB38Weapon.ItemName"
 msgstr "MAB 38"
 
