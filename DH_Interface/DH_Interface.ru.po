@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-27 08:04+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"PO-Revision-Date: 2025-05-10 06:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
 "Language: ru\n"
@@ -150,6 +150,7 @@ msgstr ""
 msgid "DHDeployMenu.VehicleUnavailableString"
 msgstr "Выбранная вами техника больше не доступна."
 
+#, fuzzy
 msgid "DHDeployMenu.RecommendJoiningSquadText"
 msgstr ""
 "НАСТОЯТЕЛЬНО РЕКОМЕНДУЕТСЯ вступить в ОТРЯД перед возрождением! "
