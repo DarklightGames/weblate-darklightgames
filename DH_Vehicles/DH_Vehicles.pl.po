@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-26 17:43+0000\n"
-"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
+"PO-Revision-Date: 2025-05-10 06:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/pl/>\n"
 "Language: pl\n"
@@ -73,6 +73,7 @@ msgstr "Cromwell Mk.IV"
 msgid "DH_DUKW.VehicleNameString"
 msgstr "DUKW"
 
+#, fuzzy
 msgid "DH_DUKWSupport.VehicleNameString"
 msgstr "DUKW (Wsparcie)"
 
@@ -961,6 +962,7 @@ msgstr "APCBC"
 msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions<1>"
 msgstr "HE"
 
+#, fuzzy
 msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions<2>"
 msgstr "Dym"
 
@@ -1117,6 +1119,7 @@ msgstr "Mk.I APDS"
 msgid "DH_ShermanFireFlyCannon.nProjectileDescriptions<2>"
 msgstr "Mk.I HE-T"
 
+#, fuzzy
 msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<2>"
 msgstr "M88 HC"
 
