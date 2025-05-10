@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-10 06:10+0000\n"
+"PO-Revision-Date: 2025-05-11 06:43+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/uk/>\n"
@@ -56,7 +56,7 @@ msgid "DH_RDG1SmokeGrenadeWeapon.ItemName"
 msgstr "Димова граната РДГ-1"
 
 msgid "DH_OrangeSmokeWeapon.ItemName"
-msgstr "Сигнальна граната RauchSichtzeichen Orange 160"
+msgstr "Сигнальна граната RauchSichtzeichen 160 (померанчева)"
 
 msgid "DH_ParachuteItem.ItemName"
 msgstr "Парашут"
@@ -78,3 +78,18 @@ msgstr "РДГ-1"
 
 msgid "DHShovelItem_Russian.NativeItemName"
 msgstr "МПЛ-50"
+
+msgid "DH_OrangeSmokeWeapon.NativeItemName"
+msgstr "Сигнальна граната RauchSichtzeichen 160 (померанчева)"
+
+msgid "DH_NebelGranate39Weapon.NativeItemName"
+msgstr "Nebelhandgranate 39"
+
+msgid "DHShovelItem_Italian.NativeItemName"
+msgstr "Pala Vanghetta"
+
+msgid "DHBrokenBottleItem.ItemName"
+msgstr "Віно Россо «Басснет» Вінтажне 2009"
+
+msgid "DHShovelItem_German.NativeItemName"
+msgstr "Feldspaten"
