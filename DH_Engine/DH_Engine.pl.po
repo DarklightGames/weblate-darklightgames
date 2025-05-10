@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-19 10:43+0000\n"
-"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
+"PO-Revision-Date: 2025-05-10 06:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pl/>\n"
 "Language: pl\n"
@@ -471,6 +471,7 @@ msgstr ""
 "tego może zależeć twoje przetrwanie! Można je wyłączyć w zakładce HUD w menu "
 "konfiguracji."
 
+#, fuzzy
 msgid "DHHintManager.Hints[1].Text"
 msgstr ""
 "Możesz wspiąć się na małe przeszkody! Aby wspiąć się, stój przed dowolną "
