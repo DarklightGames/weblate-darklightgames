@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-27 06:43+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2025-05-10 06:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
 "Language: uk\n"
@@ -640,6 +640,7 @@ msgstr "Натисніть Продовжити для відродження ({
 msgid "DHDeployMenu.DeployNowText"
 msgstr "Натисніть продовжити, щоб відродитися зараз!"
 
+#, fuzzy
 msgid "DHDeployMenu.RecommendJoiningSquadText"
 msgstr ""
 "НАСТІЙНО РЕКОМЕНДУЄТЬСЯ вступити до загону перед відродженням! Приєднання до "
