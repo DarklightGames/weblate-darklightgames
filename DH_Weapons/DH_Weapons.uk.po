@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-01 19:43+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2025-05-10 06:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/uk/>\n"
 "Language: uk\n"
@@ -199,6 +199,7 @@ msgstr "Манліхер M95/30"
 msgid "DH_M9531Weapon.ItemName"
 msgstr "31.М"
 
+#, fuzzy
 msgid "DH_MAB38Weapon.ItemName"
 msgstr "MAB 38"
 
@@ -334,26 +335,33 @@ msgstr "ZB-30"
 msgid "DH_MP41Weapon.ItemName"
 msgstr "MP-41"
 
+#, fuzzy
 msgid "DH_Breda30Weapon.ItemName"
 msgstr "Бреда мод.30"
 
+#, fuzzy
 msgid "DH_CarcanoM91Weapon.ItemName"
 msgstr "Каркано M91"
 
+#, fuzzy
 msgid "DH_LtypeGrenadeWeapon.ItemName"
 msgstr "Граната Tipo L"
 
+#, fuzzy
 msgid "DH_MAB42Weapon.ItemName"
 msgstr "MAB M1938/42"
 
+#, fuzzy
 msgid "DH_BerettaM1934Weapon.ItemName"
 msgstr "Беретта М1934"
 
 msgid "DH_Wz35Weapon.ItemName"
 msgstr "Протитанкова рушниця wz.35"
 
+#, fuzzy
 msgid "DH_SRCMMod35GrenadeWeapon.ItemName"
 msgstr "Граната SRCM Mod.35"
 
+#, fuzzy
 msgid "DH_SRCMMod35SmokeGrenadeWeapon.ItemName"
 msgstr "Димова граната SCRM Mod.35"
