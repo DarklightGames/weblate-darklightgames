@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 20:32+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"PO-Revision-Date: 2025-05-10 06:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/ru/>\n"
 "Language: ru\n"
@@ -220,6 +220,7 @@ msgstr "MP-41"
 msgid "DH_StenMkIIWeapon.ItemName"
 msgstr "ПП СТЭН Мк.II"
 
+#, fuzzy
 msgid "DH_MAB38Weapon.ItemName"
 msgstr "MAB 38"
 
@@ -334,26 +335,33 @@ msgstr "Томпсон М1А1"
 msgid "DH_STG44Weapon.ItemName"
 msgstr "Автомат StG 44"
 
+#, fuzzy
 msgid "DH_Breda30Weapon.ItemName"
 msgstr "Бреда мод. 30"
 
+#, fuzzy
 msgid "DH_CarcanoM91Weapon.ItemName"
 msgstr "Каркано М91"
 
+#, fuzzy
 msgid "DH_BerettaM1934Weapon.ItemName"
 msgstr "Беретта М1934"
 
+#, fuzzy
 msgid "DH_LtypeGrenadeWeapon.ItemName"
 msgstr "Граната Tipo L"
 
 msgid "DH_Wz35Weapon.ItemName"
 msgstr "Противотанковое ружье Wz.35"
 
+#, fuzzy
 msgid "DH_MAB42Weapon.ItemName"
 msgstr "МАБ M1938/42"
 
+#, fuzzy
 msgid "DH_SRCMMod35SmokeGrenadeWeapon.ItemName"
 msgstr "Дымовая граната SCRM Mod.35"
 
+#, fuzzy
 msgid "DH_SRCMMod35GrenadeWeapon.ItemName"
 msgstr "Граната SCRM Mod.35"
