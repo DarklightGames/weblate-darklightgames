@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 20:32+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"PO-Revision-Date: 2025-05-10 06:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ru/>\n"
 "Language: ru\n"
@@ -427,6 +427,7 @@ msgstr "M56 WP"
 msgid "DH_M1MortarCannon.nProjectileDescriptions<2>"
 msgstr "M56 HE"
 
+#, fuzzy
 msgid "DH_Model35Mortar.VehicleNameString"
 msgstr "81мм Миномёт 81/14 мод. 35"
 
