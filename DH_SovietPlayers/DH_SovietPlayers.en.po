@@ -103,3 +103,15 @@ msgstr "Komandir otdeleniya"
 
 msgid "DHSOVTankCrewmanRoles.AltName"
 msgstr "Ekipazh tanka"
+
+msgid "DH_SovietMadManRoles.MyName"
+msgstr "Mad Man"
+
+msgid "DH_SovietMadManRoles.AltName"
+msgstr "Mad Man"
+
+msgid "DH_SovietMadManRoles.Article"
+msgstr "the "
+
+msgid "DH_SovietMadManRoles.PluralName"
+msgstr "Mad Men"

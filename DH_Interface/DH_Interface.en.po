@@ -252,7 +252,7 @@ msgid "DHDeployMenu.SquadLeadershipOnlyText"
 msgstr "LEADERS ONLY"
 
 msgid "DHDeployMenu.RecommendJoiningSquadText"
-msgstr "It it HIGHLY RECOMMENDED that you JOIN A SQUAD before deploying! Joining a squad grants you additional deployment options and lets you get to the fight faster.||Do you want to automatically join a squad now?"
+msgstr "It is HIGHLY RECOMMENDED that you JOIN A SQUAD before deploying! Joining a squad grants you additional role options and closer deployment to the frontlines.||Do you want to automatically join a squad now?"
 
 msgid "DHDeployMenu.UnassignedPlayersCaptionText"
 msgstr "Unassigned"
@@ -668,8 +668,17 @@ msgstr "What type of game or battle for the map."
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<4>"
 msgstr "Recommended players for the map."
 
+msgid "DHMapVoteMultiColumnListBox.AdminMapContextMenu.ContextItems<0>"
+msgstr "ADMIN: Force map to this"
+
 msgid "DHMapVotingPage.lmsgMapOutOfBounds"
 msgstr "Please vote for a map suitable for the current player count. You can still vote for this map on the full list."
+
+msgid "DHMapVotingPage.NoRestartMapPrivilegeText"
+msgstr "You don't have sufficient admin privileges to restart a map!"
+
+msgid "DHMapVotingPage.NoChangeMapPrivilegeText"
+msgstr "You don't have sufficient admin privileges to change a map!"
 
 msgid "DHMapVotingPage.lmsgMode[0]"
 msgstr "Majority Wins"

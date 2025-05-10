@@ -156,7 +156,7 @@ msgid "DH_DUKW.VehicleNameString"
 msgstr "DUKW"
 
 msgid "DH_DUKWSupport.VehicleNameString"
-msgstr "DUKW (Support)"
+msgstr "DUKW (Logistics)"
 
 msgid "DH_Fiat508CMTransport.VehicleNameString"
 msgstr "Fiat 508CM"
@@ -900,7 +900,7 @@ msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions<1>"
 msgstr "HE"
 
 msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions<2>"
-msgstr "Smoke"
+msgstr "HVAP"
 
 msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<0>"
 msgstr "M62 APC"
@@ -909,7 +909,7 @@ msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<1>"
 msgstr "M42 HE"
 
 msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<2>"
-msgstr "M88 HC"
+msgstr "M93 HVAP"
 
 msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions<0>"
 msgstr "APCBC"

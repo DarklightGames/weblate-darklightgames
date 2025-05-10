@@ -693,7 +693,7 @@ msgid "DHHintManager.Hints[1].Title"
 msgstr "Mantling"
 
 msgid "DHHintManager.Hints[1].Text"
-msgstr "You are able to mantle on to small obstacles! To mantle, stand in front of any low obstacle until the mantling icon to appears then press %JUMP% to mantle on top of the obstacle."
+msgstr "You are able to mantle on to small obstacles! To mantle, stand in front of any low obstacle until the mantling icon appears then press %JUMP% to mantle on top of the obstacle."
 
 msgid "DHHintManager.Hints[2].Title"
 msgstr "Parachutes"
@@ -1780,9 +1780,6 @@ msgstr "[VEHICLE]"
 
 msgid "DHVehicleTouchControlsMessage.Controls<0>.Text"
 msgstr "Enter"
-
-msgid "DHVehicleTouchMessage.TouchMessage"
-msgstr "Press [%USE%] to enter {0}"
 
 msgid "DHVehicleVoiceSayMessage.MessagePrefix"
 msgstr "[VOICE]"

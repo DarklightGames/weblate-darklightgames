@@ -134,6 +134,12 @@ msgstr "Cannone da 47/32"
 msgid "DH_Fiat1435Gun.VehicleNameString"
 msgstr "Fiat-Revelli modello 14/35"
 
+msgid "DH_Fiat1435Gun_AC.VehicleNameString"
+msgstr "Fiat mod. 35"
+
+msgid "DH_Fiat1435Gun_WC.VehicleNameString"
+msgstr "Fiat mod. 14"
+
 msgid "DH_Flak38Gun.VehicleNameString"
 msgstr "2cm FlaK 38 gun"
 
@@ -252,7 +258,7 @@ msgid "DH_ML3InchMortar.VehicleNameString"
 msgstr "Ordnance ML 3-inch Mortar"
 
 msgid "DH_Model35Mortar.VehicleNameString"
-msgstr "Mortaio da 81/14 modello 35"
+msgstr "Mortaio da 81/14 mod. 35"
 
 msgid "DH_Model35MortarCannon.ProjectileDescriptions<0>"
 msgstr "HE"

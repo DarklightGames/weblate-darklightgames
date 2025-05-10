@@ -20,11 +20,23 @@ msgstr "Fratelli Koristka 7x50"
 msgid "DHBinocularsItemSoviet.ItemName"
 msgstr "BPP Optik 6x30"
 
+msgid "DHBrokenBottleItem.ItemName"
+msgstr "Vino Rosso 'Bass-net' 2009 Vintage"
+
 msgid "DHRadioItem.ItemName"
 msgstr "Radio"
 
 msgid "DHShovelItem.ItemName"
 msgstr "Shovel"
+
+msgid "DHShovelItem_German.NativeItemName"
+msgstr "Feldspaten"
+
+msgid "DHShovelItem_Italian.NativeItemName"
+msgstr "Pala Vanghetta"
+
+msgid "DHShovelItem_Russian.NativeItemName"
+msgstr "MPL-50"
 
 msgid "DHShovelWarningMessage.CannotBeCrawling"
 msgstr "You cannot dig while crawling."
@@ -44,8 +56,14 @@ msgstr "Trench Mace"
 msgid "DHWireCuttersItem.ItemName"
 msgstr "Wire Cutters"
 
+msgid "DH_NebelGranate39Weapon.NativeItemName"
+msgstr "Nebelhandgranate 39"
+
 msgid "DH_NebelGranate39Weapon.ItemName"
 msgstr "NB 39 Smoke Grenade"
+
+msgid "DH_OrangeSmokeWeapon.NativeItemName"
+msgstr "RauchSichtzeichen Orange 160"
 
 msgid "DH_OrangeSmokeWeapon.ItemName"
 msgstr "RauchSichtzeichen Orange 160 Signal Grenade"
@@ -55,6 +73,9 @@ msgstr "Parachute"
 
 msgid "DH_ParachuteStaticLine.ItemName"
 msgstr "Staticline"
+
+msgid "DH_RDG1SmokeGrenadeWeapon.NativeItemName"
+msgstr "RDG-1"
 
 msgid "DH_RDG1SmokeGrenadeWeapon.ItemName"
 msgstr "RDG-1 Smoke Grenade"
