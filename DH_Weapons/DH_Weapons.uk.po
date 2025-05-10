@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-05-10 06:10+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/uk/>\n"
 "Language: uk\n"
@@ -365,3 +365,60 @@ msgstr "Граната SRCM Mod.35"
 #, fuzzy
 msgid "DH_SRCMMod35SmokeGrenadeWeapon.ItemName"
 msgstr "Димова граната SCRM Mod.35"
+
+msgid "DH_FG42Weapon.NativeItemName"
+msgstr "Fallschirmjägergewehr 42"
+
+msgid "DH_FG42ScopedWeapon.NativeItemName"
+msgstr "Fallschirmjägergewehr 42 (ZFG42)"
+
+msgid "DH_F1GrenadeWeapon.NativeItemName"
+msgstr "Граната Ф1"
+
+msgid "DH_M1924Weapon.NativeItemName"
+msgstr "M1924 Puska"
+
+msgid "DH_Kz8cmGrW42Weapon.NativeItemName"
+msgstr "Kurz 8cm Granatwerfer 42"
+
+msgid "DH_Kar98Weapon.NativeItemName"
+msgstr "Karabiner 98k"
+
+msgid "DH_Kar98ScopedWeapon.NativeItemName"
+msgstr "Karabiner 98k (ZF39)"
+
+msgid "DH_G98Weapon.NativeItemName"
+msgstr "Gewehr 98"
+
+msgid "DH_G43Weapon.NativeItemName"
+msgstr "Gewehr 43"
+
+msgid "DH_G43ScopedWeapon.NativeItemName"
+msgstr "Gewehr 43 (ZF4)"
+
+msgid "DH_MAB38Weapon.NativeItemName"
+msgstr "Moschetto Automatico Beretta M1938A"
+
+msgid "DH_PTRDWeapon.NativeItemName"
+msgstr "ПТРД-41"
+
+msgid "DH_RPG43GrenadeWeapon.NativeItemName"
+msgstr "РПГ-43"
+
+msgid "DH_M9530Weapon.NativeItemName"
+msgstr "Gewehr M95/30"
+
+msgid "DH_PanzerschreckWeapon.NativeItemName"
+msgstr "Raketenpanzerbüchse 54 «Панцершрек»"
+
+msgid "DH_MAB42Weapon.NativeItemName"
+msgstr "Moschetto Automatico Beretta M1938A/42"
+
+msgid "DH_M9531Weapon.NativeItemName"
+msgstr "31.M Puska"
+
+msgid "DH_M34GrenadeWeapon.NativeItemName"
+msgstr "OUG vz.34 Rucni Granat"
+
+msgid "DH_G41Weapon.NativeItemName"
+msgstr "Gewehr 41(W)"
