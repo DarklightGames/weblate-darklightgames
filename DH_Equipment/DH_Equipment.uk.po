@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-14 11:07+0000\n"
+"PO-Revision-Date: 2025-05-10 06:10+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/uk/>\n"
@@ -72,3 +72,9 @@ msgstr "Для будівництва необхідний ще один чле�
 
 msgid "DHBinocularsItemItalian.ItemName"
 msgstr "Бінокль Fratelli Koristka 7x50"
+
+msgid "DH_RDG1SmokeGrenadeWeapon.NativeItemName"
+msgstr "РДГ-1"
+
+msgid "DHShovelItem_Russian.NativeItemName"
+msgstr "МПЛ-50"
