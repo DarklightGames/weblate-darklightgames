@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-05-10 06:10+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
 "Language: uk\n"
@@ -1965,3 +1965,9 @@ msgstr "Скасувати налаштування"
 
 msgid "DHVideoChangePrompt.bOk.Caption"
 msgstr "Зберегти налаштування"
+
+msgid "DHMapVotingPage.NoRestartMapPrivilegeText"
+msgstr "У вас немає достатніх прав адміністратора, щоб перезапустити мапу!"
+
+msgid "DHMapVotingPage.NoChangeMapPrivilegeText"
+msgstr "У вас немає достатніх прав адміністратора, щоб змінити мапу!"
