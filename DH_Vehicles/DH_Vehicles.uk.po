@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-26 19:13+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2025-05-10 06:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/uk/>\n"
 "Language: uk\n"
@@ -400,6 +400,7 @@ msgstr "Бронебійний (APCBC)"
 msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
+#, fuzzy
 msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions<2>"
 msgstr "Дим"
 
@@ -595,6 +596,7 @@ msgstr "Кромвель Mk.IV"
 msgid "DH_DUKW.VehicleNameString"
 msgstr "Амфібія DUKW"
 
+#, fuzzy
 msgid "DH_DUKWSupport.VehicleNameString"
 msgstr "Амфібія DUKW (Логістика)"
 
@@ -1132,6 +1134,7 @@ msgstr "M64 WP"
 msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<1>"
 msgstr "M42 HE"
 
+#, fuzzy
 msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<2>"
 msgstr "M88 HC"
 
