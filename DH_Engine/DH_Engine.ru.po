@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-14 11:07+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2025-05-10 06:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
 "Language: ru\n"
@@ -802,6 +802,7 @@ msgstr ""
 msgid "DHAlliedEngineerRoles.Article"
 msgstr ""
 
+#, fuzzy
 msgid "DHHintManager.Hints[1].Text"
 msgstr ""
 "Вы можете перелезать через небольшие препятствия! Чтобы это сделать встаньте "
