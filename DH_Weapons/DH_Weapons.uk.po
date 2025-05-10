@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-10 06:10+0000\n"
+"PO-Revision-Date: 2025-05-11 06:43+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/uk/>\n"
@@ -199,9 +199,8 @@ msgstr "Манліхер M95/30"
 msgid "DH_M9531Weapon.ItemName"
 msgstr "31.М"
 
-#, fuzzy
 msgid "DH_MAB38Weapon.ItemName"
-msgstr "MAB 38"
+msgstr "MAB мод. 38-A"
 
 msgid "DH_MG34Weapon.ItemName"
 msgstr "MG-34"
@@ -335,36 +334,29 @@ msgstr "ZB-30"
 msgid "DH_MP41Weapon.ItemName"
 msgstr "MP-41"
 
-#, fuzzy
 msgid "DH_Breda30Weapon.ItemName"
-msgstr "Бреда мод.30"
+msgstr "Бреда мод. 30"
 
-#, fuzzy
 msgid "DH_CarcanoM91Weapon.ItemName"
-msgstr "Каркано M91"
+msgstr "Каркано мод. 91"
 
-#, fuzzy
 msgid "DH_LtypeGrenadeWeapon.ItemName"
-msgstr "Граната Tipo L"
+msgstr "Протитанкова раната O.T.O Tipo L"
 
-#, fuzzy
 msgid "DH_MAB42Weapon.ItemName"
-msgstr "MAB M1938/42"
+msgstr "MAB мод. 38-A/42"
 
-#, fuzzy
 msgid "DH_BerettaM1934Weapon.ItemName"
-msgstr "Беретта М1934"
+msgstr "Беретта мод. 34"
 
 msgid "DH_Wz35Weapon.ItemName"
 msgstr "Протитанкова рушниця wz.35"
 
-#, fuzzy
 msgid "DH_SRCMMod35GrenadeWeapon.ItemName"
-msgstr "Граната SRCM Mod.35"
+msgstr "Граната SRCM mod. 35"
 
-#, fuzzy
 msgid "DH_SRCMMod35SmokeGrenadeWeapon.ItemName"
-msgstr "Димова граната SCRM Mod.35"
+msgstr "Димова граната SCRM mod.35"
 
 msgid "DH_FG42Weapon.NativeItemName"
 msgstr "Fallschirmjägergewehr 42"
@@ -422,3 +414,59 @@ msgstr "OUG vz.34 Rucni Granat"
 
 msgid "DH_G41Weapon.NativeItemName"
 msgstr "Gewehr 41(W)"
+
+msgid "DH_Kar98NoCoverWeapon.NativeItemName"
+msgstr "Karabiner 98k (відкрита мушка)"
+
+msgid "DH_MG42Weapon.NativeItemName"
+msgstr "Maschinengewehr 42"
+
+msgid "DH_MG34Weapon.NativeItemName"
+msgstr "Maschinengewehr 34"
+
+msgid "DH_MKB42HWeapon.NativeItemName"
+msgstr "Maschinenkarabiner 42(H)"
+
+msgid "DH_MP38Weapon.NativeItemName"
+msgstr "Maschinenpistole 38"
+
+msgid "DH_MP40Weapon.NativeItemName"
+msgstr ""
+"English\n"
+"Maschinenpistole 40"
+
+msgid "DH_MP41RWeapon.NativeItemName"
+msgstr "Maschinenpistole 41(r)"
+
+msgid "DH_MP41Weapon.NativeItemName"
+msgstr "Maschinenpistole 41"
+
+msgid "DH_PanzerFaustWeapon.NativeItemName"
+msgstr "Panzerfaust 60"
+
+msgid "DH_STG44ScopedWeapon.NativeItemName"
+msgstr "Sturmgewehr 44 (ZF4)"
+
+msgid "DH_STG44Weapon.NativeItemName"
+msgstr "Sturmgewehr 44"
+
+msgid "DH_StielGranateWeapon.NativeItemName"
+msgstr "Stielhandgranate 24"
+
+msgid "DH_VG15Weapon.NativeItemName"
+msgstr "Volkssturmgewehr 1-5"
+
+msgid "DH_VK98Weapon.NativeItemName"
+msgstr "Volkssturmkarabiner 98"
+
+msgid "DH_Vz24ScopedWeapon.NativeItemName"
+msgstr "ZB vz.24 Puska (IOR)"
+
+msgid "DH_Vz24Weapon.NativeItemName"
+msgstr "ZB vz.24 Puska"
+
+msgid "DH_ZB30Weapon.NativeItemName"
+msgstr "ZB vz.30 Kulomet"
+
+msgid "DH_MP3008Weapon.NativeItemName"
+msgstr "Maschinenpistole 3008"
