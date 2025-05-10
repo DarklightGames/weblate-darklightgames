@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-26 17:43+0000\n"
-"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
+"PO-Revision-Date: 2025-05-10 06:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/pl/>\n"
 "Language: pl\n"
@@ -289,6 +289,7 @@ msgstr "M56 HE"
 msgid "DH_M5GunCannon.nProjectileDescriptions<1>"
 msgstr "M42A1 HE-T"
 
+#, fuzzy
 msgid "DH_Model35Mortar.VehicleNameString"
 msgstr "Mortaio da 81/14 modello 35"
 
