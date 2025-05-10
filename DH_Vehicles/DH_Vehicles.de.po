@@ -1,10 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-05-10 06:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_vehicles/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DH_AutoblindaArmoredCar.VehicleNameString"
 msgstr "Autoblinda 41"
@@ -168,6 +174,7 @@ msgstr "Cromwell Mk.IV"
 msgid "DH_DUKW.VehicleNameString"
 msgstr "DUKW"
 
+#, fuzzy
 msgid "DH_DUKWSupport.VehicleNameString"
 msgstr "DUKW (Unterstützung)"
 
