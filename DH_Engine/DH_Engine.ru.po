@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-10 06:10+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-16 18:43+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
 "Language: ru\n"
@@ -802,12 +802,11 @@ msgstr ""
 msgid "DHAlliedEngineerRoles.Article"
 msgstr ""
 
-#, fuzzy
 msgid "DHHintManager.Hints[1].Text"
 msgstr ""
-"Вы можете перелезать через небольшие препятствия! Чтобы это сделать встаньте "
-"перед любым низким заграждением и дождитесь появления соответствующего "
-"значка. Затем нажмите %JUMP%, чтобы забраться на вершину преграды."
+"Вы можете перелезать через невысокие преграды! Чтобы перелезть через "
+"препятствие встаньте напротив него и дождитесь появления соответствующего "
+"значка. Нажмите %JUMP% чтобы забраться на вершину преграды."
 
 msgid "DHHintManager.Hints[2].Title"
 msgstr "Парашюты"
