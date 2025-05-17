@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-23 15:01+0000\n"
+"PO-Revision-Date: 2025-05-18 10:43+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/ru/>\n"
@@ -72,3 +72,24 @@ msgstr "Радио"
 
 msgid "DHBinocularsItemItalian.ItemName"
 msgstr "Бинокль Fratelli Koristka 7x50"
+
+msgid "DHBrokenBottleItem.ItemName"
+msgstr "Винно Россо \"Басснет\" Винтаж 2009"
+
+msgid "DHShovelItem_German.NativeItemName"
+msgstr "Feldspaten"
+
+msgid "DHShovelItem_Italian.NativeItemName"
+msgstr "Pala Vanghetta"
+
+msgid "DHShovelItem_Russian.NativeItemName"
+msgstr "МПЛ-50"
+
+msgid "DH_NebelGranate39Weapon.NativeItemName"
+msgstr "Nebelhandgranate 39"
+
+msgid "DH_OrangeSmokeWeapon.NativeItemName"
+msgstr "RauchSichtzeichen Orange 160"
+
+msgid "DH_RDG1SmokeGrenadeWeapon.NativeItemName"
+msgstr "РДГ-1"
