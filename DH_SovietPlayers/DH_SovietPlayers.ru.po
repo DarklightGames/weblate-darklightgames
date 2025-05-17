@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-26 17:43+0000\n"
+"PO-Revision-Date: 2025-05-18 10:43+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_sovietplayers/ru/>\n"
@@ -120,3 +120,12 @@ msgstr ""
 
 msgid "DHCSSniperRoles.AltName"
 msgstr ""
+
+msgid "DH_SovietMadManRoles.MyName"
+msgstr "Безумец"
+
+msgid "DH_SovietMadManRoles.AltName"
+msgstr "Псих"
+
+msgid "DH_SovietMadManRoles.PluralName"
+msgstr "Безумцы"
