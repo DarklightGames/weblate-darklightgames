@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-10 06:10+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-18 10:43+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
 "Language: ru\n"
@@ -150,13 +150,11 @@ msgstr ""
 msgid "DHDeployMenu.VehicleUnavailableString"
 msgstr "Выбранная вами техника больше не доступна."
 
-#, fuzzy
 msgid "DHDeployMenu.RecommendJoiningSquadText"
 msgstr ""
-"НАСТОЯТЕЛЬНО РЕКОМЕНДУЕТСЯ вступить в ОТРЯД перед возрождением! "
-"Присоединение к отряду открывает вам дополнительные возможности "
-"развертывания и позволяет быстрее вступить в бой.||Хотите автоматически "
-"присоединиться к отряду сейчас?"
+"НАСТОЯТЕЛЬНО РЕКОМЕНДУЕТСЯ вступить в ОТРЯД перед возрождением! Игра в "
+"отряде открывает вам дополнительные роли и точки возрождения, находящиеся "
+"ближе к линии фронта.||Хотите автоматически присоединиться к отряду сейчас?"
 
 msgid "DHDeployMenu.AxisButtonObject.Hint"
 msgstr "Присоединиться к Войскам Оси"
@@ -1686,3 +1684,12 @@ msgstr "Оставить настройки"
 
 msgid "DHPerformanceWarning.OkButton.Caption"
 msgstr "Принять"
+
+msgid "DHMapVoteMultiColumnListBox.AdminMapContextMenu.ContextItems<0>"
+msgstr "АДМИН: Принудительно сменить карту"
+
+msgid "DHMapVotingPage.NoRestartMapPrivilegeText"
+msgstr "У вас недостаточно прав администратора что бы перезапустить карту!"
+
+msgid "DHMapVotingPage.NoChangeMapPrivilegeText"
+msgstr "У вас недостаточно прав администратора что бы сменить карту!"
