@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-10 06:10+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-18 10:43+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
 "Language: ru\n"
@@ -757,9 +757,8 @@ msgstr "M60 WP"
 msgid "DH_ShermanCannon_M4A3E2_Jumbo.ProjectileDescriptions<2>"
 msgstr "Белый фосфор"
 
-#, fuzzy
 msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions<2>"
-msgstr "Дым"
+msgstr "БПС"
 
 msgid "DH_ShermanTank.VehicleNameString"
 msgstr "Шерман M4A1(75)"
@@ -818,9 +817,8 @@ msgstr "M62 APC"
 msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<1>"
 msgstr "M42 HE"
 
-#, fuzzy
 msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<2>"
-msgstr "M88 HC"
+msgstr "М93 БПС"
 
 msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions<0>"
 msgstr "ББ"
@@ -1191,9 +1189,8 @@ msgstr "Sprgr.Kw.K."
 msgid "DH_PanzerIVGLateTank.VehicleNameString"
 msgstr "Panzer IV Ausf.G"
 
-#, fuzzy
 msgid "DH_DUKWSupport.VehicleNameString"
-msgstr "Амфибия DUKW (Поддержка)"
+msgstr "Амфибия DUKW (Снабжение)"
 
 msgid "DH_HetzerVehicleMessage.MGBlockingHatch"
 msgstr "Пулемёт блокирует люк - поверните его в сторону, чтобы открыть"
