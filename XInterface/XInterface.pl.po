@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-26 17:43+0000\n"
+"PO-Revision-Date: 2025-06-09 07:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/xinterface/pl/>\n"
@@ -44,3 +44,6 @@ msgstr "Potwierdzenie"
 
 msgid "GUIQuestionPage.ButtonNames<7>"
 msgstr "Ignoruj"
+
+msgid "HudBase.NowViewing"
+msgstr "Teraz obserwujesz"
