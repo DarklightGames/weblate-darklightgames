@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-28 08:43+0000\n"
+"PO-Revision-Date: 2025-06-09 07:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/pl/>\n"
@@ -339,3 +339,135 @@ msgstr "Zabij wszystkich graczy (zakończ mecz realizmu)"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<18>"
 msgstr "Zniszcz aktora w zasięgu wzroku"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAtObjective"
+msgstr ""
+"Naciśnij Enter, aby potwierdzić, że chcesz wykonać DESANT SPADOCHRONOWY tego "
+"gracza na wybrany cel"
+
+msgid "DHAdminMenu_AdminMessages.EnterGridLocation"
+msgstr ""
+"Proszę określić lokalizację na mapie (przykład, dla kwadratu E2 keypad 5, "
+"wpisz e25)"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAtCurrentLocation"
+msgstr ""
+"Naciśnij Enter, aby potwierdzić, że chcesz wykonać DESANT SPADOCHRONOWY tego "
+"gracza na jego BIEŻĄCEJ lokalizacji"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableRealism"
+msgstr "Naciśnij Enter, aby potwierdzić WŁĄCZENIE trybu realizmu"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableRealism"
+msgstr "Naciśnij Enter, aby potwierdzić WYŁĄCZENIE trybu realizmu"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmMatchLive"
+msgstr "Naciśnij Enter, aby potwierdzić, że chcesz wymusić mecz realizmu TERAZ"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAxisAtObjective"
+msgstr ""
+"Naciśnij Enter, by potwierdzić, że chcesz zrzucić WSZYSTKICH GRACZY PAŃSTW "
+"OSI na wybrany cel"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAlliesAtObjective"
+msgstr ""
+"Naciśnij Enter, by potwierdzić, że chcesz zrzucić WSZYSTKICH GRACZY ALIANTÓW "
+"na wybrany cel"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[1]"
+msgstr ""
+"Musisz być zalogowany jako administrator (za pośrednictwem konsoli), aby "
+"korzystać z tej funkcji"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[2]"
+msgstr "Zrzut spadochronowy gracza nie jest dopuszczony na tym serwerze"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAllAtObjective"
+msgstr ""
+"Naciśnij Enter, by potwierdzić, że chcesz zrzucić WSZYSTKICH GRACZY na "
+"wybrany cel"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableMines"
+msgstr ""
+"Naciśnij Enter, aby potwierdzić, że chcesz WYŁĄCZYĆ wszystkie pola minowe"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisablePlayerIcon"
+msgstr ""
+"Naciśnij Enter, aby potwierdzić, że chcesz WYŁĄCZYĆ ikonę lokalizacji gracza "
+"na mapie"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnablePlayerIcon"
+msgstr ""
+"Naciśnij Enter, aby potwierdzić, że chcesz ponownie WŁĄCZYĆ ikonę "
+"lokalizacji gracza na mapie"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmKillAll"
+msgstr "Naciśnij Enter, aby potwierdzić, że chcesz ZABIĆ WSZYSTKICH graczy"
+
+msgid "DHAdminMenu_AdminMessages.ChangeAxisSquadSize"
+msgstr "Proszę podać nowy rozmiar oddziału Osi (8 i 12, lub 0, aby zresetować)"
+
+msgid "DHAdminMenu_AdminMessages.ChangeAlliesSquadSize"
+msgstr ""
+"Proszę podać nowy rozmiar alianckiego oddziału (8 i 12, lub 0, aby "
+"zresetować)"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableRallyPoints"
+msgstr ""
+"Naciśnij Enter, aby potwierdzić, że chcesz WYŁĄCZYĆ umieszczanie punktów "
+"zbiórki"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableRallyPoints"
+msgstr ""
+"Naciśnij Enter, aby potwierdzić, że chcesz ponownie WŁĄCZYĆ umieszczanie "
+"punktów zbiórki"
+
+msgid "DHAdminMenu_ErrorMessages.MissingNameText"
+msgstr "<brak nazwy>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[3]"
+msgstr ""
+"Mutator meczu realizmu nie jest załadowany na serwerze, więc nie można użyć "
+"tej opcji"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[4]"
+msgstr "BŁĄD: nie określono nazwy gracza"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[5]"
+msgstr "BŁĄD: nie można znaleźć gracza o nazwie '%insert_name%'"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastAlliesSquadSizeChanged"
+msgstr "Rozmiar oddziałów Aliantów został zmieniony przez administratora"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastAxisSquadSizeChanged"
+msgstr "Rozmiar oddziałów Osi został zmieniony przed administratora"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<19>"
+msgstr "Zmień rozmiar oddziału Aliantów"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<20>"
+msgstr "Zmień rozmiar oddziału Osi"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<21>"
+msgstr "Przełącz rozstawianie punktów zbiórki (wł/wył)"
+
+msgid "DHAdminMenu_RealismMenu.MenuTitle"
+msgstr "MENU MECZU REALIZMU (LUB TESTOWE)"
+
+msgid "DHAdminMenu_RolesMenu.MenuTitle"
+msgstr "MENU WYBORU ROLI"
+
+msgid "DHAdminMenu_ServerMenu.MenuText<1>"
+msgstr "Ustaw hasło do gry (pozostaw puste, aby usunąć hasło)"
+
+msgid "DHAdminMenu_ServerMenu.MenuText<2>"
+msgstr "Przełącz Blokadę Broni"
+
+msgid "DHAdminMenu_ServerMenu.MenuTitle"
+msgstr "MENU SERWERA (DLA WIELU USTAWIEŃ)"
+
+msgid "DHAdminMenu_WarningMessage.WarningHeader"
+msgstr "Otrzymałeś wiadomość ostrzegawczą od administratora"
+
+msgid "DHAdminMenu_WarningMessage.WarningChatPrefix"
+msgstr "OSTRZEŻENIE ADMINISTRATORA od"
