@@ -1,2 +1,216 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-06-09 07:43+0000\n"
+"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
+"Language-Team: Polish <https://weblate.darklightgames.com/projects/"
+"darkesthour/gui2k4/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "UT2k4Browser_ServerListPageBase.PingingText"
+msgstr "Pingowanie Serwerów ( %NumRec% / %TotalNum% )"
+
+msgid "UT2k4Browser_ServerListPageLAN.PanelCaption"
+msgstr "Wyszukiwarka Serwerów: LAN"
+
+msgid "UT2K4Browser_ServerListPageMS.PanelCaption"
+msgstr "Wyszukiwarka Serwerów: Internet"
+
+msgid "UT2K4Browser_Page.QueryCompleteString"
+msgstr "Zapytanie Zakończone!"
+
+msgid "UT2K4Browser_Page.StartQueryString"
+msgstr "Odpytywanie Serwera Głównego"
+
+msgid "UT2K4Browser_Page.ReadyString"
+msgstr "Gotowe"
+
+msgid "UT2K4Tab_DetailSettings.PanelCaption"
+msgstr "Ekran"
+
+msgid "UT2K4Tab_HudSettings.PanelCaption"
+msgstr "Interfejs"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<0>"
+msgstr "Imię"
+
+msgid "UT2K4GamePageBase.PanelCaption<0>"
+msgstr "Typ Gry"
+
+msgid "UT2K4GamePageBase.PanelCaption<1>"
+msgstr "Wybór Mapy"
+
+msgid "UT2K4GamePageBase.PanelCaption<2>"
+msgstr "Zasady Gry"
+
+msgid "UT2K4GamePageBase.PanelCaption<3>"
+msgstr "Mutatory"
+
+msgid "UT2K4GamePageBase.PanelCaption<4>"
+msgstr "Konfiguracja Botów"
+
+msgid "UT2K4GetPassword.IncorrectPassword"
+msgstr "Podano nieprawidłowe hasło.  Spróbuj ponownie."
+
+msgid "UT2K4GetPassword.GetPassPW.Caption"
+msgstr "Hasło Serwera"
+
+msgid "UT2K4GetPassword.GetPassLabel.Caption"
+msgstr "Do gry na tym serwerze wymagane jest hasło."
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[1]"
+msgstr "Bardzo niskie"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[2]"
+msgstr "Niższe"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[0]"
+msgstr "Brak"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[1]"
+msgstr "Uproszczone"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[4]"
+msgstr "Normalne"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[3]"
+msgstr "Niskie"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[5]"
+msgstr "Wysokie"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[6]"
+msgstr "Wyższe"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[8]"
+msgstr "Najwyższe"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[7]"
+msgstr "Bardzo Wysokie"
+
+msgid "UT2K4VideoChangeOK.SecondsText"
+msgstr "sekund"
+
+msgid "UT2K4VideoChangeOK.SecondText"
+msgstr "sekunda"
+
+msgid "UT2K4VideoChangeOK.lbText.Caption"
+msgstr "Zaakceptować te ustawienia?"
+
+msgid "UT2K4VideoChangeOK.lbText2.Caption"
+msgstr "(Oryginalne ustawienia zostaną przywrócone w ciągu 15 sekund)"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[0]"
+msgstr "Najniższe"
+
+msgid "UT2K4Tab_MainBase.MessageNoInfo"
+msgstr "Brak dostępnych informacji!"
+
+msgid "UT2k4Browser_RulesList.AdminNameString"
+msgstr "Administrator Serwera"
+
+msgid "ControlBinder.BindingLabel[15]"
+msgstr "Przełącz na „Widok z tyłu”"
+
+msgid "Settings_Tabs.PerformanceWarningText"
+msgstr "Wprowadzana zmiana może negatywnie wpłynąć na wydajność."
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[2]"
+msgstr "Pełne"
+
+msgid "UT2K4Tab_IForceSettings.PanelCaption"
+msgstr "Dane Wejściowe"
+
+msgid "UT2K4Tab_MidGameVoiceChat.NOSPEECH.Hint"
+msgstr ""
+"Nie odbieraj żadnych komunikatów głosowych, takich jak „Nadchodzi!” od tego "
+"gracza"
+
+msgid "UT2K4VideoChangeOK.RestoreText"
+msgstr "(Oryginalne ustawienia zostaną przywrócone za %count% %seconds%)"
+
+msgid "UT2k4Browser_ServerListPageBase.PingCompleteText"
+msgstr "Pingowanie zakończone! %NumServers% Serwerów, %NumPlayers% Graczy"
+
+msgid "ControlBinder.BindingLabel[41]"
+msgstr "Menu Głosowe"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<1>"
+msgstr "Wynik"
+
+msgid "UT2K4PerformWarn.DialogText.Caption"
+msgstr "OSTRZEŻENIE"
+
+msgid "UT2K4PerformWarn.DialogText2.Caption"
+msgstr "Wprowadzana zmiana może negatywnie wpłynąć na wydajność."
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[0]"
+msgstr "16-bitów"
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[1]"
+msgstr "32-bity"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<2>"
+msgstr "Ranga"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<3>"
+msgstr "Ping"
+
+msgid "UT2k4Browser_RulesList.TrueString"
+msgstr "Włączone"
+
+msgid "UT2k4Browser_RulesList.FalseString"
+msgstr "Wyłączone"
+
+msgid "UT2k4Browser_RulesList.AdminEmailString"
+msgstr "Email Administratora"
+
+msgid "UT2k4Browser_RulesList.MutatorString"
+msgstr "Mutator"
+
+msgid "UT2k4Browser_RulesList.TimeLimitString"
+msgstr "Limit Czasu"
+
+msgid "UT2k4Browser_RulesList.MinPlayersString"
+msgstr "Minimum Graczy (botów)"
+
+msgid "UT2k4Browser_RulesList.MapVotingString"
+msgstr "Głosowanie na mapę"
+
+msgid "UT2k4Browser_ServerListPageFavorites.PanelCaption"
+msgstr "Wyszukiwarka Serwerów: Ulubione"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<1>"
+msgstr "Nazwa Serwera"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<2>"
+msgstr "Mapa"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<3>"
+msgstr "Gracze"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<4>"
+msgstr "Ping"
+
+msgid "UT2k4Browser_ServerListPageFavorites.EditFavoriteText"
+msgstr "Edytuj adres IP"
+
+msgid "UT2k4Browser_RulesList.KickVotingString"
+msgstr "Glosowanie za wyrzuceniem"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<1>"
+msgstr "Wartość"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<0>"
+msgstr "Ustawienie"
+
+msgid "UT2k4Browser_ServerListPageBase.QueryCompleteString"
+msgstr "Zapytanie zakończone! Otrzymano: %NumServers% Serwerów"
+
+msgid "UT2k4Browser_ServerListPageFavorites.RemoveFavoriteText"
+msgstr "Usuń z ulubionych"
