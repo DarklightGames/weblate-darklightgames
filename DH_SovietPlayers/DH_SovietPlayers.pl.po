@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-03 22:10+0000\n"
+"PO-Revision-Date: 2025-06-09 07:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_sovietplayers/pl/>\n"
@@ -40,3 +40,15 @@ msgstr "Saper"
 
 msgid "DHSOVMachineGunnerRoles.AltName"
 msgstr "Pulemetchik"
+
+msgid "DH_SovietMadManRoles.MyName"
+msgstr "Szaleniec"
+
+msgid "DH_SovietMadManRoles.AltName"
+msgstr "Wariat"
+
+msgid "DH_SovietMadManRoles.Article"
+msgstr " "
+
+msgid "DH_SovietMadManRoles.PluralName"
+msgstr "Szaleńcy"
