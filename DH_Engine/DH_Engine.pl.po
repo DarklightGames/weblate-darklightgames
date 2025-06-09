@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-10 06:10+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-06-10 00:22+0000\n"
+"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pl/>\n"
 "Language: pl\n"
@@ -1073,3 +1073,162 @@ msgstr "Skład zapasów pojazdu jest pełny."
 
 msgid "DHSupplyMessage.SupplyCacheFallbackName"
 msgstr "skład zapasów"
+
+msgid "DHFireSupportMessage.ArtilleryOperatorNotification"
+msgstr "Oddział {squad} oznaczył cel {type} do wsparcia ogniowego."
+
+msgid "DHCommandMenu_LoneWolf.Options<0>.ActionText"
+msgstr "Automatyczne dołączanie do oddziału"
+
+msgid "DHCommandMenu_LoneWolf.Options<1>.ActionText"
+msgstr "Stwórz oddział"
+
+msgid "DHCommandMenu_LoneWolf.AutoJoinSquadDisabledText"
+msgstr "Brak dostępnych oddziałów"
+
+msgid "DHCommandMenu_SquadManageMember.Options<1>.SubjectText"
+msgstr "Promuj na dowódcę oddziału"
+
+msgid "DHCommandMenu_SquadManageMember.Options<2>.SubjectText"
+msgstr "Zbanuj z oddziału"
+
+msgid "DHCommandMenu_SquadManageMember.Options<3>.SubjectText"
+msgstr "Promuj na asystenta"
+
+msgid "DHCommandMenu_SquadManageMember.Options<4>.SubjectText"
+msgstr "Usuń asystenta"
+
+msgid "DHGameMessage.RoleInvalidatedMessage"
+msgstr "Nie masz już kwalifikacji do bycia {name}."
+
+msgid "DHGameMessage.VehicleArrivedMessage"
+msgstr "{0} posiłków zostało uzupełnione."
+
+msgid "DHGameMessage.VehicleCutOffMessage"
+msgstr "{0} posiłki zostały odcięte."
+
+msgid "DHGameMessage.VehicleTeamKilledMessage"
+msgstr "{0} zniszczył sojuszniczy {1}."
+
+msgid "DHCommandMenu_SquadMenu.Options<0>.ActionText"
+msgstr "Opuść oddział"
+
+msgid "DHCommandSayMessage.MessagePrefix"
+msgstr "[DOWÓDZTWO]"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<23>"
+msgstr ""
+"Zbyt blisko niekontrolowanego celu {string}, musisz się oddalić o jeszcze "
+"{integer}m."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<22>"
+msgstr "Zbyt blisko celu {string}, musisz się oddalić o jeszcze {integer}m."
+
+msgid "DHArtillerySpottingScope.SquadText"
+msgstr "Oddział"
+
+msgid "DHAxisAntiTankRoles.MyName"
+msgstr "Łowca Czołgów"
+
+msgid "DHAxisMachineGunnerRoles.MyName"
+msgstr "Strzelec Maszynowy"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<14>"
+msgstr ""
+"Twoja drużyna nie może {verb} więcej {name} (limit osiągnięty: {integer})."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<17>"
+msgstr "Nie można {verb} {name} na tej powierzchni."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<18>"
+msgstr "Ziemia jest za twarda aby {verb} {name} w tym miejscu."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<20>"
+msgstr "Musisz mieć {integer} członków w twoim oddziale aby {verb} {name}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<21>"
+msgstr "Nie mozesz {verb} {name} gdy jesteś zajęty."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<24>"
+msgstr "Musisz {verb} {name} w obrębie {integer}m od sojuszniczego {string}"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<25>"
+msgstr "Nie możesz {verb} {name} na terytorium wroga"
+
+msgid "DHEnemyInformationMsg.EnemyIsWeak"
+msgstr "Wrogowi prawie skończyły się posiłki, zwycięstwo jest bliskie!"
+
+msgid "DHEnemyInformationMsg.EnemyIsSurrendering"
+msgstr "Wróg się wycofuje, bitwa wkrótce się zakończy!"
+
+msgid "DHFireSupportMessage.OnMapArtilleryRequestConfirmedText"
+msgstr "Cel wsparcia ogniowego został oznaczony."
+
+msgid "DHFireSupportMessage.OffMapArtilleryRequestConfirmedText"
+msgstr "Cel wsparcia ogniowego dalekiego zasięgu został oznaczony."
+
+msgid "DHFireSupportMessage.OnMapArtilleryRequestingLocked"
+msgstr ""
+"Nie możesz umieścić kolejnego znacznika wsparcia ogniowego przez kolejne "
+"{seconds} sekund."
+
+msgid "DHFireSupportMessage.RadiomanNotification"
+msgstr "Oddział {squad} oznaczył cel dla wsparcia ogniowego dalekiego zasięgu."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<15>"
+msgstr "Nie ma składów zasobów w obrębie {integer} metrów."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<16>"
+msgstr "Niewystarczająco zasobów aby {verb} {name}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<26>"
+msgstr "Nie ma więcej dostępnych {name}"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<27>"
+msgstr "To gniazdo jest już zajęte"
+
+msgid "DHConstructionGroup_Guns.GroupName"
+msgstr "Uzbrojenie"
+
+msgid "DHConstructionSupplyAttachment.HumanReadableName"
+msgstr "Skład zapasów"
+
+msgid "DHCommandMenu_SquadManageMember.Options<0>.SubjectText"
+msgstr "Wykop z oddziału"
+
+msgid "DHGameMessage.VehicleDestroyedMessage"
+msgstr "{0} został zniszczony."
+
+msgid "DHFireSupportMessage.ErrorText"
+msgstr "Nie można umieścić znacznika wsparcia ogniowego."
+
+msgid "DHConstructionSupplyAttachment_Static_Main.HumanReadableName"
+msgstr "Główny skład zapasów"
+
+msgid "DHGameMessage.VehicleDepletedMessage"
+msgstr "{0} posiłków zostało wyczerpane."
+
+msgid "DHCommandMenu_SquadManageNonMember.AlreadyInASquadText"
+msgstr "Już w oddziale"
+
+msgid "DHCommandMenu_SquadManageNonMember.SquadIsFullText"
+msgstr "Oddział jest pełny"
+
+msgid "DHCommandMenu_SquadManageNonMember.Options<0>.ActionText"
+msgstr "Zaproś do oddziału"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<8>"
+msgstr ""
+"Zbyt blisko istniejącego sojuszniczego {name}, musi być {integer}m dalej."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<9>"
+msgstr "Zbyt blisko istniejącego wrogiego {name}, musi być {integer}m dalej."
+
+msgid "DHFriendlyInformationMsg.TeamSurrendered"
+msgstr "Twoja drużyna postanowiła się wycofać, bitwa wkrótce się zakończy!"
+
+msgid "DHGameMessage.RoleLockedMessage"
+msgstr "{role} został zablokowany."
+
+msgid "DHGameMessage.RoleUnlockedMessage"
+msgstr "{role} został odblokowany."
