@@ -78,10 +78,10 @@ msgid "DHSOVAssaultRoles.AltName"
 msgstr "Avtomatchik"
 
 msgid "DHSOVCorporalRoles.MyName"
-msgstr "Fireteam leader"
+msgstr "Fireteam Leader"
 
 msgid "DHSOVCorporalRoles.AltName"
-msgstr "Komandir zvena"
+msgstr "Komandir Zvena"
 
 msgid "DHSOVEngineerRoles.AltName"
 msgstr "Saper"
