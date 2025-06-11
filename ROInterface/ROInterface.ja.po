@@ -1,9 +1,15 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-11 21:32+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
+"darkesthour/rointerface/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain\n"
 "Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "ROCommunicationPage.Panels<0>.Hint"
 msgstr "他のプレイヤーとのコミュニケーションを管理"
@@ -1252,3 +1258,6 @@ msgstr "Tripwire Interactiveからの新着情報"
 
 msgid "RoleFullMsg.RoleFullMessage"
 msgstr "選択した兵科は満員です。他の兵科を選択してください"
+
+msgid "ROControlBinder.BindingLabel[2]"
+msgstr "リロード"
