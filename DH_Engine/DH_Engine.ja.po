@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 21:57+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
+"PO-Revision-Date: 2025-06-11 21:32+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ja/>\n"
 "Language: ja\n"
@@ -16,3 +16,9 @@ msgstr "連合国"
 
 msgid "DHAdminMessage.AxisTeamNameGenitive"
 msgstr "枢軸国"
+
+msgid "DHArtillerySpottingScope.LeftString"
+msgstr "左"
+
+msgid "DHArtillerySpottingScope.RightString"
+msgstr "右"
