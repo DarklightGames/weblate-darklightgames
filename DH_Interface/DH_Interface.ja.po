@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-10-04 04:13+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
+"PO-Revision-Date: 2025-06-11 21:32+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
 "Language: ja\n"
@@ -349,3 +349,15 @@ msgstr "出口"
 
 msgid "DHBrowser_OpenIP.OkButton.Caption"
 msgstr "OK"
+
+msgid "DHDeployMenu.LockedText"
+msgstr "ロック中"
+
+msgid "DHMOTDConfigPage.LockedCancelButton.Caption"
+msgstr "キャンセル"
+
+msgid "DHMutatorConfigMenu.LockedCancelButton.Caption"
+msgstr "キャンセル"
+
+msgid "DHDeployMenu.RoleLockedText"
+msgstr "ロック中"
