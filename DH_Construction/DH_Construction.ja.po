@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-16 13:28+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
+"PO-Revision-Date: 2025-06-11 21:32+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/ja/>\n"
 "Language: ja\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DHCameraWeapon.ItemName"
 msgstr "カメラ"
@@ -19,3 +19,25 @@ msgstr "忙しい"
 
 msgid "DHConstructionControlsMessage.Controls<1>.Text"
 msgstr "キャンセル"
+
+msgid "DHConstructionGroup_Debug.GroupName"
+msgstr "デバッグ"
+
+msgid "DHConstruction_InventorySpawner.ConstructionVerb"
+msgstr "置く"
+
+msgid "DHConstruction_SupplyCache.ConstructionVerb"
+msgstr "置く"
+
+msgid "DHConstructionControlsMessage.Controls<3>.Text"
+msgstr "リセット"
+
+msgid "DHConstruction_Foxhole.ConstructionVerb"
+msgstr "掘る"
+
+#, fuzzy
+msgid "DHCommandMenu_ConstructionGroup.MoreText"
+msgstr "もっと"
+
+msgid "DHConstruction_Resupply.ConstructionVerb"
+msgstr "置く"
