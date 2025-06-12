@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-25 17:27+0000\n"
+"PO-Revision-Date: 2025-06-13 00:57+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/ru/>\n"
@@ -32,7 +32,7 @@ msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
 msgstr "Исчерпано"
 
 msgid "DHConstructionGroup_Obstacles.GroupName"
-msgstr "Препятствия"
+msgstr "Заграждения"
 
 msgid "DHConstruction_VehiclePool.MenuName"
 msgstr "Капонир для техники"
@@ -103,13 +103,13 @@ msgid "DHConstruction_ConcertinaWire.MenuName"
 msgstr "Колючая проволока"
 
 msgid "DHConstruction_DragonsTooth.MenuName"
-msgstr "Драконьи зубы"
+msgstr "Противотанковый надолб"
 
 msgid "DHConstruction_Radio.MenuName"
 msgstr "Радио"
 
 msgid "DHConstruction_DragonsTooth.MenuDescription"
-msgstr "Эффективны для блокирования любых видов техники."
+msgstr "Эффективен для блокирования любых видов техники."
 
 msgid "DHConstruction_Resupply_Vehicles.MenuName"
 msgstr "Ящик с боеприпасами (техника)"
@@ -158,3 +158,18 @@ msgstr "Изменить расцветку"
 
 msgid "DHConstructionControlsMessage.Controls<3>.Text"
 msgstr "Сбросить"
+
+msgid "DHConstructionResupplyPlayers.MenuName"
+msgstr "Ящик с боеприпасами (пехота)"
+
+msgid "DHConstructionResupplyPlayers.MenuDescription"
+msgstr "Снабжает пехоту боеприпасами."
+
+msgid "DHConstructionResupplyVehicles.MenuName"
+msgstr "Ящик с боеприпасами (Техника)"
+
+msgid "DHCommandMenu_ConstructionGroup.MoreText"
+msgstr "Ещё"
+
+msgid "DHConstructionResupplyVehicles.MenuDescription"
+msgstr "Снабжает боеприпасами технику и орудия."
