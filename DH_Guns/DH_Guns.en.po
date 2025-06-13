@@ -90,10 +90,10 @@ msgid "DH_BM36MortarCannon.ProjectileDescriptions<1>"
 msgstr "Smoke"
 
 msgid "DH_BM36MortarCannon.nProjectileDescriptions<0>"
-msgstr "57O832 HE"
+msgstr "O-832"
 
 msgid "DH_BM36MortarCannon.nProjectileDescriptions<1>"
-msgstr "57D832 Smoke"
+msgstr "D-832"
 
 msgid "DH_Bofors40mmCannon.ProjectileDescriptions<0>"
 msgstr "HE-T"
