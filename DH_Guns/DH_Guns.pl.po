@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-09 07:43+0000\n"
-"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
+"PO-Revision-Date: 2025-06-14 01:43+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/pl/>\n"
 "Language: pl\n"
@@ -412,9 +412,11 @@ msgstr "Moździerz 82mm BM-36"
 msgid "DH_BM36MortarCannon.ProjectileDescriptions<1>"
 msgstr "Dym"
 
+#, fuzzy
 msgid "DH_BM36MortarCannon.nProjectileDescriptions<0>"
 msgstr "57O832 HE"
 
+#, fuzzy
 msgid "DH_BM36MortarCannon.nProjectileDescriptions<1>"
 msgstr "57D832 Dym"
 
