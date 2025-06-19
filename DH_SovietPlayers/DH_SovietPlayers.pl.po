@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-11 00:43+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-06-20 08:43+0000\n"
+"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_sovietplayers/pl/>\n"
 "Language: pl\n"
@@ -29,7 +29,6 @@ msgstr "Dowódcy Drużyn Ogniowych"
 msgid "DHNation_Czechoslovakia.NationName"
 msgstr "Czechosłowacja"
 
-#, fuzzy
 msgid "DHSOVCorporalRoles.MyName"
 msgstr "Dowódca Drużyny Ogniowej"
 
