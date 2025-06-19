@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 21:57+0000\n"
+"PO-Revision-Date: 2025-06-20 08:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/pl/>\n"
@@ -157,3 +157,18 @@ msgstr "Zmień Kolor"
 
 msgid "DHConstruction_SupplyCache.ConstructionVerb"
 msgstr "upuść"
+
+msgid "DHCommandMenu_ConstructionGroup.MoreText"
+msgstr "Więcej"
+
+msgid "DHConstructionResupplyPlayers.MenuName"
+msgstr "Skrzynia z amunicją (Piechota)"
+
+msgid "DHConstructionResupplyPlayers.MenuDescription"
+msgstr "Zapewnia punkt zaopatrzenia dla piechoty."
+
+msgid "DHConstructionResupplyVehicles.MenuName"
+msgstr "Skrzynia z amunicją (Pojazdy)"
+
+msgid "DHConstructionResupplyVehicles.MenuDescription"
+msgstr "Zapewnia punkt zaopatrzenia dla pojazdów i armat."
