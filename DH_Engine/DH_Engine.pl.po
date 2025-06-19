@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-10 00:22+0000\n"
+"PO-Revision-Date: 2025-06-20 08:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pl/>\n"
@@ -386,7 +386,6 @@ msgstr "{0} oznaczył cel dla artylerii (HE)"
 msgid "DHArtilleryTargetMessage.TargetMarkedSmoke"
 msgstr "{0} oznaczył cel dla artylerii (DYM)"
 
-#, fuzzy
 msgid "DHCommandMenu_FireSupport.Options<1>.ActionText"
 msgstr " "
 
@@ -1232,3 +1231,732 @@ msgstr "{role} został zablokowany."
 
 msgid "DHGameMessage.RoleUnlockedMessage"
 msgstr "{role} został odblokowany."
+
+msgid "DHMapMarker.CalculatingString"
+msgstr "Obliczanie..."
+
+msgid "DHSquadMessage.BannedCannotJoin"
+msgstr "Nie możesz dołączyć do tego oddziału, ponieważ zostałeś zbanowany."
+
+msgid "DHSquadMessage.AutoJoinFailed"
+msgstr "Nie ma oddziałów, do których możesz dołączyć."
+
+msgid "DHSquadMessage.AlreadyInSquad"
+msgstr "Jesteś już w oddziale."
+
+msgid "DHSquadSayMessage.MessagePrefix"
+msgstr "[ODDZIAŁ]"
+
+msgid "DHSquadMessage.RallyPointSwapped"
+msgstr "Dowódca oddziału wymusił zmianę aktualnie aktywnego punktu zbiórki."
+
+msgid "DHSquadMessage.RallyPointTooCloseToConstruction"
+msgstr "Nie można utworzyć punktu zbiórki oddziału tak blisko {0}."
+
+msgid "DHSquadMessage.RallyPointInUncontrolledObjective"
+msgstr "Nie można utworzyć punktu zbiórki wewnątrz niekontrolowanego celu."
+
+msgid "DHSquadMessage.RallyPointExposed"
+msgstr "Wróg wykrył punkt zbiórki oddziału!"
+
+msgid "DHSquadMessage.RallyPointBehindEnemyLines"
+msgstr ""
+"Punkt zbiórki oddziału nie może zostać utworzony na terytorium kontrolowanym "
+"przez wroga."
+
+msgid "DHInventorySpawner.MenuNoun"
+msgstr "Skrzynia"
+
+msgid "DHInventorySpawner.MenuNameFormat"
+msgstr "{noun} - {name}"
+
+msgid "DHObjectiveMessage.NotificationMessage"
+msgstr "{0} {1} {2}"
+
+msgid "DHPlayerReplicationInfo.AssistantAbbreviation"
+msgstr "A"
+
+msgid "DHRadioTouchMessage.RequestMessage"
+msgstr ""
+"Przytrzymaj [%SHOWORDERMENU | ONRELEASE HIDEORDERMENU%], aby poprosić o "
+"artylerię"
+
+msgid "DHRadioTouchMessage.NotQualifiedMessage"
+msgstr "Nie masz odpowiednich kwalifikacji aby użyć tego radia"
+
+msgid "DHRadioTouchMessage.NoTargetMessage"
+msgstr "Nie oznaczono celu artyleryjskiego"
+
+msgid "DHSquadMergeRequestInteraction.Options<2>.Text"
+msgstr "Ignoruj wszystkie"
+
+msgid "DHSquadMessage.NoLongerLeaderMessage"
+msgstr "Nie jesteś już dowódcą oddziału."
+
+msgid "DHSpawnProtectMineVolume.ExitedMinefieldMessage"
+msgstr "Opuściłeś terytorium wroga. Ponowny powrót będzie uznany za dezercję!"
+
+msgid "DHSpawnProtectMineVolume.SpawnMFActivatedMessage"
+msgstr "To jest teraz obszar kontrolowany przez wroga, wycofaj się!"
+
+msgid "DHSquadMessage.NewLeaderMessage"
+msgstr "{0} został dowódcą oddziału."
+
+msgid "DHSquadMessage.RallyPointNotOnFoot"
+msgstr "Musisz być na nogach, aby utworzyć punkt zbiórki."
+
+msgid "DHSquadMessage.RallyPointTooSoon"
+msgstr ""
+"Musisz poczekać {0} sekund, aż twój oddział będzie mógł utworzyć punkt "
+"zbiórki."
+
+msgid "DHSquadMessage.YouAreNowLeaderMessage"
+msgstr "Jesteś teraz dowódcą oddziału."
+
+msgid "DHSquadMessage.InviteAlreadyInSquadMessage"
+msgstr "{0} już jest w oddziale."
+
+msgid "DHSquadMessage.YouAreNowAssistantMessage"
+msgstr "Jesteś teraz asystentem dowódcy oddziału."
+
+msgid "DHSquadMessage.YouAreNoLongerAssistantMessage"
+msgstr "Nie jesteś już asystentem dowódcy oddziału."
+
+msgid "DHSquadMessage.NotInSquadMessage"
+msgstr ""
+"Nie jesteś w oddziale. Naciśnij [%SQUADMENU%], aby przejść do menu oddziałów "
+"lub [%SQUADJOINAUTO%], aby automatycznie dołączyć do oddziału."
+
+msgid "DHSquadMessage.NewAssistantMessage"
+msgstr "{0} został awansowany na asystenta dowódcy oddziału."
+
+msgid "DHSquadMessage.SquadMergedSourceGenericMessage"
+msgstr "Twój oddział został połączony z innym oddziałem."
+
+msgid "DHSquadMessage.SquadMergedDestinationMessage"
+msgstr "Inny oddział został połączony z twoim oddziałem."
+
+msgid "DHSquadMessage.SquadMergeRequestDeniedMessage"
+msgstr ""
+"Twoja prośba o połączenie oddziałów została odrzucona przez oddział {0}."
+
+msgid "DHVehicleMessage.CanOnlyLockFromCrewPosition"
+msgstr ""
+"Pojazd można zablokować lub odblokować tylko wtedy, gdy jest się na pozycji "
+"załogi czołgu"
+
+msgid "DHVehicleMessage.OnlyTankCrewCanLockVehicle"
+msgstr "Tylko czołgiści mogą zablokować lub odblokować pojazd"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<19>"
+msgstr "Oddział"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecName"
+msgstr "Lepsza jakość"
+
+msgid "DHSquadLeaderSayDeadMessage.MessagePrefix"
+msgstr "(MARTWY) [DOWÓDCA ODDZIAŁU]"
+
+msgid "DHSquadLeaderSayMessage.MessagePrefix"
+msgstr "[DOWÓDCA ODDZIAŁU]"
+
+msgid "DHSquadMessage.LockedMessage"
+msgstr "Oddział został zablokowany."
+
+msgid "DHSquadMessage.UnlockedMessage"
+msgstr "Oddział został odblokowany."
+
+msgid "DHHud.LegendAxisObjectiveText"
+msgstr "Terytorium Wojsk Osi"
+
+msgid "DHHud.SpectateInstructionText4"
+msgstr "Naciśnij [%JUMP%], aby powrócić do obserwowania siebie"
+
+msgid "DHIQMessage.Congratulations<3>"
+msgstr "Dobra robota!"
+
+msgid "DHPawnTouchMessage.Messages<0>"
+msgstr "Naciśnij [%THROWMGAMMO%], aby uzupełnić amunicję {0}"
+
+msgid "DHPawnTouchMessage.Messages<2>"
+msgstr "Naciśnij [%THROWMGAMMO%], aby uzupełnić amunicję i przeładować {0}"
+
+msgid "DHPawnTouchMessage.FallbackPlayerName"
+msgstr "sojuszniczy żołnierz"
+
+msgid "DHPlayerReplicationInfo.SquadLeaderAbbreviation"
+msgstr "DO"
+
+msgid "DHRadioTouchMessage.NotOwnedMessage"
+msgstr "Nie możesz używać radia przeciwnika"
+
+msgid "DHRadioTouchMessage.BusyMessage"
+msgstr "Radio jest obecnie w użyciu"
+
+msgid "DHRadioTouchMessage.CalibratingMessage"
+msgstr "Radio się kalibruje"
+
+msgid "DHReinforcementAwardMsg.ReinforcementLoss"
+msgstr "Twoja drużyna straciła {0} uzupełnień za utratę {1}!"
+
+msgid "DHSquadMergeRequestInteraction.Options<0>.Text"
+msgstr "Akceptuj"
+
+msgid "DHSpawnProtectMineVolume.UnprotectedVehicleWarning"
+msgstr "Ten pojazd został zauważony przez wroga!"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<2>.Text"
+msgstr "Ignoruj wszystkie"
+
+msgid "DHSquadMergeRequestInteraction.PromptText"
+msgstr "{0} zaoferował połączenie twojego oddziału z oddziałem {1}."
+
+msgid "DHSquadMessage.LeftMessage"
+msgstr "{0} opuścił oddział."
+
+msgid "DHSquadMessage.KickedMessage"
+msgstr "Zostałeś wykopany z oddziału."
+
+msgid "DHSquadMessage.JoinedMessage"
+msgstr "{0} dołączył do oddziału."
+
+msgid "DHSquadMessage.FullMessage"
+msgstr "Nie można wysłać zaproszeń, ponieważ oddział jest pełny."
+
+msgid "DHSquadMessage.InvitePendingMessage"
+msgstr "{0} został już zaproszony do oddziału. Spróbuj ponownie później."
+
+msgid "DHSquadMessage.RallyPointTooCloseMessage"
+msgstr ""
+"Nie można utworzyć punktu zbiórki tak blisko już istniejącego, należy "
+"oddalić się o {0} metrów."
+
+msgid "DHSquadMessage.RallyPointExhaustedMessage"
+msgstr "Punkt zbiórki oddziału został wyczerpany."
+
+msgid "DHSquadMessage.RallyPointNeedSquadmateNearby"
+msgstr ""
+"Musisz mieć co najmniej jednego innego członka oddziału w pobliżu, aby "
+"utworzyć punkt zbiórki oddziału."
+
+msgid "DHSquadMessage.RallyPointActiveMessage"
+msgstr "Twój oddział ustanowił nowy punkt zbiórki."
+
+msgid "DHSquadMessage.RallyPointInMinefield"
+msgstr "Nie można utworzyć punktu zbiórki oddziału na polu minowym."
+
+msgid "DHSquadMessage.RallyPointOverrunMessage"
+msgstr "Punkt zbiórki oddziału został opanowany przez wrogów."
+
+msgid "DHSquadMessage.RallyPointAbandoned"
+msgstr ""
+"Punkt zbiórki oddziału nie został ustanowiony, ponieważ został porzucony."
+
+msgid "DHSquadMessage.BannedPlayer"
+msgstr "{0} został zbanowany z oddziału."
+
+msgid "DHSquadMessage.YouLeft"
+msgstr "Opuściłeś oddział."
+
+msgid "DHSquadMessage.YouVolunteeredToBeSquadLeader"
+msgstr ""
+"Zgłosiłeś się na dowódcę oddziału. Nowy dowódca drużyny zostanie wkrótce "
+"wybrany."
+
+msgid "DHSquadMessage.NoVolunteers"
+msgstr "Żaden z członków nie zgłosił się na lidera drużyny."
+
+msgid "DHSquadMessage.NoVolunteersDisbanded"
+msgstr ""
+"Twój oddział został rozwiązany, ponieważ jest zbyt mały i żaden z jego "
+"członków nie zgłosił się na ochotnika do roli dowódcy oddziału."
+
+msgid "DHSquadMessage.SquadPromotionRequestSentMessage"
+msgstr "Prośba o awans dowódcy oddziału została wysłana do {0}."
+
+msgid "DHSquadMessage.SquadMergeRequestDeniedGenericMessage"
+msgstr "Odmówiono połączenia oddziałów."
+
+msgid "DHSquadMessage.SquadMergeFailedMessage"
+msgstr "Połączenie oddziałów nie powiodło się,"
+
+msgid "DHSquadMessage.SquadPromotionRequestDeniedMessage"
+msgstr "Twoja prośba o awans na dowódcę oddziału została odrzucona przez {0}."
+
+msgid "DHSquadMessage.SquadPromotionRequestAcceptedMessage"
+msgstr ""
+"Twoja prośba o awans na dowódcę oddziału została zaakceptowana przez {0}."
+
+msgid "DHSquadOrderMessage.AttackText"
+msgstr "Dowódca oddziału wydał nowy rozkaz ataku"
+
+msgid "DHSquadMessage.SquadPromotionRequestDuplicateMessage"
+msgstr "Wysłałeś już {0} prośbę o awans."
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<4>"
+msgstr "Prośba o scalenie oddziału została wysłana."
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<0>"
+msgstr "Wystąpił błąd podczas wysyłania żądania awansu oddziału."
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<0>"
+msgstr "Poczekaj chwilę, zanim wyślesz kolejną prośbę o scalenie oddziału."
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<3>"
+msgstr "Istnieje już wniosek o scalenie dla tego oddziału."
+
+msgid "DHVehicleSayMessage.MessagePrefix"
+msgstr "[POJAZD]"
+
+msgid "DHVehicleMessage.OtherCrewmanCanLockVehicle"
+msgstr ""
+"Tylko najwyższy rangą członek załogi może zablokować lub odblokować pojazd"
+
+msgid "DHVehicleMessage.VehicleScuttleInitiated"
+msgstr "obecnie przestarzałe"
+
+msgid "DHVehicleMessage.UnbuttonToReload"
+msgstr "Musisz odblokować właz {0}, aby przeładować"
+
+msgid "DHVehicleMessage.UnbuttonHatchToChangePosition"
+msgstr "Musisz otworzyć właz {0} aby zmienić pozycję"
+
+msgid "DHVehicleMessage.NotQualified"
+msgstr "Brak kwalifikacji do obsługi tego pojazdu"
+
+msgid "DHVehicleTouchControlsMessage.Controls<0>.Text"
+msgstr "Wsiądź"
+
+msgid "DHVoicePack.OrderString[1]"
+msgstr "Bronić {objective}"
+
+msgid "DHVehicleVoiceSayMessage.MessagePrefix"
+msgstr "[GŁOS]"
+
+msgid "DHVoicePack.SupportString[1]"
+msgstr "Potrzebna pomoc przy {objective}"
+
+msgid "DarkestHourGame.ROHints<6>"
+msgstr ""
+"Kucanie i pozycja leżąca stabilizują broń i zmniejszają odrzut podczas "
+"strzelania."
+
+msgid "DarkestHourGame.ROHints<7>"
+msgstr "Aby zregenerować wytrzymałość, zatrzymaj się i odpocznij przez chwilę."
+
+msgid "DarkestHourGame.ROHints<5>"
+msgstr "Otrzymujesz 10 punktów za pomoc w zdobyciu celu."
+
+msgid "DHLastObjectiveMessage.AlliesAboutToWinMessage"
+msgstr "Ostatni cel -- Alianci już prawie wygrali bitwę!"
+
+msgid "DHLib.ServerHealthStages[0].Text"
+msgstr "Doskonały"
+
+msgid "DHIQMessage.Congratulations<2>"
+msgstr "Jesteś taktycznym geniuszem!"
+
+msgid "DHIQMessage.Congratulations<6>"
+msgstr "Genialne!"
+
+msgid "DHIQMessage.Congratulations<7>"
+msgstr "Jesteś najmądrzejszy!"
+
+msgid "DHLastObjectiveMessage.AxisAboutToWinMessage"
+msgstr "Ostatni cel -- Wojska Osi już prawie wygrały bitwę!"
+
+msgid "DHMapDatabase.SizeSmallText"
+msgstr "Mały"
+
+msgid "DHMapDatabase.SizeExtraSmallText"
+msgstr "Bardzo Mały"
+
+msgid "DHMapDatabase.SizeMediumText"
+msgstr "Średni"
+
+msgid "DHMapDatabase.SizeLargeText"
+msgstr "Duży"
+
+msgid "DHLib.ServerHealthStages[1].Text"
+msgstr "Dobry"
+
+msgid "DHLib.ServerHealthStages[2].Text"
+msgstr "Zadowalający"
+
+msgid "DHLib.ServerHealthStages[3].Text"
+msgstr "Kiepski"
+
+msgid "DHLib.ServerHealthStages[4].Text"
+msgstr "Beznadziejny"
+
+msgid "DHLocalMessage.SquadAssistantID"
+msgstr "A"
+
+msgid "DHMainMenuGame.GameName"
+msgstr "Gra"
+
+msgid "DHMapDatabase.SizeAnyText"
+msgstr "Dowolny"
+
+msgid "DHMapMarker_Enemy_ATGun.MarkerName"
+msgstr "Wrogie działo PPanc"
+
+msgid "DHMapMarker_Enemy_Vehicle.MarkerName"
+msgstr "Wrogi Pojazd"
+
+msgid "DHMapMarker_FireSupport_HE.MarkerName"
+msgstr "Prośba o ostrzał HE"
+
+msgid "DHMapMarker_AdminParadrop.MarkerName"
+msgstr "ADMIN: Umieść znacznik desantu spadochronowego"
+
+msgid "DHMapMarker_Enemy_Infantry.MarkerName"
+msgstr "Wroga Piechota"
+
+msgid "DHMapMarker_Enemy_Tank.MarkerName"
+msgstr "Wrogi Czołg"
+
+msgid "DHMapMarker_FireSupport_OffMap.MarkerName"
+msgstr "Wsparcie ogniowe dalekiego zasięgu"
+
+msgid "DHMapMarker_FireSupport_Smoke.MarkerName"
+msgstr "Prośba o ostrzał dymny"
+
+msgid "DHMapMarker_OngoingBarrage.MarkerName"
+msgstr "Trwający ostrzał"
+
+msgid "DHReinforcementAwardMsg.ReinforcementAttrition"
+msgstr "Twój zespół traci znaczące uzupełnienia z powodu strat!!!"
+
+msgid "DHReinforcementMsg.ReinforcementsRemaining"
+msgstr "Twoja drużyna ma {0}% pozostałych uzupełnień!"
+
+msgid "DHSpawnProtectMineVolume.WarningMessage"
+msgstr "Wkroczyłeś na obszar kontrolowany przez wroga, wycofaj się!"
+
+msgid "DHSquadInviteInteraction.PromptText"
+msgstr "{0} zaprosił cię do dołączenia do oddziału {1}."
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<0>.Text"
+msgstr "Akceptuj"
+
+msgid "DHSquadInviteInteraction.Options<0>.Text"
+msgstr "Akceptuj"
+
+msgid "DHSquadInviteInteraction.Options<1>.Text"
+msgstr "Odrzuć"
+
+msgid "DHSquadInviteInteraction.Options<2>.Text"
+msgstr "Ignoruj wszystkie"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.PromptText"
+msgstr "{volunteer} zgłosił się na asystenta drużyny."
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<1>.Text"
+msgstr "Odrzuć"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<2>.Text"
+msgstr "Ignoruj wszystkie"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<0>.Text"
+msgstr "Ochotnik"
+
+msgid "DHSquadOrderMessage.MoveText"
+msgstr "Dowódca oddziału wydał nowy rozkaz ruchu"
+
+msgid "DHSquadOrderMessage.AttentionText"
+msgstr "Dowódca oddziału wydał nowy rozkaz uwagi"
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<1>"
+msgstr "Dla tego gracza istnieje już prośba o awans na lidera drużyny."
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<2>"
+msgstr "Wniosek o awans dowódcy oddziału został wysłany."
+
+msgid "DHTeamSayMessage.MessagePrefix"
+msgstr "[DRUŻYNA]"
+
+msgid "DHHud.LegendAlliesObjectiveText"
+msgstr "Terytorium Aliantów"
+
+msgid "DHHud.LegendArtilleryRadioText"
+msgstr "Radio Artyleryjskie"
+
+msgid "DHIQMessage.LeaderAWOLMessage"
+msgstr "Zaniedbujesz swój oddział i linie zaopatrzenia."
+
+msgid "DHMapMarker_Squad_Attention.MarkerName"
+msgstr "Oddział - Uwaga"
+
+msgid "DHIQMessage.MemberAWOLMessage"
+msgstr "Porzucasz swój oddział."
+
+msgid "DHIQMessage.NotInSquadMessage"
+msgstr "Nie jesteś w oddziale."
+
+msgid "DHIQMessage.Congratulations<0>"
+msgstr "Wow! Co za spryciarz!"
+
+msgid "DHIQMessage.Congratulations<1>"
+msgstr "Niesamowite!"
+
+msgid "DHIQMessage.Congratulations<4>"
+msgstr "Absolutny wariat!"
+
+msgid "DHLocalMessage.SquadLeaderID"
+msgstr "DO"
+
+msgid "DHMapMarker_Friendly_Supplies.MarkerName"
+msgstr "Prośba o Zasoby"
+
+msgid "DHMapMarker_Squad_Defend.MarkerName"
+msgstr "Oddział - Bronić"
+
+msgid "DHMapMarker_Squad_Move.MarkerName"
+msgstr "Oddział - Przemieszczać się"
+
+msgid "DHMapMarker_Squad_Attack.MarkerName"
+msgstr "Oddział - Atakować"
+
+msgid "DHPawnTouchMessage.Messages<1>"
+msgstr "Naciśnij [%THROWMGAMMO%], aby przeładować {0}"
+
+msgid "DHReinforcementAwardMsg.ObjectiveString"
+msgstr "cel"
+
+msgid "DHReinforcementAwardMsg.ReinforcementAward"
+msgstr "Twoja drużyna otrzymała {0} uzupełnień za zdobycie {1}!"
+
+msgid "DHSetupPhaseMessage.PhaseMessage"
+msgstr "Bitwa rozpoczyna się za {0}"
+
+msgid "DHSquadMessage.InviteSentMessage"
+msgstr "{0} został zaproszony do oddziału."
+
+msgid "DHSquadMessage.NoLeaderMessage"
+msgstr "Dowódca oddziału opuścił oddział."
+
+msgid "DHSquadMessage.CreatedMessage"
+msgstr "Stworzyłeś oddział."
+
+msgid "DHSquadMessage.RallyPointInWater"
+msgstr "Nie można utworzyć punktu zbiórki oddziału w wodzie."
+
+msgid "DHSquadMessage.RallyPointBadLocation"
+msgstr "W tym miejscu nie można utworzyć punktu zbiórki oddziału."
+
+msgid "DHSquadMessage.RallyPointAbandonmentWarning"
+msgstr "Nowo utworzony punkt zbiórki oddziału został opuszczony!"
+
+msgid "DHVehicleMessage.CannotEnter"
+msgstr "Pojazd jest pełny"
+
+msgid "DHSetupPhaseMessage.PhaseEndMessage"
+msgstr "Bitwa się rozpoczęła!"
+
+msgid "DHSquadMergeRequestInteraction.Options<1>.Text"
+msgstr "Odrzuć"
+
+msgid "DHSquadPromotionRequestInteraction.PromptText"
+msgstr "{0} chce awansować cię na dowódcę oddziału {1}."
+
+msgid "DHVoiceReplicationInfo.LocalChannelText"
+msgstr "Lokalny"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<2>"
+msgstr "Nieprzypisany"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<4>"
+msgstr "Oddział"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<6>"
+msgstr "Oddział"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<7>"
+msgstr "Oddział"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<9>"
+msgstr "Oddział"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<11>"
+msgstr "Oddział"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<12>"
+msgstr "Oddział"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<13>"
+msgstr "Oddział"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<15>"
+msgstr "Oddział"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<17>"
+msgstr "Oddział"
+
+msgid "DarkestHourGame.ROHints<4>"
+msgstr ""
+"Aby wycelować broń przyrządami celowniczymi, a tym samym uzyskać lepszą "
+"precyzję i dokładność, naciśnij przycisk %ROIRONSIGHTS%."
+
+msgid "DarkestHourGame.ROHints<15>"
+msgstr ""
+"Strzelcy maszynowi nigdy nie powinni ustawiać się samotnie, znajdź "
+"towarzysza, który będzie cię pilnował."
+
+msgid "DarkestHourGame.ROHints<16>"
+msgstr ""
+"Strzelcy KM mają ograniczone pole widzenia gdy się rozstawią, więc spróbuj "
+"zaatakować ich z flanki."
+
+msgid "DarkestHourGame.GameName"
+msgstr "DarkestHourGame"
+
+msgid "DHSignal_Fire.SignalName"
+msgstr "Ognia"
+
+msgid "DarkestHourGame.ROHints<11>"
+msgstr ""
+"Gracze otrzymują 1 punkt za zaopatrzenie graczy, które potrzebują amunicji."
+
+msgid "DHSpawnProtectMineVolume.SafePeriodWarningMessage"
+msgstr ""
+"To jest teraz obszar kontrolowany przez wroga! Masz %remaining% sekund na "
+"powrót do swoich linii!"
+
+msgid "DHSquadLeaderVolunteerInteraction.PromptText"
+msgstr ""
+"Twój oddział potrzebuje lidera! Zgłaszasz się na dowódcę drużyny? ({time})"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<1>.Text"
+msgstr "Odrzuć"
+
+msgid "DHVehicleMessage.VehicleIsEnemy"
+msgstr "Nie można użyć wrogiego pojazdu"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<1>"
+msgstr "Dowództwo"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<8>"
+msgstr "Oddział"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<10>"
+msgstr "Oddział"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<18>"
+msgstr "Oddział"
+
+msgid "DHSquadMessage.RallyPointDestroyed"
+msgstr "Punkt zbiórki oddziału został zniszczony."
+
+msgid "DHMapMarker_Friendly_CommandPost.MarkerName"
+msgstr "Prośba o Centrum Dowodzenia"
+
+msgid "DHMapMarker_Enemy_CommandPost.MarkerName"
+msgstr "Wrogi Punkt Dowodzenia"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<3>"
+msgstr "Nieprzypisany"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<5>"
+msgstr "Oddział"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<16>"
+msgstr "Oddział"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<14>"
+msgstr "Oddział"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<2>"
+msgstr "Żądanie scalenia nie może zostać wysłane do tego oddziału."
+
+msgid "DHSignal_Move.SignalName"
+msgstr "Idź tutaj"
+
+msgid "DHSquadMessage.RallyPointCreatedMessage"
+msgstr ""
+"Utworzyłeś punkt zbiórki oddziału. Zabezpiecz obszar ze swoim oddziałem, aby "
+"ustanowić ten punkt zbiórki."
+
+msgid "DHSquadMessage.RallyPointRemoved"
+msgstr "Dowódca oddziału wymusił usunięcie punktu zbiórki."
+
+msgid "DHSquadMessage.SquadMergedSourceMessage"
+msgstr ""
+"Twój oddział został połączony z oddziałem {0}. Twoim nowym dowódcą oddziału "
+"jest {1}."
+
+msgid "DHSquadOrderMessage.DefendText"
+msgstr "Dowódca oddziału wydał nowy rozkaz obrony"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<1>"
+msgstr "Wystąpił błąd podczas wysyłania żądania połączenia oddziału."
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<0>"
+msgstr "Dowództwo"
+
+msgid "DHVoicePack.AlertString[8]"
+msgstr "Jesteśmy atakowani przy {objective}"
+
+msgid "DHVoicePack.VehicleDirectionString[0]"
+msgstr "Jedź do {objective}"
+
+msgid "DHVoicePack.OrderString[0]"
+msgstr "Atakować {objective}"
+
+msgid "DarkestHourGame.ROHints<14>"
+msgstr ""
+"Podczas zdobywania celu obecność oficera podnosi morale i ułatwia zadanie!"
+
+msgid "DarkestHourGame.ROHints<20>"
+msgstr ""
+"Broń AT zostanie automatycznie rozładowana, jeśli zmienisz broń na inną. "
+"Dobrym pomysłem jest trzymanie się z kolegą z drużyny, aby przyspieszyć "
+"przeładowanie w razie potrzeby."
+
+msgid "DHVehicleMessage.MapDisabledVehicleLocking"
+msgstr "Ta mapa nie pozwala na blokowanie pojazdów"
+
+msgid "DarkestHourGame.ROHints<17>"
+msgstr ""
+"Gdy już wystrzelisz z Bazooki lub Panzerschrecka, SZYBKO schowaj się za "
+"osłoną, gdyż dym z tylnego wybuchu ujawni twoją lokalizację. Wróg prawie "
+"zawsze odpowie ogniem w twoim kierunku!"
+
+msgid "DHVehicleMessage.CantLockNonCrewVehicle"
+msgstr ""
+"Nie można zablokować pojazdu, ponieważ może on być prowadzony przez graczy "
+"niebędących czołgistami"
+
+msgid "DarkestHourGame.ROHints<12>"
+msgstr ""
+"Karabin maszynowy jest skuteczniejszy, gdy strzela krótkimi, kontrolowanymi "
+"seriami."
+
+msgid "DarkestHourGame.ROHints<13>"
+msgstr "Nie można zmienić lufy 30 Cal, należy uważać, aby jej nie przegrzać!"
+
+msgid "DarkestHourGame.ROHints<18>"
+msgstr ""
+"Nie stój bezpośrednio za wyrzutnią rakiet, gdy ta strzela; możesz odnieść "
+"poważne obrażenia od spalin!"
+
+msgid "DarkestHourGame.ROHints<19>"
+msgstr ""
+"Żołnierze przeciwpancerni powinni zawsze zabierać ze sobą przyjaciela, który "
+"zapewni im zapasy amunicji, szybsze przeładowanie i osłonę."
+
+msgid "DHVoicePack.EnemyAbbrevAxis[3]"
+msgstr "Saper"
+
+msgid "DarkestHourGame.ROHints<8>"
+msgstr ""
+"Możesz rozmieścić karabin maszynowy na prawie każdym obiekcie - naciśnij "
+"%DEPLOY%, gdy zobaczysz ikonę rozmieszczenia, aby go rozmieścić."
+
+msgid "DarkestHourGame.ROHints<9>"
+msgstr ""
+"Podczas przeładowywania „Ciężki magazynek” wskazuje, że magazynek, który "
+"ładujesz do broni, jest w ponad połowie pełny amunicji."
+
+msgid "DarkestHourGame.ROHints<10>"
+msgstr "Karabin maszynowy można przeładować tylko gdy jest rozstawiony."
