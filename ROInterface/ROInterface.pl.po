@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-09 07:43+0000\n"
+"PO-Revision-Date: 2025-06-20 08:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/pl/>\n"
@@ -305,7 +305,6 @@ msgstr "Wyświetlacz"
 msgid "ROSettingsPage_new.PanelCaption<5>"
 msgstr "Interfejs"
 
-#, fuzzy
 msgid "ROTab_Controls.ActionText"
 msgstr "{%keybinds%} - aktualnie powiązany z tym klawiszem."
 
@@ -670,3 +669,12 @@ msgstr "Wszystkie Wskazówki (Reset)"
 
 msgid "ROUT2K4GamePageSP.PanelHint<0>"
 msgstr "brak"
+
+msgid "ROConsole.SMStateName[14]"
+msgstr "Wybierz odbiorcę rozkazu..."
+
+msgid "ROConsole.SMStateName[13]"
+msgstr "Jesteśmy atakowani przy..."
+
+msgid "ROControlBinder.BindingLabel[26]"
+msgstr "Przełącz ruch w boki"
