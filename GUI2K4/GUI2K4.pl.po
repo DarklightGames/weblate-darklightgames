@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-09 07:43+0000\n"
+"PO-Revision-Date: 2025-06-29 08:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/pl/>\n"
@@ -214,3 +214,32 @@ msgstr "Zapytanie zakończone! Otrzymano: %NumServers% Serwerów"
 
 msgid "UT2k4Browser_ServerListPageFavorites.RemoveFavoriteText"
 msgstr "Usuń z ulubionych"
+
+msgid "UT2K4SettingsPage.PanelCaption<6>"
+msgstr "Interfejs użytkownika (HUD)"
+
+msgid "UT2K4SettingsPage.PanelCaption<5>"
+msgstr "Uzbrojenie"
+
+msgid "UT2K4PerformWarn.HideCheckbox.Hint"
+msgstr ""
+"Zaznacz, aby wyłączyć wyświetlanie komunikatów ostrzegawczych podczas "
+"dostosowywania właściwości w menu Ustawień"
+
+msgid "UT2K4PerformWarn.HideCheckbox.Caption"
+msgstr "  nie wyświetlaj tego ostrzeżenia ponownie"
+
+msgid "UT2K4SettingsPage.PanelCaption<0>"
+msgstr "Wideo"
+
+msgid "UT2K4SettingsPage.PanelCaption<1>"
+msgstr "Audio"
+
+msgid "UT2K4SettingsPage.PanelCaption<2>"
+msgstr "Gracz"
+
+msgid "UT2K4SettingsPage.PanelCaption<3>"
+msgstr "Gra"
+
+msgid "UT2K4SettingsPage.PanelCaption<4>"
+msgstr "Dane wejściowe"
