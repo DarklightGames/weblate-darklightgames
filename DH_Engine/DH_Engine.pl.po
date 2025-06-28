@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-20 08:43+0000\n"
+"PO-Revision-Date: 2025-06-29 08:43+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pl/>\n"
@@ -470,10 +470,9 @@ msgstr ""
 "tego może zależeć twoje przetrwanie! Można je wyłączyć w zakładce HUD w menu "
 "konfiguracji."
 
-#, fuzzy
 msgid "DHHintManager.Hints[1].Text"
 msgstr ""
-"Możesz wspiąć się na małe przeszkody! Aby wspiąć się, stój przed dowolną "
+"Możesz wspinać się na małe przeszkody! Aby wspiąć się, stój przed dowolną "
 "niską przeszkodą, aż pojawi się ikona wspinania, a następnie naciśnij "
 "%JUMP%, aby wspiąć się na przeszkodę."
 
@@ -649,7 +648,6 @@ msgstr "Serwer: "
 msgid "DHHud.TimeElapsedText"
 msgstr "Czas Trwania: "
 
-#, fuzzy
 msgid "DHHud.JoinTeamText"
 msgstr "Wciśnij [ESC] aby dołączyć do zespołu"
 
@@ -657,11 +655,10 @@ msgid "DHHud.InvalidSpawnSettingsText"
 msgstr ""
 "Wciśnij [ESC] aby potwierdzić twoją rolę, pojazd, i wybór punktu odrodzenia"
 
-#, fuzzy
 msgid "DHHud.NotReadyToSpawnText"
 msgstr ""
 "Odradzanie rozpocznie się za {s} (wykorzystaj ten czas na zorganizowanie "
-"oddziałów i planowanie)."
+"oddziałów i planowanie)"
 
 msgid "DHHud.SelectSpawnPointText"
 msgstr "Wciśnij [ESC] aby wybrać punkt odrodzenia"
@@ -1960,3 +1957,203 @@ msgstr ""
 
 msgid "DarkestHourGame.ROHints<10>"
 msgstr "Karabin maszynowy można przeładować tylko gdy jest rozstawiony."
+
+msgid "DHGameMessage.MaxRoleMsg"
+msgstr "Nie można zmienić na {role}."
+
+msgid "DHGameMessage.HasForgivenMessage"
+msgstr "{victim} wybaczył {killer}."
+
+msgid "DHGameMessage.GlobalNameChange"
+msgstr "{old_name} zmienił swoją nazwę na {new_name}."
+
+msgid "DHHintManager.Hints[1].Title"
+msgstr "Pokonywanie przeszkód"
+
+msgid "DHHintManager.Hints[10].Text"
+msgstr ""
+"Aby złożyć moździerz, wciśnij %Deploy%. Złożenie moździerza zresetuje twoje "
+"ustawienia moździerza."
+
+msgid "DHHintManager.Hints[12].Title"
+msgstr "Lornetka"
+
+msgid "DHHintManager.Hints[52].Title"
+msgstr "Nawigowanie po mapie"
+
+msgid "DHGameMessage.LeftMessage"
+msgstr "{name} opuścił pole walki."
+
+msgid "DHGameMessage.VoteStarted"
+msgstr "{name} rozpoczął głosowanie."
+
+msgid "DHGameMessage.EnteredMessage"
+msgstr "{name} wszedł na pole walki."
+
+msgid "DHGameReplicationInfo.ReinforcementsInfiniteText"
+msgstr "Nieskończone"
+
+msgid "DHGameType_Clash.GameTypeName"
+msgstr "Starcie"
+
+msgid "DHHintManager.Hints[7].Text"
+msgstr ""
+"Aby dostosować obrót moździerza, przytrzymaj klawisz A lub D. Aby zwiększyć "
+"nachylenie, naciśnij klawisz S. Aby zmniejszyć nachylenie, naciśnij klawisz "
+"W. Aby wybrać następny typ pocisku, naciśnij klawisz %SwitchFireMode%. Aby "
+"wystrzelić pocisk, naciśnij klawisz %Fire%."
+
+msgid "DHHintManager.Hints[12].Text"
+msgstr ""
+"Za pomocą lornetki można oznaczać cele dla wsparcia ogniowego. Wyciągnij "
+"lornetkę za pomocą %ROIRONSIGHTS%, a następnie naciśnij i przytrzymaj "
+"%FIRE%, aby wyświetlić menu wsparcia ogniowego."
+
+msgid "DHHintManager.Hints[13].Title"
+msgstr "Radiowiec"
+
+msgid "DHHintManager.Hints[46].Title"
+msgstr "Karabin Maszynowy Montowany Zewnętrznie"
+
+msgid "DHHintManager.Hints[44].Title"
+msgstr "Ciężarówki Zaopatrzeniowe"
+
+msgid "DHHintManager.Hints[44].Text"
+msgstr ""
+"Prowadzisz ciężarówkę zaopatrzeniową. Ten pojazd może uzupełniać amunicję "
+"pojazdom, moździerzom i piechocie. Zadbaj o to, by zaparkować w bezpiecznym "
+"miejscu."
+
+msgid "DHHintManager.Hints[43].Title"
+msgstr "Ciężarówki Zaopatrzeniowe"
+
+msgid "DHHintManager.Hints[43].Text"
+msgstr ""
+"Jesteś blisko ciężarówki zaopatrzeniowej. Ustaw się z tyłu ciężarówki aby "
+"uzupełnić twoją amunicję."
+
+msgid "DHHintManager.Hints[51].Text"
+msgstr "Możesz wchodzić w interakcje z mapą, naciskając %JUMP%."
+
+msgid "DHHintManager.Hints[51].Title"
+msgstr "Interakcja z mapą"
+
+msgid "DHHud.SpectateInstructionText3"
+msgstr "Wciśnij [%ROIRONSIGHTS%] aby przełączyć widok Pierwszej/Trzeciej Osoby"
+
+msgid "DHVehiclePoolMessage.DestroyedMessage"
+msgstr "Punkt odrodzeń pojazdów został zniszczony."
+
+msgid "DHVehiclePoolMessage.ActivatedMessage"
+msgstr "Punkt odrodzeń pojazdów został aktywowany."
+
+msgid "DHHintManager.Hints[52].Text"
+msgstr ""
+"Aby powiększyć mapę, najedź kursorem na mapę i użyj scrolla. Aby przesuwać "
+"mapę, naciśnij i przytrzymaj [LEFTMOUSE], a następnie przesuń kursor."
+
+msgid "DHHintManager.Hints[53].Title"
+msgstr "Znaczniki na mapie"
+
+msgid "DHGameMessage.FFKillMessage"
+msgstr "{name} zabił sojusznika."
+
+msgid "DHHintManager.Hints[9].Text"
+msgstr ""
+"Możesz opuścić swój moździerz w dowolnym momencie, naciskając klawisz %Use%. "
+"Kiedy zejdziesz z moździerza, możesz pozyskać amunicję w punkcie "
+"zaopatrzenia lub u kolegów z drużyny."
+
+msgid "DHHintManager.Hints[10].Title"
+msgstr "Składanie moździerza"
+
+msgid "DHHintManager.Hints[13].Text"
+msgstr ""
+"Jesteś operatorem radia! Trzymaj się blisko dowódców oddziałów aby mogli "
+"wzywać wsparcie ogniowe dalekiego zasięgu!"
+
+msgid "DHHintManager.Hints[42].Title"
+msgstr "Łódź Higginsa"
+
+msgid "DHHintManager.Hints[40].Title"
+msgstr "Silniki pojazdów"
+
+msgid "DHHintManager.Hints[40].Text"
+msgstr "Wszedłeś do pojazdu. Aby odpalić lub zgasić silnik, wciśnij %FIRE%."
+
+msgid "DHHintManager.Hints[42].Text"
+msgstr ""
+"Prowadzisz łódź Higginsa. Obniż rampę wciskając %PREVWEAPON% aby "
+"pasażerowie, oraz ty, mogli wysiąść. Aby podnieść rampę wciśnij %NEXTWEAPON%."
+
+msgid "DHHintManager.Hints[48].Text"
+msgstr ""
+"Musisz otworzyć właz (i nie używać lornetki), aby przeładować ten zewnętrzny "
+"karabin maszynowy"
+
+msgid "DHHintManager.Hints[49].Title"
+msgstr "Luneta Celownicza"
+
+msgid "DHHintManager.Hints[49].Text"
+msgstr ""
+"Obsługujesz działo artyleryjskie wyposażone w lunetę. Naciśnij %NEXTWEAPON%, "
+"aby spojrzeć przez lunetę."
+
+msgid "DHHintManager.Hints[50].Title"
+msgstr "Operatorzy Artylerii"
+
+msgid "DHHud.SpawnRallyPointText"
+msgstr ""
+"Rozmieścisz się jako {0} w punkcie zbiórki swojego oddziału za {2}. | "
+"Naciśnij [ESC], aby zmienić"
+
+msgid "DHHud.ConnectedObjectivesNotSecuredText"
+msgstr "Połaczony cel (cele) nie są zabezpieczone"
+
+msgid "DHConstruction_Vehicle.ConstructionVerb"
+msgstr "rozmieść"
+
+msgid "DHHintManager.Hints[47].Title"
+msgstr "Zdalnie Sterowany KM"
+
+msgid "DHHintManager.Hints[48].Title"
+msgstr "Przeładowanie Zewnętrznie Montowanego KM"
+
+msgid "DHGameMessage.NewTeamMessageGerman"
+msgstr "{name} dołączył do sił Osi."
+
+msgid "DHGameMessage.FFViolationMessage"
+msgstr "Usuwanie {name} z powodu nadmiernego ognia przyjacielskiego."
+
+msgid "DHGameMessage.RoleChangeMsg"
+msgstr "Spróbujesz odrodzić się jako {role}."
+
+msgid "DHGameReplicationInfo.ForceScaleText"
+msgstr "Rozmiar"
+
+msgid "DHHud.TeamMessagePrefix"
+msgstr "[DRUŻYNA] "
+
+msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
+msgstr ""
+"Aby zdekonstruować wrogie stanowisko dowodzenia, musisz mieć w pobliżu "
+"innego członka drużyny!"
+
+msgid "DHHintManager.Hints[46].Text"
+msgstr ""
+"Ten KM jest zamontowany na zewnątrz pojazdu, i może być używany, lub "
+"przeładowany, tylko po otwarciu włazu"
+
+msgid "DHHintManager.Hints[47].Text"
+msgstr ""
+"Ten KM może być używany z wewnątrz pojazdu, ale jest zamontowany zewnętrznie "
+"i musisz otworzyć właz aby go przeładować"
+
+msgid "DHGameMessage.NewTeamMessageRussian"
+msgstr "{name} dołączył do sił Aliantów."
+
+msgid "DHHintManager.Hints[50].Text"
+msgstr ""
+"Otwórz mapę, aby koordynować ogień. Użyj [RIGHTMOUSE] na żądaniu wsparcia "
+"ogniowego, aby wybrać je jako aktywny cel lub użyj znacznika linijki, aby "
+"zmierzyć odległość od ciebie do danego miejsca na mapie."
