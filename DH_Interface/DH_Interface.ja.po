@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-11 21:32+0000\n"
+"PO-Revision-Date: 2025-06-29 21:47+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
@@ -18,7 +18,7 @@ msgid "DHGetDataMenu.CancelButton.Caption"
 msgstr "キャンセル"
 
 msgid "DHMainMenu.ServerButton.Caption"
-msgstr "サーバーブラウザ"
+msgstr "サーバーリスト"
 
 msgid "DHFilterEdit.bCancel.Caption"
 msgstr "キャンセル"
@@ -345,7 +345,7 @@ msgid "DHMainMenu.FacebookButton.Hint"
 msgstr "Facebookでフォローしてください！"
 
 msgid "DHMainMenu.QuitButton.Caption"
-msgstr "出口"
+msgstr "終了"
 
 msgid "DHBrowser_OpenIP.OkButton.Caption"
 msgstr "OK"
@@ -361,3 +361,6 @@ msgstr "キャンセル"
 
 msgid "DHDeployMenu.RoleLockedText"
 msgstr "ロック中"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<0>"
+msgstr "マップ名"
