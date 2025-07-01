@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-14 01:43+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-02 19:43+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/uk/>\n"
 "Language: uk\n"
@@ -397,11 +397,9 @@ msgstr "Осколково-фугасний (HE)"
 msgid "DH_BM36MortarCannon.ProjectileDescriptions<1>"
 msgstr "Дим"
 
-#, fuzzy
 msgid "DH_BM36MortarCannon.nProjectileDescriptions<0>"
 msgstr "О-832"
 
-#, fuzzy
 msgid "DH_BM36MortarCannon.nProjectileDescriptions<1>"
 msgstr "Д-832"
 
