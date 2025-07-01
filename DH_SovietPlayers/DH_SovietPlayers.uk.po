@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-11 00:43+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-02 19:43+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_sovietplayers/uk/>\n"
 "Language: uk\n"
@@ -103,9 +103,8 @@ msgstr "Чехословаччина"
 msgid "DHSOVRiflemanRoles.AltName"
 msgstr "Стрелок"
 
-#, fuzzy
 msgid "DHSOVCorporalRoles.MyName"
-msgstr "Командир вогневої группи"
+msgstr "Командир вогневої групи"
 
 msgid "DHCSSergeantRoles.AltName"
 msgstr ""
