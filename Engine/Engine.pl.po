@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-29 08:43+0000\n"
+"PO-Revision-Date: 2025-07-03 17:58+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/pl/>\n"
@@ -38,3 +38,380 @@ msgstr "Otrzymaną niepoprawną prośbę o plik"
 
 msgid "Errors.NoDownload"
 msgstr "Pakiet '%s\" jest niepobieralny"
+
+msgid "KeyNames.Up"
+msgstr "W GÓRĘ"
+
+msgid "KeyNames.Right"
+msgstr "PRAWO"
+
+msgid "KeyNames.Space"
+msgstr "SPACJA"
+
+msgid "KeyNames.Down"
+msgstr "W DÓŁ"
+
+msgid "KeyNames.Print"
+msgstr "PRINT"
+
+msgid "KeyNames.Execute"
+msgstr "EXECUTE"
+
+msgid "KeyNames.Delete"
+msgstr "DELETE"
+
+msgid "KeyNames.Help"
+msgstr "HELP"
+
+msgid "KeyNames.Tab"
+msgstr "TAB"
+
+msgid "KeyNames.Escape"
+msgstr "ESCAPE"
+
+msgid "ChatRoomMessage.AnonText"
+msgstr "Ktoś"
+
+msgid "ChatRoomMessage.ChatRoomString[1]"
+msgstr "Jesteś już członkiem kanału '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[4]"
+msgstr "Zostałeś zbanowany z kanału '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[7]"
+msgstr "Pomyślnie dołączono do kanału '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[12]"
+msgstr "'%pri%' opuścił kanał '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[13]"
+msgstr "Pomyślnie zbanowano'%pri%' z twojego osobistego kanału czatu"
+
+msgid "ChatRoomMessage.ChatRoomString[15]"
+msgstr "Czat głosowy nie jest włączony na tym serwerze"
+
+msgid "KeyNames.GreyStar"
+msgstr "NUM *"
+
+msgid "KeyNames.NumPad8"
+msgstr "NUM 8"
+
+msgid "KeyNames.NumPad9"
+msgstr "NUM 9"
+
+msgid "KeyNames.GreyPlus"
+msgstr "NUM +"
+
+msgid "KeyNames.GreyMinus"
+msgstr "NUM -"
+
+msgid "KeyNames.NumPadPeriod"
+msgstr "NUM ."
+
+msgid "KeyNames.GreySlash"
+msgstr "NUM /"
+
+msgid "PlayerController.ViewingFrom"
+msgstr "Widok z perspektywy osoby"
+
+msgid "Errors.LoadPlayerClass"
+msgstr "Nie udało się załadować roli gracza"
+
+msgid "KeyNames.JoyU"
+msgstr "JOY U"
+
+msgid "KeyNames.Joy5"
+msgstr "JOY 5"
+
+msgid "KeyNames.PageUp"
+msgstr "PAGE UP"
+
+msgid "KeyNames.End"
+msgstr "END"
+
+msgid "KeyNames.Home"
+msgstr "HOME"
+
+msgid "KeyNames.NumLock"
+msgstr "NUMLOCK"
+
+msgid "Progress.Listening"
+msgstr "Nasłuchiwanie klientów..."
+
+msgid "Progress.ConnectingText"
+msgstr "Łączenie (F10 Anuluje):"
+
+msgid "ChatRoomMessage.ChatRoomString[5]"
+msgstr "Nie udało się dołączyć do kanału '%title%'.  Kanał jest pełny!"
+
+msgid "ChatRoomMessage.ChatRoomString[6]"
+msgstr "Nie możesz dołączyć do kanału '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[8]"
+msgstr "Opuściłeś kanał '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[9]"
+msgstr "Teraz rozmawiasz na kanale '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[11]"
+msgstr "'%pri%' dołączył do kanału '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[14]"
+msgstr ""
+"Akcja banowania przez czat głosowy nie powiodła się.  Nie znaleziono gracza "
+"o podanym identyfikatorze"
+
+msgid "KeyNames.PrintScrn"
+msgstr "PRINTSCRN"
+
+msgid "KeyNames.CapsLock"
+msgstr "CAPSLOCK"
+
+msgid "KeyNames.Shift"
+msgstr "SHIFT"
+
+msgid "ChatRoomMessage.ChatRoomString[2]"
+msgstr "Kanał '%title%' wymaga hasła!"
+
+msgid "ChatRoomMessage.ChatRoomString[10]"
+msgstr "Już nie rozmawiasz na kanale '%title%'"
+
+msgid "Errors.ClientOutdated"
+msgstr "Należy zainstalować najnowszy patch"
+
+msgid "KeyNames.Left"
+msgstr "LEWO"
+
+msgid "KeyNames.Select"
+msgstr "SELECT"
+
+msgid "KeyNames.Insert"
+msgstr "INSERT"
+
+msgid "KeyNames.Separator"
+msgstr "KRESKA PIONOWA"
+
+msgid "KeyNames.Pause"
+msgstr "PAUSE"
+
+msgid "KeyNames.Enter"
+msgstr "ENTER"
+
+msgid "Progress.CancelledConnect"
+msgstr "Anulowano Próbę Połączenia"
+
+msgid "ChatRoomMessage.ChatRoomString[0]"
+msgstr "Nieprawidłowy kanał lub nie można znaleźć kanału: '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[3]"
+msgstr "Nieprawidłowe hasło określone dla kanału '%title%'"
+
+msgid "Errors.Listen"
+msgstr "Nasłuchiwanie nie powiodło się: %s"
+
+msgid "Errors.AbortToEntry"
+msgstr "Nie powiodło się; powrót do zapisu"
+
+msgid "Errors.ServerOpen"
+msgstr "Serwery nie mogą otwierać sieciowych adresów URL"
+
+msgid "Errors.ServerListen"
+msgstr "Serwer dedykowany nie może nasłuchiwać: %s"
+
+msgid "Errors.Pending"
+msgstr "Oczekujące połączenie z '»%s' nie powiodło się; %s"
+
+msgid "Errors.RequestDenied"
+msgstr "Serwer zażądał pliku z oczekującego poziomu: Odmowa"
+
+msgid "Errors.ConnectionFailed"
+msgstr "Połączenie nie powiodło się"
+
+msgid "Errors.ChAllocate"
+msgstr "Nie można przydzielić kanału"
+
+msgid "Errors.NetAlready"
+msgstr "Już w sieci"
+
+msgid "Errors.NetListen"
+msgstr "Odsłuch nie powiódł się: Brak dostępnego kontekstu linkera"
+
+msgid "Errors.LoadEntry"
+msgstr "Nie można załadować wpisu: %s"
+
+msgid "Errors.InvalidUrl"
+msgstr "Niepoprawny URL: %s"
+
+msgid "Errors.InvalidLink"
+msgstr "Niepoprawny Link: %s"
+
+msgid "Errors.FailedBrowse"
+msgstr "Nie udało się wprowadzić %s: %s"
+
+msgid "Errors.ServerOutdated"
+msgstr "Wersja serwera jest nieaktualna"
+
+msgid "Errors.ConnectLost"
+msgstr "Utracono Połączenie"
+
+msgid "Errors.DemoFileMissing"
+msgstr "Brakujący pakiet '%s' do odtwarzania demo"
+
+msgid "Errors.DownloadNotAllowed"
+msgstr "Pobieranie '%s' niedozwolone"
+
+msgid "KeyNames.LeftMouse"
+msgstr "LEWY PRZCISK MYSZY"
+
+msgid "KeyNames.RightMouse"
+msgstr "PRAWY PRZCISK MYSZY"
+
+msgid "KeyNames.MiddleMouse"
+msgstr "ŚRODKOWY PRZCISK MYSZY"
+
+msgid "KeyNames.MouseX"
+msgstr "MYSZ X"
+
+msgid "KeyNames.MouseY"
+msgstr "MYSZ Y"
+
+msgid "KeyNames.MouseZ"
+msgstr "MYSZ Z"
+
+msgid "KeyNames.MouseW"
+msgstr "MYSZ W"
+
+msgid "KeyNames.JoyX"
+msgstr "JOY X"
+
+msgid "KeyNames.JoyY"
+msgstr "JOY Y"
+
+msgid "KeyNames.JoyZ"
+msgstr "JOY Z"
+
+msgid "KeyNames.JoyV"
+msgstr "JOY V"
+
+msgid "KeyNames.JoySlider1"
+msgstr "SUWAK JOY 1"
+
+msgid "KeyNames.JoySlider2"
+msgstr "SUWAK JOY 2"
+
+msgid "KeyNames.MouseWheelUp"
+msgstr "KÓŁKO MYSZY W GÓRĘ"
+
+msgid "KeyNames.MouseWheelDown"
+msgstr "KÓŁKO MYSZY W DÓŁ"
+
+msgid "KeyNames.Joy1"
+msgstr "JOY 1"
+
+msgid "KeyNames.Joy2"
+msgstr "JOY 2"
+
+msgid "KeyNames.Joy3"
+msgstr "JOY 3"
+
+msgid "KeyNames.Joy4"
+msgstr "JOY 4"
+
+msgid "KeyNames.Joy6"
+msgstr "JOY 6"
+
+msgid "KeyNames.Joy7"
+msgstr "JOY 7"
+
+msgid "KeyNames.Joy8"
+msgstr "JOY 8"
+
+msgid "KeyNames.Joy9"
+msgstr "JOY 9"
+
+msgid "KeyNames.Joy10"
+msgstr "JOY 10"
+
+msgid "KeyNames.Joy11"
+msgstr "JOY 11"
+
+msgid "KeyNames.Joy12"
+msgstr "JOY 12"
+
+msgid "KeyNames.Joy13"
+msgstr "JOY 13"
+
+msgid "KeyNames.Joy14"
+msgstr "JOY 14"
+
+msgid "KeyNames.Joy15"
+msgstr "JOY 15"
+
+msgid "KeyNames.Joy16"
+msgstr "JOY 16"
+
+msgid "KeyNames.PageDown"
+msgstr "PAGE DOWN"
+
+msgid "KeyNames.NumPad0"
+msgstr "NUM 0"
+
+msgid "KeyNames.NumPad1"
+msgstr "NUM 1"
+
+msgid "KeyNames.NumPad2"
+msgstr "NUM 2"
+
+msgid "KeyNames.NumPad3"
+msgstr "NUM 3"
+
+msgid "KeyNames.NumPad4"
+msgstr "NUM 4"
+
+msgid "KeyNames.NumPad5"
+msgstr "NUM 5"
+
+msgid "KeyNames.NumPad6"
+msgstr "NUM 6"
+
+msgid "KeyNames.NumPad7"
+msgstr "NUM 7"
+
+msgid "Progress.RunningNet"
+msgstr "%s: %s (%i graczy)"
+
+msgid "Progress.NetReceiving"
+msgstr "Odbieranie '%s': %i/%i"
+
+msgid "Progress.Paused"
+msgstr "Wstrzymano przez %s"
+
+msgid "Progress.NetReceiveOk"
+msgstr "Pomyślnie otrzymano '%s'"
+
+msgid "Progress.NetSend"
+msgstr "Wysyłanie '%s'"
+
+msgid "Progress.NetSending"
+msgstr "Wysyłanie '%s': %i/%i"
+
+msgid "Progress.Connecting"
+msgstr "Łączenie (Wciśnij F10 aby przerwać)..."
+
+msgid "Progress.Loading"
+msgstr "Wczytywanie"
+
+msgid "Progress.ReceiveFile"
+msgstr "Odbieranie '%s' (F10 Anuluje)"
+
+msgid "Progress.ReceiveOptionalFile"
+msgstr "Odbieranie opcjonalnego pliku '%s' (Wciśnij F10 aby pominąć)"
+
+msgid "Progress.ReceiveSize"
+msgstr "Rozmiar %iK, Ukończono %3.1f%%"
+
+msgid "Progress.CorruptConnect"
+msgstr "Niekompatybilne Pliki Gry!"
+
+msgid "PlayerController.OwnCamera"
+msgstr "Obserwacja z własnej kamery"
