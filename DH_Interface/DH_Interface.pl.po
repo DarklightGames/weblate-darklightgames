@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-07 09:43+0000\n"
+"PO-Revision-Date: 2025-07-03 17:58+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/pl/>\n"
@@ -379,7 +379,6 @@ msgstr "Łączna siła głosów graczy na mapie."
 msgid "DHFilterEdit.ComboOpts[0]"
 msgstr "Bez znaczenia"
 
-#, fuzzy
 msgid "DHFilterEdit.cbStats.Caption"
 msgstr "Statystyki Serwera:"
 
@@ -395,7 +394,6 @@ msgstr "Wspieraj nas na Patreonie!"
 msgid "DHFilterEdit.ckVACOnly.Caption"
 msgstr "Tylko chronione przez Valve Anti-Cheat"
 
-#, fuzzy
 msgid "DHGamePageSP.NoBotsWarningText"
 msgstr ""
 "Darkest Hour: Europe '44-'45 koncentruje się wyłącznie na rozgrywce "
@@ -408,7 +406,6 @@ msgstr "Zamknij to menu, odrzucając zmiany."
 msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<2>"
 msgstr "Zalecana liczba graczy dla mapy."
 
-#, fuzzy
 msgid "DHGUITeamSelection.AutoSelect.Caption"
 msgstr "Auto wybór"
 
@@ -426,9 +423,8 @@ msgstr "Obserwuj"
 msgid "DHDeployMenu.SuicideButtonObject.Caption"
 msgstr "Samobójstwo"
 
-#, fuzzy
 msgid "DHDeployMenu.SupplyVehicleImageObject.Hint"
-msgstr "Pojazd Zaopatrzeniowy"
+msgstr "Pojazd Zaopatrzeniowo-Budowlany"
 
 msgid "DHDeployMenu.VehicleButtonObject.Hint"
 msgstr "Pojazdy"
@@ -553,10 +549,9 @@ msgstr "OK"
 msgid "DHMainMenu.MOTDErrorString"
 msgstr "Błąd: Nie można pobrać kanału wiadomości ({0})"
 
-#, fuzzy
 msgid "DHMainMenu.ControlsChangedMessage"
 msgstr ""
-"Do gry dodano nowe elementy sterujące. W rezultacie poprzednie ustawienia "
+"Do gry dodano nowe elementy sterowania. W rezultacie poprzednie ustawienia "
 "sterowania mogły zostać zmienione.||Chcesz sprawdzić swoje ustawienia "
 "sterowania?"
 
@@ -577,9 +572,8 @@ msgstr "Dołącz do nas na Facebooku!"
 msgid "DHMainMenu.GitHubButton.Hint"
 msgstr "Dołącz do nas na GitHub!"
 
-#, fuzzy
 msgid "DHMainMenu.QuitButton.Caption"
-msgstr "Wyjście z gry"
+msgstr "Wyjście"
 
 msgid "DHMainMenu.ServerButton.Caption"
 msgstr "Przeglądarka Serwerów"
@@ -688,9 +682,8 @@ msgstr "Szybkość Sieci (bajty na sekundę)"
 msgid "DHTab_AudioSettings.VoiceVolume.Caption"
 msgstr "Głośność odbierania głosu"
 
-#, fuzzy
 msgid "DHTab_Controls.Section_Inventory"
-msgstr "Ekwipunek"
+msgstr "Wyposażenie"
 
 msgid "DHTab_Controls.Captions_Inventory[0]"
 msgstr "Slot Ekwipunku 1"
@@ -785,7 +778,6 @@ msgstr "Cienie Postaci"
 msgid "DHTab_DetailSettings.DetailCoronas.Caption"
 msgstr "Oświetlenie Dodatkowe"
 
-#, fuzzy
 msgid "DHTab_DetailSettings.DetailDecalStay.Caption"
 msgstr "Pozostawanie Śladów"
 
@@ -959,7 +951,6 @@ msgstr "Pokaż Wiadomości o Śmierci"
 msgid "DHTab_Hud.GameHudShowIndicators.Caption"
 msgstr "Pokaż Wskaźnik Utraty Pakietów"
 
-#, fuzzy
 msgid "DHTab_Hud.ShowRallyPoint.Caption"
 msgstr "Pokaż Status Punktu Zbiórki Drużyny"
 
@@ -990,7 +981,6 @@ msgstr "Współczynnik Czułości Przyrządów Celowniczych"
 msgid "DHTab_Controls.captions_weapons[11]"
 msgstr "Rozmieszczenie KM/ Bagnet / Wyrzutnia dymu z pojazdu"
 
-#, fuzzy
 msgid "DHTab_Controls.captions_comm[7]"
 msgstr "Przełącz na kanał głosowy Dowództwa"
 
@@ -1016,7 +1006,6 @@ msgstr ""
 "Obniży NetSpeed do 6000 lub do momentu osiągnięcia 40 pingu, przydatne dla "
 "tych, którzy wolą lepszy ping niż stabilny NetSpeed"
 
-#, fuzzy
 msgid "DHTab_AudioSettings.VoiceQualityLAN.Caption"
 msgstr "Jakość LAN"
 
@@ -1172,3 +1161,485 @@ msgstr "Próg Przyśpieszenia Myszy"
 
 msgid "DHTab_Input.InputMouseLag.Caption"
 msgstr "Redukuj Opóźnienie Myszy"
+
+msgid "DHTab_MainSP.MapAuthorText"
+msgstr "Autor: {author}"
+
+msgid "DHTab_MainSP.MaplistButton.ButtonCaption"
+msgstr "Konfiguracja listy map"
+
+msgid "DHTab_MutatorSP.IAMutatorConfig.Caption"
+msgstr "Konfiguruj Mutatory"
+
+msgid "DHTab_MainSP.MapCaptionText"
+msgstr "{game} Mapy"
+
+msgid "DHTab_MainSP.NoPreview.Caption"
+msgstr "Podgląd nie jest dostępny"
+
+msgid "DHTab_MainSP.PreviewGroup.Caption"
+msgstr "Podgląd"
+
+msgid "DHTab_MutatorSP.IAMutatorRemove.Caption"
+msgstr "Usuń"
+
+msgid "DHBrowser_Footer.BrowserMain.Caption"
+msgstr "Główne"
+
+msgid "DHServerBrowser.PanelCaption<1>"
+msgstr "LAN"
+
+msgid "DHServerBrowser.PanelCaption<2>"
+msgstr "Internet"
+
+msgid "DHServerBrowser.PanelCaption<3>"
+msgstr "LAN"
+
+msgid "DHPerformanceWarning.OkButton.Caption"
+msgstr "OK"
+
+msgid "DHScoreBoard.ScoreboardColumns<8>.Title"
+msgstr "Ping"
+
+msgid "DHServerBrowser.WelcomeMessageText"
+msgstr ""
+"Witamy w Darkest Hour: Europe '44-'45! Dołącz do ponad 5000-osobowej "
+"społeczności na Discordzie, aby dyskutować o grze, zgłaszać sugestie lub "
+"błędy! Do zobaczenia na polu bitwy!"
+
+msgid "DHServerBrowser.WelcomeMessageDiscordButtonText"
+msgstr "Dołącz na Discord"
+
+msgid "DHServerBrowser.WelcomeMessagePlayButtonText"
+msgstr "Rozpocznij grę!"
+
+msgid "DHServerBrowser.PanelCaption<0>"
+msgstr "Ulubione"
+
+msgid "DHServerBrowser.PanelHint<0>"
+msgstr "Wybierz serwer do którego chcesz dołączyć spośród swoich ulubionych"
+
+msgid "DHServerBrowser.PanelHint<1>"
+msgstr "Zobacz wszystkie serwery DH aktualnie działających w twojej sieci LAN"
+
+msgid "DHServerBrowser.PanelHint<2>"
+msgstr "Wybierz spośród serwerów DH na całym świecie"
+
+msgid "DHServerBrowser.PanelHint<3>"
+msgstr "Zobacz wszystkie serwery RO aktualnie działających w twojej sieci LAN"
+
+msgid "DHServerBrowser.PanelHint<4>"
+msgstr "Wybierz spośród serwerów RO na całym świecie"
+
+msgid "DHServerBrowser.PanelHint<5>"
+msgstr "Wybierz spośród serwerów RO na całym świecie"
+
+msgid "DHServerBrowser.GameTypeCombo.Caption"
+msgstr "Tryb Gry"
+
+msgid "DHServerBrowser.ServerBrowserHeader.Caption"
+msgstr "Wyszukiwarka Serwerów"
+
+msgid "DHServerLoading.DeployingText"
+msgstr "Rozmieszczanie do {0}"
+
+msgid "DHSettingsPage.SettingHeader.Caption"
+msgstr "Ustawienia"
+
+msgid "DHTab_AudioSettings.DefaultActiveChannelEditBox.Caption"
+msgstr "Domyślna nazwa kanału"
+
+msgid "DHTab_AudioSettings.DisableGameMusic.Caption"
+msgstr "Wyłącz muzykę podczas gry"
+
+msgid "DHTab_AudioSettings.Dampen.Caption"
+msgstr "Tłumienie głośności gry podczas korzystania z VOIP"
+
+msgid "DHTab_Controls.captions_comm[3]"
+msgstr "Czat Oddziału"
+
+msgid "DHTab_Controls.captions_comm[10]"
+msgstr "Przełącz na kanał głosowy Oddziału"
+
+msgid "DHTab_Controls.captions_game[5]"
+msgstr "Menu rozkazów oddziału"
+
+msgid "DHTab_Controls.captions_game[6]"
+msgstr "Menu oddziału"
+
+msgid "DHTab_Controls.captions_game[7]"
+msgstr "Automatyczne dołączanie do oddziału"
+
+msgid "DHTab_DetailSettings.DetailDetailTextures.Caption"
+msgstr "Szczegółowość tekstur"
+
+msgid "DHTab_DetailSettings.DetailForceFSAASS.Caption"
+msgstr "Wymuś zrzuty ekranu FSAA"
+
+msgid "DHTab_DetailSettings.DetailTextureDetail.Caption"
+msgstr "Szczegółowość tekstur"
+
+msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
+msgstr ""
+"Używany przez Dynamiczną Odległość Mgły do określenia kiedy rozpocząć "
+"zmniejszanie odległości mgły"
+
+msgid "DHTab_DetailSettings.RenderDeviceCombo.Caption"
+msgstr "Urządzenie renderujące"
+
+msgid "DHTab_DetailSettings.ScopeDetail.Caption"
+msgstr "Szczegółowość Lunety"
+
+msgid "DHTab_DetailSettings.sbSection1.Caption"
+msgstr "Podstawowe renderowanie"
+
+msgid "DHTab_DetailSettings.sbSection2.Caption"
+msgstr "Szczegóły Gry"
+
+msgid "DHTab_MainSP.OptionsContainer.Caption"
+msgstr "Opcje"
+
+msgid "DHTab_MainSP.RecommendedPlayers.Caption"
+msgstr "Najlepsza dla 4 do 8 graczy"
+
+msgid "DHTab_MainSP.MapPlayersText"
+msgstr "{min} graczy"
+
+msgid "DHTab_MainSP.MapPlayersRangeText"
+msgstr "{min}-{max} graczy"
+
+msgid "DHTab_ServerRulesPanel.WebadminPort.Caption"
+msgstr "Port WebAdmin"
+
+msgid "DHVideoChangePrompt.bCancel.Caption"
+msgstr "Przywróć ustawienia"
+
+msgid "DHVideoChangePrompt.bOk.Caption"
+msgstr "Pozostaw ustawienia"
+
+msgid "DHMidGameVoiceChat.NOSPEECH.Caption"
+msgstr "Ignorowanie Poleceń Głosowych"
+
+msgid "DHMidGameVoiceChat.NOSPEECH.Hint"
+msgstr ""
+"Nie otrzymuj od tego gracza żadnych poleceń głosowych, takich jak „Kryć się!”"
+
+msgid "DHMutatorConfigMenu.AdvancedButton.Caption"
+msgstr "Wyświetl Opcje Zaawansowane"
+
+msgid "DHQuitPage.YesButton.Caption"
+msgstr "TAK"
+
+msgid "DHPlayerSetupPage.psTitleBar.Caption"
+msgstr "Ustawienia gracza"
+
+msgid "DHQuitPage.NoButton.Caption"
+msgstr "NIE"
+
+msgid "DHQuitPage.QuitDesc.Caption"
+msgstr "Czy na pewno chcesz wyjść?"
+
+msgid "DHTab_Hud.GameBK1.Caption"
+msgstr "Style"
+
+msgid "DHTab_Hud.GameHudShowPersonalInfo.Caption"
+msgstr "Pokaż informacje osobiste"
+
+msgid "DHTab_MainSP.SelectionGroup.Caption"
+msgstr "Wybór mapy"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<1>"
+msgstr "Nie wybrałeś drużyny."
+
+msgid "DHDeployMenu.SquadsButtonObject.Hint"
+msgstr "Oddziały [F1]"
+
+msgid "DHGamePageSP.PageCaption"
+msgstr "Trening"
+
+msgid "DHGamePageSP.SPFooter.PrimaryCaption"
+msgstr "Rozpocznij grę treningową"
+
+msgid "DHMainMenu.InstantActionButton.Caption"
+msgstr "Trening"
+
+msgid "DHMapVotingPage.FilterEditbox.Caption"
+msgstr "Szukaj"
+
+msgid "DHMapVotingPage.GameTypeCombo.Caption"
+msgstr "Filtruj Tryb Gry:"
+
+msgid "DHMaplistEditor.ActiveBackground.Caption"
+msgstr "Wybrane Mapy"
+
+msgid "DHMaplistEditor.AddAllButton.Caption"
+msgstr "Dodaj Wszystkie"
+
+msgid "DHMaplistEditor.AddButton.Caption"
+msgstr "Dodaj"
+
+msgid "DHMaplistEditor.AvailBackground.Caption"
+msgstr "Dostępne Mapy"
+
+msgid "DHSettingsPage.PanelHint<0>"
+msgstr "Konfiguracja ustawień związanych z grą i siecią..."
+
+msgid "DHSettingsPage.PanelCaption<3>"
+msgstr "Sterowanie"
+
+msgid "DHSettingsPage.PanelCaption<4>"
+msgstr "Dane wejściowe"
+
+msgid "DHSettingsPage.PanelCaption<5>"
+msgstr "Interfejs (HUD)"
+
+msgid "DHMapVotingPage.NoChangeMapPrivilegeText"
+msgstr "Nie masz wystarczających uprawnień administratora, aby zmienić mapę!"
+
+msgid "DHMaplistEditor.DeleteMaplistButton.Caption"
+msgstr "Usuń"
+
+msgid "DHMaplistEditor.MapListSectionBackground.Caption"
+msgstr "Zapisane Listy Map"
+
+msgid "DHMaplistEditor.MoveDownButton.Caption"
+msgstr "W dół"
+
+msgid "DHMaplistEditor.MoveUpButton.Caption"
+msgstr "W górę"
+
+msgid "DHMaplistEditor.NewMaplistButton.Caption"
+msgstr "Nowy"
+
+msgid "DHMaplistEditor.RemoveAllButton.Caption"
+msgstr "Usuń wszystkie"
+
+msgid "DHMaplistEditor.RemoveButton.Caption"
+msgstr "Usuń"
+
+msgid "DHMutatorConfigMenu.LockedOKButton.Caption"
+msgstr "OK"
+
+msgid "DHNetworkStatusMessage.NetStatOk.Caption"
+msgstr "OK"
+
+msgid "DHNetworkStatusMsg.StatusTitle[12]"
+msgstr "Wykopano z sesji"
+
+msgid "DHScoreBoard.MunitionPercentageText"
+msgstr "Amunicja"
+
+msgid "DHScoreBoard.TickHealthText"
+msgstr "Tickrate: "
+
+msgid "DHServerBrowser.PanelCaption<4>"
+msgstr "Internet"
+
+msgid "DHServerBrowser.PanelCaption<5>"
+msgstr "Internet"
+
+msgid "DHSettingsPage.PanelCaption<0>"
+msgstr "Gra"
+
+msgid "DHSettingsPage.PanelCaption<1>"
+msgstr "Video"
+
+msgid "DHSettingsPage.PanelCaption<2>"
+msgstr "Audio"
+
+msgid "DHSettingsPage.PanelHint<2>"
+msgstr "Dostosuj dźwięk..."
+
+msgid "DHSettingsPage.PanelHint<5>"
+msgstr "Dostosuj swój HUD..."
+
+msgid "DHSettingsPage.PanelHint<6>"
+msgstr "jak ty to zrobiłeś?"
+
+msgid "DHSettings_Footer.BackB.Caption"
+msgstr "Wstecz"
+
+msgid "DHSettings_Footer.DefaultB.Caption"
+msgstr "Domyślne"
+
+msgid "DHTab_AudioSettings.AudioBK1.Caption"
+msgstr "System Audio"
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Caption"
+msgstr "Maksymalna liczba kanałów audio"
+
+msgid "DHTab_AudioSettings.AudioDefaultDriver.Caption"
+msgstr "Sterownik systemowy"
+
+msgid "DHTab_AudioSettings.AudioLowDetail.Caption"
+msgstr "Niska szczegółowość dźwięku"
+
+msgid "DHTab_AudioSettings.AudioMessageBeep.Caption"
+msgstr "Sygnał dźwiękowy wiadomości"
+
+msgid "DHTab_AudioSettings.AudioMode.Caption"
+msgstr "Tryb audio"
+
+msgid "DHTab_AudioSettings.AudioReverseStereo.Caption"
+msgstr "Odwrócone stereo"
+
+msgid "DHTab_AudioSettings.EnableVoiceChat.Caption"
+msgstr "Włącz czat głosowy"
+
+msgid "DHTab_AudioSettings.VoiceQuality.Caption"
+msgstr "Jakość Internetu"
+
+msgid "DHTab_MainSP.ScrollSection.Caption"
+msgstr "Opis mapy"
+
+msgid "DHTab_MutatorSP.ActiveBackground.Caption"
+msgstr "Aktywne Mutatory"
+
+msgid "DHTab_MutatorSP.AvailBackground.Caption"
+msgstr "Dostępne Mutatory"
+
+msgid "DHTab_MutatorSP.DescriptionBackground.Caption"
+msgstr "Szczegóły Mutatora"
+
+msgid "DHTab_MutatorSP.IAMutatorAll.Caption"
+msgstr "Dodaj wszystkie"
+
+msgid "DHTab_MutatorSP.IAMutatorClear.Caption"
+msgstr "Usuń wszystkie"
+
+msgid "DHTab_ServerRulesPanel.AdvancedButton.Caption"
+msgstr "Wyświetl opcje zaawansowane"
+
+msgid "DHTab_ServerRulesPanel.EnableWebadmin.Caption"
+msgstr "Włącz WebAdmin"
+
+msgid "DHTab_ServerRulesPanel.LANServer.Caption"
+msgstr "Serwer LAN"
+
+msgid "DHDeployMenu.RecommendJoiningSquadText"
+msgstr ""
+"BARDZO ZALECA SIĘ DOŁĄCZENIE DO ODDZIAŁU przed odrodzeniem! Dołączenie do "
+"oddziału zapewnia dodatkowe opcje rozmieszczenia i pozwala szybciej dostać "
+"się do walki.||Czy chcesz teraz automatycznie dołączyć do oddziału?"
+
+msgid "DHGUISquadComponent.CreateSquadButton.Caption"
+msgstr "Stwórz Oddział"
+
+msgid "DHGUISquadComponent.JoinSquadButton.Caption"
+msgstr "Dołącz do oddziału"
+
+msgid "DHGUISquadComponent.LeaveSquadButton.Caption"
+msgstr "Opuść oddział"
+
+msgid "DHGUISquadComponent.NoRallyPointsImage.Hint"
+msgstr ""
+"Ten oddział od jakiegoś czasu nie miał punktów zbiórki. Opcje rozmieszczenia "
+"mogą być ograniczone!"
+
+msgid "DHScoreBoard.NetHealthText"
+msgstr "Utrata: "
+
+msgid "DHScoreBoard.NoPlayersText"
+msgstr "Brak graczy"
+
+msgid "DHScoreBoard.ScoreboardColumns<0>.Title"
+msgstr "#"
+
+msgid "DHScoreBoard.ScoreboardColumns<6>.Title"
+msgstr "Ś"
+
+msgid "DHScoreBoard.ScoreboardColumns<7>.Title"
+msgstr "Wynik"
+
+msgid "DHMaplistEditor.RenameMaplistButton.Caption"
+msgstr "Zmiana nazwy"
+
+msgid "DHTab_MutatorSP.IAMutatorAdd.Caption"
+msgstr "Dodaj"
+
+msgid "DHScoreBoard.ScoreboardColumns<5>.Title"
+msgstr "Z"
+
+msgid "DHScoreBoard.ScoreboardColumns<2>.Title"
+msgstr "Rola"
+
+msgid "DHTab_AudioSettings.AudioBK3.Caption"
+msgstr "Czat głosowy"
+
+msgid "DHTab_AudioSettings.AudioEffectsVolumeSlider.Caption"
+msgstr "Głośność efektów"
+
+msgid "DHTab_AudioSettings.AudioMusicVolume.Caption"
+msgstr "Głośność muzyki"
+
+msgid "DHTab_AudioSettings.AudioPlayVoices.Caption"
+msgstr "Odtwarzanie wiadomości głosowych"
+
+msgid "DHScoreBoard.PlayersText"
+msgstr "Gracze"
+
+msgid "DHServerLoading.AuthorText"
+msgstr "Autor: {0}"
+
+msgid "DHSettingsPage.PanelHint<1>"
+msgstr "Wybierz rozdzielczość lub zmień ustawienia wyświetlania i szczegółów..."
+
+msgid "DHSettingsPage.PanelHint<3>"
+msgstr "Skonfiguruj sterowanie klawiaturą i myszą..."
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Hint"
+msgstr "Liczba kanałów dźwiękowych, których gra może używać jednocześnie"
+
+msgid "DHTab_AudioSettings.AutoJoinPublic.Caption"
+msgstr "Automatyczne dołączanie do kanału publicznego"
+
+msgid "DHTab_AudioSettings.AutoSpeakCheckbox.Caption"
+msgstr "Automatyczny wybór aktywnego kanału"
+
+msgid "DHMapVoteMultiColumnListBox.AdminMapContextMenu.ContextItems<0>"
+msgstr "ADMIN: Wymuś mapę na wybraną"
+
+msgid "DHMapVotingPage.NoRestartMapPrivilegeText"
+msgstr ""
+"Nie masz wystarczających uprawnień administratora, aby zrestartować mapę!"
+
+msgid "DHMutatorConfigMenu.LockedCancelButton.Caption"
+msgstr "Anuluj"
+
+msgid "DHNetworkStatusMsg.StatusMessages[12]"
+msgstr ""
+"Zostałeś wyrzucony do końca bieżącej rundy.|Jeśli administrator cię nie "
+"ukarał, jest to domyślna kara za zabójstwo drużynowe, więc nie rób tego."
+
+msgid "DHSettingsPage.PanelHint<4>"
+msgstr "Konfiguracja różnych opcji wejścia..."
+
+msgid "DHTab_AudioSettings.ChatPasswordEdit.Caption"
+msgstr "Hasło do czatu"
+
+msgid "DHTab_MainSP.MapAuthorLabel.Caption"
+msgstr "Testowanie"
+
+msgid "DHTab_Input.InputMouseLag.Hint"
+msgstr "Włączenie tej opcji zmniejszy opóźnienie myszy."
+
+msgid "DHTab_Input.InputMousePollRate.Caption"
+msgstr "Częstotliwość odpytywania myszy"
+
+msgid "DHTab_Input.InputMouseSensitivity.Caption"
+msgstr "Czułość Myszki (Gra)"
+
+msgid "DHTab_Input.InputMouseSmoothStr.Caption"
+msgstr "Siła wygładzania myszy"
+
+msgid "DHTab_Input.InputMouseSmoothing.Caption"
+msgstr "Wygładzanie myszy"
+
+msgid "DHTab_Input.InputScopedFactor.Caption"
+msgstr "Współczynnik czułości lunety i lornetki"
+
+msgid "DHTab_Input.InputUseJoystick.Caption"
+msgstr "Włącz joystick"
+
+msgid "DHTab_MainSP.DifficultyCombo.Caption"
+msgstr "Stopień trudności"
