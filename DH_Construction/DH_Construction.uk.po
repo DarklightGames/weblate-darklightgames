@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-02 19:43+0000\n"
+"PO-Revision-Date: 2025-07-04 06:55+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/uk/>\n"
@@ -165,9 +165,8 @@ msgstr "Показати більше"
 msgid "DHConstructionResupplyPlayers.MenuName"
 msgstr "Ящик з боєприпасами (піхота)"
 
-#, fuzzy
 msgid "DHConstructionResupplyPlayers.MenuDescription"
-msgstr "Забезпечую поповнення боєкомплекту піхоти."
+msgstr "Забезпечує поповнення боєкомплекту піхоти."
 
 msgid "DHConstructionResupplyVehicles.MenuName"
 msgstr "Ящик з боєприпасами (техніка)"
