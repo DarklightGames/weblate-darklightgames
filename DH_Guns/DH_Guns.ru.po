@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-14 01:43+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-04 06:55+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ru/>\n"
 "Language: ru\n"
@@ -406,11 +406,9 @@ msgstr "82мм Батальонный миномёт БМ-36"
 msgid "DH_BM36MortarCannon.ProjectileDescriptions<1>"
 msgstr "Дым"
 
-#, fuzzy
 msgid "DH_BM36MortarCannon.nProjectileDescriptions<0>"
 msgstr "О-832"
 
-#, fuzzy
 msgid "DH_BM36MortarCannon.nProjectileDescriptions<1>"
 msgstr "Д-832"
 
