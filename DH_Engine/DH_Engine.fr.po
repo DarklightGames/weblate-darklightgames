@@ -1,7 +1,98 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-05 23:54+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"Language-Team: French <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_engine/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "DHATCannonMessage.VehicleIsEnemy"
+msgstr "Vous ne pouvez pas utiliser un canon ennemi"
+
+msgid "DHATCannonMessage.CannotEnter"
+msgstr "Le canon est déjà occupé"
+
+msgid "DHATCannonMessage.NotQualified"
+msgstr "Non qualifié pour utiliser ce canon"
+
+msgid "DHATCannonMessage.GunIsRotating"
+msgstr "Le canon est en train d'être pivoté"
+
+msgid "DHATLoadMessage.LoadedGunner"
+msgstr "Vous avez rechargé {0}"
+
+msgid "DHAlliedEngineerRoles.MyName"
+msgstr "Sapeur"
+
+msgid "DHAdminMessage.AlliedTeamNameGenitive"
+msgstr "Alliés"
+
+msgid "DHAdminMessage.AxisTeamNameGenitive"
+msgstr "Axe"
+
+msgid "DHATGunTouchMessage.Controls<0>.Text"
+msgstr "Entrer"
+
+msgid "DHATGunTouchMessage.Controls<1>.Text"
+msgstr "Pivoter"
+
+msgid "DHAlliedMachineGunnerRoles.MyName"
+msgstr "Mitrailleur"
+
+msgid "DHAlliedTankCrewmanRoles.MyName"
+msgstr "Équipage de char"
+
+msgid "DHAlliedSniperRoles.MyName"
+msgstr "Tireur de précision"
+
+msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
+msgstr "Finir"
+
+msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
+msgstr "Pivoter"
+
+msgid "DHAccessControl.IPBanned"
+msgstr "Vous ne pouvez pas rejoindre ce serveur comme vous avez été banni."
+
+msgid "DHAccessControl.SessionBanned"
+msgstr ""
+"Vous ne pouvez pas rejoindre ce serveur tant qu'il n'a pas changé de niveau."
+
+msgid "DHAlliedAntiTankRoles.MyName"
+msgstr "Anti-char"
+
+msgid "DHATLoadMessage.BeenLoaded"
+msgstr "Vous avez été rechargé par {0}"
+
+msgid "DHATLoadFailMessage.CantLoad"
+msgstr "{0} doit être déployé pour être rechargé"
+
+msgid "DHATLoadMessage.UnLoaded"
+msgstr "Roquette déchargée"
+
+msgid "DHAlliedAutoRifleRoles.MyName"
+msgstr "Tireur FM"
+
+msgid "DHAlliedAssaultRoles.MyName"
+msgstr "Soldat de choc"
+
+msgid "DHAlliedCorporalRoles.MyName"
+msgstr "Caporal"
+
+msgid "DHAlliedRiflemanRoles.MyName"
+msgstr "Fusilier"
+
+msgid "DHAlliedRadioOperatorRoles.MyName"
+msgstr "Opérateur Radio"
+
+msgid "DHAlliedMortarmanRoles.MyName"
+msgstr "Tireur Mortier"
+
+msgid "DHAlliedSergeantRoles.MyName"
+msgstr "Sergent"
