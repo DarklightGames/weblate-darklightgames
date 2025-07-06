@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-06 09:50+0000\n"
+"PO-Revision-Date: 2025-07-06 19:10+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/fr/>\n"
@@ -29,3 +29,144 @@ msgstr "Rafraîchir"
 
 msgid "DHDeployMenu.SpawnVehicleImageObject.Hint"
 msgstr "Véhicule de réapparition"
+
+msgid "DHCommunicationPage.Panels<0>.Hint"
+msgstr "Gérer les communications avec les autres joueurs"
+
+msgid "DHBrowser_OpenIP.CancelButton.Caption"
+msgstr "ANNULER"
+
+msgid "DHBrowser_OpenIP.IPDesc.Caption"
+msgstr "Rentrer Nouvelle Adresse IP"
+
+msgid "DHBrowser_OpenIP.IpEntryBox.Caption"
+msgstr "Adresse IP : "
+
+msgid "DHBrowser_Footer.OnlyStandardCheckBox.Caption"
+msgstr "Serveurs Standards Seulement"
+
+msgid "DHBrowser_Footer.BrowserSpec.Caption"
+msgstr "Spectateur"
+
+msgid "DHBrowser_OpenIP.OkButton.Caption"
+msgstr "OK"
+
+msgid "DHContextMenu_SquadMembers.AdminPrefixText"
+msgstr "ADMIN :"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<0>"
+msgstr "Rejoindre Serveur"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<1>"
+msgstr "Rejoindre (Spectateur)"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<3>"
+msgstr "Rafraîchir Infos"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<4>"
+msgstr "Rafraîchir Liste"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<6>"
+msgstr "Configurer Filtres"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<7>"
+msgstr "Créer Modèle"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<8>"
+msgstr "Désactiver Tous Filtres"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<10>"
+msgstr "Ajouter aux Favoris"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<11>"
+msgstr "Copier adresse serveur"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<12>"
+msgstr "Ouvrir IP"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<1>"
+msgstr "Nom du Serveur"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<2>"
+msgstr "Santé"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<3>"
+msgstr "Localisation"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<4>"
+msgstr "Version"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<5>"
+msgstr "Carte"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<6>"
+msgstr "Joueurs"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<7>"
+msgstr "Latence"
+
+msgid "DHCommunicationPage.Panels<0>.Caption"
+msgstr "Communication"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<1>"
+msgstr "Inviter {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<3>"
+msgstr "Bannir {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<2>"
+msgstr "Expulser {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<4>"
+msgstr "Promouvoir {0} au poste de chef de groupe"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<5>"
+msgstr "Attribuer le poste d'assistant à {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<6>"
+msgstr "Démettre {0} du poste d'assistant"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<7>"
+msgstr "Se porter volontaire en tant qu'assistant"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<8>"
+msgstr "Demander de fusionner les groupes"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<10>"
+msgstr "{1} Parachuter {0} sur le marqueur"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<11>"
+msgstr "{1} Parachuter GROUPE sur le chef de groupe"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<12>"
+msgstr "{1} Parachuter GROUPE sur le marqueur"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<13>"
+msgstr "{1} Parachuter joueurs non-attribués sur le marqueur"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<9>"
+msgstr "{1} Parachuter {0} sur le chef de groupe"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<14>"
+msgstr "{1} Promouvoir {0} au poste de chef de groupe"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<15>"
+msgstr "{1} Expulser {0} du groupe"
+
+msgid "DHCreditsPage.ProjectLeadsText"
+msgstr "Chefs de Projet"
+
+msgid "DHCreditsPage.ProgrammersText"
+msgstr "Programmeurs"
+
+msgid "DHCreditsPage.AnimatorsText"
+msgstr "Animateurs"
+
+msgid "DHCreditsPage.ModelersText"
+msgstr "Modélisateurs"
+
+msgid "DHCreditsPage.TextureArtistsText"
+msgstr "Textureurs"
+
+msgid "DHCreditsPage.ArtistsText"
+msgstr "Dessinateurs"
