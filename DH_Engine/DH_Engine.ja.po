@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-06 03:58+0000\n"
+"PO-Revision-Date: 2025-07-06 19:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ja/>\n"
@@ -24,4 +24,10 @@ msgid "DHArtillerySpottingScope.RightString"
 msgstr "右"
 
 msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
-msgstr "回る"
+msgstr "回転"
+
+msgid "DHCommandMenu_ATGun.Options<0>.ActionText"
+msgstr "回転"
+
+msgid "DHATGunTouchMessage.Controls<1>.Text"
+msgstr "回転"
