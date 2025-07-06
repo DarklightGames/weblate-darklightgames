@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-11 21:32+0000\n"
+"PO-Revision-Date: 2025-07-06 03:58+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/ja/>\n"
@@ -41,3 +41,6 @@ msgstr "もっと"
 
 msgid "DHConstruction_Resupply.ConstructionVerb"
 msgstr "置く"
+
+msgid "DHConstructionGroup_Ammunition.GroupName"
+msgstr "弾薬"
