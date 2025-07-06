@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-29 21:47+0000\n"
+"PO-Revision-Date: 2025-07-06 00:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
@@ -364,3 +364,9 @@ msgstr "ロック中"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadings<0>"
 msgstr "マップ名"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<0>"
+msgstr "サーバに入る"
+
+msgid "DHCreditsPage.CloseButton.Caption"
+msgstr "閉じる"
