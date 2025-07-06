@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-06 19:10+0000\n"
+"PO-Revision-Date: 2025-07-07 07:01+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/fr/>\n"
@@ -170,3 +170,102 @@ msgstr "Textureurs"
 
 msgid "DHCreditsPage.ArtistsText"
 msgstr "Dessinateurs"
+
+msgid "DHDeployMenu.ChangeTeamConfirmText"
+msgstr ""
+"Êtes-vous sûr de vouloir changer d'équipe ? (vous ne pourrez pas revenir en "
+"arrière pendant {s} secondes)"
+
+msgid "DHCreditsPage.WindowName"
+msgstr "Remerciements"
+
+msgid "DHDeployMenu.FreeChangeTeamConfirmText"
+msgstr "Êtes-vous sûr de vouloir changer d'équipe ?"
+
+msgid "DHDeployMenu.CantChangeTeamYetText"
+msgstr "Vous devez attendre {s} avant de pouvoir changer d'équipe"
+
+msgid "DHDeployMenu.LockText"
+msgstr "Verrouiller"
+
+msgid "DHDeployMenu.UnlockText"
+msgstr "Déverrouiller"
+
+msgid "DHDeployMenu.VehicleUnavailableString"
+msgstr "Le véhicule que vous aviez sélectionné n'est plus disponible."
+
+msgid "DHDeployMenu.LockedText"
+msgstr "Verrouillé"
+
+msgid "DHDeployMenu.BotsText"
+msgstr "BOTS"
+
+msgid "DHCreditsPage.VoiceActorsText"
+msgstr "Doubleurs"
+
+msgid "DHCreditsPage.CloseButton.Caption"
+msgstr "Fermer"
+
+msgid "DHDeployMenu.NoneText"
+msgstr "Aucun"
+
+msgid "DHDeployMenu.SelectRoleText"
+msgstr "Choisir un rôle"
+
+msgid "DHDeployMenu.SelectSpawnPointText"
+msgstr "Choisir un point de réapparition"
+
+msgid "DHDeployMenu.DeployInTimeText"
+msgstr "Appuyez sur Continuer pour apparaître ({0})"
+
+msgid "DHDeployMenu.DeployNowText"
+msgstr "Appuyez sur Continuer pour apparaître maintenant !"
+
+msgid "DHDeployMenu.ReservedString"
+msgstr "Réservé"
+
+msgid "DHDeployMenu.SquadOnlyText"
+msgstr "GROUPES SEULEMENT"
+
+msgid "DHDeployMenu.UnassignedPlayersCaptionText"
+msgstr "Non attribués"
+
+msgid "DHDeployMenu.NonSquadLeaderOnlyText"
+msgstr "NON-CHEFS SEULEMENT"
+
+msgid "DHDeployMenu.RoleLockedText"
+msgstr "VERROUILLÉ"
+
+msgid "DHDeployMenu.SurrenderConfirmBaseText"
+msgstr "Êtes-vous sûr de vouloir vous rendre ?"
+
+msgid "DHCreditsPage.OtherContributorsText"
+msgstr "Autres Contributeurs"
+
+msgid "DHCreditsPage.SpecialThanksText"
+msgstr "Remerciements Particuliers"
+
+msgid "DHDeployMenu.SquadLeadershipOnlyText"
+msgstr "CHEFS SEULEMENT"
+
+msgid "DHDeployMenu.RecommendJoiningSquadText"
+msgstr ""
+"Il est HAUTEMENT RECOMMANDÉ que vous rejoignez un GROUPE avant d'apparaître. "
+"Rejoindre un groupe vous donne des options de rôle supplémentaires et un "
+"déploiement plus proche des lignes de front.||Voulez-vous automatiquement "
+"rejoindre un groupe maintenant ?"
+
+msgid "DHCreditsPage.LevelDesignersText"
+msgstr "Concepteurs de Niveaux"
+
+msgid "DHCreditsPage.SoundArtistsText"
+msgstr "Concepteurs de Son"
+
+msgid "DHCreditsPage.LocalizationTeamText"
+msgstr "Équipe de Localisation"
+
+msgid "DHCreditsPage.CommunityAdminsText"
+msgstr "Administrateurs (Communauté)"
+
+msgid "DHCreditsPage.PastPatreonSupportersText"
+msgstr "Membres Patreon Passés"
