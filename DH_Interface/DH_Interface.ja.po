@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-06 00:25+0000\n"
+"PO-Revision-Date: 2025-07-06 03:58+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
@@ -18,7 +18,7 @@ msgid "DHGetDataMenu.CancelButton.Caption"
 msgstr "キャンセル"
 
 msgid "DHMainMenu.ServerButton.Caption"
-msgstr "サーバーリスト"
+msgstr "サーバリスト"
 
 msgid "DHFilterEdit.bCancel.Caption"
 msgstr "キャンセル"
@@ -370,3 +370,261 @@ msgstr "サーバに入る"
 
 msgid "DHCreditsPage.CloseButton.Caption"
 msgstr "閉じる"
+
+msgid "DHGUISquadComponent.LeaveSquadButton.Caption"
+msgstr "分隊を脱退"
+
+msgid "DHFilterListPage.bRemove.Caption"
+msgstr "削除"
+
+msgid "DHBrowser_Footer.OnlyStandardCheckBox.Caption"
+msgstr "標準サーバのみ"
+
+msgid "DHBrowser_OpenIP.IPDesc.Caption"
+msgstr "新しい IP アドレスを入力してください"
+
+msgid "DHBrowser_OpenIP.IpEntryBox.Caption"
+msgstr "IP アドレス: "
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<11>"
+msgstr "サーバアドレスをコピー"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<3>"
+msgstr "サーバ情報を更新"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<4>"
+msgstr "リストを更新"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<1>"
+msgstr "サーバ名"
+
+msgid "DHDeployMenu.NoneText"
+msgstr "なし"
+
+msgid "DHDeployMenu.SquadOnlyText"
+msgstr "分隊のみ"
+
+msgid "DHDeployMenu.SurrenderButtonText[1]"
+msgstr "戦い続けろ"
+
+msgid "DHDeployMenu.MapButtonObject.Hint"
+msgstr "地図 「F1」"
+
+msgid "DHFilterEdit.cbMutators.Caption"
+msgstr "ミューテータ:"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<0>"
+msgstr "マップの名前。"
+
+msgid "DHServerBrowser.WelcomeMessageDiscordButtonText"
+msgstr "Discord に参加"
+
+msgid "DHMaplistEditor.MoveUpButton.Caption"
+msgstr "上へ移動"
+
+msgid "DHMaplistEditor.MoveDownButton.Caption"
+msgstr "下に移動"
+
+msgid "DHMaplistEditor.DeleteMaplistButton.Caption"
+msgstr "削除"
+
+msgid "DHMaplistEditor.AddButton.Caption"
+msgstr "追加"
+
+msgid "DHMaplistEditor.AddAllButton.Caption"
+msgstr "すべて追加"
+
+msgid "DHTab_Controls.captions_game[6]"
+msgstr "分隊メニュー"
+
+msgid "DHTab_GameSettings.PlayerName.Caption"
+msgstr "プレイヤー名"
+
+msgid "DHTab_ServerRulesPanel.LANServer.Caption"
+msgstr "LAN サーバ"
+
+msgid "DHQuitPage.YesButton.Caption"
+msgstr "はい"
+
+msgid "DHServerBrowser.PanelCaption<0>"
+msgstr "お気に入り"
+
+msgid "DHScoreBoard.NoPlayersText"
+msgstr "プレイヤーなし"
+
+msgid "DHServerBrowser.PanelCaption<3>"
+msgstr "LAN"
+
+msgid "DHServerBrowser.ServerBrowserHeader.Caption"
+msgstr "サーバリスト"
+
+msgid "DHServerBrowser.GameTypeCombo.Caption"
+msgstr "ゲームタイプ"
+
+msgid "DHSettingsPage.PanelCaption<0>"
+msgstr "ゲーム"
+
+msgid "DHServerLoading.AuthorText"
+msgstr "作成者: {0}"
+
+msgid "DHSettings_Footer.DefaultB.Caption"
+msgstr "デフォルト"
+
+msgid "DHSettings_Footer.BackB.Caption"
+msgstr "戻る"
+
+msgid "DHTab_AudioSettings.DisableGameMusic.Caption"
+msgstr "プレイ中は音楽を止める"
+
+msgid "DHTab_AudioSettings.DefaultActiveChannelEditBox.Caption"
+msgstr "デフォルトチャンネル名"
+
+msgid "DHTab_Controls.Section_Inventory"
+msgstr "インベントリ"
+
+msgid "DHTab_Controls.Captions_Inventory[3]"
+msgstr "インベントリスロット 4"
+
+msgid "DHTab_Controls.Captions_Inventory[9]"
+msgstr "インベントリスロット 0"
+
+msgid "DHTab_Controls.Captions_Inventory[8]"
+msgstr "インベントリスロット 9"
+
+msgid "DHTab_Controls.Captions_Inventory[7]"
+msgstr "インベントリスロット 8"
+
+msgid "DHTab_Controls.Captions_Inventory[6]"
+msgstr "インベントリスロット 7"
+
+msgid "DHTab_Controls.Captions_Inventory[5]"
+msgstr "インベントリスロット 6"
+
+msgid "DHTab_Controls.Captions_Inventory[4]"
+msgstr "インベントリスロット 5"
+
+msgid "DHTab_DetailSettings.DetailProjectors.Caption"
+msgstr "プロジェクター"
+
+msgid "DHTab_DetailSettings.BrightnessSlider.Caption"
+msgstr "明るさ"
+
+msgid "DHTab_DetailSettings.VideoResolution.Caption"
+msgstr "解像度"
+
+msgid "DHTab_GameSettings.IDText"
+msgstr "ID:"
+
+msgid "DHTab_Hud.HintsCombo.Caption"
+msgstr "ヒントレベル"
+
+msgid "DHTab_Input.InputBK3.Caption"
+msgstr "微調整"
+
+msgid "DHTab_Input.InputBK1.Caption"
+msgstr "オプション"
+
+msgid "DHTab_MutatorSP.IAMutatorAdd.Caption"
+msgstr "追加"
+
+msgid "DHSettingsPage.PanelCaption<5>"
+msgstr "HUD"
+
+msgid "DHTab_GameSettings.CopyROIDButton.Caption"
+msgstr "ID をクリップボードにコピー"
+
+msgid "DHGUIMapComponent.SquadRallyPointDestroyText"
+msgstr "ラリポイントを削除"
+
+msgid "DHEditFavoritePage.IpEntryBox.Caption"
+msgstr "IP アドレス: "
+
+msgid "DHDeployMenu.SuicideButtonObject.Caption"
+msgstr "自殺"
+
+msgid "DHDeployMenu.ServersButtonObject.Caption"
+msgstr "サーバ"
+
+msgid "DHDeployMenu.RoundTimeLabelObject.Hint"
+msgstr "残り時間"
+
+msgid "DHDeployMenu.RetreatButtonObject.Caption"
+msgstr "撤退"
+
+msgid "DHDeployMenu.SettingsButtonObject.Caption"
+msgstr "設定"
+
+msgid "DHGUISquadComponent.JoinSquadButton.Caption"
+msgstr "分隊を参加"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<0>"
+msgstr "マップの名前。"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<3>"
+msgstr "ゲームタイプ"
+
+msgid "DHQuitPage.NoButton.Caption"
+msgstr "いいえ"
+
+msgid "DHQuitPage.QuitDesc.Caption"
+msgstr "本当に終了しますか？"
+
+msgid "DHServerBrowser.PanelCaption<1>"
+msgstr "LAN"
+
+msgid "DHTab_MainSP.ScrollSection.Caption"
+msgstr "マップの説明"
+
+msgid "DHMaplistEditor.RemoveButton.Caption"
+msgstr "削除"
+
+msgid "DHTab_Controls.Captions_Inventory[1]"
+msgstr "インベントリスロット 2"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[1]"
+msgstr "毎月"
+
+msgid "DHDeployMenu.AxisButtonObject.Hint"
+msgstr "枢軸軍に加勢"
+
+msgid "DHDeployMenu.AlliesButtonObject.Hint"
+msgstr "連合軍に加勢"
+
+msgid "DHFilterEdit.MutOpts[2]"
+msgstr "カスタム"
+
+msgid "DHFilterListPage.bEdit.Caption"
+msgstr "編集"
+
+msgid "DHScoreBoard.ScoreboardColumns<7>.Title"
+msgstr "スコア"
+
+msgid "DHTab_MutatorSP.IAMutatorAll.Caption"
+msgstr "すべて追加"
+
+msgid "DHTab_MutatorSP.IAMutatorClear.Caption"
+msgstr "すべて削除"
+
+msgid "DHTab_Hud.GameBK.Caption"
+msgstr "オプション"
+
+msgid "DHTab_GameSettings.DegreesText"
+msgstr "度"
+
+msgid "DHTab_Controls.Captions_Inventory[2]"
+msgstr "インベントリスロット 3"
+
+msgid "DHTab_Controls.Captions_Inventory[0]"
+msgstr "インベントリスロット 2"
+
+msgid "DHMaplistEditor.RenameMaplistButton.Caption"
+msgstr "名前変更"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[2]"
+msgstr "毎年"
+
+msgid "DHMaplistEditor.RemoveAllButton.Caption"
+msgstr "すべて削除"
+
+msgid "DHTab_GameSettings.PanelCaption"
+msgstr "ゲーム"
