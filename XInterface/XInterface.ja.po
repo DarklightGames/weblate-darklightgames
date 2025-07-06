@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-11 21:32+0000\n"
+"PO-Revision-Date: 2025-07-06 03:58+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/xinterface/ja/>\n"
@@ -21,4 +21,4 @@ msgid "GUIQuestionPage.ButtonNames<5>"
 msgstr "いいえ"
 
 msgid "ExtendedConsole.ServerFullMsg"
-msgstr "サーバーはいっぱい"
+msgstr "サーバはいっぱい"
