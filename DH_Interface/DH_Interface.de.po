@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-15 03:25+0000\n"
-"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
+"PO-Revision-Date: 2025-07-06 09:50+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/de/>\n"
 "Language: de\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DHBrowser_Footer.BrowserJoin.Caption"
 msgstr "Beitreten"
@@ -45,9 +45,8 @@ msgstr "Alliierten beitreten"
 msgid "DHDeployMenu.ContinueButtonObject.Caption"
 msgstr "Weiter"
 
-#, fuzzy
 msgid "DHDeployMenu.SpawnVehicleImageObject.Hint"
-msgstr "Einstiegsfahrzeug"
+msgstr "Einstiegfahrzeug"
 
 msgid "DHBrowser_Footer.BrowserFilter.Caption"
 msgstr "Filter"
