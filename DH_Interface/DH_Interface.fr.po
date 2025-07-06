@@ -1,7 +1,31 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-06 09:50+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"Language-Team: French <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_interface/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "DHBrowser_Footer.BrowserBack.Caption"
+msgstr "Revenir"
+
+msgid "DHBrowser_Footer.BrowserFilter.Caption"
+msgstr "Filtres"
+
+msgid "DHBrowser_Footer.BrowserJoin.Caption"
+msgstr "Rejoindre"
+
+msgid "DHBrowser_Footer.BrowserMain.Caption"
+msgstr "Principal"
+
+msgid "DHBrowser_Footer.BrowserRefresh.Caption"
+msgstr "Rafraîchir"
+
+msgid "DHDeployMenu.SpawnVehicleImageObject.Hint"
+msgstr "Véhicule de réapparition"
