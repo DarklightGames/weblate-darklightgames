@@ -1,2 +1,149 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-07-07 07:01+0000\n"
+"Last-Translator: Matty <pvtmattygaming11@gmail.com>\n"
+"Language-Team: Dutch <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_construction/nl/>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "DHCameraWeapon.ItemName"
+msgstr "Camera"
+
+msgid "DHCommandMenu_ConstructionGroup.NotAvailableText"
+msgstr "Niet beschikbaar"
+
+msgid "DHCommandMenu_ConstructionGroup.TeamLimitText"
+msgstr "Limiet bereikt"
+
+#, fuzzy
+msgid "DHCommandMenu_ConstructionGroup.BusyText"
+msgstr "Bezig"
+
+msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
+msgstr "Uitgeput"
+
+msgid "DHCommandMenu_ConstructionGroup.RemainingText"
+msgstr "{0} Resterend"
+
+msgid "DHCommandMenu_ConstructionGroup.MaxActiveText"
+msgstr "{0}/{1} Actief"
+
+msgid "DHConstructionControlsMessage.Controls<0>.Text"
+msgstr "Bevestigen"
+
+#, fuzzy
+msgid "DHConstruction_Sandbags_Bunker.MenuName"
+msgstr "Zandzakken (Bunker)"
+
+msgid "DHConstruction_Sandbags_Crescent.MenuName"
+msgstr "Zandzakken (Halve maan)"
+
+msgid "DHConstruction_Sandbags_Line.MenuName"
+msgstr "Zandzakken (Rechte lijn)"
+
+msgid "DHConstruction_SupplyCache.MenuName"
+msgstr "Bevoorradingspunt"
+
+msgid "DHConstruction_SupplyCache.MenuDescription"
+msgstr "Bewaart en creëert bevoorradingspunten."
+
+msgid "DHConstruction_SupplyCache.ConstructionVerb"
+msgstr "Plaatsen"
+
+#, fuzzy
+msgid "DHConstruction_VehiclePool.MenuName"
+msgstr "Voertuigenspawn"
+
+#, fuzzy
+msgid "DHConstruction_VehiclePool.MenuDescription"
+msgstr "Biedt een spawnpunt voor voertuigen voor het gehele team."
+
+msgid "DHConstruction_Watchtower.MenuName"
+msgstr "Uitkijktoren"
+
+msgid "DHCommandMenu_ConstructionGroup.MoreText"
+msgstr "Meer"
+
+msgid "DHConstructionControlsMessage.Controls<1>.Text"
+msgstr "Annuleren"
+
+msgid "DHConstructionControlsMessage.Controls<2>.Text"
+msgstr "Draaien"
+
+msgid "DHConstructionControlsMessage.Controls<3>.Text"
+msgstr "Resetten"
+
+msgid "DHConstructionControlsMessage.Controls<4>.Text"
+msgstr "Verander variant"
+
+msgid "DHConstructionControlsMessage.Controls<5>.Text"
+msgstr "Verander uiterlijk"
+
+msgid "DHConstructionGroup_Ammunition.GroupName"
+msgstr "Munitie"
+
+msgid "DHConstructionGroup_Debug.GroupName"
+msgstr "Debug"
+
+msgid "DHConstructionGroup_Defenses.GroupName"
+msgstr "Verdedigingswerken"
+
+msgid "DHConstructionGroup_Logistics.GroupName"
+msgstr "Logistiek"
+
+msgid "DHConstructionGroup_Obstacles.GroupName"
+msgstr "Obstakels"
+
+msgid "DHConstructionResupplyPlayers.MenuName"
+msgstr "Munitiekist (Infanterie)"
+
+msgid "DHConstructionResupplyPlayers.MenuDescription"
+msgstr "Dient als bevoorradingspunt voor de infanterie."
+
+msgid "DHConstructionResupplyVehicles.MenuName"
+msgstr "Munitiekist (Voertuigen)"
+
+msgid "DHConstructionResupplyVehicles.MenuDescription"
+msgstr "Dient als bevoorradingspunt voor voertuigen en geschut."
+
+msgid "DHConstruction_ConcertinaWire.MenuName"
+msgstr "Prikkeldraadversperring"
+
+msgid "DHConstruction_ConcertinaWire.MenuDescription"
+msgstr "Geschikt voor het weren van infanterie en lichte voertuigen."
+
+msgid "DHConstruction_DragonsTooth.MenuName"
+msgstr "Drakentanden"
+
+msgid "DHConstruction_DragonsTooth.MenuDescription"
+msgstr "Geschikt voor het weren van alle type voertuigen."
+
+msgid "DHConstruction_Foxhole.MenuName"
+msgstr "Schuttersputje"
+
+msgid "DHConstruction_Foxhole.ConstructionVerb"
+msgstr "Graven"
+
+msgid "DHConstruction_Hedgehog.MenuName"
+msgstr "Tsjechische egel"
+
+msgid "DHConstruction_Hedgehog.MenuDescription"
+msgstr "Geschikt voor het weren van lichte en middelzware voertuigen."
+
+msgid "DHConstruction_InventorySpawner.ConstructionVerb"
+msgstr "Plaatsen"
+
+msgid "DHConstruction_PlatoonHQ.MenuName"
+msgstr "Commandopost"
+
+#, fuzzy
+msgid "DHConstruction_PlatoonHQ.MenuDescription"
+msgstr "Biedt een spawnpunt voor het gehele team."
+
+msgid "DHConstruction_Resupply.ConstructionVerb"
+msgstr "Plaatsen"
