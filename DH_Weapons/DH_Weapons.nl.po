@@ -1,2 +1,280 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-07-07 07:01+0000\n"
+"Last-Translator: Matty <pvtmattygaming11@gmail.com>\n"
+"Language-Team: Dutch <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_weapons/nl/>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "DH_G43ScopedWeapon.NativeItemName"
+msgstr "Gewehr 43 (ZF4)"
+
+msgid "DH_BerettaM1934Weapon.ItemName"
+msgstr "Beretta model 1934"
+
+msgid "DH_FG42ScopedWeapon.NativeItemName"
+msgstr "Fallschirmjägergewehr 42 (ZFG42)"
+
+msgid "DH_Kar98NoCoverWeapon.NativeItemName"
+msgstr "Karabijn 98k (zonder vizierkap)"
+
+msgid "DH_M1928_30rndWeapon.ItemName"
+msgstr "M1928A1 Thompson (30 patronen)"
+
+#, fuzzy
+msgid "DH_M1T17CarbineWeapon.ItemName"
+msgstr "M1/T17 Snelvuur karabijn"
+
+msgid "DH_Kz8cmGrW42Vehicle.VehicleNameString"
+msgstr "Kurz 8cm GrW 42 (Mortier)"
+
+msgid "DH_Kz8cmGrW42Weapon.Description"
+msgstr "Kurz 8cm GrW 42 (Mortier)"
+
+msgid "DH_M1GrenadeWeapon.ItemName"
+msgstr "Mk II Handgranaat"
+
+msgid "DH_MG34Weapon.NativeItemName"
+msgstr "Maschinengewehr 34"
+
+#, fuzzy
+msgid "DH_MAB38Weapon.NativeItemName"
+msgstr "Moschetto Automatico Beretta M1938A"
+
+msgid "DH_Breda30Weapon.ItemName"
+msgstr "Breda model 1930"
+
+msgid "DH_F1GrenadeWeapon.NativeItemName"
+msgstr "F1 Handgranaat"
+
+msgid "DH_F1GrenadeWeapon.ItemName"
+msgstr "F1 Handgranaat"
+
+msgid "DH_FG42ScopedWeapon.ItemName"
+msgstr "FG 42 (ZFG42)"
+
+msgid "DH_FG42Weapon.NativeItemName"
+msgstr "Fallschirmjägergewehr 42"
+
+msgid "DH_FG42Weapon.ItemName"
+msgstr "FG 42"
+
+msgid "DH_G41Weapon.NativeItemName"
+msgstr "Gewehr 41(W)"
+
+msgid "DH_G41Weapon.ItemName"
+msgstr "G 41(W)"
+
+msgid "DH_G43ScopedWeapon.ItemName"
+msgstr "G 43 (ZF4)"
+
+msgid "DH_G43Weapon.NativeItemName"
+msgstr "Gewehr 43"
+
+msgid "DH_G43Weapon.ItemName"
+msgstr "G 43"
+
+msgid "DH_G98Weapon.NativeItemName"
+msgstr "Mauser Gewehr 98"
+
+msgid "DH_G98Weapon.ItemName"
+msgstr "G 98"
+
+msgid "DH_GLWeapon.ItemName"
+msgstr "StG 24 x7 Geballte Ladung"
+
+msgid "DH_GeratPIIWeapon.ItemName"
+msgstr "Gerat Potsdam II"
+
+msgid "DH_GeratPWeapon.ItemName"
+msgstr "Gerat Potsdam"
+
+msgid "DH_GreaseGunWeapon.ItemName"
+msgstr "M3 Grease Gun"
+
+msgid "DH_Kar98NoCoverWeapon.ItemName"
+msgstr "Kar 98k (zonder vizierkap)"
+
+#, fuzzy
+msgid "DH_Kar98ScopedWeapon.NativeItemName"
+msgstr "Karabijn 98k (ZF39)"
+
+msgid "DH_Kar98ScopedWeapon.ItemName"
+msgstr "Kar 98k (ZF39)"
+
+msgid "DH_Kar98ScopedZF41Weapon.ItemName"
+msgstr "Karabijn 98k (ZF41)"
+
+#, fuzzy
+msgid "DH_Kar98Weapon.NativeItemName"
+msgstr "Karabijn 98k"
+
+msgid "DH_Kar98Weapon.ItemName"
+msgstr "Kar 98k"
+
+msgid "DH_KorovinWeapon.ItemName"
+msgstr "Korovin 1941"
+
+msgid "DH_Kz8cmGrW42Weapon.NativeItemName"
+msgstr "Kurz 8cm GrW 42 (Mortier)"
+
+msgid "DH_Kz8cmGrW42Weapon.ItemName"
+msgstr "Kz 8cm GrW 42 Mortier"
+
+msgid "DH_LtypeGrenadeWeapon.ItemName"
+msgstr "O.T.O Type L Antitankgranaat"
+
+msgid "DH_M1924Weapon.NativeItemName"
+msgstr "M1924 Puska"
+
+msgid "DH_M1924Weapon.ItemName"
+msgstr "M1924 Geweer"
+
+msgid "DH_M1928_20rndWeapon.ItemName"
+msgstr "M1928A1 Thompson (20 patronen)"
+
+msgid "DH_M1928_50rndWeapon.ItemName"
+msgstr "M1928A1 Thompson (50 patronen)"
+
+msgid "DH_M1A1CarbineWeapon.ItemName"
+msgstr "M1A1 Carbine"
+
+msgid "DH_M1CarbineWeapon.ItemName"
+msgstr "M1 Carbine"
+
+msgid "DH_M1GarandWeapon.ItemName"
+msgstr "M1 Garand"
+
+msgid "DH_M2MortarVehicle.VehicleNameString"
+msgstr "60mm Mortier model M2"
+
+msgid "DH_M2MortarWeapon.ItemName"
+msgstr "60mm Mortier model M2"
+
+msgid "DH_M34GrenadeWeapon.NativeItemName"
+msgstr "OUG vz.34 Handgranaat"
+
+msgid "DH_M34GrenadeWeapon.ItemName"
+msgstr "RG-34 Handgranaat"
+
+msgid "DH_M38Weapon.ItemName"
+msgstr "Mosin M38"
+
+msgid "DH_M44Weapon.ItemName"
+msgstr "Mosin M44"
+
+msgid "DH_M712Weapon.ItemName"
+msgstr "Mauser M712 'Schnellfeuer'"
+
+#, fuzzy
+msgid "DH_M9530Weapon.NativeItemName"
+msgstr "Gewehr M95/30"
+
+msgid "DH_M9530Weapon.ItemName"
+msgstr "Mannlicher M95/30"
+
+#, fuzzy
+msgid "DH_M9531Weapon.NativeItemName"
+msgstr "31.M Puska"
+
+msgid "DH_MAB42Weapon.NativeItemName"
+msgstr "Moschetto Automatico Beretta M1938A/42"
+
+msgid "DH_MAB42Weapon.ItemName"
+msgstr "MAB model 1938-A/42"
+
+msgid "DH_MG34Weapon.ItemName"
+msgstr "MG 34"
+
+msgid "DH_MG42Weapon.NativeItemName"
+msgstr "Maschinengewehr 42"
+
+msgid "DH_MG42Weapon.ItemName"
+msgstr "MG 42"
+
+#, fuzzy
+msgid "DH_MKB42HWeapon.NativeItemName"
+msgstr "Maschinenkarabiner 42(H)"
+
+msgid "DH_MKB42HWeapon.ItemName"
+msgstr "Mkb 42(H)"
+
+msgid "DH_MN9130ScopedPEWeapon.ItemName"
+msgstr "Mosin M91/30 (PE)"
+
+msgid "DH_MN9130ScopedWeapon.ItemName"
+msgstr "Mosin M91/30 (PU)"
+
+#, fuzzy
+msgid "DH_30calWeapon.ItemName"
+msgstr "M1919A6 Browning middelzware mitrailleur"
+
+msgid "DH_AVT40Weapon.ItemName"
+msgstr "AVT-40"
+
+msgid "DH_BARNoBipodWeapon.ItemName"
+msgstr "Browning Automatic Rifle M1918A2 (Zonder tweepoot)"
+
+msgid "DH_BARWeapon.ItemName"
+msgstr "Browning Automatic Rifle M1918A2"
+
+msgid "DH_BHPWeapon.ItemName"
+msgstr "Browning High-Power"
+
+msgid "DH_BazookaM9Weapon.ItemName"
+msgstr "M9A1 Raketwerper (Bazooka)"
+
+msgid "DH_BazookaWeapon.ItemName"
+msgstr "M1A1 Raketwerper (Bazooka)"
+
+#, fuzzy
+msgid "DH_BrenWeapon.ItemName"
+msgstr "Bren Mk.II lichte mitrailleur"
+
+msgid "DH_C96Weapon.ItemName"
+msgstr "Mauser C96"
+
+msgid "DH_CarcanoM91Weapon.ItemName"
+msgstr "Carcano model 1891"
+
+msgid "DH_ColtM1911Weapon.ItemName"
+msgstr "Colt M1911A1"
+
+#, fuzzy
+msgid "DH_ColtM1914Weapon.ItemName"
+msgstr "Kongsberg Colt model 1914"
+
+msgid "DH_DP27LateWeapon.ItemName"
+msgstr "DP-27 Lichte mitrailleur"
+
+msgid "DH_DP27Weapon.ItemName"
+msgstr "DP-27 Lichte mitrailleur"
+
+msgid "DH_DT29Weapon.ItemName"
+msgstr "DT-29 Lichte mitrailleur"
+
+msgid "DH_DT29Ammo.ItemName"
+msgstr "DT29 Munitiemagazijn"
+
+msgid "DH_DP27Ammo.ItemName"
+msgstr "DP27 Munitiemagazijn"
+
+msgid "DH_EnfieldNo2Weapon.ItemName"
+msgstr "Enfield No.2"
+
+msgid "DH_EnfieldNo4ScopedWeapon.ItemName"
+msgstr "Enfield No.4 Mk.I (T) (No.32)"
+
+msgid "DH_EnfieldNo4Weapon.ItemName"
+msgstr "Lee Enfield No.4 Geweer"
+
+msgid "DH_M9531Weapon.ItemName"
+msgstr "31.M Geweer"
+
+msgid "DH_MAB38Weapon.ItemName"
+msgstr "MAB model 1938-A"
