@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-07 17:29+0000\n"
+"PO-Revision-Date: 2025-07-07 17:41+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/fr/>\n"
@@ -49,7 +49,7 @@ msgid "DH_NebelGranate39Weapon.ItemName"
 msgstr "Grenade fumigène NB 39"
 
 msgid "DH_OrangeSmokeWeapon.ItemName"
-msgstr "Grenade de signalisation RauchSichtzeichen Orange 160"
+msgstr "RauchSichtzeichen Orange 160"
 
 msgid "DH_ParachuteItem.ItemName"
 msgstr "Parachute"
