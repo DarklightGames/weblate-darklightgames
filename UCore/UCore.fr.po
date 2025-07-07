@@ -1,2 +1,45 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-07-07 17:29+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"Language-Team: French <https://weblate.darklightgames.com/projects/"
+"darkesthour/ucore/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "DateTime.DayOfWeekNames[0]"
+msgstr "Dimanche"
+
+msgid "DateTime.DayOfWeekNames[5]"
+msgstr "Vendredi"
+
+msgid "DateTime.DayOfWeekNames[1]"
+msgstr "Lundi"
+
+msgid "DateTime.DayOfWeekNames[2]"
+msgstr "Mardi"
+
+msgid "DateTime.DayOfWeekNames[3]"
+msgstr "Mercredi"
+
+msgid "DateTime.DayOfWeekNames[4]"
+msgstr "Jeudi"
+
+msgid "DateTime.DayOfWeekNames[6]"
+msgstr "Samedi"
+
+msgid "UUnits.UnrealAngleSymbol"
+msgstr "u"
+
+msgid "UUnits.DegreesSymbol"
+msgstr "°"
+
+msgid "UUnits.MilsSymbol"
+msgstr "mils"
+
+msgid "UUnits.RadiansSymbol"
+msgstr "rad"
