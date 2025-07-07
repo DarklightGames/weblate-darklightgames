@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-05 23:54+0000\n"
+"PO-Revision-Date: 2025-07-07 17:29+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_britishplayers/fr/>\n"
@@ -34,7 +34,7 @@ msgid "DHCWAntiTankRoles.MyName"
 msgstr "Chasseur de Char"
 
 msgid "DHCWSergeantRoles.MyName"
-msgstr "Corporal"
+msgstr "Caporal-chef"
 
 msgid "DHCWCorporalRoles.MyName"
-msgstr "Lance Corporal"
+msgstr "Caporal"
