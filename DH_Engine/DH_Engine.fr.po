@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-05 23:54+0000\n"
+"PO-Revision-Date: 2025-07-07 17:29+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -96,3 +96,241 @@ msgstr "Tireur Mortier"
 
 msgid "DHAlliedSergeantRoles.MyName"
 msgstr "Sergent"
+
+msgid "DHArtilleryMessage.UnavailableText"
+msgstr "{name} est indisponible en ce moment."
+
+msgid "DHArtillerySpottingScope.TargetToggleHint"
+msgstr "Appuyez sur {0} pour basculer sur chaque cible"
+
+msgid "DHAdminMessage.PlacedSpawnMessage"
+msgstr "L'Admin '{0}' a placé un spawn pour l'équipe {1}."
+
+msgid "DHArtilleryMessage.ExhaustedText"
+msgstr "{name} a été épuisé."
+
+msgid "DHAdminMessage.DestroyedSpawnMessage"
+msgstr "L'Admin '{0}' a détruit un spawn créé par admin de l'équipe {1}."
+
+msgid "DHAdminMessage.DestroyedAllSpawnsMessage"
+msgstr ""
+"L'Admin '{0}' a détruit tous les spawns placés par admin de l'équipe {1}."
+
+msgid "DHAdminMessage.AdminTeleportedMessage"
+msgstr "L'Admin '{0}' s'est téléporté."
+
+msgid "DHArtilleryMessage.DenyText"
+msgstr "{name} refusé."
+
+msgid "DHArtilleryMessage.TooSoonText"
+msgstr "{name} déjà utilisé. Veuillez réessayer plus tard."
+
+msgid "DHArtilleryMessage.ActiveTargetChosen"
+msgstr "Cible d'appui feu sélectionnée."
+
+msgid "DHAxisAssaultRoles.MyName"
+msgstr "Soldat de Choc"
+
+msgid "DHAxisCorporalRoles.MyName"
+msgstr "Caporal"
+
+msgid "DHAxisEngineerRoles.MyName"
+msgstr "Sapeur"
+
+msgid "DHAxisMachineGunnerRoles.MyName"
+msgstr "Mitrailleur"
+
+msgid "DHAxisMarksmanRoles.MyName"
+msgstr "Tireur d'Élite"
+
+msgid "DHCommandMenu_FireSupport.Options<1>.ActionText"
+msgstr " "
+
+msgid "DHCommandMenu_FireSupport.Options<2>.ActionText"
+msgstr " "
+
+msgid "DHCommandMenu_LoneWolf.AutoJoinSquadDisabledText"
+msgstr "Aucun groupe accessible"
+
+msgid "DHCommandMenu_FireSupport.AvailableAirstrikesText"
+msgstr "Frappes Aériennes : {0}"
+
+msgid "DHCommandMenu_FireSupport.Options<0>.ActionText"
+msgstr " "
+
+msgid "DHCommandMenu_LoneWolf.Options<0>.ActionText"
+msgstr "Rejoindre un Groupe automatiquement"
+
+msgid "DHAdminMessage.KickedFromSquadMessage"
+msgstr "L'Admin '{0}' a expulsé '{1}' du groupe '{2}'."
+
+msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
+msgstr "L'Admin '{0}' a promu '{1}' pour mener le groupe '{2}'."
+
+msgid "DHArtilleryTargetMessage.TargetMarkedHE"
+msgstr "{0} a marqué une cible pour un tir d'obus explosifs"
+
+msgid "DHArtilleryTargetMessage.TargetMarkedSmoke"
+msgstr "{0} a marqué une cible pour un tir d'obus fumigènes"
+
+msgid "DHArtilleryTargetMessage.CannotMarkTargetYet"
+msgstr "Vous ne pouvez pas marquer une autre cible pour l'instant"
+
+msgid "DHArtilleryTargetMessage.TooManyArtilleryTargets"
+msgstr "Il y a trop de cibles actives"
+
+msgid "DHAxisAntiTankRoles.MyName"
+msgstr "Chasseur de Chars"
+
+msgid "DHArtillerySpottingScope.RangeHeaderString"
+msgstr "Portée"
+
+msgid "DHArtillerySpottingScope.SelectTargetHint"
+msgstr "Appuyez sur {0} pour sélectionner une cible"
+
+msgid "DHArtilleryTargetMessage.TargetInvalid"
+msgstr "Cible invalide"
+
+msgid "DHAxisMortarmanRoles.MyName"
+msgstr "Tireur Mortier"
+
+msgid "DHAxisRadioOperatorRoles.MyName"
+msgstr "Opérateur Radio"
+
+msgid "DHAxisRiflemanRoles.MyName"
+msgstr "Fusilier"
+
+msgid "DHCommandMenu_Radio.AvailableText"
+msgstr "Disponible"
+
+msgid "DHArtillery.MenuName"
+msgstr "Artillerie longue portée"
+
+msgid "DHArtilleryMessage.RequestText"
+msgstr "Demande {name}."
+
+msgid "DHArtilleryMessage.ConfirmText"
+msgstr "{name} confirmé."
+
+msgid "DHArtilleryMessage.BadLocationText"
+msgstr "Emplacement cible invalide pour {name}."
+
+msgid "DHArtilleryMessage.NoTargetText"
+msgstr "Pas d'emplacement cible."
+
+msgid "DHArtilleryMessage.NotQualifiedText"
+msgstr "Vous n'êtes pas qualifiés pour demander un {name}."
+
+msgid "DHArtilleryMessage.CancelledText"
+msgstr "{name} a été annulé."
+
+msgid "DHCommandMenu_ATGun.FatalText"
+msgstr "Pivotement indisponible"
+
+msgid "DHArtillerySpottingScope.SquadText"
+msgstr "Groupe"
+
+msgid "DHArtillerySpottingScope.SelectedTargetText"
+msgstr "Cible sélectionnée"
+
+msgid "DHArtillerySpottingScope.MeasurementToolText"
+msgstr "Outil de Mesure"
+
+msgid "DHAxisSergeantRoles.MyName"
+msgstr "Sergent"
+
+msgid "DHAxisSniperRoles.MyName"
+msgstr "Tireur de Précision"
+
+msgid "DHAxisTankCrewmanRoles.MyName"
+msgstr "Équipage de Char"
+
+msgid "DHCommandMenu_ATGun.EnemyGunText"
+msgstr "Impossible de pivoter un canon ennemi"
+
+msgid "DHCommandMenu_FireSupport.OffMapSupportExhaustedText"
+msgstr "Épuisé"
+
+msgid "DHCommandMenu_FireSupport.AvailableArtilleryText"
+msgstr "Artillerie : {0}"
+
+msgid "DHCommandMenu_FireSupport.AvailableParadropsText"
+msgstr "Parachutages : {0}"
+
+msgid "DHCommandMenu_LoneWolf.Options<1>.ActionText"
+msgstr "Créer Groupe"
+
+msgid "DHCommandMenu_Patron.Options<0>.ActionText"
+msgstr "Construction"
+
+msgid "DHCommandMenu_Patron.Options<1>.ActionText"
+msgstr "Repérage"
+
+msgid "DHCommandMenu_Radio.UnavailableText"
+msgstr "Indisponible"
+
+msgid "DHCommandMenu_Radio.ExhaustedText"
+msgstr "Épuisé"
+
+msgid "DHCommandMenu_Radio.UnqualifiedText"
+msgstr "Non qualifié"
+
+msgid "DHCommandMenu_Radio.OngoingText"
+msgstr "En cours"
+
+msgid "DHCommandMenu_Radio.CancelText"
+msgstr "En cours (Annuler)"
+
+msgid "DHArtillerySpottingScope.LeftString"
+msgstr "Gauche"
+
+msgid "DHArtillerySpottingScope.RightString"
+msgstr "Droite"
+
+msgid "DHArtillerySpottingScope.CorrectionString"
+msgstr "Correction"
+
+msgid "DHChatRoomMessage.CannotJoinSquadChannelText"
+msgstr ""
+"Impossible de rejoindre le canal `%title%`. Vous devez être dans un groupe."
+
+msgid "DHChatRoomMessage.CannotJoinCommandChannelText"
+msgstr ""
+"Impossible de rejoindre le canal `%title%`. Vous devez être Chef de Groupe "
+"ou Assistant, et votre groupe doit compter au moins deux membres."
+
+msgid "DHCommandMenu_ATGun.CannotBeRotatedText"
+msgstr "Impossible de pivoter"
+
+msgid "DHCommandMenu_ATGun.OccupiedText"
+msgstr "Le canon est occupé"
+
+msgid "DHArtillerySpottingScope.PitchHeaderString"
+msgstr "Élévation"
+
+msgid "DHArtillerySpottingScope.NoTargetsHint"
+msgstr "Aucune cible disponible"
+
+msgid "DHAdminMessage.AdminLoggedInMessage"
+msgstr "{0} s'est identifié en tant qu'administrateur du serveur."
+
+msgid "DHAdminMessage.AdminLoggedOutMessage"
+msgstr "{0} a renié ses droits d'administrateur."
+
+msgid "DHArtillerySpottingScope.DistanceString"
+msgstr "Distance"
+
+msgid "DHCommandMenu_ATGun.CooldownText"
+msgstr "Attendez"
+
+msgid "DHCommandMenu_ATGun.BusyText"
+msgstr "Mains occupées"
+
+msgid "DHCommandMenu_ATGun.Options<0>.ActionText"
+msgstr "Pivoter"
+
+msgid "DHCommandMenu_FireSupport.UnavailableText"
+msgstr "Indisponible"
+
+msgid "DHCommandMenu_FireSupport.InvalidTargetText"
+msgstr "Cible invalide"
