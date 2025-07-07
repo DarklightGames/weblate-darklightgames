@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-07 17:29+0000\n"
+"PO-Revision-Date: 2025-07-07 21:40+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -334,3 +334,178 @@ msgstr "Indisponible"
 
 msgid "DHCommandMenu_FireSupport.InvalidTargetText"
 msgstr "Cible invalide"
+
+msgid "DHCommandMenu_SquadManageNonMember.Options<0>.ActionText"
+msgstr "Inviter dans le Groupe"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<11>"
+msgstr "Vous ne pouvez pas {verb} un {name} près d'un point de spawn."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<13>"
+msgstr "Vous ne pouvez pas {verb} un {name} dans un objectif."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<14>"
+msgstr ""
+"Votre équipe ne peut plus {verb} de {name} (limite atteinte : {integer})."
+
+msgid "DHCommandMenu_SquadManageMember.Options<1>.SubjectText"
+msgstr "Promouvoir chef de groupe"
+
+msgid "DHCommandMenu_SquadManageMember.Options<2>.SubjectText"
+msgstr "Bannir du groupe"
+
+msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
+msgstr "Aucun Joueur "
+
+msgid "DHCommandMenu_SquadManageMember.Options<3>.SubjectText"
+msgstr "Faire assistant"
+
+msgid "DHCommandMenu_SquadLeader.Options<5>.ActionText"
+msgstr "Mouvement"
+
+msgid "DHCommandMenu_SquadManageMember.Options<4>.SubjectText"
+msgstr "Démettre assistant"
+
+msgid "DHCommandMenu_SquadManageMember.Options<0>.SubjectText"
+msgstr "Expulser du groupe"
+
+msgid "DHCommandPostMessage.DestroyedMessage"
+msgstr "Un {name} a été détruit."
+
+msgid "DHCommandPostMessage.ConstructedMessage"
+msgstr "Un {name} a été construit et sera établi dans {seconds} secondes."
+
+msgid "DHCommunicationMessage.AllChatDisabledMessage"
+msgstr "Le chat public est actuellement désactivé."
+
+msgid "DHCommandPostMessage.ActivatedMessage"
+msgstr "Un {name} a été établi."
+
+msgid "DHCommandPostMessage.OverrunMessage"
+msgstr "Un {name} a été débordé par l'ennemi."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<6>"
+msgstr "Pas assez de place ici pour {verb} un {name}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<7>"
+msgstr "Vous devez {verb} un {name} sur un terrain en terre."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<2>"
+msgstr "Vous devez {verb} un {name} sur un terrain solide."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<3>"
+msgstr "Le terrain est trop incliné pour {verb} un {name}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<4>"
+msgstr "Vous ne pouvez pas {verb} un {name} dans l'eau."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<5>"
+msgstr "Vous ne pouvez pas {verb} un {name} ici."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<18>"
+msgstr "Le sol est trop dur pour {verb} un {name} ici."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<15>"
+msgstr "Il n'y a pas de dépôt de matériel dans les {integer} mètres."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<16>"
+msgstr "Il n'y a pas assez de matériel pour {verb} un {name}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<17>"
+msgstr "Vous ne pouvez pas {verb} un {name} sur cette surface."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<20>"
+msgstr ""
+"Vous devez avoir {integer} membres dans votre groupe pour {verb} un {name}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<21>"
+msgstr "Vous ne pouvez pas {verb} un {name} pendant que vous êtes occupés."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<23>"
+msgstr ""
+"Trop près d'un objectif non-contrôlé ({string}), il faut être {integer}m "
+"plus loin."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<24>"
+msgstr "Vous devez {verb} un {name} dans les {integer}m d'un {string} allié"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<27>"
+msgstr "Cette alvéole est déjà occupée"
+
+msgid "DHConstructionSupplyAttachment.HumanReadableName"
+msgstr "Dépôt de Matériel"
+
+msgid "DHEnemyInformationMsg.EnemyIsSurrendering"
+msgstr "L'ennemi bat en retraite, la bataille sera bientôt terminée !"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<8>"
+msgstr "Trop près d'un {name} allié, il faut être {integer}m plus loin."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<9>"
+msgstr "Trop près d'un {name} allié, il faut être {integer}m plus loin."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<10>"
+msgstr "Vous ne pouvez pas {verb} un {name} dans un champ de mines."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<22>"
+msgstr "Trop près d'un objectif ({string}), il faut être {integer}m plus loin."
+
+msgid "DHConstruction_Vehicle.ConstructionVerb"
+msgstr "enterrer"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<25>"
+msgstr "Vous ne pouvez pas {verb} un {name} en territoire ennemi"
+
+msgid "DHConstructionGroup_Guns.GroupName"
+msgstr "Canons"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<26>"
+msgstr "Plus de {name} disponibles"
+
+msgid "DHConstructionSupplyAttachment_Static_Main.HumanReadableName"
+msgstr "Dépôt de Matériel Principal"
+
+msgid "DHEnemyInformationMsg.EnemyIsWeak"
+msgstr "L'ennemi est presque à court de renforts, la victoire est proche !"
+
+msgid "DHFireSupportMessage.OnMapArtilleryRequestConfirmedText"
+msgstr "Cible d'appui feu marquée."
+
+msgid "DHConstruction.ConstructionVerb"
+msgstr "construire"
+
+msgid "DHCommandMenu_SquadAssistant.Options<0>.ActionText"
+msgstr "Construction"
+
+msgid "DHCommandMenu_SquadLeader.Options<4>.ActionText"
+msgstr "Repérage"
+
+msgid "DHCommandMenu_SquadMenu.Options<0>.ActionText"
+msgstr "Quitter le Groupe"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<12>"
+msgstr "Vous ne pouvez pas {verb} un {name} à l'intérieur."
+
+msgid "DHCommandMenu_SquadAssistant.Options<1>.ActionText"
+msgstr "Repérage"
+
+msgid "DHCommandMenu_SquadLeader.InEnemyTerritory"
+msgstr "En territoire ennemi"
+
+msgid "DHCommandMenu_SquadLeader.Options<0>.ActionText"
+msgstr "Créer Point de Ralliement"
+
+msgid "DHCommandMenu_SquadLeader.Options<1>.ActionText"
+msgstr "Feu"
+
+msgid "DHCommandMenu_SquadLeader.Options<2>.ActionText"
+msgstr "Construction"
+
+msgid "DHCommandMenu_SquadManageNonMember.AlreadyInASquadText"
+msgstr "Déjà dans un groupe"
+
+msgid "DHCommandMenu_SquadManageNonMember.SquadIsFullText"
+msgstr "Groupe complet"
+
+msgid "DHFireSupportMessage.OffMapArtilleryRequestConfirmedText"
+msgstr "Cible d'appui feu longue portée marquée."
