@@ -1,7 +1,76 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-07 17:29+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"Language-Team: French <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_weapons/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "DH_Kar98NoCoverWeapon.NativeItemName"
+msgstr "Karabiner 98k (sans capot)"
+
+msgid "DH_M1924Weapon.ItemName"
+msgstr "Fusil M1924"
+
+msgid "DH_M9531Weapon.ItemName"
+msgstr "Fusil 31.M"
+
+msgid "DH_M1GrenadeWeapon.ItemName"
+msgstr "Grenade Mk. II"
+
+msgid "DH_F1GrenadeWeapon.ItemName"
+msgstr "Grenade F1"
+
+msgid "DH_LtypeGrenadeWeapon.ItemName"
+msgstr "Grenade Antichar O.T.O Tipo L"
+
+msgid "DH_F1GrenadeWeapon.NativeItemName"
+msgstr "Granata F1"
+
+msgid "DH_ZB30Weapon.ItemName"
+msgstr "Fusil Mitrailleur ZB-30"
+
+msgid "DH_PPSH41_StickWeapon.ItemName"
+msgstr "PPSh-41 (35 coups)"
+
+msgid "DH_Vz24ScopedWeapon.ItemName"
+msgstr "Fusil Vz. 24 (IOR)"
+
+msgid "DH_SatchelCharge10lb10sWeapon.ItemName"
+msgstr "Sacoche d'Explosifs (3kg)"
+
+msgid "DH_30calWeapon.ItemName"
+msgstr "Mitrailleuse M1919A6 Browning"
+
+msgid "DH_BARNoBipodWeapon.ItemName"
+msgstr "Browning Automatic Rifle M1918A2 (sans bipied)"
+
+msgid "DH_BARWeapon.ItemName"
+msgstr "Browning Automatic Rifle M1918A2"
+
+msgid "DH_DP27Ammo.ItemName"
+msgstr "Chargeur de DP27"
+
+msgid "DH_DT29Ammo.ItemName"
+msgstr "Chargeur de DT29"
+
+msgid "DH_Kar98NoCoverWeapon.ItemName"
+msgstr "Kar 98k (sans capot)"
+
+msgid "DH_M1928_20rndWeapon.ItemName"
+msgstr "M1928A1 Thompson (20 coups)"
+
+msgid "DH_M1928_30rndWeapon.ItemName"
+msgstr "M1928A1 Thompson (30 coups)"
+
+msgid "DH_M1928_50rndWeapon.ItemName"
+msgstr "M1928A1 Thompson (50 coups)"
+
+msgid "DH_Vz24Weapon.ItemName"
+msgstr "Fusil Vz. 24"
