@@ -1,7 +1,46 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-07 17:29+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"Language-Team: French <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_gerplayers/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "DH_WHArtilleryGunner.MyName"
+msgstr "Pointeur d'Artillerie"
+
+msgid "DHGerVoice.SupportStringAxis[5]"
+msgstr "Il nous faut un Panzerschreck !"
+
+msgid "DHZVoice.SupportAbbrevAxis[5]"
+msgstr "Besoin d'un Panzerschreck"
+
+msgid "DH_OstTruppenRifleman.MyName"
+msgstr "Fusilier (Osttruppen)"
+
+msgid "DHGerVoice.SupportAbbrevAxis[5]"
+msgstr "Besoin d'un Panzerschreck"
+
+msgid "DHNation_Germany.NationName"
+msgstr "Allemagne"
+
+msgid "DHZVoice.SupportStringAxis[5]"
+msgstr "Il nous faut un Panzerschreck !"
+
+msgid "DH_WHArtilleryOfficer.MyName"
+msgstr "Officier d'Artillerie"
+
+msgid "DH_ZBerserker.MyName"
+msgstr "Berserker"
+
+msgid "DH_WHSPCrew.MyName"
+msgstr "Équipage de Canon d'Assaut"
+
+msgid "DH_ZLeader.MyName"
+msgstr "Chef Zombie"
