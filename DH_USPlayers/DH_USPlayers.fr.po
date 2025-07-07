@@ -1,7 +1,22 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-07 17:29+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"Language-Team: French <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_usplayers/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "DHNation_USA.NationName"
+msgstr "États-Unis d'Amérique"
+
+msgid "DHUSVoice.SupportString[5]"
+msgstr "Il nous faut un Bazooka !"
+
+msgid "DHUSVoice.SupportAbbrev[5]"
+msgstr "Besoin d'un Bazooka"
