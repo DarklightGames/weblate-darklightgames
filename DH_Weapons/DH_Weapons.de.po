@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-10 06:10+0000\n"
+"PO-Revision-Date: 2025-07-07 21:43+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/de/>\n"
@@ -273,6 +273,7 @@ msgstr "PTRD-41 Panzerbüchse"
 msgid "DH_PanzerFaustWeapon.ItemName"
 msgstr "Panzerfaust 60"
 
+#, fuzzy
 msgid "DH_PanzerschreckWeapon.ItemName"
 msgstr "RPzB 54 'Panzerschreck'"
 
