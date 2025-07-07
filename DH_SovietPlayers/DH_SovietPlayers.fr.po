@@ -1,15 +1,22 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-08 01:15+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
-"Language-Team: French <https://weblate.darklightgames.com/projects/darkesthour/dh_sovietplayers/fr/>\n"
+"PO-Revision-Date: 2025-07-07 17:29+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"Language-Team: French <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_sovietplayers/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DHNation_Czechoslovakia.NationName"
 msgstr "Tchécoslovaquie"
+
+msgid "DHNation_Poland.NationName"
+msgstr "Armée Populaire Polonaise"
+
+msgid "DHNation_USSR.NationName"
+msgstr "Union des Républiques Socialistes Soviétiques"
