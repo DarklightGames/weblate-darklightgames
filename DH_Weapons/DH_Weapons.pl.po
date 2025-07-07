@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-07 21:43+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-07 22:08+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/pl/>\n"
 "Language: pl\n"
@@ -261,7 +261,6 @@ msgstr "Karabin Przeciwpancerny PTRD-41"
 msgid "DH_PanzerFaustWeapon.ItemName"
 msgstr "Panzerfaust 60"
 
-#, fuzzy
 msgid "DH_PanzerschreckWeapon.ItemName"
 msgstr "RPzB 54 'Panzerschreck'"
 
@@ -418,7 +417,6 @@ msgstr "PTRD-41"
 msgid "DH_PanzerFaustWeapon.NativeItemName"
 msgstr "Panzerfaust 60"
 
-#, fuzzy
 msgid "DH_PanzerschreckWeapon.NativeItemName"
 msgstr "Raketenpanzerbüchse 54 'Panzerschreck'"
 
