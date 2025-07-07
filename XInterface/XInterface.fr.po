@@ -1,2 +1,48 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-07-07 17:29+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"Language-Team: French <https://weblate.darklightgames.com/projects/"
+"darkesthour/xinterface/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "ExtendedConsole.ServerFullMsg"
+msgstr "Le serveur est désormais plein"
+
+msgid "GUIQuestionPage.ButtonNames<0>"
+msgstr "OK"
+
+msgid "GUIQuestionPage.ButtonNames<1>"
+msgstr "Annuler"
+
+msgid "GUIQuestionPage.ButtonNames<2>"
+msgstr "Réessayer"
+
+msgid "GUIQuestionPage.ButtonNames<3>"
+msgstr "Continuer"
+
+msgid "GUIQuestionPage.ButtonNames<4>"
+msgstr "Oui"
+
+msgid "GUIQuestionPage.ButtonNames<5>"
+msgstr "Non"
+
+msgid "GUIQuestionPage.ButtonNames<6>"
+msgstr "Abandonner"
+
+msgid "GUIQuestionPage.ButtonNames<7>"
+msgstr "Ignorer"
+
+msgid "ExtendedConsole.SMStateName[2]"
+msgstr "Acquiescer"
+
+msgid "ExtendedConsole.SMStateName[0]"
+msgstr "Commandes Vocales"
+
+msgid "HudBase.NowViewing"
+msgstr "Vous observez"
