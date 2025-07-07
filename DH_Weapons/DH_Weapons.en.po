@@ -351,10 +351,10 @@ msgid "DH_PanzerFaustWeapon.ItemName"
 msgstr "Panzerfaust 60"
 
 msgid "DH_PanzerschreckWeapon.NativeItemName"
-msgstr "Raketenpanzerbüchse 54 'Panzerschrek'"
+msgstr "Raketenpanzerbüchse 54 'Panzerschreck'"
 
 msgid "DH_PanzerschreckWeapon.ItemName"
-msgstr "RPzB 54 'Panzerschrek'"
+msgstr "RPzB 54 'Panzerschreck'"
 
 msgid "DH_ProxyWeapon.ItemName"
 msgstr " "
