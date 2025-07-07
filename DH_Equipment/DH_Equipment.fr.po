@@ -1,15 +1,95 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-08 01:14+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
-"Language-Team: French <https://weblate.darklightgames.com/projects/darkesthour/dh_equipment/fr/>\n"
+"PO-Revision-Date: 2025-07-07 17:29+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"Language-Team: French <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_equipment/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DHBinocularsItem.ItemName"
 msgstr "Jumelles"
+
+msgid "DHBrokenBottleItem.ItemName"
+msgstr "Vino Rosso 'Bass-net' 2009 Vintage"
+
+msgid "DHBinocularsItemAllied.ItemName"
+msgstr "M13 Binoculars 6x30"
+
+msgid "DHBinocularsItemGerman.ItemName"
+msgstr "Zeiss Dienstglas 6x30"
+
+msgid "DHBinocularsItemSoviet.ItemName"
+msgstr "BPP Optik 6x30"
+
+msgid "DHRadioItem.ItemName"
+msgstr "Radio"
+
+msgid "DHShovelItem.ItemName"
+msgstr "Pelle"
+
+msgid "DHShovelWarningMessage.CannotBeCrawling"
+msgstr "Vous ne pouvez pas creuser en rampant."
+
+msgid "DH_USSmokeGrenadeWeapon.ItemName"
+msgstr "Grenade fumigène M8"
+
+msgid "DH_RedSmokeWeapon.ItemName"
+msgstr "Grenade de signalisation M16"
+
+msgid "DH_RDG1SmokeGrenadeWeapon.ItemName"
+msgstr "Grenade fumigène RDG-1"
+
+msgid "DH_NebelGranate39Weapon.ItemName"
+msgstr "Grenade fumigène NB 39"
+
+msgid "DH_OrangeSmokeWeapon.ItemName"
+msgstr "Grenade de signalisation RauchSichtzeichen Orange 160"
+
+msgid "DH_ParachuteItem.ItemName"
+msgstr "Parachute"
+
+msgid "DH_ParachuteStaticLine.ItemName"
+msgstr "Ligne statique"
+
+msgid "DHBinocularsItemItalian.ItemName"
+msgstr "Fratelli Koristka 7x50"
+
+msgid "DHShovelWarningMessage.NeedMoreFriendliesToBuildMessage"
+msgstr ""
+"Il vous faut un coéquipier près de vous pour construire avec votre pelle !"
+
+msgid "DHTrenchMaceItem.ItemName"
+msgstr "Matraque de Tranchée"
+
+msgid "DHTrenchMaceItem_Bone.ItemName"
+msgstr "Matraque en Os"
+
+msgid "DHTrenchMaceItem_Grenade.ItemName"
+msgstr "Matraque de Tranchée"
+
+msgid "DHShovelItem_German.NativeItemName"
+msgstr "Feldspaten"
+
+msgid "DHWireCuttersItem.ItemName"
+msgstr "Cisaille à Barbelé"
+
+msgid "DH_NebelGranate39Weapon.NativeItemName"
+msgstr "Nebelhandgranate 39"
+
+msgid "DH_OrangeSmokeWeapon.NativeItemName"
+msgstr "RauchSichtzeichen Orange 160"
+
+msgid "DH_RDG1SmokeGrenadeWeapon.NativeItemName"
+msgstr "RDG-1"
+
+msgid "DHShovelItem_Italian.NativeItemName"
+msgstr "Pala Vanghetta"
+
+msgid "DHShovelItem_Russian.NativeItemName"
+msgstr "MPL-50"
