@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-18 10:43+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"PO-Revision-Date: 2025-07-07 21:43+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/ru/>\n"
 "Language: ru\n"
@@ -22,6 +22,7 @@ msgstr "Gerat Pоtsdam II"
 msgid "DH_G43ScopedWeapon.ItemName"
 msgstr "Винтовка G-43 (ZF4)"
 
+#, fuzzy
 msgid "DH_PanzerschreckWeapon.ItemName"
 msgstr "Гранатомёт RPzB 54 \"Панцершрек\""
 
@@ -418,6 +419,7 @@ msgstr "Maschinenpistole 41(r)"
 msgid "DH_MP41Weapon.NativeItemName"
 msgstr "Maschinenpistole 41"
 
+#, fuzzy
 msgid "DH_PanzerschreckWeapon.NativeItemName"
 msgstr "Raketenpanzerbüchse 54 \"Панцершрек\""
 
