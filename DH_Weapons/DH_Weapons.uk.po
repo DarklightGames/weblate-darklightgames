@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-11 06:43+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2025-07-07 21:43+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/uk/>\n"
 "Language: uk\n"
@@ -265,6 +265,7 @@ msgstr "ППШ-41 (71 патрон)"
 msgid "DH_PanzerFaustWeapon.ItemName"
 msgstr "Панцерфауст 60"
 
+#, fuzzy
 msgid "DH_PanzerschreckWeapon.ItemName"
 msgstr "RPzB 54 «Панцершрек»"
 
@@ -400,6 +401,7 @@ msgstr "РПГ-43"
 msgid "DH_M9530Weapon.NativeItemName"
 msgstr "Gewehr M95/30"
 
+#, fuzzy
 msgid "DH_PanzerschreckWeapon.NativeItemName"
 msgstr "Raketenpanzerbüchse 54 «Панцершрек»"
 
