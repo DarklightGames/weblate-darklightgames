@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-03 17:58+0000\n"
+"PO-Revision-Date: 2025-07-08 20:24+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/pl/>\n"
@@ -436,10 +436,10 @@ msgid "DHEditFavoritePage.IpEntryBox.Caption"
 msgstr "Adres IP: "
 
 msgid "DHFilterEdit.ComboOpts[2]"
-msgstr "Musi być wyłączone"
+msgstr "Muszą być wyłączone"
 
 msgid "DHFilterEdit.ComboOpts[1]"
-msgstr "Musi być włączone"
+msgstr "Muszą być włączone"
 
 msgid "DHFilterEdit.MutOpts[0]"
 msgstr "Bez Mutatorów"
