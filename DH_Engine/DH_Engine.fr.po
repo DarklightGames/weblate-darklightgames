@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-07 21:40+0000\n"
+"PO-Revision-Date: 2025-07-08 20:24+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -508,4 +508,236 @@ msgid "DHCommandMenu_SquadManageNonMember.SquadIsFullText"
 msgstr "Groupe complet"
 
 msgid "DHFireSupportMessage.OffMapArtilleryRequestConfirmedText"
-msgstr "Cible d'appui feu longue portée marquée."
+msgstr "Cible d'appui longue portée marquée."
+
+msgid "DHHintManager.Hints[42].Text"
+msgstr ""
+"Vous naviguez avec une barge Higgins. Abaissez la rampe de débarquement en "
+"appuyant sur %PREVWEAPON% pour que les passagers et vous puissiez sortir. "
+"Pour relever la rampe, appuyez sur %NEXTWEAPON%."
+
+msgid "DHHintManager.Hints[13].Text"
+msgstr ""
+"Vous êtes opérateur radio ! Restez à proximité des chefs de groupe pour "
+"qu'ils puissent demander un appui longue portée !"
+
+msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
+msgstr ""
+"Il vous faut un coéquipier auprès de vous pour déconstruire un Poste de "
+"Commandement ennemi !"
+
+msgid "DHHintManager.Hints[9].Text"
+msgstr ""
+"Vous pouvez quitter votre mortier à tout moment en appuyant sur la touche "
+"%Use%. Pendant ce temps, vous pouvez récupérer des munitions dans une zone "
+"de ravitaillement ou auprès de vos coéquipiers."
+
+msgid "DHHintManager.Hints[43].Text"
+msgstr ""
+"Vous êtes près d'un camion de ravitaillement. Placez-vous à l'arrière du "
+"camion pour vous réapprovisionner en munitions."
+
+msgid "DHHintManager.Hints[44].Title"
+msgstr "Camions de Ravitaillement"
+
+msgid "DHGameMessage.VehicleDestroyedMessage"
+msgstr "{0} a été détruit."
+
+msgid "DHGameMessage.EnteredMessage"
+msgstr "{name} a rejoint le combat."
+
+msgid "DHGameMessage.GlobalNameChange"
+msgstr "{old_name} a changé de nom pour {new_name}."
+
+msgid "DHGameMessage.VoteStarted"
+msgstr "{name} a lancé un vote."
+
+msgid "DHGameType.GameTypeName"
+msgstr "Type de Jeu Inconnu"
+
+msgid "DHHintManager.Hints[1].Text"
+msgstr ""
+"Vous pouvez escalader de petits obstacles ! Pour cela, placez-vous devant un "
+"obstacle bas jusqu'à ce que l'icône apparaisse, puis appuyez sur %JUMP% pour "
+"vous hisser sur l'obstacle."
+
+msgid "DHHintManager.Hints[2].Title"
+msgstr "Parachutes"
+
+msgid "DHHintManager.Hints[3].Title"
+msgstr "Grenades Fumigènes de Couleur"
+
+msgid "DHHintManager.Hints[6].Title"
+msgstr "Mortiers"
+
+msgid "DHHintManager.Hints[2].Text"
+msgstr ""
+"Vous pouvez guider la trajectoire de votre parachute avec vos touches de "
+"mouvement !"
+
+msgid "DHHintManager.Hints[3].Text"
+msgstr ""
+"Les grenades fumigènes colorées servent à communiquer avec vos coéquipiers "
+"sur le champ de bataille. Assurez-vous de bien expliquer à vos coéquipiers "
+"ce que signifie la fumée colorée."
+
+msgid "DHHintManager.Hints[10].Text"
+msgstr ""
+"Pour ranger votre mortier, appuyez sur la touche %Deploy%. En le rangeant, "
+"le gisement et la portée seront remis à zéro."
+
+msgid "DHHintManager.Hints[12].Title"
+msgstr "Jumelles"
+
+msgid "DHHintManager.Hints[12].Text"
+msgstr ""
+"Vous pouvez marquer des cibles pour l'appui feu avec vos jumelles. Utilisez "
+"vos jumelles avec %ROIRONSIGHTS%, puis maintenez %FIRE% enfoncé pour "
+"afficher le menu d'appui feu."
+
+msgid "DHHintManager.Hints[42].Title"
+msgstr "Higgins Boat"
+
+msgid "DHHintManager.Hints[40].Title"
+msgstr "Moteurs de Véhicules"
+
+msgid "DHHintManager.Hints[40].Text"
+msgstr ""
+"Vous êtes entré dans un véhicule. Pour démarrer ou arrêter le moteur, "
+"appuyez sur %FIRE%."
+
+msgid "DHHintManager.Hints[43].Title"
+msgstr "Camions de Ravitaillement"
+
+msgid "DHCommandSayMessage.MessagePrefix"
+msgstr "[COMMAND]"
+
+msgid "DHFireSupportMessage.RadiomanNotification"
+msgstr "Le groupe {squad} a marqué une cible pour appui longue portée."
+
+msgid "DHFireSupportMessage.ArtilleryOperatorNotification"
+msgstr "Le groupe {squad} a marqué un cible {type} pour appui feu."
+
+msgid "DHFireSupportMessage.ErrorText"
+msgstr "Impossible de placer un marqueur d'appui feu."
+
+msgid "DHFriendlyInformationMsg.TeamSurrendered"
+msgstr ""
+"Votre équipe a décidé de battre en retraite, la bataille sera bientôt "
+"terminée !"
+
+msgid "DHHintManager.Hints[7].Title"
+msgstr "Usage du Mortier"
+
+msgid "DHHintManager.Hints[6].Text"
+msgstr ""
+"Tant que vous tenez un mortier, vous ne pouvez pas changer d'arme, sprinter, "
+"vous mettre à plat ventre ou escalader d'obstacles. Pour déployer votre "
+"mortier, accroupissez-vous sur un terrain plat et appuyez sur %DÉPLOYER%."
+
+msgid "DHHintManager.Hints[7].Text"
+msgstr ""
+"Pour régler le gisement de votre mortier, maintenez les touches A ou D "
+"enfoncées. Pour augmenter la portée, appuyez sur la touche S. Pour diminuer "
+"la portée, appuyez sur la touche W. Pour sélectionner le type d'obus "
+"suivant, appuyez sur la touche %SwitchFireMode%. Pour tirer un obus, appuyez "
+"sur la touche %Fire%."
+
+msgid "DHHintManager.Hints[8].Title"
+msgstr "Cibles d'Artillerie"
+
+msgid "DHHintManager.Hints[8].Text"
+msgstr ""
+"Les chefs de groupe peuvent marquer des cibles qui deviennent visibles sur "
+"votre carte. Lorsqu'un obus atterrit près d'un marqueur de cible, "
+"l'emplacement de l'impact sera indiqué sur la carte. Utilisez ces marqueurs "
+"pour ajuster votre pointage."
+
+msgid "DHHintManager.Hints[9].Title"
+msgstr "Sortie du Mortier"
+
+msgid "DHHintManager.Hints[10].Title"
+msgstr "Transport du Mortier"
+
+msgid "DHGameMessage.NewTeamMessageRussian"
+msgstr "{name} a rejoint les forces Alliées."
+
+msgid "DHGameMessage.NewTeamMessageGerman"
+msgstr "{name} a rejoint les forces de l'Axe."
+
+msgid "DHGameMessage.FFKillMessage"
+msgstr "{name} a tué un soldat ami."
+
+msgid "DHGameMessage.FFViolationMessage"
+msgstr "{name} sera expulsé pour tir fratricide."
+
+msgid "DHGameMessage.RoleChangeMsg"
+msgstr "Vous tentez de réapparaître en tant que {role}."
+
+msgid "DHGameMessage.MaxRoleMsg"
+msgstr "Impossible de changer de rôle pour {role}."
+
+msgid "DHGameMessage.VehicleDepletedMessage"
+msgstr "Les renforts de {0} ont été épuisés."
+
+msgid "DHGameMessage.RoleInvalidatedMessage"
+msgstr "Vous n'êtes plus qualifié au poste de {name}."
+
+msgid "DHGameMessage.VehicleCutOffMessage"
+msgstr "Les renforts de {0} ne peuvent plus nous rejoindre."
+
+msgid "DHGameMessage.VehicleTeamKilledMessage"
+msgstr "{0} a tué un {1} ami."
+
+msgid "DHGameReplicationInfo.ForceScaleText"
+msgstr "Taille"
+
+msgid "DHGetPassword.GetPassFail.Caption"
+msgstr "Annuler"
+
+msgid "DHGetPassword.GetPassRetry.Caption"
+msgstr "Soumettre"
+
+msgid "DHHintManager.Hints[44].Text"
+msgstr ""
+"Vous conduisez un camion de ravitaillement. Ce véhicule peut ravitailler des "
+"véhicules, des mortiers et de l'infanterie. Assurez-vous de le garer en lieu "
+"sûr."
+
+msgid "DHFireSupportMessage.OnMapArtilleryRequestingLocked"
+msgstr ""
+"Vous ne pouvez pas placer d'autres marques d'appui feu pour les prochaines "
+"{seconds} secondes."
+
+msgid "DHGameMessage.VehicleArrivedMessage"
+msgstr "Les renforts de {0} sont arrivés."
+
+msgid "DHGameMessage.RoleLockedMessage"
+msgstr "Le rôle de {role} a été verrouillé."
+
+msgid "DHGameMessage.RoleUnlockedMessage"
+msgstr "Le rôle de {role} a été déverrouillé."
+
+msgid "DHGameMessage.HasForgivenMessage"
+msgstr "{victim} a pardonné {killer}."
+
+msgid "DHGameMessage.LeftMessage"
+msgstr "{name} a quitté le champ de bataille."
+
+msgid "DHGameReplicationInfo.ReinforcementsInfiniteText"
+msgstr "Infini"
+
+msgid "DHHintManager.Hints[0].Title"
+msgstr "Bienvenue sur Darkest Hour !"
+
+msgid "DHHintManager.Hints[0].Text"
+msgstr ""
+"Ces messages d'aide apparaîtront régulièrement dans le jeu. Soyez attentifs, "
+"votre survie pourrait en dépendre ! Vous pouvez les désactiver depuis "
+"l'onglet HUD du menu de configuration."
+
+msgid "DHHintManager.Hints[1].Title"
+msgstr "Escalade"
+
+msgid "DHHintManager.Hints[13].Title"
+msgstr "Opérateur Radio"
