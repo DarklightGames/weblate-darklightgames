@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-29 08:43+0000\n"
+"PO-Revision-Date: 2025-07-08 20:24+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pl/>\n"
@@ -60,7 +60,7 @@ msgid "DHAlliedAssaultRoles.PluralName"
 msgstr "Szturmowcy"
 
 msgid "DHAlliedAutoRifleRoles.MyName"
-msgstr "Lekki Strzelec Maszynowy"
+msgstr "Strzelec RKM"
 
 msgid "DHAlliedAutoRifleRoles.PluralName"
 msgstr "Lekcy Strzelcy Maszynowi"
@@ -72,13 +72,13 @@ msgid "DHAlliedCorporalRoles.PluralName"
 msgstr "Kaprale"
 
 msgid "DHAlliedEngineerRoles.MyName"
-msgstr "Inżynier Bojowy"
+msgstr "Saper"
 
 msgid "DHAlliedEngineerRoles.PluralName"
 msgstr "Inżynierzy Bojowi"
 
 msgid "DHAlliedMachineGunnerRoles.MyName"
-msgstr "Strzelec Maszynowy"
+msgstr "Strzelec Karabinu Maszynowego"
 
 msgid "DHAlliedMachineGunnerRoles.PluralName"
 msgstr "Strzelcy Maszynowi"
@@ -1017,7 +1017,7 @@ msgid "DHSupplyMessage.SupplyCacheFull"
 msgstr "Pobliski skład zapasów jest pełny."
 
 msgid "DHVehicleMessage.AllRiderPositionsFull"
-msgstr "Wszystkie pozycje jeźdźców są zajęte"
+msgstr "Wszystkie pozycje pasażerów są zajęte"
 
 msgid "DHVoteInfo.Options<1>.Text"
 msgstr "Nie"
@@ -1127,7 +1127,7 @@ msgid "DHAxisAntiTankRoles.MyName"
 msgstr "Łowca Czołgów"
 
 msgid "DHAxisMachineGunnerRoles.MyName"
-msgstr "Strzelec Maszynowy"
+msgstr "Strzelec Karabinu Maszynowego"
 
 msgid "DHConstructionErrorMessage.ErrorMessages<14>"
 msgstr ""
@@ -1190,7 +1190,7 @@ msgid "DHConstructionSupplyAttachment.HumanReadableName"
 msgstr "Skład zapasów"
 
 msgid "DHCommandMenu_SquadManageMember.Options<0>.SubjectText"
-msgstr "Wykop z oddziału"
+msgstr "Usuń z oddziału"
 
 msgid "DHGameMessage.VehicleDestroyedMessage"
 msgstr "{0} został zniszczony."
@@ -1822,7 +1822,7 @@ msgstr ""
 
 msgid "DHSquadLeaderVolunteerInteraction.PromptText"
 msgstr ""
-"Twój oddział potrzebuje lidera! Zgłaszasz się na dowódcę drużyny? ({time})"
+"Twój oddział potrzebuje lidera! Zgłaszasz się na dowódcę oddziału? ({time})"
 
 msgid "DHSquadLeaderVolunteerInteraction.Options<1>.Text"
 msgstr "Odrzuć"
@@ -1849,7 +1849,7 @@ msgid "DHMapMarker_Friendly_CommandPost.MarkerName"
 msgstr "Prośba o Centrum Dowodzenia"
 
 msgid "DHMapMarker_Enemy_CommandPost.MarkerName"
-msgstr "Wrogi Punkt Dowodzenia"
+msgstr "Wrogi Sztab"
 
 msgid "DHVoiceReplicationInfo.PublicChannelNames<3>"
 msgstr "Nieprzypisany"
@@ -1871,8 +1871,8 @@ msgstr "Idź tutaj"
 
 msgid "DHSquadMessage.RallyPointCreatedMessage"
 msgstr ""
-"Utworzyłeś punkt zbiórki oddziału. Zabezpiecz obszar ze swoim oddziałem, aby "
-"ustanowić ten punkt zbiórki."
+"Utworzyłeś punkt zbiórki oddziału. Zabezpiecz pobliski obszar wraz ze swoim "
+"oddziałem, aby aktywować punkt zbiórki."
 
 msgid "DHSquadMessage.RallyPointRemoved"
 msgstr "Dowódca oddziału wymusił usunięcie punktu zbiórki."
@@ -1916,7 +1916,7 @@ msgstr "Ta mapa nie pozwala na blokowanie pojazdów"
 msgid "DarkestHourGame.ROHints<17>"
 msgstr ""
 "Gdy już wystrzelisz z Bazooki lub Panzerschrecka, SZYBKO schowaj się za "
-"osłoną, gdyż dym z tylnego wybuchu ujawni twoją lokalizację. Wróg prawie "
+"osłoną, gdyż dym z gazów wylotowych ujawni twoją lokalizację. Wróg prawie "
 "zawsze odpowie ogniem w twoim kierunku!"
 
 msgid "DHVehicleMessage.CantLockNonCrewVehicle"
@@ -1935,7 +1935,7 @@ msgstr "Nie można zmienić lufy 30 Cal, należy uważać, aby jej nie przegrza�
 msgid "DarkestHourGame.ROHints<18>"
 msgstr ""
 "Nie stój bezpośrednio za wyrzutnią rakiet, gdy ta strzela; możesz odnieść "
-"poważne obrażenia od spalin!"
+"poważne obrażenia od gazów wylotowych!"
 
 msgid "DarkestHourGame.ROHints<19>"
 msgstr ""
@@ -2010,7 +2010,7 @@ msgstr ""
 "%FIRE%, aby wyświetlić menu wsparcia ogniowego."
 
 msgid "DHHintManager.Hints[13].Title"
-msgstr "Radiowiec"
+msgstr "Radiooperator"
 
 msgid "DHHintManager.Hints[46].Title"
 msgstr "Karabin Maszynowy Montowany Zewnętrznie"
