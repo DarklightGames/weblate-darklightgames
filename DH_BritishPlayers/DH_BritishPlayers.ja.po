@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-29 21:47+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2025-07-10 04:01+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_britishplayers/ja/>\n"
 "Language: ja\n"
@@ -22,3 +22,18 @@ msgstr "グレートブリテン"
 
 msgid "DHNation_Canada.NationName"
 msgstr "カナダ"
+
+msgid "DHBritishVoice.SupportAbbrev[5]"
+msgstr "PIATを要請する"
+
+msgid "DHCanadianVoice.SupportAbbrev[5]"
+msgstr "PIATを要請する"
+
+msgid "DHCWAntiTankRoles.MyName"
+msgstr "対戦車兵"
+
+msgid "DHCWCorporalRoles.MyName"
+msgstr "兵長"
+
+msgid "DHCWSergeantRoles.MyName"
+msgstr "伍長"
