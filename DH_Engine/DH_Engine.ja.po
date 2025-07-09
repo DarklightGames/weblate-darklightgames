@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-06 19:10+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2025-07-10 04:01+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ja/>\n"
 "Language: ja\n"
@@ -31,3 +31,60 @@ msgstr "回転"
 
 msgid "DHATGunTouchMessage.Controls<1>.Text"
 msgstr "回転"
+
+msgid "DHATCannonMessage.GunIsRotating"
+msgstr "大砲が回転している"
+
+msgid "DHATCannonMessage.CannotEnter"
+msgstr "この大砲にはすでに人が乗っている"
+
+msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
+msgstr "終える"
+
+msgid "DHATCannonMessage.VehicleIsEnemy"
+msgstr "敵の大砲は使えない"
+
+msgid "DHATCannonMessage.NotQualified"
+msgstr "あなたにはこの大砲を使う資格がありません"
+
+msgid "DHATLoadMessage.LoadedGunner"
+msgstr "{0}の装填を手伝った"
+
+msgid "DHATLoadFailMessage.CantLoad"
+msgstr "{0} を装填するにはデプロイする必要があります"
+
+msgid "DHArtillerySpottingScope.PitchHeaderString"
+msgstr "勾配"
+
+msgid "DHAccessControl.SessionBanned"
+msgstr "レベルが変更されるまでこのサーバーに参加することはできません。"
+
+msgid "DHAdminMessage.KickedFromSquadMessage"
+msgstr "'{0}' (アドミン) が '{1}' を '{2}' 分隊から追放しました。"
+
+msgid "DHATGunTouchMessage.Controls<0>.Text"
+msgstr "入る"
+
+msgid "DHATLoadMessage.BeenLoaded"
+msgstr "{0}は装填を手伝ってくれた"
+
+msgid "DHATLoadMessage.UnLoaded"
+msgstr "ロケット弾は下ろされた"
+
+msgid "DHAccessControl.IPBanned"
+msgstr "あなたは禁止されているため、このサーバーに参加できません。"
+
+msgid "DHArtillerySpottingScope.DistanceString"
+msgstr "距離"
+
+msgid "DHArtillerySpottingScope.RangeHeaderString"
+msgstr "射程"
+
+msgid "DHArtillerySpottingScope.SquadText"
+msgstr "分隊"
+
+msgid "DHArtillerySpottingScope.SelectedTargetText"
+msgstr "選択中目標"
+
+msgid "DHArtillerySpottingScope.CorrectionString"
+msgstr "訂正"
