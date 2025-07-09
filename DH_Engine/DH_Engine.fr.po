@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-08 20:24+0000\n"
+"PO-Revision-Date: 2025-07-10 04:01+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -339,7 +339,7 @@ msgid "DHCommandMenu_SquadManageNonMember.Options<0>.ActionText"
 msgstr "Inviter dans le Groupe"
 
 msgid "DHConstructionErrorMessage.ErrorMessages<11>"
-msgstr "Vous ne pouvez pas {verb} un {name} près d'un point de spawn."
+msgstr "Vous ne pouvez pas {verb} un {name} près d'un point de d'apparition."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<13>"
 msgstr "Vous ne pouvez pas {verb} un {name} dans un objectif."
@@ -741,3 +741,424 @@ msgstr "Escalade"
 
 msgid "DHHintManager.Hints[13].Title"
 msgstr "Opérateur Radio"
+
+msgid "DHHud.SpectateInstructionText3"
+msgstr ""
+"Appuyez sur [%ROIRONSIGHTS%] pour basculer entre la première/troisième "
+"personne"
+
+msgid "DHHintManager.Hints[55].Title"
+msgstr "Grenades à Impact"
+
+msgid "DHHud.SpawnAtVehicleText"
+msgstr ""
+"Vous serez déployé en tant que {0} dans un {1} dans {2} | Appuyez sur [ESC] "
+"pour changer"
+
+msgid "DHHintManager.Hints[55].Text"
+msgstr ""
+"Vous tenez une grenade munie d'un allumeur à impact. Cette grenade explosera "
+"à l'impact avec n'importe quelle surface. Lancez-la avec force, sinon elle "
+"risque de ne pas exploser !"
+
+msgid "DHMortarMessage.CannotLean"
+msgstr "Vous ne pouvez pas déployer votre mortier tout en penchant"
+
+msgid "DHHintManager.Hints[50].Title"
+msgstr "Observation D'Artillerie"
+
+msgid "DHHintManager.Hints[60].Text"
+msgstr ""
+"Cette arme possède un viseur réglable ! Appuyez sur %SWITCHFIREMODE% pour "
+"modifier la portée du viseur."
+
+msgid "DHHintManager.Hints[60].Title"
+msgstr "Portée de Mire"
+
+msgid "DHHintManager.Hints[61].Title"
+msgstr "Des Mesures Désespérées"
+
+msgid "DHHintManager.Hints[62].Title"
+msgstr "Surchauffe du Canon"
+
+msgid "DHHud.InvalidSpawnSettingsText"
+msgstr ""
+"Appuyez sur [ESC] pour confirmer vos sélections de rôle, de véhicule et de "
+"point d'apparition"
+
+msgid "DHHud.NotReadyToSpawnText"
+msgstr ""
+"La réapparition sera activée dans {s} (utilisez ce temps pour organiser les "
+"groupes et planifier vos actions)"
+
+msgid "DHHud.ConnectedObjectivesNotSecuredText"
+msgstr "Objectif(s) lié(s) non sécurisé(s)"
+
+msgid "DHInventorySpawner.MenuNoun"
+msgstr "Caisse"
+
+msgid "DHInventorySpawner.MenuNameFormat"
+msgstr "{name} {noun}"
+
+msgid "DHIQMessage.Congratulations<1>"
+msgstr "Incroyable !"
+
+msgid "DHHintManager.Hints[46].Text"
+msgstr ""
+"Cette mitrailleuse est montée à l'extérieur et ne peut être utilisée ou "
+"rechargée que si vous ouvrez l'écoutille"
+
+msgid "DHHintManager.Hints[48].Title"
+msgstr "Rechargement de la Mitrailleuse"
+
+msgid "DHHintManager.Hints[47].Title"
+msgstr "Mitrailleuse à Commande Interne"
+
+msgid "DHHintManager.Hints[47].Text"
+msgstr ""
+"Cette mitrailleuse ne peut être utilisée que depuis l'intérieur du véhicule, "
+"mais elle est montée à l'extérieur et vous devez ouvrir l'écoutille pour "
+"recharger"
+
+msgid "DHHintManager.Hints[51].Title"
+msgstr "Usage de la Carte"
+
+msgid "DHHintManager.Hints[51].Text"
+msgstr "Vous pouvez interagir avec la carte en appuyant sur %JUMP%."
+
+msgid "DHHintManager.Hints[52].Title"
+msgstr "Navigation avec la Carte"
+
+msgid "DHHintManager.Hints[52].Text"
+msgstr ""
+"Pour zoomer sur la carte, survolez-la avec le curseur et utilisez la molette "
+"de défilement. Pour la déplacer, maintenez le bouton gauche de la souris "
+"enfoncé, puis déplacez le curseur."
+
+msgid "DHHintManager.Hints[53].Title"
+msgstr "Marqueurs de Carte"
+
+msgid "DHHintManager.Hints[61].Text"
+msgstr ""
+"Cette arme utilise des munitions non standard qui ne peuvent pas être "
+"réapprovisionnées. Ne gâchez pas vos tirs !"
+
+msgid "DHMortarMessage.MustBeStill"
+msgstr "Vous ne pouvez pas déployer votre mortier en vous déplaçant"
+
+msgid "DHMortarMessage.BadSurface"
+msgstr "Vous ne pouvez pas déployer votre mortier sur cette surface"
+
+msgid "DHMortarMessage.NotEnoughRoom"
+msgstr "Vous n'avez pas assez de place pour déployer votre mortier ici"
+
+msgid "DHMortarMessage.CannotDeploy"
+msgstr "Vous ne pouvez pas déployer votre mortier ici"
+
+msgid "DHMortarMessage.NotQualified"
+msgstr "Vous n'êtes pas qualifié pour utiliser ce mortier"
+
+msgid "DHObjectiveMessage.NotificationTypes[1]"
+msgstr "capturé"
+
+msgid "DHObjectiveMessage.NotificationTypes[2]"
+msgstr "sécurisé"
+
+msgid "DHHintManager.Hints[48].Text"
+msgstr ""
+"Vous devez ouvrir l'écoutille (et ne pas utiliser de jumelles) pour "
+"recharger cette mitrailleuse montée à l'extérieur"
+
+msgid "DHHintManager.Hints[49].Text"
+msgstr ""
+"Vous utilisez une pièce d'artillerie équipée d'une lunette d'observation. "
+"Appuyez sur %NEXTWEAPON% pour regarder à travers la lunette."
+
+msgid "DHHintManager.Hints[50].Text"
+msgstr ""
+"Ouvrez la carte pour coordonner les tirs. Utilisez le bouton droit de la "
+"souris sur un marqueur d'appui feu pour la sélectionner comme cible active "
+"ou utilisez le marqueur de Règle pour mesurer les distances entre vous et un "
+"point donné sur la carte."
+
+msgid "DHHintManager.Hints[53].Text"
+msgstr ""
+"Pour ajouter et interagir avec des marqueurs sur la carte, passez le curseur "
+"sur la zone ou l'objet d'intérêt et appuyez sur [RIGHTMOUSE] pour afficher "
+"le menu contextuel."
+
+msgid "DHHintManager.Hints[54].Title"
+msgstr "Trouver une Radio"
+
+msgid "DHHintManager.Hints[54].Text"
+msgstr ""
+"Vous avez marqué une cible pour un appui feu longue portée. Trouvez une "
+"radio pour pouvoir l'appeler !"
+
+msgid "DHHintManager.Hints[49].Title"
+msgstr "Lunette D'Observation"
+
+msgid "DHHintManager.Hints[62].Text"
+msgstr ""
+"Le canon de votre arme surchauffe ! Une surchauffe du canon peut entraîner "
+"une perte de précision et, à terme, le rendre inutilisable."
+
+msgid "DHHintManager.Hints[66].Title"
+msgstr "Attention !"
+
+msgid "DHHintManager.Hints[66].Text"
+msgstr ""
+"Vous venez de tirer un obus de mortier droit dans les airs. Vous devriez "
+"peut-être vous mettre à couvert !"
+
+msgid "DHHud.LegendCarriedArtilleryRadioText"
+msgstr "Opérateur Radio D'Artillerie"
+
+msgid "DHHud.TimeElapsedText"
+msgstr "Temps Passé : "
+
+msgid "DHHintManager.Hints[63].Title"
+msgstr "Changement de Canon"
+
+msgid "DHHud.JoinTeamText"
+msgstr "Appuyez sur [ESC] pour rejoindre une équipe"
+
+msgid "DHHintManager.Hints[63].Text"
+msgstr ""
+"Vous pouvez remplacer le canon de cette arme. Appuyez sur %ROMGOPERATION% "
+"pendant que l'arme est déployée pour passer au canon de rechange."
+
+msgid "DHHintManager.Hints[65].Title"
+msgstr "Semovente da 90/53"
+
+msgid "DHHintManager.Hints[65].Text"
+msgstr ""
+"Bien que le Semovente da 90/53 aie un canon puissant, sa réserve de "
+"munitions est très limitée. Faites en sorte de bien viser !"
+
+msgid "DHHud.SpawnInfantryText"
+msgstr ""
+"Vous serez déployé en tant que {0} dans {2} | Appuyez sur [ESC] pour changer"
+
+msgid "DHHud.SpawnVehicleText"
+msgstr ""
+"Vous serez déployé en tant que {0} dans un {3} dans {2} | Appuyez sur [ESC] "
+"pour changer"
+
+msgid "DHHud.NeedReloadText"
+msgstr "Doit être rechargé"
+
+msgid "DHHud.CanReloadText"
+msgstr "Appuyez sur %THROWMGAMMO% pour aider au rechargement"
+
+msgid "DHHud.NeedsClearedText"
+msgstr " (Non Sécurisé)"
+
+msgid "DHHud.PlaceRallyPointText"
+msgstr "Appuyez sur [%PLACERALLYPOINT%]"
+
+msgid "DHHud.SpectateInstructionText4"
+msgstr "Appuyez sur [%JUMP%] pour revenir à votre visualisation"
+
+msgid "DHHud.PrereleaseDisclaimerText"
+msgstr ""
+"Ceci est une version préliminaire. Tout contenu est susceptible d'être "
+"modifié."
+
+msgid "DHHud.ReinforcementText"
+msgstr ""
+"Vous serez déployé en tant que {0} dans {2} | Appuyez sur [ESC] pour changer"
+
+msgid "DHLib.ServerHealthStages[0].Text"
+msgstr "Excellente"
+
+msgid "DHLib.ServerHealthStages[1].Text"
+msgstr "Bonne"
+
+msgid "DHIQMessage.LeaderAWOLMessage"
+msgstr "Vous négligez votre groupe et vos lignes de ravitaillement."
+
+msgid "DHIQMessage.MemberAWOLMessage"
+msgstr "Vous abandonnez votre groupe."
+
+msgid "DHIQMessage.NotInSquadMessage"
+msgstr "Vous n'êtes pas dans un groupe."
+
+msgid "DHIQMessage.Congratulations<2>"
+msgstr "Vous êtes un prodige de la tactique !"
+
+msgid "DHIQMessage.Congratulations<4>"
+msgstr "Grand fou !"
+
+msgid "DHIQMessage.Congratulations<6>"
+msgstr "Génial !"
+
+msgid "DHIQMessage.Congratulations<7>"
+msgstr "Vous êtes le plus intelligent !"
+
+msgid "DHLastObjectiveMessage.AxisAboutToWinMessage"
+msgstr "Dernier objectif -- L'Axe est sur le point de gagner la bataille !"
+
+msgid "DHLastObjectiveMessage.AlliesAboutToWinMessage"
+msgstr ""
+"Dernier objectif -- les Alliés sont sur le point de gagner la bataille !"
+
+msgid "DHMapDatabase.SizeExtraSmallText"
+msgstr "Très Petite"
+
+msgid "DHMapDatabase.SizeSmallText"
+msgstr "Petite"
+
+msgid "DHMapDatabase.SizeMediumText"
+msgstr "Moyenne"
+
+msgid "DHMapDatabase.SizeLargeText"
+msgstr "Grande"
+
+msgid "DHMapMarker_Enemy_Infantry.MarkerName"
+msgstr "Infanterie Ennemie"
+
+msgid "DHMapMarker_AdminParadrop.MarkerName"
+msgstr "ADMIN : Placer un marqueur pour un parachutage"
+
+msgid "DHMapMarker_Enemy_ATGun.MarkerName"
+msgstr "Canon Antichar Ennemi"
+
+msgid "DHMapMarker_Enemy_Tank.MarkerName"
+msgstr "Blindé Ennemi"
+
+msgid "DHMapMarker_Enemy_Vehicle.MarkerName"
+msgstr "Véhicule Ennemi"
+
+msgid "DHMapMarker_Ruler.MarkerName"
+msgstr "Mesurer"
+
+msgid "DHMapMarker_FireSupport_OffMap.MarkerName"
+msgstr "Appui Feu Longue Portée"
+
+msgid "DHMapMarker_FireSupport_Smoke.MarkerName"
+msgstr "Demande Tir Fumigène"
+
+msgid "DHMapMarker_FireSupport_HE.MarkerName"
+msgstr "Demande Tir HE"
+
+msgid "DHMapMarker_Friendly_Supplies.MarkerName"
+msgstr "Demander Ravitaillement"
+
+msgid "DHMapMarker_OngoingBarrage.MarkerName"
+msgstr "Barrage en Cours"
+
+msgid "DHMapMarker_Squad_Attention.MarkerName"
+msgstr "Attention (Groupe)"
+
+msgid "DHMapMarker_Squad_Defend.MarkerName"
+msgstr "Défendre (Groupe)"
+
+msgid "DHMapMarker_Squad_Move.MarkerName"
+msgstr "Déplacement (Groupe)"
+
+msgid "DHMortarMessage.MustCrouch"
+msgstr "Vous devez être accroupi pour déployer votre mortier"
+
+msgid "DHMortarMessage.InWater"
+msgstr "Vous ne pouvez pas déployer votre mortier dans l'eau"
+
+msgid "DHObjectiveMessage.TeamStrings[1]"
+msgstr "Alliés"
+
+msgid "DHObjectiveMessage.NotificationTypes[0]"
+msgstr "neutralisé"
+
+msgid "DHMortarMessage.InUse"
+msgstr "Vous ne pouvez pas utiliser ce mortier car quelqu'un d'autre le fait"
+
+msgid "DHMortarMessage.EnemyMortar"
+msgstr "Vous ne pouvez pas utiliser les mortiers ennemis"
+
+msgid "DHObjectiveMessage.TeamStrings[0]"
+msgstr "Axe"
+
+msgid "DHHintManager.Hints[46].Title"
+msgstr "Mitrailleuse Extérieure"
+
+msgid "DHHud.SelectSpawnPointText"
+msgstr "Appuyez sur [ESC] pour sélectionner un point d'apparition"
+
+msgid "DHHud.LegendAxisObjectiveText"
+msgstr "Territoire de l'Axe"
+
+msgid "DHHud.LegendAlliesObjectiveText"
+msgstr "Territoire Allié"
+
+msgid "DHHud.LegendArtilleryRadioText"
+msgstr "Radio D'Artillerie"
+
+msgid "DHIQMessage.Congratulations<0>"
+msgstr "Waouh ! Quelle ingéniosité !"
+
+msgid "DHIQMessage.Congratulations<3>"
+msgstr "Bien joué !"
+
+msgid "DHLib.ServerHealthStages[2].Text"
+msgstr "Moyenne"
+
+msgid "DHLib.ServerHealthStages[3].Text"
+msgstr "Mauvaise"
+
+msgid "DHLib.ServerHealthStages[4].Text"
+msgstr "Épouvantable"
+
+msgid "DHMainMenuGame.GameName"
+msgstr "Jeu"
+
+msgid "DHMapDatabase.SizeAnyText"
+msgstr "Tous"
+
+msgid "DHMapMarker.CalculatingString"
+msgstr "Calcul en cours..."
+
+msgid "DHMapMarker_Squad_Attack.MarkerName"
+msgstr "Attaquer (Groupe)"
+
+msgid "DHHintManager.Hints[64].Title"
+msgstr "Canon Inutilisable"
+
+msgid "DHHintManager.Hints[64].Text"
+msgstr ""
+"Le canon de votre arme a été déformé par la surchauffe ! Vous ne pouvez plus "
+"tirer avec cette arme."
+
+msgid "DHHud.ServerNameText"
+msgstr "Serveur : "
+
+msgid "DHHud.MapNameText"
+msgstr "Carte : "
+
+msgid "DHHud.MapGameTypeText"
+msgstr "Type de Jeu : "
+
+msgid "DHHud.NoTimeLimitText"
+msgstr "Illimité"
+
+msgid "DHHud.AndMoreText"
+msgstr "et plus..."
+
+msgid "DHHud.SpawnRallyPointText"
+msgstr ""
+"Vous serez déployé en tant que {0} au point de ralliement de votre groupe "
+"dans {2} | Appuyez sur [ESC] pour changer"
+
+msgid "DHHud.SpawnNoRoleText"
+msgstr "Appuyez sur [ESC] pour sélectionner un rôle"
+
+msgid "DHHud.SpectateInstructionText1"
+msgstr "Appuyez sur [%FIRE%] pour changer de point de vue/joueur"
+
+msgid "DHHud.SpectateInstructionText2"
+msgstr "Appuyez sur [%ALTFIRE%] pour changer de Mode Spectateur"
+
+msgid "DHMapMarker_Enemy_CommandPost.MarkerName"
+msgstr "Poste Commandement Ennemi"
+
+msgid "DHMapMarker_Friendly_CommandPost.MarkerName"
+msgstr "Demander un Poste Commandement"
