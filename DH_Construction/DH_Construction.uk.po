@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-04 06:55+0000\n"
+"PO-Revision-Date: 2025-07-10 04:01+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/uk/>\n"
@@ -89,7 +89,7 @@ msgid "DHConstruction_SupplyCache.ConstructionVerb"
 msgstr "встановити"
 
 msgid "DHConstruction_VehiclePool.MenuName"
-msgstr "Точка відродження техніки"
+msgstr "Автопарк техніки"
 
 msgid "DHConstruction_ConcertinaWire.MenuDescription"
 msgstr "Ефективна для блокування піхоти та легкої техніки."
