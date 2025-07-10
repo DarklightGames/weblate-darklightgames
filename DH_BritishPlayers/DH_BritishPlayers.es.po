@@ -1,18 +1,19 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-09 07:59+0000\n"
-"Last-Translator: Argilas <argilas@hotmail.com>\n"
-"Language-Team: Spanish <https://weblate.darklightgames.com/projects/darkesthour/dh_britishplayers/es/>\n"
+"PO-Revision-Date: 2025-07-11 19:43+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_britishplayers/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DHCWSergeantRoles.MyName"
-msgstr "Cabo"
+msgstr "Cabo Primero"
 
 msgid "DHCWSergeantRoles.AltName"
 msgstr ""
@@ -37,3 +38,9 @@ msgstr "Petición de PIAT"
 
 msgid "DHBritishVoice.SupportAbbrev[5]"
 msgstr "Petición de PIAT"
+
+msgid "DHCWAntiTankRoles.MyName"
+msgstr "Soldado Antitanque"
+
+msgid "DHCWCorporalRoles.MyName"
+msgstr "Cabo"
