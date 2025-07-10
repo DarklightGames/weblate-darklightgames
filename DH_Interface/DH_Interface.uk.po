@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-06 03:58+0000\n"
+"PO-Revision-Date: 2025-07-10 04:01+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
@@ -1182,7 +1182,7 @@ msgid "DHTab_DetailSettings.ContrastSlider.Caption"
 msgstr "Контраст"
 
 msgid "DHTab_DetailSettings.CorpseStayTime.Caption"
-msgstr "Час перебування трупа (секунд)"
+msgstr "Час зберігання трупів (секунд)"
 
 msgid "DHTab_DetailSettings.DetailAnisotropy.Caption"
 msgstr "Анізотропна фільтрація"
@@ -1194,13 +1194,13 @@ msgid "DHTab_DetailSettings.DetailCharacterShadows.Caption"
 msgstr "Тіні персонажів"
 
 msgid "DHTab_DetailSettings.DetailCoronas.Caption"
-msgstr "Додаткове освітлення"
+msgstr "Ореоли"
 
 msgid "DHTab_DetailSettings.DetailDecals.Caption"
 msgstr "Декалі"
 
 msgid "DHTab_DetailSettings.DetailDecalStay.Caption"
-msgstr "Час перебування декалей"
+msgstr "Тривалість декалей"
 
 msgid "DHTab_DetailSettings.DetailDynamicLighting.Caption"
 msgstr "Динамічне освітлення"
@@ -1218,13 +1218,13 @@ msgid "DHTab_DetailSettings.DetailCharacterDetail.Caption"
 msgstr "Деталізація персонажів"
 
 msgid "DHTab_DetailSettings.DetailPhysics.Caption"
-msgstr "Фізичні деталі"
+msgstr "Делатізація фізики"
 
 msgid "DHTab_DetailSettings.DetailDetailTextures.Caption"
 msgstr "Детальні текстури"
 
 msgid "DHTab_DetailSettings.DetailWorldDetail.Caption"
-msgstr "Деталі світу"
+msgstr "Деталізація миру"
 
 msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
 msgstr "Дистанція туману"
