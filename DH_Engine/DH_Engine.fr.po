@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-10 04:01+0000\n"
+"PO-Revision-Date: 2025-07-10 19:11+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -1064,7 +1064,7 @@ msgid "DHMortarMessage.InWater"
 msgstr "Vous ne pouvez pas déployer votre mortier dans l'eau"
 
 msgid "DHObjectiveMessage.TeamStrings[1]"
-msgstr "Alliés"
+msgstr "les Alliés"
 
 msgid "DHObjectiveMessage.NotificationTypes[0]"
 msgstr "neutralisé"
@@ -1076,7 +1076,7 @@ msgid "DHMortarMessage.EnemyMortar"
 msgstr "Vous ne pouvez pas utiliser les mortiers ennemis"
 
 msgid "DHObjectiveMessage.TeamStrings[0]"
-msgstr "Axe"
+msgstr "l'Axe"
 
 msgid "DHHintManager.Hints[46].Title"
 msgstr "Mitrailleuse Extérieure"
@@ -1162,3 +1162,44 @@ msgstr "Poste Commandement Ennemi"
 
 msgid "DHMapMarker_Friendly_CommandPost.MarkerName"
 msgstr "Demander un Poste Commandement"
+
+msgid "DHObjectiveMessage.NotificationMessage"
+msgstr "{2} {1} par {0}"
+
+msgid "DHPawn.AdminSpawnedVehicleText"
+msgstr "L'administrateur {name} a spawné un {vehicle}"
+
+msgid "DHPawnTouchMessage.Messages<0>"
+msgstr "Appuyez sur [%THROWMGAMMO%] pour réapprovisionner {0}"
+
+msgid "DHPawnTouchMessage.Messages<1>"
+msgstr "Appuyez sur [%THROWMGAMMO%] pour recharger {0}"
+
+msgid "DHPawnTouchMessage.Messages<2>"
+msgstr "Appuyez sur [%THROWMGAMMO%] pour réapprovisionner et recharger {0}"
+
+msgid "DHPawnTouchMessage.FallbackPlayerName"
+msgstr "soldat allié"
+
+msgid "DHRadioTouchMessage.RequestMessage"
+msgstr ""
+"Maintenez [%SHOWORDERMENU | ONRELEASE HIDEORDERMENU%] appuyé pour demander "
+"de l'artillerie"
+
+msgid "DHRadioTouchMessage.NotQualifiedMessage"
+msgstr "Vous n'êtes pas qualifié pour utiliser cette radio"
+
+msgid "DHRadioTouchMessage.NoTargetMessage"
+msgstr "Aucune cible d'artillerie marquée"
+
+msgid "DHRadioTouchMessage.CalibratingMessage"
+msgstr "La radio est en cours d'étalonnage"
+
+msgid "DHReinforcementAwardMsg.ObjectiveString"
+msgstr "un objectif"
+
+msgid "DHRadioTouchMessage.BusyMessage"
+msgstr "La radio est actuellement utilisée"
+
+msgid "DHRadioTouchMessage.NotOwnedMessage"
+msgstr "Vous ne pouvez pas utiliser les radios ennemies"
