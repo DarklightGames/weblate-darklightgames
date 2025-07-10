@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-27 06:43+0000\n"
+"PO-Revision-Date: 2025-07-10 04:01+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/uk/>\n"
@@ -37,40 +37,40 @@ msgid "UT2K4Tab_DetailSettings.BitDepthText[0]"
 msgstr "16-біт"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[0]"
-msgstr "Найнижчий"
+msgstr "Найнижча"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[2]"
-msgstr "Нижній"
+msgstr "Дуже низька"
 
 msgid "UT2K4Tab_DetailSettings.ShadowOptions[0]"
-msgstr "Нічого"
+msgstr "Вимкнені"
 
 msgid "UT2K4Tab_DetailSettings.BitDepthText[1]"
 msgstr "32-біт"
 
 msgid "UT2K4Tab_DetailSettings.ShadowOptions[2]"
-msgstr "Повний"
+msgstr "Повні"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[3]"
-msgstr "Низький"
+msgstr "Низька"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[4]"
-msgstr "Нормальний"
+msgstr "Нормальна"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[5]"
-msgstr "Високий"
+msgstr "Висока"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[6]"
-msgstr "Вищий"
+msgstr "Дуже висока"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[7]"
-msgstr "Дуже високий"
+msgstr "Вища"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[8]"
-msgstr "Найвищий"
+msgstr "Найвища"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[1]"
-msgstr "Дуже низький"
+msgstr "Нижча"
 
 msgid "UT2k4Browser_PlayersList.ColumnHeadings<1>"
 msgstr "Рахунок"
