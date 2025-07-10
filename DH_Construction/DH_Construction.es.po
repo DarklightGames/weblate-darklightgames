@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-29 11:13+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-11 19:43+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/es/>\n"
 "Language: es\n"
@@ -52,14 +52,13 @@ msgid "DHConstruction_Hedgehog.MenuDescription"
 msgstr "Eficaz para bloquear vehículos ligeros y medios."
 
 msgid "DHConstruction_Foxhole.MenuName"
-msgstr "Hoyo de protección"
+msgstr "Pozo de zorro"
 
 msgid "DHConstructionGroup_Defenses.GroupName"
 msgstr "Defensas"
 
-#, fuzzy
 msgid "DHCommandMenu_ConstructionGroup.RemainingText"
-msgstr "Restante"
+msgstr "{0} Restantes"
 
 msgid "DHConstruction_ConcertinaWire.MenuName"
 msgstr "Alambre de concertina"
@@ -90,3 +89,83 @@ msgstr "Pozo de mortero"
 
 msgid "DHCommandMenu_ConstructionGroup.BusyText"
 msgstr "Ocupado"
+
+msgid "DHConstruction_VehiclePool.MenuDescription"
+msgstr "Provee un punto de aparición vehicular para todo el equipo"
+
+msgid "DHConstructionGroup_Debug.GroupName"
+msgstr "Depurar"
+
+msgid "DHConstructionGroup_Logistics.GroupName"
+msgstr "Logística"
+
+msgid "DHConstruction_Foxhole.ConstructionVerb"
+msgstr "Cavar"
+
+msgid "DHConstruction_InventorySpawner.ConstructionVerb"
+msgstr "Coloca"
+
+msgid "DHConstruction_PlatoonHQ.CustomErrorString"
+msgstr ""
+"No puedes {verb} un {name} cerca de {string} a menos de {integer}m de un "
+"objetivo controlado."
+
+msgid "DHConstruction_PlatoonHQ.MenuName"
+msgstr "Puesto de Mando"
+
+msgid "DHConstruction_Sandbags_Crescent.MenuName"
+msgstr "Sacos de arenas (Creciente)"
+
+msgid "DHCommandMenu_ConstructionGroup.MaxActiveText"
+msgstr "{0}/{1} Activo"
+
+msgid "DHConstructionControlsMessage.Controls<4>.Text"
+msgstr "Cambiar la variante"
+
+msgid "DHConstructionControlsMessage.Controls<5>.Text"
+msgstr "Cambiar el aspecto"
+
+msgid "DHConstruction_Hedgehog.MenuName"
+msgstr "Erizo"
+
+msgid "DHConstruction_PlatoonHQ.MenuDescription"
+msgstr "Provee un punto de aparición en general para todo el equipo"
+
+msgid "DHConstruction_Resupply.ConstructionVerb"
+msgstr "Coloca"
+
+msgid "DHConstructionControlsMessage.Controls<0>.Text"
+msgstr "Confirmar"
+
+msgid "DHConstructionControlsMessage.Controls<1>.Text"
+msgstr "Cancelar"
+
+msgid "DHConstructionControlsMessage.Controls<2>.Text"
+msgstr "Rotar"
+
+msgid "DHConstructionControlsMessage.Controls<3>.Text"
+msgstr "Reiniciar"
+
+msgid "DHCommandMenu_ConstructionGroup.MoreText"
+msgstr "Mas"
+
+msgid "DHConstructionResupplyPlayers.MenuName"
+msgstr "Cajas de Munición (Para la Infantería)"
+
+msgid "DHConstructionResupplyPlayers.MenuDescription"
+msgstr "Provee un punto de reabastecimiento para la Infantería"
+
+msgid "DHConstructionResupplyVehicles.MenuName"
+msgstr "Cajas de Munición (Para vehículos)"
+
+msgid "DHConstructionResupplyVehicles.MenuDescription"
+msgstr "Provee un punto de reabastecimiento para vehículos y otras armas"
+
+msgid "DHConstruction_Sandbags_Line.MenuName"
+msgstr "Sacos de Arena (en linea)"
+
+msgid "DHConstruction_SupplyCache.ConstructionVerb"
+msgstr "Coloca"
+
+msgid "DHConstruction_VehiclePool.MenuName"
+msgstr "Puesto Vehicular"
