@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-11 06:43+0000\n"
+"PO-Revision-Date: 2025-07-10 04:01+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
@@ -2091,10 +2091,10 @@ msgid "DHVehicleMessage.VehicleScuttleInitiated"
 msgstr "на даний час застарів"
 
 msgid "DHVehiclePoolMessage.ActivatedMessage"
-msgstr "Точка появи техніки активована."
+msgstr "Автопарк техніки активовано."
 
 msgid "DHVehiclePoolMessage.DestroyedMessage"
-msgstr "Точка появи техніки знищена."
+msgstr "Автопарк техніки знищено."
 
 msgid "DHVehicleSayMessage.MessagePrefix"
 msgstr "[ТРАНСПОРТ]"
