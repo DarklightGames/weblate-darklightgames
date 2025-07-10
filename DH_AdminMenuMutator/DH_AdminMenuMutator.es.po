@@ -1,19 +1,20 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-09 07:59+0000\n"
-"Last-Translator: Argilas <argilas@hotmail.com>\n"
-"Language-Team: Spanish <https://weblate.darklightgames.com/projects/darkesthour/dh_adminmenumutator/es/>\n"
+"PO-Revision-Date: 2025-07-11 19:43+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_adminmenumutator/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAllAtObjective"
 msgstr ""
-"Pulsa intro para confirmar que quieres lanzar A TODOS LOS JUGADORES en el "
+"Pulsa ENTER para confirmar que quieres lanzar A TODOS LOS JUGADORES en el "
 "objetivo elegido"
 
 msgid "DHAdminMenuMutator.FriendlyName"
@@ -21,63 +22,63 @@ msgstr "Menú de Administrador"
 
 msgid "DHAdminMenu_AdminMessages.EnterNewPlayerName"
 msgstr ""
-"Por favor introduce un nuevo nombre para el jugador - después pulsa intro"
+"Por favor introduce un nuevo nombre para el jugador - después pulsa ENTER"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAlliesRole"
 msgstr ""
-"Pulsa intro para confirmar que quieres CAMBIAR a este jugador a un nuevo rol"
-" de ALIADOS"
+"Pulsa ENTER para confirmar que quieres CAMBIAR a este jugador a un nuevo rol "
+"de ALIADOS"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAtCurrentLocation"
 msgstr ""
-"Pulsa intro para confirmar que quieres LANZAR EN PARACAÍDAS a este jugador "
+"Pulsa ENTER para confirmar que quieres LANZAR EN PARACAÍDAS a este jugador "
 "en su ubicación actual"
 
 msgid "DHAdminMenu_AdminMessages.EnterPrivateMessage"
-msgstr "Escribe tu mensaje privado al jugador - después pulsa intro"
+msgstr "Escribe tu mensaje privado al jugador - después pulsa ENTER"
 
 msgid "DHAdminMenu_AdminMessages.EnterWarningMessage"
-msgstr "Escribe tu mensaje de advertencia al jugador - después pulsa intro"
+msgstr "Escribe tu mensaje de advertencia al jugador - después pulsa ENTER"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmKillPlayer"
-msgstr "Pulsa intro para confirmar que quieres matar a este jugador"
+msgstr "Pulsa ENTER para confirmar que quieres matar a este jugador"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAxisRole"
 msgstr ""
-"Pulsa intro para confirmar que quieres CAMBIAR a este jugador a un nuevo rol"
-" del EJE"
+"Pulsa ENTER para confirmar que quieres CAMBIAR a este jugador a un nuevo rol "
+"del EJE"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAtObjective"
 msgstr ""
-"Pulsa intro para confirmar que quieres LANZAR EN PARACAÍDAS a este jugador "
+"Pulsa ENTER para confirmar que quieres LANZAR EN PARACAÍDAS a este jugador "
 "en el objetivo elegido"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableRealism"
-msgstr "Pulsa intro para confirmar que quieres ACTIVAR el modo realista"
+msgstr "Pulsa ENTER para confirmar que quieres ACTIVAR el modo realista"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableRealism"
-msgstr "Pulsa intro para confirmar que quieres DESACTIVAR el modo realista"
+msgstr "Pulsa ENTER para confirmar que quieres DESACTIVAR el modo realista"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAlliesAtObjective"
 msgstr ""
-"Pulsa intro para confirmar que quieres lanzar A TODOS LOS ALIADOS en el "
+"Pulsa ENTER para confirmar que quieres lanzar A TODOS LOS ALIADOS en el "
 "objetivo elegido"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAxisAtObjective"
 msgstr ""
-"Pulsa intro para confirmar que quieres lanzar A TODOS LOS SOLDADOS DEL EJE "
+"Pulsa ENTER para confirmar que quieres lanzar A TODOS LOS SOLDADOS DEL EJE "
 "en el objetivo elegido"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableMines"
 msgstr ""
-"Pulsa intro para confirmar que quieres DESACTIVAR todos los campos de minas"
+"Pulsa ENTER para confirmar que quieres DESACTIVAR todos los campos de minas"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableMines"
 msgstr ""
-"Pulsa intro para confirmar que quieres REACTIVAR todos los campos de minas"
+"Pulsa ENTER para confirmar que quieres REACTIVAR todos los campos de minas"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmKillAll"
-msgstr "Pulsa intro para confirmar que quieres MATAR A TODOS los jugadores"
+msgstr "Pulsa ENTER para confirmar que quieres MATAR A TODOS los jugadores"
 
 msgid "DHAdminMenu_AdminMessages.EnterGameSpeed"
 msgstr ""
@@ -86,5 +87,408 @@ msgstr ""
 
 msgid "DHAdminMenu_AdminMessages.EnterKickReason"
 msgstr ""
-"Escribe tu mensaje de expulsión al jugador - luego pulsa intro para "
+"Escribe tu mensaje de expulsión al jugador - luego pulsa ENTER para "
 "EXPULSARLO"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconDisabled"
+msgstr ""
+"Los iconos del jugador en el mapa han sido DESACTIVADOS por un administrador"
+
+msgid "DHAdminMenuMutator.Description"
+msgstr ""
+"Menú de opciones que permiten al administrador, un mayor control sobre los "
+"jugadores, personificación y opciones de prueba"
+
+msgid "DHAdminMenu_AdminMessages.EnterGridLocation"
+msgstr ""
+"Por favor, especifique la localización en la cuadricula (Ejemplo: Cuadricula "
+"E2 keypad 5, coloca 'e25')"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmMatchLive"
+msgstr "Presiona ENTER para confirmar 'Forzar partida en modo realista'"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmGagPlayer"
+msgstr "Presiona ENTER para CALLAR a este jugador"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableCapProgress"
+msgstr ""
+"Presiona ENTER para confirmar si quieres DESACTIVAR la barra de progreso de "
+"una bandera en el mapa"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableCapProgress"
+msgstr ""
+"Presiona ENTER para confirmar si quieres REACTIVAR la barra de progreso de "
+"una bandera en el mapa"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisablePlayerIcon"
+msgstr ""
+"Presiona ENTER para confirmar si quieres DESACTIVAR el icono de ubicación "
+"del jugador en el mapa"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnablePlayerIcon"
+msgstr ""
+"Presiona ENTER para confirmar si quieres ACTIVAR el icono de ubicación del "
+"jugador en el mapa"
+
+msgid "DHAdminMenu_AdminMessages.EnterTimeRemaining"
+msgstr "Por favor, especifica el nuevo tiempo restante de la ronda (en minutos)"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmToggleAdminCanPause"
+msgstr ""
+"Presiona ENTER para confirmar si quieres mantener la opción 'El "
+"administrador puede pausar la partida'"
+
+msgid "DHAdminMenu_AdminMessages.DestroyActorInSights"
+msgstr ""
+"Presiona ENTER para confirmar si quieres DESTRUIR el actor que tienes en tu "
+"mira"
+
+msgid "DHAdminMenu_AdminMessages.ChangeAlliesSquadSize"
+msgstr ""
+"Por favor, especifica el nuevo tamaño de las escuadras ALIADAS (Entre 8 y "
+"12, o 0 para reiniciar)"
+
+msgid "DHAdminMenu_AdminMessages.ChangeAxisSquadSize"
+msgstr ""
+"Por favor, especifica el nuevo tamaño de las escuadras del EJE (Entre 8 y "
+"12, o 0 para reiniciar)"
+
+msgid "DHAdminMenu_AdminMessages.SetGamePasswordText"
+msgstr "Por favor, coloca la contraseña para el proximo juego"
+
+msgid "DHAdminMenu_AdminMessages.ToggleWeaponLockText"
+msgstr ""
+"Presiona ENTER para confirmar si quieres alternar/cambiar el bloqueo de armas"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableRallyPoints"
+msgstr ""
+"Presiona ENTER para confirmar si quieres DESHABILITAR la colocación de "
+"puntos de reunión"
+
+msgid "DHAdminMenu_ErrorMessages.MissingNameText"
+msgstr "<nombre faltante>"
+
+msgid "DHAdminMenu_PlayerMenu.MenuTitle"
+msgstr "MENU DE JUGADOR DE ADMINISTRADOR"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[1]"
+msgstr ""
+"Debes iniciar sesión como un administrador (Por medio de la consola) para "
+"usar esta función"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[2]"
+msgstr "No se puede lanzar en paracaídas a un jugador en este servidor"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[3]"
+msgstr ""
+"No puedes usar esta opción, la extensión de partida realista no ha sido "
+"cargada en este servidor"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[4]"
+msgstr "ERROR: Nombre del jugador no especificado"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[5]"
+msgstr "ERROR: No se puede encontrar al jugador '%insert_name%'"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[6]"
+msgstr ""
+"AVISO: Se ha encontrado mas de un jugador con el nombre '%insert_name%', no "
+"es seguro proceder con esta acción"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[7]"
+msgstr "<ERROR: no player name>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[8]"
+msgstr "<ERROR: no admin name>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[9]"
+msgstr ""
+"El jugador '%insert_name%' no se encuentra activo, no puedes usar esta opción"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[10]"
+msgstr "'%insert_name%' ya tiene ese rol"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[11]"
+msgstr "No es posible, realizar aquella acción con un bot"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[12]"
+msgstr "ERROR: Mensaje no especificado"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[13]"
+msgstr ""
+"ERROR: Fallo al expulsar al jugador '%insert_name%' (Asegúrese de que el "
+"jugador al que intenta expulsar no este registrado como un administrador)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[14]"
+msgstr ""
+"ERROR: No se puede expulsar a ningún jugador, es necesario el "
+"'AccessControl' actor (no esta en este servidor)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[15]"
+msgstr "No hay campo de minas en este mapa"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[16]"
+msgstr "Los campos de minas han sido DESACTIVADOS"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[17]"
+msgstr "Los campos de minas han sido ACTIVADOS"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[18]"
+msgstr "ERROR: El nombre del equipo especificado no es valido"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[19]"
+msgstr "ERROR: No se puede encontrar el rol del jugador '%insert_name%'"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[20]"
+msgstr "ERROR: No se pudo encontrar el objetivo '%insert_name%'"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[21]"
+msgstr ""
+"ERROR: La localización de lanzamiento no es valida (Ejemplo En Objetivo, En "
+"Cuadricula o En Posición Actual)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[22]"
+msgstr "ERROR: Las coordenadas de cuadrante son INVALIDAS"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[23]"
+msgstr ""
+"Para un registro automático, debe colocar en su archivo DarkestHour.ini, los "
+"detalles de registros de administrador"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[24]"
+msgstr "Ningún jugador encontrado en su mira"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[25]"
+msgstr ""
+"Este modo de juego no permite los puntos de reunión, no podrá usar esta "
+"opción"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[26]"
+msgstr "La colocación de puntos de reunión ha sido DESHABILITADA"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[27]"
+msgstr "La colocación de puntos de reunión ha sido HABILITADA"
+
+msgid "DHAdminMenu_MenuBase.Label_PageNumber"
+msgstr "Pagina %X% de %Y%"
+
+msgid "DHAdminMenu_MenuBase.Label_PreviousMenu"
+msgstr "Re Pag = Menú anterior"
+
+msgid "DHAdminMenu_MenuBase.Label_PreviousPage"
+msgstr "Re Pag = Pagina anterior"
+
+msgid "DHAdminMenu_MenuBase.Label_NextPage"
+msgstr "Av Pag = Siguiente Pagina"
+
+msgid "DHAdminMenu_MenuBase.Label_ExitMenu"
+msgstr "Esc = Salir del Menú de Administrador"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyRename"
+msgstr "Su nombre en el juego ha sido cambiado por un administrador"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyKill"
+msgstr "Has sido reaparecido por un administrador"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyGag"
+msgstr "Un administrador te ha silenciado"
+
+msgid "DHAdminMenu_NotifyMessages.NotifySwitch"
+msgstr "Has sido cambiado de equipo o de rol por un Administrador"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyParaDrop"
+msgstr "Has sido lanzado en paracaídas en algún lado por un Administrador"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastMinesDisabled"
+msgstr "Todos los campos de minas han sido DESACTIVADOS por un administrador"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastMinesEnabled"
+msgstr "Todos los campos de minas han sido ACTIVADOS por un administrador"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressDisabled"
+msgstr ""
+"La barra de progreso en zona de captura ha sido DESACTIVADA por un "
+"administrador"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressEnabled"
+msgstr ""
+"La barra de progreso en zonas de capturas ha sido ACTIVADA por un "
+"administrador"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconEnabled"
+msgstr ""
+"Los iconos del jugador en el mapa han sido ACTIVADOS por un administrador"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastKilledAllPlayers"
+msgstr "Todos los jugadores fueron asesinados por un administrador"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastChangedGameSpeed"
+msgstr ""
+"La velocidad del juego ha sido cambiada al #insert_number# por un "
+"administrador"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastSetTimeRemaining"
+msgstr "El tiempo restante de la ronda ha sido cambiado por un administrador"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyToggleAdminCanPause"
+msgstr ""
+"Cambiaste la opción 'Solo Admins pueden pausar' configurado a "
+"#bAdminCanPause#"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastAlliesSquadSizeChanged"
+msgstr ""
+"El tamaño de las escuadras aliadas han sido cambiadas por un administrador"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastAxisSquadSizeChanged"
+msgstr ""
+"El tamaño de las escuadras del Eje han sido cambiadas por un administrador"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsDisabled"
+msgstr ""
+"La colocación de puntos de reunión han sido DESACTIVADAS por un administrador"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsEnabled"
+msgstr ""
+"Las colocaciones de punto de reunión de la escuadras han sido HABILITADAS "
+"por un administrador"
+
+msgid "DHAdminMenu_ObjectivesMenu.MenuTitle"
+msgstr "MENU DE SELECCIÓN DE OBJETIVOS"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuTitle"
+msgstr "ACTIONES DEL JUGADOR:"
+
+msgid "DHAdminMenu_PlayerMenu.Label_AimedPlayer"
+msgstr "[Jugador en tu mira]"
+
+msgid "DHAdminMenu_PlayerMenu.Label_RealismMenu"
+msgstr "R = Menú Partida realista (o de pruebas)"
+
+msgid "DHAdminMenu_PlayerMenu.Label_ServerMenu"
+msgstr "M = Menú del servidor (Configuración de servidor común)"
+
+msgid "DHAdminMenu_PrivateMessage.MessageHeader"
+msgstr "Has recibido un mensaje privado de un administrador"
+
+msgid "DHAdminMenu_PrivateMessage.MessageChatPrefix"
+msgstr "MENSAJE DE ADMINISTRADOR desde"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<9>"
+msgstr "Lanzar en paracaídas a todos los jugadores a cierto cuadrante"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<11>"
+msgstr "Mantener campos de minas habilitado/deshabilitados"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<12>"
+msgstr "Mantener barra de progreso de banderas Habilitar/Deshabilitar"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<13>"
+msgstr "Mantener iconos del jugador en el mapa Habilitado/Deshabilitado"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<14>"
+msgstr "Matar a todos los jugadores (terminar partida realista)"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<15>"
+msgstr "Establecer nueva velocidad en juego"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<16>"
+msgstr "Coloca nuevo tiempo restante de la ronda (minutos)"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<19>"
+msgstr "Cambiar tamaño de escuadras aliadas"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<17>"
+msgstr "Alternar cuando un administrador pueda pausar el juego"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<18>"
+msgstr "Destruir algún actor en tu mira"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<20>"
+msgstr "Cambiar el tamaño de escuadras del Eje"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<21>"
+msgstr "Activar o desactivar la colocación del punto de reunión"
+
+msgid "DHAdminMenu_RealismMenu.MenuTitle"
+msgstr "MENU DE PARTIDA REALISTA (O DE PRUEBAS)"
+
+msgid "DHAdminMenu_RolesMenu.MenuTitle"
+msgstr "MENU DE SELECCIÖN DE ROL"
+
+msgid "DHAdminMenu_ServerMenu.MenuText<1>"
+msgstr ""
+"Colocar contraseña al servidor (Deja en blanco para remover la contraseña)"
+
+msgid "DHAdminMenu_ServerMenu.MenuText<2>"
+msgstr "Alternar el bloqueo de armas"
+
+msgid "DHAdminMenu_ServerMenu.MenuTitle"
+msgstr "MENU DEL SERVIDOR (PARA VARIAS CONFIGURACIONES)"
+
+msgid "DHAdminMenu_WarningMessage.WarningHeader"
+msgstr "Has recibido un mensaje de advertencia de un administrador"
+
+msgid "DHAdminMenu_WarningMessage.WarningChatPrefix"
+msgstr "ADVERTENCIA DE ADMINISTRADOR de"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<0>"
+msgstr "Renombrar un jugador"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<1>"
+msgstr "Enviar mensaje privado"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<2>"
+msgstr "Enviar mensaje de advertencia (con sonido)"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<3>"
+msgstr "Expulsar un jugador con mensaje"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<4>"
+msgstr "Matar a este jugador"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<5>"
+msgstr "Silenciar este jugador"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<6>"
+msgstr "Cambiar jugador a rol de Aliados"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<7>"
+msgstr "Cambiar jugador a rol del Eje"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<8>"
+msgstr "Lanzar en paracaídas a jugador a cierto objetivo"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<9>"
+msgstr "Lanzar en paracaídas a jugador a una cuadricula"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<10>"
+msgstr "Lanzar en paracaídas a jugador en la ubicación actual"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<1>"
+msgstr "Habilitar la partida realista"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<2>"
+msgstr "Deshabilitar partida realista"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<3>"
+msgstr "Ir a partida realista"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<4>"
+msgstr "Lanzar en paracaídas a jugadores Aliados cierto objetivo"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<5>"
+msgstr "Lanzar en paracaídas a jugadores del Eje cierto objetivo"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<6>"
+msgstr "Lanzar en paracaídas a todos jugadores a cierto objetivo"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<8>"
+msgstr "Lanzar en paracaídas a todos el Eje a cierto cuadrante"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<7>"
+msgstr "Lanzar en paracaídas a todos los Aliados a cierto cuadrante"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableRallyPoints"
+msgstr ""
+"Presiona ENTER para confirmar si quieres HABILITAR la colocación de puntos "
+"de reunión"
