@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 17:57+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
+"PO-Revision-Date: 2025-07-11 19:43+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
 "Language: es\n"
@@ -42,8 +42,9 @@ msgstr "Cabo"
 msgid "DHAlliedCorporalRoles.PluralName"
 msgstr "Cabos"
 
+#, fuzzy
 msgid "DHAlliedEngineerRoles.MyName"
-msgstr "Zapador"
+msgstr "Ingeniero de Combate"
 
 msgid "DHAlliedEngineerRoles.AltName"
 msgstr ""
@@ -85,7 +86,7 @@ msgid "DHAmericanCannonPawn.RangeText"
 msgstr "yardas"
 
 msgid "DHATCannonMessage.NotQualified"
-msgstr "No cualificado para operar este cañón"
+msgstr "No estas cualificado para operar este cañón"
 
 msgid "DHATCannonMessage.VehicleIsEnemy"
 msgstr "No puede usar un cañón enemigo"
@@ -136,7 +137,7 @@ msgid "DHArtillerySpottingScope.RangeHeaderString"
 msgstr "Alcance"
 
 msgid "DHArtillerySpottingScope.NoTargetsHint"
-msgstr ""
+msgstr "No hay objetivos disponibles"
 
 msgid "DHAxisCorporalRoles.MyName"
 msgstr "Cabo"
@@ -145,7 +146,7 @@ msgid "DHAxisCorporalRoles.PluralName"
 msgstr "Cabos"
 
 msgid "DHAxisEngineerRoles.MyName"
-msgstr "Zapador"
+msgstr "Ingeniero de Combate"
 
 msgid "DHAxisEngineerRoles.PluralName"
 msgstr "Zapadores"
@@ -574,3 +575,958 @@ msgstr ""
 "Las armas AT se descargarán automáticamente si cambias a otra arma. Es una "
 "buena idea pegarse a un compañero de equipo para acelerar la recarga cuando "
 "sea necesario."
+
+msgid "DHATCannonMessage.GunIsRotating"
+msgstr "El cañón se esta rotando"
+
+msgid "DHATCannonMessage.CannotEnter"
+msgstr "El cañón esta siendo usado"
+
+msgid "DHATLoadFailMessage.CantLoad"
+msgstr "{0} debe estar en posición para ser recargado"
+
+msgid "DHAdminMessage.KickedFromSquadMessage"
+msgstr "El administrador '{0}' expulso '{1}' de la escuadra '{2}'."
+
+msgid "DHCommandMenu_FireSupport.AvailableParadropsText"
+msgstr "Paracaidistas: {0}"
+
+msgid "DHCommandMenu_FireSupport.AvailableAirstrikesText"
+msgstr "Ataques aéreos: {0}"
+
+msgid "DHGameMessage.VehicleCutOffMessage"
+msgstr "Los refuerzos de {0} han sido cortados."
+
+msgid "DHGameMessage.VehicleArrivedMessage"
+msgstr "Los refuerzos de {0} han llegado al combate."
+
+msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
+msgstr "Finalizar"
+
+msgid "DHArtillerySpottingScope.RightString"
+msgstr "Derecha"
+
+msgid "DHArtillerySpottingScope.DistanceString"
+msgstr "Distancia"
+
+msgid "DHArtillerySpottingScope.CorrectionString"
+msgstr "Corrección"
+
+msgid "DHArtilleryTargetMessage.TargetInvalid"
+msgstr "Objetivo de artillería invalido"
+
+msgid "DHAxisAntiTankRoles.MyName"
+msgstr "Caza Tanques"
+
+msgid "DHAxisAssaultRoles.MyName"
+msgstr "Tropa de Asalto"
+
+msgid "DHChatRoomMessage.CannotJoinSquadChannelText"
+msgstr "No puedes unirte al canal de `%title%`. Debes unirte a una escuadra."
+
+msgid "DHCommandMenu_ATGun.BusyText"
+msgstr "Estas ocupado"
+
+msgid "DHConstructionGroup_Guns.GroupName"
+msgstr "Cañones"
+
+#, fuzzy
+msgid "DHConstructionSupplyAttachment_Static_Main.HumanReadableName"
+msgstr "Base de Depósito de Suministros"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<17>"
+msgstr "No puedes {verb} un {name} en esta superficie."
+
+msgid "DHConstruction_Vehicle.ConstructionVerb"
+msgstr "Emplazar"
+
+msgid "DHGameMessage.VehicleTeamKilledMessage"
+msgstr "{0} ha matado a un {1} aliado."
+
+msgid "DHGameMessage.RoleUnlockedMessage"
+msgstr "{role} ha sido desbloqueado."
+
+msgid "DHGameType_Armored_Advance.GameTypeName"
+msgstr "Avance Acorazado"
+
+msgid "DHHintManager.Hints[7].Text"
+msgstr ""
+"Para ajustar la rotación del mortero, mantenga presionadas las teclas A o D. "
+"Para aumentar la elevación, presione la tecla S. Para disminuirla, presione "
+"la tecla W. Para seleccionar el otro tipo de proyectil, presione la tecla "
+"%SwitchFireMode%. Para disparar un proyectil, presione la tecla %Fire%."
+
+msgid "DHHintManager.Hints[43].Title"
+msgstr "Vehículos de Reabastecimiento"
+
+msgid "DHHintManager.Hints[49].Title"
+msgstr "Mira de observación"
+
+msgid "DHHintManager.Hints[66].Text"
+msgstr ""
+"Acabas de lanzar un proyectil de mortero al aire. ¡Quizás quieras ponerte a "
+"cubierto!"
+
+msgid "DHMapDatabase.SizeExtraSmallText"
+msgstr "Muy Pequeño"
+
+msgid "DHLocalMessage.SquadLeaderID"
+msgstr "LE"
+
+msgid "DHInventorySpawner.MenuNoun"
+msgstr "Caja"
+
+msgid "DHArtillerySpottingScope.LeftString"
+msgstr "Izquierda"
+
+msgid "DHArtillerySpottingScope.SelectTargetHint"
+msgstr "Presiona {0} para seleccionar un objetivo de artillería"
+
+msgid "DHArtilleryTargetMessage.TargetMarkedHE"
+msgstr "{0} ha marcado un objetivo de artillería de alto explosivo"
+
+msgid "DHMainMenuGame.GameName"
+msgstr "Juego"
+
+msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
+msgstr "Rotar"
+
+msgid "DHCommandMenu_LoneWolf.AutoJoinSquadDisabledText"
+msgstr "Sin escuadras para elegir"
+
+msgid "DHHintManager.Hints[47].Text"
+msgstr ""
+"Esta ametralladora solo se puede disparar desde el interior del vehículo, "
+"pero está montada externamente y debes desabrochar la escotilla para "
+"recargarla"
+
+msgid "DHHintManager.Hints[49].Text"
+msgstr ""
+"Estás operando una pieza de artillería equipada con una mira telescópica. "
+"Pulsa %NEXTWEAPON% para mirar a través de ella."
+
+msgid "DHAccessControl.SessionBanned"
+msgstr "No puedes entrar a este servidor hasta que cambie el mapa."
+
+msgid "DHArtilleryMessage.ExhaustedText"
+msgstr "{name} ha sido gastada."
+
+msgid "DHCommandMenu_FireSupport.AvailableArtilleryText"
+msgstr "Artillería: {0}"
+
+msgid "DHArtilleryMessage.ActiveTargetChosen"
+msgstr "Objetivo de artillería seleccionado."
+
+msgid "DHHud.SpawnAtVehicleText"
+msgstr "Aparecerás como un {0} en un {1} en {2} | Presiona [ESC] para cambiar"
+
+msgid "DHMortarMessage.InWater"
+msgstr "No puedes desplegar el mortero en el agua"
+
+#, fuzzy
+msgid "DHAdminMessage.PlacedSpawnMessage"
+msgstr "El administrador '{0}' ha puesto un punto de aparición en {1} equipo."
+
+#, fuzzy
+msgid "DHAdminMessage.DestroyedSpawnMessage"
+msgstr ""
+"El administrador '{0}' ha destruido un punto de aparición de un "
+"administrador en {1} equipo."
+
+#, fuzzy
+msgid "DHAdminMessage.DestroyedAllSpawnsMessage"
+msgstr ""
+"El administrador '{0}' destruyo todos los puntos de aparición (puestos por "
+"administradores) en {1} equipo."
+
+msgid "DHAdminMessage.AdminTeleportedMessage"
+msgstr "El administrador '{0}' se ha teletransportado."
+
+msgid "DHAdminMessage.AlliedTeamNameGenitive"
+msgstr "Aliados"
+
+msgid "DHAdminMessage.AxisTeamNameGenitive"
+msgstr "Eje"
+
+msgid "DHArtilleryMessage.RequestText"
+msgstr "Solicitando {name}."
+
+msgid "DHCommandMenu_Radio.UnqualifiedText"
+msgstr "Descalificado"
+
+msgid "DHCommandMenu_Radio.OngoingText"
+msgstr "En ruta"
+
+msgid "DHCommandMenu_SquadAssistant.Options<0>.ActionText"
+msgstr "Construcción"
+
+msgid "DHCommandMenu_SquadManageMember.Options<1>.SubjectText"
+msgstr "Promover a líder de escuadrón"
+
+msgid "DHCommandMenu_SquadManageMember.Options<2>.SubjectText"
+msgstr "Vetar de la escuadra"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<5>"
+msgstr "No puedes {verb} un {name} en este sitio."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<8>"
+msgstr ""
+"Esta muy cerca de un existente {name} aliado, debe estar a {integer}m mas "
+"adelante."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<9>"
+msgstr ""
+"Esta muy cerca de un existente {name} enemigo, debe estar a {integer}m mas "
+"adelante."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<10>"
+msgstr "No puedes {verb} un {name} en un campo de minas."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<16>"
+msgstr "Hay insuficientes suministros para {verb} un {name}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<23>"
+msgstr ""
+"Estas muy cerca de un objetivo no controlado ({string}), debes estar "
+"{integer}m mas lejos."
+
+#, fuzzy
+msgid "DHConstructionErrorMessage.ErrorMessages<27>"
+msgstr "Este socket ya está ocupado"
+
+msgid "DHATGunTouchMessage.Controls<1>.Text"
+msgstr "Rotar"
+
+msgid "DHATGunTouchMessage.Controls<0>.Text"
+msgstr "Entrar"
+
+msgid "DHGameMessage.VehicleDestroyedMessage"
+msgstr "{0} ha sido destruido."
+
+msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
+msgstr "El administrador '{0}' promovió a '{1}' a líder de escuadra '{2}'."
+
+#, fuzzy
+msgid "DHArtilleryMessage.NoTargetText"
+msgstr "Ninguna localización del objetivo."
+
+msgid "DHArtilleryMessage.NotQualifiedText"
+msgstr "No estas calificado para llamar a la {name}."
+
+msgid "DHArtilleryMessage.CancelledText"
+msgstr "{name} ha sido cancelada."
+
+#, fuzzy
+msgid "DHArtillerySpottingScope.PitchHeaderString"
+msgstr "Inclinación"
+
+msgid "DHArtilleryTargetMessage.TargetMarkedSmoke"
+msgstr "{0} ha marcado un objetivo de artillería de humo"
+
+msgid "DHCommandMenu_Radio.CancelText"
+msgstr "En ruta (Cancelar)"
+
+msgid "DHCommandMenu_FireSupport.OffMapSupportExhaustedText"
+msgstr "Gastado"
+
+msgid "DHCommandMenu_SquadManageNonMember.SquadIsFullText"
+msgstr "La escuadra esta llena"
+
+msgid "DHCommunicationMessage.AllChatDisabledMessage"
+msgstr "El chat publico esta deshabilitado en este momento."
+
+msgid "DHConstruction.ConstructionVerb"
+msgstr "Construir"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<2>"
+msgstr "Debes {verb} un {name} en un terreno solido."
+
+msgid "DHCommandSayMessage.MessagePrefix"
+msgstr "[COMANDO]"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<11>"
+msgstr "No puedes {verb} un {name} cerca de un punto de aparición."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<12>"
+msgstr "No puedes {verb} un {name} en las entradas."
+
+msgid "DHFireSupportMessage.OnMapArtilleryRequestingLocked"
+msgstr "No puedes otra marca de soporte de fuego por {seconds} segundos."
+
+#, fuzzy
+msgid "DHFireSupportMessage.RadiomanNotification"
+msgstr ""
+"La escuadra {squad} ha marcado un objetivo para soporte de artillería de "
+"largo alcance"
+
+msgid "DHGameReplicationInfo.ReinforcementsInfiniteText"
+msgstr "Infinito"
+
+msgid "DHGameType.GameTypeName"
+msgstr "Tipo de juego desconocido"
+
+msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
+msgstr ""
+"¡Debes tener a otro miembro de tu equipo cerca para destruir un puesto de "
+"mando enemigo!"
+
+msgid "DHHintManager.Hints[50].Text"
+msgstr ""
+"Abre el mapa para coordinar el fuego. Usa [RIGHTMOUSE] sobre una solicitud "
+"de apoyo de fuego para seleccionarla como objetivo activo o usa la regla "
+"para medir la distancia desde tu ubicación hasta un punto determinado en el "
+"mapa."
+
+msgid "DHHintManager.Hints[51].Title"
+msgstr "Interacción del mapa"
+
+msgid "DHHintManager.Hints[50].Title"
+msgstr "Operadores de Artillería"
+
+msgid "DHHintManager.Hints[53].Title"
+msgstr "Marcas en el mapa"
+
+msgid "DHLocalMessage.SquadAssistantID"
+msgstr "A"
+
+msgid "DHGameMessage.LeftMessage"
+msgstr "{name} dejo el campo de batalla."
+
+msgid "DHGameMessage.EnteredMessage"
+msgstr "{name} entro al campo de batalla."
+
+msgid "DHHintManager.Hints[8].Text"
+msgstr ""
+"Los líderes de escuadrón pueden marcar objetivos que se hacen visibles en el "
+"mapa. Cuando un proyectil impacta cerca de un marcador de objetivo, la "
+"ubicación del impacto se marcará en el mapa con una pequeña onda expansiva. "
+"Usa estos marcadores para localizar a tu objetivo."
+
+msgid "DHHintManager.Hints[9].Title"
+msgstr "Dejando el mortero"
+
+msgid "DHHintManager.Hints[10].Text"
+msgstr ""
+"Para desplegar el mortero, pulsa la tecla %Deploy%. Al desplegar el mortero, "
+"se restablecerán los ajustes de elevación y giro."
+
+msgid "DHHintManager.Hints[40].Title"
+msgstr "Motores de Vehículos"
+
+msgid "DHHintManager.Hints[40].Text"
+msgstr ""
+"Has entrado en un vehículo. Para arrancar o parar el motor, pulsa %FIRE%."
+
+msgid "DHHintManager.Hints[42].Text"
+msgstr ""
+"Estás conduciendo un barco Higgins. Baja la rampa de proa pulsando "
+"%PREVWEAPON% para que los pasajeros y tú puedan salir. Para subir la rampa "
+"de proa, pulsa %NEXTWEAPON%."
+
+#, fuzzy
+msgid "DHHintManager.Hints[46].Title"
+msgstr "Ametralladora montada externa"
+
+msgid "DHMapMarker_Squad_Defend.MarkerName"
+msgstr "Orden de defensa"
+
+msgid "DHHintManager.Hints[54].Title"
+msgstr "Encuentra una radio"
+
+msgid "DHHintManager.Hints[54].Text"
+msgstr ""
+"Has marcado un objetivo para un soporte de artillería de largo alcance. ¡"
+"Busca una radio para poder llamar!"
+
+msgid "DHHud.ConnectedObjectivesNotSecuredText"
+msgstr "Objetivos conectados no están asegurados"
+
+msgid "DHHud.NeedsClearedText"
+msgstr " (No Asegurado)"
+
+msgid "DHHud.BlackoutText"
+msgstr "Negro"
+
+msgid "DHHud.CanReloadText"
+msgstr "Presiona %THROWMGAMMO% para ayudarlo a recargar"
+
+msgid "DHHud.SpectateInstructionText2"
+msgstr "Presiona [%ALTFIRE%] para cambiar de modos de Espectador"
+
+msgid "DHMapMarker_FireSupport_OffMap.MarkerName"
+msgstr "Soporte de Artillería de Largo Alcance"
+
+msgid "DHHud.PlaceRallyPointText"
+msgstr "Presiona [%PLACERALLYPOINT%]"
+
+msgid "DHHud.ReinforcementText"
+msgstr "Aparecerás como un {0} en {2} | Presiona [ESC] para cambiar"
+
+msgid "DHHud.TeamMessagePrefix"
+msgstr "[EQUIPO] "
+
+msgid "DHHud.SpectateInstructionText1"
+msgstr "Presiona [%FIRE%] para cambias Puntos de Vista/Jugadores"
+
+msgid "DHMortarMessage.MustCrouch"
+msgstr "Debes estar agachado para desplegar el mortero"
+
+msgid "DHMortarMessage.MustBeStill"
+msgstr "No puedes desplegar el mortero mientras te mueves"
+
+msgid "DHMortarMessage.BadSurface"
+msgstr "No puedes desplegar el mortero en esta superficie"
+
+msgid "DHMapMarker_Squad_Move.MarkerName"
+msgstr "Orden de moverse"
+
+msgid "DHPlayerReplicationInfo.SquadLeaderAbbreviation"
+msgstr "LDE"
+
+msgid "DHPlayerReplicationInfo.AssistantAbbreviation"
+msgstr "A"
+
+msgid "DHRadioTouchMessage.RequestMessage"
+msgstr ""
+"Mantén pulsado [%SHOWORDERMENU | ONRELEASE HIDEORDERMENU%] para solicitar "
+"artillería"
+
+msgid "DHGameMessage.MaxRoleMsg"
+msgstr "Imposible de cambiar a {role}."
+
+msgid "DHGameMessage.HasForgivenMessage"
+msgstr "{victim} ha perdonado a {killer}."
+
+msgid "DHHintManager.Hints[1].Title"
+msgstr "Escalar"
+
+msgid "DHHintManager.Hints[60].Title"
+msgstr "Rango del disparo"
+
+msgid "DHHintManager.Hints[60].Text"
+msgstr ""
+"¡Esta arma tiene una mira ajustable! Pulsa %SWITCHFIREMODE% para cambiar el "
+"alcance de la mira."
+
+msgid "DHArtillerySpottingScope.SelectedTargetText"
+msgstr "Objetivo seleccionado."
+
+msgid "DHArtillerySpottingScope.MeasurementToolText"
+msgstr "Herramienta de medición"
+
+#, fuzzy
+msgid "DHArtillerySpottingScope.TargetToggleHint"
+msgstr "Presiona {0} para mantener ciertos objetivos de artilleria"
+
+msgid "DHArtillerySpottingScope.SquadText"
+msgstr "Escuadra"
+
+msgid "DHChatRoomMessage.CannotJoinCommandChannelText"
+msgstr ""
+"No puedes unirte al canal de `%title%`. Debes ser un líder de escuadra o un "
+"asistente y tu escuadra al menos debería tener 2 miembros."
+
+msgid "DHCommandMenu_ATGun.EnemyGunText"
+msgstr "No se puede rotar el cañón enemigo"
+
+msgid "DHCommandMenu_Patron.Options<0>.ActionText"
+msgstr "Construcción"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<21>"
+msgstr "No puedes {verb} un {name} mientras estas ocupado."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<22>"
+msgstr ""
+"Esta muy cerca de un objetivo ({string}), debe estar {integer}m mas lejos."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<18>"
+msgstr "El terreno es muy duro para {verb} un {name} en este sitio."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<20>"
+msgstr "Debes tener {integer} miembros en tu escuadra para {verb} un {name}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<24>"
+msgstr "Debes {verb} un {name} dentro {integer}m de un {string} aliado."
+
+msgid "DHCommandMenu_ATGun.CannotBeRotatedText"
+msgstr "No se puede rotar"
+
+msgid "DHCommandMenu_ATGun.OccupiedText"
+msgstr "El cañón esta ocupado"
+
+msgid "DHCommandMenu_ATGun.FatalText"
+msgstr "No se puede rotar"
+
+msgid "DHCommandMenu_ATGun.Options<0>.ActionText"
+msgstr "Rotar"
+
+msgid "DHCommandMenu_LoneWolf.Options<0>.ActionText"
+msgstr "Unirse automáticamente a una escuadra"
+
+msgid "DHCommandMenu_LoneWolf.Options<1>.ActionText"
+msgstr "Crear una escuadra"
+
+msgid "DHCommandMenu_SquadManageMember.Options<3>.SubjectText"
+msgstr "Promover a asistente"
+
+msgid "DHGameMessage.NewTeamMessageGerman"
+msgstr "{name} se ha unido a las fuerzas del Eje."
+
+msgid "DHGameMessage.RoleLockedMessage"
+msgstr "{role} ha sido bloqueado."
+
+msgid "DHGameMessage.NewTeamMessageRussian"
+msgstr "{name} se ha unido a las fuerzas Aliadas."
+
+msgid "DHGameType_Clash.GameTypeName"
+msgstr "Choques"
+
+msgid "DHGameType_Push.GameTypeName"
+msgstr "Empuje"
+
+msgid "DHGameMessage.RoleChangeMsg"
+msgstr "Se intentara reaparecer como {role}."
+
+msgid "DHGameMessage.GlobalNameChange"
+msgstr "{old_name} ha cambiado su nombre a {new_name}."
+
+msgid "DHGameMessage.VoteStarted"
+msgstr "{name} inicio una votación."
+
+msgid "DHGameType_Advance.GameTypeName"
+msgstr "Avance"
+
+msgid "DHHintManager.Hints[1].Text"
+msgstr ""
+"¡Puedes superar obstáculos pequeños! Para superarlos, párate frente a "
+"cualquier obstáculo bajo hasta que aparezca el ícono de para escalar y luego "
+"presiona %JUMP% para escalarlo."
+
+msgid "DHFireSupportMessage.OnMapArtilleryRequestConfirmedText"
+msgstr "Objetivo de soporte de fuego ha sido marcado."
+
+msgid "DHHintManager.Hints[6].Text"
+msgstr ""
+"Mientras sostienes un mortero, no puedes cambiar de arma, correr, tumbarte o "
+"escalar. Para desplegar el mortero, agáchate en terreno llano y pulsa "
+"%DESPLEGAR%."
+
+msgid "DHGameType_Cutoff.GameTypeName"
+msgstr "Aislado"
+
+msgid "DHHintManager.Hints[7].Title"
+msgstr "Operación de Mortero"
+
+msgid "DHHintManager.Hints[8].Title"
+msgstr "Objetivos de Artillería"
+
+msgid "DHHintManager.Hints[9].Text"
+msgstr ""
+"Puedes abandonar el mortero en cualquier momento pulsando la tecla %Use%. "
+"Mientras no estés en el mortero, puedes recuperar munición en una zona de "
+"reabastecimiento o de tus compañeros."
+
+msgid "DHHintManager.Hints[12].Text"
+msgstr ""
+"Puedes marcar objetivos para fuego de apoyo con tus binoculares. Abre los "
+"binoculares con %ROIRONSIGHTS% y mantén pulsado %FIRE% para abrir el menú de "
+"fuego de apoyo."
+
+msgid "DHHintManager.Hints[13].Text"
+msgstr ""
+"¡Eres un operador de radio! ¡Mantente cerca de los líderes de escuadra para "
+"que puedan solicitar apoyo de fuego a larga distancia!"
+
+msgid "DHHintManager.Hints[44].Text"
+msgstr ""
+"Conduces un camión de reabastecimiento. Este vehículo puede reabastecer "
+"vehículos, morteros e infantería. Asegúrate de estacionarlo en un lugar "
+"seguro."
+
+msgid "DHHintManager.Hints[43].Text"
+msgstr ""
+"Estás cerca de un camión de reabastecimiento. Colócate en la parte trasera "
+"del camión para reabastecerte de munición."
+
+msgid "DHHintManager.Hints[44].Title"
+msgstr "Vehículos de Reabastecimiento"
+
+msgid "DHHintManager.Hints[47].Title"
+msgstr "Ametralladora controlada remotamente"
+
+msgid "DHHintManager.Hints[52].Title"
+msgstr "Navegación del mapa"
+
+msgid "DHHintManager.Hints[52].Text"
+msgstr ""
+"Para ampliar el mapa, pase el cursor sobre él y use la rueda de "
+"desplazamiento. Para desplazarse por el mapa, mantenga pulsado el [LEFTMOUSE]"
+" del ratón y mueva el cursor."
+
+msgid "DHHintManager.Hints[53].Text"
+msgstr ""
+"Para agregar e interactuar con marcadores en el mapa, pase el cursor sobre "
+"el área u objeto de interés y presione [RIGHTMOUSE] para que aparezca el "
+"menú contextual."
+
+msgid "DHHintManager.Hints[65].Text"
+msgstr ""
+"Aunque el Semovente da 90/53 tiene arma potente, su munición es muy "
+"limitada. ¡Aprovecha cada disparo!"
+
+msgid "DHHintManager.Hints[63].Text"
+msgstr ""
+"Puedes cambiar el cañón de esta arma. Pulsa %ROMGOPERATION% con el arma "
+"desplegada para cambiar a tu cañón secundario."
+
+msgid "DHHud.SpawnRallyPointText"
+msgstr ""
+"Aparecerás como un {0} en el punto de aparición de tu escuadrón en {2} | "
+"Presiona [ESC] para cambiar"
+
+msgid "DHHud.PrereleaseDisclaimerText"
+msgstr ""
+"Esta es una versión preliminar. Todo el contenido está sujeto a cambios."
+
+msgid "DHHud.SpectateInstructionText3"
+msgstr ""
+"Presiona [%ROIRONSIGHTS%] para cambiar la vista entre Primera/Tercera Persona"
+
+msgid "DHHud.SpectateInstructionText4"
+msgstr "Presiona [%JUMP%] para volver a tu propia vista"
+
+msgid "DHIQMessage.Congratulations<4>"
+msgstr "¡Hombre loco absoluto!"
+
+msgid "DHMapMarker_AdminParadrop.MarkerName"
+msgstr "ADMINISTRADOR: Colocar una marca para lanzamiento de paracaidistas"
+
+msgid "DHMapMarker_FireSupport_HE.MarkerName"
+msgstr "Solicitud de H.E."
+
+msgid "DHMapMarker_FireSupport_Smoke.MarkerName"
+msgstr "Solicitud de Cobertura de Humo"
+
+msgid "DHMapMarker_Squad_Attention.MarkerName"
+msgstr "Orden de Atención"
+
+msgid "DHMortarMessage.NotEnoughRoom"
+msgstr "No hay suficientes espacio para desplegar el mortero aquí"
+
+msgid "DHMortarMessage.CannotDeploy"
+msgstr "No puedes desplegar tu mortero aqui"
+
+msgid "DHMortarMessage.EnemyMortar"
+msgstr "No puedes operar morteros enemigos"
+
+#, fuzzy
+msgid "DHObjectiveMessage.NotificationMessage"
+msgstr "{0} han {1} {2}"
+
+msgid "DHPawn.AdminSpawnedVehicleText"
+msgstr "Un administrado {name} genero un {vehicle}"
+
+msgid "DHPawnTouchMessage.FallbackPlayerName"
+msgstr "soldado aliado"
+
+msgid "DHRadioTouchMessage.NoTargetMessage"
+msgstr "Ningún objetivo de artillería ha sido marcado"
+
+msgid "DHRadioTouchMessage.CalibratingMessage"
+msgstr "La radio esta siendo calibrada"
+
+msgid "DHReinforcementAwardMsg.ObjectiveString"
+msgstr "un objetivo"
+
+msgid "DHResetGameMsg.CountdownText"
+msgstr "El juego se reiniciara en {seconds} segundos"
+
+msgid "DHResetGameMsg.GameRestartingText"
+msgstr "El juego se esta reiniciando"
+
+msgid "DHResupplyMessage.HaveResuppliedFriendlyMortar"
+msgstr "Has reabastecido a un mortero aliado"
+
+msgid "DHRocketWarningMessage.NoHipFire"
+msgstr "No puedes disparar {0} desde la cadera"
+
+msgid "DHRocketWarningMessage.CrouchOrRestToFire"
+msgstr "Debes estar agachado o con el arma apoyada para disparar el {0}"
+
+msgid "DHRocketWarningMessage.ProneOrRestToFire"
+msgstr "Debes estar cuerpo a tierra o con el arma apoyada para disparar el {0}"
+
+msgid "DHRocketWarningMessage.NoProneReload"
+msgstr "No puedes recargar el {0} si estas cuerpo a tierra"
+
+msgid "DHRocketWarningMessage.RestToReload"
+msgstr "Necesitas estar cuerpo a tierra para recargar el {0}"
+
+msgid "DHHintManager.Hints[10].Title"
+msgstr "Retirar el mortero"
+
+msgid "DHGetPassword.GetPassFail.Caption"
+msgstr "Cancelar"
+
+msgid "DHGetPassword.GetPassRetry.Caption"
+msgstr "Entregar"
+
+msgid "DHArtilleryMessage.ConfirmText"
+msgstr "{name} confirmada."
+
+msgid "DHHintManager.Hints[65].Title"
+msgstr "Semovente da 90/53"
+
+msgid "DHArtilleryMessage.DenyText"
+msgstr "{name} denegada."
+
+msgid "DHArtilleryMessage.TooSoonText"
+msgstr "{name} se encuentra en uso. Intente mas tarde."
+
+msgid "DHArtilleryMessage.UnavailableText"
+msgstr "{name} no esta disponible en este momento."
+
+msgid "DHArtilleryMessage.BadLocationText"
+msgstr "Objetivo invalido para {name}."
+
+msgid "DHHintManager.Hints[55].Title"
+msgstr "Granadas de impacto"
+
+msgid "DHHintManager.Hints[55].Text"
+msgstr ""
+"Tienes una granada con espoleta de impacto. Esta granada explotará al "
+"impactar contra cualquier superficie. ¡Asegúrate de lanzarla con fuerza o "
+"podría no detonar!"
+
+msgid "DHHud.ServerNameText"
+msgstr "Servidor: "
+
+msgid "DHHud.SelectSpawnPointText"
+msgstr "Presiona [ESC] para seleccionar un punto de aparición"
+
+msgid "DHHud.SpawnInfantryText"
+msgstr "Aparecerás como un {0} en {2} | Presiona [ESC] para cambiar"
+
+msgid "DHHud.NeedReloadText"
+msgstr "Necesitas recargar"
+
+msgid "DHHud.LegendCarriedArtilleryRadioText"
+msgstr "Operador de radio de artillería"
+
+msgid "DHHud.TimeElapsedText"
+msgstr "Tiempo transcurrido: "
+
+msgid "DHHud.InvalidSpawnSettingsText"
+msgstr ""
+"Presiona [ESC] para confirmar tu rol, vehículo y selección de punto de "
+"aparición"
+
+msgid "DHHud.NotReadyToSpawnText"
+msgstr ""
+"La aparición se efectuara en {s} (Use este tiempo para organizar escuadrones "
+"y planificar estrategias)"
+
+msgid "DHMapDatabase.SizeAnyText"
+msgstr "Cualquiera"
+
+msgid "DHMapMarker_Enemy_CommandPost.MarkerName"
+msgstr "Puesto de Mando Enemigo"
+
+msgid "DHMapMarker_Friendly_CommandPost.MarkerName"
+msgstr "Solicitud de Puesto de Mando"
+
+msgid "DHAdminMessage.AdminLoggedInMessage"
+msgstr "{0} entro al servidor como un administrador."
+
+msgid "DHAdminMessage.AdminLoggedOutMessage"
+msgstr "{0} dejo los permisos de administrador."
+
+msgid "DHArtilleryTargetMessage.CannotMarkTargetYet"
+msgstr "No puedes marcar otro objetivo de artillería todavía"
+
+msgid "DHArtilleryTargetMessage.TooManyArtilleryTargets"
+msgstr "Hay demasiados objetivos de artillería activos"
+
+msgid "DHCommandMenu_FireSupport.InvalidTargetText"
+msgstr "Objetivo invalido"
+
+msgid "DHCommandMenu_Patron.Options<1>.ActionText"
+msgstr "Avistando"
+
+msgid "DHCommandMenu_Radio.UnavailableText"
+msgstr "No disponible"
+
+msgid "DHCommandMenu_Radio.ExhaustedText"
+msgstr "Gastado"
+
+msgid "DHCommandMenu_SquadAssistant.Options<1>.ActionText"
+msgstr "Avistando"
+
+msgid "DHCommandMenu_SquadLeader.Options<0>.ActionText"
+msgstr "Crear punto de reunión"
+
+msgid "DHCommandMenu_SquadLeader.Options<1>.ActionText"
+msgstr "Fuego"
+
+msgid "DHCommandMenu_SquadLeader.Options<2>.ActionText"
+msgstr "Construcción"
+
+msgid "DHCommandMenu_SquadLeader.Options<4>.ActionText"
+msgstr "Avistando"
+
+msgid "DHCommandMenu_SquadLeader.Options<5>.ActionText"
+msgstr "Muévete acá"
+
+msgid "DHCommandMenu_SquadManageMember.Options<0>.SubjectText"
+msgstr "Expulsar de la escuadra"
+
+msgid "DHCommandMenu_SquadManageMember.Options<4>.SubjectText"
+msgstr "Remover asistente"
+
+msgid "DHCommandMenu_SquadManageNonMember.AlreadyInASquadText"
+msgstr "Ya esta en la escuadra"
+
+msgid "DHCommandMenu_SquadManageNonMember.Options<0>.ActionText"
+msgstr "Invitar a la escuadra"
+
+msgid "DHCommandMenu_SquadMenu.Options<0>.ActionText"
+msgstr "Dejar la escuadra"
+
+msgid "DHCommandPostMessage.ActivatedMessage"
+msgstr "Un {name} ha sido establecido."
+
+msgid "DHCommandPostMessage.OverrunMessage"
+msgstr "Un {name} ha sido arrasado por el enemigo."
+
+msgid "DHCommandPostMessage.DestroyedMessage"
+msgstr "Un {name} ha sido destruido."
+
+#, fuzzy
+msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
+msgstr "Ningún jugador "
+
+msgid "DHCommandPostMessage.ConstructedMessage"
+msgstr "Un {name} ha sido construido y se establecerá en {seconds} segundos."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<3>"
+msgstr "El terreno esta muy empinado aquí {verb} un {name}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<4>"
+msgstr "No puedes {verb} un {name} en el agua."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<6>"
+msgstr "No hay suficiente espacio para {verb} un {name}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<7>"
+msgstr "Debes {verb} un {name} en un terreno plano."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<13>"
+msgstr "No puedes {verb} un {name} adentro de un objetivo."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<14>"
+msgstr "Tu equipo no {verb} mas {name} (Hasta alcanzar: {integer})."
+
+#, fuzzy
+msgid "DHConstructionErrorMessage.ErrorMessages<15>"
+msgstr "No hay depósito de suministros dentro de {integer} metros."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<25>"
+msgstr "No puedes {verb} un {name} en territorio enemigo"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<26>"
+msgstr "No hay {name} disponible"
+
+msgid "DHFireSupportMessage.OffMapArtilleryRequestConfirmedText"
+msgstr "Objetivo de apoyo de largo alcance ha sido marcado."
+
+#, fuzzy
+msgid "DHFireSupportMessage.ArtilleryOperatorNotification"
+msgstr ""
+"La escuadra {squad} ha marcado {type} un objetivo para soporte de artillería."
+
+msgid "DHFireSupportMessage.ErrorText"
+msgstr "No se pudo colocar una marca de soporte de fuego."
+
+msgid "DHGameMessage.VehicleDepletedMessage"
+msgstr "Los refuerzos de {0} se han agotado."
+
+msgid "DHHintManager.Hints[63].Title"
+msgstr "Cambia el barril"
+
+msgid "DHHintManager.Hints[66].Title"
+msgstr "¡A cubierto!"
+
+msgid "DHGameMessage.FFKillMessage"
+msgstr "{name} ha matado a un soldado aliado."
+
+msgid "DHGameMessage.FFViolationMessage"
+msgstr "Expulsando a {name} dado a que violo el limite del fuego amigo."
+
+msgid "DHGameType_Stalemate.GameTypeName"
+msgstr "Estancamientos"
+
+msgid "DHHintManager.Hints[46].Text"
+msgstr ""
+"Esta ametralladora está montada externamente y solo se puede disparar o "
+"recargar si se desabotona la escotilla"
+
+msgid "DHHintManager.Hints[48].Title"
+msgstr "Recargar una ametralladora montada externamente"
+
+msgid "DHHintManager.Hints[48].Text"
+msgstr ""
+"Debes desabrochar la escotilla (y no usar binoculares) para recargar esta "
+"ametralladora montada externamente"
+
+msgid "DHHud.MapNameText"
+msgstr "Mapa: "
+
+msgid "DHHud.MapGameTypeText"
+msgstr "Tipo de juego: "
+
+msgid "DHHud.SayTypeConsoleText"
+msgstr "[CONSOLA]"
+
+msgid "DHHud.SayTypeAllText"
+msgstr "[TODOS]"
+
+msgid "DHHud.LegendArtilleryRadioText"
+msgstr "Radio de Artillería"
+
+msgid "DHMapDatabase.SizeLargeText"
+msgstr "Largo"
+
+msgid "DHMortarMessage.InUse"
+msgstr "No puedes operar este mortero mientras esta en uso"
+
+msgid "DHMapDatabase.SizeMediumText"
+msgstr "Mediano"
+
+msgid "DHMapDatabase.SizeSmallText"
+msgstr "Pequeño"
+
+msgid "DHMapMarker.CalculatingString"
+msgstr "Calculando..."
+
+msgid "DHMapMarker_Friendly_Supplies.MarkerName"
+msgstr "Solicitando Suministros"
+
+msgid "DHMapMarker_OngoingBarrage.MarkerName"
+msgstr "Bombardeo en camino"
+
+msgid "DHMapMarker_Ruler.MarkerName"
+msgstr "Medir"
+
+msgid "DHMapMarker_Squad_Attack.MarkerName"
+msgstr "Orden de Ataque"
+
+msgid "DHMortarMessage.CannotLean"
+msgstr "No puedes desplegar el mortero mientras te inclinas"
+
+msgid "DHMortarMessage.NotQualified"
+msgstr "No estas calificado para operar este mortero"
+
+msgid "DHHud.SpawnVehicleText"
+msgstr ""
+"Aparecerás como un {0} conduciendo un {3} en {2} | Presiona [ESC] para "
+"cambiar"
