@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-29 11:13+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-11 19:43+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_italyplayers/es/>\n"
 "Language: es\n"
@@ -18,9 +18,8 @@ msgstr ""
 msgid "DHITASergeantRoles.AltName"
 msgstr ""
 
-#, fuzzy
 msgid "DHItalyVoice.SupportStringAxis[5]"
-msgstr "¡Necesitamos un panzerschreck!"
+msgstr "¡Necesitamos un rifle antitanque!"
 
 msgid "DHNation_Italy.NationName"
 msgstr "Reino de Italia"
@@ -40,6 +39,8 @@ msgstr ""
 msgid "DHITARiflemanRoles.AltName"
 msgstr ""
 
-#, fuzzy
 msgid "DHItalyVoice.SupportAbbrevAxis[5]"
-msgstr "Petición de Panzerschreck"
+msgstr "Petición de rifle Antitanque"
+
+msgid "DHItalyVoice.EnemyStringAxis[6]"
+msgstr "¡Tanque! ¡Tanque!"
