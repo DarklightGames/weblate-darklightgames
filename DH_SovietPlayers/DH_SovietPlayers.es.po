@@ -1,15 +1,16 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-08 01:14+0000\n"
-"Last-Translator: Argilas <argilas@hotmail.com>\n"
-"Language-Team: Spanish <https://weblate.darklightgames.com/projects/darkesthour/dh_sovietplayers/es/>\n"
+"PO-Revision-Date: 2025-07-11 19:43+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_sovietplayers/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DHNation_USSR.NationName"
 msgstr "Unión de Repúblicas Socialistas Soviéticas"
@@ -19,3 +20,24 @@ msgstr "Checoslovaquia"
 
 msgid "DHNation_Poland.NationName"
 msgstr "Ejército Popular Polaco"
+
+msgid "DHSOVEngineerRoles.AltName"
+msgstr "Zapador"
+
+msgid "DHSOVMachineGunnerRoles.AltName"
+msgstr "Ametrallador"
+
+msgid "DHSOVSergeantRoles.MyName"
+msgstr "Líder de Escuadrón"
+
+msgid "DHSOVCorporalRoles.MyName"
+msgstr "Líder de Equipo de Fuego"
+
+msgid "DH_SovietMadManRoles.MyName"
+msgstr "Hombre Loco"
+
+msgid "DH_SovietMadManRoles.AltName"
+msgstr "Hombre Loco"
+
+msgid "DH_SovietMadManRoles.PluralName"
+msgstr "Hombre Loco"
