@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-10 06:10+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-11 19:43+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/es/>\n"
 "Language: es\n"
@@ -318,3 +318,6 @@ msgstr "T-IV mod.F"
 
 msgid "DH_ShermanTank_M4A3E8_ZombieSlayer.VehicleNameString"
 msgstr "Sherman M4A3E8 'Zombie Slayer'"
+
+msgid "DH_AutocarrettaOMSupport.VehicleNameString"
+msgstr "Autocarretta OM 36Mt (Logistica)"
