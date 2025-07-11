@@ -1,15 +1,16 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-08 01:15+0000\n"
-"Last-Translator: Argilas <argilas@hotmail.com>\n"
-"Language-Team: Spanish <https://weblate.darklightgames.com/projects/darkesthour/dh_equipment/es/>\n"
+"PO-Revision-Date: 2025-07-11 19:43+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_equipment/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DH_NebelGranate39Weapon.ItemName"
 msgstr "Granada de Humo NB 39"
@@ -52,3 +53,18 @@ msgstr "Binoculares M13 6x30"
 
 msgid "DH_OrangeSmokeWeapon.ItemName"
 msgstr "Granada Señalizadora RauchSichtzeichen Orange 160"
+
+msgid "DHTrenchMaceItem_Grenade.ItemName"
+msgstr "Mazo de trinchera"
+
+msgid "DHBinocularsItemItalian.ItemName"
+msgstr "Fratelli Koristka 7x50"
+
+msgid "DHTrenchMaceItem.ItemName"
+msgstr "Club de Trinchera"
+
+msgid "DHTrenchMaceItem_Bone.ItemName"
+msgstr "Club de huesos"
+
+msgid "DHBrokenBottleItem.ItemName"
+msgstr "Vino Rosso 'Bass-net' Edición 2009"
