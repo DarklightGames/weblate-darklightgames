@@ -1,15 +1,16 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-08 01:15+0000\n"
-"Last-Translator: Argilas <argilas@hotmail.com>\n"
-"Language-Team: Spanish <https://weblate.darklightgames.com/projects/darkesthour/dh_guns/es/>\n"
+"PO-Revision-Date: 2025-07-11 19:43+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_guns/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DH_17PounderGunCannonPawn.RangeText"
 msgstr "Yardas"
@@ -60,7 +61,61 @@ msgid "DH_Flakvierling38Gun.VehicleNameString"
 msgstr "Cañón Flakvierling 38 2cm"
 
 msgid "DH_LeIG18Gun.VehicleNameString"
-msgstr "7.5 cm leichtes Infanteriegeschütz 18"
+msgstr "Cañón 7.5 cm leichtes Infanteriegeschütz 18"
 
 msgid "DH_M45QuadmountGun.VehicleNameString"
 msgstr "M45 Quadmount"
+
+msgid "DH_Pak43ATGun.VehicleNameString"
+msgstr "Cañón AT 8.8cm Pak43/41"
+
+msgid "DH_Model35Mortar.VehicleNameString"
+msgstr "Mortero da 81/14 mod. 35"
+
+msgid "DH_M1927Gun.VehicleNameString"
+msgstr "Cañón de Regimiento 76mm M1927"
+
+msgid "DH_Pak38ATGun.VehicleNameString"
+msgstr "Cañón AT 5.0 cm Pak38"
+
+msgid "DH_Pak39Gun.VehicleNameString"
+msgstr "Cañón 5.0cm KwK 39"
+
+msgid "DH_PantherturmGun.VehicleNameString"
+msgstr "Torreta Panther"
+
+msgid "DH_ZiS2Gun.VehicleNameString"
+msgstr "Cañón AT ZiS-2 57mm"
+
+msgid "DH_ZiS3Gun.VehicleNameString"
+msgstr "Cañón Divisional ZiS-3 76mm"
+
+msgid "DH_M116Gun.VehicleNameString"
+msgstr "Cañón 75mm Howitzer M1"
+
+msgid "DH_Fiat1435Gun.VehicleNameString"
+msgstr "Ametralladora Fiat-Revelli modello 14/35"
+
+msgid "DH_Cannone4732Gun.VehicleNameString"
+msgstr "Cañón AT Cannone da 47/32"
+
+msgid "DH_BM36Mortar.VehicleNameString"
+msgstr "Mortero 82mm BM-36"
+
+msgid "DH_M1Mortar.VehicleNameString"
+msgstr "Mortero M1"
+
+msgid "DH_ML3InchMortar.VehicleNameString"
+msgstr "Mortero Ordnance ML 3-inch"
+
+msgid "DH_M5Gun.VehicleNameString"
+msgstr "Cañón AT 3-inch M5"
+
+msgid "DH_Pak40ATGun.VehicleNameString"
+msgstr "Cañón 7.5cm Pak40"
+
+msgid "DH_Granatwerfer34Mortar.VehicleNameString"
+msgstr "Mortero 8cm Granatwerfer 34"
+
+msgid "DH_M1919A4Gun.VehicleNameString"
+msgstr "Ametralladora Browning M1919A4"
