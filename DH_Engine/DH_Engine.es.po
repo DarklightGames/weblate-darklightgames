@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 19:43+0000\n"
+"PO-Revision-Date: 2025-07-13 01:34+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
@@ -42,7 +42,6 @@ msgstr "Cabo"
 msgid "DHAlliedCorporalRoles.PluralName"
 msgstr "Cabos"
 
-#, fuzzy
 msgid "DHAlliedEngineerRoles.MyName"
 msgstr "Ingeniero de Combate"
 
@@ -630,7 +629,6 @@ msgstr "Estas ocupado"
 msgid "DHConstructionGroup_Guns.GroupName"
 msgstr "Cañones"
 
-#, fuzzy
 msgid "DHConstructionSupplyAttachment_Static_Main.HumanReadableName"
 msgstr "Base de Depósito de Suministros"
 
@@ -723,21 +721,19 @@ msgstr "Aparecerás como un {0} en un {1} en {2} | Presiona [ESC] para cambiar"
 msgid "DHMortarMessage.InWater"
 msgstr "No puedes desplegar el mortero en el agua"
 
-#, fuzzy
 msgid "DHAdminMessage.PlacedSpawnMessage"
-msgstr "El administrador '{0}' ha puesto un punto de aparición en {1} equipo."
+msgstr ""
+"El administrador '{0}' ha puesto un punto de aparición en el equipo {1}."
 
-#, fuzzy
 msgid "DHAdminMessage.DestroyedSpawnMessage"
 msgstr ""
 "El administrador '{0}' ha destruido un punto de aparición de un "
-"administrador en {1} equipo."
+"administrador del equipo {1}."
 
-#, fuzzy
 msgid "DHAdminMessage.DestroyedAllSpawnsMessage"
 msgstr ""
 "El administrador '{0}' destruyo todos los puntos de aparición (puestos por "
-"administradores) en {1} equipo."
+"administradores) del equipo {1}."
 
 msgid "DHAdminMessage.AdminTeleportedMessage"
 msgstr "El administrador '{0}' se ha teletransportado."
@@ -790,7 +786,6 @@ msgstr ""
 "Estas muy cerca de un objetivo no controlado ({string}), debes estar "
 "{integer}m mas lejos."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<27>"
 msgstr "Este socket ya está ocupado"
 
@@ -806,7 +801,6 @@ msgstr "{0} ha sido destruido."
 msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
 msgstr "El administrador '{0}' promovió a '{1}' a líder de escuadra '{2}'."
 
-#, fuzzy
 msgid "DHArtilleryMessage.NoTargetText"
 msgstr "Ninguna localización del objetivo."
 
@@ -816,7 +810,6 @@ msgstr "No estas calificado para llamar a la {name}."
 msgid "DHArtilleryMessage.CancelledText"
 msgstr "{name} ha sido cancelada."
 
-#, fuzzy
 msgid "DHArtillerySpottingScope.PitchHeaderString"
 msgstr "Inclinación"
 
@@ -853,11 +846,10 @@ msgstr "No puedes {verb} un {name} en las entradas."
 msgid "DHFireSupportMessage.OnMapArtilleryRequestingLocked"
 msgstr "No puedes otra marca de soporte de fuego por {seconds} segundos."
 
-#, fuzzy
 msgid "DHFireSupportMessage.RadiomanNotification"
 msgstr ""
 "La escuadra {squad} ha marcado un objetivo para soporte de artillería de "
-"largo alcance"
+"largo alcance."
 
 msgid "DHGameReplicationInfo.ReinforcementsInfiniteText"
 msgstr "Infinito"
@@ -923,9 +915,8 @@ msgstr ""
 "%PREVWEAPON% para que los pasajeros y tú puedan salir. Para subir la rampa "
 "de proa, pulsa %NEXTWEAPON%."
 
-#, fuzzy
 msgid "DHHintManager.Hints[46].Title"
-msgstr "Ametralladora montada externa"
+msgstr "Ametralladora montada externamente"
 
 msgid "DHMapMarker_Squad_Defend.MarkerName"
 msgstr "Orden de defensa"
@@ -1014,9 +1005,8 @@ msgstr "Objetivo seleccionado."
 msgid "DHArtillerySpottingScope.MeasurementToolText"
 msgstr "Herramienta de medición"
 
-#, fuzzy
 msgid "DHArtillerySpottingScope.TargetToggleHint"
-msgstr "Presiona {0} para mantener ciertos objetivos de artilleria"
+msgstr "Presiona {0} para seleccionar ciertos objetivos de artillería"
 
 msgid "DHArtillerySpottingScope.SquadText"
 msgstr "Escuadra"
@@ -1401,7 +1391,6 @@ msgstr "Un {name} ha sido arrasado por el enemigo."
 msgid "DHCommandPostMessage.DestroyedMessage"
 msgstr "Un {name} ha sido destruido."
 
-#, fuzzy
 msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
 msgstr "Ningún jugador "
 
@@ -1426,7 +1415,6 @@ msgstr "No puedes {verb} un {name} adentro de un objetivo."
 msgid "DHConstructionErrorMessage.ErrorMessages<14>"
 msgstr "Tu equipo no {verb} mas {name} (Hasta alcanzar: {integer})."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<15>"
 msgstr "No hay depósito de suministros dentro de {integer} metros."
 
@@ -1439,10 +1427,10 @@ msgstr "No hay {name} disponible"
 msgid "DHFireSupportMessage.OffMapArtilleryRequestConfirmedText"
 msgstr "Objetivo de apoyo de largo alcance ha sido marcado."
 
-#, fuzzy
 msgid "DHFireSupportMessage.ArtilleryOperatorNotification"
 msgstr ""
-"La escuadra {squad} ha marcado {type} un objetivo para soporte de artillería."
+"La escuadra {squad} ha marcado un objetivo de {type} para soporte de "
+"artillería."
 
 msgid "DHFireSupportMessage.ErrorText"
 msgstr "No se pudo colocar una marca de soporte de fuego."
@@ -1530,3 +1518,694 @@ msgid "DHHud.SpawnVehicleText"
 msgstr ""
 "Aparecerás como un {0} conduciendo un {3} en {2} | Presiona [ESC] para "
 "cambiar"
+
+msgid "DHRocketWarningMessage.ShoulderForAssistedReload"
+msgstr "Debes cargar el {0} al hombro para una recarga asistida"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<2>.Text"
+msgstr "Ignorar todo"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<0>.Text"
+msgstr "Voluntario"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<4>"
+msgstr "Se ha enviado la solicitud de fusión de escuadrón."
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<0>"
+msgstr ""
+"Espere unos momentos antes de enviar otra solicitud de fusión de escuadrón."
+
+msgid "DHSupplyMessage.SupplyCacheFallbackName"
+msgstr "deposito de suministros"
+
+msgid "DHTeamSayMessage.MessagePrefix"
+msgstr "[EQUIPO]"
+
+msgid "DHSupplyMessage.SupplyCacheEmpty"
+msgstr "El deposito de suministros cercano esta vacío."
+
+msgid "DarkestHourGame.ROHints<4>"
+msgstr ""
+"Para apuntar con la mira de tu arma y así obtener mejor precisión y "
+"exactitud, presiona la tecla %ROIRONSIGHTS%."
+
+msgid "DHSquadLeaderSayMessage.MessagePrefix"
+msgstr "[LIDER DE ESCUADRÓN]"
+
+msgid "DHSquadLeaderVolunteerInteraction.PromptText"
+msgstr "¡Tu escuadrón necesita un líder! ¿Quieres ser voluntario? ({time})"
+
+msgid "DHSquadMessage.InviteSentMessage"
+msgstr "{0} ha sido invitado al escuadrón."
+
+msgid "DHSquadMessage.BannedPlayer"
+msgstr "{0} ha sido vetado del escuadrón."
+
+msgid "DHSquadMessage.BannedCannotJoin"
+msgstr "No puedes unirte a este equipo porque has sido vetado."
+
+msgid "DHSquadMessage.YouLeft"
+msgstr "Has dejado el escuadrón."
+
+msgid "DHSquadMessage.YouAreNoLongerAssistantMessage"
+msgstr "Ya no eres el asistente del líder del escuadrón."
+
+msgid "DHSquadMessage.YouAreNowAssistantMessage"
+msgstr "Ahora eres el asistente del líder del escuadrón."
+
+msgid "DHSquadOrderMessage.WaitText"
+msgstr "Por favor espere antes de realizar una nueva orden"
+
+msgid "DHVehicleMessage.AllRiderPositionsFull"
+msgstr "Todas las posiciones de pasajeros están ocupadas."
+
+msgid "DHVehicleMessage.OpenHatchToExit"
+msgstr "Debes abrir el compuerta {0} para salir"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<1>"
+msgstr "Se produjo un error al enviar la solicitud de fusión del escuadrón."
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<0>"
+msgstr "Se produjo un error al enviar la solicitud de ascenso de equipo."
+
+msgid "DHVehicleMessage.NotQualified"
+msgstr "No estas calificado para operar este vehículo."
+
+msgid "DHVehicleSayMessage.MessagePrefix"
+msgstr "[VEHICULO]"
+
+msgid "DHVoicePack.SupportString[1]"
+msgstr "Se necesita ayuda en {objective}"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<2>"
+msgstr "No asignado"
+
+msgid "DHVehicleMessage.UnbuttonHatchToChangePosition"
+msgstr "Debes desabrochar la trampilla {0} para cambiar de posición"
+
+msgid "DHVehicleMessage.AbandonedVehicleUnlocked"
+msgstr "Dejaste tu vehículo bloqueado por mucho tiempo, ahora esta desbloqueado"
+
+msgid "DHVehicleMessage.CantEnterLockedVehicle"
+msgstr "Este vehículo ha sido bloqueado por la tripulación de este."
+
+msgid "DHVehicleMessage.MapDisabledVehicleLocking"
+msgstr "Este mapa no permite bloquear los vehículos."
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<3>"
+msgstr "No asignado"
+
+msgid "DHSquadMessage.AutoJoinFailed"
+msgstr "No hay ningún escuadrón al que puedas unirte."
+
+msgid "DHSupplyMessage.SupplyCacheFull"
+msgstr "El deposito de suministros cercano esta lleno."
+
+msgid "DHVehicleMessage.OnlyTankCrewCanLockVehicle"
+msgstr ""
+"Solo la tripulación del tanque pueden bloquear o desbloquear el vehículo."
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<4>"
+msgstr "Escuadra"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<5>"
+msgstr "Escuadra"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<18>"
+msgstr "Escuadra"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<19>"
+msgstr "Escuadra"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecDescription"
+msgstr ""
+"(9,6 kbps): utiliza más ancho de banda, pero el sonido es mucho más claro."
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecDescription"
+msgstr ""
+"(9,6 kbps): utiliza más ancho de banda, pero el sonido es mucho más claro."
+
+msgid "DHVoiceSayMessage.MessagePrefix"
+msgstr "[VOZ]"
+
+msgid "DHScoreEvent_FriendlyResupply.HumanReadableName"
+msgstr "Reabastecimiento amigo"
+
+msgid "DHServerSayMessage.MessagePrefix"
+msgstr "[SERVIDOR]"
+
+msgid "DHSquadMessage.RallyPointTooCloseToConstruction"
+msgstr "No puedes crear un punto de reunión tan cerca de un {0}."
+
+msgid "DHSquadMessage.RallyPointInUncontrolledObjective"
+msgstr ""
+"No puedes crear un punto de reunión dentro de un objetivo no controlado."
+
+msgid "DHSquadMessage.RallyPointBehindEnemyLines"
+msgstr ""
+"No se puede crear un punto de reunión en territorio controlado por el "
+"enemigo."
+
+msgid "DHTeamSurrenderVoteMessage.VoteSucceededText"
+msgstr "La votación para retirarse ha tenido éxito ({0})."
+
+msgid "DarkestHourGame.ROHints<3>"
+msgstr ""
+"Pulsa %PLAYERMENU 2% para cambiar tu rol de jugador mientras estás en el "
+"juego, %PLAYERMENU% para cambiar tu equipo."
+
+msgid "DHScoreEvent_SquadRallyPointEstablished.HumanReadableName"
+msgstr "Punto de Reunión Establecido"
+
+msgid "DHScoreEvent_SquadRallyPointEstablishedAssist.HumanReadableName"
+msgstr "Punto de reunión establecido (asistido)"
+
+msgid "DHScoreEvent_Suicide.HumanReadableName"
+msgstr "Suicidarse"
+
+msgid "DHScoreEvent_SquadRallyPointSpawn.HumanReadableName"
+msgstr "Punto de aparición del escuadrón"
+
+msgid "DHScoreEvent_TeamKill.HumanReadableName"
+msgstr "Muerte aliada"
+
+msgid "DHScoreEvent_TeamKillPunish.HumanReadableName"
+msgstr "Perdonar muerte aliada"
+
+msgid "DHSquadSayMessage.MessagePrefix"
+msgstr "[ESCUADRÓN]"
+
+msgid "DHSquadMessage.UnlockedMessage"
+msgstr "La escuadra ha sido desbloqueada."
+
+msgid "DHSquadMessage.RallyPointNeedSquadmateNearby"
+msgstr ""
+"Debes tener al menos otro compañero de escuadrón cerca para crear un punto "
+"de reunión de escuadrón."
+
+msgid "DHSquadMessage.RallyPointCreatedMessage"
+msgstr ""
+"Has creado un punto de reunión para tu escuadrón. ¡Asegura la zona con tu "
+"escuadrón para establecerlo correctamente!"
+
+msgid "DHSquadMessage.NoVolunteers"
+msgstr "Ningún miembro se ofreció como voluntario para ser líder del escuadrón."
+
+msgid "DHSquadPromotionRequestInteraction.Options<0>.Text"
+msgstr "Aceptar"
+
+msgid "DHSquadOrderMessage.AttackText"
+msgstr "El líder del escuadrón ha emitido una nueva orden de ataque."
+
+msgid "DHVehicleTouchControlsMessage.Controls<0>.Text"
+msgstr "Entrar"
+
+msgid "DHVehicleMessage.VehicleIsEnemy"
+msgstr "No puedes usar este vehículo enemigo"
+
+msgid "DHVehicleMessage.CannotEnter"
+msgstr "El vehículo esta lleno"
+
+msgid "DHVehiclePoolMessage.ActivatedMessage"
+msgstr "Un Deposito Vehicular ha sido activado"
+
+msgid "DHVehiclePoolMessage.DestroyedMessage"
+msgstr "Un Deposito Vehicular ha sido destruido,"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<6>"
+msgstr "Escuadra"
+
+msgid "DHRocketWarningMessage.CantBeMoving"
+msgstr "Debes estar quieto para disparar el {0}"
+
+msgid "DHScoreEvent_ConstructionCompleted.HumanReadableName"
+msgstr "Construcción construida"
+
+msgid "DHScoreEvent_FireSupportSpottingAssist.HumanReadableName"
+msgstr "Asistencia en observación de apoyo de fuego"
+
+msgid "DHScoreEvent_VehicleKill.HumanReadableName"
+msgstr "Muerte vehicular"
+
+msgid "DHSquadMessage.NoLongerLeaderMessage"
+msgstr "Ya no serás mas el líder de escuadrón."
+
+msgid "DHSquadMessage.YouAreNowLeaderMessage"
+msgstr "Ahora eres el líder del escuadrón."
+
+msgid "DHSignal_Move.SignalName"
+msgstr "Moverse"
+
+msgid "DHSquadMessage.CreatedMessage"
+msgstr "Has creado una escuadra."
+
+msgid "DHSquadMessage.RallyPointActiveMessage"
+msgstr "Tu escuadra ha establecido un nuevo punto de reunión."
+
+msgid "DHSquadMessage.RallyPointGroundTooSteep"
+msgstr ""
+"El terreno es demasiado empinado para establecer un punto de reunión aquí."
+
+msgid "DHSquadMessage.RallyPointInMinefield"
+msgstr "No puedes crear un punto de reunión en un campo minado."
+
+msgid "DHSquadInviteInteraction.PromptText"
+msgstr "{0} te ha invitado a unirse al escuadrón{1}."
+
+msgid "DHSquadMessage.RallyPointRemoved"
+msgstr "El líder del escuadrón ha removido forzosamente un punto de reunión."
+
+msgid "DHSquadMessage.RallyPointAbandonmentWarning"
+msgstr "¡Un punto de reunión recién creado está siendo abandonado!"
+
+msgid "DHSquadInviteInteraction.Options<0>.Text"
+msgstr "Aceptar"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.PromptText"
+msgstr ""
+"{volunteer} se ha ofrecido como voluntario para ser el asistente del "
+"escuadrón."
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<0>.Text"
+msgstr "Aceptar"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<1>.Text"
+msgstr "Rechazar"
+
+msgid "DHSquadLeaderSayDeadMessage.MessagePrefix"
+msgstr "(MUERTO) [LIDER DE ESCUADRÓN]"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<2>.Text"
+msgstr "Ignorar todo"
+
+msgid "DHSquadMergeRequestInteraction.Options<1>.Text"
+msgstr "Rechazar"
+
+msgid "DHSquadMergeRequestInteraction.Options<2>.Text"
+msgstr "Ignorar todo"
+
+msgid "DHSquadMessage.LeftMessage"
+msgstr "{0} ha dejado el escuadrón."
+
+msgid "DHSquadMessage.InviteAlreadyInSquadMessage"
+msgstr "{0} ya esta en tu escuadrón."
+
+msgid "DHSquadMessage.NewLeaderMessage"
+msgstr "{0} se ha convertido en el líder del escuadrón."
+
+msgid "DHSquadMessage.FullMessage"
+msgstr "No puedes enviar invitaciones, tu escuadra esta llena."
+
+msgid "DHSquadMessage.InvitePendingMessage"
+msgstr "{0} ya ha sido invitado a tu escuadrón. Intenta mas tarde."
+
+msgid "DHSquadMessage.RallyPointExhaustedMessage"
+msgstr "Un punto de reunión ha sido gastado."
+
+msgid "DHSquadMessage.RallyPointOverrunMessage"
+msgstr "¡Un punto de reunión ha sido arrasado por el enemigo!"
+
+msgid "DHSquadMessage.RallyPointTooCloseMessage"
+msgstr ""
+"No puedes crear un punto de reunión tan cerca de uno existente, debes estar "
+"a {0} metros más lejos."
+
+msgid "DHSquadMessage.AlreadyInSquad"
+msgstr "Ya estas dentro de una escuadra."
+
+msgid "DHSquadMessage.SquadMergeRequestDeniedMessage"
+msgstr "Su solicitud de fusión de escuadrón fue rechazada por el escuadrón {0}."
+
+msgid "DHSquadMessage.SquadMergeRequestDeniedGenericMessage"
+msgstr "Se denegó la fusión de su escuadrón."
+
+msgid "DHSquadMessage.SquadMergeFailedMessage"
+msgstr "La fusión del escuadrón falló"
+
+msgid "DHSquadPromotionRequestInteraction.PromptText"
+msgstr "{0} quiere ascenderte a líder del escuadrón {1}."
+
+msgid "DHSquadMessage.SquadTargetSelectionRefused"
+msgstr ""
+"Eres un observador de artillería. No puedes cambiar el objetivo de "
+"artillería activo a tu propio marcador."
+
+msgid "DHSquadOrderMessage.DefendText"
+msgstr "El líder del escuadrón ha emitido una nueva orden de Defensa."
+
+msgid "DHSquadOrderMessage.MoveText"
+msgstr "El líder del escuadrón ha emitido una nueva orden de Movimiento."
+
+msgid "DHSquadOrderMessage.AttentionText"
+msgstr "El líder del escuadrón ha emitido una nueva orden de Atención."
+
+msgid "DHSquadPromotionRequestInteraction.Options<1>.Text"
+msgstr "Rechazar"
+
+msgid "DHSquadPromotionRequestInteraction.Options<2>.Text"
+msgstr "Ignorar todo"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<2>"
+msgstr "No se puede enviar una solicitud de fusión a este escuadrón."
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<3>"
+msgstr "Ya existe una solicitud de fusión para este escuadrón."
+
+msgid "DHSupplyMessage.VehicleFull"
+msgstr "El depósito de suministros del vehículo está lleno."
+
+msgid "DHTeamSurrenderVoteMessage.VoteSummaryText"
+msgstr "Sí: {0}, Necesarias: {1}"
+
+msgid "DHTeamSurrenderVoteMessage.VoteNominationsRemainingText"
+msgstr "Se necesitan {0} nominaciones más para iniciar la votación."
+
+msgid "DHVehicleMessage.NoRiderPositions"
+msgstr "No puedes viajar en este vehículo."
+
+msgid "DHVehicleMessage.VehicleBurning"
+msgstr "¡El vehículo esta en llamas!"
+
+msgid "DHVehicleMessage.ExitCommandersHatch"
+msgstr "Deberas salir por la escotilla del comandante."
+
+msgid "DHVehicleMessage.ExitDriverOrComHatch"
+msgstr "Salga por la escotilla del conductor o del comandante."
+
+msgid "DHVehicleMessage.CantFindExitPosition"
+msgstr "No se puede encontrar ninguna salida"
+
+msgid "DHVehicleMessage.VehicleNowLocked"
+msgstr ""
+"Las posiciones de la tripulación del tanque en este vehículo ahora están "
+"bloqueadas."
+
+msgid "DHVehicleMessage.VehicleNowUnlocked"
+msgstr ""
+"Las posiciones de la tripulación del tanque en este vehículo han sido "
+"desbloqueadas."
+
+msgid "DHVehicleMessage.UnbuttonToReload"
+msgstr "Debes desabrochar la escotilla {0} para recargar"
+
+msgid "DHVehicleMessage.VehicleScuttleInitiated"
+msgstr "actualmente obsoleto"
+
+msgid "DHVehicleMessage.ExitCommandersOrMGHatch"
+msgstr "Salga por la escotilla del comandante o de la ametralladora."
+
+msgid "DHVehicleMessage.CantLockNonCrewVehicle"
+msgstr ""
+"No se puede bloquear el vehículo, ya que puede ser conducido por tripulantes "
+"que no sean de tanque."
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<10>"
+msgstr "Escuadra"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<12>"
+msgstr "Escuadra"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<11>"
+msgstr "Escuadra"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<17>"
+msgstr "Escuadra"
+
+msgid "DHWeaponPickupTouchMessage.Controls<0>.Text"
+msgstr "Agarrar"
+
+msgid "DHWeaponsLockedMessage.LockedSKMessage"
+msgstr ""
+"¡Tus armas han sido bloqueadas debido a la cantidad excesiva de muertes en "
+"puntos de aparición!"
+
+msgid "DHWeaponsLockedMessage.LockedWithTimerMessage"
+msgstr "Tus armas estarán bloqueadas durante {0} segundos"
+
+msgid "DHWeaponsLockedMessage.LockedSetupPhaseMessage"
+msgstr "Tus armas están bloqueadas durante la fase de preparación"
+
+msgid "DarkestHourGame.ROHints<17>"
+msgstr ""
+"Una vez que hayas disparado la Bazuca o el Panzerschreck, busca refugio tan "
+"RÁPIDO como puedas, ya que el humo de tu contraataque revelará tu ubicación. "
+"¡Es casi seguro que el enemigo responderá al fuego!"
+
+msgid "DHVehicleVoiceSayMessage.MessagePrefix"
+msgstr "[VOZ]"
+
+msgid "DHVoicePack.AlertString[8]"
+msgstr "Bajo ataque en {objective}"
+
+msgid "DHVoicePack.VehicleDirectionString[0]"
+msgstr "Ir hacia {objective}"
+
+msgid "DHVoicePack.OrderString[0]"
+msgstr "Atacar: {objective}"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<0>"
+msgstr "Comandancia"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<1>"
+msgstr "Comandancia"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<7>"
+msgstr "Escuadra"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<8>"
+msgstr "Escuadra"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<9>"
+msgstr "Escuadra"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<13>"
+msgstr "Escuadra"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<14>"
+msgstr "Escuadra"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<15>"
+msgstr "Escuadra"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<16>"
+msgstr "Escuadra"
+
+msgid "DHWeaponPickup.PickupMessage"
+msgstr "Tienes el {0}"
+
+msgid "DHWeaponsLockedMessage.LockedFFSKMessage"
+msgstr ""
+"¡Tus armas han sido bloqueadas debido a que mataste un amigo al momento de "
+"aparecer!"
+
+msgid "DH_ModifyRoundTimeMessage.IncreasedText"
+msgstr "incrementado"
+
+msgid "DH_ModifyRoundTimeMessage.DecreasedText"
+msgstr "disminuido"
+
+msgid "DH_ModifyRoundTimeMessage.ChangedText"
+msgstr "cambiado"
+
+msgid "DH_ModifyRoundTimeMessage.RoundTimeModifiedText"
+msgstr "El tiempo restante es: {0}."
+
+msgid "DarkestHourGame.ROHints<0>"
+msgstr ""
+"Puedes ver un mapa de los objetivos que necesitan ser capturados o "
+"defendidos presionando %SHOWOBJECTIVES%."
+
+msgid "DarkestHourGame.ROHints<1>"
+msgstr ""
+"Puedes 'calentar' una granada Mk II presionando %FIRE3% mientras mantienes "
+"la granada hacia atrás."
+
+msgid "DarkestHourGame.ROHints<7>"
+msgstr "Para regenerar la stamina, deténgase y descanse un poco."
+
+msgid "DarkestHourGame.ROHints<8>"
+msgstr ""
+"Puedes desplegar una ametralladora en casi cualquier objeto - presiona "
+"%DEPLOY% cuando veas aparecer el ícono de despliegue para desplegarla."
+
+msgid "DarkestHourGame.ROHints<9>"
+msgstr ""
+"Al recargar, 'Cargador pesado' indica que el cargador que estás cargando en "
+"tu arma tiene más de la mitad de munición llena."
+
+msgid "DarkestHourGame.ROHints<10>"
+msgstr "Solo puedes recargar tu ametralladora cuando esté desplegada."
+
+msgid "DarkestHourGame.ROHints<13>"
+msgstr ""
+"No puedes cambiar el cañón del calibre 30, ¡ten cuidado de no "
+"sobrecalentarlo!"
+
+msgid "DHSquadMessage.RallyPointInWater"
+msgstr "No puedes crear un punto de reunión en el agua."
+
+msgid "DHSquadMessage.RallyPointNotOnFoot"
+msgstr "Debes estar a pie para crear un punto de reunión."
+
+msgid "DHSquadMessage.RallyPointTooSoon"
+msgstr ""
+"Debes esperar {0} segundos hasta que tu escuadrón pueda crear un punto de "
+"reunión."
+
+msgid "DHSquadMessage.RallyPointAbandoned"
+msgstr "No se pudo establecer un punto de reunión porque estaba abandonado."
+
+msgid "DHSquadMessage.RallyPointBadLocation"
+msgstr "No se puede crear un punto de reunión en esta ubicación."
+
+msgid "DHSquadMessage.RallyPointSwapped"
+msgstr ""
+"El líder del escuadrón ha cambiado el punto de reunión actualmente activo."
+
+msgid "DHSquadMessage.RallyPointDestroyed"
+msgstr "¡Un punto de reunión ha sido destruido!"
+
+msgid "DHSquadMessage.RallyPointExposed"
+msgstr "¡El enemigo ha detectado un punto de reunión!"
+
+msgid "DHSquadMessage.YouVolunteeredToBeSquadLeader"
+msgstr ""
+"Te has ofrecido como voluntario para ser el líder del escuadrón. El nuevo "
+"líder será seleccionado en breve."
+
+msgid "DHSquadMessage.NoVolunteersDisbanded"
+msgstr ""
+"Su escuadrón ha sido disuelto porque es demasiado pequeño y ningún miembro "
+"se ofreció como voluntario para ser líder del escuadrón."
+
+msgid "DHSquadMessage.NewAssistantMessage"
+msgstr "{0} ha sido promovido a Asistente del líder del escuadrón."
+
+msgid "DHSquadMessage.NotInSquadMessage"
+msgstr ""
+"No estás en un escuadrón. Pulsa [%SQUADMENU%] para acceder al menú del "
+"escuadrón o pulsa [%SQUADJOINAUTO%] para unirte automáticamente a un "
+"escuadrón."
+
+msgid "DHSquadMessage.SquadMergedSourceMessage"
+msgstr ""
+"Tu escuadrón se ha fusionado con el escuadrón {0}. Tu nuevo líder es {1}."
+
+msgid "DHVoiceReplicationInfo.LocalChannelText"
+msgstr "Local"
+
+msgid "DHSquadMessage.SquadMergedSourceGenericMessage"
+msgstr "Tu escuadrón se ha fusionado con otro escuadrón."
+
+msgid "DHSquadMessage.SquadMergedDestinationMessage"
+msgstr "Otro escuadrón se ha fusionado con el tuyo."
+
+msgid "DHSquadMessage.SquadPromotionRequestDeniedMessage"
+msgstr "Su solicitud de ascenso a líder de escuadrón fue rechazada por {0}."
+
+msgid "DHSquadMessage.SquadPromotionRequestAcceptedMessage"
+msgstr "Su solicitud de ascenso a líder de escuadrón fue aceptada por {0}."
+
+msgid "DHSquadMessage.SquadPromotionRequestSentMessage"
+msgstr "Se ha enviado una solicitud de ascenso a líder de escuadrón a {0}."
+
+msgid "DHSquadMessage.SquadPromotionRequestDuplicateMessage"
+msgstr "Ya has enviado a {0} una solicitud de ascenso de escuadrón."
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<1>"
+msgstr ""
+"Ya existe una solicitud de ascenso a líder de escuadrón para este jugador."
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<2>"
+msgstr "Se ha enviado la solicitud de ascenso a líder de escuadrón."
+
+msgid "DHSupplyMessage.SuppliesUnloaded"
+msgstr ""
+"Se han descargado {0} puntos de suministros del vehículo a un {1} cercano."
+
+msgid "DHSupplyMessage.SuppliesLoaded"
+msgstr ""
+"Se han cargado {0} puntos de suministros en el vehículo desde un {1} cercano."
+
+msgid "DHSupplyMessage.VehicleEmpty"
+msgstr "El depósito de suministros del vehículo está vacío."
+
+msgid "DHTeamKillInteraction.PromptText"
+msgstr "¡{0} te ha matado accidentalmente!"
+
+msgid "DHTeamKillInteraction.Options<0>.Text"
+msgstr "Perdonar"
+
+msgid "DHTeamKillInteraction.Options<1>.Text"
+msgstr "Castigar"
+
+msgid "DHTeamSurrenderVoteMessage.VoteFailedText"
+msgstr "La votación para retirarse ha fracasado ({0})."
+
+msgid "DHTeamSurrenderVoteMessage.VoteNominatedText"
+msgstr "{0} ha nominado un voto para retirarse."
+
+msgid "DHUnits.DistanceUnits<1>.Name"
+msgstr "Metros"
+
+msgid "DHUnits.DistanceUnits<2>.Name"
+msgstr "Yardas"
+
+msgid "DHUnits.DistanceUnits<2>.Symbol"
+msgstr "yds"
+
+msgid "DHVehicleMessage.CanOnlyLockFromCrewPosition"
+msgstr ""
+"Solo puedes bloquear o desbloquear el vehículo si estás en una posición de "
+"tripulación de tanque."
+
+msgid "DHVehicleMessage.OtherCrewmanCanLockVehicle"
+msgstr ""
+"Sólo la posición de tripulación más alta puede bloquear o desbloquear el "
+"vehículo."
+
+msgid "DHVoicePack.OrderString[1]"
+msgstr "Defender: {objective}"
+
+msgid "DHScoreEvent_Kill.HumanReadableName"
+msgstr "Matar"
+
+msgid "DarkestHourGame.ROHints<6>"
+msgstr ""
+"Agacharse y ponerse boca abajo estabiliza el arma y reduce el retroceso al "
+"disparar."
+
+msgid "DHScoreEvent_FriendlyReload.HumanReadableName"
+msgstr "Recarga amistosa"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<1>.Text"
+msgstr "Rechazar"
+
+msgid "DHSquadMergeRequestInteraction.PromptText"
+msgstr "{0} ha ofrecido fusionar tu escuadrón en el escuadrón {1}."
+
+msgid "DHSquadMergeRequestInteraction.Options<0>.Text"
+msgstr "Aceptar"
+
+msgid "DHSquadMessage.JoinedMessage"
+msgstr "{0} se ha unido a tu escuadrón."
+
+msgid "DHSquadMessage.NoLeaderMessage"
+msgstr "El líder de la escuadrón ha dejado la escuadra."
+
+msgid "DHSquadMessage.LockedMessage"
+msgstr "La escuadra ha sido bloqueada."
+
+msgid "DHSupplyMessage.NoSupplyCaches"
+msgstr "No hay depósitos de suministros cercanos."
+
+msgid "DHSupplyMessage.SuppliesRefunded"
+msgstr ""
+"Se han reembolsado {0} suministros a los deposito de suministros mas "
+"cercanos."
+
+msgid "DHSupplyVehicleMessage.Controls<0>.Text"
+msgstr "Cargar suministros"
+
+msgid "DHSupplyVehicleMessage.Controls<1>.Text"
+msgstr "Descargar suministros"
