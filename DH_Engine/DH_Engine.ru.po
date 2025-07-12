@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-16 18:43+0000\n"
+"PO-Revision-Date: 2025-07-13 01:34+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -1157,13 +1157,13 @@ msgid "DHPassengerPawn.HudName"
 msgstr "Пассажир"
 
 msgid "DHPawnTouchMessage.Messages<0>"
-msgstr "Нажмите [%THROWMGAMO%], чтобы дать боеприпасы {0}"
+msgstr "Нажмите [%THROWMGAMMO%], чтобы дать боеприпасы {0}"
 
 msgid "DHPawnTouchMessage.Messages<1>"
-msgstr "Нажмите [%THROWMGAMO%], чтобы перезарядить {0}"
+msgstr "Нажмите [%THROWMGAMMO%], чтобы перезарядить {0}"
 
 msgid "DHPawnTouchMessage.FallbackPlayerName"
-msgstr "дружественный солдат"
+msgstr "союзник"
 
 msgid "DHPlatoonHQMessage.ActivatedMessage"
 msgstr "Штаб взвода стал активен."
@@ -2855,9 +2855,7 @@ msgid "DHInventorySpawner.MenuNoun"
 msgstr "Ящик"
 
 msgid "DHInventorySpawner.MenuNameFormat"
-msgstr ""
-"Используется для таких предметов, как \"Ящик панцерфаустов\", где "
-"Панцерфауст - это {name}, а ящик - {noun}"
+msgstr "{name} {noun}"
 
 msgid "DHGameMessage.RoleUnlockedMessage"
 msgstr "Должность {role} теперь разблокирована."
