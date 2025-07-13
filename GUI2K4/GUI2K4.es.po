@@ -1,2 +1,244 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-07-13 18:52+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
+"darkesthour/gui2k4/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "UT2k4Browser_ServerListPageBase.PingingText"
+msgstr "Haciendo compilación de servidores (%NumRec% / %TotalNum%)"
+
+msgid "UT2k4Browser_ServerListPageFavorites.EditFavoriteText"
+msgstr "Editar dirección IP"
+
+msgid "UT2K4Browser_ServerListPageMS.PanelCaption"
+msgstr "Servidores: Internet"
+
+msgid "UT2k4Browser_ServerListPageLAN.PanelCaption"
+msgstr "Servidores : LAN"
+
+msgid "UT2K4Tab_IForceSettings.PanelCaption"
+msgstr "Mouse"
+
+msgid "ControlBinder.BindingLabel[15]"
+msgstr "Mostrar \"Vista trasera\""
+
+msgid "UT2K4Browser_Page.QueryCompleteString"
+msgstr "¡Consulta completada!"
+
+msgid "UT2K4Browser_Page.StartQueryString"
+msgstr "Consultando al Master Server"
+
+msgid "UT2K4Tab_HudSettings.PanelCaption"
+msgstr "HUD"
+
+msgid "UT2K4PerformWarn.DialogText2.Caption"
+msgstr ""
+"El cambio que estás realizando puede afectar negativamente tu rendimiento."
+
+msgid "UT2K4PerformWarn.HideCheckbox.Hint"
+msgstr ""
+"Marque esta opción para desactivar la visualización de mensajes de "
+"advertencia al ajustar las propiedades en el menú Configuración"
+
+msgid "UT2K4Browser_Page.ReadyString"
+msgstr "Listo"
+
+msgid "UT2K4GamePageBase.PanelCaption<4>"
+msgstr "Configuración de bots"
+
+msgid "UT2K4SettingsPage.PanelCaption<2>"
+msgstr "Jugador"
+
+msgid "UT2K4Tab_MidGameVoiceChat.NOSPEECH.Hint"
+msgstr ""
+"No reciba ningún mensaje de voz, como \"¡A cubierto!\", de este reproductor"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<1>"
+msgstr "Puntuación"
+
+msgid "UT2k4Browser_RulesList.AdminNameString"
+msgstr "Administrador del servidor"
+
+msgid "UT2k4Browser_ServerListPageBase.PingCompleteText"
+msgstr "¡Compilación completa! %NumServers% servidores, %NumPlayers% jugadores"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<0>"
+msgstr "Nombre"
+
+msgid "Settings_Tabs.PerformanceWarningText"
+msgstr "Los cambios que estas haciendo pueden afectar en el rendimiento."
+
+msgid "UT2K4Tab_MainBase.MessageNoInfo"
+msgstr "No hay información disponible"
+
+msgid "UT2K4GetPassword.IncorrectPassword"
+msgstr "Contraseña incorrecta. Inténtelo mas tarde"
+
+msgid "UT2K4GetPassword.GetPassLabel.Caption"
+msgstr "Se requiere contraseña para entrar en este servidor."
+
+msgid "UT2K4GetPassword.GetPassPW.Caption"
+msgstr "Contraseña"
+
+msgid "UT2K4PerformWarn.DialogText.Caption"
+msgstr "ADVERTENCIA"
+
+msgid "UT2K4PerformWarn.HideCheckbox.Caption"
+msgstr "  No volver a mostrar esta advertencia"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[1]"
+msgstr "Media Bajo"
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[0]"
+msgstr "16-bits"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[2]"
+msgstr "Bajo"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[3]"
+msgstr "Bajo"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[0]"
+msgstr "Ninguno"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[1]"
+msgstr "Manchas"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[2]"
+msgstr "Completas"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[4]"
+msgstr "Normal"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[5]"
+msgstr "Alto"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[8]"
+msgstr "Demasiado alto"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[7]"
+msgstr "Muy Alto"
+
+msgid "ControlBinder.BindingLabel[41]"
+msgstr "Menú de voz"
+
+msgid "UT2K4GamePageBase.PanelCaption<0>"
+msgstr "Tipo de juego"
+
+msgid "UT2K4GamePageBase.PanelCaption<1>"
+msgstr "Seleccionar mapa"
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[1]"
+msgstr "32-bits"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[0]"
+msgstr "Demasiado bajo"
+
+msgid "UT2K4Tab_DetailSettings.PanelCaption"
+msgstr "Pantalla"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[6]"
+msgstr "Muy Alto"
+
+msgid "UT2K4GamePageBase.PanelCaption<2>"
+msgstr "Reglas del juego"
+
+msgid "UT2K4GamePageBase.PanelCaption<3>"
+msgstr "Complementos"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<2>"
+msgstr "Rango"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<3>"
+msgstr "Latencia"
+
+msgid "UT2k4Browser_RulesList.TrueString"
+msgstr "Habilitado"
+
+msgid "UT2k4Browser_RulesList.FalseString"
+msgstr "Deshabilitado"
+
+msgid "UT2k4Browser_RulesList.AdminEmailString"
+msgstr "Email del administrador"
+
+msgid "UT2k4Browser_RulesList.MutatorString"
+msgstr "Complemento(s)"
+
+msgid "UT2k4Browser_RulesList.TimeLimitString"
+msgstr "Tiempo limite"
+
+msgid "UT2k4Browser_RulesList.MinPlayersString"
+msgstr "Mínimo de jugadores (bots)"
+
+msgid "UT2k4Browser_RulesList.MapVotingString"
+msgstr "Votación de mapas"
+
+msgid "UT2k4Browser_RulesList.KickVotingString"
+msgstr "Votación para expulsión"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<0>"
+msgstr "Configuración"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<1>"
+msgstr "Valor"
+
+msgid "UT2k4Browser_ServerListPageBase.QueryCompleteString"
+msgstr "¡Consulta completa! Se recibieron: %NumServers% servidores"
+
+msgid "UT2k4Browser_ServerListPageFavorites.RemoveFavoriteText"
+msgstr "Eliminar de favorito"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<1>"
+msgstr "Nombre del servidor"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<2>"
+msgstr "Mapa"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<3>"
+msgstr "Jugadores"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<4>"
+msgstr "Latencia"
+
+msgid "UT2k4Browser_ServerListPageFavorites.PanelCaption"
+msgstr "Servidores : Favoritos"
+
+msgid "UT2K4SettingsPage.PanelCaption<0>"
+msgstr "Pantalla"
+
+msgid "UT2K4SettingsPage.PanelCaption<1>"
+msgstr "Sonido"
+
+msgid "UT2K4SettingsPage.PanelCaption<3>"
+msgstr "Juego"
+
+msgid "UT2K4SettingsPage.PanelCaption<4>"
+msgstr "Mouse"
+
+msgid "UT2K4SettingsPage.PanelCaption<5>"
+msgstr "Armas"
+
+msgid "UT2K4VideoChangeOK.RestoreText"
+msgstr "(La configuración original se restaurará en %count% %seconds%)"
+
+msgid "UT2K4SettingsPage.PanelCaption<6>"
+msgstr "HUD"
+
+msgid "UT2K4VideoChangeOK.SecondText"
+msgstr "segundo"
+
+msgid "UT2K4VideoChangeOK.SecondsText"
+msgstr "segundos"
+
+msgid "UT2K4VideoChangeOK.lbText.Caption"
+msgstr "¿Aceptar estas configuraciones?"
+
+msgid "UT2K4VideoChangeOK.lbText2.Caption"
+msgstr "(La configuración original se restaurará en 15 segundos)"
