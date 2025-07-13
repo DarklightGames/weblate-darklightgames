@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 19:43+0000\n"
+"PO-Revision-Date: 2025-07-14 01:35+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_sovietplayers/es/>\n"
@@ -22,10 +22,10 @@ msgid "DHNation_Poland.NationName"
 msgstr "Ejército Popular Polaco"
 
 msgid "DHSOVEngineerRoles.AltName"
-msgstr "Zapador"
+msgstr "Saper"
 
 msgid "DHSOVMachineGunnerRoles.AltName"
-msgstr "Ametrallador"
+msgstr "Pulemetchik"
 
 msgid "DHSOVSergeantRoles.MyName"
 msgstr "Líder de Escuadrón"
@@ -37,7 +37,7 @@ msgid "DH_SovietMadManRoles.MyName"
 msgstr "Hombre Loco"
 
 msgid "DH_SovietMadManRoles.AltName"
-msgstr "Hombre Loco"
+msgstr "Mad Man"
 
 msgid "DH_SovietMadManRoles.PluralName"
-msgstr "Hombre Loco"
+msgstr "Mad Men"
