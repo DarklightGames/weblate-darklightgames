@@ -1,2 +1,683 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-07-13 18:52+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
+"darkesthour/rointerface/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "ROControlBinder.BindingLabel[63]"
+msgstr "Usar"
+
+msgid "ROControlBinder.BindingLabel[64]"
+msgstr "Pausa"
+
+msgid "ROUT2K4GamePageSP.SPFooter.PrimaryHint"
+msgstr "Iniciar una partida con estas configuraciones"
+
+msgid "ROControlBinder.BindingLabel[65]"
+msgstr "Captura de pantalla"
+
+msgid "ROControlBinder.BindingLabel[72]"
+msgstr "Misceláneo"
+
+msgid "ROControlBinder.BindingLabel[74]"
+msgstr "Reproductor de música"
+
+msgid "ROControlBinder.BindingLabel[75]"
+msgstr "Menú de votación"
+
+msgid "ROConsole.SMStateName[6]"
+msgstr "Alerta de vehículos"
+
+msgid "ROConsole.SMStateName[7]"
+msgstr "Comandos"
+
+msgid "ROControlBinder.BindingLabel[76]"
+msgstr "Mantener consola"
+
+msgid "ROConsole.SMStateName[9]"
+msgstr "Atacar..."
+
+msgid "ROControlBinder.BindingLabel[78]"
+msgstr "Cancelar conexión pendiente"
+
+msgid "ROControlBinder.BindingLabel[79]"
+msgstr "Comunicación vehicular"
+
+msgid "ROTab_Controls.Headings[1]"
+msgstr "Tecla 1"
+
+msgid "ROTab_Controls.Headings[2]"
+msgstr "Tecla 2"
+
+msgid "ROConsole.SMStateName[14]"
+msgstr "Seleccionar destinatario del pedido..."
+
+msgid "ROControlBinder.BindingLabel[0]"
+msgstr "Red Orchestra"
+
+msgid "ROControlBinder.BindingLabel[2]"
+msgstr "Recargar"
+
+msgid "ROConsole.AllPlayersSquad"
+msgstr "Todos los miembros del equipo"
+
+msgid "ROControlBinder.BindingLabel[26]"
+msgstr "Mantener ametrallamiento"
+
+msgid "ROControlBinder.BindingLabel[77]"
+msgstr "Mostrar el status de la conexión"
+
+msgid "ROControlBinder.BindingLabel[4]"
+msgstr "Cambiar rol"
+
+msgid "ROControlBinder.BindingLabel[73]"
+msgstr "Menú"
+
+msgid "ROControlBinder.BindingLabel[80]"
+msgstr "Vehicle Say"
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorGameHasStarted"
+msgstr ""
+"No se pueden cambiar de equipo: las reglas del servidor no permiten cambios "
+"de equipo una vez iniciado el juego."
+
+msgid "ROControlBinder.BindingLabel[7]"
+msgstr "Ajustar Bayoneta / Desplegar MG"
+
+msgid "ROGUIRoleSelection.UnknownErrorMessageText"
+msgstr ""
+"Se produjo un error desconocido al actualizar la información del jugador. "
+"Espere un momento y vuelva a intentarlo."
+
+msgid "ROTab_Controls.captions_looking[3]"
+msgstr "Mirar hacia abajo"
+
+msgid "ROGUIRoleSelection.ErrorTeamMustJoinBeforeStart"
+msgstr ""
+"No se puede cambiar de equipo: debe unirse al equipo antes de que comience "
+"el juego."
+
+msgid "ROUT2K4GamePageSP.PageCaption"
+msgstr "Un jugador"
+
+msgid "ROControlBinder.BindingLabel[9]"
+msgstr "Mostrar objetivos"
+
+msgid "ROControlBinder.BindingLabel[11]"
+msgstr "Cambiar de lado"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<0>"
+msgstr "nada"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<1>"
+msgstr "Seleccionar mapa"
+
+msgid "ROControlBinder.BindingLabel[13]"
+msgstr "Cambiar modo de disparo"
+
+msgid "ROControlBinder.BindingLabel[14]"
+msgstr "Cambiar armas"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<2>"
+msgstr "Reglas del juego"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<3>"
+msgstr "Complementos"
+
+msgid "ROControlBinder.BindingLabel[15]"
+msgstr "Reabastecer munición"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<4>"
+msgstr "Configuración de bots"
+
+msgid "ROUT2K4GamePageSP.PanelHint<1>"
+msgstr ""
+"Obtenga una vista previa de los mapas para el tipo de juego seleccionado "
+"actualmente..."
+
+msgid "ROControlBinder.BindingLabel[16]"
+msgstr "Guardar coordenadas de artillería"
+
+msgid "ROControlBinder.BindingLabel[23]"
+msgstr "Caminar"
+
+msgid "ROControlBinder.BindingLabel[24]"
+msgstr "Mantenerse agachado"
+
+msgid "ROControlBinder.BindingLabel[25]"
+msgstr "Agacharse"
+
+msgid "ROControlBinder.BindingLabel[36]"
+msgstr "Alternar modo de camara"
+
+msgid "ROControlBinder.BindingLabel[37]"
+msgstr "Armas"
+
+msgid "ROUT2K4GamePageSP.PanelHint<2>"
+msgstr "Configure las reglas del juego"
+
+msgid "ROControlBinder.BindingLabel[43]"
+msgstr "Anterior arma"
+
+msgid "ROControlBinder.BindingLabel[47]"
+msgstr "Decir al equipo"
+
+msgid "ROControlBinder.BindingLabel[49]"
+msgstr "Menú de voz"
+
+msgid "ROTab_Controls.Headings[0]"
+msgstr "Acción"
+
+msgid "ROTab_Hud.Hints<0>"
+msgstr "Todas las pistas"
+
+msgid "ROTab_Hud.Hints<1>"
+msgstr "Nuevas pistas solamente"
+
+msgid "ROTab_Hud.Hints<2>"
+msgstr "Sin pistas"
+
+msgid "ROTab_Hud.HintsCombo.Caption"
+msgstr "Nivel de pistas"
+
+msgid "ROTab_Hud.HintsCombo.Hint"
+msgstr "Selecciona si se deben mostrar sugerencias/pistas o no."
+
+msgid "ROUT2K4GamePageSP.PanelHint<3>"
+msgstr "Seleccionar y configurar cualquier complemento a usar..."
+
+msgid "ROUT2K4GamePageSP.PanelHint<4>"
+msgstr "Configurar cualquier bot que estará en la sesión..."
+
+msgid "ROConsole.SMStateName[1]"
+msgstr "Soporte"
+
+msgid "ROConsole.SMStateName[3]"
+msgstr "Enemigo avistado"
+
+msgid "ROConsole.SMStateName[4]"
+msgstr "Alerta"
+
+msgid "ROConsole.SMStateName[5]"
+msgstr "Comando de vehículos"
+
+msgid "ROConsole.SMStateName[8]"
+msgstr "Mofas"
+
+msgid "ROConsole.SMStateName[10]"
+msgstr "Defender..."
+
+msgid "ROConsole.SMStateName[11]"
+msgstr "Ir hacia..."
+
+msgid "ROConsole.SMStateName[12]"
+msgstr "Ayuda necesaria en..."
+
+msgid "ROConsole.SMStateName[13]"
+msgstr "Bajo ataque en..."
+
+msgid "ROTab_DetailSettings.DetailOptions[0]"
+msgstr "Demasiado bajo"
+
+msgid "ROTab_DetailSettings.DetailOptions[1]"
+msgstr "Bajo"
+
+msgid "ROTab_AudioSettings.AudioModes[0]"
+msgstr "Modo seguro"
+
+msgid "ROTab_DetailSettings.DetailOptions[2]"
+msgstr "Medios"
+
+msgid "ROTab_DetailSettings.DetailOptions[3]"
+msgstr "Alto"
+
+msgid "ROTab_DetailSettings.DetailOptions[5]"
+msgstr "Demasiado alto"
+
+msgid "ROTab_DetailSettings.DetailOptions[4]"
+msgstr "Muy alto"
+
+msgid "ROTab_DetailSettings.DetailOptions[6]"
+msgstr "Personalizado"
+
+msgid "ROTab_DetailSettings.ScopeLevels[1]"
+msgstr "Texturizadas 2D"
+
+msgid "ROTab_DetailSettings.ScopeLevels[2]"
+msgstr "Modelos 3D Altos"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[0]"
+msgstr "Modelo"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[1]"
+msgstr "Textura"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[2]"
+msgstr "Modelo Alto"
+
+msgid "ROTab_AudioSettings.AudioModes[1]"
+msgstr "Audio 3D"
+
+msgid "ROTab_AudioSettings.AudioModes[2]"
+msgstr "H/W Audio 3D"
+
+msgid "ROTab_AudioSettings.AudioModes[3]"
+msgstr "H/W 3D + Sistema EAX"
+
+msgid "ROTab_AudioSettings.VoiceModes[1]"
+msgstr "Sin burlas"
+
+msgid "ROControlBinder.BindingLabel[1]"
+msgstr "Correr"
+
+msgid "ROTab_AudioSettings.VoiceModes[2]"
+msgstr "Nada"
+
+msgid "ROTab_Controls.captions_game[0]"
+msgstr "Abrir menú del juego"
+
+msgid "ROTab_Controls.captions_game[1]"
+msgstr "Usar"
+
+msgid "ROTab_Controls.captions_game[2]"
+msgstr "Reabastecer munición"
+
+msgid "ROTab_Controls.captions_game[3]"
+msgstr "Pausar juego"
+
+msgid "ROControlBinder.BindingLabel[3]"
+msgstr "Miras de hierro"
+
+msgid "ROControlBinder.BindingLabel[5]"
+msgstr "Mostrar / Ocultar HUD"
+
+msgid "ROControlBinder.BindingLabel[6]"
+msgstr "Cuerpo a tierra"
+
+msgid "ROControlBinder.BindingLabel[8]"
+msgstr "Cambiar barril del MG"
+
+msgid "ROControlBinder.BindingLabel[10]"
+msgstr "Cambiar detalle de la mira"
+
+msgid "ROControlBinder.BindingLabel[12]"
+msgstr "Usar"
+
+msgid "ROControlBinder.BindingLabel[17]"
+msgstr "Movimiento"
+
+msgid "ROControlBinder.BindingLabel[18]"
+msgstr "Adelante"
+
+msgid "ROControlBinder.BindingLabel[19]"
+msgstr "Hacia atrás"
+
+msgid "ROControlBinder.BindingLabel[20]"
+msgstr "Disparar a la izquierda"
+
+msgid "ROControlBinder.BindingLabel[21]"
+msgstr "Disparar a la derecha"
+
+msgid "ROControlBinder.BindingLabel[22]"
+msgstr "Saltar"
+
+msgid "ROControlBinder.BindingLabel[27]"
+msgstr "Inclinarse hacia la izquierda"
+
+msgid "ROControlBinder.BindingLabel[28]"
+msgstr "Inclinarse hacia la derecha"
+
+msgid "ROControlBinder.BindingLabel[29]"
+msgstr "Mirando"
+
+msgid "ROControlBinder.BindingLabel[30]"
+msgstr "Girar hacia la izquierda"
+
+msgid "ROControlBinder.BindingLabel[31]"
+msgstr "Girar hacia la derecha"
+
+msgid "ROControlBinder.BindingLabel[32]"
+msgstr "Mirar hacia a arriba"
+
+msgid "ROControlBinder.BindingLabel[33]"
+msgstr "Mirar hacia abajo"
+
+msgid "ROControlBinder.BindingLabel[34]"
+msgstr "Vista central"
+
+msgid "ROControlBinder.BindingLabel[35]"
+msgstr "Mantener "
+
+msgid "ROControlBinder.BindingLabel[38]"
+msgstr "Fuego"
+
+msgid "ROControlBinder.BindingLabel[39]"
+msgstr "Disparo alternativo"
+
+msgid "ROControlBinder.BindingLabel[40]"
+msgstr "Tirar el arma"
+
+msgid "ROControlBinder.BindingLabel[41]"
+msgstr "Mejor arma"
+
+msgid "ROControlBinder.BindingLabel[42]"
+msgstr "Siguiente Arma"
+
+msgid "ROControlBinder.BindingLabel[44]"
+msgstr "Ultima arma"
+
+msgid "ROControlBinder.BindingLabel[45]"
+msgstr "Comunicación"
+
+msgid "ROControlBinder.BindingLabel[46]"
+msgstr "Decir"
+
+msgid "ROControlBinder.BindingLabel[48]"
+msgstr "Chat del juego"
+
+msgid "ROControlBinder.BindingLabel[50]"
+msgstr "Activar micrófono"
+
+msgid "ROControlBinder.BindingLabel[51]"
+msgstr "Hablar en canal publico"
+
+msgid "ROControlBinder.BindingLabel[52]"
+msgstr "Hablar en canal Local"
+
+msgid "ROControlBinder.BindingLabel[53]"
+msgstr "Hablar en canal de Equipo"
+
+msgid "ROControlBinder.BindingLabel[54]"
+msgstr "Alternar el canal publico"
+
+msgid "ROControlBinder.BindingLabel[55]"
+msgstr "Alternar canal Local"
+
+msgid "ROControlBinder.BindingLabel[56]"
+msgstr "Alternar canal de equpo"
+
+msgid "ROControlBinder.BindingLabel[57]"
+msgstr "HUD"
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorTooManyPlayers"
+msgstr ""
+"No se pueden cambiar de equipo: demasiados jugadores activos en el juego."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorRoundHasEnded"
+msgstr "No se puede cambiar de equipo: la ronda ha finalizado."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorPlayingAgainstBots"
+msgstr ""
+"No se pueden cambiar de equipo: las reglas del servidor piden bots en un "
+"equipo y jugadores en el otro."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorTeamIsFull"
+msgstr "No se puede cambiar de equipo: el equipo seleccionado está completo."
+
+msgid "ROGUITeamSelection.TeamJoinText[0]"
+msgstr "UNIRSE AL EJE"
+
+msgid "ROGUITeamSelection.TeamJoinText[1]"
+msgstr "UNIRSE A LOS ALIADOS"
+
+msgid "ROGUITeamSelection.TeamJoinHint[0]"
+msgstr "Unirse al Eje"
+
+msgid "ROGUITeamSelection.TeamJoinHint[1]"
+msgstr "Unirse a los Aliados"
+
+msgid "ROScoreBoard.SpectatorTeamName"
+msgstr "Espectadores"
+
+msgid "ROScoreBoard.UnassignedTeamName"
+msgstr "No Asignado"
+
+msgid "ROScoreBoard.TeamNameAllies"
+msgstr "Los Aliados"
+
+msgid "ROScoreBoard.TeamNameAxis"
+msgstr "El Eje"
+
+msgid "ROScoreBoard.ReinforcementsText"
+msgstr "Refuerzos"
+
+msgid "ROSettingsPage_new.PanelCaption<1>"
+msgstr "Pantalla"
+
+msgid "ROSettingsPage_new.PanelCaption<2>"
+msgstr "Sonido"
+
+msgid "ROSettingsPage_new.PanelCaption<4>"
+msgstr "Mouse"
+
+msgid "ROSettingsPage_new.PanelCaption<5>"
+msgstr "HUD"
+
+msgid "ROTab_AudioSettings.VoiceModes[0]"
+msgstr "Todo"
+
+msgid "ROTab_AudioSettings.PanelCaption"
+msgstr "Audio"
+
+msgid "ROTab_Controls.ClearCaption"
+msgstr "Presione '%backspace%' para desvincular %keybind% de %keyname%."
+
+msgid "ROTab_Controls.ActionText"
+msgstr "{%keybinds%} - actualmente vinculado a esta tecla."
+
+msgid "ROTab_Controls.Section_Misc"
+msgstr "Misceláneos"
+
+msgid "ROTab_Controls.Section_Interface"
+msgstr "Interfaz"
+
+msgid "ROTab_Controls.captions_weapons[10]"
+msgstr "Cambiar el barril de la Ametralladora"
+
+msgid "ROTab_Controls.captions_comm[8]"
+msgstr "Cambiar al canal de voz del equipo"
+
+msgid "ROTab_DetailSettings.ScopeLevels[0]"
+msgstr "Modelos Bajo"
+
+msgid "ROUT2K4GamePageSP.PanelHint<0>"
+msgstr "nada"
+
+msgid "ROUT2K4GamePageSP.SPFooter.PrimaryCaption"
+msgstr "INCIAR MODO PRACTICA"
+
+msgid "ROControlBinder.BindingLabel[58]"
+msgstr "Agrandar HUD"
+
+msgid "ROControlBinder.BindingLabel[59]"
+msgstr "Reducir HUD"
+
+msgid "ROControlBinder.BindingLabel[60]"
+msgstr "Alternar tabla de puntuación"
+
+msgid "ROControlBinder.BindingLabel[61]"
+msgstr "Tabla de puntuación"
+
+msgid "ROControlBinder.BindingLabel[62]"
+msgstr "Juego"
+
+msgid "ROTab_Controls.captions_weapons[2]"
+msgstr "Recargar"
+
+msgid "ROTab_Controls.captions_looking[4]"
+msgstr "Vista al centro"
+
+msgid "ROTab_Controls.Section_Movement"
+msgstr "Movimiento"
+
+msgid "ROTab_Controls.captions_movement[10]"
+msgstr "Caminar"
+
+msgid "ROTab_Controls.captions_movement[11]"
+msgstr "Mantener el agachado"
+
+msgid "ROTab_Controls.captions_misc[0]"
+msgstr "Abrir menú de votación"
+
+msgid "ROTab_Controls.captions_misc[1]"
+msgstr "Alternar/Activar consola"
+
+msgid "ROTab_Controls.captions_misc[2]"
+msgstr "Ver status de conexión"
+
+msgid "ROTab_Controls.captions_misc[3]"
+msgstr "Cancelar conexión pendiente"
+
+msgid "ROTab_Controls.captions_misc[4]"
+msgstr "Iniciar grabación de demostración"
+
+msgid "ROTab_Controls.captions_misc[5]"
+msgstr "Detener grabación de demostración"
+
+msgid "ROTab_Controls.captions_misc[6]"
+msgstr "Tomar captura de pantalla"
+
+msgid "ROTab_Controls.captions_misc[7]"
+msgstr "Ver información del servidor"
+
+msgid "ROTab_Controls.captions_misc[8]"
+msgstr "Mostrar estadísticas personales"
+
+msgid "ROTab_Controls.captions_misc[9]"
+msgstr "Ver las estadísticas del siguiente jugador"
+
+msgid "ROTab_Controls.captions_interface[0]"
+msgstr "Mostrar el mapa"
+
+msgid "ROTab_Controls.captions_interface[1]"
+msgstr "Mostrar la tabla de puntuación"
+
+msgid "ROTab_Controls.captions_interface[2]"
+msgstr "Mostrar tabla de puntuaciones"
+
+msgid "ROTab_Controls.captions_interface[3]"
+msgstr "Incrementar el tamaño del HUD"
+
+msgid "ROTab_Controls.captions_comm[0]"
+msgstr "Decir"
+
+msgid "ROTab_Controls.captions_comm[1]"
+msgstr "Decir al equipo"
+
+msgid "ROTab_Controls.captions_comm[2]"
+msgstr "Decir en vehículo"
+
+msgid "ROTab_Controls.captions_comm[3]"
+msgstr "Menú de comando de voces"
+
+msgid "ROTab_Controls.captions_comm[4]"
+msgstr "Ver el chat en juego"
+
+msgid "ROTab_Controls.captions_interface[4]"
+msgstr "Disminuir el tamaño del HUD"
+
+msgid "ROTab_Controls.captions_weapons[0]"
+msgstr "Fuego Primario"
+
+msgid "ROTab_Controls.captions_weapons[1]"
+msgstr "Fuego alternativo"
+
+msgid "ROTab_Controls.captions_comm[5]"
+msgstr "Activar micrófono"
+
+msgid "ROTab_Controls.captions_comm[6]"
+msgstr "Cambiar al canal de voz publico"
+
+msgid "ROTab_Controls.captions_comm[7]"
+msgstr "Cambiar al canal de voz local"
+
+msgid "ROTab_Controls.captions_weapons[3]"
+msgstr "Miras de hierro"
+
+msgid "ROTab_Controls.captions_weapons[4]"
+msgstr "Tirar arma"
+
+msgid "ROTab_Controls.captions_weapons[5]"
+msgstr "Siguiente arma"
+
+msgid "ROTab_Controls.captions_weapons[6]"
+msgstr "Anterior arma"
+
+msgid "ROTab_Controls.captions_weapons[7]"
+msgstr "Cambiar a la mejor arma"
+
+msgid "ROTab_Controls.captions_looking[0]"
+msgstr "Girar a la izquierda"
+
+msgid "ROTab_Controls.captions_looking[1]"
+msgstr "Gira a la derecha"
+
+msgid "ROTab_Controls.captions_looking[2]"
+msgstr "Mirar hacia arriba"
+
+msgid "ROTab_Controls.captions_weapons[8]"
+msgstr "Cambiar al ultima arma"
+
+msgid "ROTab_Controls.captions_weapons[9]"
+msgstr "Ajustar bayoneta / Desplegar ametralladora"
+
+msgid "ROTab_Controls.captions_weapons[11]"
+msgstr "Cambiar modo de disparo"
+
+msgid "ROTab_Controls.captions_movement[0]"
+msgstr "Adelante"
+
+msgid "ROTab_Controls.captions_movement[1]"
+msgstr "Atrás"
+
+msgid "ROTab_Controls.captions_movement[2]"
+msgstr "Disparar a la izquierda"
+
+msgid "ROTab_Controls.captions_movement[3]"
+msgstr "Disparar a la derecha"
+
+msgid "ROTab_Controls.captions_looking[5]"
+msgstr "Activar el modo en tercera persona (solo en modo Practica)"
+
+msgid "ROTab_Controls.captions_looking[6]"
+msgstr "Activar o desactivar el modo de cámara (solo en modo Practica)"
+
+msgid "ROTab_Controls.captions_movement[4]"
+msgstr "Inclinarse a la izquierda"
+
+msgid "ROTab_Controls.captions_movement[5]"
+msgstr "Inclinarse a la derecha"
+
+msgid "ROTab_Controls.captions_movement[6]"
+msgstr "Saltar"
+
+msgid "ROTab_Controls.captions_movement[7]"
+msgstr "Agacharse"
+
+msgid "ROTab_Controls.captions_movement[8]"
+msgstr "Tumbarse"
+
+msgid "ROTab_Controls.captions_movement[9]"
+msgstr "Correr"
+
+msgid "ROTab_Controls.Section_Looking"
+msgstr "Viendo"
+
+msgid "ROTab_Controls.Section_Weapons"
+msgstr "Armas"
+
+msgid "ROTab_Controls.Section_Comm"
+msgstr "Comunicación"
+
+msgid "ROTab_Controls.Section_Game"
+msgstr "Juego"
+
+msgid "ROTab_Controls.Section_Speech_Prefix"
+msgstr "Comando de voz: "
