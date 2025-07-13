@@ -1,2 +1,252 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-07-13 01:34+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
+"darkesthour/roengine/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "ROVoicePack.SupportString[4]"
+msgstr "Necesitamos apoyo de MG!"
+
+msgid "ROVoicePack.SupportString[5]"
+msgstr "Necesitamos un rifle AT!"
+
+msgid "ROVoicePack.SupportString[6]"
+msgstr "Alguien destruya esto!"
+
+msgid "ROVoicePack.SupportString[9]"
+msgstr "Necesito transporte!"
+
+msgid "ROVoicePack.SupportAbbrev[1]"
+msgstr "Ayuda necesaria en..."
+
+msgid "ROVoicePack.SupportAbbrev[2]"
+msgstr "Necesito munición"
+
+msgid "ROVoicePack.SupportAbbrev[6]"
+msgstr "Requiriendo demolición"
+
+msgid "ROVoicePack.SupportAbbrev[7]"
+msgstr "Requiero un tanque"
+
+msgid "ROVoicePack.EnemyString[0]"
+msgstr "Infantería avistada!"
+
+msgid "ROVoicePack.EnemyString[1]"
+msgstr "Posición de MG!"
+
+msgid "ROVoicePack.EnemyString[3]"
+msgstr "Ingeniero!"
+
+msgid "ROVoicePack.EnemyString[4]"
+msgstr "Soldado Antitanque!"
+
+msgid "ROVoicePack.EnemyString[5]"
+msgstr "Vehículo ligero!"
+
+msgid "ROTeamGame.PropsDisplayText[4]"
+msgstr "Jugadores Maximos"
+
+msgid "ROTeamGame.PropsDisplayText[5]"
+msgstr "Tiempo limite"
+
+msgid "ROVoicePack.SupportAbbrev[3]"
+msgstr "Solicitamos francotirador"
+
+msgid "ROVoicePack.SupportAbbrev[4]"
+msgstr "Apoyo de ametralladoras aqui"
+
+msgid "ROVoicePack.SupportAbbrev[8]"
+msgstr "Requerimos la artilleria"
+
+msgid "ROTeamGame.PropsDisplayText[3]"
+msgstr "Máximo Espectadores"
+
+msgid "ROTeamGame.PropsDisplayText[9]"
+msgstr "Habilitar puntos de vista en espectador"
+
+msgid "ROTeamGame.PropsDisplayText[27]"
+msgstr "Los jugadores equilibran los equipos"
+
+msgid "ROGameMessage.YouHaveLoggedInAsAdminMsg"
+msgstr "Te has registrado como un administrador"
+
+msgid "ROVoicePack.SupportString[3]"
+msgstr "Solicito un francotirador aqui!"
+
+msgid "ROVoicePack.SupportAbbrev[9]"
+msgstr "Requiriendo transporte"
+
+msgid "ROGameMessage.NewPlayerMessage"
+msgstr "Un nuevo soldado a entrado al combate."
+
+msgid "ROHud.ReinforcementText"
+msgstr "Refuerzos: "
+
+msgid "ROHud.TimeRemainingText"
+msgstr "Tiempo Restante: "
+
+msgid "ROHud.ViewingText"
+msgstr "Viendo: "
+
+msgid "ROAmmoWeightMessage.HeavyMessage"
+msgstr "El nuevo cargador esta lleno"
+
+msgid "ROAmmoWeightMessage.LightMessage"
+msgstr "El nuevo cargador esta medio vacio"
+
+msgid "ROAmmoWeightMessage.VeryLightMessage"
+msgstr "El nuevo cargador esta casi vacio"
+
+msgid "ROBipodWarningMsg.DeployToFire"
+msgstr "¡Tu arma debe estar desplegada para disparar!"
+
+msgid "ROBipodWarningMsg.DeployToReload"
+msgstr "¡Tu arma debe estar desplegada para recargarla!"
+
+msgid "ROVoicePack.SupportAbbrev[0]"
+msgstr "Ayuda necesaria"
+
+msgid "ROVoicePack.SupportAbbrev[5]"
+msgstr "Necesitamos un rifle AT"
+
+msgid "ROPlayer.SpectatingModeName[0]"
+msgstr "Vista propia"
+
+msgid "ROPlayer.SpectatingModeName[1]"
+msgstr "Itinerancia"
+
+msgid "ROPlayer.SpectatingModeName[2]"
+msgstr "Viendo jugadores"
+
+msgid "ROPlayer.SpectatingModeName[3]"
+msgstr "Modo de vista de espectador"
+
+msgid "ROVoicePack.EnemyString[2]"
+msgstr "Francotirador!"
+
+msgid "RORoundOverMsg.AxisWins"
+msgstr "¡Las fuerzas del Eje han ganado la batalla!"
+
+msgid "RORoundOverMsg.AlliesWins"
+msgstr "¡Las fuerzas Aliadas han ganado la batalla!"
+
+msgid "RORoundOverMsg.NoDecisiveOutcome"
+msgstr "No hay una victoria decisiva"
+
+msgid "ROTeamGame.PropsDisplayText[0]"
+msgstr "Habilidad de los bots"
+
+msgid "ROTeamGame.PropsDisplayText[1]"
+msgstr "Usar rotación de mapas"
+
+msgid "ROTeamGame.PropsDisplayText[7]"
+msgstr "Espectar en primera persona (solamente)"
+
+msgid "ROTeamGame.PropsDisplayText[10]"
+msgstr "Permitir itinerancia en modo espectador"
+
+msgid "ROTeamGame.PropsDisplayText[11]"
+msgstr "Permitir vista libre (muerto)"
+
+msgid "ROTeamGame.PropsDisplayText[12]"
+msgstr "Permitir Pausar por Administrador"
+
+msgid "ROTeamGame.PropsDisplayText[19]"
+msgstr "Duración Pre-Inicial"
+
+msgid "ROTeamGame.PropsDisplayText[20]"
+msgstr "Espera en la red"
+
+msgid "ROVoicePack.SupportString[0]"
+msgstr "Necesitamos ayuda!"
+
+msgid "ROVoicePack.SupportString[2]"
+msgstr "Necesito munición!"
+
+msgid "ROVoicePack.SupportString[7]"
+msgstr "Necesitamos un tanque!"
+
+msgid "ROVoicePack.SupportString[8]"
+msgstr "Danos Artillería!"
+
+msgid "ROVoicePack.SupportStringAxis[5]"
+msgstr "Necesitamos un Panzerfaust!"
+
+msgid "ROVoicePack.SupportAbbrevAxis[5]"
+msgstr "Necesito un Panzerfaust"
+
+msgid "ROTeamGame.PropsDisplayText[2]"
+msgstr "Velocidad del juegp"
+
+msgid "ROTeamGame.PropsDisplayText[6]"
+msgstr "Permitir vista trasera"
+
+msgid "ROTeamGame.PropsDisplayText[8]"
+msgstr "Espectar en Tercera persona"
+
+msgid "ROTeamGame.PropsDisplayText[13]"
+msgstr "Jugadores mínimos"
+
+msgid "ROTeamGame.PropsDisplayText[14]"
+msgstr "Modo de bots"
+
+msgid "ROTeamGame.PropsDisplayText[16]"
+msgstr "Ajustar habilidad"
+
+msgid "ROTeamGame.PropsDisplayText[17]"
+msgstr "Limite de victorias"
+
+msgid "ROTeamGame.PropsDisplayText[18]"
+msgstr "Tiempo de la ronda"
+
+msgid "ROTeamGame.PropsDisplayText[21]"
+msgstr "Min. De jugadores en la red"
+
+msgid "ROTeamGame.PropsDisplayText[22]"
+msgstr "Los jugadores deben estar listos"
+
+msgid "ROTeamGame.PropsDisplayText[23]"
+msgstr "Escala de fuego amigo"
+
+msgid "ROTeamGame.PropsDisplayText[24]"
+msgstr "Escala de artillería de las FF"
+
+msgid "ROTeamGame.PropsDisplayText[25]"
+msgstr "Escala de explosivos FF"
+
+msgid "ROTeamGame.PropsDisplayText[26]"
+msgstr "Los bots equilibran los equipos"
+
+msgid "ROTeamGame.PropsDisplayText[28]"
+msgstr "Chat privado entre equipos"
+
+msgid "ROTeamGame.PropsDisplayText[29]"
+msgstr "Tiempo de expulsar inactivos"
+
+msgid "ROTeamGame.PropsDisplayText[30]"
+msgstr "Castigo por fuego amigo"
+
+msgid "ROTeamGame.PropsDisplayText[31]"
+msgstr "Modo de mensaje de muerte"
+
+msgid "ROTeamGame.PropsDisplayText[32]"
+msgstr "HUD negro cuando está muerto"
+
+msgid "ROTeamGame.PropsDisplayText[33]"
+msgstr "HUD negro en la vista sin jugador"
+
+msgid "ROTeamGame.PropsDisplayText[34]"
+msgstr "Equilibrio automático en caso de muerte"
+
+msgid "ROTeamGame.PropsDisplayText[35]"
+msgstr "Max. Diferencia de equipos"
+
+msgid "ROTeamGame.PropsDisplayText[36]"
+msgstr "Sobrepasar jugadores máximos"
