@@ -1,2 +1,198 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-07-13 01:34+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
+"darkesthour/engine/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "Errors.ServerListen"
+msgstr "El servidor dedicado no responde: %s"
+
+msgid "Progress.ConnectingText"
+msgstr "Conectando (F10 para Cancelar):"
+
+msgid "Progress.CancelledConnect"
+msgstr "Intento de conexión ha sido cancelado"
+
+msgid "Progress.Listening"
+msgstr "Recibiendo clientes ..."
+
+msgid "Errors.NetInvalid"
+msgstr "Se recibió una solicitud de archivo no válida"
+
+msgid "Errors.FailedBrowse"
+msgstr "No se pudo ingresar %s: %s"
+
+msgid "Errors.NetAlready"
+msgstr "Ya se esta haciendo funcionamiento de la red"
+
+msgid "Progress.Loading"
+msgstr "Cargando"
+
+msgid "KeyNames.Up"
+msgstr "ARRIBA"
+
+msgid "KeyNames.Right"
+msgstr "DERECHA"
+
+msgid "KeyNames.Left"
+msgstr "IZQUIERDA"
+
+msgid "KeyNames.Down"
+msgstr "ABAJO"
+
+msgid "KeyNames.Space"
+msgstr "ESPACIO"
+
+msgid "KeyNames.End"
+msgstr "FIN"
+
+msgid "KeyNames.Home"
+msgstr "INICIO"
+
+msgid "KeyNames.Separator"
+msgstr "SEPARADOR"
+
+msgid "KeyNames.Pause"
+msgstr "PAUSA"
+
+msgid "KeyNames.CapsLock"
+msgstr "BLOQUEAR MAYUSCULA"
+
+msgid "KeyNames.Tab"
+msgstr "TABULADOR"
+
+msgid "Errors.NetOpen"
+msgstr "Error abriendo el archivo"
+
+msgid "Errors.NetRefused"
+msgstr "El servidor se negó a enviar '%s'"
+
+msgid "Errors.NetSize"
+msgstr "El tamaño del archivo no coincide"
+
+msgid "Errors.NetWrite"
+msgstr "Error escribiendo el archivo"
+
+msgid "Errors.NetClose"
+msgstr "Error cerrando el archivo"
+
+msgid "Errors.NetMove"
+msgstr "Error moviendo el archivo"
+
+msgid "Errors.NoDownload"
+msgstr "El paquete '%s' no se puede descargar"
+
+msgid "Errors.DownloadFailed"
+msgstr "Error al descargar el paquete '%s': %s"
+
+msgid "Errors.RequestDenied"
+msgstr "El servidor solicitó un archivo pendiente: Denegado"
+
+msgid "Errors.ConnectionFailed"
+msgstr "La conexión falló"
+
+msgid "Errors.ChAllocate"
+msgstr "No se pudo asignar el canal"
+
+msgid "Errors.NetListen"
+msgstr "Error de escucha: no hay contexto de enlazador disponible"
+
+msgid "Errors.LoadEntry"
+msgstr "No se puede cargar la entrada: %s"
+
+msgid "Errors.InvalidUrl"
+msgstr "URL no válida: %s"
+
+msgid "Errors.InvalidLink"
+msgstr "Enlace inválido: %s"
+
+msgid "Errors.Listen"
+msgstr "Escucha fallida: %s"
+
+msgid "Errors.AbortToEntry"
+msgstr "Error; volviendo a la entrada"
+
+msgid "Errors.ServerOpen"
+msgstr "Los servidores no pueden abrir las URL de red"
+
+msgid "Errors.Pending"
+msgstr "La conexión pendiente a '%s' falló; %s"
+
+msgid "Errors.LoadPlayerClass"
+msgstr "No se pudo cargar la clase de jugador"
+
+msgid "Errors.ServerOutdated"
+msgstr "La versión del servidor no está actualizada"
+
+msgid "Errors.ClientOutdated"
+msgstr "Necesitas aplicar los últimos parches"
+
+msgid "Errors.ConnectLost"
+msgstr "Conexión perdida"
+
+msgid "Errors.DemoFileMissing"
+msgstr "Falta el paquete '%s' para la reproducción de demostración"
+
+msgid "Errors.DownloadNotAllowed"
+msgstr "No se permite la descarga de '%s'"
+
+msgid "KeyNames.LeftMouse"
+msgstr "CLICK IZQUIERDO"
+
+msgid "KeyNames.RightMouse"
+msgstr "CLICK DERECHO"
+
+msgid "KeyNames.MiddleMouse"
+msgstr "BOTON CENTRAL DEL MOUSE"
+
+msgid "KeyNames.PageUp"
+msgstr "RE PAG"
+
+msgid "KeyNames.PageDown"
+msgstr "AV PAG"
+
+msgid "KeyNames.MouseWheelUp"
+msgstr "RUEDA DEL MOUSE ARRIBA"
+
+msgid "KeyNames.MouseWheelDown"
+msgstr "RUEDA DEL MOUSE ABAJO"
+
+msgid "Progress.RunningNet"
+msgstr "% s:% s (%i jugadores)"
+
+msgid "Progress.NetReceiving"
+msgstr "Recibiendo '%s': %i/%i"
+
+msgid "Progress.NetReceiveOk"
+msgstr "Recibido exitosamente '%s'"
+
+msgid "Progress.NetSend"
+msgstr "Enviando '%s'"
+
+msgid "Progress.NetSending"
+msgstr "Enviando '%s': %i/%i"
+
+msgid "Progress.Connecting"
+msgstr "Conectando (F10 para abortar)..."
+
+msgid "Progress.Paused"
+msgstr "Pausado por %s"
+
+msgid "Progress.ReceiveOptionalFile"
+msgstr "Recibiendo el archivo opcional '%s' (Presione F10 para omitir)"
+
+msgid "Progress.ReceiveFile"
+msgstr "Recibiendo '%s' (Presione F10 para cancelar)"
+
+msgid "Progress.ReceiveSize"
+msgstr "Tamaño %iK, %3.1f%% Completado"
+
+msgid "Progress.CorruptConnect"
+msgstr "Los archivos del juego son incompatibles!"
