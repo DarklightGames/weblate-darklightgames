@@ -1,2 +1,76 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-07-14 01:35+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"Language-Team: French <https://weblate.darklightgames.com/projects/"
+"darkesthour/rointerface/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "ROConsole.AllPlayersSquad"
+msgstr "Tous les équipiers"
+
+msgid "ROConsole.SMStateName[5]"
+msgstr "Ordres Véhicule"
+
+msgid "ROConsole.SMStateName[6]"
+msgstr "Alertes Véhicule"
+
+msgid "ROConsole.SMStateName[7]"
+msgstr "Ordres"
+
+msgid "ROConsole.SMStateName[14]"
+msgstr "Sélectionner le receveur d'ordre..."
+
+#, fuzzy
+msgid "ROControlBinder.BindingLabel[0]"
+msgstr "Red Orchestra"
+
+msgid "ROControlBinder.BindingLabel[2]"
+msgstr "Recharger"
+
+msgid "ROControlBinder.BindingLabel[4]"
+msgstr "Changer de Rôle"
+
+msgid "ROConsole.SMStateName[1]"
+msgstr "Appui"
+
+msgid "ROConsole.SMStateName[3]"
+msgstr "Ennemi Repéré"
+
+msgid "ROConsole.SMStateName[4]"
+msgstr "Alerte"
+
+msgid "ROConsole.SMStateName[9]"
+msgstr "Attaquer..."
+
+msgid "ROConsole.SMStateName[8]"
+msgstr "Railleries"
+
+msgid "ROConsole.SMStateName[10]"
+msgstr "Défendre..."
+
+msgid "ROConsole.SMStateName[13]"
+msgstr "Sommes Attaqués à..."
+
+msgid "ROConsole.SMStateName[11]"
+msgstr "Aller vers..."
+
+msgid "ROConsole.SMStateName[12]"
+msgstr "Demander de l'aide à..."
+
+msgid "ROControlBinder.BindingLabel[1]"
+msgstr "Sprinter"
+
+msgid "ROControlBinder.BindingLabel[3]"
+msgstr "Mire"
+
+msgid "ROControlBinder.BindingLabel[5]"
+msgstr "Montrer / Cacher HUD"
+
+msgid "ROControlBinder.BindingLabel[6]"
+msgstr "À Plat Ventre"
