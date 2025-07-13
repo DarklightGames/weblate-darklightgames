@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-13 01:34+0000\n"
+"PO-Revision-Date: 2025-07-13 18:52+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
@@ -346,10 +346,10 @@ msgid "DHMapMarker_Enemy_Vehicle.MarkerName"
 msgstr "Vehículo enemigo"
 
 msgid "DHObjectiveMessage.TeamStrings[0]"
-msgstr "Eje"
+msgstr "El Eje"
 
 msgid "DHObjectiveMessage.TeamStrings[1]"
-msgstr "Aliados"
+msgstr "Los Aliados"
 
 msgid "DHObjectiveMessage.NotificationTypes[1]"
 msgstr "capturado"
@@ -739,10 +739,10 @@ msgid "DHAdminMessage.AdminTeleportedMessage"
 msgstr "El administrador '{0}' se ha teletransportado."
 
 msgid "DHAdminMessage.AlliedTeamNameGenitive"
-msgstr "Aliados"
+msgstr "Los Aliados"
 
 msgid "DHAdminMessage.AxisTeamNameGenitive"
-msgstr "Eje"
+msgstr "El Eje"
 
 msgid "DHArtilleryMessage.RequestText"
 msgstr "Solicitando {name}."
@@ -1192,7 +1192,7 @@ msgid "DHMapMarker_AdminParadrop.MarkerName"
 msgstr "ADMINISTRADOR: Colocar una marca para lanzamiento de paracaidistas"
 
 msgid "DHMapMarker_FireSupport_HE.MarkerName"
-msgstr "Solicitud de H.E."
+msgstr "Solicitud de A.E"
 
 msgid "DHMapMarker_FireSupport_Smoke.MarkerName"
 msgstr "Solicitud de Cobertura de Humo"
@@ -1209,7 +1209,6 @@ msgstr "No puedes desplegar tu mortero aqui"
 msgid "DHMortarMessage.EnemyMortar"
 msgstr "No puedes operar morteros enemigos"
 
-#, fuzzy
 msgid "DHObjectiveMessage.NotificationMessage"
 msgstr "{0} han {1} {2}"
 
@@ -1580,7 +1579,7 @@ msgid "DHVehicleMessage.AllRiderPositionsFull"
 msgstr "Todas las posiciones de pasajeros están ocupadas."
 
 msgid "DHVehicleMessage.OpenHatchToExit"
-msgstr "Debes abrir el compuerta {0} para salir"
+msgstr "Debes abrir la compuerta {0} para salir"
 
 msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<1>"
 msgstr "Se produjo un error al enviar la solicitud de fusión del escuadrón."
@@ -1808,7 +1807,7 @@ msgid "DHSquadMessage.LeftMessage"
 msgstr "{0} ha dejado el escuadrón."
 
 msgid "DHSquadMessage.InviteAlreadyInSquadMessage"
-msgstr "{0} ya esta en tu escuadrón."
+msgstr "{0} ya esta en un escuadrón."
 
 msgid "DHSquadMessage.NewLeaderMessage"
 msgstr "{0} se ha convertido en el líder del escuadrón."
@@ -2209,3 +2208,24 @@ msgstr "Cargar suministros"
 
 msgid "DHSupplyVehicleMessage.Controls<1>.Text"
 msgstr "Descargar suministros"
+
+msgid "DHInventorySpawner.MenuNameFormat"
+msgstr "{name} {noun}"
+
+msgid "DHVehicleCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DHVehicleCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DHVoicePack.EnemyAbbrevAxis[3]"
+msgstr "Pioneer"
+
+msgid "DHUnits.DistanceUnits<0>.Name"
+msgstr "Unreal Units"
+
+msgid "DHUnits.DistanceUnits<0>.Symbol"
+msgstr "uu"
+
+msgid "DHUnits.DistanceUnits<1>.Symbol"
+msgstr "m"
