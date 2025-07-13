@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-10 19:11+0000\n"
+"PO-Revision-Date: 2025-07-14 01:35+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -1164,7 +1164,7 @@ msgid "DHMapMarker_Friendly_CommandPost.MarkerName"
 msgstr "Demander un Poste Commandement"
 
 msgid "DHObjectiveMessage.NotificationMessage"
-msgstr "{2} {1} par {0}"
+msgstr "{2} a été {1} par {0}"
 
 msgid "DHPawn.AdminSpawnedVehicleText"
 msgstr "L'administrateur {name} a spawné un {vehicle}"
@@ -1203,3 +1203,88 @@ msgstr "La radio est actuellement utilisée"
 
 msgid "DHRadioTouchMessage.NotOwnedMessage"
 msgstr "Vous ne pouvez pas utiliser les radios ennemies"
+
+msgid "DHReinforcementMsg.ReinforcementsDepleted"
+msgstr "Votre équipe n'a plus de renforts !"
+
+msgid "DHResetGameMsg.CountdownText"
+msgstr "La partie va redémarrer dans {seconds} secondes"
+
+msgid "DHResetGameMsg.GameRestartingText"
+msgstr "La partie est en train de redémarrer"
+
+msgid "DHResupplyMessage.HaveResupplied"
+msgstr "Vous avez réapprovisionné {0}"
+
+msgid "DHScoreEvent_FireSupportSpottingAssist.HumanReadableName"
+msgstr "Repérage Appui Feu"
+
+msgid "DHScoreEvent_Kill.HumanReadableName"
+msgstr "Kill"
+
+msgid "DHScoreEvent_ObjectiveCapture.HumanReadableName"
+msgstr "Objectif Capturé"
+
+msgid "DHReinforcementAwardMsg.ReinforcementAward"
+msgstr "{0} renforts ont été décernés à votre équipe pour avoir capturé {1} !"
+
+msgid "DHReinforcementAwardMsg.ReinforcementAttrition"
+msgstr ""
+"Votre équipe est en train de perdre des renforts importants par attrition !!!"
+
+msgid "DHReinforcementAwardMsg.ReinforcementLoss"
+msgstr "{0} renforts ont été perdus par votre équipe pour avoir perdu {1} !"
+
+msgid "DHReinforcementMsg.ReinforcementsRemaining"
+msgstr "Il reste {0}% de renforts pour votre équipe !"
+
+msgid "DHResupplyMessage.BeenResupplied"
+msgstr "Vous avez été réapprovisionné par {0}"
+
+msgid "DHResupplyMessage.HaveResuppliedFriendlyMortar"
+msgstr "Vous avez réapprovisionné un mortier ami"
+
+msgid "DHScoreEvent_FriendlyResupply.HumanReadableName"
+msgstr "Réapprovisionnement"
+
+msgid "DHRocketWarningMessage.NoHipFire"
+msgstr "Vous ne pouvez pas tirer {0} de la hanche"
+
+msgid "DHRocketWarningMessage.CrouchOrRestToFire"
+msgstr "Vous devez être accroupi ou poser votre arme pour tirer au {0}"
+
+msgid "DHRocketWarningMessage.ProneOrRestToFire"
+msgstr "Vous devez être à plat ventre ou poser votre arme pour tirer au {0}"
+
+msgid "DHRocketWarningMessage.NoProneReload"
+msgstr "Vous ne pouvez pas recharger le {0} à plat ventre"
+
+msgid "DHRocketWarningMessage.RestToReload"
+msgstr "Vous devez être à plat ventre pour recharger le {0}"
+
+msgid "DHRocketWarningMessage.ShoulderForAssistedReload"
+msgstr "Vous devez épauler le {0} pour un rechargement assisté"
+
+msgid "DHRocketWarningMessage.CantBeMoving"
+msgstr "Vous devez être stationnaire pour tirer au {0}"
+
+msgid "DHScoreCategory_Combat.HumanReadableName"
+msgstr "Combat"
+
+msgid "DHScoreEvent_ObjectiveNeutralize.HumanReadableName"
+msgstr "Objectif Neutralisé"
+
+msgid "DHScoreCategory_Support.HumanReadableName"
+msgstr "Appui"
+
+msgid "DHScoreEvent_ConstructionCompleted.HumanReadableName"
+msgstr "Construction Faite"
+
+msgid "DHScoreEvent_SquadRallyPointEstablished.HumanReadableName"
+msgstr "Point de Ralliement Établi"
+
+msgid "DHScoreEvent_FriendlyReload.HumanReadableName"
+msgstr "Rechargement Assisté"
+
+msgid "DHScoreEvent_SquadRallyPointEstablishedAssist.HumanReadableName"
+msgstr "Point de Ralliement Établi (Assistant)"
