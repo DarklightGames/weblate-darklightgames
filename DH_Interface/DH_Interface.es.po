@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 19:43+0000\n"
+"PO-Revision-Date: 2025-07-13 18:52+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/es/>\n"
@@ -144,7 +144,7 @@ msgid "DHDeployMenu.BotsText"
 msgstr "BOTS"
 
 msgid "DHDeployMenu.SurrenderButtonText[0]"
-msgstr "Retirada"
+msgstr "Retirarse"
 
 msgid "DHDeployMenu.SurrenderButtonText[1]"
 msgstr "Seguir Luchando"
@@ -159,7 +159,7 @@ msgid "DHDeployMenu.SurrenderResponseMessages<2>"
 msgstr "La ronda aún no ha empezado."
 
 msgid "DHDeployMenu.SurrenderResponseMessages<3>"
-msgstr "El voto para retirada está desactivado."
+msgstr "El voto para retirarse está desactivado."
 
 msgid "DHDeployMenu.SurrenderResponseMessages<4>"
 msgstr "La votación ya está en marcha."
@@ -183,7 +183,7 @@ msgid "DHDeployMenu.MaxVehiclesImageObject.Hint"
 msgstr "Tanques disponibles"
 
 msgid "DHDeployMenu.RetreatButtonObject.Caption"
-msgstr "Retirada"
+msgstr "Retirarse"
 
 msgid "DHDeployMenu.RoundTimeLabelObject.Hint"
 msgstr "Tiempo restante"
@@ -325,7 +325,7 @@ msgid "DHCreditsPage.SpecialThanksText"
 msgstr "Agradecimientos especiales"
 
 msgid "DHDeployMenu.DeployNowText"
-msgstr "¡Presiona Continuar para desplegar ahora!"
+msgstr "¡Presiona Continuar para aparecer ahora!"
 
 msgid "DHFilterEdit.MutOpts[0]"
 msgstr "Sin complementos"
@@ -638,7 +638,7 @@ msgid "DHTab_Controls.captions_game[7]"
 msgstr "Unirse automáticamente al escuadrón"
 
 msgid "DHTab_Controls.captions_game[8]"
-msgstr "Colocar un punto de reunión"
+msgstr "Establecer un punto de reunión"
 
 msgid "DHTab_Controls.PanelCaption"
 msgstr "Controles"
@@ -1084,7 +1084,7 @@ msgid "DHSettingsPage.PanelCaption<0>"
 msgstr "Juego"
 
 msgid "DHSettingsPage.PanelCaption<1>"
-msgstr "Mostrar"
+msgstr "Pantalla"
 
 msgid "DHSettingsPage.PanelCaption<2>"
 msgstr "Audio"
@@ -1450,7 +1450,7 @@ msgid "DHTab_Hud.ShowMapFirstSpawn.Caption"
 msgstr "Mostrar mapa en el PDR inicial"
 
 msgid "DHTab_Hud.ShowRallyPoint.Caption"
-msgstr "Mostrar el estatus de los puntos de reunión del escuadrón"
+msgstr "Mostrar el status de los puntos de reunión del escuadrón"
 
 msgid "DHTab_Hud.UseNativeItemNames.Caption"
 msgstr "Usar nombres nativos de elementos"
@@ -1579,7 +1579,7 @@ msgid "DHGUIDynArrayPage.LockedOKButton.Caption"
 msgstr "OK"
 
 msgid "DHGUIMapComponent.SquadRallyPointDestroyText"
-msgstr "Destruir Punto de Aparición"
+msgstr "Destruir Punto de Reunión"
 
 msgid "DHScoreBoard.ScoreboardColumns<7>.Title"
 msgstr "Puntuación"
@@ -1631,3 +1631,15 @@ msgstr "Antiguos patrocinadores de Patreon"
 
 msgid "DHCreditsPage.OtherContributorsText"
 msgstr "Otros contribuyentes"
+
+msgid "DHTab_DetailSettings.DetailCoronas.Caption"
+msgstr "Coronas"
+
+msgid "DHTab_Controls.ControlProfiles[3]"
+msgstr "Pro 104"
+
+msgid "DHTab_Controls.ControlProfiles[4]"
+msgstr "Pro 105"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[3]"
+msgstr "Personalizado (desde archivo ini): cada %NumDays% días"
