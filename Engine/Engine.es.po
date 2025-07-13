@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-13 01:34+0000\n"
+"PO-Revision-Date: 2025-07-13 18:52+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/es/>\n"
@@ -63,7 +63,7 @@ msgid "KeyNames.Pause"
 msgstr "PAUSA"
 
 msgid "KeyNames.CapsLock"
-msgstr "BLOQUEAR MAYUSCULA"
+msgstr "BLOQ. MAYUSCULA"
 
 msgid "KeyNames.Tab"
 msgstr "TABULADOR"
@@ -196,3 +196,221 @@ msgstr "Tamaño %iK, %3.1f%% Completado"
 
 msgid "Progress.CorruptConnect"
 msgstr "Los archivos del juego son incompatibles!"
+
+msgid "KeyNames.Escape"
+msgstr "ESCAPE"
+
+msgid "KeyNames.PrintScrn"
+msgstr "PRINTSCRN"
+
+msgid "KeyNames.GreySlash"
+msgstr "GREY SLASH"
+
+msgid "KeyNames.Select"
+msgstr "SELECCIONAR"
+
+msgid "KeyNames.Print"
+msgstr "PRINT"
+
+msgid "KeyNames.Execute"
+msgstr "EXECUTE"
+
+msgid "KeyNames.Insert"
+msgstr "INSERT"
+
+msgid "KeyNames.Delete"
+msgstr "DELETE"
+
+msgid "KeyNames.Help"
+msgstr "HELP"
+
+msgid "KeyNames.Enter"
+msgstr "ENTER"
+
+msgid "KeyNames.Shift"
+msgstr "MAYUS"
+
+msgid "KeyNames.NumLock"
+msgstr "NUMLOCK"
+
+msgid "ChatRoomMessage.AnonText"
+msgstr "Alguien"
+
+msgid "ChatRoomMessage.ChatRoomString[0]"
+msgstr "Canal no válido o no se pudo encontrar el canal: '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[3]"
+msgstr "Contraseña incorrecta para el canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[2]"
+msgstr "¡El canal '%title%' requiere una contraseña!"
+
+msgid "ChatRoomMessage.ChatRoomString[1]"
+msgstr "Ya eres miembro del canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[4]"
+msgstr "Has sido vetado del canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[5]"
+msgstr "No se pudo unir al canal '%title%'. ¡El canal esta lleno!"
+
+msgid "ChatRoomMessage.ChatRoomString[6]"
+msgstr "No estas permitido unirte al canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[7]"
+msgstr "Te has unido al canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[9]"
+msgstr "Estas hablando por el canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[8]"
+msgstr "Has dejado el canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[10]"
+msgstr "No podrás hablar por el canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[11]"
+msgstr "'%pri%' se unió al canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[12]"
+msgstr "'%pri%' abandonó el canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[13]"
+msgstr "Se ha baneado exitosamente a '%pri%' de tu canal de chat personal"
+
+msgid "ChatRoomMessage.ChatRoomString[14]"
+msgstr ""
+"La prohibición del chat de voz no se ha realizado correctamente. No se "
+"encontró ningún jugador con el ID especificado."
+
+msgid "ChatRoomMessage.ChatRoomString[15]"
+msgstr "Los canales de voces no están permitidos en este servidor"
+
+msgid "KeyNames.MouseX"
+msgstr "MOUSE X"
+
+msgid "KeyNames.MouseY"
+msgstr "MOUSE Y"
+
+msgid "KeyNames.MouseZ"
+msgstr "MOUSE Z"
+
+msgid "KeyNames.MouseW"
+msgstr "MOUSE W"
+
+msgid "KeyNames.JoyX"
+msgstr "JOY X"
+
+msgid "KeyNames.JoyY"
+msgstr "JOY Y"
+
+msgid "KeyNames.JoyZ"
+msgstr "JOY Z"
+
+msgid "KeyNames.JoyU"
+msgstr "JOY U"
+
+msgid "KeyNames.JoyV"
+msgstr "JOY V"
+
+msgid "KeyNames.JoySlider1"
+msgstr "JOYSLIDER 1"
+
+msgid "KeyNames.JoySlider2"
+msgstr "JOYSLIDER 2"
+
+msgid "KeyNames.Joy1"
+msgstr "JOY 1"
+
+msgid "KeyNames.Joy2"
+msgstr "JOY 2"
+
+msgid "KeyNames.Joy3"
+msgstr "JOY 3"
+
+msgid "KeyNames.Joy4"
+msgstr "JOY 4"
+
+msgid "KeyNames.Joy5"
+msgstr "JOY 5"
+
+msgid "KeyNames.Joy6"
+msgstr "JOY 6"
+
+msgid "KeyNames.Joy7"
+msgstr "JOY 7"
+
+msgid "KeyNames.Joy8"
+msgstr "JOY 8"
+
+msgid "KeyNames.Joy9"
+msgstr "JOY 9"
+
+msgid "KeyNames.Joy10"
+msgstr "JOY 10"
+
+msgid "KeyNames.Joy11"
+msgstr "JOY 11"
+
+msgid "KeyNames.Joy12"
+msgstr "JOY 12"
+
+msgid "KeyNames.Joy13"
+msgstr "JOY 13"
+
+msgid "KeyNames.Joy14"
+msgstr "JOY 14"
+
+msgid "KeyNames.Joy15"
+msgstr "JOY 15"
+
+msgid "KeyNames.Joy16"
+msgstr "JOY 16"
+
+msgid "KeyNames.NumPad0"
+msgstr "NUM 0"
+
+msgid "KeyNames.NumPad1"
+msgstr "NUM 1"
+
+msgid "KeyNames.NumPad2"
+msgstr "NUM 2"
+
+msgid "KeyNames.NumPad3"
+msgstr "NUM 3"
+
+msgid "KeyNames.NumPad4"
+msgstr "NUM 4"
+
+msgid "KeyNames.NumPad5"
+msgstr "NUM 5"
+
+msgid "KeyNames.NumPad6"
+msgstr "NUM 6"
+
+msgid "KeyNames.NumPad7"
+msgstr "NUM 7"
+
+msgid "KeyNames.NumPad8"
+msgstr "NUM 8"
+
+msgid "KeyNames.NumPad9"
+msgstr "NUM 9"
+
+msgid "KeyNames.GreyStar"
+msgstr "GREY STAR"
+
+msgid "KeyNames.GreyPlus"
+msgstr "GREY PLUS"
+
+msgid "KeyNames.GreyMinus"
+msgstr "GREY MINUS"
+
+msgid "KeyNames.NumPadPeriod"
+msgstr "NUM ."
+
+msgid "PlayerController.ViewingFrom"
+msgstr "Viendo desde"
+
+msgid "PlayerController.OwnCamera"
+msgstr "Viendo desde la cámara propia"
