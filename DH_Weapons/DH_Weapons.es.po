@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-07 21:43+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-13 18:52+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/es/>\n"
 "Language: es\n"
@@ -21,7 +21,6 @@ msgstr "Gerat Potsdam II"
 msgid "DH_G43ScopedWeapon.ItemName"
 msgstr "G 43 (ZF4)"
 
-#, fuzzy
 msgid "DH_PanzerschreckWeapon.ItemName"
 msgstr "RPzB 54 'Panzerschreck'"
 
@@ -217,7 +216,6 @@ msgstr "MP 41"
 msgid "DH_StenMkIIWeapon.ItemName"
 msgstr "STEN Mk.II"
 
-#, fuzzy
 msgid "DH_MAB38Weapon.ItemName"
 msgstr "MAB 38"
 
@@ -320,7 +318,6 @@ msgstr "Granada StG 24"
 msgid "DH_RPG43GrenadeWeapon.ItemName"
 msgstr "Granada Antitanque RPG-43"
 
-#, fuzzy
 msgid "DH_FG42ScopedWeapon.ItemName"
 msgstr "Fallschirmjägergewehr 42 (ZFG42)"
 
@@ -336,25 +333,137 @@ msgstr "WitchEnder 666 'Satan's Bane'"
 msgid "DH_Kar98NoCoverWeapon.ItemName"
 msgstr "Kar 98k (mira descubierta)"
 
-#, fuzzy
 msgid "DH_BerettaM1934Weapon.ItemName"
 msgstr "Beretta M1934"
 
-#, fuzzy
 msgid "DH_LtypeGrenadeWeapon.ItemName"
-msgstr "OTO bomba Tipo L"
+msgstr "Granada Anti tanque OTO bomba Tipo L"
 
-#, fuzzy
 msgid "DH_MAB42Weapon.ItemName"
 msgstr "Moschetto Automatico Beretta M1938/42"
 
 msgid "DH_Wz35Weapon.ItemName"
 msgstr "Fusil antitanque Wz-35"
 
-#, fuzzy
 msgid "DH_Breda30Weapon.ItemName"
 msgstr "Breda modello 30"
 
-#, fuzzy
 msgid "DH_CarcanoM91Weapon.ItemName"
 msgstr "Carcano M91"
+
+msgid "DH_MKB42HWeapon.NativeItemName"
+msgstr "Maschinenkarabiner 42(H)"
+
+msgid "DH_MP3008Weapon.NativeItemName"
+msgstr "Maschinenpistole 3008"
+
+msgid "DH_MAB42Weapon.NativeItemName"
+msgstr "Moschetto Automatico Beretta M1938A/42"
+
+msgid "DH_F1GrenadeWeapon.NativeItemName"
+msgstr "Granada F1"
+
+msgid "DH_FG42ScopedWeapon.NativeItemName"
+msgstr "Fallschirmjägergewehr 42 (ZFG42)"
+
+msgid "DH_FG42Weapon.NativeItemName"
+msgstr "Fallschirmjägergewehr 42"
+
+msgid "DH_G41Weapon.NativeItemName"
+msgstr "Gewehr 41(W)"
+
+msgid "DH_G43ScopedWeapon.NativeItemName"
+msgstr "Gewehr 43 (ZF4)"
+
+msgid "DH_G43Weapon.NativeItemName"
+msgstr "Gewehr 43"
+
+msgid "DH_G98Weapon.NativeItemName"
+msgstr "Gewehr 98"
+
+msgid "DH_Kar98NoCoverWeapon.NativeItemName"
+msgstr "Karabiner 98k (mira descubierta)"
+
+msgid "DH_Kar98ScopedWeapon.NativeItemName"
+msgstr "Karabiner 98k (ZF39)"
+
+msgid "DH_Kar98Weapon.NativeItemName"
+msgstr "Karabiner 98k"
+
+msgid "DH_Kz8cmGrW42Weapon.NativeItemName"
+msgstr "Kurz 8cm Granatwerfer 42"
+
+msgid "DH_M1924Weapon.NativeItemName"
+msgstr "M1924 Puska"
+
+msgid "DH_M34GrenadeWeapon.NativeItemName"
+msgstr "OUG vz.34 Rucni Granat"
+
+msgid "DH_M9530Weapon.NativeItemName"
+msgstr "Gewehr M95/30"
+
+msgid "DH_M9531Weapon.NativeItemName"
+msgstr "31.M Puska"
+
+msgid "DH_MAB38Weapon.NativeItemName"
+msgstr "Moschetto Automatico Beretta M1938A"
+
+msgid "DH_MG34Weapon.NativeItemName"
+msgstr "Maschinengewehr 34"
+
+msgid "DH_MG42Weapon.NativeItemName"
+msgstr "Maschinengewehr 42"
+
+msgid "DH_MP38Weapon.NativeItemName"
+msgstr "Maschinenpistole 38"
+
+msgid "DH_MP40Weapon.NativeItemName"
+msgstr "Maschinenpistole 40"
+
+msgid "DH_MP41RWeapon.NativeItemName"
+msgstr "Maschinenpistole 41(r)"
+
+msgid "DH_MP41Weapon.NativeItemName"
+msgstr "Maschinenpistole 41"
+
+msgid "DH_PTRDWeapon.NativeItemName"
+msgstr "PTRD-41"
+
+msgid "DH_PanzerFaustWeapon.NativeItemName"
+msgstr "Panzerfaust 60"
+
+msgid "DH_PanzerschreckWeapon.NativeItemName"
+msgstr "Raketenpanzerbüchse 54 'Panzerschreck'"
+
+msgid "DH_RPG43GrenadeWeapon.NativeItemName"
+msgstr "RPG-43"
+
+msgid "DH_STG44ScopedWeapon.NativeItemName"
+msgstr "Sturmgewehr 44 (ZF4)"
+
+msgid "DH_STG44Weapon.NativeItemName"
+msgstr "Sturmgewehr 44"
+
+msgid "DH_StielGranateWeapon.NativeItemName"
+msgstr "Stielhandgranate 24"
+
+msgid "DH_VG15Weapon.NativeItemName"
+msgstr "Volkssturmgewehr 1-5"
+
+msgid "DH_VK98Weapon.NativeItemName"
+msgstr "Volkssturmkarabiner 98"
+
+msgid "DH_Vz24ScopedWeapon.NativeItemName"
+msgstr "ZB vz.24 Puska (IOR)"
+
+msgid "DH_Vz24Weapon.NativeItemName"
+msgstr "ZB vz.24 Puska"
+
+msgid "DH_ZB30Weapon.NativeItemName"
+msgstr "ZB vz.30 Kulomet"
+
+msgid "DH_SRCMMod35GrenadeWeapon.ItemName"
+msgstr "Granada SRCM mod. 35"
+
+msgid "DH_SRCMMod35SmokeGrenadeWeapon.ItemName"
+msgstr "Granada de humo SRCM mod. 35"
