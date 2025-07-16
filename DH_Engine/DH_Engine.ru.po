@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-13 01:34+0000\n"
+"PO-Revision-Date: 2025-07-17 01:56+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -455,7 +455,7 @@ msgstr "Цель для огневой поддержки отмечена."
 msgid "DHFireSupportMessage.OnMapArtilleryRequestingLocked"
 msgstr ""
 "Вы не можете отметить ещё одну цель огневой поддержки. Подождите {seconds} "
-"секунд."
+"сек."
 
 msgid "DHFireSupportMessage.ArtilleryOperatorNotification"
 msgstr "Командир отряда {squad} запрашивает {type}."
@@ -725,9 +725,7 @@ msgid "DHVehicleMessage.VehicleNowLocked"
 msgstr "Места экипажа теперь заблокированы"
 
 msgid "DHVehicleMessage.AbandonedVehicleUnlocked"
-msgstr ""
-"Вы слишком долго отсутствовали в заблокированной технику, и теперь она "
-"разблокирована"
+msgstr "Вы надолго оставили закрытую технику, и теперь она разблокирована"
 
 msgid "DHVehicleMessage.CantLockNonCrewVehicle"
 msgstr ""
@@ -974,7 +972,7 @@ msgstr "Прошло времени: "
 
 msgid "DHHud.NotReadyToSpawnText"
 msgstr ""
-"Возрождение будет доступно через {s} секунд (используйте это время для "
+"Возрождение будет доступно через {s} сек. (используйте это время для "
 "организации отрядов и плана действий)"
 
 msgid "DHHud.SelectSpawnPointText"
@@ -1282,7 +1280,7 @@ msgid "DHServerSayMessage.MessagePrefix"
 msgstr "[СЕРВЕР]"
 
 msgid "DHSetupPhaseMessage.PhaseMessage"
-msgstr "Битва начнется через {0} секунд"
+msgstr "Битва начнётся через {0} сек."
 
 msgid "DHSetupPhaseMessage.PhaseEndMessage"
 msgstr "Битва началась!"
@@ -1764,7 +1762,7 @@ msgid "DHWeaponsLockedMessage.LockedFFMessage"
 msgstr "Ваше оружие заблокировано за огонь по своим!"
 
 msgid "DHWeaponsLockedMessage.LockedWithTimerMessage"
-msgstr "Ваше оружие заблокировано на {0} секунд"
+msgstr "Ваше оружие заблокировано на {0} сек."
 
 msgid "DHWeaponsLockedMessage.LockedSetupPhaseMessage"
 msgstr "Ваше оружие заблокировано на этапе подготовки"
@@ -2038,8 +2036,8 @@ msgstr "%o убила себя при возрождении."
 
 msgid "DHSpawnProtectMineVolume.SafePeriodWarningMessage"
 msgstr ""
-"Эта территория теперь под контролем противника! У вас есть %remaining% "
-"секунд, чтобы вернуться к своим позициям!"
+"Эта территория теперь под контролем противника! У вас есть %remaining% сек., "
+"чтобы вернуться к своим позициям!"
 
 msgid "DHSpawnProtectMineVolume.WarningMessage"
 msgstr "Вы зашли на территорию, контролируемую противником. Отойдите назад!"
@@ -2089,7 +2087,7 @@ msgstr ""
 "м дальше."
 
 msgid "DHSquadMessage.RallyPointTooSoon"
-msgstr "Подождите {0} секунд, перед тем как создать новую точку сбора."
+msgstr "Подождите {0} сек., перед тем как создать новую точку сбора."
 
 msgid "DHSquadMessage.RallyPointAbandonmentWarning"
 msgstr "Недавно созданная точка сбора отряда заброшена!"
@@ -2145,8 +2143,7 @@ msgstr "Хотите ли вы отступить сейчас, чтобы ср�
 
 msgid "DHVotingHandler.lmsgMapVotedTooRecently"
 msgstr ""
-"Пожалуйста, подождите %seconds% секунд, прежде чем голосовать за другую "
-"карту!"
+"Пожалуйста, подождите %seconds% сек., прежде чем голосовать за другую карту!"
 
 msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<0>"
 msgstr ""
@@ -2769,7 +2766,7 @@ msgid "DHPawn.AdminSpawnedVehicleText"
 msgstr "Администратор {name} вызвал {vehicle}"
 
 msgid "DHResetGameMsg.CountdownText"
-msgstr "Игра будет перезапущена через {seconds} секунд"
+msgstr "Игра будет перезапущена через {seconds} сек."
 
 msgid "DHResetGameMsg.GameRestartingText"
 msgstr "Игра перезапущена"
@@ -2879,7 +2876,7 @@ msgid "DHConstructionErrorMessage.ErrorMessages<27>"
 msgstr "Это место занято"
 
 msgid "DHCommandPostMessage.ConstructedMessage"
-msgstr "{name} был построен и будет доступен через {seconds} секунд."
+msgstr "{name} был построен и будет доступен через {seconds} сек."
 
 msgid "DHCommandPostMessage.DestroyedMessage"
 msgstr "{name} был уничтожен."
