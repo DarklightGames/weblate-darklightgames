@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-06 03:58+0000\n"
+"PO-Revision-Date: 2025-07-17 01:56+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -145,7 +145,7 @@ msgstr "{1} Десантировал {0} к командиру отряда"
 msgid "DHDeployMenu.ChangeTeamConfirmText"
 msgstr ""
 "Вы уверены, что хотите сменить команду? (вы не сможете вернуться назад в "
-"течение {s} секунд)"
+"течение {s} сек.)"
 
 msgid "DHDeployMenu.VehicleUnavailableString"
 msgstr "Выбранная вами техника больше не доступна."
@@ -381,7 +381,7 @@ msgid "DHDeployMenu.FreeChangeTeamConfirmText"
 msgstr "Вы уверены, что хотите сменить команду?"
 
 msgid "DHDeployMenu.CantChangeTeamYetText"
-msgstr "Вам нужно подождать {s} секунд, перед тем как сменить команду"
+msgstr "Вам нужно подождать {s} сек., перед тем как сменить команду"
 
 msgid "DHDeployMenu.UnlockText"
 msgstr "Разблокировано"
