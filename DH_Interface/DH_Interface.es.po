@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-13 18:52+0000\n"
+"PO-Revision-Date: 2025-07-17 01:56+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/es/>\n"
@@ -66,7 +66,7 @@ msgid "DHMainMenu.SteamCommunityButton.Hint"
 msgstr "¡Únete a la comunidad en Steam!"
 
 msgid "DHServerLoading.AuthorText"
-msgstr "Autor del mapa: {0}"
+msgstr "Autor(es) del mapa: {0}"
 
 msgid "DHSettingsPage.SettingHeader.Caption"
 msgstr "Ajustes"
