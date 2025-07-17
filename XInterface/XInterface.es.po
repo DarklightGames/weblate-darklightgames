@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-13 18:52+0000\n"
+"PO-Revision-Date: 2025-07-17 01:56+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/xinterface/es/>\n"
@@ -39,7 +39,7 @@ msgid "GUIQuestionPage.ButtonNames<7>"
 msgstr "Ignorar"
 
 msgid "ExtendedConsole.SMStateName[2]"
-msgstr "Admitir"
+msgstr "Confirmaciones"
 
 msgid "ExtendedConsole.SMStateName[0]"
 msgstr "Menú de voz"
