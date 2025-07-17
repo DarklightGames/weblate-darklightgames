@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-13 18:52+0000\n"
+"PO-Revision-Date: 2025-07-17 01:56+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/es/>\n"
@@ -16,7 +16,7 @@ msgid "DH_NebelGranate39Weapon.ItemName"
 msgstr "Granada de Humo NB 39"
 
 msgid "DHShovelWarningMessage.CannotBeCrawling"
-msgstr "No puedes cavar mientras reptas."
+msgstr "No puedes cavar mientras estas cuerpo a tierra."
 
 msgid "DHShovelItem.ItemName"
 msgstr "Pala"
@@ -31,7 +31,7 @@ msgid "DHBinocularsItemSoviet.ItemName"
 msgstr "BPP Optik 6x30"
 
 msgid "DHBinocularsItem.ItemName"
-msgstr "Prismáticos"
+msgstr "Binoculares"
 
 msgid "DHBinocularsItemGerman.ItemName"
 msgstr "Zeiss Dienstglas 6x30"
