@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-13 18:52+0000\n"
+"PO-Revision-Date: 2025-07-17 01:56+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
@@ -669,7 +669,7 @@ msgid "DHMapDatabase.SizeExtraSmallText"
 msgstr "Muy Pequeño"
 
 msgid "DHLocalMessage.SquadLeaderID"
-msgstr "LE"
+msgstr "LDE"
 
 msgid "DHInventorySpawner.MenuNoun"
 msgstr "Caja"
@@ -1192,7 +1192,7 @@ msgid "DHMapMarker_AdminParadrop.MarkerName"
 msgstr "ADMINISTRADOR: Colocar una marca para lanzamiento de paracaidistas"
 
 msgid "DHMapMarker_FireSupport_HE.MarkerName"
-msgstr "Solicitud de A.E"
+msgstr "Solicitud de Artillería de Cañones"
 
 msgid "DHMapMarker_FireSupport_Smoke.MarkerName"
 msgstr "Solicitud de Cobertura de Humo"
@@ -1213,7 +1213,7 @@ msgid "DHObjectiveMessage.NotificationMessage"
 msgstr "{0} han {1} {2}"
 
 msgid "DHPawn.AdminSpawnedVehicleText"
-msgstr "Un administrado {name} genero un {vehicle}"
+msgstr "Un administrador {name} genero un {vehicle}"
 
 msgid "DHPawnTouchMessage.FallbackPlayerName"
 msgstr "soldado aliado"
@@ -2007,7 +2007,7 @@ msgid "DH_ModifyRoundTimeMessage.ChangedText"
 msgstr "cambiado"
 
 msgid "DH_ModifyRoundTimeMessage.RoundTimeModifiedText"
-msgstr "El tiempo restante es: {0}."
+msgstr "El tiempo restante ha sido {0}."
 
 msgid "DarkestHourGame.ROHints<0>"
 msgstr ""
