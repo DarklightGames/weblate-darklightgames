@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 18:15+0000\n"
+"PO-Revision-Date: 2025-07-19 04:22+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/de/>\n"
@@ -646,10 +646,10 @@ msgid "DH_T3476Tank.VehicleNameString"
 msgstr "T34/76"
 
 msgid "DH_T3476Tank_German.VehicleNameString"
-msgstr "Panzer T-34"
+msgstr "Panzer T-34(r)"
 
 msgid "DH_T3476Tank_GermanB.VehicleNameString"
-msgstr "Panzer T-34"
+msgstr "Panzer T-34(r)"
 
 msgid "DH_T3476_42Cannon.ProjectileDescriptions[0]"
 msgstr "APBC"
@@ -682,7 +682,7 @@ msgid "DH_T3485Tank.VehicleNameString"
 msgstr "T34/85"
 
 msgid "DH_T3485Tank_German.VehicleNameString"
-msgstr "Panzer T-34"
+msgstr "Panzer T-34(r)"
 
 msgid "DH_T60Cannon.ProjectileDescriptions[0]"
 msgstr "AP-T"
@@ -1469,3 +1469,195 @@ msgstr "HE"
 
 msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions<2>"
 msgstr "Nebel"
+
+msgid "DH_StuartCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_StuartCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_StuartCannon.ProjectileDescriptions<2>"
+msgstr "Kanistergeschoss"
+
+msgid "DH_Stug3GCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_Stug3GCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_Stug3GCannon.ProjectileDescriptions<2>"
+msgstr "Nebel"
+
+msgid "DH_Stug3GCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+msgid "DH_T3476Cannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_T3476Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_T3476_42Cannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_T3476_42Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_T3476_43Cannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_T3476_43Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_T3476_43Cannon.ProjectileDescriptions<2>"
+msgstr "APCR"
+
+msgid "DH_T3485Cannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_T3485Cannon.ProjectileDescriptions<1>"
+msgstr "APCR"
+
+msgid "DH_T3485Cannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_T3485Cannon_Berlin.nProjectileDescriptions<2>"
+msgstr "O-365"
+
+msgid "DH_T60Cannon.ProjectileDescriptions<0>"
+msgstr "AP-T"
+
+msgid "DH_T60Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_WolverineCannon.ProjectileDescriptions<1>"
+msgstr "HVAP"
+
+msgid "DH_WolverineCannon_Early.ProjectileDescriptions<2>"
+msgstr "Nebel"
+
+msgid "DH_WolverineCannon_Early.nProjectileDescriptions<1>"
+msgstr "M42A1 HE-T"
+
+msgid "DH_WolverineCannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_WolverineCannon_Early.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_WolverineCannon_Early.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_StuH42Cannon.nProjectileDescriptions<1>"
+msgstr "F.H.Gr.Nb."
+
+msgid "DH_T3476Cannon.nProjectileDescriptions<0>"
+msgstr "BR-350A"
+
+msgid "DH_T3476_42Cannon.nProjectileDescriptions<0>"
+msgstr "BR-350BSP"
+
+msgid "DH_Tiger2BCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr."
+
+msgid "DH_TigerCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_StuH42Cannon.nProjectileDescriptions<2>"
+msgstr "Gr.39 Hl/C"
+
+msgid "DH_StuartCannon.nProjectileDescriptions<0>"
+msgstr "M51B1 APC"
+
+msgid "DH_StuartCannon.nProjectileDescriptions<1>"
+msgstr "M63 HE-T"
+
+msgid "DH_StuH42Cannon.nProjectileDescriptions<0>"
+msgstr "F.H.Gr."
+
+msgid "DH_Stug3GCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_StuartCannon.nProjectileDescriptions<2>"
+msgstr "M2 Kanistergeschoss"
+
+msgid "DH_Stug3GCannon.nProjectileDescriptions<2>"
+msgstr "Nbgr.Kw.K"
+
+msgid "DH_T3476Cannon.nProjectileDescriptions<1>"
+msgstr "OF-350"
+
+msgid "DH_T3476_43Cannon.nProjectileDescriptions<0>"
+msgstr "BR-350B"
+
+msgid "DH_T3476_43Cannon.nProjectileDescriptions<1>"
+msgstr "OF-350"
+
+msgid "DH_T3476_43Cannon.nProjectileDescriptions<2>"
+msgstr "BR-350P"
+
+msgid "DH_T3476_42Cannon.nProjectileDescriptions<1>"
+msgstr "OF-350"
+
+msgid "DH_T3485Cannon.nProjectileDescriptions<1>"
+msgstr "BR-365P"
+
+msgid "DH_T3485Cannon.nProjectileDescriptions<0>"
+msgstr "BR-365"
+
+msgid "DH_T3485Cannon.nProjectileDescriptions<2>"
+msgstr "O-365"
+
+msgid "DH_T3485Cannon_Berlin.nProjectileDescriptions<0>"
+msgstr "BR-365B"
+
+msgid "DH_Tiger2BCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39/43"
+
+msgid "DH_TigerCannon.nProjectileDescriptions<1>"
+msgstr "Schw.Sprgr.Patr."
+
+msgid "DH_T60Cannon.nProjectileDescriptions<0>"
+msgstr "BZT"
+
+msgid "DH_WolverineCannon.nProjectileDescriptions<1>"
+msgstr "M93 HVAP"
+
+msgid "DH_WolverineCannon.nProjectileDescriptions<2>"
+msgstr "M42A1 HE-T"
+
+msgid "DH_WolverineCannon_Early.nProjectileDescriptions<0>"
+msgstr "M62 APC"
+
+msgid "DH_WolverineCannon.nProjectileDescriptions<0>"
+msgstr "M62 APC"
+
+msgid "DH_WespeCannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_WespeCannon.ProjectileDescriptions<1>"
+msgstr "Nebel"
+
+msgid "DH_WespeCannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_WespeCannon.nProjectileDescriptions<0>"
+msgstr "F.H.Gr."
+
+msgid "DH_WespeCannon.nProjectileDescriptions<1>"
+msgstr "F.H.Gr.Nb."
+
+msgid "DH_WespeCannon.nProjectileDescriptions<2>"
+msgstr "Gr.39 Hl/C"
+
+msgid "DH_WespeTank.VehicleNameString"
+msgstr "Sd.Kfz. 124 Wespe"
+
+msgid "DH_WolverineCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_WolverineCannon_Early.nProjectileDescriptions<2>"
+msgstr "M88 HC"
+
+msgid "DH_T3485Cannon_Berlin.nProjectileDescriptions<1>"
+msgstr "BR-365P"
