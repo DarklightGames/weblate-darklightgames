@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-29 11:13+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-19 04:22+0000\n"
+"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/de/>\n"
 "Language: de\n"
@@ -27,9 +27,8 @@ msgstr "Munition"
 msgid "DHCameraWeapon.ItemName"
 msgstr "Kamera"
 
-#, fuzzy
 msgid "DHConstructionControlsMessage.Controls<1>.Text"
-msgstr "Stornieren"
+msgstr "Abbrechen"
 
 msgid "DHCommandMenu_ConstructionGroup.TeamLimitText"
 msgstr "Limit erreicht"
@@ -47,9 +46,8 @@ msgstr "Stornieren"
 msgid "DHConstructionControlsMessage.Controls[2].Text"
 msgstr "Drehen"
 
-#, fuzzy
 msgid "DHCommandMenu_ConstructionGroup.RemainingText"
-msgstr "Verbleibend"
+msgstr "{0} Verbleibend"
 
 msgid "DHConstruction_DragonsTooth.MenuName"
 msgstr "Drachenzahn"
@@ -66,9 +64,8 @@ msgstr "graben"
 msgid "DHConstruction_Hedgehog.MenuName"
 msgstr "Panzersperre"
 
-#, fuzzy
 msgid "DHConstruction_InventorySpawner.ConstructionVerb"
-msgstr "setzen"
+msgstr "platzieren"
 
 msgid "DHConstruction_MortarPit.MenuName"
 msgstr "Mörserstellung"
@@ -87,21 +84,17 @@ msgstr "Liefert Nachschub für die Infaterie."
 msgid "DHConstruction_Resupply_Vehicles.MenuDescription"
 msgstr "Liefert Nachschub für Fahrzeuge und Geschütze."
 
-#, fuzzy
 msgid "DHConstruction_Sandbags_Crescent.MenuName"
-msgstr "Sandsäcke (Sichel)"
+msgstr "Sandsäcke (Sichelform)"
 
-#, fuzzy
 msgid "DHConstruction_Sandbags_Line.MenuName"
 msgstr "Sandsäcke (Reihe)"
 
-#, fuzzy
 msgid "DHConstruction_SupplyCache.MenuName"
 msgstr "Nachschublager"
 
-#, fuzzy
 msgid "DHConstruction_SupplyCache.ConstructionVerb"
-msgstr "setzen"
+msgstr "platzieren"
 
 msgid "DHConstruction_Watchtower.MenuName"
 msgstr "Wachturm"
@@ -122,7 +115,6 @@ msgstr "Erlaubt es Artillerie anzufordern."
 msgid "DHConstruction_SupplyCache.MenuDescription"
 msgstr "Lagert und erzeugt Nachschub über Zeit."
 
-#, fuzzy
 msgid "DHConstruction_Sandbags_Bunker.MenuName"
 msgstr "Sandsäcke (Bunker)"
 
@@ -133,7 +125,60 @@ msgid "DHConstructionGroup_Defenses.GroupName"
 msgstr "Befestigungen"
 
 msgid "DHConstruction_PlatoonHQ.MenuName"
-msgstr "Zug Gefechtsstand"
+msgstr "Gefechtsstand"
 
 msgid "DHConstruction_Resupply.ConstructionVerb"
-msgstr "errichten"
+msgstr "platzieren"
+
+msgid "DHConstructionGroup_Debug.GroupName"
+msgstr "debuggen"
+
+msgid "DHConstruction_ConcertinaWire.MenuName"
+msgstr "Stacheldrahtsperre"
+
+msgid "DHConstruction_PlatoonHQ.CustomErrorString"
+msgstr ""
+"Kann {name} nicht so nah zu {string} {verb} wenn nicht {integer}m innerhalb "
+"kontrollierten Gebiets."
+
+msgid "DHConstruction_PlatoonHQ.MenuDescription"
+msgstr "Bietet einen Einstiegspunkt für das Team."
+
+msgid "DHConstruction_VehiclePool.MenuName"
+msgstr "Fahrzeugdepot"
+
+msgid "DHConstructionControlsMessage.Controls<5>.Text"
+msgstr "Erscheinung ändern"
+
+msgid "DHCommandMenu_ConstructionGroup.MaxActiveText"
+msgstr "{0}/{1} Aktiv"
+
+msgid "DHConstructionControlsMessage.Controls<4>.Text"
+msgstr "Variante wechseln"
+
+msgid "DHConstructionControlsMessage.Controls<2>.Text"
+msgstr "Rotieren"
+
+msgid "DHConstructionControlsMessage.Controls<0>.Text"
+msgstr "Bestätigen"
+
+msgid "DHConstructionControlsMessage.Controls<3>.Text"
+msgstr "Zurücksetzen"
+
+msgid "DHCommandMenu_ConstructionGroup.MoreText"
+msgstr "Mehr"
+
+msgid "DHConstructionResupplyPlayers.MenuName"
+msgstr "Munitionskiste (Infanterie)"
+
+msgid "DHConstructionResupplyPlayers.MenuDescription"
+msgstr "Bietet einen Nachschubknoten für Infanterie."
+
+msgid "DHConstructionResupplyVehicles.MenuName"
+msgstr "Munitionskiste (Fahrzeuge)"
+
+msgid "DHConstructionResupplyVehicles.MenuDescription"
+msgstr "Bietet einen Nachschubknoten für Fahrzeuge und Geschütze."
+
+msgid "DHConstruction_VehiclePool.MenuDescription"
+msgstr "Bietet einen Fahrzeug-Einstiegspunkt für das Team."
