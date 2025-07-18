@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 09:32+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-19 04:22+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/ru/>\n"
 "Language: ru\n"
@@ -337,9 +337,8 @@ msgstr "Автомат StG 44"
 msgid "DH_Breda30Weapon.ItemName"
 msgstr "Бреда мод. 30"
 
-#, fuzzy
 msgid "DH_CarcanoM91Weapon.ItemName"
-msgstr "Каркано мод. 91"
+msgstr "Винтовка Каркано мод. 91"
 
 msgid "DH_BerettaM1934Weapon.ItemName"
 msgstr "Беретта мод. 34"
@@ -469,3 +468,12 @@ msgstr "Panzerfaust 60"
 
 msgid "DH_STG44ScopedWeapon.NativeItemName"
 msgstr "Sturmgewehr 44 (ZF4)"
+
+msgid "DH_CarcanoM9138TSCarbineWeapon.ItemName"
+msgstr "Карабин Каркано TS мод. 91/38"
+
+msgid "DH_CarcanoM9138ShortRifleWeapon.ItemName"
+msgstr "Короткая винтовка Каркано мод. 91/38"
+
+msgid "DH_CarcanoM9138CarbineWeapon.ItemName"
+msgstr "Карабин Каркано мод. 91/38"
