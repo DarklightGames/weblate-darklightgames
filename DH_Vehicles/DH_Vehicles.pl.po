@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 09:32+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-18 18:15+0000\n"
+"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/pl/>\n"
 "Language: pl\n"
@@ -706,18 +706,15 @@ msgstr "HEAT"
 msgid "DH_SdKfz2519DCannon.ProjectileDescriptions<2>"
 msgstr "Dym"
 
-#, fuzzy
 msgid "DH_SdKfz251_22Transport.VehicleNameString"
 msgstr "Halftrack Sd.Kfz.251/22"
 
-#, fuzzy
 msgid "DH_SdKfz2519DTransport.VehicleNameString"
-msgstr "Sd.Kfz.251/9 Ausf.D Stummel"
+msgstr "Sd.Kfz. 251/9 Ausf.D Stummel"
 
 msgid "DH_Sdkfz105Transport.VehicleNameString"
 msgstr "Sd.Kfz. 10/5"
 
-#, fuzzy
 msgid "DH_Sdkfz2341ArmoredCar.VehicleNameString"
 msgstr "Samochód Opancerzony Sd.Kfz.234/1"
 
@@ -1024,11 +1021,9 @@ msgstr "T34/85"
 msgid "DH_T3485Tank_German.VehicleNameString"
 msgstr "Panzer T-34"
 
-#, fuzzy
 msgid "DH_Sdkfz2342ArmoredCar.VehicleNameString"
 msgstr "Samochód Opancerzony Sd.Kfz.234/2"
 
-#, fuzzy
 msgid "DH_Sdkfz251Transport.VehicleNameString"
 msgstr "Halftrack Sd.Kfz.251"
 
@@ -1241,3 +1236,24 @@ msgstr "OF-350"
 
 msgid "DH_TigerCannon.nProjectileDescriptions<1>"
 msgstr "Schw.Sprgr.Patr."
+
+msgid "DH_WespeCannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_WespeCannon.ProjectileDescriptions<1>"
+msgstr "Dym"
+
+msgid "DH_WespeCannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_WespeCannon.nProjectileDescriptions<0>"
+msgstr "F.H.Gr."
+
+msgid "DH_WespeCannon.nProjectileDescriptions<1>"
+msgstr "F.H.Gr.Nb."
+
+msgid "DH_WespeCannon.nProjectileDescriptions<2>"
+msgstr "Gr.39 Hl/C"
+
+msgid "DH_WespeTank.VehicleNameString"
+msgstr "Sd.Kfz. 124 Wespe"
