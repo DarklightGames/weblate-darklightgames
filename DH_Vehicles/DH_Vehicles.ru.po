@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-18 10:43+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"PO-Revision-Date: 2025-07-18 09:32+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
 "Language: ru\n"
@@ -643,12 +643,14 @@ msgstr "Sprgr.Kw.K."
 msgid "DH_SdKfz2519DCannon.nProjectileDescriptions<2>"
 msgstr "Nbgr.Kw.K."
 
+#, fuzzy
 msgid "DH_SdKfz251_22Transport.VehicleNameString"
 msgstr "Полугусеничный БТР Sd.Kfz.251/22"
 
 msgid "DH_Sdkfz105Transport.VehicleNameString"
 msgstr "Зенитная САУ Sd.Kfz. 10/5"
 
+#, fuzzy
 msgid "DH_Sdkfz2341ArmoredCar.VehicleNameString"
 msgstr "Бронеавтомобиль Sd.Kfz.234/1"
 
@@ -667,6 +669,7 @@ msgstr "PzGr.39"
 msgid "DH_Sdkfz2342Cannon.nProjectileDescriptions<1>"
 msgstr "Sprgr.Patr.38"
 
+#, fuzzy
 msgid "DH_Sdkfz251Transport.VehicleNameString"
 msgstr "Полугусеничный БТР Sd.Kfz.251"
 
@@ -1135,6 +1138,7 @@ msgstr "Опель Блиц (Транспорт)"
 msgid "DH_PanzerIVF1CannonPawn.VehicleNameString"
 msgstr "Орудие Panzer IV F1"
 
+#, fuzzy
 msgid "DH_Sdkfz2342ArmoredCar.VehicleNameString"
 msgstr "Бронеавтомобиль Sd.Kfz.234/2"
 
@@ -1171,6 +1175,7 @@ msgstr "M1 HE-T"
 msgid "DH_PanzerIIILCannon.ProjectileDescriptions<1>"
 msgstr "БПС"
 
+#, fuzzy
 msgid "DH_SdKfz2519DTransport.VehicleNameString"
 msgstr "САУ Sd.Kfz.251/9 Ausf.D Штуммель"
 
