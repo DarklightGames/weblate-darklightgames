@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 09:32+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-19 04:22+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
 "Language: ru\n"
@@ -892,13 +892,12 @@ msgstr "Артиллерийский прицел"
 msgid "DHHintManager.Hints[50].Title"
 msgstr "Управление артиллерийским огнём"
 
-#, fuzzy
 msgid "DHHintManager.Hints[50].Text"
 msgstr ""
-"Откройте карту, чтобы координировать свой огонь. Используйте [ПРАВУЮ КНОПКУ "
+"Откройте карту для корректировки своего огня. Используйте [ПРАВУЮ КНОПКУ "
 "МЫШИ] по значку запроса огневой поддержки, чтобы выбрать его в качестве "
-"активной цели, или воспользуйтесь значком транспортира для измерения "
-"расстояния от вас до заданной точки на карте."
+"активной цели, или воспользуйтесь значком транспортира для замера расстояния "
+"до заданной точки на карте."
 
 msgid "DHHintManager.Hints[51].Title"
 msgstr "Взаимодействие с картой"
