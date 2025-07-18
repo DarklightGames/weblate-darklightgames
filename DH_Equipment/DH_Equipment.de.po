@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-11 18:36+0000\n"
+"PO-Revision-Date: 2025-07-18 18:15+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/de/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DHBinocularsItemGerman.ItemName"
 msgstr "Zeiss Dienstglas 6x30"
@@ -70,3 +70,6 @@ msgstr ""
 
 msgid "DHTrenchMaceItem_Bone.ItemName"
 msgstr "Knochenkeule"
+
+msgid "DHBinocularsItemItalian.ItemName"
+msgstr "Fratelli Koristka 7x50"
