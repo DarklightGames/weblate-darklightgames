@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 09:32+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-18 18:15+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/es/>\n"
 "Language: es\n"
@@ -156,18 +156,15 @@ msgstr "Panzer IV Ausf.J"
 msgid "DH_SU76Destroyer.VehicleNameString"
 msgstr "SU-76M"
 
-#, fuzzy
 msgid "DH_SdKfz2519DTransport.VehicleNameString"
-msgstr "Sd.Kfz.251/9 Ausf.D Stummel"
+msgstr "Sd.Kfz.251/9 Ausf.D \"Stummel\""
 
-#, fuzzy
 msgid "DH_SdKfz251_22Transport.VehicleNameString"
 msgstr "Semioruga Sd.Kfz.251/22"
 
 msgid "DH_Sdkfz105Transport.VehicleNameString"
 msgstr "Sd.Kfz. 10/5"
 
-#, fuzzy
 msgid "DH_Sdkfz251Transport.VehicleNameString"
 msgstr "Semioruga Sd.Kfz.251"
 
@@ -226,10 +223,10 @@ msgid "DH_T3476Tank.VehicleNameString"
 msgstr "T34/76"
 
 msgid "DH_T3476Tank_German.VehicleNameString"
-msgstr "Panzer T-34"
+msgstr "Panzer 747(r)"
 
 msgid "DH_T3476Tank_GermanB.VehicleNameString"
-msgstr "Panzer T-34"
+msgstr "Panzer 747(r)"
 
 msgid "DH_T3476_42Tank.VehicleNameString"
 msgstr "T34/76 m42"
@@ -241,7 +238,7 @@ msgid "DH_T3485Tank.VehicleNameString"
 msgstr "T34/85"
 
 msgid "DH_T3485Tank_German.VehicleNameString"
-msgstr "Panzer T-34"
+msgstr "Panzer 747(r)"
 
 msgid "DH_T60Tank.VehicleNameString"
 msgstr "Tanque Ligero T-60"
@@ -271,13 +268,13 @@ msgid "DH_WolverineTank_British.VehicleNameString"
 msgstr "Wolverine SP"
 
 msgid "DH_ZiS5vTruck.VehicleNameString"
-msgstr "ZiS-5V"
+msgstr "Camión ZiS-5V"
 
 msgid "DH_ZiS5vTruckSupport.VehicleNameString"
-msgstr "ZiS-5V (Logística)"
+msgstr "Camión ZiS-5V (Logística)"
 
 msgid "DH_ZiS5vTruckTransport.VehicleNameString"
-msgstr "ZiS-5V (Transporte)"
+msgstr "Camión ZiS-5V (Transporte)"
 
 msgid "DH_GreyhoundArmoredCar.VehicleNameString"
 msgstr "Automóvil Blindado M8"
@@ -294,7 +291,6 @@ msgstr "Marder III Ausf.M"
 msgid "DH_PanzerIVGEarlyTank.VehicleNameString"
 msgstr "Panzer IV Ausf.G"
 
-#, fuzzy
 msgid "DH_Sdkfz2342ArmoredCar.VehicleNameString"
 msgstr "Automóvil Blindado Sd.Kfz.234/2"
 
@@ -313,9 +309,8 @@ msgstr "GMC CCKW"
 msgid "DH_JagdpanzerIVL70Destroyer.VehicleNameString"
 msgstr "Jagdpanzer IV/70(V)"
 
-#, fuzzy
 msgid "DH_Sdkfz2341ArmoredCar.VehicleNameString"
-msgstr "Automóvil Blindado Sd.Kfz.234/1"
+msgstr "Carro Blindado Sd.Kfz.234/1"
 
 msgid "DH_T_4F1Tank.VehicleNameString"
 msgstr "T-IV mod.F"
@@ -1233,3 +1228,24 @@ msgstr "HE"
 
 msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions<0>"
 msgstr "APCBC"
+
+msgid "DH_WespeCannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_WespeCannon.ProjectileDescriptions<1>"
+msgstr "Humo"
+
+msgid "DH_WespeCannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_WespeCannon.nProjectileDescriptions<0>"
+msgstr "F.H.Gr."
+
+msgid "DH_WespeCannon.nProjectileDescriptions<1>"
+msgstr "F.H.Gr.Nb."
+
+msgid "DH_WespeCannon.nProjectileDescriptions<2>"
+msgstr "Gr.39 Hl/C"
+
+msgid "DH_WespeTank.VehicleNameString"
+msgstr "Sd.Kfz. 124 'Wespe'"
