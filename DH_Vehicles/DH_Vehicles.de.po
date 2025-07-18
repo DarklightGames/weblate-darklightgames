@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-10 06:10+0000\n"
+"PO-Revision-Date: 2025-07-18 09:32+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/de/>\n"
@@ -33,6 +33,7 @@ msgstr "Jagdpanzer IV/70(V)"
 msgid "DH_PantherDTank.VehicleNameString"
 msgstr "Panzer V 'Panther' Ausf.D"
 
+#, fuzzy
 msgid "DH_SdKfz2519DTransport.VehicleNameString"
 msgstr "Sd.Kfz.251/9 Ausf.D Stummel"
 
@@ -482,12 +483,14 @@ msgstr "HEAT"
 msgid "DH_SdKfz2519DCannon.ProjectileDescriptions[2]"
 msgstr "Nebel"
 
+#, fuzzy
 msgid "DH_SdKfz251_22Transport.VehicleNameString"
 msgstr "Sd.Kfz.251/22 Halftrack"
 
 msgid "DH_Sdkfz105Transport.VehicleNameString"
 msgstr "Sd.Kfz. 10/5"
 
+#, fuzzy
 msgid "DH_Sdkfz2341ArmoredCar.VehicleNameString"
 msgstr "Sd.Kfz.234/1 Panzerspähwagen"
 
@@ -500,9 +503,11 @@ msgstr "HE-T"
 msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions[2]"
 msgstr "APCR-T"
 
+#, fuzzy
 msgid "DH_Sdkfz2342ArmoredCar.VehicleNameString"
 msgstr "Sd.Kfz.234/2 Panzerspähwagen"
 
+#, fuzzy
 msgid "DH_Sdkfz251Transport.VehicleNameString"
 msgstr "Sd.Kfz.251 Halbkette"
 
