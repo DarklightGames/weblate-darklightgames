@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-17 01:56+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"PO-Revision-Date: 2025-07-18 09:32+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
 "Language: ru\n"
@@ -1059,9 +1059,11 @@ msgstr "Создать точку сбора"
 msgid "DHTab_DetailSettings.DetailProjectors.Caption"
 msgstr "Проекторы"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
 msgstr "Динамическая дистанция тумана (рекомендуется)"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
 msgstr ""
 "Поддерживает уровень FPS на максимально высоком уровне, автоматически "
@@ -1250,9 +1252,11 @@ msgstr "HDR Освещение"
 msgid "DHTab_DetailSettings.MeshLOD.Caption"
 msgstr "Динамическая сетка LOD"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
 msgstr "Минимально желаемый уровень FPS"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
 msgstr ""
 "Используется функцией 'Динамической дистанции тумана', чтобы определить, "
@@ -1384,6 +1388,7 @@ msgstr ""
 msgid "DHTab_GameSettings.NoGore.Caption"
 msgstr "Отключить кровь"
 
+#, fuzzy
 msgid "DHTab_GameSettings.NoGore.Hint"
 msgstr "Рекомендуется снять этот флажок"
 
