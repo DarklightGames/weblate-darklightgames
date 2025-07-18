@@ -1,10 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-18 18:15+0000\n"
+"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
+"Language-Team: German <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_guns/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.2\n"
 
 #, fuzzy
 msgid "DH_17PounderGun.VehicleNameString"
@@ -206,3 +212,12 @@ msgstr "Bofors 40mm Geschütz"
 
 msgid "DH_Pak38Cannon.ProjectileDescriptions[1]"
 msgstr "APCR"
+
+msgid "DH_45mmM1937GunCannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_17PounderGunCannon.nProjectileDescriptions<1>"
+msgstr "Mk.I HE-T"
+
+msgid "DH_17PounderGunCannon.nProjectileDescriptions<0>"
+msgstr "Mk.IV APC"
