@@ -1,14 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-18 18:15+0000\n"
+"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
+"Language-Team: German <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_adminmenumutator/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.2\n"
 
-#, fuzzy
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[24]"
-msgstr "Kein Spieler anvisiert"
+msgstr "Es wurde kein Spieler anvisiert"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText[8]"
 msgstr "Spieler über dem Ziel abwerfen"
@@ -16,24 +21,22 @@ msgstr "Spieler über dem Ziel abwerfen"
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText[0]"
 msgstr "Spieler umbenennen"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.EnterPrivateMessage"
 msgstr ""
-"Schreibe eine private Nachricht an den Spieler - danach 'enter' drücken"
+"Schreibe eine private Nachricht an den Spieler - danach 'enter'-Taste drücken"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.EnterWarningMessage"
-msgstr "Schreibe eine Warnung an den Spieler - danach 'enter' drücken"
+msgstr "Schreibe eine Warnung an den Spieler - danach 'enter'-Taste drücken"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.ConfirmKillPlayer"
 msgstr ""
-"'Enter' drücken um zu bestätigen, dass dieser Spieler GETÖTET werden soll"
+"'enter'-Taste drücken um zu bestätigen, dass dieser Spieler GETÖTET werden "
+"soll"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.ConfirmGagPlayer"
 msgstr ""
-"'Enter' drücken um zu bestätigen, dass dieser Spieler VERSTUMMT werden soll"
+"'enter'-Taste drücken um zu bestätigen, dass dieser Spieler VERSTUMMT werden "
+"soll"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText[1]"
 msgstr "Private Nachricht senden"
@@ -61,17 +64,478 @@ msgstr "Spieler über aktuellem Ort abwerfen"
 msgid "DHAdminMenu_DamageType.DeathString"
 msgstr "%o wurde von einem Admin neu gespawnt"
 
-#, fuzzy
 msgid "DHAdminMenuMutator.FriendlyName"
-msgstr "Admin Menü"
+msgstr "Administrator-Menü"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.EnterNewPlayerName"
 msgstr ""
-"Bitte einen neuen Namen für den Spieler vergeben - danach 'enter' drücken"
+"Bitte einen neuen Namen für den Spieler vergeben - danach 'enter'-Taste "
+"drücken"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.EnterKickReason"
 msgstr ""
-"Schreibe einen Rauswurf an den Spieler - danach 'enter' drücken um diesen "
-"aus dem Spiel zu entfernen"
+"Nachricht zum Rauswurf an den Spieler verfassen - danach 'enter'-Taste "
+"drücken um diesen aus dem Spiel zu entfernen"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAlliesRole"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass dieser Spieler einer NEUEN "
+"ROLLE auf Seiten der ALLIIERTEN zugewiesen werden soll"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAxisRole"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass dieser Spieler einer NEUEN "
+"ROLLE auf Seiten der ACHSENMÄCHTE zugewiesen werden soll"
+
+msgid "DHAdminMenu_AdminMessages.EnterGridLocation"
+msgstr ""
+"Bitte eine spezifische Koordinate angeben (Bsp.: für Koordinate - E2 "
+"Ziffernblock 5 - 'E25' eingeben)"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAtCurrentLocation"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass dieser Spieler per FALLSCHIRM "
+"über dessen aktuellen Standort abgeworfen werden soll"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.ConfirmMatchLive"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass das Realismus-Gefecht sofort "
+"BEGINNEN soll"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAxisAtObjective"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass ALLE ACHSENMÄCHTE beim "
+"ausgewählten Ziel abgeworfen werden soll"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAllAtObjective"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass ALLE SPIELER beim ausgewählten "
+"Ziel abgeworfen werden soll"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableMines"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass alle Minenfelder DEAKTIVIERT "
+"werden sollen"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableCapProgress"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass der Eroberungs-"
+"Fortschrittsbalken auf der Karte DEAKTIVIERT werden soll"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableCapProgress"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass der Eroberungs-"
+"Fortschrittsbalken auf der Karte RE-AKTIVIERT werden soll"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnablePlayerIcon"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass das Spielerstandort-Symbol auf "
+"der Karte RE-AKTIVIERT werden soll"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmKillAll"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass ALLE Spieler GETÖTET werden "
+"sollen"
+
+msgid "DHAdminMenu_AdminMessages.EnterTimeRemaining"
+msgstr "Bitte die neue verbleibende Rundenzeit angeben (in Minuten)"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.ConfirmToggleAdminCanPause"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass die 'Administrator kann "
+"pausieren'-Option umgeschalten werden soll"
+
+msgid "DHAdminMenu_AdminMessages.DestroyActorInSights"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass der anvisierte Akteur "
+"VERNICHTET werden soll"
+
+msgid "DHAdminMenu_AdminMessages.ChangeAxisSquadSize"
+msgstr ""
+"Bitte die neue Gruppen-Größe der Achsenmächte angeben (Wert zwischen 8 und "
+"12, oder 0 um zurückzusetzen)"
+
+msgid "DHAdminMenu_AdminMessages.SetGamePasswordText"
+msgstr "Bitte das neue Spiel-Passwort angeben"
+
+msgid "DHAdminMenu_AdminMessages.ToggleWeaponLockText"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass die Waffensperre an-/"
+"ausgeschaltet werden soll"
+
+msgid "DHAdminMenu_PlayerMenu.Label_ServerMenu"
+msgstr "M = Server Menü (allgemeine Server Einstellungen)"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuTitle"
+msgstr "SPIELER AKTIONEN:"
+
+msgid "DHAdminMenu_PlayerMenu.Label_AimedPlayer"
+msgstr "[Spieler in deinem Visier]"
+
+msgid "DHAdminMenu_PlayerMenu.Label_RealismMenu"
+msgstr "R = Realismus-Gefecht (oder Test-) Menü"
+
+msgid "DHAdminMenu_PlayerMenu.MenuTitle"
+msgstr "SPIELER ADMIN MENÜ"
+
+msgid "DHAdminMenu_PrivateMessage.MessageHeader"
+msgstr "Du hast eine private Nachricht vom Administrator erhalten"
+
+msgid "DHAdminMenu_ObjectivesMenu.MenuTitle"
+msgstr "ZIELPUNKT AUSWAHL MENÜ"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[1]"
+msgstr ""
+"Um diese Funktion zu nutzen, musst du als Administrator (via Konsole) "
+"eingeloggt sein"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[3]"
+msgstr ""
+"Der 'Realismus-Gefecht' Mutator ist auf diesem Server nicht vorhanden, daher "
+"kann diese Option nicht genutzt werden"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[4]"
+msgstr "FEHLER: keinen Spielernamen angegeben"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[5]"
+msgstr "FEHLER: konnte keinen Spieler mit Namen '%insert_name%' finden"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[7]"
+msgstr "<FEHLER: kein Spielername>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[8]"
+msgstr "<ERROR: kein Administratorname>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[10]"
+msgstr "'%insert_name%' ist diese Rolle bereits zugewiesen"
+
+#, fuzzy
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[11]"
+msgstr "Es ist nicht möglich diese Aktion bei einem nicht-Spieler anzuwenden"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[12]"
+msgstr "FEHLER: keine Nachricht angegeben"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[15]"
+msgstr "Auf dieser Karte gibt es keine Minenfelder"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[16]"
+msgstr "Minenfelder wurden bereits deaktiviert"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[18]"
+msgstr "FEHLER: kein valider Teamname angegeben"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[20]"
+msgstr "FEHLER: Ziel %insert_name% konnte nicht gefunden werden"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[21]"
+msgstr ""
+"FEHLER: keinen validen Abwurf-Standort angegeben (d.h. AtObjective, AtGrid "
+"oder AtCurrentLocation)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[22]"
+msgstr "FEHLER: invalide Kartenkoordinaten"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[26]"
+msgstr "Rally-Platzierung wurde bereits deaktiviert"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[27]"
+msgstr "Rally-Platzierung ist bereits aktiv"
+
+msgid "DHAdminMenu_MenuBase.Label_PageNumber"
+msgstr "Seite %X% von %Y%"
+
+msgid "DHAdminMenu_MenuBase.Label_PreviousMenu"
+msgstr "PgUp = vorheriges Menü"
+
+msgid "DHAdminMenu_MenuBase.Label_PreviousPage"
+msgstr "PgUp = vorherige Seite"
+
+msgid "DHAdminMenu_MenuBase.Label_NextPage"
+msgstr "PgDn = nächste Seite"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyRename"
+msgstr "Dein Spielname wurde durch den Administrator geändert"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyKill"
+msgstr "Du wurdest vom Administrator re-spawned"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyGag"
+msgstr "Du wurdest vom Administrator stummgeschaltet"
+
+msgid "DHAdminMenu_NotifyMessages.NotifySwitch"
+msgstr "Du wurdest vom Administrator einer neuen Rolle oder Team zugewiesen"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyParaDrop"
+msgstr "Du wurdest vom Administrator per Fallschirm abgeworfen"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastMinesEnabled"
+msgstr "Alle Minenfelder wurden vom Administrator RE-AKTIVIERT"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressDisabled"
+msgstr "Eroberungsfortschrittsbalken wurden vom Administrator DEAKTIVIERT"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconDisabled"
+msgstr "Spielersymbole auf der Karte wurden vom Administrator DEAKTIVIERT"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastSetTimeRemaining"
+msgstr "Die verbleibende Rundenzeit wurde vom Administrator geändert"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyToggleAdminCanPause"
+msgstr ""
+"Du hast die 'Administrator kann pausieren' Einstellung zu #bAdminCanPause# "
+"umgeschaltet"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastAlliesSquadSizeChanged"
+msgstr "Die Gruppengröße der Allierten wurde vom Administrator geändert"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsDisabled"
+msgstr "Rally-Platzierungen wurden vom Administrator DEAKTIVIERT"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsEnabled"
+msgstr "Rally-Platzierungen wurden vom Administrator RE-AKTIVIERT"
+
+msgid "DHAdminMenu_PrivateMessage.MessageChatPrefix"
+msgstr "ADMINISTRATORNACHRICHT von"
+
+#, fuzzy
+msgid "DHAdminMenu_RealismMenu.MenuText<4>"
+msgstr "Fallschirmabwurf aller Alliierten über Zielpunkt"
+
+#, fuzzy
+msgid "DHAdminMenu_RealismMenu.MenuText<5>"
+msgstr "Fallschirmabwurf aller Achsenmächte über Zielpunkt"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<7>"
+msgstr "Fallschirmabwurf aller Alliierten über Koordinate"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<8>"
+msgstr "Fallschirmabwurf aller Achsenmächte über Koordinate"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<9>"
+msgstr "Fallschirmabwurf aller Spieler über Koordinate"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<11>"
+msgstr "Schalte Minenfelder aus/an"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<12>"
+msgstr "Schalte Eroberungsfortschrittsbalken aus/an"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<13>"
+msgstr "Schalte Spielerstandortsymbol aus/an"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<14>"
+msgstr "Töte alle Spieler (beendet Realismus-Gefecht)"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<15>"
+msgstr "Setze neue Spielgeschwindigkeit"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<16>"
+msgstr "Setze neue verbleibende Rundenzeit (Minuten)"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<17>"
+msgstr "Schalte, ob ein Administrator das Spiel pausieren kann"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<18>"
+msgstr "Vernichte den Akteur in deinem Visier"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<19>"
+msgstr "Ändere die Gruppengröße der Alliierten"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<20>"
+msgstr "Ändere die Gruppengröße der Achsenmächte"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<21>"
+msgstr "Schalte Rally-Platzierung an/aus"
+
+msgid "DHAdminMenu_RealismMenu.MenuTitle"
+msgstr "REALISMUS-GEFECHT (ODER TEST-) MENÜ"
+
+msgid "DHAdminMenu_RolesMenu.MenuTitle"
+msgstr "ROLLENAUSWAHLMENÜ"
+
+msgid "DHAdminMenu_ServerMenu.MenuText<1>"
+msgstr "Setze Spiel-Passwort (leer lassen um Passwort zu entfernen)"
+
+msgid "DHAdminMenu_ServerMenu.MenuText<2>"
+msgstr "Schalte Waffensperre an/aus"
+
+msgid "DHAdminMenu_ServerMenu.MenuTitle"
+msgstr "SERVER MENÜ (FÜR VERSCHIEDENE EINSTELLUNGEN)"
+
+msgid "DHAdminMenu_WarningMessage.WarningHeader"
+msgstr "Du hast eine Warnung vom Administrator erhalten"
+
+msgid "DHAdminMenu_WarningMessage.WarningChatPrefix"
+msgstr "ADMINISTRATORWARNUNG von"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<0>"
+msgstr "Spieler umbenennen"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<1>"
+msgstr "Private Nachricht senden"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<2>"
+msgstr "Warnung per Nachricht senden (mit Ton)"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<3>"
+msgstr "Mit Nachricht rauswerfen"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<4>"
+msgstr "Diesen Spieler töten"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<5>"
+msgstr "Diesen Spieler stummschalten"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<7>"
+msgstr "Diesen Spieler Achsenmächten zuweisen"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<6>"
+msgstr "Diesen Spieler Alliierten zuweisen"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<8>"
+msgstr "Spieler per Fallschirm über Zielpunkt abwerfen"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<9>"
+msgstr "Spieler per Fallschirm über Koordinate abwerfen"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<1>"
+msgstr "Realismus-Gefecht aktivieren"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<2>"
+msgstr "Realismus-Gefecht deaktivieren"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<3>"
+msgstr "Realismus-Gefecht beginnen"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableRallyPoints"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass die Rally-Platzierung RE-"
+"AKTIVIERT werden soll"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableRallyPoints"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass die Rally-Platzierung "
+"DEAKTIVIERT werden soll"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconEnabled"
+msgstr "Spielersymbole auf der Karte wurden vom Administrator RE-AKTIVIERT"
+
+msgid "DHAdminMenuMutator.Description"
+msgstr ""
+"Zeigt Menü-Optionen, die einem Administrator mehr Kontrolle über Spieler, "
+"Realismus-Gefechte oder während des Testens erlauben"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableRealism"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass der Realismus-Modus DEAKTIVIERT "
+"werden soll"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableMines"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass alle Minenfelder RE-AKTIVIERT "
+"werden sollen"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAtObjective"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass dieser Spieler per FALLSCHIRM "
+"über dem ausgewählten Ziel abgeworfen werden soll"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableRealism"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass der Realismus-Modus AKTIVIERT "
+"werden soll"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAlliesAtObjective"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass ALLE ALLIIERTEN beim "
+"ausgewählten Ziel abgeworfen werden soll"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[9]"
+msgstr ""
+"Spieler '%insert_name%' ist derzeit nicht aktiv, daher kann diese Option "
+"nicht genutzt werden"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[13]"
+msgstr ""
+"FEHLER: '%insert_name%' konnte nicht aus dem Spiel entfernt werden (beachte, "
+"dass es nicht möglich ist Spieler rauszuwerfen die als Administrator "
+"angemeldet sind)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[19]"
+msgstr "FEHLER: Spieler-Rolle %insert_name% konnte nicht gefunden werden"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[23]"
+msgstr ""
+"Um sich automatisch anzumelden, muss die DarkestHour.ini-Datei mit den "
+"Administrator Login-Daten versehen sein"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[25]"
+msgstr ""
+"Dieser Spielmodus erlaubt keine Rallies, daher kann diese Option nicht "
+"verwendet werden"
+
+msgid "DHAdminMenu_MenuBase.Label_ExitMenu"
+msgstr "Esc = Administrator-Menü beenden"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisablePlayerIcon"
+msgstr ""
+"'enter'-Taste drücken um zu bestätigen, dass das Spielerstandort-Symbol auf "
+"der Karte DEAKTIVIERT werden soll"
+
+msgid "DHAdminMenu_AdminMessages.EnterGameSpeed"
+msgstr ""
+"Bitte den neuen Spielgeschwindigkeitsmultiplikator angeben (1 ist Normal)"
+
+msgid "DHAdminMenu_AdminMessages.ChangeAlliesSquadSize"
+msgstr ""
+"Bitte die neue Gruppen-Größe der Alliierten angeben (Wert zwischen 8 und 12, "
+"oder 0 um zurückzusetzen)"
+
+msgid "DHAdminMenu_ErrorMessages.MissingNameText"
+msgstr "<fehlende Bezeichnung>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[2]"
+msgstr ""
+"Einen Spieler per Fallschirm abzuwerfen ist auf diesem Server nicht erlaubt"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastAxisSquadSizeChanged"
+msgstr "Die Gruppengröße der Achsenmächte wurde vom Administrator geändert"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[6]"
+msgstr ""
+"PROBLEM: es wurde mehr als ein Spieler mit Name '%insert_name%' gefunden, "
+"daher ist es nicht sicher mit dieser Aktion fortzufahren"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[14]"
+msgstr ""
+"FEHLER: Spieler kann nicht aus dem Spiel entfernt werden, da benötigter "
+"'AccessControl' Akteur auf dem Server nicht vorhanden ist (beachte, dass "
+"dies im Einzelspieler-Modus normal ist)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[17]"
+msgstr "Minenfelder sind bereits aktiv"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastMinesDisabled"
+msgstr "Alle Minenfelder wurden vom Administrator DEAKTIVIERT"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressEnabled"
+msgstr "Eroberungsfortschrittsbalken wurden vom Administrator RE-AKTIVIERT"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastKilledAllPlayers"
+msgstr "Alle Spieler wurden vom Administrator getötet"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastChangedGameSpeed"
+msgstr ""
+"Spielgeschwindigkeit wurde vom Administrator zu x #insert_number# geändert"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<10>"
+msgstr "Spieler per Fallschirm über aktuellem Standort abwerfen"
+
+#, fuzzy
+msgid "DHAdminMenu_RealismMenu.MenuText<6>"
+msgstr "Fallschirmabwurf aller Spieler über Zielpunkt"
