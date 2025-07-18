@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 09:32+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-18 18:15+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
 "Language: es\n"
@@ -346,7 +346,7 @@ msgid "DHMapMarker_Enemy_Vehicle.MarkerName"
 msgstr "Vehículo enemigo"
 
 msgid "DHObjectiveMessage.TeamStrings[0]"
-msgstr "El Eje"
+msgstr "Las fuerzas del Eje"
 
 msgid "DHObjectiveMessage.TeamStrings[1]"
 msgstr "Los Aliados"
@@ -615,7 +615,7 @@ msgid "DHArtilleryTargetMessage.TargetInvalid"
 msgstr "Objetivo de artillería invalido"
 
 msgid "DHAxisAntiTankRoles.MyName"
-msgstr "Caza Tanques"
+msgstr "Caza-Tanques"
 
 msgid "DHAxisAssaultRoles.MyName"
 msgstr "Tropa de Asalto"
@@ -742,7 +742,7 @@ msgid "DHAdminMessage.AlliedTeamNameGenitive"
 msgstr "Los Aliados"
 
 msgid "DHAdminMessage.AxisTeamNameGenitive"
-msgstr "El Eje"
+msgstr "Las fuerzas del Eje"
 
 msgid "DHArtilleryMessage.RequestText"
 msgstr "Solicitando {name}."
@@ -862,7 +862,6 @@ msgstr ""
 "¡Debes tener a otro miembro de tu equipo cerca para destruir un puesto de "
 "mando enemigo!"
 
-#, fuzzy
 msgid "DHHintManager.Hints[50].Text"
 msgstr ""
 "Abre el mapa para coordinar el fuego. Usa [RIGHTMOUSE] sobre una solicitud "
