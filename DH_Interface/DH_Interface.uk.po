@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-10 04:18+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2025-07-18 09:32+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
 "Language: uk\n"
@@ -598,6 +598,7 @@ msgstr "Меню наказів загону"
 msgid "DHTab_DetailSettings.DetailDecoLayers.Caption"
 msgstr "Деталізація місцевості"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
 msgstr ""
 "Підтримує рівень FPS на максимально високому рівні, автоматично регулюючи "
@@ -620,6 +621,7 @@ msgstr ""
 "рахунок затримки вводу (налаштування відеокарти можуть перевизначати деякі "
 "графічні параметри, такі як це)"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
 msgstr ""
 "Використовується функцією 'Динамічна дистанція туману', щоб визначити, коли "
@@ -1229,6 +1231,7 @@ msgstr "Деталізація миру"
 msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
 msgstr "Дистанція туману"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
 msgstr "Динамічна дистанція туману (рекомендовано)"
 
@@ -1244,6 +1247,7 @@ msgstr "HDR Освітлення"
 msgid "DHTab_DetailSettings.MeshLOD.Caption"
 msgstr "Динамічна ступінь деталізації LOD"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
 msgstr "Мінімальний бажаний рівень FPS"
 
@@ -1663,6 +1667,7 @@ msgstr "Швидкість мережі (байт в секунду)"
 msgid "DHTab_GameSettings.NoGore.Caption"
 msgstr "Вимкнути кров"
 
+#, fuzzy
 msgid "DHTab_GameSettings.NoGore.Hint"
 msgstr "Рекомендується зняти цей прапорець"
 
