@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-13 18:52+0000\n"
-"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
+"PO-Revision-Date: 2025-07-18 09:32+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/es/>\n"
 "Language: es\n"
@@ -156,15 +156,18 @@ msgstr "Panzer IV Ausf.J"
 msgid "DH_SU76Destroyer.VehicleNameString"
 msgstr "SU-76M"
 
+#, fuzzy
 msgid "DH_SdKfz2519DTransport.VehicleNameString"
 msgstr "Sd.Kfz.251/9 Ausf.D Stummel"
 
+#, fuzzy
 msgid "DH_SdKfz251_22Transport.VehicleNameString"
 msgstr "Semioruga Sd.Kfz.251/22"
 
 msgid "DH_Sdkfz105Transport.VehicleNameString"
 msgstr "Sd.Kfz. 10/5"
 
+#, fuzzy
 msgid "DH_Sdkfz251Transport.VehicleNameString"
 msgstr "Semioruga Sd.Kfz.251"
 
@@ -291,6 +294,7 @@ msgstr "Marder III Ausf.M"
 msgid "DH_PanzerIVGEarlyTank.VehicleNameString"
 msgstr "Panzer IV Ausf.G"
 
+#, fuzzy
 msgid "DH_Sdkfz2342ArmoredCar.VehicleNameString"
 msgstr "Automóvil Blindado Sd.Kfz.234/2"
 
@@ -309,6 +313,7 @@ msgstr "GMC CCKW"
 msgid "DH_JagdpanzerIVL70Destroyer.VehicleNameString"
 msgstr "Jagdpanzer IV/70(V)"
 
+#, fuzzy
 msgid "DH_Sdkfz2341ArmoredCar.VehicleNameString"
 msgstr "Automóvil Blindado Sd.Kfz.234/1"
 
