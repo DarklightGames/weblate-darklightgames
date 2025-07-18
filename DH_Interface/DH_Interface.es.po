@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 09:32+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-18 18:15+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/es/>\n"
 "Language: es\n"
@@ -367,7 +367,6 @@ msgstr "Ranura de inventario 3"
 msgid "DHTab_Controls.captions_comm[7]"
 msgstr "Cambiar a Canal de Voz de Comando"
 
-#, fuzzy
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
 msgstr "Mínimo FPS deseado"
 
@@ -406,11 +405,10 @@ msgstr "Sistema de sonido"
 msgid "DHTab_AudioSettings.Dampen.Caption"
 msgstr "Reducir el volumen del juego al usar VoIP"
 
-#, fuzzy
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
 msgstr ""
 "Mantiene los FPS lo más altos posible ajustando la distancia de la niebla "
-"automáticamente en función de los FPS."
+"automáticamente en función del rendimiento"
 
 msgid "DHTab_GameSettings.LockTankOnEntry.Caption"
 msgstr "Bloquear tanque al entrar en el"
@@ -421,11 +419,10 @@ msgstr "Recarga manual en tanques"
 msgid "DHTab_Controls.Captions_Inventory[8]"
 msgstr "Ranura de inventario 9"
 
-#, fuzzy
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
 msgstr ""
 "Utilizado por la Distancia de Dibujado Dinámica para determinar cuándo "
-"comenzar a reducir la distancia de niebla"
+"comenzar a reducir la distancia de niebla para mejorar los FPS"
 
 msgid "DHTab_DetailSettings.UseVSyncCheckBox.Caption"
 msgstr "Sincronización Vertical (No recomendado)"
@@ -965,9 +962,8 @@ msgstr "Sin Gore"
 msgid "DHTab_GameSettings.PlayerName.Caption"
 msgstr "Nombre"
 
-#, fuzzy
 msgid "DHTab_GameSettings.NoGore.Hint"
-msgstr "Es recomendado tener esto deshabilitado (para mas realismo)"
+msgstr "Desactiva los desmembramiento, decapitaciones o efectos de sangre"
 
 msgid "DHTab_GameSettings.PurgeCacheDays.Caption"
 msgstr "Purgar cache"
@@ -1280,9 +1276,8 @@ msgstr "Detalle del Mundo"
 msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
 msgstr "Distancia de dibujado"
 
-#, fuzzy
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
-msgstr "Distancia de Dibujado Dinámica (Recomendado)"
+msgstr "Distancia de Dibujado Dinámica"
 
 msgid "DHTab_DetailSettings.GlobalDetails.Caption"
 msgstr "Detalles del Juego"
@@ -1648,3 +1643,6 @@ msgstr "Pro 105"
 
 msgid "DHTab_GameSettings.PurgeCacheDaysText[3]"
 msgstr "Personalizado (desde archivo ini): cada %NumDays% días"
+
+msgid "DHSituationMapGUIPage.EnableMouseControlPrompt"
+msgstr "Presiona [%JUMP%] para activar el mouse"
