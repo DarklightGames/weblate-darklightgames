@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-14 01:35+0000\n"
-"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"PO-Revision-Date: 2025-07-18 09:32+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
 "Language: fr\n"
@@ -874,6 +874,7 @@ msgstr ""
 "Vous utilisez une pièce d'artillerie équipée d'une lunette d'observation. "
 "Appuyez sur %NEXTWEAPON% pour regarder à travers la lunette."
 
+#, fuzzy
 msgid "DHHintManager.Hints[50].Text"
 msgstr ""
 "Ouvrez la carte pour coordonner les tirs. Utilisez le bouton droit de la "
