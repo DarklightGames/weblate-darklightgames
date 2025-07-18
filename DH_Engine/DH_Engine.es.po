@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-17 01:56+0000\n"
-"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
+"PO-Revision-Date: 2025-07-18 09:32+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
 "Language: es\n"
@@ -862,6 +862,7 @@ msgstr ""
 "¡Debes tener a otro miembro de tu equipo cerca para destruir un puesto de "
 "mando enemigo!"
 
+#, fuzzy
 msgid "DHHintManager.Hints[50].Text"
 msgstr ""
 "Abre el mapa para coordinar el fuego. Usa [RIGHTMOUSE] sobre una solicitud "
