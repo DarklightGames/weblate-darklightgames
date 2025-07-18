@@ -801,7 +801,7 @@ msgid "DHHintManager.Hints[50].Title"
 msgstr "Artillery Operators"
 
 msgid "DHHintManager.Hints[50].Text"
-msgstr "Open map to coordinate fire. Use [RIGHTMOUSE] on a fire support request to select it as the active target or use the Ruler marker to measure distances from you to a given spot on the map."
+msgstr "Open map to coordinate fire. Use [RIGHTMOUSE] on a fire support request to select it as the active target or use the Ruler marker to measure distances to a given spot on the map."
 
 msgid "DHHintManager.Hints[51].Title"
 msgstr "Map Interaction"

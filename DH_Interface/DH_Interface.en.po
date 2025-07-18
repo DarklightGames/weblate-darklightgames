@@ -905,6 +905,9 @@ msgstr "Back"
 msgid "DHSettings_Footer.DefaultB.Caption"
 msgstr "Defaults"
 
+msgid "DHSituationMapGUIPage.EnableMouseControlPrompt"
+msgstr "Press [%JUMP%] to activate mouse"
+
 msgid "DHTab_AudioSettings.AudioBK1.Caption"
 msgstr "Sound System"
 
@@ -1173,10 +1176,10 @@ msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
 msgstr "Fog Distance"
 
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
-msgstr "Dynamic Fog Distance (Recommended)"
+msgstr "Dynamic Fog Distance"
 
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
-msgstr "Keeps FPS as high as possible by adjusting the fog distance automatically based on FPS"
+msgstr "Keeps FPS as high as possible by adjusting the fog distance automatically based on performance"
 
 msgid "DHTab_DetailSettings.GammaSlider.Caption"
 msgstr "Gamma"
@@ -1191,10 +1194,10 @@ msgid "DHTab_DetailSettings.MeshLOD.Caption"
 msgstr "Dynamic Mesh LOD"
 
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
-msgstr "Min Desired FPS"
+msgstr "Dynamic Fog FPS Threshold"
 
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
-msgstr "Used by Dynamic Fog Distance to determine when to start lowing fog distance"
+msgstr "Used by Dynamic Fog Distance to determine when to start lowing fog distance to improve FPS"
 
 msgid "DHTab_DetailSettings.MotionBlur.Caption"
 msgstr "Blur Effects"
@@ -1347,7 +1350,7 @@ msgid "DHTab_GameSettings.NoGore.Caption"
 msgstr "No Gore"
 
 msgid "DHTab_GameSettings.NoGore.Hint"
-msgstr "Recommended to have this unchecked"
+msgstr "No dismemberment, decapition, or blood effects"
 
 msgid "DHTab_GameSettings.PlayerName.Caption"
 msgstr "Player Name"

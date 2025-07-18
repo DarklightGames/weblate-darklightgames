@@ -41,8 +41,17 @@ msgstr "Bren Mk.II"
 msgid "DH_C96Weapon.ItemName"
 msgstr "Mauser C96"
 
+msgid "DH_CarcanoM9138CarbineWeapon.ItemName"
+msgstr "Carcano Moschetto mod. 91/38"
+
+msgid "DH_CarcanoM9138ShortRifleWeapon.ItemName"
+msgstr "Carcano Fucile Corto mod. 91/38"
+
+msgid "DH_CarcanoM9138TSCarbineWeapon.ItemName"
+msgstr "Carcano Moschetto TS mod. 91/38"
+
 msgid "DH_CarcanoM91Weapon.ItemName"
-msgstr "Carcano mod. 91"
+msgstr "Carcano Fucile mod. 91"
 
 msgid "DH_ColtM1911Weapon.ItemName"
 msgstr "Colt M1911A1"

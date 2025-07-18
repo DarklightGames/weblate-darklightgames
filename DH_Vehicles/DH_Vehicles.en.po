@@ -732,16 +732,16 @@ msgid "DH_SdKfz2519DCannon.nProjectileDescriptions<2>"
 msgstr "Nbgr.Kw.K."
 
 msgid "DH_SdKfz2519DTransport.VehicleNameString"
-msgstr "Sd.Kfz.251/9 Ausf.D Stummel"
+msgstr "Sd.Kfz. 251/9 Ausf.D Stummel"
 
 msgid "DH_SdKfz251_22Transport.VehicleNameString"
-msgstr "Sd.Kfz.251/22 Halftrack"
+msgstr "Sd.Kfz. 251/22 Halftrack"
 
 msgid "DH_Sdkfz105Transport.VehicleNameString"
 msgstr "Sd.Kfz. 10/5"
 
 msgid "DH_Sdkfz2341ArmoredCar.VehicleNameString"
-msgstr "Sd.Kfz.234/1 Armored Car"
+msgstr "Sd.Kfz. 234/1 Armored Car"
 
 msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions<0>"
 msgstr "AP-T"
@@ -762,7 +762,7 @@ msgid "DH_Sdkfz2341Cannon.nProjectileDescriptions<2>"
 msgstr "Pzgr. 40 L'spur"
 
 msgid "DH_Sdkfz2342ArmoredCar.VehicleNameString"
-msgstr "Sd.Kfz.234/2 Armored Car"
+msgstr "Sd.Kfz. 234/2 Armored Car"
 
 msgid "DH_Sdkfz2342Cannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
@@ -771,7 +771,7 @@ msgid "DH_Sdkfz2342Cannon.nProjectileDescriptions<1>"
 msgstr "Sprgr.Patr.38"
 
 msgid "DH_Sdkfz251Transport.VehicleNameString"
-msgstr "Sd.Kfz.251 Halftrack"
+msgstr "Sd.Kfz. 251 Halftrack"
 
 msgid "DH_Semovente4732Cannon.ProjectileDescriptions<0>"
 msgstr "AP"
@@ -1171,6 +1171,27 @@ msgstr "Panzer VI Ausf.E 'Butcher'"
 
 msgid "DH_UniversalCarrierTransport.VehicleNameString"
 msgstr "Universal Carrier"
+
+msgid "DH_WespeCannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_WespeCannon.ProjectileDescriptions<1>"
+msgstr "Smoke"
+
+msgid "DH_WespeCannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_WespeCannon.nProjectileDescriptions<0>"
+msgstr "F.H.Gr."
+
+msgid "DH_WespeCannon.nProjectileDescriptions<1>"
+msgstr "F.H.Gr.Nb."
+
+msgid "DH_WespeCannon.nProjectileDescriptions<2>"
+msgstr "Gr.39 Hl/C"
+
+msgid "DH_WespeTank.VehicleNameString"
+msgstr "Sd.Kfz. 124 Wespe"
 
 msgid "DH_WillysJeep.VehicleNameString"
 msgstr "Willys Jeep MB"
