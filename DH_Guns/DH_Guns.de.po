@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 18:15+0000\n"
+"PO-Revision-Date: 2025-07-19 18:42+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/de/>\n"
@@ -221,3 +221,129 @@ msgstr "Mk.I HE-T"
 
 msgid "DH_17PounderGunCannon.nProjectileDescriptions<0>"
 msgstr "Mk.IV APC"
+
+msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<0>"
+msgstr "BR-240"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions<1>"
+msgstr "O-240"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions<2>"
+msgstr "BR-240P"
+
+msgid "DH_6PounderGunCannon.nProjectileDescriptions<0>"
+msgstr "Mk.XT APC"
+
+msgid "DH_6PounderGunCannon.nProjectileDescriptions<1>"
+msgstr "Mk.I APDS"
+
+msgid "DH_AT57Cannon.nProjectileDescriptions<0>"
+msgstr "M86 APC"
+
+msgid "DH_Flak88Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Flak88Cannon.nProjectileDescriptions<1>"
+msgstr "Schw.Sprgr.Patr."
+
+msgid "DH_45mmM1937GunCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<2>"
+msgstr "APCR"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions<1>"
+msgstr "APDS"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_Bofors40mmCannon.ProjectileDescriptions<0>"
+msgstr "HE-T"
+
+msgid "DH_Bofors40mmCannon.ProjectileDescriptions<1>"
+msgstr "AP"
+
+msgid "DH_Fiat1435Gun.VehicleNameString"
+msgstr "Fiat-Revelli modello 14/35"
+
+msgid "DH_Cannone4732Gun.VehicleNameString"
+msgstr "Cannone da 47/32"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<1>"
+msgstr "Granata da 47"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<2>"
+msgstr "Effeto Pronto da 47"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<0>"
+msgstr "AP"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<0>"
+msgstr "Granata Perforante da 47"
+
+msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<1>"
+msgstr "O-240"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions<0>"
+msgstr "BR-240"
+
+msgid "DH_Bofors40mmCannon.nProjectileDescriptions<0>"
+msgstr "Mk.II HE-T"
+
+msgid "DH_Bofors40mmCannon.nProjectileDescriptions<1>"
+msgstr "M81A1 AP"
+
+msgid "DH_AT57Cannon.nProjectileDescriptions<1>"
+msgstr "M303 HE-T"
+
+msgid "DH_BM36Mortar.VehicleNameString"
+msgstr "82-BM-36 Mörser"
+
+msgid "DH_BM36MortarCannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_BM36MortarCannon.ProjectileDescriptions<1>"
+msgstr "Nebel"
+
+msgid "DH_BM36MortarCannon.nProjectileDescriptions<0>"
+msgstr "O-832"
+
+msgid "DH_BM36MortarCannon.nProjectileDescriptions<1>"
+msgstr "D-832"
+
+msgid "DH_Fiat1435Gun_WC.VehicleNameString"
+msgstr "Fiat mod. 14"
+
+msgid "DH_Granatwerfer34Cannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_Granatwerfer34Cannon.nProjectileDescriptions<0>"
+msgstr "Wgr. 38"
+
+msgid "DH_Granatwerfer34Cannon.nProjectileDescriptions<1>"
+msgstr "Wgr. 38 Nb."
+
+msgid "DH_6PounderGunCannon.nProjectileDescriptions<2>"
+msgstr "Mk.X HE-T"
+
+msgid "DH_Fiat1435Gun_AC.VehicleNameString"
+msgstr "Fiat mod. 35"
+
+msgid "DH_Granatwerfer34Cannon.ProjectileDescriptions<1>"
+msgstr "Nebel"
