@@ -1,2 +1,577 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-07-19 18:42+0000\n"
+"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
+"Language-Team: German <https://weblate.darklightgames.com/projects/"
+"darkesthour/roengine/de/>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "ROVoicePack.SupportString[3]"
+msgstr "Bring mir einen Scharfschützen!"
+
+msgid "ROVoicePack.SupportString[4]"
+msgstr "Wir benötigen MG Unterstützung!"
+
+msgid "ROVoicePack.SupportString[8]"
+msgstr "Wir benötigen Artillerieunterstützung!"
+
+msgid "ROVoicePack.SupportString[9]"
+msgstr "Ich benötige eine Mitfahrgelegenheit!"
+
+msgid "ROVoicePack.SupportAbbrev[1]"
+msgstr "Unterstützung benötigt bei..."
+
+msgid "ROVoicePack.SupportAbbrev[2]"
+msgstr "Munition benötigt"
+
+msgid "ROVoicePack.SupportAbbrev[3]"
+msgstr "Scharfschütze benötigt"
+
+msgid "ROVoicePack.SupportAbbrev[4]"
+msgstr "MG Unterstützung benötigt"
+
+msgid "ROVoicePack.SupportAbbrev[6]"
+msgstr "Sprengung anfordern"
+
+msgid "ROVoicePack.SupportAbbrev[7]"
+msgstr "Panzer anfordern"
+
+msgid "ROVoicePack.SupportAbbrev[8]"
+msgstr "Artillerie anfordern"
+
+msgid "ROVoicePack.SupportAbbrev[9]"
+msgstr "Transport anfordern"
+
+msgid "ROVoicePack.SupportAbbrevAxis[5]"
+msgstr "Panzerfaust benötigt"
+
+msgid "ROVoicePack.EnemyString[0]"
+msgstr "Infanterie gesichtet!"
+
+msgid "ROVoicePack.EnemyString[1]"
+msgstr "MG Stellung gesichtet!"
+
+msgid "ROVoicePack.EnemyString[3]"
+msgstr "Sturmpionier gesichtet!"
+
+msgid "ROVoicePack.EnemyString[4]"
+msgstr "Panzerabwehrsoldaten gesichtet!"
+
+msgid "ROVoicePack.EnemyString[5]"
+msgstr "Kleines Fahrzeug gesichtet!"
+
+msgid "ROVoicePack.EnemyString[6]"
+msgstr "Panzer! Panzer!"
+
+msgid "ROVoicePack.EnemyString[8]"
+msgstr "Artillerie!"
+
+msgid "ROVoicePack.EnemyAbbrev[0]"
+msgstr "Infanterie gesichtet"
+
+msgid "ROVoicePack.EnemyAbbrev[1]"
+msgstr "MG Stellung"
+
+msgid "ROVoicePack.EnemyAbbrev[2]"
+msgstr "Scharfschütze"
+
+msgid "ROVoicePack.EnemyAbbrev[4]"
+msgstr "Panzerabwehrsoldaten"
+
+msgid "ROVoicePack.EnemyAbbrev[5]"
+msgstr "Kleines Fahrzeug"
+
+msgid "ROVoicePack.EnemyAbbrev[6]"
+msgstr "Panzer"
+
+msgid "ROVoicePack.EnemyAbbrev[8]"
+msgstr "Artillerie"
+
+msgid "ROVoicePack.EnemyStringAxis[3]"
+msgstr "Sturmpionier!"
+
+msgid "ROVoicePack.EnemyStringAxis[6]"
+msgstr "Achtung, Panzer!"
+
+msgid "ROVoicePack.EnemyAbbrevAxis[3]"
+msgstr "Sturmpionier"
+
+msgid "ROVoicePack.EnemyAbbrevAxis[6]"
+msgstr "Panzer"
+
+msgid "ROVoicePack.AlertString[0]"
+msgstr "Granate!"
+
+msgid "ROVoicePack.AlertString[1]"
+msgstr "Los los los!"
+
+msgid "ROVoicePack.AlertString[2]"
+msgstr "Stellung!"
+
+msgid "ROVoicePack.AlertString[3]"
+msgstr "Halt!"
+
+msgid "ROVoicePack.AlertString[4]"
+msgstr "Folgt mir!"
+
+msgid "ROVoicePack.AlertString[5]"
+msgstr "Sprengladung platziert!"
+
+msgid "ROVoicePack.AlertString[6]"
+msgstr "Deckungsfeuer!"
+
+msgid "ROVoicePack.AlertString[7]"
+msgstr "Eigenbeschuss!"
+
+msgid "ROVoicePack.AlertAbbrev[0]"
+msgstr "Granate"
+
+msgid "ROVoicePack.AlertAbbrev[1]"
+msgstr "Los los los"
+
+msgid "ROVoicePack.AlertAbbrev[2]"
+msgstr "Stellung"
+
+msgid "ROVoicePack.AlertAbbrev[4]"
+msgstr "Folgt mir"
+
+msgid "ROVoicePack.AlertAbbrev[5]"
+msgstr "Sprengladung platziert"
+
+msgid "ROVoicePack.AlertAbbrev[6]"
+msgstr "Deckungsfeuer"
+
+msgid "ROVoicePack.AlertAbbrev[7]"
+msgstr "Eigenbeschuss"
+
+msgid "ROVoicePack.AlertAbbrev[8]"
+msgstr "Unter Beschuss bei Zielobjekt"
+
+msgid "ROVoicePack.AlertAbbrev[9]"
+msgstr "Rückzug"
+
+msgid "ROVoicePack.VehicleDirectionString[1]"
+msgstr "Vorwärts"
+
+msgid "ROVoicePack.VehicleDirectionString[2]"
+msgstr "Halt"
+
+msgid "ROVoicePack.VehicleDirectionString[3]"
+msgstr "Rückwärts"
+
+msgid "ROVoicePack.VehicleDirectionString[5]"
+msgstr "Nach rechts"
+
+msgid "ROVoicePack.VehicleDirectionString[7]"
+msgstr "5 Meter zurück!"
+
+msgid "ROVoicePack.VehicleDirectionString[8]"
+msgstr "Etwas nach links!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[1]"
+msgstr "Vorwärts"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[2]"
+msgstr "Halt"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[7]"
+msgstr "5 Meter zurück"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[8]"
+msgstr "Etwas nach links"
+
+msgid "ROVoicePack.VehicleAlertString[0]"
+msgstr "Feind voraus!"
+
+msgid "ROVoicePack.VehicleAlertString[1]"
+msgstr "Feind links!"
+
+msgid "ROVoicePack.VehicleAlertString[4]"
+msgstr "Feindliche Infanterie nah!"
+
+msgid "ROVoicePack.VehicleAlertString[6]"
+msgstr "Nein, nein!"
+
+msgid "ROVoicePack.VehicleAlertString[5]"
+msgstr "Jawohl!"
+
+msgid "ROVoicePack.VehicleAlertString[8]"
+msgstr "Raus!"
+
+msgid "ROVoicePack.VehicleAlertString[7]"
+msgstr "Wir brennen!"
+
+msgid "ROVoicePack.VehicleAlertString[9]"
+msgstr "Geladen."
+
+msgid "ROVoicePack.VehicleAlertAbbrev[1]"
+msgstr "Feind links"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[2]"
+msgstr "Feind rechts"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[3]"
+msgstr "Feind hinter uns"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[4]"
+msgstr "Feindliche Infanterie nah"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[5]"
+msgstr "So verstanden"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[6]"
+msgstr "Negativ"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[8]"
+msgstr "Raus"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[7]"
+msgstr "Wir brennen"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[9]"
+msgstr "Geladen"
+
+msgid "ROVoicePack.ExtraAbbrev[0]"
+msgstr "Ich werde dich töten"
+
+msgid "ROVoicePack.ExtraString[2]"
+msgstr "*Beleidigung*"
+
+msgid "ROVoicePack.ExtraAbbrev[2]"
+msgstr "Beleidigung"
+
+msgid "ROVoicePack.AckString[0]"
+msgstr "Jawohl!"
+
+msgid "ROVoicePack.AckString[3]"
+msgstr "Entschuldigung"
+
+msgid "ROVoicePack.AckString[2]"
+msgstr "Danke"
+
+msgid "ROVoicePack.AckAbbrev[1]"
+msgstr "Negativ"
+
+msgid "ROVoicePack.AckAbbrev[0]"
+msgstr "Jawohl"
+
+msgid "ROVoicePack.AckAbbrev[2]"
+msgstr "Danke"
+
+msgid "ROVoicePack.AckAbbrev[3]"
+msgstr "Entschuldigen"
+
+msgid "ROVoicePack.OrderString[2]"
+msgstr "Haltet diese Stellung!"
+
+msgid "ROVoicePack.OrderString[3]"
+msgstr "Folgt mir!"
+
+msgid "ROVoicePack.OrderString[4]"
+msgstr "Angriff nach Belieben!"
+
+msgid "ROVoicePack.OrderString[7]"
+msgstr "Feuer einstellen!"
+
+msgid "ROVoicePack.OrderString[6]"
+msgstr "Feuer frei!"
+
+msgid "ROVoicePack.OrderAbbrev[0]"
+msgstr "Angreifen..."
+
+msgid "ROVoicePack.OrderAbbrev[2]"
+msgstr "Stellung halten"
+
+msgid "ROVoicePack.OrderAbbrev[3]"
+msgstr "Folgt mir"
+
+msgid "ROVoicePack.OrderAbbrev[4]"
+msgstr "Abmarsch"
+
+msgid "ROVoicePack.OrderAbbrev[6]"
+msgstr "Bekämpfen"
+
+msgid "ROVoicePack.OrderAbbrev[5]"
+msgstr "Rückzug"
+
+msgid "ROGameMessage.NewPlayerMessage"
+msgstr "Ein neuer Soldat hat das Schlachtfeld betreten."
+
+msgid "ROHud.TimeRemainingText"
+msgstr "Verbleibende Zeit: "
+
+msgid "ROPlayer.SpectatingModeName[0]"
+msgstr "Eigenansicht"
+
+msgid "ROPlayer.SpectatingModeName[1]"
+msgstr "Freie Ansicht"
+
+msgid "ROPlayer.SpectatingModeName[3]"
+msgstr "Objektansicht"
+
+msgid "RORoundOverMsg.AxisWins"
+msgstr "Die Achsenmächte haben die Schlacht für sich entschieden!"
+
+msgid "RORoundOverMsg.AlliesWins"
+msgstr "Die Alliierten haben die Schlacht für sich entschieden!"
+
+msgid "RORoundOverMsg.NoDecisiveOutcome"
+msgstr "Unentschieden"
+
+msgid "ROTeamGame.PropsDisplayText[5]"
+msgstr "Zeitlimit"
+
+msgid "ROVoicePack.AlertString[9]"
+msgstr "Rückzug!"
+
+msgid "ROVoicePack.VehicleDirectionString[4]"
+msgstr "Nach links"
+
+msgid "ROVoicePack.VehicleDirectionString[6]"
+msgstr "5 Meter vor!"
+
+msgid "ROVoicePack.VehicleDirectionString[9]"
+msgstr "Etwas nach rechts!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[0]"
+msgstr "Gehe zu..."
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[3]"
+msgstr "Rückwärts"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[4]"
+msgstr "Nach links"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[5]"
+msgstr "Nach rechts"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[6]"
+msgstr "5 Meter vor"
+
+msgid "ROVoicePack.OrderString[5]"
+msgstr "Rückzug!"
+
+msgid "ROAmmoWeightMessage.LightMessage"
+msgstr "Neues Magazin ist leicht"
+
+msgid "ROAmmoWeightMessage.HeavyMessage"
+msgstr "Neues Magazin ist schwer"
+
+msgid "ROBipodWarningMsg.DeployToFire"
+msgstr "Waffe muss aufgelegt sein um zu schießen!"
+
+msgid "ROBipodWarningMsg.DeployToReload"
+msgstr "Waffe muss aufgelegt sein um nachzuladen!"
+
+msgid "ROHud.ReinforcementText"
+msgstr "Verstärkungen: "
+
+msgid "ROHud.ViewingText"
+msgstr "Schaut zu: "
+
+msgid "ROVoicePack.SupportString[0]"
+msgstr "Wir benötigen Unterstützung!"
+
+msgid "ROVoicePack.SupportString[2]"
+msgstr "Ich benötige Munition!"
+
+msgid "ROVoicePack.SupportAbbrev[0]"
+msgstr "Unterstützung benötigt"
+
+msgid "ROVoicePack.SupportAbbrev[5]"
+msgstr "Panzerabwehrschütze benötigt"
+
+msgid "ROVoicePack.SupportStringAxis[5]"
+msgstr "Wir benötigen den Panzerfaustschützen!"
+
+msgid "ROVoicePack.AlertAbbrev[3]"
+msgstr "Halt"
+
+msgid "ROVoicePack.VehicleAlertString[3]"
+msgstr "Feind hinter uns!"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[0]"
+msgstr "Feind voraus"
+
+msgid "ROVoicePack.ExtraString[1]"
+msgstr "Kein Rückzug!"
+
+msgid "ROVoicePack.ExtraString[0]"
+msgstr "Ich werde dich töten!"
+
+msgid "ROVoicePack.ExtraAbbrev[1]"
+msgstr "Kein Rückzug"
+
+msgid "ROVoicePack.AckString[1]"
+msgstr "Nein, nein!"
+
+msgid "ROVoicePack.OrderAbbrev[7]"
+msgstr "Feuer einstellen"
+
+msgid "ROTeamGame.PropsDisplayText[0]"
+msgstr "Fähigkeiten der Bots"
+
+msgid "ROTeamGame.PropsDisplayText[1]"
+msgstr "Kartenrotation nutzen"
+
+msgid "ROTeamGame.PropsDisplayText[3]"
+msgstr "Maximale Zuschaueranzahl"
+
+msgid "ROTeamGame.PropsDisplayText[4]"
+msgstr "Maximale Spieleranzahl"
+
+msgid "ROTeamGame.PropsDisplayText[6]"
+msgstr "Hinteransicht erlauben"
+
+msgid "ROTeamGame.PropsDisplayText[10]"
+msgstr "Zuschauen in freier Ansicht erlauben"
+
+msgid "ROTeamGame.PropsDisplayText[13]"
+msgstr "Mindestspieleranzahl"
+
+msgid "ROTeamGame.PropsDisplayText[14]"
+msgstr "Bot Modus"
+
+msgid "ROTeamGame.PropsDisplayText[15]"
+msgstr "Verzögerung am Ende des Spiels"
+
+msgid "ROTeamGame.PropsDisplayText[16]"
+msgstr "Fähigkeit anpassen"
+
+msgid "ROTeamGame.PropsDisplayText[18]"
+msgstr "Rundenbegrenzung"
+
+msgid "ROTeamGame.PropsDisplayText[19]"
+msgstr "Dauer der Vorbereitungsphase"
+
+msgid "ROTeamGame.PropsDisplayText[20]"
+msgstr "Wartezeit"
+
+msgid "ROTeamGame.PropsDisplayText[22]"
+msgstr "Spieler müssen bereit sein"
+
+msgid "ROTeamGame.PropsDisplayText[25]"
+msgstr "Wirkung Eigenbeschuss Explosionen"
+
+msgid "ROTeamGame.PropsDisplayText[26]"
+msgstr "Bots gleichen Teams aus"
+
+msgid "ROTeamGame.PropsDisplayText[28]"
+msgstr "Teamübergreifender privater Chat"
+
+msgid "ROTeamGame.PropsDisplayText[30]"
+msgstr "Bestrafung aufgrund Eigenbeschuss"
+
+msgid "ROTeamGame.PropsDisplayText[31]"
+msgstr "Todesbenachrichtungsmodus"
+
+msgid "ROTeamGame.PropsDisplayText[33]"
+msgstr "Geschwärztes HUD bei Nicht-Spieleransicht"
+
+msgid "ROTeamGame.PropsDisplayText[34]"
+msgstr "Auto-Ausgleich Teams bei Tod"
+
+msgid "ROTeamGame.PropsDisplayText[35]"
+msgstr "Maximaler Teamgrößenunterschied"
+
+msgid "ROTeamGame.PropsDisplayText[36]"
+msgstr "Maximale Spieleranzahl überschreiben"
+
+msgid "ROTeamGame.PropsDisplayText[37]"
+msgstr "Eigenbeschuss vergeben aktiviert"
+
+msgid "ROTeamGame.PropsDisplayText[38]"
+msgstr "Eigenbeschuss Tötungsbegrenzung"
+
+msgid "ROTeamGame.PropsDisplayText[39]"
+msgstr "Eigenbeschuss Schadensbegrenzung"
+
+msgid "ROTeamGame.PropsDisplayText[40]"
+msgstr "Zeige Server IP auf Scoreboard"
+
+msgid "ROTeamGame.PropsDisplayText[41]"
+msgstr "Zeige Zeit auf Scoreboard"
+
+msgid "ROTeamGame.PropsDisplayText[12]"
+msgstr "Administrator Pause erlauben"
+
+msgid "ROTeamGame.PropsDisplayText[17]"
+msgstr "Siegbegrenzung"
+
+msgid "ROVoicePack.SupportString[5]"
+msgstr "Wir benötigen einen Panzerabwehrschützen!"
+
+msgid "ROVoicePack.SupportString[6]"
+msgstr "Bring mir den Pionier!"
+
+msgid "ROVoicePack.EnemyAbbrev[7]"
+msgstr "Schwerer Panzer"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[9]"
+msgstr "Etwas nach rechts"
+
+msgid "ROAmmoWeightMessage.VeryLightMessage"
+msgstr "Neues Magazin ist sehr leicht"
+
+msgid "ROTeamGame.PropsDisplayText[23]"
+msgstr "Wirkung Eigenbeschuss"
+
+msgid "ROTeamGame.PropsDisplayText[24]"
+msgstr "Wirkung Eigenbeschuss Artillerie"
+
+msgid "ROTeamGame.PropsDisplayText[27]"
+msgstr "Spieler gleichen Teams aus"
+
+msgid "ROVoicePack.EnemyString[7]"
+msgstr "Schwerer Panzer gesichtet!"
+
+msgid "ROVoicePack.VehicleAlertString[2]"
+msgstr "Feind rechts!"
+
+msgid "ROGameMessage.YouHaveLoggedInAsAdminMsg"
+msgstr "Du hast dich als Administrator angemeldet."
+
+msgid "ROPlayer.SpectatingModeName[2]"
+msgstr "Spieleransicht"
+
+msgid "ROTeamGame.PropsDisplayText[2]"
+msgstr "Spielgeschwindigkeit"
+
+msgid "ROTeamGame.PropsDisplayText[7]"
+msgstr "Zuschauen nur in Erster Person Ansicht"
+
+msgid "ROTeamGame.PropsDisplayText[8]"
+msgstr "Zuschauen in Dritter Person Ansicht blockieren"
+
+msgid "ROTeamGame.PropsDisplayText[9]"
+msgstr "Zuschauen in Objektansicht erlauben"
+
+msgid "ROTeamGame.PropsDisplayText[11]"
+msgstr "Freie Ansicht nach Tod erlauben"
+
+#, fuzzy
+msgid "ROTeamGame.PropsDisplayText[21]"
+msgstr "Mindestspieleranzahl"
+
+msgid "ROTeamGame.PropsDisplayText[29]"
+msgstr "Zeit zum Rauswurf aufgrund Untätigkeit"
+
+msgid "ROTeamGame.PropsDisplayText[32]"
+msgstr "Geschwärztes HUD beim Tod"
+
+msgid "ROVoicePack.SupportString[7]"
+msgstr "Wir benötigen Panzerunterstützung!"
+
+msgid "ROVoicePack.EnemyString[2]"
+msgstr "Scharfschütze gesichtet!"
+
+msgid "ROVoicePack.EnemyAbbrev[3]"
+msgstr "Sturmpionier"
+
+msgid "ROVoicePack.OrderAbbrev[1]"
+msgstr "Verteidigen..."
