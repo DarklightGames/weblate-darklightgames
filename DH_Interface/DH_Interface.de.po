@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-06 09:50+0000\n"
-"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"PO-Revision-Date: 2025-07-19 18:42+0000\n"
+"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/de/>\n"
 "Language: de\n"
@@ -544,3 +544,39 @@ msgstr "Übungsgefecht starten"
 
 msgid "DHGetDataMenu.OkButton.Caption"
 msgstr "OK"
+
+msgid "DHContextMenu_SquadMembers.AdminPrefixText"
+msgstr "ADMINISTRATOR:"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<10>"
+msgstr "{1} Fallschirmabwurf {0} zur Markierung"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<9>"
+msgstr "{1} Fallschirmabwurf {0} zum Gruppenführer"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<12>"
+msgstr "{1} FALLSCHIRMABWURF GRUPPE zur Markierung"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<11>"
+msgstr "{1} Fallschirmabwurf GRUPPE zum Gruppenführer"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<14>"
+msgstr "{1} Befördert {0} zum Gruppenführer"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<15>"
+msgstr "{1} entfernt {0} aus der Gruppe"
+
+msgid "DHCreditsPage.ProgrammersText"
+msgstr "Programmierer"
+
+msgid "DHCreditsPage.AnimatorsText"
+msgstr "Animators"
+
+msgid "DHCreditsPage.ModelersText"
+msgstr "Modellierer"
+
+msgid "DHCreditsPage.ProjectLeadsText"
+msgstr "Projektverantwortliche"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<13>"
+msgstr "{1} Fallschirmabwurf nicht-zugeordnete Spieler zur Markierung"
