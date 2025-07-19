@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 09:32+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-19 04:22+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/uk/>\n"
 "Language: uk\n"
@@ -337,9 +337,8 @@ msgstr "MP-41"
 msgid "DH_Breda30Weapon.ItemName"
 msgstr "Бреда мод. 30"
 
-#, fuzzy
 msgid "DH_CarcanoM91Weapon.ItemName"
-msgstr "Каркано мод. 91"
+msgstr "Гвинтівка Каркано мод. 91"
 
 msgid "DH_LtypeGrenadeWeapon.ItemName"
 msgstr "Протитанкова раната O.T.O Tipo L"
@@ -471,3 +470,12 @@ msgstr "ZB vz.30 Kulomet"
 
 msgid "DH_MP3008Weapon.NativeItemName"
 msgstr "Maschinenpistole 3008"
+
+msgid "DH_CarcanoM9138CarbineWeapon.ItemName"
+msgstr "Карабін Каркано мод. 91/38"
+
+msgid "DH_CarcanoM9138ShortRifleWeapon.ItemName"
+msgstr "Коротка гвинтівка Каркано мод. 91/38"
+
+msgid "DH_CarcanoM9138TSCarbineWeapon.ItemName"
+msgstr "Карабін Каркано «ТС» мод. 91/38"
