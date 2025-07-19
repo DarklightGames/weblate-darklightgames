@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 09:32+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-19 04:22+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
 "Language: uk\n"
@@ -598,11 +598,10 @@ msgstr "Меню наказів загону"
 msgid "DHTab_DetailSettings.DetailDecoLayers.Caption"
 msgstr "Деталізація місцевості"
 
-#, fuzzy
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
 msgstr ""
-"Підтримує рівень FPS на максимально високому рівні, автоматично регулюючи "
-"відстань туману залежно від його показника"
+"Підтримує рівень продуктивності на максимально високому рівні, автоматично "
+"регулюючи відстань туману залежно від його показника"
 
 msgid "DHTab_Controls.ControlProfilesComboBox.Caption"
 msgstr "Профілі керування"
@@ -621,11 +620,10 @@ msgstr ""
 "рахунок затримки вводу (налаштування відеокарти можуть перевизначати деякі "
 "графічні параметри, такі як це)"
 
-#, fuzzy
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
 msgstr ""
-"Використовується функцією 'Динамічна дистанція туману', щоб визначити, коли "
-"починати зменшувати його відстань"
+"Використовується функцією 'Динамічна дистанція туману' та визначає коли "
+"починати зменшувати дальність туману для покращення продуктивності"
 
 msgid "DHCommunicationPage.Panels<0>.Caption.Hint"
 msgstr "Керуйте спілкуванням з іншими гравцями"
@@ -1231,9 +1229,8 @@ msgstr "Деталізація миру"
 msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
 msgstr "Дистанція туману"
 
-#, fuzzy
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
-msgstr "Динамічна дистанція туману (рекомендовано)"
+msgstr "Динамічна дистанція туману"
 
 msgid "DHTab_DetailSettings.GammaSlider.Caption"
 msgstr "Гамма"
@@ -1247,9 +1244,8 @@ msgstr "HDR Освітлення"
 msgid "DHTab_DetailSettings.MeshLOD.Caption"
 msgstr "Динамічна ступінь деталізації LOD"
 
-#, fuzzy
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
-msgstr "Мінімальний бажаний рівень FPS"
+msgstr "Поріг динамічного туману (кадрів/c)"
 
 msgid "DHTab_DetailSettings.MotionBlur.Caption"
 msgstr "Ефект розмиття"
@@ -1667,9 +1663,8 @@ msgstr "Швидкість мережі (байт в секунду)"
 msgid "DHTab_GameSettings.NoGore.Caption"
 msgstr "Вимкнути кров"
 
-#, fuzzy
 msgid "DHTab_GameSettings.NoGore.Hint"
-msgstr "Рекомендується зняти цей прапорець"
+msgstr "Відключає розчленування, обезголовлення та ефекти крові"
 
 msgid "DHTab_GameSettings.PlayerName.Caption"
 msgstr "Ім'я гравця"
@@ -1978,3 +1973,6 @@ msgstr "У вас немає достатніх прав адміністрат�
 
 msgid "DHMapVoteMultiColumnListBox.AdminMapContextMenu.ContextItems<0>"
 msgstr "Адмін: Примусово змінити мапу"
+
+msgid "DHSituationMapGUIPage.EnableMouseControlPrompt"
+msgstr "Натисніть [%JUMP%], щоб активувати мишу"
