@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 09:32+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-19 04:22+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
 "Language: uk\n"
@@ -831,7 +831,6 @@ msgstr ""
 "Відродження буде доступне через {s} секунд (використуйте цей час для "
 "організації загонів та плану дій)"
 
-#, fuzzy
 msgid "DHHintManager.Hints[50].Text"
 msgstr ""
 "Відкрийте мапу для координації вогню. Натисніть [ПРАВУ КНОПКУ МИШІ] на "
