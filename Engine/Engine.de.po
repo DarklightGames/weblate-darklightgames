@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 18:15+0000\n"
+"PO-Revision-Date: 2025-07-19 18:42+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/de/>\n"
@@ -22,3 +22,135 @@ msgstr "Fehler beim öffnen der Datei"
 
 msgid "Errors.NetWrite"
 msgstr "Fehler beim schreiben der Datei"
+
+msgid "KeyNames.JoySlider2"
+msgstr "JOYSLIDER 2"
+
+msgid "KeyNames.MouseWheelUp"
+msgstr "MAUSRAD HOCH"
+
+msgid "KeyNames.MouseWheelDown"
+msgstr "MAUSRAD RUNTER"
+
+msgid "KeyNames.Up"
+msgstr "HOCH"
+
+msgid "KeyNames.Right"
+msgstr "RECHTS"
+
+msgid "KeyNames.Left"
+msgstr "LINKS"
+
+msgid "Errors.NetSize"
+msgstr "Dateigröße nicht übereinstimmend"
+
+msgid "Errors.NetMove"
+msgstr "Fehler beim verschieben der Datei"
+
+msgid "Errors.NetInvalid"
+msgstr "Ungültige Dateiabfrage erhalten"
+
+msgid "Errors.NoDownload"
+msgstr "Paket '%s' kann nicht heruntergeladen werden"
+
+msgid "Errors.DownloadFailed"
+msgstr "Herunterladen des Pakets '%s' fehlgeschlagen: %s"
+
+msgid "Errors.ConnectionFailed"
+msgstr "Verbindung fehlgeschlagen"
+
+msgid "Errors.ChAllocate"
+msgstr "Konnte keinen Kanal zuweisen"
+
+msgid "Errors.NetAlready"
+msgstr "Verbindet bereits"
+
+msgid "Errors.LoadEntry"
+msgstr "Konnte Eintrag nicht laden: %s"
+
+msgid "Errors.InvalidUrl"
+msgstr "Ungültige URL: %s"
+
+msgid "Errors.InvalidLink"
+msgstr "Ungültiger Link: %s"
+
+msgid "Errors.FailedBrowse"
+msgstr "Eintrag zu %s fehlgeschlagen: %s"
+
+msgid "Errors.Listen"
+msgstr "Auflistung fehlgeschlagen: %s"
+
+msgid "Errors.ServerOpen"
+msgstr "Server können Netzwerk URLs nicht öffnen"
+
+msgid "Errors.ServerListen"
+msgstr "Dedizierter Server kann nicht auflisten: %s"
+
+msgid "Errors.Pending"
+msgstr "Ausstehende Verbindung zu '%s' fehlgeschlagen; %s"
+
+msgid "Errors.ServerOutdated"
+msgstr "Serverversion ist veraltet"
+
+msgid "Errors.ClientOutdated"
+msgstr "Es müssen die letzten Patches verwendet werden"
+
+msgid "Errors.ConnectLost"
+msgstr "Verbindung verloren"
+
+msgid "Errors.DemoFileMissing"
+msgstr "Fehlendes Paket '%s' für Demowiedergabe"
+
+msgid "KeyNames.LeftMouse"
+msgstr "LINKE MAUSTASTE"
+
+msgid "KeyNames.RightMouse"
+msgstr "RECHTE MAUSTASTE"
+
+msgid "KeyNames.MiddleMouse"
+msgstr "MITTLERE MAUSTASTE"
+
+msgid "KeyNames.MouseX"
+msgstr "MAUS X"
+
+msgid "KeyNames.MouseY"
+msgstr "MAUS Y"
+
+msgid "KeyNames.MouseZ"
+msgstr "MAUS Z"
+
+msgid "KeyNames.MouseW"
+msgstr "MAUS W"
+
+msgid "KeyNames.JoyX"
+msgstr "JOY X"
+
+msgid "KeyNames.JoyY"
+msgstr "JOY Y"
+
+msgid "KeyNames.JoyZ"
+msgstr "JOY Z"
+
+msgid "KeyNames.JoyU"
+msgstr "JOY U"
+
+msgid "KeyNames.JoyV"
+msgstr "JOY V"
+
+msgid "KeyNames.JoySlider1"
+msgstr "JOYSLIDER 1"
+
+msgid "Errors.LoadPlayerClass"
+msgstr "Laden der Spielerklasse fehlgeschlagen"
+
+msgid "Errors.DownloadNotAllowed"
+msgstr "Herunterladen von '%s' nicht erlaubt"
+
+msgid "KeyNames.Down"
+msgstr "RUNTER"
+
+msgid "Errors.RequestDenied"
+msgstr "Server forderte Datei vom bevorstehenden Level an: Verweigert"
+
+msgid "Errors.AbortToEntry"
+msgstr "Fehlgeschlagen; kehre zu Eintrag zurück"
