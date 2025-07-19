@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-08 01:15+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
+"PO-Revision-Date: 2025-07-19 18:42+0000\n"
+"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_sovietplayers/de/>\n"
 "Language: de\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgid "DHNation_Czechoslovakia.NationName"
 msgstr "Tschechoslowakei"
@@ -36,3 +36,18 @@ msgstr "Gruppenführer"
 #, fuzzy
 msgid "DHSOVSergeantRoles.PluralName"
 msgstr "Gruppenführer"
+
+msgid "DHSOVEngineerRoles.AltName"
+msgstr "Saper"
+
+msgid "DHSOVMachineGunnerRoles.AltName"
+msgstr "Pulemetchik"
+
+msgid "DH_SovietMadManRoles.MyName"
+msgstr "Geisteskranker"
+
+msgid "DH_SovietMadManRoles.AltName"
+msgstr "Geisteskranker"
+
+msgid "DH_SovietMadManRoles.PluralName"
+msgstr "Geisteskranke"
