@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 23:21+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-19 18:42+0000\n"
+"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/de/>\n"
 "Language: de\n"
@@ -496,3 +496,37 @@ msgstr "An dieser Stelle lässt sich kein {name} {verb}."
 #, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<6>"
 msgstr "Nicht ausreichend Platz an dieser Stelle um {name} zu {verb}."
+
+msgid "DHAdminMessage.DestroyedSpawnMessage"
+msgstr ""
+"Administrator '{0}' hat einen adminplatzierten Spawnpunkt für Team {1} "
+"zerstört."
+
+msgid "DHAdminMessage.PlacedSpawnMessage"
+msgstr "Administrator '{0}' hat einen Spawnpunkt für Team {1} platziert."
+
+msgid "DHAdminMessage.DestroyedAllSpawnsMessage"
+msgstr ""
+"Administrator '{0}' hat alle adminplatzierten Spawnpunkte für Team {1} "
+"zerstört."
+
+msgid "DHAdminMessage.AxisTeamNameGenitive"
+msgstr "Achsenmächte"
+
+msgid "DHATGunTouchMessage.Controls<0>.Text"
+msgstr "Enter"
+
+msgid "DHATGunTouchMessage.Controls<1>.Text"
+msgstr "Rotieren"
+
+msgid "DHAdminMessage.AdminTeleportedMessage"
+msgstr "Administrator '{0}' hat teleportiert."
+
+msgid "DHAdminMessage.AlliedTeamNameGenitive"
+msgstr "Alliierten"
+
+msgid "DHAdminMessage.AdminLoggedOutMessage"
+msgstr "{0} hat die Administratorrechte aufgegeben."
+
+msgid "DHAdminMessage.AdminLoggedInMessage"
+msgstr "{0} hat sich als Server Administrator eingeloggt."
