@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-07 21:43+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-19 18:42+0000\n"
+"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/de/>\n"
 "Language: de\n"
@@ -102,9 +102,8 @@ msgstr "Bren Mk.II"
 msgid "DH_C96Weapon.ItemName"
 msgstr "Mauser C96"
 
-#, fuzzy
 msgid "DH_FG42ScopedWeapon.ItemName"
-msgstr "Fallschirmjägergewehr 42 (ZFG42)"
+msgstr "FG 42 (ZFG42)"
 
 msgid "DH_FG42Weapon.ItemName"
 msgstr "FG 42"
@@ -130,7 +129,6 @@ msgstr "Gerät Potsdam"
 msgid "DH_GreaseGunWeapon.ItemName"
 msgstr "M3 Grease Gun"
 
-#, fuzzy
 msgid "DH_Kar98NoCoverWeapon.ItemName"
 msgstr "Kar 98k (Ohne Kornschutzbügel)"
 
@@ -155,11 +153,9 @@ msgstr "Kz 8cm GrW 42 Mörser"
 msgid "DH_M1924Weapon.ItemName"
 msgstr "M1924 Gewehr"
 
-#, fuzzy
 msgid "DH_M1928_20rndWeapon.ItemName"
 msgstr "M1928A1 Thompson (20Patr.)"
 
-#, fuzzy
 msgid "DH_M1928_30rndWeapon.ItemName"
 msgstr "M1928A1 Thompson (30Patr.)"
 
@@ -175,7 +171,6 @@ msgstr "M1 Garand"
 msgid "DH_M1GrenadeWeapon.ItemName"
 msgstr "Mk II Handgranate"
 
-#, fuzzy
 msgid "DH_M1T17CarbineWeapon.ItemName"
 msgstr "M1/T17 Automatik Karabiner"
 
@@ -200,9 +195,8 @@ msgstr "Mannlicher M95/30"
 msgid "DH_M9531Weapon.ItemName"
 msgstr "31.M Gewehr"
 
-#, fuzzy
 msgid "DH_MAB38Weapon.ItemName"
-msgstr "MAB 38"
+msgstr "MAB mod. 38-A"
 
 msgid "DH_MG34Weapon.ItemName"
 msgstr "MG 34"
@@ -273,7 +267,6 @@ msgstr "PTRD-41 Panzerbüchse"
 msgid "DH_PanzerFaustWeapon.ItemName"
 msgstr "Panzerfaust 60"
 
-#, fuzzy
 msgid "DH_PanzerschreckWeapon.ItemName"
 msgstr "RPzB 54 'Panzerschreck'"
 
@@ -329,10 +322,157 @@ msgid "DH_ViSWeapon.ItemName"
 msgstr "ViS wz.35"
 
 msgid "DH_Vz24ScopedWeapon.ItemName"
-msgstr "Vz.24 Rifle (IOR)"
+msgstr "Vz.24 Gewehr (IOR)"
 
 msgid "DH_Vz24Weapon.ItemName"
-msgstr "Vz.24 Rifle"
+msgstr "Vz.24 Gewehr"
 
 msgid "DH_ZB30Weapon.ItemName"
 msgstr "ZB-30 Maschinengewehr"
+
+msgid "DH_BerettaM1934Weapon.ItemName"
+msgstr "Beretta mod. 34"
+
+msgid "DH_Breda30Weapon.ItemName"
+msgstr "Breda mod. 30"
+
+msgid "DH_CarcanoM91Weapon.ItemName"
+msgstr "Carcano Fucile mod. 91"
+
+msgid "DH_LtypeGrenadeWeapon.ItemName"
+msgstr "O.T.O Tipo L Panzerabwehrgranate"
+
+msgid "DH_Wz35Weapon.ItemName"
+msgstr "Fucile Controcarro 35(P)"
+
+msgid "DH_F1GrenadeWeapon.NativeItemName"
+msgstr "F1 Granata"
+
+msgid "DH_SRCMMod35GrenadeWeapon.ItemName"
+msgstr "SRCM mod. 35 Granate"
+
+msgid "DH_CarcanoM9138TSCarbineWeapon.ItemName"
+msgstr "Carcano Moschetto TS mod. 91/38"
+
+msgid "DH_FG42ScopedWeapon.NativeItemName"
+msgstr "Fallschirmjägergewehr 42 (ZFG42)"
+
+msgid "DH_FG42Weapon.NativeItemName"
+msgstr "Fallschirmjägergewehr 42"
+
+msgid "DH_G41Weapon.NativeItemName"
+msgstr "Gewehr 41(W)"
+
+msgid "DH_G43ScopedWeapon.NativeItemName"
+msgstr "Gewehr 43 (ZF4)"
+
+msgid "DH_G43Weapon.NativeItemName"
+msgstr "Gewehr 43"
+
+msgid "DH_G98Weapon.NativeItemName"
+msgstr "Gewehr 98"
+
+msgid "DH_Kar98ScopedWeapon.NativeItemName"
+msgstr "Karabiner 98k (ZF39)"
+
+msgid "DH_Kar98Weapon.NativeItemName"
+msgstr "Karabiner 98k"
+
+msgid "DH_M1924Weapon.NativeItemName"
+msgstr "M1924 Puska"
+
+msgid "DH_M34GrenadeWeapon.NativeItemName"
+msgstr "OUG vz.34 Rucni Granat"
+
+msgid "DH_M9530Weapon.NativeItemName"
+msgstr "Gewehr M95/30"
+
+msgid "DH_M9531Weapon.NativeItemName"
+msgstr "31.M Puska"
+
+msgid "DH_MAB42Weapon.NativeItemName"
+msgstr "Moschetto Automatico Beretta M1938A/42"
+
+msgid "DH_MAB42Weapon.ItemName"
+msgstr "MAB mod. 38-A/42"
+
+msgid "DH_MG34Weapon.NativeItemName"
+msgstr "Maschinengewehr 34"
+
+msgid "DH_MKB42HWeapon.NativeItemName"
+msgstr "Maschinenkarabiner 42(H)"
+
+msgid "DH_MP3008Weapon.NativeItemName"
+msgstr "Maschinenpistole 3008"
+
+msgid "DH_MP38Weapon.NativeItemName"
+msgstr "Maschinenpistole 38"
+
+msgid "DH_MP40Weapon.NativeItemName"
+msgstr "Maschinenpistole 40"
+
+msgid "DH_MP41RWeapon.NativeItemName"
+msgstr "Maschinenpistole 41(r)"
+
+msgid "DH_MP41Weapon.NativeItemName"
+msgstr "Maschinenpistole 41"
+
+msgid "DH_PTRDWeapon.NativeItemName"
+msgstr "PTRD-41"
+
+msgid "DH_PanzerFaustWeapon.NativeItemName"
+msgstr "Panzerfaust 60"
+
+msgid "DH_PanzerschreckWeapon.NativeItemName"
+msgstr "Raketenpanzerbüchse 54 'Panzerschreck'"
+
+msgid "DH_RPG43GrenadeWeapon.NativeItemName"
+msgstr "RPG-43"
+
+msgid "DH_SRCMMod35SmokeGrenadeWeapon.ItemName"
+msgstr "SRCM mod. 35 Nebelhandgranate"
+
+msgid "DH_STG44ScopedWeapon.NativeItemName"
+msgstr "Sturmgewehr 44 (ZF4)"
+
+msgid "DH_STG44Weapon.NativeItemName"
+msgstr "Sturmgewehr 44"
+
+msgid "DH_StielGranateWeapon.NativeItemName"
+msgstr "Stielhandgranate 24"
+
+msgid "DH_VG15Weapon.NativeItemName"
+msgstr "Volkssturmgewehr 1-5"
+
+msgid "DH_VK98Weapon.NativeItemName"
+msgstr "Volkssturmkarabiner 98"
+
+msgid "DH_Vz24ScopedWeapon.NativeItemName"
+msgstr "ZB vz.24 Puska (IOR)"
+
+msgid "DH_Vz24Weapon.NativeItemName"
+msgstr "ZB vz.24 Puska"
+
+msgid "DH_WitchEnder666Weapon.ItemName"
+msgstr "Hexenjäger 666 'Satans Fluch'"
+
+msgid "DH_ZB30Weapon.NativeItemName"
+msgstr "ZB vz.30 Kulomet"
+
+msgid "DH_CarcanoM9138ShortRifleWeapon.ItemName"
+msgstr "Carcano Fucile Corto mod. 91/38"
+
+msgid "DH_MAB38Weapon.NativeItemName"
+msgstr "Moschetto Automatico Beretta M1938A"
+
+msgid "DH_MG42Weapon.NativeItemName"
+msgstr "Maschinengewehr 42"
+
+msgid "DH_CarcanoM9138CarbineWeapon.ItemName"
+msgstr "Carcano Moschetto mod. 91/38"
+
+msgid "DH_Kar98NoCoverWeapon.NativeItemName"
+msgstr "Karabiner 98k (ohne Kornschutzbügel)"
+
+msgid "DH_Kz8cmGrW42Weapon.NativeItemName"
+msgstr "Kurz 8cm Granatwerfer 42"
