@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 18:15+0000\n"
+"PO-Revision-Date: 2025-07-19 18:42+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/de/>\n"
@@ -27,11 +27,9 @@ msgstr "Kriechend kann nicht gegraben werden."
 msgid "DHWireCuttersItem.ItemName"
 msgstr "Drahtschere"
 
-#, fuzzy
 msgid "DH_NebelGranate39Weapon.ItemName"
-msgstr "Nebelgranate NB 39"
+msgstr "Nebelhandgranate NB 39"
 
-#, fuzzy
 msgid "DH_OrangeSmokeWeapon.ItemName"
 msgstr "Rauch-Sichtzeichen Orange 160 Signalgranate"
 
@@ -39,19 +37,16 @@ msgid "DH_ParachuteItem.ItemName"
 msgstr "Fallschirm"
 
 msgid "DHTrenchMaceItem.ItemName"
-msgstr "Grabenkeule"
+msgstr "Grabenknüppel"
 
-#, fuzzy
 msgid "DH_RDG1SmokeGrenadeWeapon.ItemName"
-msgstr "Nebelgranate RDG-1"
+msgstr "Nebelhandgranate RDG-1"
 
-#, fuzzy
 msgid "DH_RedSmokeWeapon.ItemName"
 msgstr "Signalgranate M16"
 
-#, fuzzy
 msgid "DH_USSmokeGrenadeWeapon.ItemName"
-msgstr "Nebelgranate M8"
+msgstr "Nebelhandgranate M8"
 
 msgid "DHBinocularsItemAllied.ItemName"
 msgstr "M13 Fernglas 6x30"
@@ -60,16 +55,40 @@ msgid "DHShovelItem.ItemName"
 msgstr "Feldspaten"
 
 msgid "DHBinocularsItem.ItemName"
-msgstr "Feldstecher"
+msgstr "Fernglas"
 
-#, fuzzy
 msgid "DHShovelWarningMessage.NeedMoreFriendliesToBuildMessage"
-msgstr ""
-"Du benötigst ein weiteres Gruppenmitglied in der Nähe um mit deiner Schaufel "
-"zu bauen."
+msgstr "Du benötigst ein weiteres Gruppenmitglied in der Nähe um zu bauen."
 
 msgid "DHTrenchMaceItem_Bone.ItemName"
 msgstr "Knochenkeule"
 
 msgid "DHBinocularsItemItalian.ItemName"
 msgstr "Fratelli Koristka 7x50"
+
+msgid "DH_ParachuteStaticLine.ItemName"
+msgstr "Reißleine"
+
+msgid "DHBrokenBottleItem.ItemName"
+msgstr "Vino Rosso 'Bass-net' 2009 Vintage"
+
+msgid "DHShovelItem_Italian.NativeItemName"
+msgstr "Pala Vanghetta"
+
+msgid "DHShovelItem_Russian.NativeItemName"
+msgstr "MPL-50"
+
+msgid "DH_NebelGranate39Weapon.NativeItemName"
+msgstr "Nebelhandgranate 39"
+
+msgid "DH_OrangeSmokeWeapon.NativeItemName"
+msgstr "Rauch-Sichtzeichen Orange 160"
+
+msgid "DH_RDG1SmokeGrenadeWeapon.NativeItemName"
+msgstr "RDG-1"
+
+msgid "DHShovelItem_German.NativeItemName"
+msgstr "Feldspaten"
+
+msgid "DHTrenchMaceItem_Grenade.ItemName"
+msgstr "Grabenkeule"
