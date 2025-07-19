@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 09:32+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-19 04:22+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/uk/>\n"
 "Language: uk\n"
@@ -346,9 +346,8 @@ msgstr "Осколково-фугасний (HE-T)"
 msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions<2>"
 msgstr "Підкаліберний (APCR-T)"
 
-#, fuzzy
 msgid "DH_Sdkfz2341ArmoredCar.VehicleNameString"
-msgstr "Бронеавтомобіль Sd.Kfz.234/1"
+msgstr "Бронеавтомобіль Sd.Kfz. 234/1"
 
 msgid "DH_ShermanCannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
@@ -404,13 +403,11 @@ msgstr "Осколково-фугасний (HE)"
 msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions<2>"
 msgstr "Підкаліберний (HVAP)"
 
-#, fuzzy
 msgid "DH_Sdkfz2342ArmoredCar.VehicleNameString"
-msgstr "Бронеавтомобіль Sd.Kfz.234/2"
+msgstr "Бронеавтомобіль Sd.Kfz. 234/2"
 
-#, fuzzy
 msgid "DH_Sdkfz251Transport.VehicleNameString"
-msgstr "Бронетранспортер Sd.Kfz.251"
+msgstr "Бронетранспортер Sd.Kfz. 251"
 
 msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
@@ -676,13 +673,11 @@ msgstr "Panzer IV Ausf.J"
 msgid "DH_SU76Destroyer.VehicleNameString"
 msgstr "СУ-76М"
 
-#, fuzzy
 msgid "DH_SdKfz2519DTransport.VehicleNameString"
-msgstr "Sd.Kfz.251/9 Ausf.D «Штуммель»"
+msgstr "Sd.Kfz. 251/9 Ausf.D «Штуммель»"
 
-#, fuzzy
 msgid "DH_SdKfz251_22Transport.VehicleNameString"
-msgstr "Бронетранспортер Sd.Kfz.251/22"
+msgstr "Бронетранспортер Sd.Kfz. 251/22"
 
 msgid "DH_Sdkfz105Transport.VehicleNameString"
 msgstr "Зенітна САУ Sd.Kfz. 10/5"
@@ -1250,3 +1245,24 @@ msgstr "Вантажівка OM36Mt (Логістика)"
 
 msgid "DH_Semovente4732Destroyer.VehicleNameString"
 msgstr "Semovente L40 da 47/32"
+
+msgid "DH_WespeCannon.ProjectileDescriptions<0>"
+msgstr "Осколково-фугасний (HE)"
+
+msgid "DH_WespeCannon.ProjectileDescriptions<1>"
+msgstr "Дим"
+
+msgid "DH_WespeCannon.ProjectileDescriptions<2>"
+msgstr "Кумулятивний (HEAT)"
+
+msgid "DH_WespeCannon.nProjectileDescriptions<0>"
+msgstr "F.H.Gr."
+
+msgid "DH_WespeCannon.nProjectileDescriptions<1>"
+msgstr "F.H.Gr.Nb."
+
+msgid "DH_WespeCannon.nProjectileDescriptions<2>"
+msgstr "Gr.39 Hl/C"
+
+msgid "DH_WespeTank.VehicleNameString"
+msgstr "Sd.Kfz. 124 «Веспе»"
