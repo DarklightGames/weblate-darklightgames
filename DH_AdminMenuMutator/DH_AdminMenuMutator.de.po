@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 18:15+0000\n"
+"PO-Revision-Date: 2025-07-21 17:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/de/>\n"
@@ -239,10 +239,10 @@ msgid "DHAdminMenu_ErrorMessages.ErrorMessage[22]"
 msgstr "FEHLER: invalide Kartenkoordinaten"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[26]"
-msgstr "Rally-Platzierung wurde bereits deaktiviert"
+msgstr "Sammelpunktplatzierung wurde bereits deaktiviert"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[27]"
-msgstr "Rally-Platzierung ist bereits aktiv"
+msgstr "Sammelpunktplatzierung ist bereits aktiv"
 
 msgid "DHAdminMenu_MenuBase.Label_PageNumber"
 msgstr "Seite %X% von %Y%"
@@ -292,10 +292,10 @@ msgid "DHAdminMenu_NotifyMessages.BroadcastAlliesSquadSizeChanged"
 msgstr "Die Gruppengröße der Allierten wurde vom Administrator geändert"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsDisabled"
-msgstr "Rally-Platzierungen wurden vom Administrator DEAKTIVIERT"
+msgstr "Sammelpunktplatzierungen wurden vom Administrator DEAKTIVIERT"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsEnabled"
-msgstr "Rally-Platzierungen wurden vom Administrator RE-AKTIVIERT"
+msgstr "Sammelpunktplatzierungen wurden vom Administrator RE-AKTIVIERT"
 
 msgid "DHAdminMenu_PrivateMessage.MessageChatPrefix"
 msgstr "ADMINISTRATORNACHRICHT von"
@@ -348,7 +348,7 @@ msgid "DHAdminMenu_RealismMenu.MenuText<20>"
 msgstr "Ändere die Gruppengröße der Achsenmächte"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<21>"
-msgstr "Schalte Rally-Platzierung an/aus"
+msgstr "Schalte Sammelpunktplatzierung an/aus"
 
 msgid "DHAdminMenu_RealismMenu.MenuTitle"
 msgstr "REALISMUS-GEFECHT (ODER TEST-) MENÜ"
@@ -412,13 +412,12 @@ msgstr "Realismus-Gefecht beginnen"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableRallyPoints"
 msgstr ""
-"'enter'-Taste drücken um zu bestätigen, dass die Rally-Platzierung RE-"
+"'enter'-Taste drücken um zu bestätigen, dass die Sammelpunktplatzierung RE-"
 "AKTIVIERT werden soll"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableRallyPoints"
 msgstr ""
-"'enter'-Taste drücken um zu bestätigen, dass die Rally-Platzierung "
+"'enter'-Taste drücken um zu bestätigen, dass die Sammelpunktplatzierung "
 "DEAKTIVIERT werden soll"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconEnabled"
@@ -476,7 +475,7 @@ msgstr ""
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[25]"
 msgstr ""
-"Dieser Spielmodus erlaubt keine Rallies, daher kann diese Option nicht "
+"Dieser Spielmodus erlaubt keine Sammelpunkte, daher kann diese Option nicht "
 "verwendet werden"
 
 msgid "DHAdminMenu_MenuBase.Label_ExitMenu"
