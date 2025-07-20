@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-19 18:42+0000\n"
+"PO-Revision-Date: 2025-07-21 17:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/de/>\n"
@@ -22,7 +22,7 @@ msgid "DHContextMenu_SquadMembers.EntryTexts[1]"
 msgstr "{0} einladen"
 
 msgid "DHDeployMenu.UnlockText"
-msgstr "Öffnen"
+msgstr "Aufschließen"
 
 msgid "DHBrowser_Footer.BrowserBack.Caption"
 msgstr "Zurück"
@@ -43,7 +43,7 @@ msgid "DHDeployMenu.AlliesButtonObject.Hint"
 msgstr "Alliierten beitreten"
 
 msgid "DHDeployMenu.ContinueButtonObject.Caption"
-msgstr "Weiter"
+msgstr "Fortfahren"
 
 msgid "DHDeployMenu.SpawnVehicleImageObject.Hint"
 msgstr "Einstiegfahrzeug"
@@ -136,7 +136,6 @@ msgstr "Keine"
 msgid "DHDeployMenu.SelectRoleText"
 msgstr "Rolle auswählen"
 
-#, fuzzy
 msgid "DHDeployMenu.SelectSpawnPointText"
 msgstr "Einstiegspunkt auswählen"
 
@@ -246,7 +245,6 @@ msgstr "Funk mit anderen Spielern verwalten"
 msgid "DHTab_GameSettings.BayonetSpawn.Caption"
 msgstr "Mit aufgeplanztem Seitengewehr einsteigen"
 
-#, fuzzy
 msgid "DHDeployMenu.ChangeTeamConfirmText"
 msgstr ""
 "Soll das Team wirklich gewechselt werden? (Sie werden für {s} Sekunden nicht "
@@ -266,7 +264,6 @@ msgstr "Aktives Ziel abwählen"
 msgid "DHBrowser_Footer.OnlyStandardCheckBox.Caption"
 msgstr "Nur Standard Server"
 
-#, fuzzy
 msgid "DHDeployMenu.SurrenderResponseMessages<6>"
 msgstr ""
 "Ihr Team hatte bereits eine Abstimmung darüber sich zurückzuziehen. Bitte "
@@ -295,11 +292,10 @@ msgstr "Fortfahren drücken um jetzt einzusteigen!"
 msgid "DHFilterEdit.ckPassworded.Caption"
 msgstr "Keine passwortbeschränkten Server"
 
-#, fuzzy
 msgid "DHGUISquadComponent.NoRallyPointsImage.Hint"
 msgstr ""
-"Diese Gruppe hatte seit einer Weile keine Rallys. Einstiegsmöglichkeiten "
-"könnten begrenzt sein!"
+"Diese Gruppe hatte seit einer Weile keine Sammelpunkte. "
+"Einstiegsmöglichkeiten könnten begrenzt sein!"
 
 msgid "DHButtonFont.FontArrayNames<0>"
 msgstr ""
@@ -308,30 +304,26 @@ msgstr ""
 msgid "DHBrowser_OpenIP.OkButton.Caption"
 msgstr "OK"
 
-#, fuzzy
 msgid "DHDeployMenu.FreeChangeTeamConfirmText"
 msgstr "Soll das Team wirklich gewechselt werden?"
 
-#, fuzzy
 msgid "DHDeployMenu.CantChangeTeamYetText"
 msgstr "Sie müssen {s} warten bevor Sie das Team wechseln können"
 
 msgid "DHDeployMenu.SquadOnlyText"
 msgstr "NUR GRUPPEN"
 
-#, fuzzy
 msgid "DHDeployMenu.DeployInTimeText"
-msgstr "Fortfahren drücken um ({0}) einzusteigen"
+msgstr "Fortfahren drücken um einzusteigen ({0})"
 
 msgid "DHDeployMenu.SquadLeadershipOnlyText"
 msgstr "NUR GRUPPENFÜHRER"
 
 msgid "DHFilterEdit.ComboOpts[2]"
-msgstr "Muss aus sein"
+msgstr "Muss Aus Sein"
 
-#, fuzzy
 msgid "DHFilterEdit.MutOpts[2]"
-msgstr "Individuell"
+msgstr "Benutzerdefiniert"
 
 msgid "DHEditFavoritePage.IpEntryBox.Caption"
 msgstr "IP Addresse: "
@@ -340,7 +332,7 @@ msgid "DHFilterEdit.ComboOpts[0]"
 msgstr "Irrelevant"
 
 msgid "DHFilterEdit.ComboOpts[1]"
-msgstr "Muss an sein"
+msgstr "Muss An Sein"
 
 msgid "DHFilterEdit.WindowName"
 msgstr "Filterregeln ändern..."
@@ -357,9 +349,8 @@ msgstr "OK"
 msgid "DHGUIDynArrayPage.LockedOKButton.Caption"
 msgstr "OK"
 
-#, fuzzy
 msgid "DHGUIMapComponent.SquadRallyPointDestroyText"
-msgstr "Rally zerstören"
+msgstr "Sammelpunkt zerstören"
 
 msgid "DHGUIMapComponent.RemoveText"
 msgstr "{0} entfernen"
@@ -433,17 +424,14 @@ msgstr "{0} bannen"
 msgid "DHContextMenu_SquadMembers.EntryTexts<4>"
 msgstr "{0} zum Gruppenführer befördern"
 
-#, fuzzy
 msgid "DHContextMenu_SquadMembers.EntryTexts<5>"
-msgstr "{0} zum Assistent ernennen"
+msgstr "{0} zum Adjutant ernennen"
 
-#, fuzzy
 msgid "DHContextMenu_SquadMembers.EntryTexts<6>"
-msgstr "{0} als Assistent entbinden"
+msgstr "{0} als Adjutant entbinden"
 
-#, fuzzy
 msgid "DHContextMenu_SquadMembers.EntryTexts<7>"
-msgstr "Freiwillig als Assistent melden"
+msgstr "Freiwillig als Adjutant melden"
 
 #, fuzzy
 msgid "DHContextMenu_SquadMembers.EntryTexts<8>"
@@ -451,7 +439,7 @@ msgstr "Gruppenzusammenführung anfragen"
 
 #, fuzzy
 msgid "DHDeployMenu.UnassignedPlayersCaptionText"
-msgstr "Führungslos"
+msgstr "Nicht-zugewiesen"
 
 msgid "DHDeployMenu.NonSquadLeaderOnlyText"
 msgstr "NICHT FÜR GRUPPENFÜHRER"
@@ -460,18 +448,15 @@ msgstr "NICHT FÜR GRUPPENFÜHRER"
 msgid "DHDeployMenu.SurrenderConfirmBaseText"
 msgstr "Wollen Sie sich wirklich ergeben?"
 
-#, fuzzy
 msgid "DHDeployMenu.SurrenderResponseMessages<0>"
-msgstr "Kritischer Fehler!"
+msgstr "Fataler Fehler!"
 
-#, fuzzy
 msgid "DHDeployMenu.SurrenderResponseMessages<1>"
 msgstr "Sie haben noch kein Team gewählt."
 
 msgid "DHDeployMenu.SurrenderResponseMessages<2>"
 msgstr "Das Gefecht hat noch nicht begonnen."
 
-#, fuzzy
 msgid "DHDeployMenu.SurrenderResponseMessages<3>"
 msgstr "Die Abstimmung sich zurückzuziehen wurde deaktiviert."
 
@@ -481,17 +466,14 @@ msgstr "Es läuft bereits eine Abstimmung."
 msgid "DHDeployMenu.SurrenderResponseMessages<5>"
 msgstr "Sie haben sich bereits zurückgezogen."
 
-#, fuzzy
 msgid "DHDeployMenu.SurrenderResponseMessages<7>"
 msgstr "Sie können sich nicht zurückziehen wenn das Gefecht vorüber ist."
 
-#, fuzzy
 msgid "DHDeployMenu.SurrenderResponseMessages<9>"
 msgstr "Sie können sich noch nicht zurückziehen."
 
-#, fuzzy
 msgid "DHDeployMenu.SurrenderResponseMessages<10>"
-msgstr "Sie können sich in der Aufmaschphase nicht zurückziehen."
+msgstr "Sie können sich in der Aufmarschphase nicht zurückziehen."
 
 msgid "DHFilterEdit.ckEmpty.Caption"
 msgstr "Keine leeren Server"
@@ -580,3 +562,74 @@ msgstr "Projektverantwortliche"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<13>"
 msgstr "{1} Fallschirmabwurf nicht-zugeordnete Spieler zur Markierung"
+
+msgid "DHDeployMenu.BotsText"
+msgstr "BOTS"
+
+msgid "DHDeployMenu.RecommendJoiningSquadText"
+msgstr ""
+"Es ist EMPFEHLENSWERT vor dem Einsatz einer GRUPPE BEIZUTRETEN! Einer Gruppe "
+"beizutreten ermöglicht die Auswahl zusätzlicher Rollen und einen frontnahen "
+"Einsatz.||Soll automatisch eine Gruppe zugewiesen werden?"
+
+msgid "DHFilterEdit.MutOpts[0]"
+msgstr "Keine Mutatoren"
+
+msgid "DHFilterEdit.MutOpts[1]"
+msgstr "Beliebige Mutatoren"
+
+msgid "DHFilterEdit.cbMutators.Caption"
+msgstr "Mutatoren:"
+
+msgid "DHFilterEdit.cbStats.Caption"
+msgstr "Statistikserver:"
+
+msgid "DHDeployMenu.RoleLockedText"
+msgstr "GESPERRT"
+
+msgid "DHFilterEdit.sbMutators.Caption"
+msgstr "Benutzerdefinierte Mutator Konfiguration"
+
+msgid "DHCreditsPage.ArtistsText"
+msgstr "Künstler"
+
+msgid "DHCreditsPage.LevelDesignersText"
+msgstr "Level Designer"
+
+msgid "DHCreditsPage.SoundArtistsText"
+msgstr "Sound Artists"
+
+msgid "DHCreditsPage.CommunityAdminsText"
+msgstr "Community Admins"
+
+msgid "DHCreditsPage.OtherContributorsText"
+msgstr "Weitere Beitragende"
+
+msgid "DHCreditsPage.SpecialThanksText"
+msgstr "Besonderer Dank"
+
+msgid "DHCreditsPage.PastPatreonSupportersText"
+msgstr "Bisherige Patreon Unterstützer"
+
+msgid "DHCreditsPage.TextureArtistsText"
+msgstr "Texture Artists"
+
+msgid "DHCreditsPage.LocalizationTeamText"
+msgstr "Lokalisierungs Team"
+
+msgid "DHCreditsPage.VoiceActorsText"
+msgstr "Synchronsprecher"
+
+msgid "DHDeployMenu.SurrenderConfirmNominationText"
+msgstr ""
+"Mit dieser Aktion wird eine teamweite Abstimmung vorgeschlagen. Die "
+"Abstimmung beginnt, nachdem {0}% des Teams den Rückzug gewählt haben."
+
+msgid "DHGUIMapComponent.SquadRallyPointSetAsSecondaryText"
+msgstr "Als Sekundär setzen"
+
+msgid "DHTab_Controls.captions_game[8]"
+msgstr "Sammelpunkt platzieren"
+
+msgid "DHTab_Hud.ShowRallyPoint.Caption"
+msgstr "Zeige Status des Gruppensammelpunkts"
