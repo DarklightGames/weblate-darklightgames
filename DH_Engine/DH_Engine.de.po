@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-19 18:42+0000\n"
+"PO-Revision-Date: 2025-07-21 17:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/de/>\n"
@@ -467,11 +467,10 @@ msgstr ""
 "Es können derzeit noch keine weiteren Artilleriezielkoordinaten markiert "
 "werden."
 
-#, fuzzy
 msgid "DHChatRoomMessage.CannotJoinCommandChannelText"
 msgstr ""
 "Konnte Funkkanal`%title%` nicht beitreten. Sie müssen Gruppenführer oder "
-"Assistent sein und die Gruppe muss aus mindestens 2 Personen bestehen."
+"Adjutant sein und die Gruppe muss aus mindestens 2 Personen bestehen."
 
 #, fuzzy
 msgid "DHCommunicationMessage.AllChatDisabledMessage"
@@ -530,3 +529,261 @@ msgstr "{0} hat die Administratorrechte aufgegeben."
 
 msgid "DHAdminMessage.AdminLoggedInMessage"
 msgstr "{0} hat sich als Server Administrator eingeloggt."
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<0>.Text"
+msgstr "Annehmen"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<1>.Text"
+msgstr "Ablehnen"
+
+msgid "DHSquadInviteInteraction.Options<0>.Text"
+msgstr "Annehmen"
+
+msgid "DHSquadMessage.RallyPointInMinefield"
+msgstr "In einem Minenfeld kann kein Gruppensammelpunkt gesetzt werden."
+
+msgid "DHSquadMessage.RallyPointInWater"
+msgstr "Im Wasser kann kein Gruppensammelpunkt gesetzt werden."
+
+msgid "DHSquadMessage.RallyPointNotOnFoot"
+msgstr "Um einen Sammelpunkt zu errichten, musst du dich zu Fuß befinden."
+
+msgid "DHSquadMessage.RallyPointTooSoon"
+msgstr ""
+"Du musst {0} Sekunden warten bis deine Gruppe einen Sammelpunkt errichten "
+"kann."
+
+msgid "DHSquadMessage.NoVolunteersDisbanded"
+msgstr ""
+"Deine Gruppe wurde aufgelöst, da die Gruppengröße zu klein ist und sich "
+"keine Mitglieder freiwillig als Gruppenführer gemeldet haben."
+
+msgid "DHSquadMessage.AutoJoinFailed"
+msgstr "Es gibt keine Gruppen die geeignet zum Beitritt sind."
+
+msgid "DHSquadMessage.RallyPointAbandoned"
+msgstr ""
+"Ein Gruppensammelpunkt konnte nicht errichtet werden, da er zurückgelassen "
+"wurde."
+
+msgid "DHLocalMessage.SquadAssistantID"
+msgstr "A"
+
+msgid "DHPlayerReplicationInfo.AssistantAbbreviation"
+msgstr "A"
+
+msgid "DHSquadInviteInteraction.Options<2>.Text"
+msgstr "Alle ignorieren"
+
+msgid "DHSquadLeaderSayDeadMessage.MessagePrefix"
+msgstr "(GEFALLEN) [GRUPPENFÜHRER]"
+
+msgid "DHSquadLeaderVolunteerInteraction.PromptText"
+msgstr ""
+"Deine Gruppe benötigt einen Führer! Freiwillig als Gruppenführer melden? "
+"({time})"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<0>.Text"
+msgstr "Freiwillig melden"
+
+msgid "DHSquadLeaderSayMessage.MessagePrefix"
+msgstr "[GRUPPENFÜHRER]"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<1>.Text"
+msgstr "Ablehnen"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<2>.Text"
+msgstr "Alle ignorieren"
+
+msgid "DHSquadMergeRequestInteraction.Options<0>.Text"
+msgstr "Annehmen"
+
+msgid "DHSquadMergeRequestInteraction.Options<1>.Text"
+msgstr "Ablehnen"
+
+msgid "DHSquadMessage.JoinedMessage"
+msgstr "{0} ist der Gruppe beigetreten."
+
+msgid "DHSquadMergeRequestInteraction.PromptText"
+msgstr "{0} hat angeboten, die Gruppe mit {1} zusammenzuführen."
+
+msgid "DHSquadMessage.NoLongerLeaderMessage"
+msgstr "Du bist nicht länger Gruppenführer."
+
+msgid "DHSquadMessage.YouAreNowLeaderMessage"
+msgstr "Du bist nun Gruppenführer."
+
+msgid "DHSquadMessage.NewLeaderMessage"
+msgstr "{0} ist nun Gruppenführer."
+
+msgid "DHSquadMessage.InviteAlreadyInSquadMessage"
+msgstr "{0} befindet sich bereits in einer Gruppe."
+
+msgid "DHSquadMergeRequestInteraction.Options<2>.Text"
+msgstr "Alle ignorieren"
+
+msgid "DHSquadMessage.LeftMessage"
+msgstr "{0} hat die Gruppe verlassen."
+
+msgid "DHSquadMessage.KickedMessage"
+msgstr "Du wurdest aus der Gruppe geworfen."
+
+msgid "DHSquadMessage.NoLeaderMessage"
+msgstr "Der Gruppenführer hat die Gruppe verlassen."
+
+msgid "DHSquadMessage.NewAssistantMessage"
+msgstr "{0} wurde zum Adjutant des Gruppenführers befördert."
+
+msgid "DHSquadMessage.RallyPointBadLocation"
+msgstr "An diesem Standort kann kein Gruppensammelpunkt gesetzt werden."
+
+msgid "DHArtillerySpottingScope.SquadText"
+msgstr "Gruppe"
+
+msgid "DHArtillerySpottingScope.MeasurementToolText"
+msgstr "Entfernungsmesser"
+
+msgid "DHArtillerySpottingScope.SelectedTargetText"
+msgstr "Ausgewähltes Ziel"
+
+msgid "DHHud.PlaceRallyPointText"
+msgstr "Drücke [%PLACERALLYPOINT%]"
+
+msgid "DHArtillerySpottingScope.RightString"
+msgstr "Rechts"
+
+msgid "DHArtillerySpottingScope.CorrectionString"
+msgstr "Korrektur"
+
+msgid "DHArtillerySpottingScope.DistanceString"
+msgstr "Entfernung"
+
+msgid "DHArtillerySpottingScope.RangeHeaderString"
+msgstr "Reichweite"
+
+msgid "DHArtillerySpottingScope.PitchHeaderString"
+msgstr "Steigung"
+
+msgid "DHSquadMessage.LockedMessage"
+msgstr "Die Gruppe wurde gesperrt."
+
+msgid "DHSquadMessage.RallyPointTooCloseMessage"
+msgstr ""
+"Ein Sammelpunkt kann nicht so nah an einem Bestehenden gesetzt werden, du "
+"musst weitere {0} Meter entfernt sein."
+
+msgid "DHSquadMessage.RallyPointExhaustedMessage"
+msgstr "Ein Gruppensammelpunkt wurde aufgebraucht."
+
+msgid "DHSquadMessage.RallyPointTooCloseToConstruction"
+msgstr "So nah an {0} kann kein Gruppensammelpunkt gesetzt werden."
+
+msgid "DHSquadMessage.RallyPointDestroyed"
+msgstr "Ein Gruppensammelpunkt wurde zerstört."
+
+msgid "DHSquadMessage.BannedPlayer"
+msgstr "{0} wurde aus dem Squad verbannt."
+
+msgid "DHSquadMessage.BannedCannotJoin"
+msgstr ""
+"Du kannst dieser Gruppe nicht beitreten, da du aus dieser verbannt wurdest."
+
+msgid "DHSquadMessage.YouAreNowAssistantMessage"
+msgstr "Du bist nun Adjutant des Gruppenführers."
+
+msgid "DHSquadMessage.AlreadyInSquad"
+msgstr "Du befindest dich bereits in einer Gruppe."
+
+msgid "DHSquadMessage.YouAreNoLongerAssistantMessage"
+msgstr "Du bist nicht länger Adjutant des Gruppenführers."
+
+msgid "DHCommandMenu_SquadAssistant.Options<1>.ActionText"
+msgstr "Aufklären"
+
+msgid "DHSquadInviteInteraction.Options<1>.Text"
+msgstr "Ablehnen"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.PromptText"
+msgstr "{volunteer} hat sich freiwillig als Gruppenadjutant gemeldet."
+
+msgid "DHSquadMessage.CreatedMessage"
+msgstr "Du hast eine Gruppe gebildet."
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<2>.Text"
+msgstr "Alle ignorieren"
+
+msgid "DHSquadMessage.FullMessage"
+msgstr "Du kannst keine Einladungen versenden, da die Gruppe voll ist."
+
+msgid "DHSquadMessage.InvitePendingMessage"
+msgstr ""
+"{0} wurde bereits in eine Gruppe eingeladen. Bitte später erneut versuchen."
+
+msgid "DHSquadMessage.UnlockedMessage"
+msgstr "Die Gruppe wurde geöffnet."
+
+msgid "DHSquadMessage.RallyPointOverrunMessage"
+msgstr "Ein Gruppensammelpunkt wurde vom Feind überrannt."
+
+msgid "DHSquadMessage.YouLeft"
+msgstr "Du hast die Gruppe verlassen."
+
+msgid "DHSquadMessage.YouVolunteeredToBeSquadLeader"
+msgstr ""
+"Du hast dich freiwillig als Gruppenführer gemeldet. Der neue Gruppenführer "
+"wird zeitnah gewählt."
+
+msgid "DHSquadMessage.NoVolunteers"
+msgstr "Keine Mitglieder haben sich freiwillig als Gruppenführer gemeldet."
+
+msgid "DHSquadMessage.RallyPointGroundTooSteep"
+msgstr ""
+"Der Untergrund ist zu steil um einen Sammelpunkt an dieser Stelle zu setzen."
+
+msgid "DHSquadMessage.RallyPointInUncontrolledObjective"
+msgstr ""
+"Im ungesichterem Zielobjekt kann kein Gruppensammelpunkt gesetzt werden."
+
+msgid "DHSquadMessage.RallyPointSwapped"
+msgstr ""
+"Der Gruppenführer hat den derzeit aktiven Sammelpunkt gewaltsam gewechselt."
+
+msgid "DHSquadMessage.RallyPointExposed"
+msgstr "Ein Gruppensammelpunkt wurde vom Feind aufgeklärt!"
+
+msgid "DHSquadMessage.RallyPointAbandonmentWarning"
+msgstr "Ein neu errichteter Gruppensammelpunkt wird zurückgelassen!"
+
+msgid "DHCommandMenu_SquadLeader.Options<0>.ActionText"
+msgstr "Sammelpunkt setzen"
+
+msgid "DHCommandMenu_SquadManageMember.Options<3>.SubjectText"
+msgstr "Zum Adjutant befördern"
+
+msgid "DHCommandMenu_SquadManageMember.Options<4>.SubjectText"
+msgstr "Adjutant entfernen"
+
+msgid "DHArtillerySpottingScope.LeftString"
+msgstr "Links"
+
+msgid "DHSquadMessage.RallyPointActiveMessage"
+msgstr "Die Gruppe hat einen neuen Sammelpunkt."
+
+msgid "DHSquadMessage.InviteSentMessage"
+msgstr "{0} wurde in die Gruppe eingeladen."
+
+msgid "DHSquadMessage.RallyPointNeedSquadmateNearby"
+msgstr ""
+"Es muss sich mindestens ein weiteres Gruppenmitglied in der Nähe befinden um "
+"einen Gruppensammelpunkt zu errichten."
+
+msgid "DHSquadMessage.RallyPointRemoved"
+msgstr "Der Gruppenführer hat einen Sammelpunkt gewaltsam entfernt."
+
+msgid "DHSquadMessage.RallyPointBehindEnemyLines"
+msgstr "In Feindgebiet kann kein Gruppensammelpunkt gesetzt werden."
+
+msgid "DHSquadMessage.RallyPointCreatedMessage"
+msgstr ""
+"Es wurde ein Gruppensammelpunkt gesetzt. Sichere die Umgebung mit der "
+"Gruppe, um den Sammelpunkt zu errichten."
