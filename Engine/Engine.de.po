@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-19 18:42+0000\n"
+"PO-Revision-Date: 2025-07-21 17:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/de/>\n"
@@ -154,3 +154,102 @@ msgstr "Server forderte Datei vom bevorstehenden Level an: Verweigert"
 
 msgid "Errors.AbortToEntry"
 msgstr "Fehlgeschlagen; kehre zu Eintrag zurück"
+
+msgid "KeyNames.Joy9"
+msgstr "JOY 9"
+
+msgid "KeyNames.Joy1"
+msgstr "JOY 1"
+
+msgid "KeyNames.Joy2"
+msgstr "JOY 2"
+
+msgid "KeyNames.Joy3"
+msgstr "JOY 3"
+
+msgid "KeyNames.Joy4"
+msgstr "JOY 4"
+
+msgid "KeyNames.Joy5"
+msgstr "JOY 5"
+
+msgid "KeyNames.Joy6"
+msgstr "JOY 6"
+
+msgid "KeyNames.Joy7"
+msgstr "JOY 7"
+
+msgid "KeyNames.Joy8"
+msgstr "JOY 8"
+
+msgid "KeyNames.Joy10"
+msgstr "JOY 10"
+
+msgid "KeyNames.Joy11"
+msgstr "JOY 11"
+
+msgid "KeyNames.Joy12"
+msgstr "JOY 12"
+
+msgid "KeyNames.Joy13"
+msgstr "JOY 13"
+
+msgid "KeyNames.Joy15"
+msgstr "JOY 15"
+
+msgid "KeyNames.Joy16"
+msgstr "JOY 16"
+
+msgid "KeyNames.PageUp"
+msgstr "BILD AUF"
+
+msgid "KeyNames.PageDown"
+msgstr "BILD AB"
+
+msgid "KeyNames.NumPad0"
+msgstr "NUM 0"
+
+msgid "KeyNames.NumPad1"
+msgstr "NUM 1"
+
+msgid "KeyNames.NumPad2"
+msgstr "NUM 2"
+
+msgid "KeyNames.NumPad3"
+msgstr "NUM 3"
+
+msgid "KeyNames.NumPad4"
+msgstr "NUM 4"
+
+msgid "KeyNames.Space"
+msgstr "LEERTASTE"
+
+msgid "KeyNames.End"
+msgstr "ENDE"
+
+msgid "KeyNames.Home"
+msgstr "HOME"
+
+msgid "KeyNames.Select"
+msgstr "AUSWAHLTASTE"
+
+msgid "KeyNames.Print"
+msgstr "DRUCKEN"
+
+msgid "KeyNames.Execute"
+msgstr "AUSFÜHREN"
+
+msgid "KeyNames.PrintScrn"
+msgstr "DRUCK"
+
+msgid "KeyNames.Insert"
+msgstr "EINFÜGEN"
+
+msgid "KeyNames.Delete"
+msgstr "ENTFERNEN"
+
+msgid "KeyNames.Help"
+msgstr "HILFE"
+
+msgid "KeyNames.Joy14"
+msgstr "JOY 14"
