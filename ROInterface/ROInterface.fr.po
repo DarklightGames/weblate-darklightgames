@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-14 01:35+0000\n"
+"PO-Revision-Date: 2025-07-25 20:43+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/fr/>\n"
@@ -74,3 +74,12 @@ msgstr "Montrer / Cacher HUD"
 
 msgid "ROControlBinder.BindingLabel[6]"
 msgstr "À Plat Ventre"
+
+msgid "ROControlBinder.BindingLabel[7]"
+msgstr "Fixer Baïonnette / Déployer FM"
+
+msgid "ROControlBinder.BindingLabel[9]"
+msgstr "Montrer Objectifs"
+
+msgid "ROControlBinder.BindingLabel[8]"
+msgstr "Changer Canon FM"
