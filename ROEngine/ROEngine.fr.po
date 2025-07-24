@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-07 17:29+0000\n"
+"PO-Revision-Date: 2025-07-25 20:43+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/fr/>\n"
@@ -19,3 +19,15 @@ msgstr "Le chargeur est léger"
 
 msgid "ROAmmoWeightMessage.VeryLightMessage"
 msgstr "Le chargeur est très léger"
+
+msgid "ROBipodWarningMsg.DeployToFire"
+msgstr "Votre arme doit être déployée pour tirer !"
+
+msgid "ROBipodWarningMsg.DeployToReload"
+msgstr "Votre arme doit être déployée pour recharger !"
+
+msgid "ROGameMessage.NewPlayerMessage"
+msgstr "Un nouveau soldat a rejoint le combat."
+
+msgid "ROGameMessage.YouHaveLoggedInAsAdminMsg"
+msgstr "Vous vous êtes identifiés en tant qu'administrateur."
