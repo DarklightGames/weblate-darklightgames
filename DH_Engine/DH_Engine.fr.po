@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 09:32+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-25 20:43+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
 "Language: fr\n"
@@ -1289,3 +1289,156 @@ msgstr "Rechargement Assisté"
 
 msgid "DHScoreEvent_SquadRallyPointEstablishedAssist.HumanReadableName"
 msgstr "Point de Ralliement Établi (Assistant)"
+
+msgid "DHScoreEvent_SquadRallyPointSpawn.HumanReadableName"
+msgstr "Point de Ralliement Groupe"
+
+msgid "DHSquadMergeRequestInteraction.PromptText"
+msgstr "{0} vous invite à fusionner votre groupe avec le groupe {1}."
+
+msgid "DHSpawnProtectMineVolume.WarningMessage"
+msgstr "Vous êtes entré dans une zone contrôlée par l'ennemi, retirez-vous !"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.PromptText"
+msgstr "{volunteer} s'est porté volontaire pour le poste d'assistant de groupe."
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<1>.Text"
+msgstr "Refuser"
+
+msgid "DHSquadLeaderVolunteerInteraction.PromptText"
+msgstr ""
+"Votre groupe a besoin d'un chef. Vous porter volontaire pour être chef de "
+"groupe ? ({time})"
+
+msgid "DHSquadMessage.InviteSentMessage"
+msgstr "{0} a été invité à rejoindre le groupe."
+
+msgid "DHSpawnProtectMineVolume.SafePeriodWarningMessage"
+msgstr ""
+"Vous êtes désormais dans une zone contrôlée par l'ennemi ! Vous avez "
+"%remaining% secondes pour retourner dans vos lignes !"
+
+msgid "DHSpawnProtectMineVolume.SpawnMFActivatedMessage"
+msgstr ""
+"Vous êtes désormais dans une zone contrôlée par l'ennemi, retirez-vous !"
+
+msgid "DHSpawnProtectMineVolume.ExitedMinefieldMessage"
+msgstr ""
+"Vous avez quitté le territoire ennemi. Y retourner sera considéré comme de "
+"la désertion !"
+
+msgid "DHSpawnProtectMineVolume.UnprotectedVehicleWarning"
+msgstr "Ce véhicule a été repéré par l'ennemi !"
+
+msgid "DHSquadInviteInteraction.PromptText"
+msgstr "{0} vous a invité à rejoindre le groupe {1}."
+
+msgid "DHSquadMessage.NoLeaderMessage"
+msgstr "Le chef de groupe a quitté le groupe."
+
+msgid "DHSquadMessage.LockedMessage"
+msgstr "Le groupe a été verrouillé."
+
+msgid "DHSquadMessage.UnlockedMessage"
+msgstr "Le groupe a été déverrouillé."
+
+msgid "DHScoreEvent_Suicide.HumanReadableName"
+msgstr "Suicide"
+
+msgid "DHScoreEvent_TeamKill.HumanReadableName"
+msgstr "Fratricide"
+
+msgid "DHScoreEvent_TeamKillPunish.HumanReadableName"
+msgstr "Punition Fratricide"
+
+msgid "DHSetupPhaseMessage.PhaseMessage"
+msgstr "Le combat commence dans {0}"
+
+msgid "DHSetupPhaseMessage.PhaseEndMessage"
+msgstr "Le combat a commencé !"
+
+msgid "DHSignal_Move.SignalName"
+msgstr "Se Déplacer"
+
+msgid "DHSquadInviteInteraction.Options<0>.Text"
+msgstr "Accepter"
+
+msgid "DHSquadInviteInteraction.Options<1>.Text"
+msgstr "Refuser"
+
+msgid "DHSquadInviteInteraction.Options<2>.Text"
+msgstr "Ignorer Tout"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<2>.Text"
+msgstr "Ignorer Tout"
+
+msgid "DHSquadLeaderSayDeadMessage.MessagePrefix"
+msgstr "(MORT) [SQUAD LEADER]"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<0>.Text"
+msgstr "Oui"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<1>.Text"
+msgstr "Non"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<2>.Text"
+msgstr "Ignorer Tout"
+
+msgid "DHSquadMergeRequestInteraction.Options<0>.Text"
+msgstr "Accepter"
+
+msgid "DHSquadMergeRequestInteraction.Options<1>.Text"
+msgstr "Refuser"
+
+msgid "DHSquadMessage.JoinedMessage"
+msgstr "{0} a rejoint le groupe."
+
+msgid "DHSquadMergeRequestInteraction.Options<2>.Text"
+msgstr "Ignorer Tout"
+
+msgid "DHSquadMessage.LeftMessage"
+msgstr "{0} a quitté le groupe."
+
+msgid "DHSquadMessage.KickedMessage"
+msgstr "Vous avez été expulsé du groupe."
+
+msgid "DHSquadMessage.NoLongerLeaderMessage"
+msgstr "Vous n'êtes plus chef de groupe."
+
+msgid "DHSquadMessage.YouAreNowLeaderMessage"
+msgstr "Vous êtes maintenant chef de groupe."
+
+msgid "DHSquadMessage.NewLeaderMessage"
+msgstr "{0} est devenu chef de groupe."
+
+msgid "DHSquadMessage.InviteAlreadyInSquadMessage"
+msgstr "{0} est déjà dans un groupe."
+
+msgid "DHSquadMessage.FullMessage"
+msgstr "Vous ne pouvez pas envoyer d'invitations car le groupe est plein."
+
+msgid "DHSquadMessage.InvitePendingMessage"
+msgstr "{0} a déjà été invité pour rejoindre un groupe. Réessayez plus tard."
+
+msgid "DHSquadMessage.CreatedMessage"
+msgstr "Vous avez créé un groupe."
+
+msgid "DHSquadMessage.RallyPointActiveMessage"
+msgstr "Votre groupe a établi un point de ralliement."
+
+msgid "DHScoreEvent_VehicleKill.HumanReadableName"
+msgstr "Destruction Véhicule"
+
+#, fuzzy
+msgid "DHServerSayMessage.MessagePrefix"
+msgstr "[SERVER]"
+
+msgid "DHSignal_Fire.SignalName"
+msgstr "Tirer"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<0>.Text"
+msgstr "Accepter"
+
+#, fuzzy
+msgid "DHSquadLeaderSayMessage.MessagePrefix"
+msgstr "[SQUAD LEADER]"
