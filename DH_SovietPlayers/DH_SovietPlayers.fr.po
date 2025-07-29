@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-07 17:29+0000\n"
+"PO-Revision-Date: 2025-07-30 00:58+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_sovietplayers/fr/>\n"
@@ -20,3 +20,9 @@ msgstr "Armée Populaire Polonaise"
 
 msgid "DHNation_USSR.NationName"
 msgstr "Union des Républiques Socialistes Soviétiques"
+
+msgid "DHSOVCorporalRoles.MyName"
+msgstr "Chef d'Équipe"
+
+msgid "DHSOVSergeantRoles.MyName"
+msgstr "Chef de Groupe"
