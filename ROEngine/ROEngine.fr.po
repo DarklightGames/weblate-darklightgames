@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-25 20:43+0000\n"
+"PO-Revision-Date: 2025-07-30 00:58+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/fr/>\n"
@@ -31,3 +31,33 @@ msgstr "Un nouveau soldat a rejoint le combat."
 
 msgid "ROGameMessage.YouHaveLoggedInAsAdminMsg"
 msgstr "Vous vous êtes identifiés en tant qu'administrateur."
+
+msgid "RORoundOverMsg.AlliesWins"
+msgstr "Les Forces Alliées ont Gagné la Bataille !"
+
+msgid "ROHud.ReinforcementText"
+msgstr "Renforts : "
+
+msgid "ROHud.TimeRemainingText"
+msgstr "Temps Restant : "
+
+msgid "ROHud.ViewingText"
+msgstr "Vous Observez : "
+
+msgid "ROPlayer.SpectatingModeName[1]"
+msgstr "Caméra Libre"
+
+msgid "ROPlayer.SpectatingModeName[0]"
+msgstr "Caméra : Vous"
+
+msgid "ROPlayer.SpectatingModeName[2]"
+msgstr "Caméra : Joueurs"
+
+msgid "ROPlayer.SpectatingModeName[3]"
+msgstr "Caméra : Points de Vue"
+
+msgid "RORoundOverMsg.AxisWins"
+msgstr "Les Forces de L'Axe ont Gagné la Bataille !"
+
+msgid "RORoundOverMsg.NoDecisiveOutcome"
+msgstr "Aucune Victoire Décisive"
