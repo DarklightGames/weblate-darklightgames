@@ -1,2 +1,195 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-07-30 18:18+0000\n"
+"Last-Translator: Baianormaster <baianormasterlol@gmail.com>\n"
+"Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_adminmenumutator/pt/>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "DHAdminMenu_AdminMessages.EnterNewPlayerName"
+msgstr "Porfavor insira um nome novo para o jogador - pressione enter"
+
+msgid "DHAdminMenu_AdminMessages.EnterPrivateMessage"
+msgstr "Escreva sua mensagem privada para o jogador - então pressione enter"
+
+msgid "DHAdminMenu_AdminMessages.EnterWarningMessage"
+msgstr "Escreva seu aviso para o player - então pressione enter"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmGagPlayer"
+msgstr "Pressione enter para comfirma que voce quer AMORDAÇAR esse jogador"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAxisRole"
+msgstr ""
+"Pressione enter para comfirma que voce quer MUDAR esse jogador para o lado "
+"dos EIXO"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableRealism"
+msgstr "Pressione enter para comfirma que voce quer ATIVA o modo realista"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAxisAtObjective"
+msgstr ""
+"Pressione enter para comfirma que você quer aerotransportar todos os "
+"jogadores do lado do EIXO para o Objetivo escolhido"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAllAtObjective"
+msgstr ""
+"Pressione enter para comfirma que você quer aerotransportar todos os "
+"jogadores para o Objetivo escolhido"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableMines"
+msgstr ""
+"Pressione enter para comfirma que você quer REABILITAR todos os campos "
+"minados"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableCapProgress"
+msgstr ""
+"Pressione enter para comfirma que você quer REABILITAR a barra de captura no "
+"mapa"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnablePlayerIcon"
+msgstr ""
+"Pressione enter para comfirma que você quer REABILITAR o icone do jogador no "
+"mapa"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmKillAll"
+msgstr "Pressione enter para comfirma que você quer MATAR TODOS os jogadores"
+
+msgid "DHAdminMenu_AdminMessages.EnterGameSpeed"
+msgstr ""
+"Porfavor especifique a nova multiplicadora de velocidade do jogo(1 é normal)"
+
+msgid "DHAdminMenu_AdminMessages.EnterTimeRemaining"
+msgstr "Porfavor especifique o novo de tempo de jogo restante(in minutos)"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.ChangeAlliesSquadSize"
+msgstr ""
+"Porfavor especifique o novo tamanho do Grupo de combate aliado (entre 8 e "
+"12, ou 0 para resetar)"
+
+msgid "DHAdminMenu_AdminMessages.SetGamePasswordText"
+msgstr "Porfavor especifique a nova senha do jogo"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.ToggleWeaponLockText"
+msgstr ""
+"Pressione enter para comfirma que você quer ligar ou desligar travagem das "
+"armas"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableRallyPoints"
+msgstr ""
+"Pressione enter para comfirma que você quer REABILITAR o posicionamento do "
+"ponto de inserção do groupo de combate"
+
+#, fuzzy
+msgid "DHAdminMenu_ErrorMessages.MissingNameText"
+msgstr "<nome faltando>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[4]"
+msgstr "ERRO: nenhum nome de jogadores foi especificado"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[5]"
+msgstr "ERRO: não foi possivel achar um jogador chamado '%insert_name%'"
+
+msgid "DHAdminMenuMutator.FriendlyName"
+msgstr "Menu do adiministrador"
+
+msgid "DHAdminMenuMutator.Description"
+msgstr ""
+"Tela de menu permitindo o ADM maior controle sobre os jogadores, partida "
+"realista ou durante testes"
+
+msgid "DHAdminMenu_AdminMessages.EnterKickReason"
+msgstr ""
+"Escreva sua mensagem de expulsão para o jogador - então pressione enter para "
+"expulsá-los"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmKillPlayer"
+msgstr "Pressione enter para comfirma que voce quer MATAR esse jogador"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAlliesRole"
+msgstr ""
+"Pressione enter para comfirma que voce quer MUDAR esse jogador para o lado "
+"dos Aliados"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAtObjective"
+msgstr ""
+"Pressione enter para comfirma que voce quer aerotransportar esse jogador "
+"para os objetivos escolhidos"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.EnterGridLocation"
+msgstr ""
+"Porfavor especifique uma zona no mapa ( exemplo: para o Grid E2 zona 4, "
+"enter'e25')"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAtCurrentLocation"
+msgstr ""
+"Pressione enter para comfirma quer voce quer aerotransportar esse jogador "
+"para a posição atual dele"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableRealism"
+msgstr "Pressione enter para comfirma que você quer DESABILITA o modo realista"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmMatchLive"
+msgstr ""
+"Pressione enter para comfirmar que você quer força a partida realista LIVE"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAlliesAtObjective"
+msgstr ""
+"Pressione enter para comfirma que você quer aerotransportar todos os "
+"jogadores do lado ALIADO para o Objetivo escolhido"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableMines"
+msgstr ""
+"Pressione enter para comfirma que você quer DESABILITAR todos os campos "
+"minados"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableCapProgress"
+msgstr ""
+"Pressione enter para comfirma que você quer DESABILITAR a barra de captura "
+"no mapa"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisablePlayerIcon"
+msgstr ""
+"Pressione enter para comfirma que você quer DESABILITAR o icone do jogador "
+"no mapa"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmToggleAdminCanPause"
+msgstr ""
+"Pressione enter para comfirma que você quer alternar a opção 'adiministrador "
+"pode pausar'"
+
+msgid "DHAdminMenu_AdminMessages.DestroyActorInSights"
+msgstr "Pressione enter para comfirma que você quer DESTRUIR o ator em sua mira"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.ChangeAxisSquadSize"
+msgstr ""
+"Porfavor especifique o novo tamanho do Grupo de combate do eixo (entre 8 e "
+"12, ou 0 para resetar)"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableRallyPoints"
+msgstr ""
+"Pressione enter para comfirma que você quer DESABILITAR o posicionamento do "
+"ponto de inserção do groupo de combate"
+
+#, fuzzy
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[1]"
+msgstr ""
+"Você precisa estar logado como um adniministrador (pelo console) para usar "
+"essa função"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[2]"
+msgstr "Não e permintido aerotransportar o jogador nesse servidor"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[3]"
+msgstr ""
+"O modificador de realismo não esta carregado no servidor, por isso voce nao "
+"pode usá-los"
