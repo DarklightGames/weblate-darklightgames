@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-19 18:42+0000\n"
-"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
+"PO-Revision-Date: 2025-07-31 19:43+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/de/>\n"
 "Language: de\n"
@@ -54,7 +54,7 @@ msgid "ROConsole.SMStateName[13]"
 msgstr "Unter Beschuss bei..."
 
 msgid "ROControlBinder.BindingLabel[0]"
-msgstr "Rotes Orchester"
+msgstr "Red Orchestra"
 
 msgid "ROControlBinder.BindingLabel[77]"
 msgstr "Verbindungsstatus zeigen"
