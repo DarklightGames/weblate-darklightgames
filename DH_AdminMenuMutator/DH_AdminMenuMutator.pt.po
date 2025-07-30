@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-30 18:18+0000\n"
+"PO-Revision-Date: 2025-07-31 19:43+0000\n"
 "Last-Translator: Baianormaster <baianormasterlol@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/pt/>\n"
@@ -66,11 +66,10 @@ msgstr ""
 msgid "DHAdminMenu_AdminMessages.EnterTimeRemaining"
 msgstr "Porfavor especifique o novo de tempo de jogo restante(in minutos)"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.ChangeAlliesSquadSize"
 msgstr ""
-"Porfavor especifique o novo tamanho do Grupo de combate aliado (entre 8 e "
-"12, ou 0 para resetar)"
+"Porfavor especifique o novo tamanho do Grupo aliado (entre 8 e 12, ou 0 para "
+"resetar)"
 
 msgid "DHAdminMenu_AdminMessages.SetGamePasswordText"
 msgstr "Porfavor especifique a nova senha do jogo"
@@ -84,7 +83,7 @@ msgstr ""
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableRallyPoints"
 msgstr ""
 "Pressione enter para comfirma que você quer REABILITAR o posicionamento do "
-"ponto de inserção do groupo de combate"
+"ponto de inserção do groupo"
 
 #, fuzzy
 msgid "DHAdminMenu_ErrorMessages.MissingNameText"
@@ -168,11 +167,10 @@ msgstr ""
 msgid "DHAdminMenu_AdminMessages.DestroyActorInSights"
 msgstr "Pressione enter para comfirma que você quer DESTRUIR o ator em sua mira"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.ChangeAxisSquadSize"
 msgstr ""
-"Porfavor especifique o novo tamanho do Grupo de combate do eixo (entre 8 e "
-"12, ou 0 para resetar)"
+"Porfavor especifique o novo tamanho do Grupo do eixo (entre 8 e 12, ou 0 "
+"para resetar)"
 
 #, fuzzy
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableRallyPoints"
@@ -193,3 +191,52 @@ msgid "DHAdminMenu_ErrorMessages.ErrorMessage[3]"
 msgstr ""
 "O modificador de realismo não esta carregado no servidor, por isso voce nao "
 "pode usá-los"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[6]"
+msgstr ""
+"Problema: mais de um jogadores com o nome '%insert_name%' então nao e seguro "
+"continuar com essa ação"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[7]"
+msgstr "<ERRO: jogador sem nome>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[12]"
+msgstr "ERRO: nenhuma mensagem especificada"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[13]"
+msgstr ""
+"ERRO: falha a expulsar '%insert_name%' (nao e possivel expulsar um jogador "
+"logado como adiministrador)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[15]"
+msgstr "Esse mapa nao possui campos minados"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[16]"
+msgstr "Campos minados ja desativados"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[17]"
+msgstr "Campos minados ja ativados"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[18]"
+msgstr "ERRO: nome de time não é valido"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[8]"
+msgstr "<Erro: adiministrador sem nome>"
+
+#, fuzzy
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[14]"
+msgstr ""
+"Erro: não foi possivel expulsar nenhum jogador como necessario 'Controle de "
+"Acesso' entidade nao esta no servidor (isso e normal no modo single player)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[9]"
+msgstr ""
+"Jogador '%insert_name%' não esta ativo nesse momento, você nao pode usar "
+"essa opção"
+
+#, fuzzy
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[10]"
+msgstr "'%insert_name%' ja possui esse papel"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[11]"
+msgstr "Desculpe, não e possivel fazer essa ação em um BOT"
