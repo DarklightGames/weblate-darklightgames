@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 18:15+0000\n"
-"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
+"PO-Revision-Date: 2025-08-01 17:40+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/pl/>\n"
 "Language: pl\n"
@@ -799,6 +799,7 @@ msgstr "Filtrowanie Trójliniowe"
 msgid "DHTab_DetailSettings.DetailWorldDetail.Caption"
 msgstr "Szczegółowość Świata"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
 msgstr "Dynamiczna Odległość Mgły"
 
@@ -814,6 +815,7 @@ msgstr "Bloom HDR"
 msgid "DHTab_DetailSettings.MeshLOD.Caption"
 msgstr "Dynamiczna Siatka LOD"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
 msgstr "Pożądana liczba FPS z dynamiczną mgłą"
 
@@ -990,9 +992,11 @@ msgstr "Kontrast"
 msgid "DHTab_DetailSettings.DetailDecoLayers.Caption"
 msgstr "Szczegóły Terenu"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
 msgstr "Odległość Mgły"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
 msgstr ""
 "Utrzymuje FPS na jak najwyższym poziomie, automatycznie dostosowując "
@@ -1279,6 +1283,7 @@ msgstr "Wymuś zrzuty ekranu FSAA"
 msgid "DHTab_DetailSettings.DetailTextureDetail.Caption"
 msgstr "Szczegółowość tekstur"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
 msgstr ""
 "Używany przez Dynamiczną Odległość Mgły do określenia kiedy rozpocząć "
