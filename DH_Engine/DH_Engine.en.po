@@ -1760,6 +1760,9 @@ msgstr "currently deprecated"
 msgid "DHVehicleMessage.UnbuttonHatchToChangePosition"
 msgstr "You must unbutton the hatch {0} to change position"
 
+msgid "DHVehicleMessage.GunObstructed"
+msgstr "The gun cannot fire because it is obstructed"
+
 msgid "DHVehicleMessage.NotQualified"
 msgstr "Not qualified to operate this vehicle"
 

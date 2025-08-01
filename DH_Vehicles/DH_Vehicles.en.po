@@ -789,7 +789,7 @@ msgid "DH_Semovente4732Cannon.nProjectileDescriptions<1>"
 msgstr "Granata da 47"
 
 msgid "DH_Semovente4732Cannon.nProjectileDescriptions<2>"
-msgstr "Effeto Pronto da 47"
+msgstr "Effetto Pronto da 47"
 
 msgid "DH_Semovente4732Destroyer.VehicleNameString"
 msgstr "Semovente L40 da 47/32"

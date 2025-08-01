@@ -126,7 +126,7 @@ msgid "DH_Cannone4732Cannon.nProjectileDescriptions<1>"
 msgstr "Granata da 47"
 
 msgid "DH_Cannone4732Cannon.nProjectileDescriptions<2>"
-msgstr "Effeto Pronto da 47"
+msgstr "Effetto Pronto da 47"
 
 msgid "DH_Cannone4732Gun.VehicleNameString"
 msgstr "Cannone da 47/32"

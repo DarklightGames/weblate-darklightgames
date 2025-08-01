@@ -1173,13 +1173,13 @@ msgid "DHTab_DetailSettings.DetailWorldDetail.Caption"
 msgstr "World Detail"
 
 msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
-msgstr "Fog Distance"
+msgstr "View Distance"
 
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
-msgstr "Dynamic Fog Distance"
+msgstr "Dynamic View Distance"
 
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
-msgstr "Keeps FPS as high as possible by adjusting the fog distance automatically based on performance"
+msgstr "Keeps FPS as high as possible by adjusting the view distance automatically based on performance"
 
 msgid "DHTab_DetailSettings.GammaSlider.Caption"
 msgstr "Gamma"
@@ -1194,10 +1194,10 @@ msgid "DHTab_DetailSettings.MeshLOD.Caption"
 msgstr "Dynamic Mesh LOD"
 
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
-msgstr "Dynamic Fog FPS Threshold"
+msgstr "Dynamic View Distance FPS Threshold"
 
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
-msgstr "Used by Dynamic Fog Distance to determine when to start lowing fog distance to improve FPS"
+msgstr "Used by Dynamic View Distance to determine when to start lowering view distance to improve FPS"
 
 msgid "DHTab_DetailSettings.MotionBlur.Caption"
 msgstr "Blur Effects"

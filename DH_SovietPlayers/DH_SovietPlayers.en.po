@@ -96,10 +96,13 @@ msgid "DHSOVRiflemanRoles.AltName"
 msgstr "Strelok"
 
 msgid "DHSOVSergeantRoles.MyName"
-msgstr "Squad leader"
+msgstr "Squad Leader"
 
 msgid "DHSOVSergeantRoles.AltName"
 msgstr "Komandir otdeleniya"
+
+msgid "DHSOVSniperRoles.AltName"
+msgstr "Snaiper"
 
 msgid "DHSOVTankCrewmanRoles.AltName"
 msgstr "Ekipazh tanka"
