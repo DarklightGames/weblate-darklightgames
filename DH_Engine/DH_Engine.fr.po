@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-25 20:43+0000\n"
+"PO-Revision-Date: 2025-08-01 17:36+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -1442,3 +1442,84 @@ msgstr "Accepter"
 #, fuzzy
 msgid "DHSquadLeaderSayMessage.MessagePrefix"
 msgstr "[SQUAD LEADER]"
+
+msgid "DHSquadMessage.RallyPointOverrunMessage"
+msgstr "Un point de ralliement a été supprimé par des ennemis."
+
+msgid "DHSquadMessage.BannedPlayer"
+msgstr "{0} a été banni du groupe."
+
+msgid "DHSquadMessage.RallyPointExhaustedMessage"
+msgstr "Un point de ralliement a été épuisé."
+
+msgid "DHSquadMessage.RallyPointInMinefield"
+msgstr "Vous ne pouvez pas créer un point de ralliement dans un champ de mines."
+
+msgid "DHSquadMessage.RallyPointInWater"
+msgstr "Vous ne pouvez pas créer un point de ralliement dans l'eau."
+
+msgid "DHSquadMessage.RallyPointTooSoon"
+msgstr ""
+"Vous devez attendre {0} secondes jusqu'à ce que votre groupe puisse créer un "
+"point de ralliement."
+
+msgid "DHSquadMessage.RallyPointAbandoned"
+msgstr "Un point de ralliement n'a pas pu être établi car il a été abandonné."
+
+msgid "DHSquadMessage.RallyPointSwapped"
+msgstr ""
+"Le chef de groupe a changé de force le point de ralliement actuellement "
+"actif."
+
+msgid "DHSquadMessage.RallyPointTooCloseToConstruction"
+msgstr "Vous ne pouvez pas créer un point de ralliement si près d'un {0}."
+
+msgid "DHSquadMessage.RallyPointDestroyed"
+msgstr "Un point de ralliement a été détruit."
+
+msgid "DHSquadMessage.RallyPointNotOnFoot"
+msgstr "Vous devez être à pied pour créer un point de ralliement."
+
+msgid "DHSquadMessage.RallyPointExposed"
+msgstr "Un point de ralliement a été repéré par l'ennemi !"
+
+msgid "DHSquadMessage.RallyPointBehindEnemyLines"
+msgstr ""
+"Un point de ralliement ne peut pas être créé sur un territoire contrôlé par "
+"l'ennemi."
+
+msgid "DHSquadMessage.RallyPointTooCloseMessage"
+msgstr ""
+"Vous ne pouvez pas créer un point de ralliement si proche d'un point "
+"existant, vous devez être à {0} mètres plus loin."
+
+msgid "DHSquadMessage.RallyPointNeedSquadmateNearby"
+msgstr ""
+"Vous devez avoir au moins un autre membre du groupe à proximité pour créer "
+"un point de rassemblement."
+
+msgid "DHSquadMessage.RallyPointCreatedMessage"
+msgstr ""
+"Vous avez créé un point de ralliement pour votre groupe. Sécurisez la zone "
+"pour l'établir."
+
+msgid "DHSquadMessage.RallyPointGroundTooSteep"
+msgstr "Le terrain est trop raide pour établir un point de ralliement ici."
+
+msgid "DHSquadMessage.RallyPointBadLocation"
+msgstr "Un point de ralliement ne peut pas être établi à cet endroit."
+
+msgid "DHSquadMessage.RallyPointRemoved"
+msgstr "Le chef de groupe a supprimé de force un point de ralliement."
+
+msgid "DHSquadMessage.RallyPointAbandonmentWarning"
+msgstr ""
+"Un point de ralliement nouvellement créé est en train d'être abandonné !"
+
+msgid "DHSquadMessage.RallyPointInUncontrolledObjective"
+msgstr ""
+"Vous ne pouvez pas créer un point de ralliement à l'intérieur d'un objectif "
+"non contrôlé."
+
+msgid "DHSquadMessage.BannedCannotJoin"
+msgstr "Vous ne pouvez pas rejoindre ce groupe car vous avez été banni."
