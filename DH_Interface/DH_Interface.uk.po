@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-19 04:22+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2025-08-01 17:40+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
 "Language: uk\n"
@@ -598,6 +598,7 @@ msgstr "Меню наказів загону"
 msgid "DHTab_DetailSettings.DetailDecoLayers.Caption"
 msgstr "Деталізація місцевості"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
 msgstr ""
 "Підтримує рівень продуктивності на максимально високому рівні, автоматично "
@@ -620,6 +621,7 @@ msgstr ""
 "рахунок затримки вводу (налаштування відеокарти можуть перевизначати деякі "
 "графічні параметри, такі як це)"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
 msgstr ""
 "Використовується функцією 'Динамічна дистанція туману' та визначає коли "
@@ -1226,9 +1228,11 @@ msgstr "Детальні текстури"
 msgid "DHTab_DetailSettings.DetailWorldDetail.Caption"
 msgstr "Деталізація миру"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
 msgstr "Дистанція туману"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
 msgstr "Динамічна дистанція туману"
 
@@ -1244,6 +1248,7 @@ msgstr "HDR Освітлення"
 msgid "DHTab_DetailSettings.MeshLOD.Caption"
 msgstr "Динамічна ступінь деталізації LOD"
 
+#, fuzzy
 msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
 msgstr "Поріг динамічного туману (кадрів/c)"
 
