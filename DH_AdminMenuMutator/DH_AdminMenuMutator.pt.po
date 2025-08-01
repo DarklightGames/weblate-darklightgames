@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-31 19:43+0000\n"
+"PO-Revision-Date: 2025-08-01 19:41+0000\n"
 "Last-Translator: Baianormaster <baianormasterlol@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/pt/>\n"
@@ -240,3 +240,9 @@ msgstr "'%insert_name%' ja possui esse papel"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[11]"
 msgstr "Desculpe, não e possivel fazer essa ação em um BOT"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[20]"
+msgstr "ERRO: não foi possivel achar objetivo '%insert_name%'"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[19]"
+msgstr "ERRO: não foi possivel achar jogador no papel '%insert_name%'"
