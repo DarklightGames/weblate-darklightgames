@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-01 17:40+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-08-02 12:38+0000\n"
+"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/de/>\n"
 "Language: de\n"
@@ -12,9 +12,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.7.2\n"
 
-#, fuzzy
 msgid "DH_17PounderGun.VehicleNameString"
-msgstr "17 Pounder Panzerabwehrkanone"
+msgstr "17-Pfünder Panzerabwehrkanone"
 
 #, fuzzy
 msgid "DH_17PounderGunCannonPawn.RangeText"
@@ -32,7 +31,6 @@ msgstr "BR-240"
 msgid "DH_45mmM1937GunCannon.nProjectileDescriptions[1]"
 msgstr "O-240"
 
-#, fuzzy
 msgid "DH_45mmM1942Gun.VehicleNameString"
 msgstr "45mm M-42 Panzerabwehrkanone"
 
@@ -192,7 +190,6 @@ msgstr "HE"
 msgid "DH_ZiS3CannonLate.ProjectileDescriptions[2]"
 msgstr "APCR"
 
-#, fuzzy
 msgid "DH_45mmM1937Gun.VehicleNameString"
 msgstr "45mm 53-K (1937) Panzerabwehrkanone"
 
