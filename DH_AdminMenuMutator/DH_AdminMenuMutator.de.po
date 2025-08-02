@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-21 17:43+0000\n"
+"PO-Revision-Date: 2025-08-03 12:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/de/>\n"
@@ -97,10 +97,9 @@ msgstr ""
 "'enter'-Taste drücken um zu bestätigen, dass dieser Spieler per FALLSCHIRM "
 "über dessen aktuellen Standort abgeworfen werden soll"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.ConfirmMatchLive"
 msgstr ""
-"'enter'-Taste drücken um zu bestätigen, dass das Realismus-Gefecht sofort "
+"'enter'-Taste drücken um zu bestätigen, dass das Realismus-Gefecht SOFORT "
 "BEGINNEN soll"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAxisAtObjective"
@@ -141,7 +140,6 @@ msgstr ""
 msgid "DHAdminMenu_AdminMessages.EnterTimeRemaining"
 msgstr "Bitte die neue verbleibende Rundenzeit angeben (in Minuten)"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.ConfirmToggleAdminCanPause"
 msgstr ""
 "'enter'-Taste drücken um zu bestätigen, dass die 'Administrator kann "
@@ -211,7 +209,6 @@ msgstr "<ERROR: kein Administratorname>"
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[10]"
 msgstr "'%insert_name%' ist diese Rolle bereits zugewiesen"
 
-#, fuzzy
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[11]"
 msgstr "Es ist nicht möglich diese Aktion bei einem nicht-Spieler anzuwenden"
 
@@ -300,11 +297,9 @@ msgstr "Sammelpunktplatzierungen wurden vom Administrator RE-AKTIVIERT"
 msgid "DHAdminMenu_PrivateMessage.MessageChatPrefix"
 msgstr "ADMINISTRATORNACHRICHT von"
 
-#, fuzzy
 msgid "DHAdminMenu_RealismMenu.MenuText<4>"
 msgstr "Fallschirmabwurf aller Alliierten über Zielpunkt"
 
-#, fuzzy
 msgid "DHAdminMenu_RealismMenu.MenuText<5>"
 msgstr "Fallschirmabwurf aller Achsenmächte über Zielpunkt"
 
@@ -438,7 +433,6 @@ msgstr ""
 "'enter'-Taste drücken um zu bestätigen, dass alle Minenfelder RE-AKTIVIERT "
 "werden sollen"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAtObjective"
 msgstr ""
 "'enter'-Taste drücken um zu bestätigen, dass dieser Spieler per FALLSCHIRM "
@@ -535,6 +529,5 @@ msgstr ""
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText<10>"
 msgstr "Spieler per Fallschirm über aktuellem Standort abwerfen"
 
-#, fuzzy
 msgid "DHAdminMenu_RealismMenu.MenuText<6>"
 msgstr "Fallschirmabwurf aller Spieler über Zielpunkt"
