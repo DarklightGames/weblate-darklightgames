@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-21 17:43+0000\n"
+"PO-Revision-Date: 2025-08-03 12:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/de/>\n"
@@ -253,3 +253,108 @@ msgstr "HILFE"
 
 msgid "KeyNames.Joy14"
 msgstr "JOY 14"
+
+msgid "Progress.Loading"
+msgstr "Lädt"
+
+msgid "KeyNames.NumPad7"
+msgstr "NUM 7"
+
+msgid "KeyNames.NumPad8"
+msgstr "NUM 8"
+
+msgid "KeyNames.NumPad9"
+msgstr "NUM 9"
+
+msgid "KeyNames.GreyStar"
+msgstr "NUM *"
+
+msgid "KeyNames.GreyPlus"
+msgstr "NUM +"
+
+msgid "KeyNames.GreyMinus"
+msgstr "NUM -"
+
+msgid "KeyNames.NumPadPeriod"
+msgstr "NUM ."
+
+msgid "KeyNames.GreySlash"
+msgstr "NUM /"
+
+msgid "PlayerController.OwnCamera"
+msgstr "Beobachtet aus eigener Sicht"
+
+msgid "KeyNames.Tab"
+msgstr "TABULATOR"
+
+msgid "KeyNames.NumLock"
+msgstr "NUMLOCK"
+
+msgid "Progress.CancelledConnect"
+msgstr "Verbindungsversuch abgebrochen"
+
+msgid "Progress.RunningNet"
+msgstr "%s: %s (%i Spieler)"
+
+msgid "Progress.NetReceiving"
+msgstr "Erhalte '%s': %i/%i"
+
+msgid "Progress.NetReceiveOk"
+msgstr "Erfolgreich erhalten '%s'"
+
+msgid "Progress.NetSend"
+msgstr "Sende '%s'"
+
+msgid "Progress.NetSending"
+msgstr "Sende '%s': %i/%i"
+
+msgid "Progress.Connecting"
+msgstr "Verbinde (F10 um abzubrechen)..."
+
+msgid "Progress.Listening"
+msgstr "Empfange Klienten..."
+
+msgid "Progress.Paused"
+msgstr "Durch %s pausiert"
+
+msgid "Progress.ReceiveFile"
+msgstr "Empfange '%s' (F10 Abbrechen)"
+
+msgid "Progress.ReceiveOptionalFile"
+msgstr "Empfange optionale Datei '%s' (F10 Überspringen)"
+
+msgid "Progress.ReceiveSize"
+msgstr "Größe %iK, Komplett %3.1f%%"
+
+msgid "Progress.ConnectingText"
+msgstr "Verbinde (F10 Abbrechen):"
+
+msgid "Progress.CorruptConnect"
+msgstr "Inkompatible Spieldateien!"
+
+msgid "KeyNames.Enter"
+msgstr "ENTER"
+
+msgid "KeyNames.Escape"
+msgstr "ESCAPE"
+
+msgid "KeyNames.Pause"
+msgstr "PAUSE"
+
+msgid "PlayerController.ViewingFrom"
+msgstr "Beobachtet aus Sicht"
+
+msgid "KeyNames.NumPad5"
+msgstr "NUM 5"
+
+msgid "KeyNames.NumPad6"
+msgstr "NUM 6"
+
+msgid "KeyNames.Separator"
+msgstr "SENKRECHTER STRICH"
+
+msgid "KeyNames.CapsLock"
+msgstr "FESTSTELLTASTE"
+
+msgid "KeyNames.Shift"
+msgstr "SHIFT"
