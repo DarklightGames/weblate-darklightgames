@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 18:15+0000\n"
+"PO-Revision-Date: 2025-08-02 12:38+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/es/>\n"
@@ -40,7 +40,7 @@ msgid "DH_GLWeapon.ItemName"
 msgstr "StG 24 x7 Geballte Ladung"
 
 msgid "DH_SpringfieldA1Weapon.ItemName"
-msgstr "Rifle Springfield M1903A1"
+msgstr "Springfield M1903A1"
 
 msgid "DH_M1GarandWeapon.ItemName"
 msgstr "M1 Garand"
@@ -49,10 +49,10 @@ msgid "DH_M1T17CarbineWeapon.ItemName"
 msgstr "Carabina Automática M1/T17"
 
 msgid "DH_P08LugerWeapon.ItemName"
-msgstr "Luger P08"
+msgstr "Pistola Luger P08"
 
 msgid "DH_EnfieldNo4Weapon.ItemName"
-msgstr "Rifle Lee Enfield No.4"
+msgstr "Lee Enfield No.4"
 
 msgid "DH_MN9130Weapon.ItemName"
 msgstr "Mosin M91/30"
@@ -127,7 +127,7 @@ msgid "DH_BrenWeapon.ItemName"
 msgstr "Bren Mk.II"
 
 msgid "DH_TT33Weapon.ItemName"
-msgstr "TT-33"
+msgstr "Pistola TT-33"
 
 msgid "DH_PPSh41Weapon.ItemName"
 msgstr "PPSh-41"
@@ -139,7 +139,7 @@ msgid "DH_PIATWeapon.ItemName"
 msgstr "PIAT"
 
 msgid "DH_SVT40Weapon.ItemName"
-msgstr "Rifle SVT-40"
+msgstr "SVT-40"
 
 msgid "DH_BARNoBipodWeapon.ItemName"
 msgstr "Rifle automático M1918A2 (Sin bípode)"
@@ -169,7 +169,7 @@ msgid "DH_PPS43Weapon.ItemName"
 msgstr "PPS-43"
 
 msgid "DH_SVT38Weapon.ItemName"
-msgstr "Rifle SVT-38"
+msgstr "SVT-38"
 
 msgid "DH_AVT40Weapon.ItemName"
 msgstr "AVT-40"
@@ -178,7 +178,7 @@ msgid "DH_Kz8cmGrW42Weapon.ItemName"
 msgstr "Mortero Kz 8cm GrW 42"
 
 msgid "DH_MG34Weapon.ItemName"
-msgstr "MG 34"
+msgstr "Ametralladora MG 34"
 
 msgid "DH_ColtM1911Weapon.ItemName"
 msgstr "Colt M1911A1"
@@ -196,7 +196,7 @@ msgid "DH_MP38Weapon.ItemName"
 msgstr "MP 38"
 
 msgid "DH_MG42Weapon.ItemName"
-msgstr "MG 42"
+msgstr "Ametralladora MG 42"
 
 msgid "DH_BHPWeapon.ItemName"
 msgstr "Browning High-Power"
@@ -283,7 +283,7 @@ msgid "DH_VG15Weapon.ItemName"
 msgstr "Rifle VG 1-5"
 
 msgid "DH_P38Weapon.ItemName"
-msgstr "Walther P38"
+msgstr "Pistola Walther P38"
 
 msgid "DH_G43Weapon.ItemName"
 msgstr "G 43"
@@ -313,7 +313,7 @@ msgid "DH_KorovinWeapon.ItemName"
 msgstr "Korovin 1941"
 
 msgid "DH_StielGranateWeapon.ItemName"
-msgstr "Granada StG 24"
+msgstr "Granada Stielhandgranate 24"
 
 msgid "DH_RPG43GrenadeWeapon.ItemName"
 msgstr "Granada Antitanque RPG-43"
