@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-02 12:38+0000\n"
+"PO-Revision-Date: 2025-08-03 12:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/de/>\n"
@@ -236,9 +236,8 @@ msgstr "Zurück"
 msgid "DHGetDataMenu.CancelButton.Caption"
 msgstr "ABBRECHEN"
 
-#, fuzzy
 msgid "DHCommunicationPage.Panels<0>.Hint"
-msgstr "Funk mit anderen Spielern verwalten"
+msgstr "Kommunikation mit anderen Spielern verwalten"
 
 msgid "DHTab_GameSettings.BayonetSpawn.Caption"
 msgstr "Mit aufgeplanztem Seitengewehr einsteigen"
@@ -381,13 +380,11 @@ msgstr "Server Adresse kopieren"
 msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<12>"
 msgstr "IP öffnen"
 
-#, fuzzy
 msgid "DHBrowser_ServersList.ColumnHeadings<2>"
-msgstr "Zustand"
+msgstr "Status"
 
-#, fuzzy
 msgid "DHBrowser_ServersList.ColumnHeadings<3>"
-msgstr "Ort"
+msgstr "Standort"
 
 msgid "DHBrowser_ServersList.ColumnHeadings<5>"
 msgstr "Karte"
@@ -404,9 +401,8 @@ msgstr "Server Name"
 msgid "DHBrowser_ServersList.ColumnHeadings<4>"
 msgstr "Version"
 
-#, fuzzy
 msgid "DHCommunicationPage.Panels<0>.Caption"
-msgstr "Funkverkehr"
+msgstr "Kommunikation"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<1>"
 msgstr "{0} einladen"
@@ -429,20 +425,17 @@ msgstr "{0} als Adjutant entbinden"
 msgid "DHContextMenu_SquadMembers.EntryTexts<7>"
 msgstr "Freiwillig als Adjutant melden"
 
-#, fuzzy
 msgid "DHContextMenu_SquadMembers.EntryTexts<8>"
 msgstr "Gruppenzusammenführung anfragen"
 
-#, fuzzy
 msgid "DHDeployMenu.UnassignedPlayersCaptionText"
 msgstr "Nicht-zugewiesen"
 
 msgid "DHDeployMenu.NonSquadLeaderOnlyText"
 msgstr "NICHT FÜR GRUPPENFÜHRER"
 
-#, fuzzy
 msgid "DHDeployMenu.SurrenderConfirmBaseText"
-msgstr "Wollen Sie sich wirklich ergeben?"
+msgstr "Wollen Sie sich tatsächlich ergeben?"
 
 msgid "DHDeployMenu.SurrenderResponseMessages<0>"
 msgstr "Fataler Fehler!"
@@ -492,14 +485,12 @@ msgstr "Gruppe beitreten"
 msgid "DHGUISquadComponent.LeaveSquadButton.Caption"
 msgstr "Gruppe verlassen"
 
-#, fuzzy
 msgid "DHGUITeamSelection.SizeBonusText"
 msgstr "Kombattantenzahl"
 
 msgid "DHGUITeamSelection.UnitsText"
 msgstr " Spieler"
 
-#, fuzzy
 msgid "DHGUITeamSelection.AutoSelect.Caption"
 msgstr "Auto-Auswahl"
 
@@ -512,11 +503,9 @@ msgstr "? Spieler"
 msgid "DHGamePageMP.MPFooter.SecondaryCaption"
 msgstr "Dediziert"
 
-#, fuzzy
 msgid "DHGamePageSP.PageCaption"
 msgstr "Übung"
 
-#, fuzzy
 msgid "DHGamePageSP.SPFooter.PrimaryCaption"
 msgstr "Übungsgefecht starten"
 
@@ -629,3 +618,199 @@ msgstr "Sammelpunkt platzieren"
 
 msgid "DHTab_Hud.ShowRallyPoint.Caption"
 msgstr "Zeige Status des Gruppensammelpunkts"
+
+msgid "DHTab_Controls.captions_weapons[9]"
+msgstr "MG Rohrwechsel"
+
+msgid "DHTab_Controls.PanelCaption"
+msgstr "Steuerung"
+
+msgid "DHLearnToPlayFooter.GameBackButton.Caption"
+msgstr "Zurück"
+
+msgid "DHLearnToPlayPage.LearnToPlayHeader.Caption"
+msgstr "Lerne zu spielen"
+
+msgid "DHMOTDConfigPage.LockedCancelButton.Caption"
+msgstr "Widerrufen"
+
+msgid "DHMOTDConfigPage.LockedOKButton.Caption"
+msgstr "OK"
+
+msgid "DHMainMenu.MOTDErrorString"
+msgstr "Error: Konnte Neuigkeiten nicht laden ({0})"
+
+msgid "DHMainMenu.CreditsButton.Caption"
+msgstr "Credits"
+
+msgid "DHTab_DetailSettings.RenderModeText[0]"
+msgstr "Direct3D 9.0 (Empfohlen)"
+
+msgid "DHGUIMapComponent.AdminPlaceAxisSpawnText"
+msgstr "ADMIN: ACHSENMÄCHTE Einsetzpunkt platzieren"
+
+msgid "DHGUIMapComponent.AdminDestroyAxisSpawnsText"
+msgstr "ADMIN: ACHSENMÄCHTE Admin-Einsetzpunkte zerstören"
+
+msgid "DHGUIMapComponent.AdminDestroySpawnText"
+msgstr "ADMIN: Einsetzpunkt zerstören"
+
+msgid "DHGUIMapComponent.AdminTeleportText"
+msgstr "ADMIN: Hierhin teleportieren"
+
+msgid "DHGamePageMP.MPFooter.PrimaryCaption"
+msgstr "Listen-Server"
+
+msgid "DHMainMenu.DiscordButton.Hint"
+msgstr "Tritt uns in Discord bei!"
+
+msgid "DHMainMenu.FacebookButton.Hint"
+msgstr "Folge uns auf Facebook!"
+
+msgid "DHMainMenu.GitHubButton.Hint"
+msgstr "Tritt uns auf GitHub bei!"
+
+msgid "DHMainMenu.InstantActionButton.Caption"
+msgstr "Übung"
+
+msgid "DHMainMenu.PatreonButton.Hint"
+msgstr "Unterstütze uns auf Patreon!"
+
+msgid "DHLearnToPlayPage.PanelCaption<0>"
+msgstr "Videoanleitungen"
+
+msgid "DHLearnToPlayPage.PanelHint<0>"
+msgstr "Lerne das Spiel kennen indem du ein Video ansiehst"
+
+msgid "DHTab_Controls.captions_weapons[10]"
+msgstr "Feuermodus wechseln"
+
+msgid "DHTab_Controls.captions_weapons[11]"
+msgstr "MG aufstellen / Seitengewehr aufstecken / Fahrzeugnebelwerfer einsetzen"
+
+msgid "DHTab_Controls.Captions_Inventory[9]"
+msgstr "Inventarplatz 0"
+
+msgid "DHTab_Controls.ControlProfiles[0]"
+msgstr "Aktuell"
+
+msgid "DHTab_Controls.ControlProfiles[4]"
+msgstr "Pro 105"
+
+msgid "DHTab_Controls.captions_comm[9]"
+msgstr "Zu unzugeordnetem Sprachkanal wechseln"
+
+msgid "DHGetDataMenu.CancelButton.Hint"
+msgstr "Dieses Menü schließen, Änderungen verwerfen."
+
+msgid "DHTab_Controls.Captions_Inventory[8]"
+msgstr "Inventarplatz 9"
+
+msgid "DHTab_Controls.ControlProfiles[1]"
+msgstr "Standardeinstellungen (Zurücksetzen)"
+
+msgid "DHTab_Controls.ControlProfiles[5]"
+msgstr "XBox 360 Controller"
+
+msgid "DHTab_Controls.captions_weapons[12]"
+msgstr "Erhöhung der Fahrzeugnebelwerferdistanz / Drehungseinstellung"
+
+msgid "DHTab_Controls.captions_weapons[13]"
+msgstr "Verringerung der Fahrzeugnebelwerferdistanz / Drehungseinstellung"
+
+msgid "DHTab_Controls.captions_weapons[14]"
+msgstr "Ausgewähltes Artillerieziel umschalten"
+
+msgid "DHTab_Controls.captions_comm[3]"
+msgstr "Gruppenfunk"
+
+msgid "DHTab_Controls.captions_comm[4]"
+msgstr "Sprachbefehlsmenü"
+
+msgid "DHTab_Controls.captions_comm[5]"
+msgstr "Chat Im-Spiel ansehen"
+
+msgid "DHTab_Controls.captions_comm[7]"
+msgstr "Zu Kommandosprachkanal wechseln"
+
+msgid "DHTab_Controls.captions_comm[10]"
+msgstr "Zu Gruppensprachkanal wechseln"
+
+msgid "DHTab_Controls.captions_game[4]"
+msgstr "Gepanzertes Fahrzeug abschließen/öffnen"
+
+msgid "DHTab_Controls.captions_game[5]"
+msgstr "Gruppen Befehlsmenü"
+
+msgid "DHTab_Controls.captions_game[6]"
+msgstr "Gruppenmenü"
+
+msgid "DHTab_Controls.captions_game[7]"
+msgstr "Automatischer Gruppenbeitritt"
+
+msgid "DHTab_Controls.ControlProfilesComboBox.Caption"
+msgstr "Steuerungsprofile"
+
+msgid "DHTab_Controls.InputBK1.Caption"
+msgstr "Belegung"
+
+msgid "DHTab_DetailSettings.NoneText"
+msgstr "Keine"
+
+msgid "DHTab_DetailSettings.sbSection1.Caption"
+msgstr "Grundlegendes Rendern"
+
+msgid "DHGUIMapComponent.AdminPlaceAlliedSpawnText"
+msgstr "ADMIN: ALLIIERTEN Einsetzpunkt platzieren"
+
+msgid "DHGUIMapComponent.AdminDestroyAlliedSpawnsText"
+msgstr "ADMIN: ALLIERTE Admin-Einsetzpunkte zerstören"
+
+msgid "DHTab_Controls.Captions_Inventory[5]"
+msgstr "Inventarplatz 6"
+
+msgid "DHTab_Controls.Captions_Inventory[7]"
+msgstr "Inventarplatz 8"
+
+msgid "DHTab_Controls.ControlProfiles[2]"
+msgstr "Klassisch RO"
+
+msgid "DHTab_Controls.ControlProfiles[3]"
+msgstr "Pro 104"
+
+msgid "DHTab_Controls.captions_comm[6]"
+msgstr "Mikrofon aktivieren"
+
+msgid "DHTab_Controls.captions_comm[12]"
+msgstr "Stummschaltmenü"
+
+msgid "DHGamePageSP.NoBotsWarningText"
+msgstr ""
+"Darkest Hour: Europe '44-'45 ist allein auf Mehrspieler ausgerichtet und "
+"bietet daher KEINE Unterstützung für Bots im Übungsmodus."
+
+msgid "DHTab_Controls.Captions_Inventory[6]"
+msgstr "Inventarplatz 7"
+
+msgid "DHTab_Controls.captions_comm[8]"
+msgstr "Zu lokalem Sprachkanal wechseln"
+
+msgid "DHTab_Controls.captions_comm[11]"
+msgstr "Beginne eine Chat Nachricht zu schreiben"
+
+msgid "DHDeployMenu.SupplyVehicleImageObject.Hint"
+msgstr "Konstruktionsversorgungssfahrzeug"
+
+msgid "DHIAMultiColumnRulesPanel.AdvancedButton.Caption"
+msgstr "Erweiterte Optionen anzeigen"
+
+msgid "DHMainMenu.SteamMustBeRunningText"
+msgstr ""
+"Steam muss laufen und es muss eine aktive Internetverbindung bestehen um im "
+"Mehrspielermodus zu spielen"
+
+msgid "DHTab_Controls.captions_movement[12]"
+msgstr "Rennen (umschalten)"
+
+msgid "DHTab_DetailSettings.WeatherEffects.Caption"
+msgstr "Wettereffekte"
