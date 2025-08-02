@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-02 12:38+0000\n"
+"PO-Revision-Date: 2025-08-03 12:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/de/>\n"
@@ -52,9 +52,8 @@ msgstr "O-240"
 msgid "DH_45mmM1942GunCannon.nProjectileDescriptions[2]"
 msgstr "BR-240P"
 
-#, fuzzy
 msgid "DH_6PounderGun.VehicleNameString"
-msgstr "6 Pounder Mk.IV Panzerabwehrkanone"
+msgstr "6-Pfünder Mk.IV Panzerabwehrkanone"
 
 msgid "DH_6PounderGunCannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
@@ -72,15 +71,12 @@ msgstr "Yards"
 msgid "DH_Bofors40mmCannon.ProjectileDescriptions[1]"
 msgstr "AP"
 
-#, fuzzy
 msgid "DH_Flak38Gun.VehicleNameString"
 msgstr "2cm FlaK 38 Geschütz"
 
-#, fuzzy
 msgid "DH_Flak88Gun.VehicleNameString"
 msgstr "8.8cm FlaK 36 Geschütz"
 
-#, fuzzy
 msgid "DH_Flakvierling38Gun.VehicleNameString"
 msgstr "2cm Flakvierling 38 Geschütz"
 
@@ -105,17 +101,14 @@ msgstr "HE"
 msgid "DH_M1927Cannon.ProjectileDescriptions[1]"
 msgstr "HEAT"
 
-#, fuzzy
 msgid "DH_M45QuadmountGun.VehicleNameString"
 msgstr "M45 Vierlingsgeschütz"
 
-#, fuzzy
 msgid "DH_M5Gun.VehicleNameString"
-msgstr "3-Inch Geschütz M5"
+msgstr "3-Zoll Geschütz M5"
 
-#, fuzzy
 msgid "DH_Pak38ATGun.VehicleNameString"
-msgstr "5.0 cm Pak38 Geschütz"
+msgstr "5cm Pak38 Geschütz"
 
 msgid "DH_Pak38Cannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
@@ -132,13 +125,11 @@ msgstr "APCR"
 msgid "DH_Pak39Cannon.ProjectileDescriptions[2]"
 msgstr "HE"
 
-#, fuzzy
 msgid "DH_Pak39Gun.VehicleNameString"
-msgstr "5.0cm KwK 39 Geschütz"
+msgstr "5cm KwK 39 Geschütz"
 
-#, fuzzy
 msgid "DH_Pak40ATGun.VehicleNameString"
-msgstr "7.5cm Pak40 Geschütz"
+msgstr "7,5cm Pak40 Geschütz"
 
 msgid "DH_Pak40Cannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
@@ -149,9 +140,8 @@ msgstr "HE"
 msgid "DH_Pak40Cannon.ProjectileDescriptions[2]"
 msgstr "APCR"
 
-#, fuzzy
 msgid "DH_Pak43ATGun.VehicleNameString"
-msgstr "8.8 cm Pak43/41 Geschütz"
+msgstr "8,8 cm Pak43/41 Geschütz"
 
 msgid "DH_PantherturmCannon.ProjectileDescriptions[1]"
 msgstr "APCR"
@@ -171,7 +161,6 @@ msgstr "HE"
 msgid "DH_ZiS2Cannon.ProjectileDescriptions[2]"
 msgstr "APCR"
 
-#, fuzzy
 msgid "DH_ZiS2Gun.VehicleNameString"
 msgstr "ZiS-2 57mm Panzerabwehrkanone"
 
@@ -193,7 +182,6 @@ msgstr "APCR"
 msgid "DH_45mmM1937Gun.VehicleNameString"
 msgstr "45mm 53-K (1937) Panzerabwehrkanone"
 
-#, fuzzy
 msgid "DH_AT57Gun.VehicleNameString"
 msgstr "57mm M1 Panzerabwehrkanone"
 
@@ -203,9 +191,8 @@ msgstr "HE-T"
 msgid "DH_PantherturmCannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
 
-#, fuzzy
 msgid "DH_Bofors40mmGun.VehicleNameString"
-msgstr "Bofors 40mm Geschütz"
+msgstr "40mm-Bofors-Geschütz"
 
 msgid "DH_Pak38Cannon.ProjectileDescriptions[1]"
 msgstr "APCR"
@@ -279,9 +266,8 @@ msgstr "Cannone da 47/32"
 msgid "DH_Cannone4732Cannon.nProjectileDescriptions<1>"
 msgstr "Granata da 47"
 
-#, fuzzy
 msgid "DH_Cannone4732Cannon.nProjectileDescriptions<2>"
-msgstr "Effeto Pronto da 47"
+msgstr "Effetto Pronto da 47"
 
 msgid "DH_Cannone4732Cannon.ProjectileDescriptions<0>"
 msgstr "AP"
@@ -435,3 +421,144 @@ msgstr "M42A1 HE-T"
 
 msgid "DH_M116Cannon.ProjectileDescriptions<0>"
 msgstr "HE"
+
+msgid "DH_Pak38Cannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40"
+
+msgid "DH_Pak38Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Pak39Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Pak39Cannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40"
+
+msgid "DH_Pak40Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Pak40Cannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+msgid "DH_Pak40Cannon.nProjectileDescriptions<2>"
+msgstr "PzGr.40"
+
+msgid "DH_Pak38Cannon.ProjectileDescriptions<1>"
+msgstr "APCR"
+
+msgid "DH_Pak38Cannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_Pak39Cannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_Pak39Cannon.ProjectileDescriptions<1>"
+msgstr "APCR"
+
+msgid "DH_ZiS2Cannon.nProjectileDescriptions<2>"
+msgstr "BR-271P"
+
+msgid "DH_ZiS3Cannon.nProjectileDescriptions<0>"
+msgstr "BR-350B"
+
+msgid "DH_Model35MortarCannon.ProjectileDescriptions<2>"
+msgstr "HE-L"
+
+msgid "DH_Model35MortarCannon.nProjectileDescriptions<1>"
+msgstr "Bomba Fumogena"
+
+msgid "DH_Model35MortarCannon.nProjectileDescriptions<2>"
+msgstr "Bomba gr. c. da 81"
+
+msgid "DH_Pak38Cannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Patr.38"
+
+msgid "DH_Pak39Cannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Patr.38"
+
+msgid "DH_Pak40Cannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_Pak40Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_Pak40Cannon.ProjectileDescriptions<2>"
+msgstr "APCR"
+
+msgid "DH_Pak43Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39/43"
+
+msgid "DH_Pak43Cannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr."
+
+msgid "DH_PantherturmCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_PantherturmCannon.ProjectileDescriptions<1>"
+msgstr "APCR"
+
+msgid "DH_PantherturmCannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_PantherturmCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39/42"
+
+msgid "DH_PantherturmCannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Patr.42"
+
+msgid "DH_ZiS2Cannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_ZiS2Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_ZiS2Cannon.ProjectileDescriptions<2>"
+msgstr "APCR"
+
+msgid "DH_ZiS3Cannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_ZiS3Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_ZiS3Cannon.nProjectileDescriptions<1>"
+msgstr "OF-350"
+
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions<2>"
+msgstr "APCR"
+
+msgid "DH_ZiS3CannonLate.nProjectileDescriptions<0>"
+msgstr "BR-350B"
+
+msgid "DH_ZiS3CannonLate.nProjectileDescriptions<1>"
+msgstr "OF-350"
+
+msgid "DH_ZiS3CannonLate.nProjectileDescriptions<2>"
+msgstr "BR-350P"
+
+msgid "DH_Pak39Cannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_Model35MortarCannon.nProjectileDescriptions<0>"
+msgstr "Bomba g. a. da 81"
+
+msgid "DH_PantherturmCannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40/42"
+
+msgid "DH_Pak38Cannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_ZiS2Cannon.nProjectileDescriptions<0>"
+msgstr "BR-271"
+
+msgid "DH_ZiS2Cannon.nProjectileDescriptions<1>"
+msgstr "O-271"
+
+msgid "DH_ZiS3Gun.VehicleNameString"
+msgstr "ZiS-3 76mm Divisionsgeschütz"
