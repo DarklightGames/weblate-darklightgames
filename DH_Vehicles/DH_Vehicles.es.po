@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 18:15+0000\n"
+"PO-Revision-Date: 2025-08-02 12:38+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/es/>\n"
@@ -82,7 +82,7 @@ msgid "DH_HigginsBoat.VehicleNameString"
 msgstr "Bote Higgins"
 
 msgid "DH_IS2Tank.VehicleNameString"
-msgstr "IS2"
+msgstr "Tanque pesado IS2"
 
 msgid "DH_ISU152Destroyer.VehicleNameString"
 msgstr "ISU-152"
@@ -100,7 +100,7 @@ msgid "DH_JagdtigerTank.VehicleNameString"
 msgstr "Jagdpanzer VI 'Jagdtiger' Ausf.B"
 
 msgid "DH_KV1ETank.VehicleNameString"
-msgstr "KV-1E"
+msgstr "Tanque pesado KV-1E"
 
 msgid "DH_KV1sTank.VehicleNameString"
 msgstr "KV-1S"
