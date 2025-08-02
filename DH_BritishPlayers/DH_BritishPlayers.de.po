@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-19 04:22+0000\n"
+"PO-Revision-Date: 2025-08-03 12:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_britishplayers/de/>\n"
@@ -43,7 +43,7 @@ msgid "DHCWCorporalRoles.PluralName"
 msgstr "Lance Corporals"
 
 msgid "DHCWSergeantRoles.MyName"
-msgstr "Corporal"
+msgstr "Unteroffizier"
 
 msgid "DHCWSergeantRoles.PluralName"
 msgstr "Corporals"
