@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-31 19:43+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2025-08-03 12:43+0000\n"
+"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/de/>\n"
 "Language: de\n"
@@ -544,9 +544,8 @@ msgstr "Beste Waffe"
 msgid "ROControlBinder.BindingLabel[48]"
 msgstr "In Game Chat"
 
-#, fuzzy
 msgid "ROControlBinder.BindingLabel[26]"
-msgstr "Bewegung feststellen"
+msgstr "Seitwärtsbewegung umschalten"
 
 msgid "ROGUITeamSelection.TeamJoinText[0]"
 msgstr "ACHSENMÄCHTE BEITRETEN"
