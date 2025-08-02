@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-21 17:43+0000\n"
+"PO-Revision-Date: 2025-08-02 12:38+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/de/>\n"
@@ -12,13 +12,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.7.2\n"
 
-#, fuzzy
 msgid "DHATCannonMessage.GunIsRotating"
-msgstr "Das Geschütz wird ausgerichtet"
+msgstr "Das Geschütz wird neu ausgerichtet"
 
-#, fuzzy
 msgid "DHATCannonMessage.NotQualified"
-msgstr "Nicht ausgebildet dieses Geschütz zu bedienen"
+msgstr "Nicht ausgebildet um dieses Geschütz zu bedienen"
 
 msgid "DHATCannonMessage.VehicleIsEnemy"
 msgstr "Feindliche Geschütze können nicht bedient werden"
@@ -30,11 +28,9 @@ msgstr "Das Geschütz ist bereits bemannt"
 msgid "DHATGunCannonPawn.HudName"
 msgstr "Richtschütze"
 
-#, fuzzy
 msgid "DHATLoadFailMessage.CantLoad"
-msgstr "{0} kann nur aufliegend nachgeladen werden"
+msgstr "{0} kann nur aufgelegt nachgeladen werden"
 
-#, fuzzy
 msgid "DHATLoadMessage.LoadedGunner"
 msgstr "{0} wurde nachgeladen"
 
@@ -79,9 +75,8 @@ msgstr "Diesem Server kann nicht beigetreten werden, Sie wurden gebannt."
 msgid "DHAxisAntiTankRoles.MyName"
 msgstr "Panzerabwehrsoldat"
 
-#, fuzzy
 msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
-msgstr "Ausrichten beenden"
+msgstr "Absetzen"
 
 msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
 msgstr "Ausrichten"
