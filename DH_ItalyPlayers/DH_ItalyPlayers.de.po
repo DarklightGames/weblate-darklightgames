@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-19 18:42+0000\n"
-"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
+"PO-Revision-Date: 2025-08-02 12:38+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_italyplayers/de/>\n"
 "Language: de\n"
@@ -12,9 +12,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.7.2\n"
 
-#, fuzzy
 msgid "DHItalyVoice.SupportStringAxis[5]"
-msgstr "Bringt den Panzerschreckschützen!"
+msgstr "Bringt den Panzerabwehrgewehr!"
 
 msgid "DHNation_Italy.NationName"
 msgstr "Königreich Italien"
