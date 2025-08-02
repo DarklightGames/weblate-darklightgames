@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-01 19:41+0000\n"
+"PO-Revision-Date: 2025-08-02 12:38+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/es/>\n"
@@ -355,7 +355,7 @@ msgid "DH_ML3InchCannon.nProjectileDescriptions<0>"
 msgstr "HE"
 
 msgid "DH_ML3InchCannon.nProjectileDescriptions<1>"
-msgstr "Fosforo"
+msgstr "Fosforo Blanco"
 
 msgid "DH_Model35MortarCannon.ProjectileDescriptions<0>"
 msgstr "HE"
