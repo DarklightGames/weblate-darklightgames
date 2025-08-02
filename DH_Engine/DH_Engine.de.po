@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-02 12:38+0000\n"
+"PO-Revision-Date: 2025-08-03 12:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/de/>\n"
@@ -34,27 +34,23 @@ msgstr "{0} kann nur aufgelegt nachgeladen werden"
 msgid "DHATLoadMessage.LoadedGunner"
 msgstr "{0} wurde nachgeladen"
 
-#, fuzzy
 msgid "DHATLoadMessage.BeenLoaded"
 msgstr "Du wurdest von {0} nachgeladen"
 
 msgid "DHATLoadMessage.UnLoaded"
 msgstr "Das Geschoss wurde entladen"
 
-#, fuzzy
 msgid "DHAccessControl.SessionBanned"
-msgstr "Sie können diesem Server erst nach Kartenwechsel beitreten."
+msgstr "Sie können diesem Server erst nach Wechsel der Karte beitreten."
 
 msgid "DHAdminMessage.KickedFromSquadMessage"
 msgstr "Admin '{0}' hat '{1}' aus Gruppe '{2}' entfernt."
 
-#, fuzzy
 msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
 msgstr "Admin '{0}' hat '{1}' zum Gruppenführer von '{2}' befördert."
 
-#, fuzzy
 msgid "DHAlliedAntiTankRoles.MyName"
-msgstr "Panzerabwehrsoldat"
+msgstr "Panzerabwehrschütze"
 
 #, fuzzy
 msgid "DHAxisAntiTankRoles.PluralName"
@@ -67,13 +63,11 @@ msgstr "{0} halten zum ausrichten"
 msgid "DHAlliedAntiTankRoles.PluralName"
 msgstr "Panzerabwehrsoldaten"
 
-#, fuzzy
 msgid "DHAccessControl.IPBanned"
-msgstr "Diesem Server kann nicht beigetreten werden, Sie wurden gebannt."
+msgstr "Diesem Server kann nicht beigetreten werden, da Sie gesperrt wurden."
 
-#, fuzzy
 msgid "DHAxisAntiTankRoles.MyName"
-msgstr "Panzerabwehrsoldat"
+msgstr "Panzerabwehrschütze"
 
 msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
 msgstr "Absetzen"
@@ -87,15 +81,13 @@ msgstr "Sturmsoldat"
 msgid "DHAlliedAssaultRoles.PluralName"
 msgstr "Sturmsoldaten"
 
-#, fuzzy
 msgid "DHAlliedAutoRifleRoles.MyName"
-msgstr "Leichter Maschinengewehrschütze"
+msgstr "LMG-Schütze"
 
 #, fuzzy
 msgid "DHAlliedAutoRifleRoles.PluralName"
 msgstr "Leichte Maschinengewehrschützen"
 
-#, fuzzy
 msgid "DHAlliedEngineerRoles.MyName"
 msgstr "Sturmpionier"
 
@@ -103,7 +95,6 @@ msgstr "Sturmpionier"
 msgid "DHAlliedEngineerRoles.PluralName"
 msgstr "Sturmpioniere"
 
-#, fuzzy
 msgid "DHAlliedMachineGunnerRoles.MyName"
 msgstr "Maschinengewehrschütze"
 
@@ -111,19 +102,16 @@ msgstr "Maschinengewehrschütze"
 msgid "DHAlliedMachineGunnerRoles.PluralName"
 msgstr "Maschinengewehrschützen"
 
-#, fuzzy
 msgid "DHAlliedMortarmanRoles.MyName"
 msgstr "Mörserschütze"
 
-#, fuzzy
 msgid "DHAlliedCorporalRoles.MyName"
-msgstr "Rottenführer"
+msgstr "Unteroffizier"
 
 #, fuzzy
 msgid "DHAlliedCorporalRoles.PluralName"
 msgstr "Rottenführer"
 
-#, fuzzy
 msgid "DHAlliedRadioOperatorRoles.MyName"
 msgstr "Funker"
 
@@ -131,7 +119,6 @@ msgstr "Funker"
 msgid "DHAlliedRadioOperatorRoles.PluralName"
 msgstr "Funker"
 
-#, fuzzy
 msgid "DHAlliedRiflemanRoles.MyName"
 msgstr "Schütze"
 
@@ -143,7 +130,6 @@ msgstr "Schützen"
 msgid "DHAlliedSergeantRoles.PluralName"
 msgstr "Scharführer"
 
-#, fuzzy
 msgid "DHAlliedSniperRoles.MyName"
 msgstr "Scharfschütze"
 
@@ -151,7 +137,6 @@ msgstr "Scharfschütze"
 msgid "DHAlliedSniperRoles.PluralName"
 msgstr "Scharfschützen"
 
-#, fuzzy
 msgid "DHAlliedTankCrewmanRoles.MyName"
 msgstr "Panzerbesatzung"
 
@@ -171,9 +156,8 @@ msgstr "%o wurde von ihrem eigenen %w in die Luft gejagt."
 msgid "DHAntiTankProjectileDamageType.MaleSuicide"
 msgstr "%o wurde von seinem eigenen %w in die Luft gejagt."
 
-#, fuzzy
 msgid "DHArtillery.MenuName"
-msgstr "Schwere Artillerie"
+msgstr "Fernkampfartillerie"
 
 msgid "DHArtillery105DamageType.DeathString"
 msgstr "%o wurde von einer Artilleriegranate zerfetzt."
@@ -198,9 +182,8 @@ msgstr "{name} bestätigt."
 msgid "DHArtilleryMessage.DenyText"
 msgstr "{name} abgelehnt."
 
-#, fuzzy
 msgid "DHArtilleryMessage.TooSoonText"
-msgstr "{name} ist gerade in Benutzung. Später erneut versuchen."
+msgstr "{name} wird bereits benutzt. Später erneut versuchen."
 
 msgid "DHArtilleryMessage.ExhaustedText"
 msgstr "{name} ist aufgebraucht."
@@ -217,37 +200,30 @@ msgstr "Sie sind nicht ausgebildet um {name} anzufordern."
 msgid "DHArtilleryMessage.CancelledText"
 msgstr "{name} wurde abgebrochen."
 
-#, fuzzy
 msgid "DHArtilleryMessage.ActiveTargetChosen"
 msgstr "Feuerunterstützungsziel ausgewählt."
 
 msgid "DHAxisSniperRoles.MyName"
 msgstr "Scharfschütze"
 
-#, fuzzy
 msgid "DHArtillerySpottingScope.TargetToggleHint"
-msgstr "{0} drücken um zwischen Artilleriezielen zu wechseln."
+msgstr "{0} drücken um zwischen Artilleriezielen zu wechseln"
 
-#, fuzzy
 msgid "DHArtillerySpottingScope.SelectTargetHint"
-msgstr "{0} drücken um ein Artillerieziel auszuwählen."
+msgstr "{0} drücken um ein Artillerieziel auszuwählen"
 
-#, fuzzy
 msgid "DHArtilleryTargetMessage.TargetInvalid"
 msgstr "Unzulässe Artilleriezielkoordinaten"
 
 msgid "DHArtilleryTargetMessage.TargetMarkedHE"
 msgstr "{0} hat Zielkoordinaten für hochexplosiv Granaten markiert"
 
-#, fuzzy
 msgid "DHArtilleryTargetMessage.TargetMarkedSmoke"
-msgstr "{0} hat Zielkoordinaten für Nebelgranaten markiert"
+msgstr "{0} hat ein Nebelartillerieziel markiert"
 
-#, fuzzy
 msgid "DHArtilleryTargetMessage.TooManyArtilleryTargets"
 msgstr "Es gibt zu viele aktive Artilleriezielkoordinaten"
 
-#, fuzzy
 msgid "DHAxisAssaultRoles.MyName"
 msgstr "Sturmsoldat"
 
@@ -255,15 +231,13 @@ msgstr "Sturmsoldat"
 msgid "DHAxisAssaultRoles.PluralName"
 msgstr "Sturmsoldaten"
 
-#, fuzzy
 msgid "DHAxisCorporalRoles.MyName"
-msgstr "Rottenführer"
+msgstr "Unteroffizier"
 
 #, fuzzy
 msgid "DHAxisCorporalRoles.PluralName"
 msgstr "Rottenführer"
 
-#, fuzzy
 msgid "DHAxisEngineerRoles.MyName"
 msgstr "Sturmpionier"
 
@@ -277,9 +251,8 @@ msgstr "Maschinengewehrschütze"
 msgid "DHAxisMachineGunnerRoles.PluralName"
 msgstr "Maschinengewehrschützen"
 
-#, fuzzy
 msgid "DHAxisMarksmanRoles.MyName"
-msgstr "Scharfschütze"
+msgstr "Zielschütze"
 
 msgid "DHAxisMarksmanRoles.PluralName"
 msgstr "Scharfschützen"
@@ -299,9 +272,8 @@ msgstr "Schütze"
 msgid "DHAxisRiflemanRoles.PluralName"
 msgstr "Schützen"
 
-#, fuzzy
 msgid "DHAxisSergeantRoles.MyName"
-msgstr "Unteroffizier"
+msgstr "Feldwebel"
 
 #, fuzzy
 msgid "DHAxisSergeantRoles.PluralName"
@@ -343,7 +315,6 @@ msgstr "%o wurde von ihrem eigenen Kanistergeschoss zersiebt."
 msgid "DHCanisterShotDamageType.MaleSuicide"
 msgstr "%o wurde von seinem eigenen Kanistergeschoss zersiebt."
 
-#, fuzzy
 msgid "DHChatRoomMessage.CannotJoinSquadChannelText"
 msgstr ""
 "Konnte Funkkanal`%title%`nicht beitreten. Sie müssen Teil einer Gruppe sein."
@@ -375,17 +346,14 @@ msgstr "Erschöpft"
 msgid "DHCommandMenu_FireSupport.AvailableArtilleryText"
 msgstr "Artillerie: {0}"
 
-#, fuzzy
 msgid "DHCommandMenu_FireSupport.AvailableParadropsText"
 msgstr "Fallschirmabwürfe: {0}"
 
-#, fuzzy
 msgid "DHCommandMenu_FireSupport.AvailableAirstrikesText"
 msgstr "Luftschläge: {0}"
 
-#, fuzzy
 msgid "DHCommandMenu_LoneWolf.AutoJoinSquadDisabledText"
-msgstr "Keine geeigneten Gruppen"
+msgstr "Keine wählbaren Gruppen"
 
 msgid "DHCommandMenu_Radio.UnavailableText"
 msgstr "Nicht verfügbar"
@@ -393,22 +361,18 @@ msgstr "Nicht verfügbar"
 msgid "DHCommandMenu_Radio.ExhaustedText"
 msgstr "Erschöpft"
 
-#, fuzzy
 msgid "DHCommandMenu_Radio.UnqualifiedText"
 msgstr "Nicht ausgebildet"
 
-#, fuzzy
 msgid "DHCommandMenu_Radio.OngoingText"
 msgstr "Im Gange"
 
 msgid "DHCommandMenu_Radio.AvailableText"
 msgstr "Verfügbar"
 
-#, fuzzy
 msgid "DHCommandMenu_Radio.CancelText"
 msgstr "Im Gange (Abbrechen)"
 
-#, fuzzy
 msgid "DHCommandMenu_SquadLeader.InEnemyTerritory"
 msgstr "In feindlichem Gebiet"
 
@@ -418,9 +382,8 @@ msgstr "Bereits in einer Gruppe"
 msgid "DHCommandMenu_SquadManageNonMember.SquadIsFullText"
 msgstr "Gruppe ist voll"
 
-#, fuzzy
 msgid "DHCommandSayMessage.MessagePrefix"
-msgstr "[FÜHRUNG]"
+msgstr "[KOMMANDO]"
 
 msgid "DHConstruction.ConstructionVerb"
 msgstr "errichten"
@@ -429,9 +392,8 @@ msgstr "errichten"
 msgid "DHAlliedMortarmanRoles.PluralName"
 msgstr "Mörserschützen"
 
-#, fuzzy
 msgid "DHAlliedSergeantRoles.MyName"
-msgstr "Scharführer"
+msgstr "Feldwebel"
 
 #, fuzzy
 msgid "DHAntiTankProjectileDamageType.DeathString"
@@ -448,46 +410,37 @@ msgstr "Funker"
 msgid "DHArtillery105DamageType.FemaleSuicide"
 msgstr "%o war sorglos im Umgang mit ihrer eigenen Artilleriegranate."
 
-#, fuzzy
 msgid "DHArtilleryMessage.BadLocationText"
 msgstr "Zielkoordinaten nicht zulässig für {name}."
 
-#, fuzzy
 msgid "DHArtillerySpottingScope.NoTargetsHint"
-msgstr "Keine Zielkoordinaten vorhanden."
+msgstr "Keine Zielkoordinaten vorhanden"
 
-#, fuzzy
 msgid "DHArtilleryTargetMessage.CannotMarkTargetYet"
 msgstr ""
 "Es können derzeit noch keine weiteren Artilleriezielkoordinaten markiert "
-"werden."
+"werden"
 
 msgid "DHChatRoomMessage.CannotJoinCommandChannelText"
 msgstr ""
 "Konnte Funkkanal`%title%` nicht beitreten. Sie müssen Gruppenführer oder "
 "Adjutant sein und die Gruppe muss aus mindestens 2 Personen bestehen."
 
-#, fuzzy
 msgid "DHCommunicationMessage.AllChatDisabledMessage"
 msgstr "Öffentlicher Chat ist derzeit deaktiviert."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<2>"
 msgstr "{name} lässt sich nur auf festem Grund {verb}."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<3>"
-msgstr "Der Boden ist zu steil an dieser Stelle um {name} zu {verb}."
+msgstr "Der Boden ist hier zu steil um {name} zu {verb}."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<4>"
 msgstr "{name} kann nicht in Wasser {verb} werden."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<5>"
 msgstr "An dieser Stelle lässt sich kein {name} {verb}."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<6>"
 msgstr "Nicht ausreichend Platz an dieser Stelle um {name} zu {verb}."
 
@@ -782,3 +735,326 @@ msgid "DHSquadMessage.RallyPointCreatedMessage"
 msgstr ""
 "Es wurde ein Gruppensammelpunkt gesetzt. Sichere die Umgebung mit der "
 "Gruppe, um den Sammelpunkt zu errichten."
+
+msgid "DHInventorySpawner.MenuNameFormat"
+msgstr "{name} {noun}"
+
+msgid "DHMapMarker_FireSupport_HE.MarkerName"
+msgstr "HE anfordern"
+
+msgid "DHConstructionGroup_Guns.GroupName"
+msgstr "Geschütze"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<9>"
+msgstr ""
+"Zu nah an einem existierenden feindlichen {name}, es muss weitere {integer}m "
+"entfernt sein."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<16>"
+msgstr "Es steht nicht ausreichend Nachschub zur Verfügung um {name} zu {verb}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<27>"
+msgstr "Dieser Platz ist bereits belegt"
+
+msgid "DHConstruction_Vehicle.ConstructionVerb"
+msgstr "platzieren"
+
+msgid "DHGameMessage.RoleLockedMessage"
+msgstr "{role} wurde gesperrt."
+
+msgid "DHGameMessage.RoleUnlockedMessage"
+msgstr "{role} wurde entsperrt."
+
+msgid "DHIQMessage.Congratulations<3>"
+msgstr "Gut gemacht!"
+
+msgid "DHIQMessage.Congratulations<6>"
+msgstr "Brillant!"
+
+msgid "DHIQMessage.Congratulations<7>"
+msgstr "Du bist der schlaueste!"
+
+msgid "DHLib.ServerHealthStages[3].Text"
+msgstr "Schlecht"
+
+msgid "DHLib.ServerHealthStages[4].Text"
+msgstr "Miserabel"
+
+msgid "DHLocalMessage.SquadLeaderID"
+msgstr "GF"
+
+msgid "DHMapDatabase.SizeAnyText"
+msgstr "Beliebig"
+
+msgid "DHMapDatabase.SizeExtraSmallText"
+msgstr "Sehr klein"
+
+msgid "DHMapDatabase.SizeSmallText"
+msgstr "Klein"
+
+msgid "DHMapDatabase.SizeMediumText"
+msgstr "Mittel"
+
+msgid "DHMapDatabase.SizeLargeText"
+msgstr "Groß"
+
+msgid "DHLib.ServerHealthStages[2].Text"
+msgstr "Normal"
+
+msgid "DHMapMarker_Enemy_Vehicle.MarkerName"
+msgstr "Feindliches Fahrzeug"
+
+msgid "DHMapMarker_FireSupport_OffMap.MarkerName"
+msgstr "Fernkampf-Feuerunterstützung"
+
+msgid "DHMapMarker_FireSupport_Smoke.MarkerName"
+msgstr "Nebel anfordern"
+
+msgid "DHMapMarker_OngoingBarrage.MarkerName"
+msgstr "Aktives Sperrfeuer"
+
+msgid "DHCommandMenu_Patron.Options<1>.ActionText"
+msgstr "Aufklären"
+
+msgid "DHCommandMenu_SquadAssistant.Options<0>.ActionText"
+msgstr "Konstruktion"
+
+msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
+msgstr "Kein Spieler "
+
+msgid "DHCommandMenu_SquadLeader.Options<4>.ActionText"
+msgstr "Aufklärung"
+
+msgid "DHCommandMenu_SquadLeader.Options<1>.ActionText"
+msgstr "Feuer"
+
+msgid "DHCommandMenu_SquadLeader.Options<5>.ActionText"
+msgstr "Bewegung"
+
+msgid "DHConstructionSupplyAttachment_Static_Main.HumanReadableName"
+msgstr "Hauptnachschublager"
+
+msgid "DHFireSupportMessage.ArtilleryOperatorNotification"
+msgstr "Gruppe {squad} hat ein {type} Ziel für Feuerunterstützung markiert."
+
+msgid "DHFireSupportMessage.ErrorText"
+msgstr "Konnte keine Feuerunterstützungsmarkierung setzen."
+
+msgid "DHGameMessage.VehicleDestroyedMessage"
+msgstr "{0} wurde zerstört."
+
+msgid "DHGameMessage.VehicleTeamKilledMessage"
+msgstr "{0} hat einen eigenen {1} zerstört."
+
+msgid "DHGameMessage.RoleInvalidatedMessage"
+msgstr "Du bist nicht länger qualifiziert um {name} zu sein."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<17>"
+msgstr "Auf dieser Oberfläche kann kein {name} {verb} werden."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<18>"
+msgstr "Der Boden ist zu hart um hier ein {name} zu {verb}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<22>"
+msgstr ""
+"Zu nah an einem Zielobjekt {string}), es muss sich weitere {integer}m "
+"entfernt befinden."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<25>"
+msgstr "{name} kann nicht in feindlichem Gebiet {verb} werden"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<23>"
+msgstr ""
+"Zu nah an einem nicht kontrolliertem Zielobjekt {string}), es muss sich "
+"weitere {integer}m entfernt befinden."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<26>"
+msgstr "Es stehen keine weiteren {name} zur Verfügung"
+
+msgid "DHMapMarker_Enemy_ATGun.MarkerName"
+msgstr "Feindliches Panzerabwehrgeschütz"
+
+msgid "DHMapMarker_Enemy_Infantry.MarkerName"
+msgstr "Feindliche Infanterie"
+
+msgid "DHMapMarker_Ruler.MarkerName"
+msgstr "Messen"
+
+msgid "DHMapMarker_Squad_Defend.MarkerName"
+msgstr "Verteidigung (Gruppe)"
+
+msgid "DHMapMarker_Squad_Attack.MarkerName"
+msgstr "Angriff (Gruppe)"
+
+msgid "DHMapMarker_Squad_Attention.MarkerName"
+msgstr "Achtung (Gruppe)"
+
+msgid "DHLib.ServerHealthStages[0].Text"
+msgstr "Ausgezeichnet"
+
+msgid "DHLib.ServerHealthStages[1].Text"
+msgstr "Gut"
+
+msgid "DHMapMarker.CalculatingString"
+msgstr "Kalkuliert..."
+
+msgid "DHMapMarker_Friendly_CommandPost.MarkerName"
+msgstr "Gefechtsstand anfordern"
+
+msgid "DHMapMarker_Enemy_CommandPost.MarkerName"
+msgstr "Feindlicher Gefechtsstand"
+
+msgid "DHCommandMenu_LoneWolf.Options<0>.ActionText"
+msgstr "Automatischer Gruppenbeitritt"
+
+msgid "DHCommandMenu_LoneWolf.Options<1>.ActionText"
+msgstr "Gruppe bilden"
+
+msgid "DHCommandMenu_Patron.Options<0>.ActionText"
+msgstr "Konstruktion"
+
+msgid "DHCommandMenu_SquadManageMember.Options<1>.SubjectText"
+msgstr "Zum Gruppenführer befördern"
+
+msgid "DHCommandMenu_SquadManageMember.Options<2>.SubjectText"
+msgstr "Aus Gruppe verbannen"
+
+msgid "DHCommandMenu_SquadManageMember.Options<0>.SubjectText"
+msgstr "Aus Gruppe werfen"
+
+msgid "DHCommandMenu_SquadMenu.Options<0>.ActionText"
+msgstr "Gruppe verlassen"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<10>"
+msgstr "{name} kann nicht in einem Minenfeld {verb} werden."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<11>"
+msgstr "{name} kann nicht nahe eines Einsetzpunkts {verb} werden."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<13>"
+msgstr "{name} kann nicht in einem Zielobjekt {verb} werden."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<14>"
+msgstr ""
+"Deine Seite kann keine weiteren {name} {verb} (Limit erreicht: {integer})."
+
+msgid "DHGameMessage.VehicleDepletedMessage"
+msgstr "{0} Verstärkungen sind erschöpft."
+
+msgid "DHCommandMenu_ATGun.BusyText"
+msgstr "Beschäftigt"
+
+msgid "DHCommandMenu_SquadLeader.Options<2>.ActionText"
+msgstr "Konstruktion"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<7>"
+msgstr "{name} muss auf geerdetem Gelände {verb} werden."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<24>"
+msgstr ""
+"Ein {name} muss innerhalb {integer}m eines befreundeten {string} {verb} "
+"werden"
+
+msgid "DHFireSupportMessage.OnMapArtilleryRequestingLocked"
+msgstr ""
+"Es kann für weitere {seconds} Sekunden kein Feuerunterstützungsziel markiert "
+"werden."
+
+msgid "DHFireSupportMessage.RadiomanNotification"
+msgstr "Gruppe {squad} hat ein Ziel für Fernkampf-Feuerunterstützung markiert."
+
+msgid "DHGameMessage.VehicleCutOffMessage"
+msgstr "{0} Verstärkungen wurden abgeschnitten."
+
+msgid "DHIQMessage.Congratulations<2>"
+msgstr "Du bist ein taktisches Genie!"
+
+msgid "DHInventorySpawner.MenuNoun"
+msgstr "Kiste"
+
+msgid "DHMainMenuGame.GameName"
+msgstr "Spiel"
+
+msgid "DHMapMarker_Enemy_Tank.MarkerName"
+msgstr "Feindlicher Panzer"
+
+msgid "DHResupplyMessage.BeenResupplied"
+msgstr "Du wurdest von {0} aufmunitioniert"
+
+msgid "DHCommandMenu_ATGun.Options<0>.ActionText"
+msgstr "Ausrichten"
+
+msgid "DHCommandMenu_SquadManageNonMember.Options<0>.ActionText"
+msgstr "Zur Gruppe einladen"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<12>"
+msgstr "{name} kann nicht drinnen {verb} werden."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<15>"
+msgstr "Es gibt innerhalb {integer} Metern keine Nachschublager."
+
+msgid "DHConstructionSupplyAttachment.HumanReadableName"
+msgstr "Nachschublager"
+
+msgid "DHEnemyInformationMsg.EnemyIsWeak"
+msgstr "Der Feind hat kaum noch Verstärkungen, der Sieg ist nahe!"
+
+msgid "DHFireSupportMessage.OnMapArtilleryRequestConfirmedText"
+msgstr "Feuerunterstützungsziel wurde markiert."
+
+msgid "DHFireSupportMessage.OffMapArtilleryRequestConfirmedText"
+msgstr "Fernkampf-Feuerunterstützungsziel wurde markiert."
+
+msgid "DHLastObjectiveMessage.AxisAboutToWinMessage"
+msgstr ""
+"Letztes Angriffsziel -- Die Achsenmächte haben das Gefecht beinahe gewonnen!"
+
+msgid "DHLastObjectiveMessage.AlliesAboutToWinMessage"
+msgstr ""
+"Letztes Angriffsziel -- Die Alliierten haben das Gefecht beinahe gewonnen!"
+
+msgid "DHMapMarker_AdminParadrop.MarkerName"
+msgstr "ADMIN: Platziere eine Fallschirmabwurfmarkierung"
+
+msgid "DHResupplyMessage.HaveResuppliedFriendlyMortar"
+msgstr "Du hast einen eigenen Mörser aufmunitioniert"
+
+msgid "DHCommandPostMessage.ActivatedMessage"
+msgstr "Ein {name} wurde errichtet."
+
+msgid "DHCommandPostMessage.OverrunMessage"
+msgstr "Ein {name} wurde vom Feind überrannt."
+
+msgid "DHCommandPostMessage.DestroyedMessage"
+msgstr "Ein {name} wurde zerstört."
+
+msgid "DHCommandPostMessage.ConstructedMessage"
+msgstr "Ein {name} wurde gebaut und wird in {seconds} Sekunden errichtet."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<8>"
+msgstr ""
+"Zu nah an einem existierenden eigenen {name}, es muss weitere {integer}m "
+"entfernt sein."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<20>"
+msgstr ""
+"Es müssen sich {integer} Mitglieder in deiner Gruppe befinden um {name} zu "
+"{verb}."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<21>"
+msgstr "{name} kann nicht {verb} werden während du beschäftigt bist."
+
+msgid "DHFriendlyInformationMsg.TeamSurrendered"
+msgstr "Deine Seite zieht sich zurück, das Gefecht wird in Kürze vorbei sein!"
+
+msgid "DHEnemyInformationMsg.EnemyIsSurrendering"
+msgstr "Der Feind zieht sich zurück, das Gefecht wird in Kürze vorbei sein!"
+
+msgid "DHGameMessage.VehicleArrivedMessage"
+msgstr "{0} Verstärkungen sind eingetroffen."
+
+msgid "DHIQMessage.Congratulations<4>"
+msgstr "Komplett Verrückter!"
+
+msgid "DHMapMarker_Friendly_Supplies.MarkerName"
+msgstr "Nachschub anfordern"
