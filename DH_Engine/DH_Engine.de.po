@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-03 12:43+0000\n"
+"PO-Revision-Date: 2025-08-03 18:52+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/de/>\n"
@@ -1017,7 +1017,7 @@ msgid "DHMapMarker_AdminParadrop.MarkerName"
 msgstr "ADMIN: Platziere eine Fallschirmabwurfmarkierung"
 
 msgid "DHResupplyMessage.HaveResuppliedFriendlyMortar"
-msgstr "Du hast einen eigenen Mörser aufmunitioniert"
+msgstr "Verbündeten Mörser aufmunitioniert"
 
 msgid "DHCommandPostMessage.ActivatedMessage"
 msgstr "Ein {name} wurde errichtet."
@@ -1058,3 +1058,174 @@ msgstr "Komplett Verrückter!"
 
 msgid "DHMapMarker_Friendly_Supplies.MarkerName"
 msgstr "Nachschub anfordern"
+
+msgid "DHGameMessage.LeftMessage"
+msgstr "{name} hat das Schlachtfeld verlassen."
+
+msgid "DHGameType_Clash.GameTypeName"
+msgstr "Zusammenstoß"
+
+msgid "DHRocketWarningMessage.RestToReload"
+msgstr "{0} muss im Liegen nachgeladen werden"
+
+msgid "DHScoreEvent_FireSupportSpottingAssist.HumanReadableName"
+msgstr "Feuerleitunterstützung"
+
+msgid "DHScoreEvent_ConstructionCompleted.HumanReadableName"
+msgstr "Baukonstruktion fertiggestellt"
+
+msgid "DHScoreEvent_FriendlyReload.HumanReadableName"
+msgstr "Nachladen von Verbündeten"
+
+msgid "DHHintManager.Hints[43].Title"
+msgstr "Nachschub LKW"
+
+msgid "DHGameMessage.EnteredMessage"
+msgstr "{name} hat das Schlachtfeld betreten."
+
+msgid "DHGameMessage.NewTeamMessageGerman"
+msgstr "{name} ist den Achsenmächten beigetreten."
+
+msgid "DHGameMessage.FFViolationMessage"
+msgstr "Entferne {name} aufgrund Freundbeschussvorfällen."
+
+msgid "DHGameMessage.RoleChangeMsg"
+msgstr "Ein Einsatz als {role} wird versucht."
+
+msgid "DHGameType.GameTypeName"
+msgstr "Unbekannte Spieltype"
+
+msgid "DHGameMessage.GlobalNameChange"
+msgstr "{old_name} hat seinen Namen zu {new_name} geändert."
+
+msgid "DHHintManager.Hints[2].Title"
+msgstr "Fallschirme"
+
+msgid "DHGameMessage.VoteStarted"
+msgstr "{name} hat eine Abstimmung begonnen."
+
+msgid "DHGameType_Advance.GameTypeName"
+msgstr "Vorstoß"
+
+msgid "DHGameType_Cutoff.GameTypeName"
+msgstr "Kessel"
+
+msgid "DHHintManager.Hints[0].Title"
+msgstr "Willkommen zu Darkest Hour!"
+
+msgid "DHHintManager.Hints[9].Title"
+msgstr "Mörser ablegen"
+
+msgid "DHHintManager.Hints[8].Title"
+msgstr "Artillerieziele"
+
+msgid "DHHintManager.Hints[42].Title"
+msgstr "Higgins Boot"
+
+msgid "DHHintManager.Hints[40].Title"
+msgstr "Fahrzeugmotoren"
+
+msgid "DHHintManager.Hints[46].Title"
+msgstr "Außen montiertes Maschinengewehr"
+
+msgid "DHRocketWarningMessage.CantBeMoving"
+msgstr "{0} kann nur stationär abgefeuert werden"
+
+msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
+msgstr ""
+"Ein weiterer Verbündeter wird benötigt um einen feindlichen Gefechtsstand "
+"abzubauen!"
+
+msgid "DHGameReplicationInfo.ForceScaleText"
+msgstr "Größe"
+
+msgid "DHGameReplicationInfo.ReinforcementsInfiniteText"
+msgstr "Unendlich"
+
+msgid "DHGameType_Defence.GameTypeName"
+msgstr "Verteidigung"
+
+msgid "DHGameType_Domination.GameTypeName"
+msgstr "Vorherrschaft"
+
+msgid "DHGameType_Push.GameTypeName"
+msgstr "Sturm"
+
+msgid "DHGameType_Stalemate.GameTypeName"
+msgstr "Patt"
+
+msgid "DHHintManager.Hints[12].Title"
+msgstr "Feldstecher"
+
+msgid "DHRocketWarningMessage.ProneOrRestToFire"
+msgstr "Die {0} kann nur aufgelegt oder im Liegen abgefeuert werden"
+
+msgid "DHRocketWarningMessage.NoProneReload"
+msgstr "{0} kann nicht im Liegen nachgeladen werden"
+
+msgid "DHGetPassword.GetPassFail.Caption"
+msgstr "Abbrechen"
+
+msgid "DHGetPassword.GetPassRetry.Caption"
+msgstr "Einreichen"
+
+msgid "DHHintManager.Hints[6].Title"
+msgstr "Mörser"
+
+msgid "DHGameType_Armored_Advance.GameTypeName"
+msgstr "Panzer Vorstoß"
+
+msgid "DHHintManager.Hints[7].Title"
+msgstr "Mörserbedienung"
+
+msgid "DHHintManager.Hints[13].Title"
+msgstr "Funker"
+
+msgid "DHHintManager.Hints[40].Text"
+msgstr "Fahrzeug betreten. Um den Motor zu starten %FIRE% drücken."
+
+msgid "DHGameMessage.NewTeamMessageRussian"
+msgstr "{name} ist den Alliierten beigetreten."
+
+msgid "DHHintManager.Hints[10].Title"
+msgstr "Mörser aufnehmen"
+
+msgid "DHHintManager.Hints[46].Text"
+msgstr ""
+"Dieses Maschinengewehr ist außen montiert und kann nur abgefeuert oder "
+"nachgeladen werden, wenn die Luke geöffnet ist"
+
+msgid "DHRocketWarningMessage.CrouchOrRestToFire"
+msgstr "Die {0} kann nur aufgelegt oder in der Hocke abgefeuert werden"
+
+msgid "DHScoreCategory_Combat.HumanReadableName"
+msgstr "Gefecht"
+
+msgid "DHScoreCategory_Support.HumanReadableName"
+msgstr "Unterstützung"
+
+msgid "DHHintManager.Hints[13].Text"
+msgstr ""
+"Als Funker ist es deine Aufgabe nah beim Gruppenführer zu bleiben, damit "
+"dieser Fernkampfunterstützungsfeuer rufen kann!"
+
+msgid "DHRocketWarningMessage.NoHipFire"
+msgstr "{0} kann nicht aus der Hüfte geschossen werden"
+
+msgid "DHRocketWarningMessage.ShoulderForAssistedReload"
+msgstr "{0} muss angelegt sein um unterstützt nachgeladen zu werden"
+
+msgid "DHGameMessage.FFKillMessage"
+msgstr "{name} hat einen verbündeten Soldaten getötet."
+
+msgid "DHGameMessage.MaxRoleMsg"
+msgstr "Zu {role} kann nicht gewechselt werden."
+
+msgid "DHGameMessage.HasForgivenMessage"
+msgstr "{victim} hat {killer} vergeben."
+
+msgid "DHHintManager.Hints[3].Title"
+msgstr "Farbige Rauchgranaten"
+
+msgid "DHHintManager.Hints[44].Title"
+msgstr "Nachschub LKW"
