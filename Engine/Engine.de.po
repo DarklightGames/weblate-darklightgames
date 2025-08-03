@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-03 12:43+0000\n"
+"PO-Revision-Date: 2025-08-03 18:52+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/de/>\n"
@@ -358,3 +358,39 @@ msgstr "FESTSTELLTASTE"
 
 msgid "KeyNames.Shift"
 msgstr "SHIFT"
+
+msgid "ChatRoomMessage.ChatRoomString[2]"
+msgstr "Kanal '%title%' benötigt ein Passwort!"
+
+msgid "ChatRoomMessage.ChatRoomString[6]"
+msgstr "Nicht befugt Kanal '%title%' beizutreten"
+
+msgid "ChatRoomMessage.ChatRoomString[12]"
+msgstr "'%pri%' hat Kanal '%title%' verlassen"
+
+msgid "ChatRoomMessage.ChatRoomString[4]"
+msgstr "Du wurdest für Kanal '%title%' gesperrt"
+
+msgid "ChatRoomMessage.ChatRoomString[8]"
+msgstr "Du hast Kanal '%title%' verlassen"
+
+msgid "ChatRoomMessage.ChatRoomString[13]"
+msgstr "'%pri%' erfolgreich für den persönlichen Chat-Kanal gesperrt"
+
+msgid "ChatRoomMessage.ChatRoomString[1]"
+msgstr "Bereits im Kanal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[15]"
+msgstr "Sprachfunk ist auf diesem Server nicht aktiv"
+
+msgid "ChatRoomMessage.AnonText"
+msgstr "Jemand"
+
+msgid "ChatRoomMessage.ChatRoomString[5]"
+msgstr "Konnte Kanal '%title%' nicht beitreten.  Kanal voll!"
+
+msgid "ChatRoomMessage.ChatRoomString[7]"
+msgstr "Erfolgreich Kanal '%title%' beigetreten"
+
+msgid "ChatRoomMessage.ChatRoomString[11]"
+msgstr "'%pri%' ist Kanal '%title%' beigetreten"
