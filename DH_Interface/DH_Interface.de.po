@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-03 12:43+0000\n"
+"PO-Revision-Date: 2025-08-03 18:52+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/de/>\n"
@@ -814,3 +814,197 @@ msgstr "Rennen (umschalten)"
 
 msgid "DHTab_DetailSettings.WeatherEffects.Caption"
 msgstr "Wettereffekte"
+
+msgid "DHMapVotingPage.FilterClearButton.Caption"
+msgstr "Leeren"
+
+msgid "DHMapVotingPage.FilterEditbox.Caption"
+msgstr "Suchen"
+
+msgid "DHMapVotingPage.GameTypeCombo.Caption"
+msgstr "Spieltype filtern:"
+
+msgid "DHMaplistEditor.AddAllButton.Caption"
+msgstr "Alle hinzufügen"
+
+msgid "DHMaplistEditor.AddButton.Caption"
+msgstr "Hinzufügen"
+
+msgid "DHPlayerSetupPage.psTitleBar.Caption"
+msgstr "Spieler Einstellungen"
+
+msgid "DHQuitPage.NoButton.Caption"
+msgstr "NEIN"
+
+msgid "DHQuitPage.QuitDesc.Caption"
+msgstr "Wirklich verlassen?"
+
+msgid "DHQuitPage.YesButton.Caption"
+msgstr "JAWOHL"
+
+msgid "DHMainMenu.QuitButton.Caption"
+msgstr "Verlassen"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<2>"
+msgstr "Kartengröße"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<0>"
+msgstr "Name der Karte."
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<1>"
+msgstr "Der kombinierte Stimmanteil der Spieler für die Karte."
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<2>"
+msgstr "Empfohlene Spielerzahl für diese Karte."
+
+msgid "DHMainMenu.ServerButton.Caption"
+msgstr "Server Suche"
+
+msgid "DHMainMenu.SettingsButton.Caption"
+msgstr "Einstellungen"
+
+msgid "DHMainMenu.SteamCommunityButton.Hint"
+msgstr "Tritt der Steam Community bei!"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<0>"
+msgstr "Nominierte Karten"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<1>"
+msgstr "Stimmgewicht"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<0>"
+msgstr "Kartenname"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<1>"
+msgstr "Nation der Alliierten"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<2>"
+msgstr "Nation der Achsenmächte"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<3>"
+msgstr "Spieltype"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<4>"
+msgstr "Kartengröße"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<0>"
+msgstr "Der Kartenname."
+
+#, fuzzy
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<1>"
+msgstr "Alliiertes Land auf dieser Karte."
+
+#, fuzzy
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<2>"
+msgstr "Achsenmächte Land auf dieser Karte."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<3>"
+msgstr "Spieltyp oder Gefechtsmodus der Karte."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<4>"
+msgstr "Empfohlene Spieleranzahl für diese Karte."
+
+msgid "DHMaplistEditor.MoveUpButton.Caption"
+msgstr "Hoch bewegen"
+
+msgid "DHMaplistEditor.DeleteMaplistButton.Caption"
+msgstr "Löschen"
+
+msgid "DHMaplistEditor.MapListSectionBackground.Caption"
+msgstr "Gespeicherte Kartenlisten"
+
+msgid "DHMaplistEditor.MoveDownButton.Caption"
+msgstr "Runter bewegen"
+
+msgid "DHMaplistEditor.NewMaplistButton.Caption"
+msgstr "Neu"
+
+msgid "DHMaplistEditor.RemoveAllButton.Caption"
+msgstr "Alle entfernen"
+
+msgid "DHMaplistEditor.RenameMaplistButton.Caption"
+msgstr "Umbenennen"
+
+msgid "DHMidGameVoiceChat.NOSPEECH.Caption"
+msgstr "Sprachbefehle ignorieren"
+
+msgid "DHMutatorConfigMenu.LockedCancelButton.Caption"
+msgstr "Abbrechen"
+
+msgid "DHMutatorConfigMenu.LockedOKButton.Caption"
+msgstr "OK"
+
+msgid "DHScoreBoard.PlayersText"
+msgstr "Spieler"
+
+msgid "DHScoreBoard.NetHealthText"
+msgstr "Paketverlust: "
+
+msgid "DHTab_DetailSettings.sbSection2.Caption"
+msgstr "Spieldetails"
+
+msgid "DHTab_DetailSettings.sbSection3.Caption"
+msgstr "Gamma Test"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[0]"
+msgstr "Niemals"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[1]"
+msgstr "Monatlich"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[2]"
+msgstr "Jährlich"
+
+msgid "DHTab_GameSettings.IDText"
+msgstr "ID:"
+
+msgid "DHTab_GameSettings.NoROIDText"
+msgstr "Es muss zuerst dem Mehrspielermodus beigetreten werden"
+
+msgid "DHTab_GameSettings.DegreesText"
+msgstr "Grad"
+
+msgid "DHTab_GameSettings.NetSpeedText[0]"
+msgstr "Niedrigste ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[1]"
+msgstr "Niedrig ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[2]"
+msgstr "Mittel ({0})"
+
+msgid "DHMapVoteMultiColumnListBox.AdminMapContextMenu.ContextItems<0>"
+msgstr "ADMIN: Diese Karte erzwingen"
+
+msgid "DHMaplistEditor.RemoveButton.Caption"
+msgstr "Entfernen"
+
+msgid "DHNetworkStatusMessage.NetStatOk.Caption"
+msgstr "OK"
+
+msgid "DHScoreBoard.MunitionPercentageText"
+msgstr "Munition"
+
+msgid "DHScoreBoard.TickHealthText"
+msgstr "Tickrate: "
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[3]"
+msgstr "Benutzerdefiniert (aus ini-Datei) - alle %NumDays% Tage"
+
+msgid "DHMapVotingPage.lmsgMode[0]"
+msgstr "Mehrheit gewinnt"
+
+msgid "DHMaplistEditor.ActiveBackground.Caption"
+msgstr "Ausgewählte Karten"
+
+msgid "DHMaplistEditor.AvailBackground.Caption"
+msgstr "Verfügbare Karten"
+
+msgid "DHNetworkStatusMsg.StatusTitle[12]"
+msgstr "Aus Sitzung geworfen"
+
+msgid "DHMutatorConfigMenu.AdvancedButton.Caption"
+msgstr "Erweiterte Optionen anzeigen"
+
+msgid "DHPerformanceWarning.OkButton.Caption"
+msgstr "OK"
