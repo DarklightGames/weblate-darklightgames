@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-03 12:43+0000\n"
+"PO-Revision-Date: 2025-08-03 18:52+0000\n"
 "Last-Translator: Baianormaster <baianormasterlol@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/pt/>\n"
@@ -254,3 +254,12 @@ msgstr "ERRO: lugar de posição invalido("
 #, fuzzy
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[22]"
 msgstr "ERRO: cordernadas do mapa invalidas"
+
+#, fuzzy
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[23]"
+msgstr ""
+"Para auto-logar voce precisa botar seu arquivo DarkestHour.ini com suas "
+"credenciais de ADM"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[24]"
+msgstr "Nenhum jogador encontrado na mira"
