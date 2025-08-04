@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-03 18:52+0000\n"
+"PO-Revision-Date: 2025-08-05 01:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/de/>\n"
@@ -1008,3 +1008,88 @@ msgstr "Erweiterte Optionen anzeigen"
 
 msgid "DHPerformanceWarning.OkButton.Caption"
 msgstr "OK"
+
+msgid "DHScoreBoard.ScoreboardColumns<6>.Title"
+msgstr "T"
+
+msgid "DHMainMenu.ControlsChangedMessage"
+msgstr ""
+"Dem Spiel wurden neue Bedienelemente hinzugefügt. Die vorherigen "
+"Tastenzuweisungen könnten sich daher geändert haben.||Tastaturbelegung "
+"überprüfen?"
+
+msgid "DHMapVotingPage.lmsgMapOutOfBounds"
+msgstr ""
+"Bitte für eine Karte mit geeigneter Spielerzahl abstimmen. In der "
+"Gesamtübersicht kann dennoch für diese Karte abgestimmt werden."
+
+msgid "DHScoreBoard.ScoreboardColumns<7>.Title"
+msgstr "Punktestand"
+
+msgid "DHScoreBoard.ScoreboardColumns<8>.Title"
+msgstr "Ping"
+
+msgid "DHServerBrowser.WelcomeMessageText"
+msgstr ""
+"Willkommen zu Darkest Hour: Europe '44-'45! Tritt der >5000 Mann starken "
+"Discord Community bei um über das Spiel zu diskutieren, Vorschläge "
+"einzureichen oder auftretende Fehler zu melden! Wir sehen uns auf dem "
+"Schlachtfeld!"
+
+msgid "DHMainMenu.BadConfigMessage"
+msgstr ""
+"Mit der Konfigurationsdatei gibt es ein Problem, Fortsetzen drücken um das "
+"Spiel zu verlassen und eine Anleitung zu öffnen wie die Konfig repariert "
+"werden kann."
+
+msgid "DHMapVotingPage.NoChangeMapPrivilegeText"
+msgstr ""
+"Es liegen keine ausreichenden Administratorrechte vor um eine Karte zu "
+"ändern!"
+
+msgid "DHMapVotingPage.NoRestartMapPrivilegeText"
+msgstr ""
+"Es liegen keine ausreichenden Administratorrechte vor um eine Karte "
+"neuzustarten!"
+
+msgid "DHMidGameVoiceChat.NOSPEECH.Hint"
+msgstr "Von diesem Spieler werden keine Sprachbefehle wie 'Deckung!' empfangen"
+
+msgid "DHScoreBoard.ScoreboardColumns<5>.Title"
+msgstr "A"
+
+msgid "DHScoreBoard.ScoreboardColumns<2>.Title"
+msgstr "Rolle"
+
+msgid "DHTab_AudioSettings.AudioMusicVolume.Caption"
+msgstr "Musik Lautstärke"
+
+msgid "DHTab_AudioSettings.AudioReverseStereo.Caption"
+msgstr "Umgekehrtes Stereo"
+
+msgid "DHScoreBoard.NoPlayersText"
+msgstr "Keine Spieler"
+
+msgid "DHScoreBoard.ScoreboardColumns<0>.Title"
+msgstr "#"
+
+msgid "DHTab_AudioSettings.Dampen.Caption"
+msgstr "Spiellautstärke dämpfen während VoIP (Funk) genutzt wird"
+
+msgid "DHTab_AudioSettings.AudioPlayVoices.Caption"
+msgstr "Sprachnachrichten abspielen"
+
+msgid "DHTab_AudioSettings.AutoJoinPublic.Caption"
+msgstr "Automatischer Beitritt zu öffentlichem Kanal"
+
+msgid "DHTab_AudioSettings.AutoSpeakCheckbox.Caption"
+msgstr "Automatische Auswahl aktiver Kanal"
+
+msgid "DHTab_AudioSettings.ChatPasswordEdit.Caption"
+msgstr "Chat Passwort"
+
+msgid "DHNetworkStatusMsg.StatusMessages[12]"
+msgstr ""
+"Du wurdest für die verbleibende Spielzeit von der aktuellen Karte entfernt.||"
+"Falls dies nicht aufgrund einer Bestrafung durch den Admin geschehen ist, "
+"ist dies die Standardstrafe bei Eigenbeschuss, daher unterlasse dies."
