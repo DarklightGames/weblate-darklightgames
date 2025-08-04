@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-25 20:43+0000\n"
+"PO-Revision-Date: 2025-08-05 01:43+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/fr/>\n"
@@ -83,3 +83,45 @@ msgstr "Montrer Objectifs"
 
 msgid "ROControlBinder.BindingLabel[8]"
 msgstr "Changer Canon FM"
+
+msgid "ROControlBinder.BindingLabel[11]"
+msgstr "Changer de Camp"
+
+msgid "ROControlBinder.BindingLabel[14]"
+msgstr "Changer d'Arme"
+
+msgid "ROControlBinder.BindingLabel[15]"
+msgstr "Ravitaillement FM"
+
+msgid "ROControlBinder.BindingLabel[16]"
+msgstr "Sauvegarder Coordonnées Artillerie"
+
+msgid "ROControlBinder.BindingLabel[10]"
+msgstr "Détail de Lunette"
+
+msgid "ROControlBinder.BindingLabel[13]"
+msgstr "Changer de Mode de Tir"
+
+msgid "ROControlBinder.BindingLabel[17]"
+msgstr "Mouvement"
+
+msgid "ROControlBinder.BindingLabel[18]"
+msgstr "En Avant"
+
+msgid "ROControlBinder.BindingLabel[19]"
+msgstr "En Arrière"
+
+msgid "ROControlBinder.BindingLabel[20]"
+msgstr "Gauche"
+
+msgid "ROControlBinder.BindingLabel[21]"
+msgstr "Droite"
+
+msgid "ROControlBinder.BindingLabel[22]"
+msgstr "Sauter"
+
+msgid "ROControlBinder.BindingLabel[12]"
+msgstr "Utiliser"
+
+msgid "ROControlBinder.BindingLabel[23]"
+msgstr "Marcher"
