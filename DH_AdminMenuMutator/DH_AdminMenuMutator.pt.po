@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-03 18:52+0000\n"
+"PO-Revision-Date: 2025-08-05 01:43+0000\n"
 "Last-Translator: Baianormaster <baianormasterlol@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/pt/>\n"
@@ -249,7 +249,8 @@ msgstr "ERRO: não foi possivel achar jogador no papel '%insert_name%'"
 
 #, fuzzy
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[21]"
-msgstr "ERRO: lugar de posição invalido("
+msgstr ""
+"ERRO: lugar de posição invalido(i.e AtObjective, AtGrid or AtCurrentLocation)"
 
 #, fuzzy
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[22]"
@@ -263,3 +264,38 @@ msgstr ""
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[24]"
 msgstr "Nenhum jogador encontrado na mira"
+
+#, fuzzy
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[25]"
+msgstr ""
+"Esse modo de jogo não permite spawn de grupo, nao e possivel usar essa opção"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[26]"
+msgstr "Posicionamento de spawn de grupo esta desabilitado"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[27]"
+msgstr "Posicionamento de spawn de grupo esta abilitado"
+
+msgid "DHAdminMenu_MenuBase.Label_PageNumber"
+msgstr "pagina %X% de %Y%"
+
+msgid "DHAdminMenu_MenuBase.Label_PreviousMenu"
+msgstr "PgUp = menu anterior"
+
+msgid "DHAdminMenu_MenuBase.Label_PreviousPage"
+msgstr "PgUp = pagina anterior"
+
+msgid "DHAdminMenu_MenuBase.Label_NextPage"
+msgstr "PgDn = proxima pagina"
+
+msgid "DHAdminMenu_MenuBase.Label_ExitMenu"
+msgstr "Esc = sair do menu de adm"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyRename"
+msgstr "Seu nome de jogo foi trocado pelo ADM"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyKill"
+msgstr "Você foi respawnado pelo ADM"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyGag"
+msgstr "Você foi amordaçado pelo ADM"
