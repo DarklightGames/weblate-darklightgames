@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-01 17:36+0000\n"
+"PO-Revision-Date: 2025-08-05 01:43+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -1523,3 +1523,84 @@ msgstr ""
 
 msgid "DHSquadMessage.BannedCannotJoin"
 msgstr "Vous ne pouvez pas rejoindre ce groupe car vous avez été banni."
+
+#, fuzzy
+msgid "DHHud.SayTypeConsoleText"
+msgstr "[CONSOLE]"
+
+#, fuzzy
+msgid "DHHud.SayTypeAllText"
+msgstr "[ALL]"
+
+msgid "DHSquadMessage.NoVolunteers"
+msgstr "Aucun membre ne s'est porté volontaire pour être chef de groupe."
+
+#, fuzzy
+msgid "DHGameType_Advance.GameTypeName"
+msgstr "Advance"
+
+#, fuzzy
+msgid "DHGameType_Armored_Advance.GameTypeName"
+msgstr "Armored Advance"
+
+#, fuzzy
+msgid "DHGameType_Clash.GameTypeName"
+msgstr "Clash"
+
+#, fuzzy
+msgid "DHGameType_Cutoff.GameTypeName"
+msgstr "Cutoff"
+
+#, fuzzy
+msgid "DHGameType_Defence.GameTypeName"
+msgstr "Defence"
+
+#, fuzzy
+msgid "DHGameType_Domination.GameTypeName"
+msgstr "Domination"
+
+#, fuzzy
+msgid "DHHud.BlackoutText"
+msgstr "Blackout"
+
+msgid "DHSquadMessage.YouLeft"
+msgstr "Vous avez quitté le groupe."
+
+msgid "DHSquadMessage.AutoJoinFailed"
+msgstr "Il n'y a pas de groupes auxquels vous êtes éligible."
+
+#, fuzzy
+msgid "DHLocalMessage.SquadLeaderID"
+msgstr "SL"
+
+#, fuzzy
+msgid "DHGameType_Push.GameTypeName"
+msgstr "Push"
+
+#, fuzzy
+msgid "DHGameType_Stalemate.GameTypeName"
+msgstr "Stalemate"
+
+#, fuzzy
+msgid "DHHud.TeamMessagePrefix"
+msgstr "[TEAM] "
+
+#, fuzzy
+msgid "DHLocalMessage.SquadAssistantID"
+msgstr "A"
+
+#, fuzzy
+msgid "DHPlayerReplicationInfo.SquadLeaderAbbreviation"
+msgstr "SL"
+
+#, fuzzy
+msgid "DHPlayerReplicationInfo.AssistantAbbreviation"
+msgstr "A"
+
+msgid "DHHud.TypingPromptText"
+msgstr "Appuyez sur [{0}] pour changer de canal"
+
+msgid "DHSquadMessage.YouVolunteeredToBeSquadLeader"
+msgstr ""
+"Vous vous êtes porté volontaire pour être le chef de groupe. Le nouveau chef "
+"de groupe sera sélectionné sous peu."
