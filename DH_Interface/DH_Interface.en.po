@@ -605,9 +605,6 @@ msgstr "Join us on GitHub!"
 msgid "DHMainMenu.InstantActionButton.Caption"
 msgstr "Practice"
 
-msgid "DHMainMenu.PatreonButton.Hint"
-msgstr "Support us on Patreon!"
-
 msgid "DHMainMenu.QuitButton.Caption"
 msgstr "Exit"
 

@@ -947,6 +947,9 @@ msgstr "[CONSOLE]"
 msgid "DHHud.SayTypeAllText"
 msgstr "[ALL]"
 
+msgid "DHHud.TypingPromptText"
+msgstr "Press [{0}] to change chat channel"
+
 msgid "DHHud.PrereleaseDisclaimerText"
 msgstr "This is a pre-release build. All content is subject to change."
 
