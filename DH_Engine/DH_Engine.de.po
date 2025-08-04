@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-03 18:52+0000\n"
+"PO-Revision-Date: 2025-08-05 01:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/de/>\n"
@@ -1229,3 +1229,108 @@ msgstr "Farbige Rauchgranaten"
 
 msgid "DHHintManager.Hints[44].Title"
 msgstr "Nachschub LKW"
+
+msgid "DHHintManager.Hints[8].Text"
+msgstr ""
+"Gruppenführer können Ziele markieren die auf deiner Karte sichtbar werden. "
+"Wenn eine Granate in der Nähe dieser Zielmarkierung landet wird der "
+"Einschlagort auf deiner Karte vermerkt. Nutze diese Markierungen um dich auf "
+"das Ziel einzuschießen."
+
+msgid "DHHintManager.Hints[9].Text"
+msgstr ""
+"Der Mörser kann jederzeit durch das Drücken der %Use% Taste verlassen "
+"werden. Durch Verlassen des Mörsers kann Munition an einem Nachschublager "
+"aufgesammelt oder von Kameraden erlangt werden."
+
+msgid "DHHintManager.Hints[44].Text"
+msgstr ""
+"Du fährst einen Nachschub LKW. Dieses Fahrzeug kann andere Fahrzeuge, Mörser "
+"sowie Infanterie aufmunitionieren. Stelle sicher, dass es an einem sicheren "
+"Ort abgestellt wird."
+
+msgid "DHHintManager.Hints[6].Text"
+msgstr ""
+"Während der Mörser gehalten wird kann die Waffe nicht gewechselt, "
+"gesprintet, gekrochen oder geklettert werden. Um den Mörser aufzustellen, "
+"knie dich auf flachem Grund ab und drücke %DEPLOY%."
+
+msgid "DHHintManager.Hints[10].Text"
+msgstr ""
+"Um den Mörser aufzunehmen, drücke die %Deploy% Taste. Beim Aufnehmen des "
+"Mörsers werden alle vorherigen Korrektureinstellungen zurückgesetzt."
+
+msgid "DHHintManager.Hints[47].Title"
+msgstr "Ferngesteuertes MG"
+
+msgid "DHHintManager.Hints[43].Text"
+msgstr ""
+"Du befindest dich in der Nähe eines Nachschub LKWs. Bleibe in der Nähe der "
+"Rückseite des LKWs stehen um dich aufzumunitionieren."
+
+msgid "DHHintManager.Hints[47].Text"
+msgstr ""
+"Dieses Maschinengewehr kann nur aus dem Kampfraum des Fahrzeugs abgefeuert "
+"werden, es befindet sich jedoch außen verbaut, weshalb die Luke geöffnet "
+"werden muss um es nachzuladen"
+
+msgid "DHHud.PrereleaseDisclaimerText"
+msgstr "Vorabversion. Jeglicher Inhalt ist Änderungen vorbehalten."
+
+msgid "DHHud.ReinforcementText"
+msgstr ""
+"Du wirst in {2} als {0} wieder einsteigen | [ESC] drücken um zu wechseln"
+
+msgid "DHHintManager.Hints[1].Title"
+msgstr "Überklettern"
+
+msgid "DHHintManager.Hints[1].Text"
+msgstr ""
+"Kleine Hindernisse können erklommen werden! Um auf diese zu klettern stelle "
+"dich vor ein Hindernis bis das Klettersymbol erscheint und drücke dann "
+"%JUMP% um auf das Hindernis zu klettern."
+
+msgid "DHHintManager.Hints[48].Text"
+msgstr ""
+"Um das außen montierte Maschinengewehr nachzuladen muss die Lüge geöffnet ("
+"und darf kein Feldstecher genutzt) werden"
+
+msgid "DHHintManager.Hints[49].Title"
+msgstr "Zielfernrohr"
+
+msgid "DHHintManager.Hints[3].Text"
+msgstr ""
+"Farbige Rauchgranaten werden genutzt um auf dem Schlachtfeld mit Kameraden "
+"zu kommunizieren. Stelle daher sicher, dass deine Kameraden den "
+"Signalkontext der Rauchgranate kennen."
+
+msgid "DHHud.SayTypeConsoleText"
+msgstr "[KONSOLE]"
+
+msgid "DHHintManager.Hints[0].Text"
+msgstr ""
+"Diese Hinweisnachrichten werden regelmäßig im Spiel angezeigt. Beachte sie, "
+"dein Überleben könnte davon abhängen! Über den HUD Reiter in den "
+"Einstellungen können diese deaktiviert werden."
+
+msgid "DHHintManager.Hints[2].Text"
+msgstr ""
+"Mit den Bewegungstasten kann die Fallrichtung des Fallschirms beeinflusst "
+"werden!"
+
+msgid "DHHud.SayTypeAllText"
+msgstr "[ALLE]"
+
+msgid "DHHintManager.Hints[48].Title"
+msgstr "Nachladen außen montiertes MG"
+
+msgid "DHHintManager.Hints[49].Text"
+msgstr ""
+"Dieses Artilleriegeschütz ist mit einem Zielfernrohr ausgestattet. Drücke "
+"%NEXTWEAPON% um durch das Zielfernrohr zu sehen."
+
+msgid "DHHud.TypingPromptText"
+msgstr "[{0}] drücken um Chatkanal zu wechseln"
+
+msgid "DHHintManager.Hints[50].Title"
+msgstr "Artillerie Richtkanonier"
