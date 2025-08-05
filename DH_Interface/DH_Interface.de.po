@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-05 01:43+0000\n"
+"PO-Revision-Date: 2025-08-06 19:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/de/>\n"
@@ -822,7 +822,7 @@ msgid "DHMapVotingPage.FilterEditbox.Caption"
 msgstr "Suchen"
 
 msgid "DHMapVotingPage.GameTypeCombo.Caption"
-msgstr "Spieltype filtern:"
+msgstr "Filter Spielmodus:"
 
 msgid "DHMaplistEditor.AddAllButton.Caption"
 msgstr "Alle hinzufügen"
@@ -882,7 +882,7 @@ msgid "DHMapVoteMultiColumnList.ColumnHeadings<2>"
 msgstr "Nation der Achsenmächte"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadings<3>"
-msgstr "Spieltype"
+msgstr "Spielmodus"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadings<4>"
 msgstr "Kartengröße"
@@ -1093,3 +1093,261 @@ msgstr ""
 "Du wurdest für die verbleibende Spielzeit von der aktuellen Karte entfernt.||"
 "Falls dies nicht aufgrund einer Bestrafung durch den Admin geschehen ist, "
 "ist dies die Standardstrafe bei Eigenbeschuss, daher unterlasse dies."
+
+msgid "DHServerBrowser.WelcomeMessageDiscordButtonText"
+msgstr "Discord beitreten"
+
+msgid "DHServerBrowser.PanelCaption<4>"
+msgstr "Internet"
+
+msgid "DHTab_DetailSettings.DetailDecalStay.Caption"
+msgstr "Verbleib Spuren"
+
+msgid "DHServerBrowser.PanelCaption<5>"
+msgstr "Internet"
+
+msgid "DHServerBrowser.ServerBrowserHeader.Caption"
+msgstr "Server-Browser"
+
+msgid "DHServerBrowser.GameTypeCombo.Caption"
+msgstr "Spielmodus"
+
+msgid "DHSettingsPage.PanelHint<5>"
+msgstr "Passe dein HUD an..."
+
+msgid "DHSettingsPage.PanelHint<4>"
+msgstr "Verschiedene Eingabekonfigurationen..."
+
+msgid "DHTab_DetailSettings.RenderModeText[1]"
+msgstr "Direct3D 8.0 (Renderprobleme)"
+
+msgid "DHTab_DetailSettings.RenderModeText[2]"
+msgstr "OpenGL (Instabil)"
+
+msgid "DHTab_DetailSettings.DetailCharacterDetail.Caption"
+msgstr "Charakterdetails"
+
+msgid "DHTab_DetailSettings.DetailCharacterShadows.Caption"
+msgstr "Charakterschatten"
+
+msgid "DHSettingsPage.PanelCaption<1>"
+msgstr "Anzeige"
+
+msgid "DHSettingsPage.PanelCaption<5>"
+msgstr "HUD"
+
+msgid "DHTab_Controls.Captions_Inventory[3]"
+msgstr "Inventarplatz 4"
+
+msgid "DHTab_Controls.Captions_Inventory[4]"
+msgstr "Inventarplatz 5"
+
+msgid "DHTab_DetailSettings.RelaunchQuestion"
+msgstr ""
+"Der Grafikmodus wurde erfolgreich angepasst.    Die Änderung tritt "
+"allerdings erst nach Neustart des Spiels in Kraft.    Soll das Spiel jetzt "
+"neu gestartet werden?"
+
+msgid "DHServerBrowser.PanelCaption<0>"
+msgstr "Favoriten"
+
+msgid "DHSettingsPage.PanelHint<2>"
+msgstr "Ton anpassen..."
+
+msgid "DHTab_Controls.Captions_Inventory[0]"
+msgstr "Inventarplatz 1"
+
+msgid "DHTab_Controls.Section_Inventory"
+msgstr "Inventar"
+
+msgid "DHSituationMapGUIPage.EnableMouseControlPrompt"
+msgstr "[%JUMP%] drücken um die Maus zu aktivieren"
+
+msgid "DHTab_AudioSettings.AudioBK3.Caption"
+msgstr "Sprachfunk"
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Caption"
+msgstr "Maximale Anzahl Audiokanäle"
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Hint"
+msgstr "Anzahl an Audiokanälen, die das Spiel gleichzeitig nutzen kann"
+
+msgid "DHTab_AudioSettings.AudioDefaultDriver.Caption"
+msgstr "Systemtreiber"
+
+msgid "DHTab_AudioSettings.AudioEffectsVolumeSlider.Caption"
+msgstr "Effektlautstärke"
+
+msgid "DHTab_AudioSettings.AudioLowDetail.Caption"
+msgstr "Niedrige Sounddetails"
+
+msgid "DHTab_AudioSettings.AudioMessageBeep.Caption"
+msgstr "Nachrichtenton"
+
+msgid "DHTab_DetailSettings.BrightnessSlider.Caption"
+msgstr "Helligkeit"
+
+msgid "DHTab_DetailSettings.ContrastSlider.Caption"
+msgstr "Kontrast"
+
+msgid "DHTab_DetailSettings.DetailAnisotropy.Caption"
+msgstr "Anisotrope Filterung"
+
+msgid "DHTab_DetailSettings.DetailAntialiasing.Caption"
+msgstr "Antialiasing"
+
+msgid "DHTab_DetailSettings.DetailCoronas.Caption"
+msgstr "Korona"
+
+msgid "DHTab_DetailSettings.DetailDecals.Caption"
+msgstr "Spuren"
+
+msgid "DHTab_DetailSettings.DetailDecoLayers.Caption"
+msgstr "Bodendetails"
+
+msgid "DHTab_DetailSettings.DetailDynamicLighting.Caption"
+msgstr "Dynamische Beleuchtung"
+
+msgid "DHTab_DetailSettings.DetailForceFSAASS.Caption"
+msgstr "FSAA Screenshots erzwingen"
+
+msgid "DHTab_DetailSettings.DetailPhysics.Caption"
+msgstr "Physikdetails"
+
+msgid "DHTab_DetailSettings.DetailProjectors.Caption"
+msgstr "Projektoren"
+
+msgid "DHTab_DetailSettings.DetailTextureDetail.Caption"
+msgstr "Texturdetails"
+
+msgid "DHTab_DetailSettings.DetailDetailTextures.Caption"
+msgstr "Texturdetaillierung"
+
+msgid "DHTab_DetailSettings.DetailTrilinear.Caption"
+msgstr "Trilineare Filterung"
+
+msgid "DHTab_DetailSettings.DetailWorldDetail.Caption"
+msgstr "Weltdetails"
+
+msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
+msgstr "FPS-Minimum dynamische Sichtdistanz"
+
+msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
+msgstr "Sichtdistanz"
+
+msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
+msgstr "Dynamische Sichtdistanz"
+
+msgid "DHSettingsPage.PanelCaption<0>"
+msgstr "Spiel"
+
+msgid "DHSettingsPage.PanelCaption<2>"
+msgstr "Audio"
+
+msgid "DHSettingsPage.PanelCaption<3>"
+msgstr "Steuerung"
+
+msgid "DHSettingsPage.PanelCaption<4>"
+msgstr "Eingabe"
+
+msgid "DHSettingsPage.PanelHint<0>"
+msgstr "Spielkonfiguration und netzwerkbezogene Einstellungen..."
+
+msgid "DHSettingsPage.PanelHint<1>"
+msgstr "Auflösung auswählen oder Anzeige- und Detaileinstellungen ändern..."
+
+msgid "DHSettingsPage.PanelHint<3>"
+msgstr "Tastatur- und Mauseinstellungen..."
+
+msgid "DHSettingsPage.SettingHeader.Caption"
+msgstr "Einstellungen"
+
+msgid "DHSettings_Footer.BackB.Caption"
+msgstr "Zurück"
+
+msgid "DHSettings_Footer.DefaultB.Caption"
+msgstr "Standardeinstellungen"
+
+msgid "DHTab_AudioSettings.AudioBK1.Caption"
+msgstr "Soundsystem"
+
+msgid "DHTab_AudioSettings.AudioMode.Caption"
+msgstr "Tonmodus"
+
+msgid "DHServerBrowser.WelcomeMessagePlayButtonText"
+msgstr "Einfach spielen!"
+
+msgid "DHServerBrowser.PanelCaption<1>"
+msgstr "LAN"
+
+msgid "DHServerBrowser.PanelCaption<2>"
+msgstr "Internet"
+
+msgid "DHServerBrowser.PanelCaption<3>"
+msgstr "LAN"
+
+msgid "DHServerBrowser.PanelHint<1>"
+msgstr "Zeige alle DH Server an, die derzeit in deinem LAN laufen"
+
+msgid "DHServerBrowser.PanelHint<2>"
+msgstr "Wähle aus DH Servern aus aller Welt"
+
+msgid "DHServerBrowser.PanelHint<4>"
+msgstr "Wähle aus hunderten RO Servern aus aller Welt"
+
+msgid "DHServerBrowser.PanelHint<5>"
+msgstr "Wähle aus hunderten RO Servern aus aller Welt"
+
+msgid "DHServerLoading.DeployingText"
+msgstr "Einsatz im Bereitstellungsraum von {0}"
+
+msgid "DHServerLoading.AuthorText"
+msgstr "Autor: {0}"
+
+msgid "DHTab_AudioSettings.DefaultActiveChannelEditBox.Caption"
+msgstr "Standard Kanalname"
+
+msgid "DHTab_AudioSettings.DisableGameMusic.Caption"
+msgstr "Musik im Spiel deaktivieren"
+
+msgid "DHTab_AudioSettings.EnableVoiceChat.Caption"
+msgstr "Sprachfunk aktivieren"
+
+msgid "DHTab_AudioSettings.VoiceQualityLAN.Caption"
+msgstr "LAN Qualität"
+
+msgid "DHTab_AudioSettings.VoiceQuality.Caption"
+msgstr "Internet Qualität"
+
+msgid "DHTab_AudioSettings.VoiceVolume.Caption"
+msgstr "Sprachempfangslautstärke"
+
+msgid "DHTab_Controls.Captions_Inventory[1]"
+msgstr "Inventarplatz 2"
+
+msgid "DHTab_Controls.Captions_Inventory[2]"
+msgstr "Inventarplatz 3"
+
+msgid "DHTab_DetailSettings.CorpseStayTime.Caption"
+msgstr "Verweildauer Gefallene (Sekunden)"
+
+msgid "DHTab_DetailSettings.GammaSlider.Caption"
+msgstr "Gamma"
+
+msgid "DHTab_DetailSettings.GlobalDetails.Caption"
+msgstr "Spieldetails"
+
+msgid "DHTab_DetailSettings.HDRCheckbox.Caption"
+msgstr "HDR Bloom"
+
+msgid "DHTab_DetailSettings.MotionBlur.Caption"
+msgstr "Unschärfeeffekte"
+
+msgid "DHTab_DetailSettings.MeshLOD.Caption"
+msgstr "Dynamische Netz-Detailtiefe"
+
+msgid "DHServerBrowser.PanelHint<0>"
+msgstr "Wähle einen Server zum beitreten aus deinen Favoriten"
+
+msgid "DHServerBrowser.PanelHint<3>"
+msgstr "Zeige alle RO Server an, die derzeit in deinem LAN laufen"
