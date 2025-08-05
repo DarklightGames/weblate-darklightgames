@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-01 19:41+0000\n"
+"PO-Revision-Date: 2025-08-06 19:43+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
@@ -2666,3 +2666,6 @@ msgstr "Прийняти"
 
 msgid "DHVehicleMessage.GunObstructed"
 msgstr "Гармата не може стріляти через перешкоду"
+
+msgid "DHHud.TypingPromptText"
+msgstr "Натисніть [{0}], щоб змінити канал чату"
