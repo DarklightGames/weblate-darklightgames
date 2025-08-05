@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-05 01:43+0000\n"
+"PO-Revision-Date: 2025-08-06 19:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/de/>\n"
@@ -157,7 +157,7 @@ msgid "DHAntiTankProjectileDamageType.MaleSuicide"
 msgstr "%o wurde von seinem eigenen %w in die Luft gejagt."
 
 msgid "DHArtillery.MenuName"
-msgstr "Fernkampfartillerie"
+msgstr "Schwere Artillerie"
 
 msgid "DHArtillery105DamageType.DeathString"
 msgstr "%o wurde von einer Artilleriegranate zerfetzt."
@@ -805,7 +805,7 @@ msgid "DHMapMarker_Enemy_Vehicle.MarkerName"
 msgstr "Feindliches Fahrzeug"
 
 msgid "DHMapMarker_FireSupport_OffMap.MarkerName"
-msgstr "Fernkampf-Feuerunterstützung"
+msgstr "Schwere Artilleriefeuerunterstützung"
 
 msgid "DHMapMarker_FireSupport_Smoke.MarkerName"
 msgstr "Nebel anfordern"
@@ -961,7 +961,9 @@ msgstr ""
 "werden."
 
 msgid "DHFireSupportMessage.RadiomanNotification"
-msgstr "Gruppe {squad} hat ein Ziel für Fernkampf-Feuerunterstützung markiert."
+msgstr ""
+"Gruppe {squad} hat ein Feuerunterstützungsziel für schwere Artillerie "
+"markiert."
 
 msgid "DHGameMessage.VehicleCutOffMessage"
 msgstr "{0} Verstärkungen wurden abgeschnitten."
@@ -1003,7 +1005,7 @@ msgid "DHFireSupportMessage.OnMapArtilleryRequestConfirmedText"
 msgstr "Feuerunterstützungsziel wurde markiert."
 
 msgid "DHFireSupportMessage.OffMapArtilleryRequestConfirmedText"
-msgstr "Fernkampf-Feuerunterstützungsziel wurde markiert."
+msgstr "Feuerunterstützungsziel der schweren Artillerie wurde markiert."
 
 msgid "DHLastObjectiveMessage.AxisAboutToWinMessage"
 msgstr ""
@@ -1206,8 +1208,8 @@ msgstr "Unterstützung"
 
 msgid "DHHintManager.Hints[13].Text"
 msgstr ""
-"Als Funker ist es deine Aufgabe nah beim Gruppenführer zu bleiben, damit "
-"dieser Fernkampfunterstützungsfeuer rufen kann!"
+"Als Funker ist es deine Aufgabe nah am Gruppenführer zu bleiben, damit "
+"dieser Unterstützungsfeuer durch unsere schwere Artillerie rufen kann!"
 
 msgid "DHRocketWarningMessage.NoHipFire"
 msgstr "{0} kann nicht aus der Hüfte geschossen werden"
@@ -1334,3 +1336,241 @@ msgstr "[{0}] drücken um Chatkanal zu wechseln"
 
 msgid "DHHintManager.Hints[50].Title"
 msgstr "Artillerie Richtkanonier"
+
+msgid "DHHintManager.Hints[65].Title"
+msgstr "Semovente da 90/53"
+
+msgid "DHHintManager.Hints[66].Title"
+msgstr "In Deckung!"
+
+msgid "DHHud.LegendCarriedArtilleryRadioText"
+msgstr "Artilleriefunker"
+
+msgid "DHHud.TimeElapsedText"
+msgstr "Abgelaufene Zeit: "
+
+msgid "DHHud.SpawnVehicleText"
+msgstr ""
+"Einsatz als {0} in einem {3} erfolgt in {2} | [ESC] drücken zum wechseln"
+
+msgid "DHHud.SpawnInfantryText"
+msgstr "Einsatz als {0} erfolgt in {2} | [ESC] drücken zum wechseln"
+
+msgid "DHHud.NeedsClearedText"
+msgstr " (Nicht gesichert)"
+
+#, fuzzy
+msgid "DHHud.BlackoutText"
+msgstr "Blackout"
+
+msgid "DHMortarMessage.BadSurface"
+msgstr "Aufstellen des Mörsers auf dieser Oberfläche nicht möglich"
+
+msgid "DHHud.SelectSpawnPointText"
+msgstr "[ESC] drücken um einen Einsatzpunkt auszuwählen"
+
+msgid "DHHud.SpawnRallyPointText"
+msgstr ""
+"Einsatz als {0} am Gruppensammelpunkt erfolgt in {2} | [ESC] drücken zum "
+"wechseln"
+
+msgid "DHHud.NotReadyToSpawnText"
+msgstr ""
+"Einsatz in {s} möglich (Nutze diese Zeit für die Gruppen- und "
+"Gefechtsplanung)"
+
+msgid "DHHud.CanReloadText"
+msgstr "%THROWMGAMMO% drücken um beim nachladen zu unterstützen"
+
+msgid "DHHud.ConnectedObjectivesNotSecuredText"
+msgstr "Verbundene(s) Zielobjekt(e) nicht gesichert"
+
+msgid "DHHud.NeedReloadText"
+msgstr "Erfordert Nachladen"
+
+msgid "DHHud.SpectateInstructionText4"
+msgstr "[%JUMP%] drücken um zu eigener Ansicht zurückzukehren"
+
+msgid "DHMapMarker_Squad_Move.MarkerName"
+msgstr "Bewegung (Gruppe)"
+
+msgid "DHMortarMessage.MustCrouch"
+msgstr "Aufstellen des Mörsers nur in der Hocke möglich"
+
+msgid "DHHintManager.Hints[52].Text"
+msgstr ""
+"Um die Karte zu vergrößern, bewege den Mauszeiger auf die Karte und benutze "
+"das Mausrad. Um über die Karte zu schwenken, drücke und halte [LEFTMOUSE] "
+"und bewege dabei die Maus."
+
+msgid "DHHintManager.Hints[54].Title"
+msgstr "Funkgerät finden"
+
+msgid "DHHintManager.Hints[54].Text"
+msgstr ""
+"Es wurde ein Feuerunterstützungsziel für schwere Artillerie markiert. Nutze "
+"ein Funkgerät um diese anzufordern!"
+
+msgid "DHHintManager.Hints[53].Title"
+msgstr "Kartenmarkierungen"
+
+msgid "DHHintManager.Hints[53].Text"
+msgstr ""
+"Um Markierungen auf der Karte hinzuzufügen und mit diesen zu interagieren, "
+"bewege den Mauszeiger über das gewünschte Gebiet oder Objekt und drücke "
+"[RIGHTMOUSE] um das Kontextmenü aufzurufen."
+
+msgid "DHHud.SpawnNoRoleText"
+msgstr "[ESC] drücken um eine Rolle auszuwählen"
+
+msgid "DHHud.SpectateInstructionText3"
+msgstr ""
+"[%ROIRONSIGHTS%] drücken um zwischen Erster/Dritter Person Ansicht zu "
+"wechseln"
+
+msgid "DHIQMessage.LeaderAWOLMessage"
+msgstr "Du vernachlässigst deine Gruppe und Versorgungslinien."
+
+msgid "DHHintManager.Hints[66].Text"
+msgstr ""
+"Du hast gerade eine Mörsergranate gerade nach oben abgefeuert. Vermutlich "
+"solltest du in Deckung gehen!"
+
+msgid "DHHintManager.Hints[65].Text"
+msgstr ""
+"Obwohl der Semovente da 90/53 ein mächtiges Geschützt besitzt, ist dessen "
+"Munitionsverrat stark begrenzt. Lasse jeden Schuss zählen!"
+
+msgid "DHHintManager.Hints[60].Title"
+msgstr "Schussweite"
+
+msgid "DHHintManager.Hints[60].Text"
+msgstr ""
+"Diese Waffe verfügt über ein verstellbares Visier! Drücke %SWITCHFIREMODE% "
+"um die Entfernungseinstellung der Visiereinrichtung anzupassen."
+
+msgid "DHHintManager.Hints[61].Title"
+msgstr "Verzweifelte Maßnahmen"
+
+msgid "DHHintManager.Hints[61].Text"
+msgstr ""
+"Diese Waffe nutzt Spezialmunition die nicht wieder aufgefüllt werden kann. "
+"Vergeude keinen Schuss!"
+
+msgid "DHHintManager.Hints[62].Title"
+msgstr "Überhitzung des Laufs"
+
+msgid "DHHintManager.Hints[63].Title"
+msgstr "Rohrwechsel"
+
+msgid "DHHintManager.Hints[63].Text"
+msgstr ""
+"Das Rohr dieser Waffe kann ausgewechselt werden. Drücke %ROMGOPERATION% "
+"während die Waffe aufgelegt ist um das Ersatzrohr einzusetzen."
+
+msgid "DHHud.ServerNameText"
+msgstr "Server: "
+
+msgid "DHHud.MapNameText"
+msgstr "Karte: "
+
+msgid "DHHud.NoTimeLimitText"
+msgstr "Unbegrenzt"
+
+msgid "DHHud.AndMoreText"
+msgstr "und mehr..."
+
+msgid "DHHintManager.Hints[55].Title"
+msgstr "Aufprallgranaten"
+
+msgid "DHIQMessage.MemberAWOLMessage"
+msgstr "Du lässt deine Gruppe im Stich."
+
+msgid "DHHud.MapGameTypeText"
+msgstr "Spielmodus: "
+
+msgid "DHHud.JoinTeamText"
+msgstr "[ESC] um einer Seite beizutreten"
+
+#, fuzzy
+msgid "DHHintManager.Hints[51].Text"
+msgstr "Durch drücken von %JUMP% kann mit der Karte interagiert werden."
+
+msgid "DHHintManager.Hints[52].Title"
+msgstr "Kartennavigation"
+
+msgid "DHHintManager.Hints[51].Title"
+msgstr "Karteninteraktion"
+
+msgid "DHHud.TeamMessagePrefix"
+msgstr "[TEAM] "
+
+msgid "DHHud.SpectateInstructionText2"
+msgstr "[%ALTFIRE%] drücken um zwischen Zuschauermodi zu wechseln"
+
+msgid "DHHud.LegendAxisObjectiveText"
+msgstr "Achsengebiet"
+
+msgid "DHHud.LegendAlliesObjectiveText"
+msgstr "Alliiertes Gebiet"
+
+msgid "DHHud.LegendArtilleryRadioText"
+msgstr "Artilleriefunk"
+
+msgid "DHIQMessage.NotInSquadMessage"
+msgstr "Du befindest dich in keiner Gruppe."
+
+msgid "DHIQMessage.Congratulations<0>"
+msgstr "Wow! So schlau!"
+
+msgid "DHIQMessage.Congratulations<1>"
+msgstr "Unglaublich!"
+
+msgid "DHMortarMessage.CannotLean"
+msgstr ""
+"Aufstellen des Mörsers nicht möglich während sich zur Seite gelehnt wird"
+
+msgid "DHMortarMessage.NotEnoughRoom"
+msgstr "Nicht ausreichend Platz vorhanden um den Mörser hier aufzustellen"
+
+msgid "DHMortarMessage.CannotDeploy"
+msgstr "Mörser kann hier nicht aufgestellt werden"
+
+msgid "DHMortarMessage.InWater"
+msgstr "Mörser kann im Wasser nicht aufgestellt werden"
+
+msgid "DHHintManager.Hints[64].Title"
+msgstr "Lauf zerstört"
+
+msgid "DHHintManager.Hints[64].Text"
+msgstr ""
+"Der Lauf deiner Waffe ist überhitzt und daher zerstört! Die Waffe kann nicht "
+"länger abgefeuert werden."
+
+msgid "DHHud.InvalidSpawnSettingsText"
+msgstr ""
+"[ESC] drücken um Auswahl von Rolle, Fahrzeug und Einsatzpunkt zu bestätigen"
+
+msgid "DHHud.SpawnAtVehicleText"
+msgstr ""
+"Einsatz als {0} auf einem {1} erfolgt in {2} | [ESC] drücken zum wechseln"
+
+msgid "DHHud.SpectateInstructionText1"
+msgstr "[%FIRE%] drücken um Standpunkt/Spieler zu wechseln"
+
+msgid "DHMortarMessage.MustBeStill"
+msgstr "Aufstellen des Mörsers in der Bewgung nicht möglich"
+
+msgid "DHMortarMessage.NotQualified"
+msgstr "Nicht ausgebildet um den Mörser zu benutzen"
+
+msgid "DHHintManager.Hints[55].Text"
+msgstr ""
+"Die Granate in deiner Hand hat einen Aufschlagzünder. Die Granate wird daher "
+"beim Aufschlag auf einer Oberfläche explodieren. Stelle daher sicher, dass "
+"du stark genug wirfst, sonst könnte diese nicht detonieren!"
+
+msgid "DHHintManager.Hints[62].Text"
+msgstr ""
+"Der Lauf deiner Waffe überhitzt! Überhitzte Läufe resultieren in "
+"verringerter Genauigkeit und langfristiger Zerstörung des Laufs."
