@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-06 19:43+0000\n"
+"PO-Revision-Date: 2025-08-07 03:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/de/>\n"
@@ -186,7 +186,7 @@ msgid "DHArtilleryMessage.TooSoonText"
 msgstr "{name} wird bereits benutzt. Später erneut versuchen."
 
 msgid "DHArtilleryMessage.ExhaustedText"
-msgstr "{name} ist aufgebraucht."
+msgstr "{name} ist erschöpft."
 
 msgid "DHArtilleryMessage.UnavailableText"
 msgstr "{name} ist zurzeit nicht verfügbar."
@@ -195,7 +195,7 @@ msgid "DHArtilleryMessage.NoTargetText"
 msgstr "Keine zugewiesenen Zielkoordinaten."
 
 msgid "DHArtilleryMessage.NotQualifiedText"
-msgstr "Sie sind nicht ausgebildet um {name} anzufordern."
+msgstr "Nicht ausgebildet um {name} anzufordern."
 
 msgid "DHArtilleryMessage.CancelledText"
 msgstr "{name} wurde abgebrochen."
@@ -1359,7 +1359,6 @@ msgstr "Einsatz als {0} erfolgt in {2} | [ESC] drücken zum wechseln"
 msgid "DHHud.NeedsClearedText"
 msgstr " (Nicht gesichert)"
 
-#, fuzzy
 msgid "DHHud.BlackoutText"
 msgstr "Blackout"
 
@@ -1492,7 +1491,6 @@ msgstr "Spielmodus: "
 msgid "DHHud.JoinTeamText"
 msgstr "[ESC] um einer Seite beizutreten"
 
-#, fuzzy
 msgid "DHHintManager.Hints[51].Text"
 msgstr "Durch drücken von %JUMP% kann mit der Karte interagiert werden."
 
@@ -1562,7 +1560,7 @@ msgid "DHMortarMessage.MustBeStill"
 msgstr "Aufstellen des Mörsers in der Bewgung nicht möglich"
 
 msgid "DHMortarMessage.NotQualified"
-msgstr "Nicht ausgebildet um den Mörser zu benutzen"
+msgstr "Nicht am Mörser ausgebildet"
 
 msgid "DHHintManager.Hints[55].Text"
 msgstr ""
@@ -1574,3 +1572,739 @@ msgid "DHHintManager.Hints[62].Text"
 msgstr ""
 "Der Lauf deiner Waffe überhitzt! Überhitzte Läufe resultieren in "
 "verringerter Genauigkeit und langfristiger Zerstörung des Laufs."
+
+msgid "DHRadioTouchMessage.NotQualifiedMessage"
+msgstr "Nicht am Funkgerät ausgebildet"
+
+msgid "DHReinforcementAwardMsg.ReinforcementAward"
+msgstr "Uns wurden {0} Verstärkungen zugeteilt durch die Eroberung von {1}!"
+
+msgid "DHVehiclePoolMessage.ActivatedMessage"
+msgstr "Ein Fahrzeugdepot wurde aktiviert."
+
+msgid "DHRadioTouchMessage.CalibratingMessage"
+msgstr "Funk wird kalibriert"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<0>"
+msgstr ""
+"Bitte kurze Zeit warten bevor eine neue Anfrage zur Gruppenzusammenführung "
+"gestellt wird."
+
+msgid "DHMortarMessage.EnemyMortar"
+msgstr "Feindliche Mörser können nicht bedient werden"
+
+msgid "DHPawnTouchMessage.FallbackPlayerName"
+msgstr "Eigene Kräfte"
+
+msgid "DHSignal_Move.SignalName"
+msgstr "Bewegung"
+
+msgid "DHScoreEvent_FriendlyResupply.HumanReadableName"
+msgstr "Verbündeten aufmunitionieren"
+
+msgid "DHScoreEvent_Kill.HumanReadableName"
+msgstr "Abschuss"
+
+msgid "DHScoreEvent_ObjectiveNeutralize.HumanReadableName"
+msgstr "Ziel neutralisiert"
+
+msgid "DHScoreEvent_SquadRallyPointEstablished.HumanReadableName"
+msgstr "Gruppensammelpunkt errichtet"
+
+msgid "DHScoreEvent_SquadRallyPointSpawn.HumanReadableName"
+msgstr "Gruppen Einsatzpunkt"
+
+msgid "DHScoreEvent_Suicide.HumanReadableName"
+msgstr "Selbstmord"
+
+msgid "DHSetupPhaseMessage.PhaseMessage"
+msgstr "Das Gefecht beginnt in {0}"
+
+msgid "DHSetupPhaseMessage.PhaseEndMessage"
+msgstr "Das Gefecht hat begonnen!"
+
+msgid "DHTeamSurrenderVoteMessage.VoteNominatedText"
+msgstr "{0} hat sich für den Rückzug entschieden."
+
+msgid "DHVehicleSayMessage.MessagePrefix"
+msgstr "[FAHRZEUG]"
+
+msgid "DHVehiclePoolMessage.DestroyedMessage"
+msgstr "Ein Fahrzeugdepot wurde zerstört."
+
+msgid "DHHintManager.Hints[42].Text"
+msgstr ""
+"Du fährst ein Higgins-Boot. Drücke %PREVWEAPON%, um die Bugrampe "
+"herunterzulassen, damit die Passagiere und du aussteigen können. Drücke "
+"%NEXTWEAPON%, um die Bugrampe hochzufahren."
+
+msgid "DHResetGameMsg.GameRestartingText"
+msgstr "Das Spiel startet nun neu"
+
+msgid "DHSquadOrderMessage.WaitText"
+msgstr "Bitte warten bevor ein neuer Befehl ausgegeben wird"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<2>"
+msgstr "Dieser Gruppe kann keine Anfrage zur Zusammenführung gestellt werden."
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<0>"
+msgstr ""
+"Beim Stellen der Anfrage zur Beförderung zum Gruppenführer ist ein Fehler "
+"aufgetreten."
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<1>"
+msgstr ""
+"Zu diesem Spieler besteht bereits eine Anfrage zur Beförderung zum "
+"Gruppenführer."
+
+msgid "DHObjectiveMessage.TeamStrings[0]"
+msgstr "Achsenmächte"
+
+msgid "DHObjectiveMessage.TeamStrings[1]"
+msgstr "Alliierte"
+
+msgid "DHObjectiveMessage.NotificationTypes[1]"
+msgstr "erobert"
+
+msgid "DHObjectiveMessage.NotificationTypes[2]"
+msgstr "gesichert"
+
+msgid "DHScoreEvent_ObjectiveCapture.HumanReadableName"
+msgstr "Ziel erobert"
+
+msgid "DHVoicePack.SupportString[1]"
+msgstr "Hilfe bei {objective} benötigt"
+
+msgid "DHVoicePack.AlertString[8]"
+msgstr "Unter Beschuss bei {objective}"
+
+msgid "DHVoicePack.OrderString[1]"
+msgstr "Verteidigt {objective}"
+
+msgid "DHVoiceReplicationInfo.LocalChannelText"
+msgstr "Lokal"
+
+msgid "DHVehicleMessage.VehicleNowLocked"
+msgstr "Panzerbesatzungspositionen in diesem Fahrzeug sind nun verriegelt"
+
+msgid "DHVehicleMessage.ExitCommandersOrMGHatch"
+msgstr "Fahrzeug über die MG- oder Kommandantenluke verlassen"
+
+msgid "DHVehicleMessage.CantFindExitPosition"
+msgstr "Kein Ausgang gefunden"
+
+msgid "DHObjectiveMessage.NotificationMessage"
+msgstr "Die {0} haben {2} {1}"
+
+msgid "DHObjectiveMessage.NotificationTypes[0]"
+msgstr "neutralisiert"
+
+msgid "DHScoreEvent_TeamKill.HumanReadableName"
+msgstr "Eigenabschuss"
+
+msgid "DHHintManager.Hints[12].Text"
+msgstr ""
+"Ziele für die Feuerunterstützung können mit dem Feldstecher markiert werden. "
+"Wähle den Feldstecher mit %ROIRONSIGHTS% aus und halte dann %FIRE% gedrückt, "
+"um das Feuerunterstützungsmenü aufzurufen."
+
+msgid "DHHintManager.Hints[7].Text"
+msgstr ""
+"Um den Schwenkbereich Ihres Mörsers anzupassen, halten Sie die Tasten A oder "
+"D gedrückt. Um die Höhe zu erhöhen, drücken Sie die Taste S. Um die Höhe zu "
+"verringern, drücken Sie die Taste W. Um den nächsten Granatentyp "
+"auszuwählen, drücken Sie die Taste %SwitchFireMode%. Um eine Granate "
+"abzufeuern, drücken Sie die %Fire% Taste."
+
+msgid "DHSquadOrderMessage.AttackText"
+msgstr "Der Gruppenführer hat einen neuen Angriffsbefehl ausgegeben"
+
+msgid "DHVehicleMessage.OtherCrewmanCanLockVehicle"
+msgstr ""
+"Nur das ranghöchste Besatzungsmitglied kann das Fahrzeug ver- oder entriegeln"
+
+msgid "DHVehicleMessage.UnbuttonToReload"
+msgstr "Die Luke muss geöffnet werden um {0} nachzuladen"
+
+msgid "DHVehicleMessage.CantLockNonCrewVehicle"
+msgstr ""
+"Fahrzeug kann nicht verriegelt werden, da es neben Panzerbesatzungen auch "
+"von anderen Rollen bedient werden kann"
+
+msgid "DHVehicleMessage.CanOnlyLockFromCrewPosition"
+msgstr ""
+"Fahrzeug kann nur ver- oder entriegelt werden, während sich in einer "
+"Panzerbesatzungsposition befunden wird"
+
+msgid "DHVehicleMessage.OnlyTankCrewCanLockVehicle"
+msgstr "Nur Panzerbesatzungen können Fahrzeuge ver- und entriegeln"
+
+msgid "DHVehicleMessage.UnbuttonHatchToChangePosition"
+msgstr "Um die Position zu wechseln muss die {0} Luke geöffnet sein"
+
+msgid "DHVehicleMessage.GunObstructed"
+msgstr "Das Geschütz kann nicht schießen da es versperrt ist"
+
+msgid "DHVehicleMessage.NotQualified"
+msgstr "Nicht an diesem Fahrzeug ausgebildet"
+
+msgid "DHVehicleMessage.VehicleIsEnemy"
+msgstr "Feindliches Fahrzeug kann nicht bedient werden"
+
+msgid "DHMortarMessage.InUse"
+msgstr "Mörser wird bereits bedient"
+
+msgid "DHPawn.AdminSpawnedVehicleText"
+msgstr "Admin {name} hat ein {vehicle} eingesetzt"
+
+msgid "DHPawnTouchMessage.Messages<0>"
+msgstr "[%THROWMGAMMO%] drücken um {0} aufzumunitionieren"
+
+msgid "DHPawnTouchMessage.Messages<1>"
+msgstr "[%THROWMGAMMO%] drücken um {0} nachzuladen"
+
+msgid "DHPawnTouchMessage.Messages<2>"
+msgstr "[%THROWMGAMMO%] drücken um {0} aufzumunitionieren und nachzuladen"
+
+msgid "DHPlayerReplicationInfo.SquadLeaderAbbreviation"
+msgstr "GF"
+
+msgid "DHRadioTouchMessage.RequestMessage"
+msgstr ""
+"[%SHOWORDERMENU | ONRELEASE HIDEORDERMENU%] halten um Artillerie zu rufen"
+
+msgid "DHRadioTouchMessage.NoTargetMessage"
+msgstr "Kein Artillerieziel markiert"
+
+msgid "DHRadioTouchMessage.NotOwnedMessage"
+msgstr "Nutzung feindlicher Funkgeräte nicht möglich"
+
+msgid "DHRadioTouchMessage.BusyMessage"
+msgstr "Funkgerät bereits in Benutzung"
+
+msgid "DHReinforcementAwardMsg.ObjectiveString"
+msgstr "ein Ziel"
+
+msgid "DHReinforcementMsg.ReinforcementsDepleted"
+msgstr "Wir haben keine Verstärkungen mehr!"
+
+msgid "DHReinforcementMsg.ReinforcementsRemaining"
+msgstr "Uns stehen noch {0}% Verstärkungen zur Verfügung!"
+
+msgid "DHReinforcementAwardMsg.ReinforcementLoss"
+msgstr "Wir haben {0} Verstärkungen verloren aufgrund Verlustes von {1}!"
+
+msgid "DHReinforcementAwardMsg.ReinforcementAttrition"
+msgstr "Wir werden aufgerieben und verlieren signifikant an Verstärkungen!!!"
+
+msgid "DHResetGameMsg.CountdownText"
+msgstr "Das Spiel startet in {seconds} Sekunden neu"
+
+msgid "DHResupplyMessage.HaveResupplied"
+msgstr "{0} wurde aufmunitioniert"
+
+msgid "DHScoreEvent_SquadRallyPointEstablishedAssist.HumanReadableName"
+msgstr "Gruppensammelpunkt errichtet (unterstützt)"
+
+msgid "DHScoreEvent_VehicleKill.HumanReadableName"
+msgstr "Fahrzeug Abschuss"
+
+msgid "DHServerSayMessage.MessagePrefix"
+msgstr "[SERVER]"
+
+msgid "DHSignal_Fire.SignalName"
+msgstr "Feuer"
+
+msgid "DHSpawnProtectMineVolume.SpawnMFActivatedMessage"
+msgstr "Dieses Gebiet wird nun vom Feind kontrolliert, Rückzug!"
+
+msgid "DHScoreEvent_TeamKillPunish.HumanReadableName"
+msgstr "Strafe Eigenabschuss"
+
+msgid "DHSpawnProtectMineVolume.UnprotectedVehicleWarning"
+msgstr "Fahrzeug wurde vom Feind aufgeklärt!"
+
+msgid "DHSpawnProtectMineVolume.WarningMessage"
+msgstr "Feindgebiet betreten, Rückzug!"
+
+msgid "DHSquadInviteInteraction.PromptText"
+msgstr "{0} hat dich eingeladen Gruppe {1} beizutreten."
+
+msgid "DHSquadMessage.SquadMergedDestinationMessage"
+msgstr "Eine andere Gruppe wurde in deine Gruppe überführt."
+
+msgid "DHSquadMessage.SquadMergeRequestDeniedMessage"
+msgstr "Die Gruppenzusammenführung wurde von Gruppe {0} abgelehnt."
+
+msgid "DHSquadMessage.SquadMergeRequestDeniedGenericMessage"
+msgstr "Die Gruppenzusammenführung wurde abgelehnt."
+
+msgid "DHSquadMessage.SquadMergeFailedMessage"
+msgstr "Die Gruppenzusammenführung ist fehlgeschlagen,"
+
+msgid "DHSquadMessage.SquadPromotionRequestDeniedMessage"
+msgstr ""
+"Deine Anfrage zur Beförderung zum Gruppenführer wurde von {0} abgelehnt."
+
+msgid "DHSquadMessage.SquadPromotionRequestSentMessage"
+msgstr "Eine Anfrage zur Beförderung zum Gruppenführer wurde an {0} geschickt."
+
+msgid "DHSquadMessage.SquadPromotionRequestDuplicateMessage"
+msgstr ""
+"{0} wurde bereits eine Anfrage zur Beförderung zum Gruppenführer geschickt."
+
+msgid "DHSquadMessage.SquadTargetSelectionRefused"
+msgstr ""
+"Du bist ein Artillerieaufklärer. Das aktive Artillerieziel kann nicht auf "
+"die eigene Markierung umgeschaltet werden."
+
+msgid "DHSquadOrderMessage.AttentionText"
+msgstr "Der Gruppenführer hat eine neue Warnung zur Beachtung ausgegeben"
+
+msgid "DHSupplyMessage.SuppliesRefunded"
+msgstr ""
+"{0} Nachschub wurde in der Nähe befindlichen Nachschublagern zurückerstattet."
+
+msgid "DHSquadPromotionRequestInteraction.PromptText"
+msgstr "{0} möchte dich zum Führer der Gruppe {1} befördern."
+
+msgid "DHSquadPromotionRequestInteraction.Options<0>.Text"
+msgstr "Akzeptieren"
+
+msgid "DHSquadPromotionRequestInteraction.Options<1>.Text"
+msgstr "Ablehnen"
+
+msgid "DHSquadPromotionRequestInteraction.Options<2>.Text"
+msgstr "Alle ignorieren"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<4>"
+msgstr "Anfrage zur Gruppenzusammenführung gestellt."
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<1>"
+msgstr ""
+"Beim Stellen der Gruppenzusammenführungsanfrage ist ein Fehler aufgetreten."
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<2>"
+msgstr "Anfrage zur Beförderung zum Gruppenführer wurde gestellt."
+
+msgid "DHSquadSayMessage.MessagePrefix"
+msgstr "[GRUPPE]"
+
+msgid "DHSupplyMessage.SuppliesLoaded"
+msgstr ""
+"{0} Nachschub wurde in das Fahrzeug aus einem in der Nähe befindlichen {1} "
+"eingeladen"
+
+msgid "DHSupplyMessage.VehicleFull"
+msgstr "Die Ladefläche des Fahrzeugs ist voll."
+
+msgid "DHSupplyMessage.VehicleEmpty"
+msgstr "Die Ladefläche des Fahrzeugs ist leer."
+
+msgid "DHSupplyMessage.NoSupplyCaches"
+msgstr "Es gibt keine in der Nähe befindlichen Nachschublager."
+
+msgid "DHSupplyMessage.SupplyCacheFull"
+msgstr "Das in der Nähe befindliche Nachschublager ist voll."
+
+msgid "DHSupplyMessage.SupplyCacheFallbackName"
+msgstr "Nachschublager"
+
+msgid "DHSupplyVehicleMessage.Controls<0>.Text"
+msgstr "Nachschub einladen"
+
+msgid "DHSupplyVehicleMessage.Controls<1>.Text"
+msgstr "Nachschub abladen"
+
+msgid "DHTeamKillInteraction.PromptText"
+msgstr "{0} hat dich durch Eigenbeschuss getötet!"
+
+msgid "DHTeamKillInteraction.Options<0>.Text"
+msgstr "Vergeben"
+
+msgid "DHTeamKillInteraction.Options<1>.Text"
+msgstr "Bestrafen"
+
+msgid "DHTeamSayMessage.MessagePrefix"
+msgstr "[TEAM]"
+
+msgid "DHTeamSurrenderVoteMessage.VoteFailedText"
+msgstr "Die Abstimmung zum Rückzug ist fehlgeschlagen ({0})."
+
+msgid "DHTeamSurrenderVoteMessage.VoteSummaryText"
+msgstr "Ja: {0}, Benötigt: {1}"
+
+msgid "DHTeamSurrenderVoteMessage.VoteNominationsRemainingText"
+msgstr "Benötigt {0} weitere Stimme(n) um die Abstimmung zu starten."
+
+msgid "DHUnits.DistanceUnits<0>.Name"
+msgstr "Unreal Einheiten"
+
+msgid "DHUnits.DistanceUnits<0>.Symbol"
+msgstr "uu"
+
+msgid "DHUnits.DistanceUnits<1>.Name"
+msgstr "Meter"
+
+msgid "DHUnits.DistanceUnits<1>.Symbol"
+msgstr "m"
+
+msgid "DHUnits.DistanceUnits<2>.Name"
+msgstr "Yards"
+
+msgid "DHUnits.DistanceUnits<2>.Symbol"
+msgstr "yd"
+
+msgid "DHVehicleCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DHVehicleCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DHVehicleMessage.NoRiderPositions"
+msgstr "Kann auf diesem Fahrzeug nicht mitfahren"
+
+msgid "DHVehicleMessage.VehicleBurning"
+msgstr "Fahrzeug brennt!"
+
+msgid "DHVehicleMessage.ExitCommandersHatch"
+msgstr "Fahrzeug muss über die Kommandantenluke verlassen werden"
+
+msgid "DHVehicleMessage.ExitDriverOrComHatch"
+msgstr "Fahrzeug über die Fahrer- oder Kommandantenluke verlassen"
+
+msgid "DHVehicleMessage.CantEnterLockedVehicle"
+msgstr "Dieses Fahrzeug wurde von der Besatzung verriegelt"
+
+msgid "DHVehicleMessage.VehicleNowUnlocked"
+msgstr "Panzerbesatzungspositionen in diesem Fahrzeug sind nun entriegelt"
+
+msgid "DHVehicleMessage.MapDisabledVehicleLocking"
+msgstr "Diese Karte erlaubt kein Verriegeln von Fahrzeugen"
+
+msgid "DHVehicleMessage.VehicleScuttleInitiated"
+msgstr "Aktuell veraltet"
+
+msgid "DHVehicleMessage.CannotEnter"
+msgstr "Fahrzeug ist voll"
+
+msgid "DHVehicleTouchControlsMessage.Controls<0>.Text"
+msgstr "Einsteigen"
+
+msgid "DHVehicleVoiceSayMessage.MessagePrefix"
+msgstr "[STIMME]"
+
+msgid "DHVoicePack.EnemyAbbrevAxis[3]"
+msgstr "Pionier"
+
+msgid "DHVoicePack.VehicleDirectionString[0]"
+msgstr "Gehe zu {objective}"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<0>"
+msgstr "Kommando"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<1>"
+msgstr "Kommando"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<2>"
+msgstr "Unzugeordnet"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<3>"
+msgstr "Unzugeordnet"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<4>"
+msgstr "Gruppe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<5>"
+msgstr "Gruppe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<6>"
+msgstr "Gruppe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<7>"
+msgstr "Gruppe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<8>"
+msgstr "Gruppe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<9>"
+msgstr "Gruppe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<10>"
+msgstr "Gruppe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<11>"
+msgstr "Gruppe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<12>"
+msgstr "Gruppe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<13>"
+msgstr "Gruppe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<14>"
+msgstr "Gruppe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<15>"
+msgstr "Gruppe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<17>"
+msgstr "Gruppe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<18>"
+msgstr "Gruppe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<19>"
+msgstr "Gruppe"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecName"
+msgstr "Bessere Qualität"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecName"
+msgstr "Besser Qualität"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecDescription"
+msgstr "(9.6kbps) - Nutzt mehr Bandbreite, dafür ist der Ton deutlich klarer."
+
+msgid "DHVoiceSayMessage.MessagePrefix"
+msgstr "[STIMME]"
+
+msgid "DHVoteInfo.Options<0>.Text"
+msgstr "Jawohl"
+
+msgid "DHVoteInfo.Options<1>.Text"
+msgstr "Nein"
+
+msgid "DHVoteMessage.VoteReceievedText"
+msgstr "Stimme erhalten."
+
+msgid "DHVoteMessage.VoteConcludedText"
+msgstr "Die Abstimmung ist abgeschlossen."
+
+msgid "DHWeaponsLockedMessage.LockedFFMessage"
+msgstr "Waffen wurden aufgrund Eigenbeschuss gesichert!"
+
+msgid "DHWeaponsLockedMessage.LockedWithTimerMessage"
+msgstr "Waffen für {0} Sekunden gesichert"
+
+msgid "DHWeaponsLockedMessage.LockedFFSKMessage"
+msgstr "Waffen wurden aufgrund Abschusses eigener Kräfte im Spawn gesichert!"
+
+msgid "DHVotingHandler.SwapAndRestartText"
+msgstr "DH-[Seitenwechsel und Neustart]"
+
+msgid "DHWeaponPickup.PickupMessage"
+msgstr "{0} aufgenommen"
+
+msgid "DHWeaponPickupTouchMessage.Controls<0>.Text"
+msgstr "Aufnehmen"
+
+msgid "DHWeaponsLockedMessage.LockedSetupPhaseMessage"
+msgstr "In der Aufstellungsphase werden Waffen gesichert getragen"
+
+msgid "DH_ModifyRoundTimeMessage.IncreasedText"
+msgstr "erhöht"
+
+msgid "DH_ModifyRoundTimeMessage.DecreasedText"
+msgstr "verringert"
+
+msgid "DH_ModifyRoundTimeMessage.ChangedText"
+msgstr "geändert"
+
+msgid "DH_ModifyRoundTimeMessage.RoundTimeModifiedText"
+msgstr "Verbleibende Zeit wurde {0}."
+
+msgid "DarkestHourGame.ROHints<1>"
+msgstr ""
+"Eine Mk II Granate kann 'gekocht' werden indem %FIRE3% gedrückt wird während "
+"die Granate gehalten wird."
+
+msgid "DarkestHourGame.ROHints<3>"
+msgstr ""
+"%PLAYERMENU 2% drücken um die Spielerrolle im Spiel zu ändern, %PLAYERMENU% "
+"drücken um die Seite zu wechseln."
+
+msgid "DarkestHourGame.ROHints<4>"
+msgstr ""
+"Um bei deiner Waffe das Visier zu nutzen und somit eine erhöhte Präzsion und "
+"Zielgenauigkeit zu erreichen, drücke die %ROIRONSIGHTS% Taste."
+
+msgid "DarkestHourGame.ROHints<5>"
+msgstr "Für die Hilfe beim Einnehmen von Zielen erhältst du 10 Punkte."
+
+msgid "DarkestHourGame.ROHints<6>"
+msgstr ""
+"In die Hocke zu gehen und sich hinzulegen stabilisiert die Waffe und "
+"verringert den Rückstoß beim Schießen."
+
+msgid "DarkestHourGame.ROHints<7>"
+msgstr "Um Ausdauer wiederzuerlangen, halte an und ruhe dich eine Weile aus."
+
+msgid "DarkestHourGame.ROHints<9>"
+msgstr ""
+"Beim Nachladen deutet ein \"schweres Magazin\" darauf hin, dass das eben in "
+"die Waffe geladene Magazin mehr als halb voll mit Munition ist."
+
+msgid "DarkestHourGame.ROHints<10>"
+msgstr ""
+"Das Maschinengewehr kann nur im aufgestellten Zustand nachgeladen werden."
+
+msgid "DarkestHourGame.ROHints<12>"
+msgstr ""
+"Das Maschinengewehr ist effektiver wenn es in kurzen, kontrollierten "
+"Feuerstößen geschossen wird."
+
+msgid "DarkestHourGame.ROHints<14>"
+msgstr ""
+"Wenn ein Ziel eingenommen wird, fördert die Nähe eines Offiziers die Moral "
+"und erleichtert die Ausführung deiner Tätigkeit!"
+
+msgid "DarkestHourGame.ROHints<15>"
+msgstr ""
+"Maschinengewehrschützen sollten niemals alleine eine Stellung beziehen, "
+"finde einen Kameraden der deinen Rücken sichert."
+
+msgid "DarkestHourGame.GameName"
+msgstr "DarkestHourGame"
+
+msgid "DarkestHourGame.ROHints<17>"
+msgstr ""
+"Sobald die Bazooka oder der Panzerschreck abgefeuert wurde, begib dich "
+"SCHNELL in neue Deckung, da der Rauch des Rückstrahls deinen Standort "
+"verrät. Mit ziemlicher Sicherheit wird der Feind in deine Richtung wirken!"
+
+msgid "DarkestHourGame.ROHints<19>"
+msgstr ""
+"Panzerabwehrsoldaten sollten stets einen Kameraden für die "
+"Munitionsversorgung, unterstütztes Nachladen und Eigensicherung mit sich "
+"nehmen."
+
+msgid "DHSupplyMessage.SupplyCacheEmpty"
+msgstr "Das in der Nähe befindliche Nachschublager ist leer."
+
+msgid "DHVehicleMessage.OpenHatchToExit"
+msgstr "Um das Fahrzeug zu verlassen muss die {0} Luke geöffnet werden"
+
+msgid "DHSpawnProtectMineVolume.SafePeriodWarningMessage"
+msgstr ""
+"Dieses Gebiet wird nun vom Feind kontrolliert! Du hast %remaining% Sekunden "
+"um zu den eigenen Linien zurückzukehren!"
+
+msgid "DHSpawnProtectMineVolume.ExitedMinefieldMessage"
+msgstr ""
+"Feindgebiet wurde verlassen. Dorthin zurückzukehren wird als Fahnenflucht "
+"gewertet!"
+
+msgid "DHSquadMessage.SquadMergedSourceMessage"
+msgstr ""
+"Deine Gruppe wurde in Gruppe {0} überführt. Dein neuer Gruppenführer ist {1}."
+
+msgid "DHSquadMessage.SquadPromotionRequestAcceptedMessage"
+msgstr ""
+"Deine Anfrage zur Beförderung zum Gruppenführer wurde von {0} akzeptiert."
+
+msgid "DHSupplyMessage.SuppliesUnloaded"
+msgstr ""
+"{0} Nachschub wurde vom Fahrzeug an einem in der Nähe befindlichen {1} "
+"abgeladen"
+
+msgid "DHTeamSurrenderVoteMessage.VoteSucceededText"
+msgstr "Die Abstimmung zum Rückzug war erfolgreich ({0})."
+
+msgid "DHVehicleMessage.AllRiderPositionsFull"
+msgstr "Alle Mitfahrpositionen besetzt"
+
+msgid "DHWeaponsLockedMessage.UnlockedMessage"
+msgstr "Waffen wurden entsichert"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<16>"
+msgstr "Gruppe"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecDescription"
+msgstr "(9.6kbps) - Nutzt mehr Bandbreite, dafür ist der Ton deutlich klarer."
+
+msgid "DHWeaponsLockedMessage.LockedSKMessage"
+msgstr "Waffen aufgrund zu vieler Abschüsse im Spawn gesichert!"
+
+msgid "DarkestHourGame.ROHints<0>"
+msgstr ""
+"Druch drücken von %SHOWOBJECTIVES% wird eine Karte der zu erobernden oder "
+"verteidigenden Zielobjekte angezeigt."
+
+msgid "DarkestHourGame.ROHints<16>"
+msgstr ""
+"Maschinengewehrschützen haben eine limitierte Sicht während sie in Stellung "
+"liegen, versuche sie daher aus der Flanke anzugreifen."
+
+msgid "DHSquadMessage.SquadMergedSourceGenericMessage"
+msgstr "Deine Gruppe wurde in eine andere Gruppe überführt."
+
+msgid "DHSquadOrderMessage.DefendText"
+msgstr "Der Gruppenführer hat einen neuen Verteidigungsbefehl ausgegeben"
+
+msgid "DHSquadOrderMessage.MoveText"
+msgstr "Der Gruppenführer hat einen neuen Bewegungsbefehl ausgegeben"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<3>"
+msgstr "Zu dieser Gruppe besteht bereits eine Anfrage zur Zusammenführung."
+
+msgid "DHVehicleMessage.AbandonedVehicleUnlocked"
+msgstr ""
+"Dein Fahrzeug wurde zu lang verriegelt zurückgelassen und ist nun entriegelt"
+
+msgid "DHVoicePack.OrderString[0]"
+msgstr "Greift {objective} an"
+
+msgid "DHVotingHandler.lmsgMapVotedTooRecently"
+msgstr ""
+"Bitte %seconds% Sekunden warten bevor für eine andere Karte abgestimmt wird!"
+
+msgid "DarkestHourGame.ROHints<2>"
+msgstr ""
+"Um ein Ziel zu erobern muss zuerst das Zielgebiet betreten werden. Um die "
+"Eroberung erfolgreich zu beginnen und abzuschließen wird vermutlich mehr als "
+"ein Kamerad benötigt."
+
+msgid "DarkestHourGame.ROHints<8>"
+msgstr ""
+"Maschinengewehre können auf beinahe allen Gegenständen aufgestellt werden - "
+"drücke %DEPLOY% wenn das Symbol zum Auflegen erscheint um es aufzustellen."
+
+msgid "DarkestHourGame.ROHints<11>"
+msgstr ""
+"Spieler erhalten 1 Punkt für das Aufmunitionieren von "
+"Maschinengewehrschützen die Munition benötigen."
+
+msgid "DarkestHourGame.ROHints<13>"
+msgstr ""
+"Das Rohr des Kaliber 30 kann nicht gewechselt werden, sei daher vorsichtig "
+"es nicht zu überhitzen!"
+
+msgid "DHSquadMessage.NotInSquadMessage"
+msgstr ""
+"Du befindest dich in keiner Gruppe. Drücke [%SQUADMENU%] um das Gruppenmenü "
+"aufzurufen oder drücke [%SQUADJOINAUTO%] um automatischer einer Gruppe "
+"beizutreten."
+
+msgid "DHHintManager.Hints[50].Text"
+msgstr ""
+"Öffne die Karte, um das Feuer zu koordinieren. Verwende [RIGHTMOUSE] auf "
+"einer Feuerunterstützungsanforderung, um diese als aktives Ziel auszuwählen "
+"oder verwende die Linealmarkierung, um die Entfernung zu einem bestimmten "
+"Punkt auf der Karte zu messen."
+
+msgid "DHVoteInfo_TeamSurrender.QuestionText"
+msgstr ""
+"Soll sich zurückgezogen werden um den Kampf an einem weiteren Tag "
+"fortzuführen?"
+
+msgid "DarkestHourGame.ROHints<18>"
+msgstr ""
+"Stelle dich niemals direkt hinter Raketenwaffen wenn diese schießen; durch "
+"den Rückstrahl können schwere Verletzungen erlitten werden!"
+
+msgid "DarkestHourGame.ROHints<20>"
+msgstr ""
+"Panzerabwehrwaffen werden automatisch entladen sobald eine andere Waffe "
+"ausgewählt wird. Es ist daher eine gute Idee bei einem Kameraden zu bleiben "
+"um das Nachladen bei Bedarf zu beschleunigen."
