@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-03 12:43+0000\n"
+"PO-Revision-Date: 2025-08-07 03:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/de/>\n"
@@ -87,7 +87,7 @@ msgid "DH_LeIG18Cannon.ProjectileDescriptions[1]"
 msgstr "HEAT"
 
 msgid "DH_LeIG18Gun.VehicleNameString"
-msgstr "7.5 cm leichtes Infanteriegeschütz 18"
+msgstr "7,5 cm leichtes Infanteriegeschütz 18"
 
 msgid "DH_M116Cannon.ProjectileDescriptions[0]"
 msgstr "HE"
