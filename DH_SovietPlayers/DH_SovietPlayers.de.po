@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-03 12:43+0000\n"
+"PO-Revision-Date: 2025-08-07 03:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_sovietplayers/de/>\n"
@@ -50,6 +50,5 @@ msgstr "Geisteskranker"
 msgid "DH_SovietMadManRoles.PluralName"
 msgstr "Geisteskranke"
 
-#, fuzzy
 msgid "DHSOVSniperRoles.AltName"
-msgstr "Snaiper"
+msgstr "Snayper"
