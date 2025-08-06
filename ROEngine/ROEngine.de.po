@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-19 18:42+0000\n"
+"PO-Revision-Date: 2025-08-07 03:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/de/>\n"
@@ -554,9 +554,8 @@ msgstr "Zuschauen in Objektansicht erlauben"
 msgid "ROTeamGame.PropsDisplayText[11]"
 msgstr "Freie Ansicht nach Tod erlauben"
 
-#, fuzzy
 msgid "ROTeamGame.PropsDisplayText[21]"
-msgstr "Mindestspieleranzahl"
+msgstr "Mindestanzahl verbundene Spieler"
 
 msgid "ROTeamGame.PropsDisplayText[29]"
 msgstr "Zeit zum Rauswurf aufgrund Untätigkeit"
