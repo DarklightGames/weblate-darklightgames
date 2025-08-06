@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-05 01:43+0000\n"
+"PO-Revision-Date: 2025-08-07 03:43+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -993,7 +993,7 @@ msgid "DHHud.NeedReloadText"
 msgstr "Требуется перезарядка"
 
 msgid "DHHud.NeedsClearedText"
-msgstr " (Не захвачено)"
+msgstr " (Не зачищено)"
 
 msgid "DHHud.BlackoutText"
 msgstr "Затемнено"
