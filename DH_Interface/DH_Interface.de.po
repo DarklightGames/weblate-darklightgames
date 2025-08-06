@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-06 19:43+0000\n"
+"PO-Revision-Date: 2025-08-07 03:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/de/>\n"
@@ -147,7 +147,7 @@ msgid "DHDeployMenu.VehicleUnavailableString"
 msgstr "Das ausgewählte Fahrzeug ist nicht länger verfügbar."
 
 msgid "DHDeployMenu.LockedText"
-msgstr "Verschlossen"
+msgstr "Verriegelt"
 
 msgid "DHDeployMenu.SurrenderButtonText[0]"
 msgstr "Zurückziehen"
@@ -429,13 +429,13 @@ msgid "DHContextMenu_SquadMembers.EntryTexts<8>"
 msgstr "Gruppenzusammenführung anfragen"
 
 msgid "DHDeployMenu.UnassignedPlayersCaptionText"
-msgstr "Nicht-zugewiesen"
+msgstr "Führungslos"
 
 msgid "DHDeployMenu.NonSquadLeaderOnlyText"
 msgstr "NICHT FÜR GRUPPENFÜHRER"
 
 msgid "DHDeployMenu.SurrenderConfirmBaseText"
-msgstr "Wollen Sie sich tatsächlich ergeben?"
+msgstr "Wollen Sie sich wirklich zurückziehen?"
 
 msgid "DHDeployMenu.SurrenderResponseMessages<0>"
 msgstr "Fataler Fehler!"
@@ -890,13 +890,11 @@ msgstr "Kartengröße"
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<0>"
 msgstr "Der Kartenname."
 
-#, fuzzy
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<1>"
-msgstr "Alliiertes Land auf dieser Karte."
+msgstr "Alliierte Mächte dieser Karte."
 
-#, fuzzy
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<2>"
-msgstr "Achsenmächte Land auf dieser Karte."
+msgstr "Achsenmächte dieser Karte."
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<3>"
 msgstr "Spieltyp oder Gefechtsmodus der Karte."
@@ -1351,3 +1349,363 @@ msgstr "Wähle einen Server zum beitreten aus deinen Favoriten"
 
 msgid "DHServerBrowser.PanelHint<3>"
 msgstr "Zeige alle RO Server an, die derzeit in deinem LAN laufen"
+
+msgid "DHTab_GameSettings.ThrottleOtherVehicles.Caption"
+msgstr "Stufenweise Beschleunigung - Andere Fahrzeuge"
+
+msgid "DHTab_Hud.GameHudShowIndicators.Caption"
+msgstr "Packet Loss Indikator zeigen"
+
+msgid "DHTab_Hud.ShowChatMessages.Hint"
+msgstr ""
+"Zeige Chat Nachrichten von Spielern und Server. Nachrichten können auch in "
+"der Konsole gelesen werden."
+
+msgid "DHTab_Input.InputAutoSlope.Caption"
+msgstr "Automatische Neigung"
+
+msgid "DHTab_Input.InputBK1.Caption"
+msgstr "Optionen"
+
+msgid "DHTab_Input.InputScopedFactor.Caption"
+msgstr "Empfindlichkeit Zielfernrohr und Feldstecher"
+
+msgid "DHTab_Input.InputUseJoystick.Caption"
+msgstr "Joystick aktivieren"
+
+msgid "DHTab_MainSP.MapAuthorText"
+msgstr "Autor: {author}"
+
+msgid "DHTab_MainSP.PreviewGroup.Caption"
+msgstr "Vorschau"
+
+msgid "DHTab_MutatorSP.IAMutatorAll.Caption"
+msgstr "Alle hinzufügen"
+
+msgid "DHTab_MainSP.MapCaptionText"
+msgstr "{game} Karten"
+
+msgid "DHTab_MutatorSP.IAMutatorClear.Caption"
+msgstr "Alle entfernen"
+
+msgid "DHTab_MutatorSP.IAMutatorConfig.Caption"
+msgstr "Mutatoren konfigurieren"
+
+msgid "DHTab_DetailSettings.VideoColorDepth.Caption"
+msgstr "Farbtiefe"
+
+msgid "DHTab_Hud.GameHudMessageOffset.Caption"
+msgstr "Versatz Nachrichtenschriftart"
+
+msgid "DHTab_Input.InputIronSightBipodFactor.Caption"
+msgstr "Empfindlichkeit Zweibein"
+
+msgid "DHTab_Input.InputIronSightFactor.Caption"
+msgstr "Empfindlichkeit Visiereinrichtung"
+
+msgid "DHTab_Input.InputMenuSensitivity.Caption"
+msgstr "Empfindlichkeit Maus (Menü)"
+
+msgid "DHTab_Input.InputMouseAccel.Caption"
+msgstr "Schwelle Mausbeschleunigung"
+
+msgid "DHTab_MutatorSP.ActiveBackground.Caption"
+msgstr "Aktive Mutatoren"
+
+msgid "DHTab_GameSettings.Incognito.Caption"
+msgstr "Unsichtbarmodus"
+
+msgid "DHTab_GameSettings.LockTankOnEntry.Caption"
+msgstr "Panzer beim Betreten verschließen"
+
+msgid "DHTab_DetailSettings.ScopeDetail.Caption"
+msgstr "Zielfernrohr Detailtiefe"
+
+msgid "DHTab_DetailSettings.UseVSyncCheckBox.Caption"
+msgstr "VSync (nicht empfohlen)"
+
+msgid "DHTab_DetailSettings.UseVSyncCheckBox.Hint"
+msgstr ""
+"VSync wird genutzt um Screen-Tearing zu verringern auf Kosten erhöhten Input "
+"Lags (GPU Einstellungen können viele Grafikeinstellungen wie diese "
+"überschreiben)"
+
+msgid "DHTab_DetailSettings.VideoFullScreen.Caption"
+msgstr "Vollbild"
+
+msgid "DHTab_DetailSettings.VideoResolution.Caption"
+msgstr "Auflösung"
+
+msgid "DHTab_GameSettings.NetSpeedText[3]"
+msgstr "Empfohlen ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[4]"
+msgstr "Hoch ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[5]"
+msgstr "Extrem ({0})"
+
+msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
+msgstr ""
+"Hält die FPS-Zahl so hoch wie möglich indem die Sichtdistanz automatisch der "
+"Leistung angepasst wird"
+
+msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
+msgstr ""
+"Durch Dynamische Sichtdistanz genutzt um zu entscheiden wann die "
+"Sichtdistanz verringert wird um die FPS zu verbessern"
+
+msgid "DHTab_DetailSettings.RenderDeviceCombo.Caption"
+msgstr "Rendergerät"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[0]"
+msgstr "Niemals"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[2]"
+msgstr "Immer"
+
+msgid "DHTab_GameSettings.PanelCaption"
+msgstr "Spiel"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Caption"
+msgstr "Automatische Fahrzeugwarnungen"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Hint"
+msgstr "Wann automatische Fahrzeugbefehlswarnungen gesendet werden sollen"
+
+msgid "DHTab_GameSettings.CopyROIDButton.Caption"
+msgstr "ID kopieren"
+
+msgid "DHTab_GameSettings.CopyROIDButton.Hint"
+msgstr "Erlaubt das Einfügen der ROID als Text"
+
+msgid "DHTab_GameSettings.GameBK1.Caption"
+msgstr "Spiel"
+
+msgid "DHTab_GameSettings.GameBK2.Caption"
+msgstr "Fahrzeug"
+
+msgid "DHTab_GameSettings.GameBK3.Caption"
+msgstr "Netzwerk"
+
+msgid "DHTab_GameSettings.Incognito.Hint"
+msgstr "Patron- oder Entwicklerstatus nicht auf dem Scoreboard anzeigen"
+
+msgid "DHTab_GameSettings.ManualReloading.Caption"
+msgstr "Panzergranaten manuell nachladen"
+
+msgid "DHTab_GameSettings.ManualReloading.Hint"
+msgstr ""
+"Granaten werden nicht nachgeladen bis erneut feuern gedrückt wird, nützlich "
+"wenn nach dem Abschuss der Granatentyp gewechselt werden soll"
+
+msgid "DHTab_GameSettings.Netspeed.Caption"
+msgstr "Netzgeschwindigkeit (Bytes pro Sekunde)"
+
+msgid "DHTab_GameSettings.NoGore.Caption"
+msgstr "Ohne Blut"
+
+msgid "DHTab_GameSettings.NoGore.Hint"
+msgstr "Keine Verstümmelungen, Enthauptungen oder Bluteffekte"
+
+msgid "DHTab_GameSettings.PlayerName.Caption"
+msgstr "Spielername"
+
+msgid "DHTab_GameSettings.PlayersROID.Caption"
+msgstr ""
+"Es muss erst einem Mehrspieler-Gerfecht beigetreten werden bevor die eigene "
+"ID angezeigt wird"
+
+msgid "DHTab_GameSettings.PurgeCacheDays.Caption"
+msgstr "Cache leeren"
+
+msgid "DHTab_GameSettings.PurgeCacheDays.Hint"
+msgstr ""
+"Wie häufig die eigenen heruntergeladenen Dateien vom Server gelöscht werden "
+"sollen"
+
+msgid "DHTab_GameSettings.ThrottleOtherVehicles.Hint"
+msgstr ""
+"Stufenweise, feste Beschleunigung für nicht-gepanzerte Fahrzeuge (nicht "
+"empfohlen)"
+
+msgid "DHTab_GameSettings.ThrottleTanks.Caption"
+msgstr "Stufenweise Beschleunigung - Panzer"
+
+msgid "DHTab_Hud.GameBK.Caption"
+msgstr "Optionen"
+
+msgid "DHTab_Hud.GameBK1.Caption"
+msgstr "Stil"
+
+msgid "DHTab_Hud.GameHudMessageCount.Caption"
+msgstr "Max. Chat Anzahl"
+
+msgid "DHTab_Hud.GameHudMessageScale.Caption"
+msgstr "Chat Schriftgröße"
+
+msgid "DHTab_Hud.GameHudShowDeathMessages.Caption"
+msgstr "Abschussbenachrichtigungen zeigen"
+
+msgid "DHTab_Hud.GameHudShowPersonalInfo.Caption"
+msgstr "Persönliche Informationen zeigen"
+
+msgid "DHTab_Hud.GameHudShowVehicleVisionCone.Caption"
+msgstr "Fahrzeug Sichtkegel zeigen"
+
+msgid "DHTab_Hud.GameHudShowWeaponInfo.Caption"
+msgstr "Waffen Informationen zeigen"
+
+msgid "DHTab_Hud.GameHudSimpleColours.Caption"
+msgstr "Einfache HUD Farben"
+
+msgid "DHTab_Hud.GameHudSimpleColours.Hint"
+msgstr "Ausschließlich rote/blaue HUD Farben, für farbenblinde Spieler."
+
+msgid "DHTab_Hud.GameHudVisible.Caption"
+msgstr "HUD verstecken"
+
+msgid "DHTab_Hud.HintsCombo.Caption"
+msgstr "Hinweisstufe"
+
+msgid "DHTab_Hud.ShowChatMessages.Caption"
+msgstr "Chat Nachrichten zeigen"
+
+msgid "DHTab_Hud.ShowCompass.Caption"
+msgstr "Kompass zeigen"
+
+msgid "DHTab_Hud.UseNativeItemNames.Caption"
+msgstr "Native Namen Gegenstände nutzen"
+
+msgid "DHTab_Hud.UseNativeRoleNames.Caption"
+msgstr "Native Rollen Namen nutzen"
+
+msgid "DHTab_Hud.myGameHudOpacity.Caption"
+msgstr "HUD Deckkraft"
+
+msgid "DHTab_Hud.myHudScale.Caption"
+msgstr "HUD Größe"
+
+msgid "DHTab_Input.InputBK3.Caption"
+msgstr "Feineinstellungen"
+
+msgid "DHTab_Input.InputInvertMouse.Caption"
+msgstr "Maus umkehren"
+
+msgid "DHTab_Input.InputMouseLag.Caption"
+msgstr "Mausverzögerung reduzieren"
+
+msgid "DHTab_Input.InputMouseLag.Hint"
+msgstr "Aktivieren dieser Option verringert die Verzögerung der Mausbewegungen."
+
+msgid "DHTab_Input.InputMouseSensitivity.Caption"
+msgstr "Empfindlichkeit Maus (Spiel)"
+
+msgid "DHTab_Input.InputMousePollRate.Caption"
+msgstr "Abfragerate Maus"
+
+msgid "DHTab_Input.InputMouseSmoothStr.Caption"
+msgstr "Stärke Mausglättung"
+
+msgid "DHTab_Input.InputMouseSmoothing.Caption"
+msgstr "Mausglättung"
+
+msgid "DHTab_MainSP.MapPlayersText"
+msgstr "{min} Spieler"
+
+msgid "DHTab_MainSP.DifficultyCombo.Caption"
+msgstr "Schwierigkeitsgrad"
+
+msgid "DHTab_MainSP.MapAuthorLabel.Caption"
+msgstr "Übungsmodus"
+
+msgid "DHTab_MainSP.MaplistButton.ButtonCaption"
+msgstr "Konfiguration Kartenübersicht"
+
+msgid "DHTab_MainSP.NoPreview.Caption"
+msgstr "Keine Vorschau verfügbar"
+
+msgid "DHTab_MainSP.OptionsContainer.Caption"
+msgstr "Optionen"
+
+msgid "DHTab_MainSP.RecommendedPlayers.Caption"
+msgstr "Am besten für 4 bis 8 Spieler"
+
+msgid "DHTab_MainSP.ScrollSection.Caption"
+msgstr "Kartenbeschreibung"
+
+msgid "DHTab_MutatorSP.AvailBackground.Caption"
+msgstr "Verfügbare Mutatoren"
+
+msgid "DHTab_MutatorSP.DescriptionBackground.Caption"
+msgstr "Mutator Details"
+
+msgid "DHTab_MutatorSP.IAMutatorAdd.Caption"
+msgstr "Hinzufügen"
+
+msgid "DHTab_ServerRulesPanel.EnableWebadmin.Caption"
+msgstr "WebAdmin aktivieren"
+
+msgid "DHTab_ServerRulesPanel.LANServer.Caption"
+msgstr "LAN Server"
+
+msgid "DHVideoChangePrompt.bCancel.Caption"
+msgstr "Einstellungen wiederherstellen"
+
+msgid "DHVideoChangePrompt.bOk.Caption"
+msgstr "Einstellungen behalten"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[1]"
+msgstr "Nur mit Besatzungsmitgliedern"
+
+msgid "DHTab_GameSettings.DynamicNetspeed.Hint"
+msgstr ""
+"Verringert die Netzgeschwindigkeit zu 6000 oder bis ein Ping von 40 erreicht "
+"wird, nützlich falls ein verbesserter Ping anstatt stabilerer "
+"Netzgeschwindigkeit gewünscht ist"
+
+msgid "DHTab_GameSettings.ViewFOV.Caption"
+msgstr "Normales Sichtfeld"
+
+msgid "DHTab_GameSettings.ViewFOV.Hint"
+msgstr ""
+"Wieviel der Spielwelt über die Breite des Bildschirms gesehen werden kann. "
+"Ein niedrigeres Sichtfeld (FOV) bietet einen näheren Blick, während ein "
+"höheres FOV weiter entfernt aber dafür verstärkte periphäre Sicht bietet. "
+"Beachte, ein Widescreen-Monitor bietet keine zusätzliche Sichtweite bzw. "
+"-breite; die selbe Sicht wird über den breiteren Bildschirm gestreckt und "
+"die Ober- sowie Unterseite werden beschnitten."
+
+msgid "DHTab_GameSettings.NetSpeedText[6]"
+msgstr "Benutzerdefiniert (%NetSpeed%)"
+
+msgid "DHTab_GameSettings.Netspeed.Hint"
+msgstr ""
+"Die gewünschte, maximal vom Spiel genutzte Internetgeschwindigkeit (in Bytes "
+"pro Sekunde). Server können ein eigenes Maximum eingestellt haben, das die "
+"Benutzereinstellungen überschreibt."
+
+msgid "DHTab_Hud.UseTechnicalAmmoNames.Caption"
+msgstr "Technische Namen Munition nutzen (Panzer/PAK)"
+
+msgid "DHTab_MainSP.MapPlayersRangeText"
+msgstr "{min}-{max} Spieler"
+
+msgid "DHTab_MainSP.SelectionGroup.Caption"
+msgstr "Kartenauswahl"
+
+msgid "DHTab_ServerRulesPanel.AdvancedButton.Caption"
+msgstr "Erweiterte Optionen anzeigen"
+
+msgid "DHTab_ServerRulesPanel.WebadminPort.Caption"
+msgstr "WebAdmin Port"
+
+msgid "DHTab_GameSettings.DynamicNetspeed.Caption"
+msgstr "Dynamische Netzgeschwindigkeit"
+
+msgid "DHTab_GameSettings.ThrottleTanks.Hint"
+msgstr ""
+"Stufenweise, feste Beschleunigung für Panzer, nützlich für lange Fahrten"
+
+msgid "DHTab_MutatorSP.IAMutatorRemove.Caption"
+msgstr "Entfernen"
