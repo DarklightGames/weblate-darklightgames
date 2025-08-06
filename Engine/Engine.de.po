@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-05 01:43+0000\n"
+"PO-Revision-Date: 2025-08-07 03:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/de/>\n"
@@ -406,3 +406,11 @@ msgstr "Funkt nun über Kanal '%title%'"
 
 msgid "ChatRoomMessage.ChatRoomString[10]"
 msgstr "Funkt nicht länger über Kanal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[14]"
+msgstr ""
+"Sperren aus dem Sprachfunk nicht erfolgreich.  Es wurde kein Spieler mit der "
+"angegebenen ID gefunden"
+
+msgid "Errors.NetListen"
+msgstr "Auflistung fehlgeschlagen: Kein Linker-Kontext verfügbar"
