@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-03 12:43+0000\n"
+"PO-Revision-Date: 2025-08-08 06:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/de/>\n"
@@ -171,7 +171,7 @@ msgid "ROTab_DetailSettings.ScopeLevels[1]"
 msgstr "Texturiert"
 
 msgid "ROTab_DetailSettings.ScopeLevels[2]"
-msgstr "Modelltiefe (Hoch)"
+msgstr "Vollständig (Hoch)"
 
 msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[1]"
 msgstr "Textur"
@@ -356,7 +356,7 @@ msgid "ROTab_Controls.Section_Interface"
 msgstr "Oberfläche"
 
 msgid "ROTab_DetailSettings.ScopeLevels[0]"
-msgstr "Modelltiefe (Niedrig)"
+msgstr "Verringert (Niedrig)"
 
 msgid "ROUT2K4GamePageSP.PanelHint<0>"
 msgstr "keine"
@@ -648,7 +648,7 @@ msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[0]"
 msgstr "Modell"
 
 msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[2]"
-msgstr "Modelltiefe Hoch"
+msgstr "Modelldetail Hoch"
 
 msgid "ROTab_Controls.ActionText"
 msgstr "{%keybinds%} - derzeit an diese Taste gebunden."
