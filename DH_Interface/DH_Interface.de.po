@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-07 03:43+0000\n"
+"PO-Revision-Date: 2025-08-08 06:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/de/>\n"
@@ -1195,7 +1195,7 @@ msgid "DHTab_DetailSettings.DetailAntialiasing.Caption"
 msgstr "Antialiasing"
 
 msgid "DHTab_DetailSettings.DetailCoronas.Caption"
-msgstr "Korona"
+msgstr "Koronas"
 
 msgid "DHTab_DetailSettings.DetailDecals.Caption"
 msgstr "Spuren"
@@ -1342,7 +1342,7 @@ msgid "DHTab_DetailSettings.MotionBlur.Caption"
 msgstr "Unschärfeeffekte"
 
 msgid "DHTab_DetailSettings.MeshLOD.Caption"
-msgstr "Dynamische Netz-Detailtiefe"
+msgstr "Dynamische Mesh-Detailtiefe"
 
 msgid "DHServerBrowser.PanelHint<0>"
 msgstr "Wähle einen Server zum beitreten aus deinen Favoriten"
