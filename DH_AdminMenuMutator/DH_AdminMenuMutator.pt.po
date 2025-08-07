@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-07 03:43+0000\n"
+"PO-Revision-Date: 2025-08-08 06:43+0000\n"
 "Last-Translator: Baianormaster <baianormasterlol@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/pt/>\n"
@@ -302,3 +302,12 @@ msgstr "Você foi amordaçado pelo ADM"
 
 msgid "DHAdminMenu_NotifyMessages.NotifySwitch"
 msgstr "Você foi trocado para um novo papel ou time pelo ADM"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyParaDrop"
+msgstr "Você foi aero transportado pare algum lugar pelo ADM"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastMinesDisabled"
+msgstr "Todos campos minados foram Desabilitados pelo ADM"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastMinesEnabled"
+msgstr "Todos campos minados foram REABILITADOS pelo ADM"
