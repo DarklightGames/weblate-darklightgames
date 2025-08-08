@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-07 03:43+0000\n"
+"PO-Revision-Date: 2025-08-08 19:11+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/de/>\n"
@@ -252,7 +252,7 @@ msgid "DHAxisMachineGunnerRoles.PluralName"
 msgstr "Maschinengewehrschützen"
 
 msgid "DHAxisMarksmanRoles.MyName"
-msgstr "Zielschütze"
+msgstr "Truppenscharfschütze"
 
 msgid "DHAxisMarksmanRoles.PluralName"
 msgstr "Scharfschützen"
