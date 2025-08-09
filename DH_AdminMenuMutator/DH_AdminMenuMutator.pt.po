@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-08 06:43+0000\n"
+"PO-Revision-Date: 2025-08-10 16:43+0000\n"
 "Last-Translator: Baianormaster <baianormasterlol@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/pt/>\n"
@@ -311,3 +311,9 @@ msgstr "Todos campos minados foram Desabilitados pelo ADM"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastMinesEnabled"
 msgstr "Todos campos minados foram REABILITADOS pelo ADM"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressDisabled"
+msgstr "A barra de progresso de captura foi DESABILITADA pelo ADM"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressEnabled"
+msgstr "A barra de progresso de captura foi REABILITADApelo ADM"
