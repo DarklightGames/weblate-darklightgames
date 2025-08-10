@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-08 06:43+0000\n"
+"PO-Revision-Date: 2025-08-11 03:29+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/de/>\n"
@@ -240,7 +240,7 @@ msgid "DHCommunicationPage.Panels<0>.Hint"
 msgstr "Kommunikation mit anderen Spielern verwalten"
 
 msgid "DHTab_GameSettings.BayonetSpawn.Caption"
-msgstr "Mit aufgeplanztem Seitengewehr einsteigen"
+msgstr "Einstieg mit aufgestecktem Seitengewehr"
 
 msgid "DHDeployMenu.ChangeTeamConfirmText"
 msgstr ""
@@ -270,8 +270,8 @@ msgstr "Gruppen [F1]"
 
 msgid "DHTab_GameSettings.BayonetSpawn.Hint"
 msgstr ""
-"Nützlich wenn das Seitengewehr dauerhaft und nicht nach jedem Einstieg neu "
-"aufgeplanzt werden soll"
+"Nützlich, wenn das Seitengewehr dauerhaft und nicht nach jedem Einstieg neu "
+"aufgesteckt werden soll"
 
 msgid "DHTab_GameSettings.LockTankOnEntry.Hint"
 msgstr ""
@@ -1416,7 +1416,7 @@ msgid "DHTab_GameSettings.Incognito.Caption"
 msgstr "Unsichtbarmodus"
 
 msgid "DHTab_GameSettings.LockTankOnEntry.Caption"
-msgstr "Panzer beim Betreten verschließen"
+msgstr "Panzer beim betreten verriegeln"
 
 msgid "DHTab_DetailSettings.ScopeDetail.Caption"
 msgstr "Zielfernrohr Detailtiefe"
