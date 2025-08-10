@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-08 19:11+0000\n"
+"PO-Revision-Date: 2025-08-11 03:29+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/de/>\n"
@@ -76,7 +76,7 @@ msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
 msgstr "Ausrichten"
 
 msgid "DHAlliedAssaultRoles.MyName"
-msgstr "Sturmsoldat"
+msgstr "Stoßtruppe"
 
 msgid "DHAlliedAssaultRoles.PluralName"
 msgstr "Sturmsoldaten"
@@ -225,7 +225,7 @@ msgid "DHArtilleryTargetMessage.TooManyArtilleryTargets"
 msgstr "Es gibt zu viele aktive Artilleriezielkoordinaten"
 
 msgid "DHAxisAssaultRoles.MyName"
-msgstr "Sturmsoldat"
+msgstr "Stoßtruppe"
 
 #, fuzzy
 msgid "DHAxisAssaultRoles.PluralName"
@@ -1724,7 +1724,7 @@ msgstr ""
 "Nur das ranghöchste Besatzungsmitglied kann das Fahrzeug ver- oder entriegeln"
 
 msgid "DHVehicleMessage.UnbuttonToReload"
-msgstr "Die Luke muss geöffnet werden um {0} nachzuladen"
+msgstr "Luke muss geöffnet werden um nachzuladen {0}"
 
 msgid "DHVehicleMessage.CantLockNonCrewVehicle"
 msgstr ""
@@ -1740,7 +1740,7 @@ msgid "DHVehicleMessage.OnlyTankCrewCanLockVehicle"
 msgstr "Nur Panzerbesatzungen können Fahrzeuge ver- und entriegeln"
 
 msgid "DHVehicleMessage.UnbuttonHatchToChangePosition"
-msgstr "Um die Position zu wechseln muss die {0} Luke geöffnet sein"
+msgstr "Luke muss geöffnet sein um Position zu wechseln {0}"
 
 msgid "DHVehicleMessage.GunObstructed"
 msgstr "Das Geschütz kann nicht schießen da es versperrt ist"
@@ -2183,7 +2183,7 @@ msgid "DHSupplyMessage.SupplyCacheEmpty"
 msgstr "Das in der Nähe befindliche Nachschublager ist leer."
 
 msgid "DHVehicleMessage.OpenHatchToExit"
-msgstr "Um das Fahrzeug zu verlassen muss die {0} Luke geöffnet werden"
+msgstr "Luke muss geöffnet werden um Fahrzeug zu verlassen {0}"
 
 msgid "DHSpawnProtectMineVolume.SafePeriodWarningMessage"
 msgstr ""
