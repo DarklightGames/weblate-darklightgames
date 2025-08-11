@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-08 06:43+0000\n"
+"PO-Revision-Date: 2025-08-12 06:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/de/>\n"
@@ -323,7 +323,7 @@ msgid "ROGUITeamSelection.TeamJoinHint[0]"
 msgstr "Achsenmächte beitreten"
 
 msgid "ROScoreBoard.UnassignedTeamName"
-msgstr "Nicht zugewiesen"
+msgstr "Führerlos"
 
 msgid "ROScoreBoard.TeamNameAxis"
 msgstr "Achsenmächte"
