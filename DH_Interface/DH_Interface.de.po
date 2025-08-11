@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-11 03:29+0000\n"
+"PO-Revision-Date: 2025-08-12 06:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/de/>\n"
@@ -1503,7 +1503,7 @@ msgid "DHTab_GameSettings.Netspeed.Caption"
 msgstr "Netzgeschwindigkeit (Bytes pro Sekunde)"
 
 msgid "DHTab_GameSettings.NoGore.Caption"
-msgstr "Ohne Blut"
+msgstr "Kein Blut"
 
 msgid "DHTab_GameSettings.NoGore.Hint"
 msgstr "Keine Verstümmelungen, Enthauptungen oder Bluteffekte"
