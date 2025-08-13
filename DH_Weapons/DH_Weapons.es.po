@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-02 12:38+0000\n"
+"PO-Revision-Date: 2025-08-13 15:30+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/es/>\n"
@@ -19,7 +19,7 @@ msgid "DH_GeratPIIWeapon.ItemName"
 msgstr "Gerat Potsdam II"
 
 msgid "DH_G43ScopedWeapon.ItemName"
-msgstr "G 43 (ZF4)"
+msgstr "Rifle de francotirador G 43 (ZF4)"
 
 msgid "DH_PanzerschreckWeapon.ItemName"
 msgstr "RPzB 54 'Panzerschreck'"
@@ -34,7 +34,7 @@ msgid "DH_MP41RWeapon.ItemName"
 msgstr "MP 41(r)"
 
 msgid "DH_ZB30Weapon.ItemName"
-msgstr "Ametralladora ZB-30"
+msgstr "Ametralladora ligera ZB-30"
 
 msgid "DH_GLWeapon.ItemName"
 msgstr "StG 24 x7 Geballte Ladung"
@@ -73,10 +73,10 @@ msgid "DH_Kz8cmGrW42Weapon.Description"
 msgstr "Kurz 8cm Granatwerfer 42"
 
 msgid "DH_30calWeapon.ItemName"
-msgstr "Ametralladora Browning M1919"
+msgstr "Ametralladora Browning M1919A6"
 
 msgid "DH_DT29Weapon.ItemName"
-msgstr "DT-29"
+msgstr "Ametralladora DT-29"
 
 msgid "DH_M1924Weapon.ItemName"
 msgstr "Rifle M1924"
@@ -91,16 +91,16 @@ msgid "DH_StenMkVWeapon.ItemName"
 msgstr "STEN Mk.V"
 
 msgid "DH_Kar98Weapon.ItemName"
-msgstr "Kar 98k"
+msgstr "Rifle Kar 98k"
 
 msgid "DH_Kar98ScopedWeapon.ItemName"
-msgstr "Kar 98k (ZF39)"
+msgstr "Rifle de francotirador Kar 98k (ZF39)"
 
 msgid "DH_PanzerFaustWeapon.ItemName"
 msgstr "Panzerfaust 60"
 
 msgid "DH_C96Weapon.ItemName"
-msgstr "Mauser C96"
+msgstr "Pistola Mauser C96"
 
 msgid "DH_DT29Ammo.ItemName"
 msgstr "Cargador DT29"
@@ -112,10 +112,10 @@ msgid "DH_ViSWeapon.ItemName"
 msgstr "Pistola ViS wz.35"
 
 msgid "DH_ColtM1914Weapon.ItemName"
-msgstr "Kongsberg Colten M/1914"
+msgstr "Pistola Kongsberg Colten M/1914"
 
 msgid "DH_G41Weapon.ItemName"
-msgstr "G 41(W)"
+msgstr "Rifle semiautomático G 41(W)"
 
 msgid "DH_M2MortarVehicle.VehicleNameString"
 msgstr "Mortero de 60 mm M2"
@@ -163,7 +163,7 @@ msgid "DH_Nagant1895BramitWeapon.ItemName"
 msgstr "Revolver Nagant M1895 (Silenciador BraMit)"
 
 msgid "DH_G98Weapon.ItemName"
-msgstr "G 98"
+msgstr "Rifle G 98"
 
 msgid "DH_PPS43Weapon.ItemName"
 msgstr "PPS-43"
@@ -232,7 +232,7 @@ msgid "DH_M1CarbineWeapon.ItemName"
 msgstr "Carabina M1"
 
 msgid "DH_FG42Weapon.ItemName"
-msgstr "FG 42"
+msgstr "Fusil automático FG 42"
 
 msgid "DH_PTRDWeapon.ItemName"
 msgstr "Rifle Antitanque PTRD-41"
@@ -325,7 +325,7 @@ msgid "DH_ThompsonWeapon.ItemName"
 msgstr "M1A1 Thompson"
 
 msgid "DH_STG44Weapon.ItemName"
-msgstr "StG 44"
+msgstr "Rifle de Asalto StG 44"
 
 msgid "DH_WitchEnder666Weapon.ItemName"
 msgstr "WitchEnder 666 'Satan's Bane'"
@@ -346,7 +346,7 @@ msgid "DH_Wz35Weapon.ItemName"
 msgstr "Rifle antitanque Wz-35"
 
 msgid "DH_Breda30Weapon.ItemName"
-msgstr "Breda modello 30"
+msgstr "Ametralladora ligera Breda modello 30"
 
 msgid "DH_CarcanoM91Weapon.ItemName"
 msgstr "Carcano M91"
@@ -361,7 +361,7 @@ msgid "DH_MAB42Weapon.NativeItemName"
 msgstr "Moschetto Automatico Beretta M1938A/42"
 
 msgid "DH_F1GrenadeWeapon.NativeItemName"
-msgstr "Granada F1"
+msgstr "F1 Granata"
 
 msgid "DH_FG42ScopedWeapon.NativeItemName"
 msgstr "Fallschirmjägergewehr 42 (ZFG42)"
