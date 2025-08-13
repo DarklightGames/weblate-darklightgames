@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-19 18:42+0000\n"
+"PO-Revision-Date: 2025-08-14 17:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/xinterface/de/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "X-Generator: Weblate 5.7.2\n"
 
 msgid "GUIQuestionPage.ButtonNames<0>"
-msgstr "i.O."
+msgstr "Ok"
 
 msgid "GUIQuestionPage.ButtonNames<1>"
 msgstr "Widerrufen"
