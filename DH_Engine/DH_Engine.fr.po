@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-05 01:43+0000\n"
+"PO-Revision-Date: 2025-08-14 17:43+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -1604,3 +1604,20 @@ msgid "DHSquadMessage.YouVolunteeredToBeSquadLeader"
 msgstr ""
 "Vous vous êtes porté volontaire pour être le chef de groupe. Le nouveau chef "
 "de groupe sera sélectionné sous peu."
+
+msgid "DHSquadMessage.YouAreNoLongerAssistantMessage"
+msgstr "Vous n'êtes plus l'assistant du chef de groupe."
+
+msgid "DHSquadMessage.YouAreNowAssistantMessage"
+msgstr "Vous êtes maintenant l'assistant du chef de groupe."
+
+msgid "DHSquadMessage.AlreadyInSquad"
+msgstr "Vous êtes déjà dans un groupe."
+
+msgid "DHSquadMessage.NewAssistantMessage"
+msgstr "{0} a été désigné comme assistant du chef de groupe."
+
+msgid "DHSquadMessage.NoVolunteersDisbanded"
+msgstr ""
+"Votre groupe a été dissout car il était trop petit et parce qu'aucun membre "
+"ne s'est porté volontaire pour être chef."
