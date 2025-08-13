@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-12 06:43+0000\n"
+"PO-Revision-Date: 2025-08-14 17:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/de/>\n"
@@ -503,8 +503,8 @@ msgstr ""
 
 msgid "DHSquadMessage.NoVolunteersDisbanded"
 msgstr ""
-"Deine Gruppe wurde aufgelöst, da die Gruppengröße zu klein ist und sich "
-"keine Mitglieder freiwillig als Gruppenführer gemeldet haben."
+"Gruppe wurde aufgelöst, da die Gruppengröße zu klein ist und sich keine "
+"Mitglieder freiwillig als Gruppenführer gemeldet haben."
 
 msgid "DHSquadMessage.AutoJoinFailed"
 msgstr "Es gibt keine Gruppen die geeignet zum Beitritt sind."
@@ -577,7 +577,7 @@ msgid "DHSquadMessage.KickedMessage"
 msgstr "Du wurdest aus der Gruppe geworfen."
 
 msgid "DHSquadMessage.NoLeaderMessage"
-msgstr "Der Gruppenführer hat die Gruppe verlassen."
+msgstr "Der Gruppenführer hat uns im Stich gelassen."
 
 msgid "DHSquadMessage.NewAssistantMessage"
 msgstr "{0} wurde zum Adjutant des Gruppenführers befördert."
@@ -881,13 +881,13 @@ msgid "DHMapMarker_Ruler.MarkerName"
 msgstr "Messen"
 
 msgid "DHMapMarker_Squad_Defend.MarkerName"
-msgstr "Verteidigung (Gruppe)"
+msgstr "Verteidigen (Gruppe)"
 
 msgid "DHMapMarker_Squad_Attack.MarkerName"
 msgstr "Angriff (Gruppe)"
 
 msgid "DHMapMarker_Squad_Attention.MarkerName"
-msgstr "Achtung (Gruppe)"
+msgstr "Vorsicht (Gruppe)"
 
 msgid "DHLib.ServerHealthStages[0].Text"
 msgstr "Ausgezeichnet"
@@ -1047,10 +1047,10 @@ msgid "DHConstructionErrorMessage.ErrorMessages<21>"
 msgstr "{name} kann nicht {verb} werden während du beschäftigt bist."
 
 msgid "DHFriendlyInformationMsg.TeamSurrendered"
-msgstr "Deine Seite zieht sich zurück, das Gefecht wird in Kürze vorbei sein!"
+msgstr "Wir ziehen uns zurück, das Gefecht ist in Kürze vorüber!"
 
 msgid "DHEnemyInformationMsg.EnemyIsSurrendering"
-msgstr "Der Feind zieht sich zurück, das Gefecht wird in Kürze vorbei sein!"
+msgstr "Der Feind zieht sich zurück, das Gefecht ist in Kürze entschieden!"
 
 msgid "DHGameMessage.VehicleArrivedMessage"
 msgstr "{0} Verstärkungen sind eingetroffen."
@@ -1391,7 +1391,7 @@ msgid "DHHud.SpectateInstructionText4"
 msgstr "[%JUMP%] drücken um zu eigener Ansicht zurückzukehren"
 
 msgid "DHMapMarker_Squad_Move.MarkerName"
-msgstr "Bewegung (Gruppe)"
+msgstr "Bewegen (Gruppe)"
 
 msgid "DHMortarMessage.MustCrouch"
 msgstr "Aufstellen des Mörsers nur in der Hocke möglich"
@@ -1648,9 +1648,7 @@ msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<2>"
 msgstr "Dieser Gruppe kann keine Anfrage zur Zusammenführung gestellt werden."
 
 msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<0>"
-msgstr ""
-"Beim Stellen der Anfrage zur Beförderung zum Gruppenführer ist ein Fehler "
-"aufgetreten."
+msgstr "Fehler bei der Anfrage zur Beförderung zum Gruppenführer."
 
 msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<1>"
 msgstr ""
@@ -2076,7 +2074,7 @@ msgid "DHVoteInfo.Options<1>.Text"
 msgstr "Nein"
 
 msgid "DHVoteMessage.VoteReceievedText"
-msgstr "Stimme erhalten."
+msgstr "Stimme abgegeben."
 
 msgid "DHVoteMessage.VoteConcludedText"
 msgstr "Die Abstimmung ist abgeschlossen."
