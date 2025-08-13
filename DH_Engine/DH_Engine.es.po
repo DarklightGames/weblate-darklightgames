@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-05 01:43+0000\n"
+"PO-Revision-Date: 2025-08-13 15:30+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
@@ -1782,7 +1782,7 @@ msgstr "Aceptar"
 
 msgid "DHSquadLeaderAssistantVolunteerInteraction.PromptText"
 msgstr ""
-"{volunteer} se ha ofrecido como voluntario para ser el asistente del "
+"{volunteer} se ha ofrecido como voluntario para ser el Asistente del "
 "escuadrón."
 
 msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<0>.Text"
@@ -2190,7 +2190,7 @@ msgid "DHSquadMessage.JoinedMessage"
 msgstr "{0} se ha unido a tu escuadrón."
 
 msgid "DHSquadMessage.NoLeaderMessage"
-msgstr "El líder de la escuadrón ha dejado la escuadra."
+msgstr "El líder del escuadrón ha dejado la escuadra."
 
 msgid "DHSquadMessage.LockedMessage"
 msgstr "La escuadra ha sido bloqueada."
