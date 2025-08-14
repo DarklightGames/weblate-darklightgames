@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-14 17:43+0000\n"
+"PO-Revision-Date: 2025-08-15 10:00+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/de/>\n"
@@ -174,7 +174,7 @@ msgid "DHArtilleryKillDamageType.FemaleSuicide"
 msgstr "%o war sorglos im Umgang mit ihrer eigenen Artilleriegranate."
 
 msgid "DHArtilleryMessage.RequestText"
-msgstr "{name} anfordern."
+msgstr "{name} angefordert."
 
 msgid "DHArtilleryMessage.ConfirmText"
 msgstr "{name} bestätigt."
@@ -2241,7 +2241,7 @@ msgid "DHSquadOrderMessage.DefendText"
 msgstr "Der Gruppenführer hat einen neuen Verteidigungsbefehl ausgegeben"
 
 msgid "DHSquadOrderMessage.MoveText"
-msgstr "Der Gruppenführer hat einen neuen Bewegungsbefehl ausgegeben"
+msgstr "Der Gruppenführer hat einen neuen Vorstoßbefehl ausgegeben"
 
 msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<3>"
 msgstr "Zu dieser Gruppe besteht bereits eine Anfrage zur Zusammenführung."
