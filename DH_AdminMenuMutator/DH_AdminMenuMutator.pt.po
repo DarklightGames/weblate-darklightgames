@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-12 06:43+0000\n"
+"PO-Revision-Date: 2025-08-16 01:32+0000\n"
 "Last-Translator: Baianormaster <baianormasterlol@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/pt/>\n"
@@ -320,3 +320,12 @@ msgstr "A barra de progresso de captura foi REABILITADApelo ADM"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconDisabled"
 msgstr "Icone de jogador no mapa foi DESABILITADO pelo ADM"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconEnabled"
+msgstr "Icone de jogador no mapa foi REABILITADO pelo ADM"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastKilledAllPlayers"
+msgstr "TODOS os jogadores foram mortos pelo ADM"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastChangedGameSpeed"
+msgstr "A velocidades foram mudados para x #insert_number# pelo ADM"
