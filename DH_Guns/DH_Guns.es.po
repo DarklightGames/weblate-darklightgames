@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-16 08:07+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2025-08-17 10:43+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/es/>\n"
 "Language: es\n"
@@ -15,7 +15,6 @@ msgstr ""
 msgid "DH_17PounderGunCannonPawn.RangeText"
 msgstr "Yardas"
 
-#, fuzzy
 msgid "DH_45mmM1937Gun.VehicleNameString"
 msgstr "Cañón AT 45mm 53-K (1937)"
 
@@ -31,7 +30,6 @@ msgstr "BR-240"
 msgid "DH_17PounderGun.VehicleNameString"
 msgstr "Cañón AT 17 Pounder"
 
-#, fuzzy
 msgid "DH_45mmM1942Gun.VehicleNameString"
 msgstr "Cañón AT M-42 45 mm"
 
@@ -53,28 +51,23 @@ msgstr "Cañón AT M1 57mm"
 msgid "DH_Bofors40mmGun.VehicleNameString"
 msgstr "Cañón Bofors 40mm"
 
-#, fuzzy
 msgid "DH_Flak38Gun.VehicleNameString"
 msgstr "Cañón FlaK 38 2cm"
 
-#, fuzzy
 msgid "DH_Flak88Gun.VehicleNameString"
 msgstr "Cañón FlaK 36 8,8cm"
 
-#, fuzzy
 msgid "DH_Flakvierling38Gun.VehicleNameString"
 msgstr "Cañón Flakvierling 38 2cm"
 
-#, fuzzy
 msgid "DH_LeIG18Gun.VehicleNameString"
 msgstr "Cañón 7.5 cm leichtes Infanteriegeschütz 18"
 
 msgid "DH_M45QuadmountGun.VehicleNameString"
 msgstr "M45 Quadmount"
 
-#, fuzzy
 msgid "DH_Pak43ATGun.VehicleNameString"
-msgstr "Cañón AT 8.8cm Pak43/41"
+msgstr "Cañón 8.8cm Pak43/41"
 
 msgid "DH_Model35Mortar.VehicleNameString"
 msgstr "Mortero da 81/14 mod. 35"
@@ -82,9 +75,8 @@ msgstr "Mortero da 81/14 mod. 35"
 msgid "DH_M1927Gun.VehicleNameString"
 msgstr "Cañón de Regimiento 76mm M1927"
 
-#, fuzzy
 msgid "DH_Pak38ATGun.VehicleNameString"
-msgstr "Cañón AT 5.0 cm Pak38"
+msgstr "Cañón 5.0 cm Pak38"
 
 msgid "DH_Pak39Gun.VehicleNameString"
 msgstr "Cañón 5.0cm KwK 39"
@@ -92,13 +84,11 @@ msgstr "Cañón 5.0cm KwK 39"
 msgid "DH_PantherturmGun.VehicleNameString"
 msgstr "Torreta Panther"
 
-#, fuzzy
 msgid "DH_ZiS2Gun.VehicleNameString"
-msgstr "Cañón AT ZiS-2 57mm"
+msgstr "Cañón ZiS-2 57mm"
 
-#, fuzzy
 msgid "DH_ZiS3Gun.VehicleNameString"
-msgstr "Cañón Divisional ZiS-3 76mm"
+msgstr "Cañón ZiS-3 76mm"
 
 msgid "DH_M116Gun.VehicleNameString"
 msgstr "Cañón 75mm Howitzer M1"
@@ -121,7 +111,6 @@ msgstr "Mortero Ordnance ML 3-inch"
 msgid "DH_M5Gun.VehicleNameString"
 msgstr "Cañón AT 3-inch M5"
 
-#, fuzzy
 msgid "DH_Pak40ATGun.VehicleNameString"
 msgstr "Cañón 7.5cm Pak40"
 
@@ -448,3 +437,24 @@ msgstr "Wgr. 38"
 
 msgid "DH_Granatwerfer34Cannon.nProjectileDescriptions<1>"
 msgstr "Wgr. 38 Nb."
+
+msgid "DH_Pak36ATGun.VehicleNameString"
+msgstr "Cañón AT PaK 36 3,7cm"
+
+msgid "DH_Pak36Cannon.ProjectileDescriptions<0>"
+msgstr "AP-HE-T"
+
+msgid "DH_Pak36Cannon.ProjectileDescriptions<1>"
+msgstr "APCR-T"
+
+msgid "DH_Pak36Cannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_Pak36Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.36"
+
+msgid "DH_Pak36Cannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40"
+
+msgid "DH_Pak36Cannon.nProjectileDescriptions<2>"
+msgstr "StGr.41"
