@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-14 17:43+0000\n"
+"PO-Revision-Date: 2025-08-17 10:43+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -1621,3 +1621,40 @@ msgid "DHSquadMessage.NoVolunteersDisbanded"
 msgstr ""
 "Votre groupe a été dissout car il était trop petit et parce qu'aucun membre "
 "ne s'est porté volontaire pour être chef."
+
+msgid "DHSquadMessage.SquadMergedDestinationMessage"
+msgstr "Un autre groupe a été fusionné avec le votre."
+
+msgid "DHSquadMessage.NotInSquadMessage"
+msgstr ""
+"Vous n'êtes pas dans un groupe. Appuyez sur [%SQUADMENU%) pour entrer dans "
+"le menu du groupe ou appuyez sur [%SQUADJOINAUTO%) pour rejoindre "
+"automatiquement un groupe."
+
+msgid "DHSquadMessage.SquadMergedSourceGenericMessage"
+msgstr "Votre groupe a été fusionné avec un autre groupe."
+
+msgid "DHSquadMessage.SquadMergeRequestDeniedMessage"
+msgstr "Votre demande de fusion a été rejetée par le groupe {0}."
+
+msgid "DHSquadMessage.SquadMergeRequestDeniedGenericMessage"
+msgstr "Votre demande de fusion a été refusée."
+
+msgid "DHSquadMessage.SquadMergeFailedMessage"
+msgstr "La fusion a échouée."
+
+msgid "DHSquadMessage.SquadPromotionRequestDeniedMessage"
+msgstr "Votre demande de promotion a été rejetée par {0}."
+
+msgid "DHSquadMessage.SquadPromotionRequestAcceptedMessage"
+msgstr "Votre demande de promotion a été acceptée par {0}."
+
+msgid "DHSquadMessage.SquadTargetSelectionRefused"
+msgstr ""
+"Vous êtes un observateur d'artillerie. Vous ne pouvez pas changer la cible "
+"active sur votre propre marqueur."
+
+msgid "DHSquadMessage.SquadMergedSourceMessage"
+msgstr ""
+"Votre groupe a été fusionné avec le groupe {0}. Votre nouveau chef de groupe "
+"est {1}."
