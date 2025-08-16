@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 18:15+0000\n"
-"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
+"PO-Revision-Date: 2025-08-16 07:42+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/pl/>\n"
 "Language: pl\n"
@@ -202,12 +202,15 @@ msgstr "KM blokuje właz - obróć KM w bok aby otworzyć"
 msgid "DH_HigginsBoat.VehicleNameString"
 msgstr "Łódź Higginsa"
 
+#, fuzzy
 msgid "DH_IS2Cannon.ProjectileDescriptions<0>"
 msgstr "AP"
 
+#, fuzzy
 msgid "DH_IS2Cannon.ProjectileDescriptions<1>"
 msgstr "HE"
 
+#, fuzzy
 msgid "DH_IS2Cannon_Late.ProjectileDescriptions<0>"
 msgstr "APBC"
 
@@ -226,9 +229,11 @@ msgstr "HE"
 msgid "DH_HetzerCannon.ProjectileDescriptions<2>"
 msgstr "Dymny"
 
+#, fuzzy
 msgid "DH_IS2Cannon_Late.ProjectileDescriptions<1>"
 msgstr "HE"
 
+#, fuzzy
 msgid "DH_IS2Cannon_Late.nProjectileDescriptions<1>"
 msgstr "OF-471"
 
@@ -490,12 +495,15 @@ msgstr "Sprgr.Patr.34"
 msgid "DH_HetzerCannon.nProjectileDescriptions<2>"
 msgstr "Nbgr.Kw.K"
 
+#, fuzzy
 msgid "DH_IS2Cannon.nProjectileDescriptions<0>"
 msgstr "BR-471"
 
+#, fuzzy
 msgid "DH_IS2Cannon.nProjectileDescriptions<1>"
 msgstr "OF-471"
 
+#, fuzzy
 msgid "DH_IS2Cannon_Late.nProjectileDescriptions<0>"
 msgstr "BR-471B"
 
