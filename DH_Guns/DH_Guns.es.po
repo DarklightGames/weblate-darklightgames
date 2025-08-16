@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-02 12:38+0000\n"
-"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
+"PO-Revision-Date: 2025-08-16 07:42+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/es/>\n"
 "Language: es\n"
@@ -15,6 +15,7 @@ msgstr ""
 msgid "DH_17PounderGunCannonPawn.RangeText"
 msgstr "Yardas"
 
+#, fuzzy
 msgid "DH_45mmM1937Gun.VehicleNameString"
 msgstr "Cañón AT 45mm 53-K (1937)"
 
@@ -30,6 +31,7 @@ msgstr "BR-240"
 msgid "DH_17PounderGun.VehicleNameString"
 msgstr "Cañón AT 17 Pounder"
 
+#, fuzzy
 msgid "DH_45mmM1942Gun.VehicleNameString"
 msgstr "Cañón AT M-42 45 mm"
 
@@ -51,21 +53,26 @@ msgstr "Cañón AT M1 57mm"
 msgid "DH_Bofors40mmGun.VehicleNameString"
 msgstr "Cañón Bofors 40mm"
 
+#, fuzzy
 msgid "DH_Flak38Gun.VehicleNameString"
 msgstr "Cañón FlaK 38 2cm"
 
+#, fuzzy
 msgid "DH_Flak88Gun.VehicleNameString"
 msgstr "Cañón FlaK 36 8,8cm"
 
+#, fuzzy
 msgid "DH_Flakvierling38Gun.VehicleNameString"
 msgstr "Cañón Flakvierling 38 2cm"
 
+#, fuzzy
 msgid "DH_LeIG18Gun.VehicleNameString"
 msgstr "Cañón 7.5 cm leichtes Infanteriegeschütz 18"
 
 msgid "DH_M45QuadmountGun.VehicleNameString"
 msgstr "M45 Quadmount"
 
+#, fuzzy
 msgid "DH_Pak43ATGun.VehicleNameString"
 msgstr "Cañón AT 8.8cm Pak43/41"
 
@@ -75,6 +82,7 @@ msgstr "Mortero da 81/14 mod. 35"
 msgid "DH_M1927Gun.VehicleNameString"
 msgstr "Cañón de Regimiento 76mm M1927"
 
+#, fuzzy
 msgid "DH_Pak38ATGun.VehicleNameString"
 msgstr "Cañón AT 5.0 cm Pak38"
 
@@ -84,9 +92,11 @@ msgstr "Cañón 5.0cm KwK 39"
 msgid "DH_PantherturmGun.VehicleNameString"
 msgstr "Torreta Panther"
 
+#, fuzzy
 msgid "DH_ZiS2Gun.VehicleNameString"
 msgstr "Cañón AT ZiS-2 57mm"
 
+#, fuzzy
 msgid "DH_ZiS3Gun.VehicleNameString"
 msgstr "Cañón Divisional ZiS-3 76mm"
 
@@ -111,6 +121,7 @@ msgstr "Mortero Ordnance ML 3-inch"
 msgid "DH_M5Gun.VehicleNameString"
 msgstr "Cañón AT 3-inch M5"
 
+#, fuzzy
 msgid "DH_Pak40ATGun.VehicleNameString"
 msgstr "Cañón 7.5cm Pak40"
 
@@ -183,6 +194,7 @@ msgstr "PzGr.39"
 msgid "DH_Model35MortarCannon.ProjectileDescriptions<2>"
 msgstr "HE-L"
 
+#, fuzzy
 msgid "DH_Pak40Cannon.nProjectileDescriptions<2>"
 msgstr "PzGr.40"
 
@@ -393,6 +405,7 @@ msgstr "APCBC"
 msgid "DH_Pak40Cannon.ProjectileDescriptions<1>"
 msgstr "HE"
 
+#, fuzzy
 msgid "DH_Pak40Cannon.ProjectileDescriptions<2>"
 msgstr "APCR"
 
