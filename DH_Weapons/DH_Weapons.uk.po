@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-16 07:42+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-08-16 08:07+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/uk/>\n"
 "Language: uk\n"
@@ -130,7 +130,6 @@ msgstr "Зв'язка 7 гранат StG.24 GL"
 msgid "DH_GeratPIIWeapon.ItemName"
 msgstr "Герат Потсдам II"
 
-#, fuzzy
 msgid "DH_GeratPWeapon.ItemName"
 msgstr "Герат Потсдам"
 
