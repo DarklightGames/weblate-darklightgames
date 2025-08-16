@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-19 04:22+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"PO-Revision-Date: 2025-08-16 07:42+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
 "Language: ru\n"
@@ -199,9 +199,11 @@ msgstr "Nbgr.Kw.K"
 msgid "DH_HigginsBoat.VehicleNameString"
 msgstr "Бот Хиггинса"
 
+#, fuzzy
 msgid "DH_IS2Cannon.nProjectileDescriptions<0>"
 msgstr "БР-471"
 
+#, fuzzy
 msgid "DH_IS2Cannon.nProjectileDescriptions<1>"
 msgstr "ОФ-471"
 
@@ -253,15 +255,19 @@ msgstr "ББ"
 msgid "DH_HetzerCannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
 
+#, fuzzy
 msgid "DH_IS2Cannon.ProjectileDescriptions<0>"
 msgstr "ББ"
 
+#, fuzzy
 msgid "DH_IS2Cannon.ProjectileDescriptions<1>"
 msgstr "ОФ"
 
+#, fuzzy
 msgid "DH_IS2Cannon_Late.nProjectileDescriptions<0>"
 msgstr "БР-471Б"
 
+#, fuzzy
 msgid "DH_IS2Cannon_Late.nProjectileDescriptions<1>"
 msgstr "ОФ-471"
 
@@ -322,6 +328,7 @@ msgstr "PzGr.39"
 msgid "DH_JagdtigerCannon.nProjectileDescriptions<1>"
 msgstr "Schw.Spgr.Patr"
 
+#, fuzzy
 msgid "DH_IS2Cannon_Late.ProjectileDescriptions<1>"
 msgstr "ОФ"
 
@@ -1111,6 +1118,7 @@ msgstr "M48 HE-T"
 msgid "DH_HetzerDestroyer.VehicleNameString"
 msgstr "ПТ-САУ Jagd Pz.38(t) \"Хетцер\""
 
+#, fuzzy
 msgid "DH_IS2Cannon_Late.ProjectileDescriptions<0>"
 msgstr "ББ"
 
