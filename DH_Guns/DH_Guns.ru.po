@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-16 07:42+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-08-16 08:07+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ru/>\n"
 "Language: ru\n"
@@ -116,9 +116,8 @@ msgstr "БР-271"
 msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<1>"
 msgstr "О-240"
 
-#, fuzzy
 msgid "DH_Pak40Cannon.ProjectileDescriptions<2>"
-msgstr "БПС"
+msgstr "БК"
 
 msgid "DH_ZiS3CannonLate.nProjectileDescriptions<1>"
 msgstr "ОФ-350"
@@ -156,9 +155,8 @@ msgstr "Sprgr.Patr.38"
 msgid "DH_LeIG18Cannon.ProjectileDescriptions<0>"
 msgstr "ОФ"
 
-#, fuzzy
 msgid "DH_Pak40Cannon.nProjectileDescriptions<2>"
-msgstr "PzGr.40"
+msgstr "Gr.38 Hl/B"
 
 msgid "DH_Pak38Cannon.ProjectileDescriptions<1>"
 msgstr "БПС"
