@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-19 18:42+0000\n"
-"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
+"PO-Revision-Date: 2025-08-16 07:42+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/de/>\n"
 "Language: de\n"
@@ -123,6 +123,7 @@ msgstr "G 98"
 msgid "DH_GeratPIIWeapon.ItemName"
 msgstr "Gerät Potsdam II"
 
+#, fuzzy
 msgid "DH_GeratPWeapon.ItemName"
 msgstr "Gerät Potsdam"
 
