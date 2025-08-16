@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 09:32+0000\n"
+"PO-Revision-Date: 2025-08-16 07:42+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Dutch <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/nl/>\n"
@@ -91,6 +91,7 @@ msgstr "StG 24 x7 Geballte Ladung"
 msgid "DH_GeratPIIWeapon.ItemName"
 msgstr "Gerat Potsdam II"
 
+#, fuzzy
 msgid "DH_GeratPWeapon.ItemName"
 msgstr "Gerat Potsdam"
 
