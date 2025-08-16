@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-19 04:22+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2025-08-16 07:42+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/uk/>\n"
 "Language: uk\n"
@@ -88,6 +88,7 @@ msgstr "Підкаліберний (HVAP)"
 msgid "DH_HellcatCannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
+#, fuzzy
 msgid "DH_IS2Cannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
@@ -97,6 +98,7 @@ msgstr "Осколково-фугасний (HE)"
 msgid "DH_ISU152Cannon.ProjectileDescriptions<1>"
 msgstr "Бронебійний (AP)"
 
+#, fuzzy
 msgid "DH_IS2Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (AP)"
 
@@ -118,18 +120,22 @@ msgstr "Осколково-фугасний (HE)"
 msgid "DH_ZiS5vTruckTransport.VehicleNameString"
 msgstr "ЗіС-5М (Траспорт)"
 
+#, fuzzy
 msgid "DH_IS2Cannon_Late.nProjectileDescriptions<0>"
 msgstr "БР-471Б"
 
+#, fuzzy
 msgid "DH_IS2Cannon.nProjectileDescriptions<0>"
 msgstr "БР-471"
 
+#, fuzzy
 msgid "DH_IS2Cannon.nProjectileDescriptions<1>"
 msgstr "ОФ-471"
 
 msgid "DH_ISU152Cannon.nProjectileDescriptions<1>"
 msgstr "БР-540"
 
+#, fuzzy
 msgid "DH_IS2Cannon_Late.nProjectileDescriptions<1>"
 msgstr "ОФ-471"
 
@@ -187,9 +193,11 @@ msgstr "Осколково-фугасний (HE)"
 msgid "DH_GreyhoundCannon.ProjectileDescriptions<2>"
 msgstr "Картеч"
 
+#, fuzzy
 msgid "DH_IS2Cannon_Late.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APBC)"
 
+#, fuzzy
 msgid "DH_IS2Cannon_Late.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
