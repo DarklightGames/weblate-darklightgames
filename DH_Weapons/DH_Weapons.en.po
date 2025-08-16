@@ -132,7 +132,7 @@ msgid "DH_GeratPIIWeapon.ItemName"
 msgstr "Gerat Potsdam II"
 
 msgid "DH_GeratPWeapon.ItemName"
-msgstr "Gerat Potsdam"
+msgstr "Gerät Potsdam"
 
 msgid "DH_GreaseGunWeapon.ItemName"
 msgstr "M3 Grease Gun"

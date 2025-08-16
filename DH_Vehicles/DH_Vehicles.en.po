@@ -279,28 +279,28 @@ msgid "DH_HigginsBoat.VehicleNameString"
 msgstr "Higgins Boat"
 
 msgid "DH_IS2Cannon.ProjectileDescriptions<0>"
-msgstr "AP"
+msgstr "HE"
 
 msgid "DH_IS2Cannon.ProjectileDescriptions<1>"
-msgstr "HE"
+msgstr "AP"
 
 msgid "DH_IS2Cannon.nProjectileDescriptions<0>"
-msgstr "BR-471"
+msgstr "OF-471"
 
 msgid "DH_IS2Cannon.nProjectileDescriptions<1>"
-msgstr "OF-471"
+msgstr "BR-471"
 
 msgid "DH_IS2Cannon_Late.ProjectileDescriptions<0>"
-msgstr "APBC"
-
-msgid "DH_IS2Cannon_Late.ProjectileDescriptions<1>"
 msgstr "HE"
 
+msgid "DH_IS2Cannon_Late.ProjectileDescriptions<1>"
+msgstr "APBC"
+
 msgid "DH_IS2Cannon_Late.nProjectileDescriptions<0>"
-msgstr "BR-471B"
+msgstr "OF-471"
 
 msgid "DH_IS2Cannon_Late.nProjectileDescriptions<1>"
-msgstr "OF-471"
+msgstr "BR-471B"
 
 msgid "DH_IS2Tank.VehicleNameString"
 msgstr "IS2"

@@ -1397,14 +1397,8 @@ msgstr "Chat Font Size"
 msgid "DHTab_Hud.GameHudShowDeathMessages.Caption"
 msgstr "Show Death Messages"
 
-msgid "DHTab_Hud.GameHudShowIndicators.Caption"
-msgstr "Show Packet Loss Indicator"
-
 msgid "DHTab_Hud.GameHudShowPersonalInfo.Caption"
 msgstr "Show Personal Info"
-
-msgid "DHTab_Hud.GameHudShowVehicleVisionCone.Caption"
-msgstr "Show Vehicle Vision Cone"
 
 msgid "DHTab_Hud.GameHudShowWeaponInfo.Caption"
 msgstr "Show Weapon Info"
@@ -1432,9 +1426,6 @@ msgstr "Show Compass"
 
 msgid "DHTab_Hud.ShowMapFirstSpawn.Caption"
 msgstr "Show Map On Initial Spawn"
-
-msgid "DHTab_Hud.ShowRallyPoint.Caption"
-msgstr "Show Squad Rally Point Status"
 
 msgid "DHTab_Hud.UseNativeItemNames.Caption"
 msgstr "Use Native Item Names"
