@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-16 07:42+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-08-16 08:07+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/uk/>\n"
 "Language: uk\n"
@@ -175,9 +175,8 @@ msgstr "7,5 см ПТ гармата Pak40"
 msgid "DH_Pak40Cannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
 
-#, fuzzy
 msgid "DH_Pak40Cannon.ProjectileDescriptions<2>"
-msgstr "Підкаліберний (APCR)"
+msgstr "Кумулятивний (HEAT)"
 
 #, fuzzy
 msgid "DH_Pak43ATGun.VehicleNameString"
@@ -286,9 +285,8 @@ msgstr "Sprgr.Patr.38"
 msgid "DH_Pak40Cannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
 
-#, fuzzy
 msgid "DH_Pak40Cannon.nProjectileDescriptions<2>"
-msgstr "PzGr.40"
+msgstr "Gr.38 Hl/B"
 
 msgid "DH_Pak43Cannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39/43"
