@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-19 04:22+0000\n"
-"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
+"PO-Revision-Date: 2025-08-16 07:42+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/de/>\n"
 "Language: de\n"
@@ -759,9 +759,11 @@ msgstr "Sprgr.Patr.34"
 msgid "DH_HetzerCannon.nProjectileDescriptions<2>"
 msgstr "Nbgr.Kw.K"
 
+#, fuzzy
 msgid "DH_IS2Cannon_Late.nProjectileDescriptions<0>"
 msgstr "BR-471B"
 
+#, fuzzy
 msgid "DH_IS2Cannon.nProjectileDescriptions<1>"
 msgstr "OF-471"
 
@@ -834,12 +836,15 @@ msgstr "PzGr."
 msgid "DH_Flak38Cannon.nProjectileDescriptions<2>"
 msgstr "Sprgr.39"
 
+#, fuzzy
 msgid "DH_IS2Cannon.ProjectileDescriptions<1>"
 msgstr "HE"
 
+#, fuzzy
 msgid "DH_IS2Cannon.nProjectileDescriptions<0>"
 msgstr "BR-471"
 
+#, fuzzy
 msgid "DH_IS2Cannon_Late.ProjectileDescriptions<0>"
 msgstr "APBC"
 
@@ -1167,6 +1172,7 @@ msgstr "HE"
 msgid "DH_HetzerCannon.ProjectileDescriptions<2>"
 msgstr "Nebel"
 
+#, fuzzy
 msgid "DH_IS2Cannon.ProjectileDescriptions<0>"
 msgstr "AP"
 
@@ -1254,6 +1260,7 @@ msgstr "M93 HVAP"
 msgid "DH_HellcatCannon.nProjectileDescriptions<2>"
 msgstr "M42A1 HE-T"
 
+#, fuzzy
 msgid "DH_IS2Cannon_Late.nProjectileDescriptions<1>"
 msgstr "OF-471"
 
@@ -1431,6 +1438,7 @@ msgstr "Mk.I HE-T"
 msgid "DH_Fiat508CMTransport.VehicleNameString"
 msgstr "Fiat 508CM"
 
+#, fuzzy
 msgid "DH_IS2Cannon_Late.ProjectileDescriptions<1>"
 msgstr "HE"
 
