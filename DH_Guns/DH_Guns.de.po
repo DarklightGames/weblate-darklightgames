@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-16 07:42+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-08-16 08:07+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/de/>\n"
 "Language: de\n"
@@ -450,9 +450,8 @@ msgstr "PzGr.39"
 msgid "DH_Pak40Cannon.nProjectileDescriptions<1>"
 msgstr "Sprgr.Patr.34"
 
-#, fuzzy
 msgid "DH_Pak40Cannon.nProjectileDescriptions<2>"
-msgstr "PzGr.40"
+msgstr "Gr.38 Hl/B"
 
 msgid "DH_Pak38Cannon.ProjectileDescriptions<1>"
 msgstr "APCR"
@@ -493,9 +492,8 @@ msgstr "APCBC"
 msgid "DH_Pak40Cannon.ProjectileDescriptions<1>"
 msgstr "HE"
 
-#, fuzzy
 msgid "DH_Pak40Cannon.ProjectileDescriptions<2>"
-msgstr "APCR"
+msgstr "HEAT"
 
 msgid "DH_Pak43Cannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39/43"
