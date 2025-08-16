@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-16 07:42+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-08-16 08:07+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/ru/>\n"
 "Language: ru\n"
@@ -226,9 +226,8 @@ msgstr "МАБ мод. 38-А"
 msgid "DH_MP40Ammo.ItemName"
 msgstr "Магазин 9-мм на 32 патрона"
 
-#, fuzzy
 msgid "DH_GeratPWeapon.ItemName"
-msgstr "Gеrat Potsdam"
+msgstr "Gerät Potsdam"
 
 msgid "DH_Winchester1897Weapon.ItemName"
 msgstr "Дробовик Винчестер (обр.1897г.)"
