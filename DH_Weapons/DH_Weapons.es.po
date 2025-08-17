@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-16 08:07+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2025-08-17 10:43+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/es/>\n"
 "Language: es\n"
@@ -199,7 +199,7 @@ msgid "DH_MG42Weapon.ItemName"
 msgstr "Ametralladora MG 42"
 
 msgid "DH_BHPWeapon.ItemName"
-msgstr "Browning High-Power"
+msgstr "Pistola Browning High-Power"
 
 msgid "DH_M9531Weapon.ItemName"
 msgstr "Rifle 31.M"
