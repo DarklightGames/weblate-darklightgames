@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-15 10:00+0000\n"
+"PO-Revision-Date: 2025-08-19 14:02+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/de/>\n"
@@ -507,7 +507,7 @@ msgstr ""
 "Mitglieder freiwillig als Gruppenführer gemeldet haben."
 
 msgid "DHSquadMessage.AutoJoinFailed"
-msgstr "Es gibt keine Gruppen die geeignet zum Beitritt sind."
+msgstr "Keine Gruppen zum Beitritt geeignet."
 
 msgid "DHSquadMessage.RallyPointAbandoned"
 msgstr ""
@@ -872,7 +872,7 @@ msgid "DHConstructionErrorMessage.ErrorMessages<26>"
 msgstr "Es stehen keine weiteren {name} zur Verfügung"
 
 msgid "DHMapMarker_Enemy_ATGun.MarkerName"
-msgstr "Feindliche PAK"
+msgstr "Feindliche PaK"
 
 msgid "DHMapMarker_Enemy_Infantry.MarkerName"
 msgstr "Feindliche Infanterie"
@@ -2241,7 +2241,7 @@ msgid "DHSquadOrderMessage.DefendText"
 msgstr "Der Gruppenführer hat einen neuen Verteidigungsbefehl ausgegeben"
 
 msgid "DHSquadOrderMessage.MoveText"
-msgstr "Der Gruppenführer hat einen neuen Vorstoßbefehl ausgegeben"
+msgstr "Der Gruppenführer hat eine neue Stoßrichtung vorgegeben"
 
 msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<3>"
 msgstr "Zu dieser Gruppe besteht bereits eine Anfrage zur Zusammenführung."
