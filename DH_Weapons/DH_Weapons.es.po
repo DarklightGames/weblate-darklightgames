@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-17 10:43+0000\n"
+"PO-Revision-Date: 2025-08-19 15:54+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/es/>\n"
@@ -37,7 +37,7 @@ msgid "DH_ZB30Weapon.ItemName"
 msgstr "Ametralladora ligera ZB-30"
 
 msgid "DH_GLWeapon.ItemName"
-msgstr "StG 24 x7 Geballte Ladung"
+msgstr "Granada AT StG 24 x7 \"Geballte Ladung\""
 
 msgid "DH_SpringfieldA1Weapon.ItemName"
 msgstr "Springfield M1903A1"
@@ -280,7 +280,7 @@ msgid "DH_StenMkIICWeapon.ItemName"
 msgstr "STEN Mk.II"
 
 msgid "DH_VG15Weapon.ItemName"
-msgstr "Rifle VG 1-5"
+msgstr "Rifle semiautomático VG 1-5"
 
 msgid "DH_P38Weapon.ItemName"
 msgstr "Pistola Walther P38"
@@ -304,7 +304,7 @@ msgid "DH_PPSh41Ammo.ItemName"
 msgstr "Cargador de 71 balas de 7.62 mm"
 
 msgid "DH_STG44ScopedWeapon.ItemName"
-msgstr "StG 44 (ZF4)"
+msgstr "Rifle de Asalto StG 44 (ZF4)"
 
 msgid "DH_MN9130ScopedPEWeapon.ItemName"
 msgstr "Mosin M91/30 (PE)"
