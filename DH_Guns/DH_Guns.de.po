@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-16 08:07+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2025-08-19 14:02+0000\n"
+"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/de/>\n"
 "Language: de\n"
@@ -31,9 +31,8 @@ msgstr "BR-240"
 msgid "DH_45mmM1937GunCannon.nProjectileDescriptions[1]"
 msgstr "O-240"
 
-#, fuzzy
 msgid "DH_45mmM1942Gun.VehicleNameString"
-msgstr "45mm M-42 Panzerabwehrkanone"
+msgstr "45mm M-42 PaK"
 
 msgid "DH_45mmM1942GunCannon.ProjectileDescriptions[0]"
 msgstr "APBC"
@@ -72,17 +71,14 @@ msgstr "Yards"
 msgid "DH_Bofors40mmCannon.ProjectileDescriptions[1]"
 msgstr "AP"
 
-#, fuzzy
 msgid "DH_Flak38Gun.VehicleNameString"
-msgstr "2cm FlaK 38 Geschütz"
+msgstr "2cm FlaK 38"
 
-#, fuzzy
 msgid "DH_Flak88Gun.VehicleNameString"
-msgstr "8.8cm FlaK 36 Geschütz"
+msgstr "8,8cm FlaK 36"
 
-#, fuzzy
 msgid "DH_Flakvierling38Gun.VehicleNameString"
-msgstr "2cm Flakvierling 38 Geschütz"
+msgstr "2cm Flakvierling 38"
 
 msgid "DH_LeIG18Cannon.ProjectileDescriptions[0]"
 msgstr "HE"
@@ -90,9 +86,8 @@ msgstr "HE"
 msgid "DH_LeIG18Cannon.ProjectileDescriptions[1]"
 msgstr "HEAT"
 
-#, fuzzy
 msgid "DH_LeIG18Gun.VehicleNameString"
-msgstr "7,5 cm leichtes Infanteriegeschütz 18"
+msgstr "7,5cm le.IG 18"
 
 msgid "DH_M116Cannon.ProjectileDescriptions[0]"
 msgstr "HE"
@@ -112,9 +107,8 @@ msgstr "M45 Vierlingsgeschütz"
 msgid "DH_M5Gun.VehicleNameString"
 msgstr "3-Zoll Geschütz M5"
 
-#, fuzzy
 msgid "DH_Pak38ATGun.VehicleNameString"
-msgstr "5cm Pak38 Geschütz"
+msgstr "5,0cm PaK 38"
 
 msgid "DH_Pak38Cannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
@@ -132,11 +126,10 @@ msgid "DH_Pak39Cannon.ProjectileDescriptions[2]"
 msgstr "HE"
 
 msgid "DH_Pak39Gun.VehicleNameString"
-msgstr "5cm KwK 39 Geschütz"
+msgstr "5,0cm KwK 39"
 
-#, fuzzy
 msgid "DH_Pak40ATGun.VehicleNameString"
-msgstr "7,5cm Pak40 Geschütz"
+msgstr "7,5cm PaK 40"
 
 msgid "DH_Pak40Cannon.ProjectileDescriptions[0]"
 msgstr "APCBC"
@@ -147,9 +140,8 @@ msgstr "HE"
 msgid "DH_Pak40Cannon.ProjectileDescriptions[2]"
 msgstr "APCR"
 
-#, fuzzy
 msgid "DH_Pak43ATGun.VehicleNameString"
-msgstr "8,8 cm Pak43/41 Geschütz"
+msgstr "8,8cm PaK 43"
 
 msgid "DH_PantherturmCannon.ProjectileDescriptions[1]"
 msgstr "APCR"
@@ -169,9 +161,8 @@ msgstr "HE"
 msgid "DH_ZiS2Cannon.ProjectileDescriptions[2]"
 msgstr "APCR"
 
-#, fuzzy
 msgid "DH_ZiS2Gun.VehicleNameString"
-msgstr "ZiS-2 57mm Panzerabwehrkanone"
+msgstr "ZiS-2 57mm PaK"
 
 msgid "DH_ZiS3Cannon.ProjectileDescriptions[0]"
 msgstr "APBC"
@@ -188,9 +179,8 @@ msgstr "HE"
 msgid "DH_ZiS3CannonLate.ProjectileDescriptions[2]"
 msgstr "APCR"
 
-#, fuzzy
 msgid "DH_45mmM1937Gun.VehicleNameString"
-msgstr "45mm 53-K (1937) Panzerabwehrkanone"
+msgstr "45mm 53-K (1937) PaK"
 
 msgid "DH_AT57Gun.VehicleNameString"
 msgstr "57mm M1 Panzerabwehrkanone"
@@ -570,6 +560,26 @@ msgstr "BR-271"
 msgid "DH_ZiS2Cannon.nProjectileDescriptions<1>"
 msgstr "O-271"
 
-#, fuzzy
 msgid "DH_ZiS3Gun.VehicleNameString"
 msgstr "ZiS-3 76mm Divisionsgeschütz"
+
+msgid "DH_Pak36ATGun.VehicleNameString"
+msgstr "3,7cm PaK 36"
+
+msgid "DH_Pak36Cannon.ProjectileDescriptions<0>"
+msgstr "AP-HE-T"
+
+msgid "DH_Pak36Cannon.ProjectileDescriptions<1>"
+msgstr "APCR-T"
+
+msgid "DH_Pak36Cannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_Pak36Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.36"
+
+msgid "DH_Pak36Cannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40"
+
+msgid "DH_Pak36Cannon.nProjectileDescriptions<2>"
+msgstr "StGr.41"
