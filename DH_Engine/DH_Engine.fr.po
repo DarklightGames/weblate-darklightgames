@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-19 02:37+0000\n"
+"PO-Revision-Date: 2025-08-20 02:53+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -1748,3 +1748,84 @@ msgstr ""
 
 msgid "DHSupplyMessage.NoSupplyCaches"
 msgstr "Aucune cache d'approvisionnement à proximité."
+
+msgid "DHTeamSurrenderVoteMessage.VoteSucceededText"
+msgstr "Le vote pour battre en retraite est un succès ({0})."
+
+msgid "DHTeamSurrenderVoteMessage.VoteFailedText"
+msgstr "Le vote pour battre en retraite a échoué ({0})."
+
+msgid "DHTeamKillInteraction.PromptText"
+msgstr "Votre équipier {0} vous a tué !"
+
+msgid "DHTeamKillInteraction.Options<0>.Text"
+msgstr "Pardonner"
+
+msgid "DHSupplyMessage.SuppliesRefunded"
+msgstr "{0} provisions ont renflouées les caches à proximité."
+
+msgid "DHSupplyVehicleMessage.Controls<0>.Text"
+msgstr "Charger Provisions"
+
+msgid "DHSupplyVehicleMessage.Controls<1>.Text"
+msgstr "Décharger Provisions"
+
+msgid "DHTeamKillInteraction.Options<1>.Text"
+msgstr "Punir"
+
+msgid "DHTeamSurrenderVoteMessage.VoteSummaryText"
+msgstr "Oui : {0}, Requis : {1}"
+
+msgid "DHTeamSurrenderVoteMessage.VoteNominatedText"
+msgstr "{0} suggère de battre en retraite."
+
+msgid "DHTeamSurrenderVoteMessage.VoteNominationsRemainingText"
+msgstr "Besoin de {0} autres suggestion(s) pour commencer le vote."
+
+msgid "DHUnits.DistanceUnits<0>.Name"
+msgstr "Unreal Units"
+
+msgid "DHUnits.DistanceUnits<0>.Symbol"
+msgstr "uu"
+
+msgid "DHUnits.DistanceUnits<1>.Name"
+msgstr "Mètres"
+
+msgid "DHUnits.DistanceUnits<1>.Symbol"
+msgstr "m"
+
+msgid "DHUnits.DistanceUnits<2>.Name"
+msgstr "Yards"
+
+msgid "DHUnits.DistanceUnits<2>.Symbol"
+msgstr "yd"
+
+msgid "DHVehicleCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DHVehicleCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DHVehicleMessage.AllRiderPositionsFull"
+msgstr "Toutes les places passager sont occupées"
+
+msgid "DHVehicleMessage.NoRiderPositions"
+msgstr "Impossible de s’asseoir sur ce véhicule"
+
+msgid "DHVehicleMessage.VehicleBurning"
+msgstr "Incendie à bord !"
+
+msgid "DHVehicleMessage.OpenHatchToExit"
+msgstr "Vous devez ouvrir l'écoutille {0} pour sortir"
+
+msgid "DHVehicleMessage.ExitCommandersHatch"
+msgstr "Vous devez sortir par l'écoutille du chef de char"
+
+msgid "DHVehicleMessage.ExitDriverOrComHatch"
+msgstr "Sortir par l'écoutille du pilote ou du chef de char"
+
+msgid "DHVehicleMessage.ExitCommandersOrMGHatch"
+msgstr "Sortir par l'écoutille du chef de char ou du mitrailleur"
+
+msgid "DHVehicleMessage.CantFindExitPosition"
+msgstr "Aucune sortie n'a été trouvée"
