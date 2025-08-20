@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-20 02:53+0000\n"
+"PO-Revision-Date: 2025-08-20 15:06+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -874,13 +874,12 @@ msgstr ""
 "Vous utilisez une pièce d'artillerie équipée d'une lunette d'observation. "
 "Appuyez sur %NEXTWEAPON% pour regarder à travers la lunette."
 
-#, fuzzy
 msgid "DHHintManager.Hints[50].Text"
 msgstr ""
 "Ouvrez la carte pour coordonner les tirs. Utilisez le bouton droit de la "
 "souris sur un marqueur d'appui feu pour la sélectionner comme cible active "
-"ou utilisez le marqueur de Règle pour mesurer les distances entre vous et un "
-"point donné sur la carte."
+"ou utilisez le marqueur de Règle pour mesurer les distances vers un point "
+"donné sur la carte."
 
 msgid "DHHintManager.Hints[53].Text"
 msgstr ""
@@ -1429,9 +1428,8 @@ msgstr "Votre groupe a établi un point de ralliement."
 msgid "DHScoreEvent_VehicleKill.HumanReadableName"
 msgstr "Destruction Véhicule"
 
-#, fuzzy
 msgid "DHServerSayMessage.MessagePrefix"
-msgstr "[SERVER]"
+msgstr "[SERVEUR]"
 
 msgid "DHSignal_Fire.SignalName"
 msgstr "Tirer"
@@ -1439,9 +1437,8 @@ msgstr "Tirer"
 msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<0>.Text"
 msgstr "Accepter"
 
-#, fuzzy
 msgid "DHSquadLeaderSayMessage.MessagePrefix"
-msgstr "[SQUAD LEADER]"
+msgstr "[CHEF GROUPE]"
 
 msgid "DHSquadMessage.RallyPointOverrunMessage"
 msgstr "Un point de ralliement a été supprimé par des ennemis."
@@ -1524,42 +1521,33 @@ msgstr ""
 msgid "DHSquadMessage.BannedCannotJoin"
 msgstr "Vous ne pouvez pas rejoindre ce groupe car vous avez été banni."
 
-#, fuzzy
 msgid "DHHud.SayTypeConsoleText"
 msgstr "[CONSOLE]"
 
-#, fuzzy
 msgid "DHHud.SayTypeAllText"
-msgstr "[ALL]"
+msgstr "[TOUS]"
 
 msgid "DHSquadMessage.NoVolunteers"
 msgstr "Aucun membre ne s'est porté volontaire pour être chef de groupe."
 
-#, fuzzy
 msgid "DHGameType_Advance.GameTypeName"
 msgstr "Advance"
 
-#, fuzzy
 msgid "DHGameType_Armored_Advance.GameTypeName"
 msgstr "Armored Advance"
 
-#, fuzzy
 msgid "DHGameType_Clash.GameTypeName"
 msgstr "Clash"
 
-#, fuzzy
 msgid "DHGameType_Cutoff.GameTypeName"
 msgstr "Cutoff"
 
-#, fuzzy
 msgid "DHGameType_Defence.GameTypeName"
 msgstr "Defence"
 
-#, fuzzy
 msgid "DHGameType_Domination.GameTypeName"
 msgstr "Domination"
 
-#, fuzzy
 msgid "DHHud.BlackoutText"
 msgstr "Blackout"
 
@@ -1569,31 +1557,24 @@ msgstr "Vous avez quitté le groupe."
 msgid "DHSquadMessage.AutoJoinFailed"
 msgstr "Il n'y a pas de groupes auxquels vous êtes éligible."
 
-#, fuzzy
 msgid "DHLocalMessage.SquadLeaderID"
 msgstr "SL"
 
-#, fuzzy
 msgid "DHGameType_Push.GameTypeName"
 msgstr "Push"
 
-#, fuzzy
 msgid "DHGameType_Stalemate.GameTypeName"
 msgstr "Stalemate"
 
-#, fuzzy
 msgid "DHHud.TeamMessagePrefix"
-msgstr "[TEAM] "
+msgstr "[EQUIPE] "
 
-#, fuzzy
 msgid "DHLocalMessage.SquadAssistantID"
 msgstr "A"
 
-#, fuzzy
 msgid "DHPlayerReplicationInfo.SquadLeaderAbbreviation"
 msgstr "SL"
 
-#, fuzzy
 msgid "DHPlayerReplicationInfo.AssistantAbbreviation"
 msgstr "A"
 
@@ -1829,3 +1810,20 @@ msgstr "Sortir par l'écoutille du chef de char ou du mitrailleur"
 
 msgid "DHVehicleMessage.CantFindExitPosition"
 msgstr "Aucune sortie n'a été trouvée"
+
+msgid "DHVehicleMessage.MapDisabledVehicleLocking"
+msgstr "Cette carte n'autorise pas le verrouillage de véhicule"
+
+msgid "DHVehicleMessage.CantEnterLockedVehicle"
+msgstr "Ce véhicule a été verrouillé par son équipage"
+
+msgid "DHVehicleMessage.VehicleNowLocked"
+msgstr "Les postes de ce véhicule sont désormais verrouillés"
+
+msgid "DHVehicleMessage.VehicleNowUnlocked"
+msgstr "Les postes de ce véhicule sont désormais déverrouillés"
+
+msgid "DHVehicleMessage.AbandonedVehicleUnlocked"
+msgstr ""
+"Vous avez verrouillé votre véhicule trop longtemps, il est désormais "
+"déverrouillé"
