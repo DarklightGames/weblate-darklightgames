@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-17 10:43+0000\n"
+"PO-Revision-Date: 2025-08-21 14:18+0000\n"
 "Last-Translator: Baianormaster <baianormasterlol@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/pt/>\n"
@@ -332,3 +332,9 @@ msgstr "A velocidades foram mudados para x #insert_number# pelo ADM"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastSetTimeRemaining"
 msgstr "Tempo restante foi modificado pelo ADM"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyToggleAdminCanPause"
+msgstr "Voce selecionou ' o ADM pode pausar ' para #bAdminCanPause#"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastAlliesSquadSizeChanged"
+msgstr "O tamanho do grupo aliado foi modficado pelo ADM"
