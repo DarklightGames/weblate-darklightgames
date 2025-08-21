@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-20 15:06+0000\n"
+"PO-Revision-Date: 2025-08-22 20:43+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -1827,3 +1827,141 @@ msgid "DHVehicleMessage.AbandonedVehicleUnlocked"
 msgstr ""
 "Vous avez verrouillé votre véhicule trop longtemps, il est désormais "
 "déverrouillé"
+
+msgid "DHVehicleMessage.CanOnlyLockFromCrewPosition"
+msgstr ""
+"Il n'est possible de verrouiller ou déverrouiller le véhicule que si vous "
+"êtes dans un poste d'équipage"
+
+msgid "DHVehicleMessage.OnlyTankCrewCanLockVehicle"
+msgstr "Seuls les tankistes peuvent verrouiller ou déverrouiller le véhicule"
+
+msgid "DHVehicleMessage.CantLockNonCrewVehicle"
+msgstr ""
+"Le véhicule ne peut pas être verrouillé comme il peut être conduit par des "
+"non-tankistes"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<1>"
+msgstr "Commandement"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<2>"
+msgstr "Non affecté"
+
+msgid "DHVoicePack.EnemyAbbrevAxis[3]"
+msgstr "Pionnier"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<3>"
+msgstr "Non affecté"
+
+msgid "DHVoicePack.OrderString[0]"
+msgstr "Attaquez {objective}"
+
+msgid "DHVehicleMessage.GunObstructed"
+msgstr "Le canon ne peut pas tirer parce qu'il est obstrué"
+
+msgid "DHVehicleMessage.NotQualified"
+msgstr "Non qualifié pour l'utilisation de ce véhicule"
+
+msgid "DHVehicleMessage.VehicleIsEnemy"
+msgstr "Impossible d'utiliser un véhicule ennemi"
+
+msgid "DHVehicleMessage.CannotEnter"
+msgstr "Le véhicule est plein"
+
+msgid "DHVehiclePoolMessage.ActivatedMessage"
+msgstr "Un Dépôt de Véhicules a été activé."
+
+msgid "DHVehiclePoolMessage.DestroyedMessage"
+msgstr "Un Dépôt de Véhicules a été détruit."
+
+msgid "DHVehicleSayMessage.MessagePrefix"
+msgstr "[VÉHICULE]"
+
+msgid "DHVehicleTouchControlsMessage.Controls<0>.Text"
+msgstr "Entrer"
+
+msgid "DHVehicleVoiceSayMessage.MessagePrefix"
+msgstr "[VOIX]"
+
+msgid "DHVoicePack.SupportString[1]"
+msgstr "Besoin d'aide à {objective}"
+
+msgid "DHVoicePack.AlertString[8]"
+msgstr "Pris à parti à {objective}"
+
+msgid "DHVoicePack.VehicleDirectionString[0]"
+msgstr "Allez à {objective}"
+
+msgid "DHVehicleMessage.UnbuttonToReload"
+msgstr "Vous devez ouvrir l'écoutille {0} pour recharger"
+
+msgid "DHVehicleMessage.VehicleScuttleInitiated"
+msgstr "actuellement déprécié"
+
+msgid "DHVehicleMessage.UnbuttonHatchToChangePosition"
+msgstr "Vous devez ouvrir l'écoutille {0} pour changer de poste"
+
+msgid "DHVoicePack.OrderString[1]"
+msgstr "Défendez {objective}"
+
+msgid "DHVoiceReplicationInfo.LocalChannelText"
+msgstr "Local"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<0>"
+msgstr "Commandement"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<4>"
+msgstr "Groupe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<5>"
+msgstr "Groupe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<6>"
+msgstr "Groupe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<7>"
+msgstr "Groupe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<8>"
+msgstr "Groupe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<9>"
+msgstr "Groupe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<10>"
+msgstr "Groupe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<11>"
+msgstr "Groupe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<12>"
+msgstr "Groupe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<14>"
+msgstr "Groupe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<15>"
+msgstr "Groupe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<16>"
+msgstr "Groupe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<17>"
+msgstr "Groupe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<18>"
+msgstr "Groupe"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<19>"
+msgstr "Groupe"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecName"
+msgstr "Meilleure Qualité"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<13>"
+msgstr "Groupe"
+
+msgid "DHVehicleMessage.OtherCrewmanCanLockVehicle"
+msgstr ""
+"Seulement le poste d'équipage le plus gradé peut verrouiller ou "
+"déverrouiller le véhicule"
