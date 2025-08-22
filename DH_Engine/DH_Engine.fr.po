@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-22 20:43+0000\n"
+"PO-Revision-Date: 2025-08-23 23:43+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -1965,3 +1965,77 @@ msgid "DHVehicleMessage.OtherCrewmanCanLockVehicle"
 msgstr ""
 "Seulement le poste d'équipage le plus gradé peut verrouiller ou "
 "déverrouiller le véhicule"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecDescription"
+msgstr ""
+"(9.6kbps) - Utilise plus de bande passante, mais le son est beaucoup plus "
+"clair."
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecName"
+msgstr "Meilleure Qualité"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecDescription"
+msgstr ""
+"(9.6kbps) - Utilise plus de bande passante, mais le son est beaucoup plus "
+"clair."
+
+msgid "DHVoiceSayMessage.MessagePrefix"
+msgstr "[VOCAL]"
+
+msgid "DHVoteInfo.Options<0>.Text"
+msgstr "Oui"
+
+msgid "DHVoteInfo.Options<1>.Text"
+msgstr "Non"
+
+msgid "DHVoteInfo_TeamSurrender.QuestionText"
+msgstr "Voulez-vous vous retirer pour vous battre un autre jour ?"
+
+msgid "DHVoteMessage.VoteReceievedText"
+msgstr "Votre vote a été reçu."
+
+msgid "DHVoteMessage.VoteConcludedText"
+msgstr "Le vote s'est achevé."
+
+msgid "DHVotingHandler.lmsgMapVotedTooRecently"
+msgstr ""
+"Merci d'attendre %seconds% secondes avant de voter pour une autre carte !"
+
+msgid "DHVotingHandler.SwapAndRestartText"
+msgstr "DH-[Intervertir Équipes et Redémarrer]"
+
+msgid "DHWeaponPickup.PickupMessage"
+msgstr "Vous avez pris le {0}"
+
+msgid "DHWeaponPickupTouchMessage.Controls<0>.Text"
+msgstr "Ramasser"
+
+msgid "DHWeaponsLockedMessage.LockedFFMessage"
+msgstr "Vos armes ont été verrouillées à cause d'un tir fratricide !"
+
+msgid "DHWeaponsLockedMessage.LockedSKMessage"
+msgstr "Vos armes ont été verrouillées en raison d'un excès de spawn killing !"
+
+msgid "DHWeaponsLockedMessage.LockedWithTimerMessage"
+msgstr "Vos armes sont verrouillées pendant {0} secondes"
+
+msgid "DHWeaponsLockedMessage.LockedSetupPhaseMessage"
+msgstr "Vos armes sont verrouillées pendant la phase de début"
+
+msgid "DHWeaponsLockedMessage.UnlockedMessage"
+msgstr "Vos armes sont maintenant déverrouillées"
+
+msgid "DH_ModifyRoundTimeMessage.IncreasedText"
+msgstr "augmenté"
+
+msgid "DH_ModifyRoundTimeMessage.DecreasedText"
+msgstr "diminué"
+
+msgid "DH_ModifyRoundTimeMessage.ChangedText"
+msgstr "changé"
+
+msgid "DH_ModifyRoundTimeMessage.RoundTimeModifiedText"
+msgstr "Le temps restant a été {0}."
+
+msgid "DHWeaponsLockedMessage.LockedFFSKMessage"
+msgstr "Vos armes ont été verrouillées à cause d'un spawn kill ami !"
