@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-22 20:43+0000\n"
+"PO-Revision-Date: 2025-08-23 23:43+0000\n"
 "Last-Translator: Baianormaster <baianormasterlol@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/pt/>\n"
@@ -341,3 +341,18 @@ msgstr "O tamanho do grupo aliado foi modficado pelo ADM"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastAxisSquadSizeChanged"
 msgstr "O tamanho do grupo do AXIS foi modficado pelo ADM"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsDisabled"
+msgstr "Ponto de resurgimento foi DESABILITADO pelo ADM"
+
+msgid "DHAdminMenu_ObjectivesMenu.MenuTitle"
+msgstr "MENU DE SELEÇÃO DE OBJETIVOS"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<0>"
+msgstr "Renomear jogador"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<1>"
+msgstr "Manda mensagem privada"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsEnabled"
+msgstr "Ponto de resurgimento foi REABILITADO pelo ADM"
