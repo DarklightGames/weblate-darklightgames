@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-13 15:30+0000\n"
+"PO-Revision-Date: 2025-08-26 00:43+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
@@ -835,7 +835,7 @@ msgid "DHConstructionErrorMessage.ErrorMessages<2>"
 msgstr "Debes {verb} un {name} en un terreno solido."
 
 msgid "DHCommandSayMessage.MessagePrefix"
-msgstr "[COMANDO]"
+msgstr "[COMANDANCIA]"
 
 msgid "DHConstructionErrorMessage.ErrorMessages<11>"
 msgstr "No puedes {verb} un {name} cerca de un punto de aparición."
@@ -859,8 +859,8 @@ msgstr "Tipo de juego desconocido"
 
 msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
 msgstr ""
-"¡Debes tener a otro miembro de tu equipo cerca para destruir un puesto de "
-"mando enemigo!"
+"¡Debes tener a otro miembro de tu equipo cerca para destruir un Puesto de "
+"Mando enemigo!"
 
 msgid "DHHintManager.Hints[50].Text"
 msgstr ""
@@ -1322,7 +1322,7 @@ msgid "DHMapMarker_Enemy_CommandPost.MarkerName"
 msgstr "Puesto de Mando Enemigo"
 
 msgid "DHMapMarker_Friendly_CommandPost.MarkerName"
-msgstr "Solicitud de Puesto de Mando"
+msgstr "Solicitar un Puesto de Mando"
 
 msgid "DHAdminMessage.AdminLoggedInMessage"
 msgstr "{0} entro al servidor como un administrador."
@@ -1886,7 +1886,7 @@ msgid "DHVehicleMessage.VehicleBurning"
 msgstr "¡El vehículo esta en llamas!"
 
 msgid "DHVehicleMessage.ExitCommandersHatch"
-msgstr "Deberas salir por la escotilla del comandante."
+msgstr "Deberás salir por la escotilla del comandante."
 
 msgid "DHVehicleMessage.ExitDriverOrComHatch"
 msgstr "Salga por la escotilla del conductor o del comandante."
