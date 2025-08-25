@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-23 23:43+0000\n"
+"PO-Revision-Date: 2025-08-26 00:43+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -2039,3 +2039,110 @@ msgstr "Le temps restant a été {0}."
 
 msgid "DHWeaponsLockedMessage.LockedFFSKMessage"
 msgstr "Vos armes ont été verrouillées à cause d'un spawn kill ami !"
+
+msgid "DarkestHourGame.ROHints<0>"
+msgstr ""
+"Vous pouvez consulter une carte des objectifs qui doivent être capturés ou "
+"défendus en appuyant sur %SHOWOBJECTIVES%."
+
+msgid "DarkestHourGame.ROHints<1>"
+msgstr ""
+"Vous pouvez «cuire» une grenade Mk. II en appuyant sur %FIRE3% tout en "
+"retenant la grenade."
+
+msgid "DarkestHourGame.ROHints<2>"
+msgstr ""
+"Pour prendre un objectif, vous devez d'abord entrer dans la zone de "
+"l'objectif. Vous aurez probablement besoin de plus d'un coéquipier "
+"supplémentaire pour initier et compléter la capture."
+
+msgid "DarkestHourGame.ROHints<3>"
+msgstr ""
+"Appuyez sur %PLAYERMENU 2% pour changer votre rôle pendant la partie, "
+"%PLAYERMENU% pour changer d'équipe."
+
+msgid "DarkestHourGame.ROHints<5>"
+msgstr "Vous recevez 10 points pour aider à capturer un objectif."
+
+msgid "DarkestHourGame.ROHints<6>"
+msgstr ""
+"S'accroupir ou se mettre à plat ventre stabilise votre arme et diminue le "
+"recul lors du tir."
+
+msgid "DarkestHourGame.ROHints<7>"
+msgstr "Pour regagner votre vigueur, arrêtez-vous et reposez-vous un peu."
+
+msgid "DarkestHourGame.ROHints<9>"
+msgstr ""
+"Lors du rechargement, 'Chargeur lourd' indique que le chargeur de votre arme "
+"est plein à plus de la moitié de sa capacité."
+
+msgid "DarkestHourGame.ROHints<10>"
+msgstr ""
+"Vous ne pouvez recharger votre fusil mitrailleur que si vous l'avez déployé."
+
+msgid "DarkestHourGame.ROHints<11>"
+msgstr ""
+"Les joueurs reçoivent 1 point pour le réapprovisionnement des mitrailleurs "
+"qui ont besoin de munitions."
+
+msgid "DarkestHourGame.ROHints<13>"
+msgstr ""
+"Vous ne pouvez pas changer le canon de la calibre 30, faites attention à ne "
+"pas surchauffer !"
+
+msgid "DarkestHourGame.ROHints<14>"
+msgstr ""
+"Lors de la prise d'un objectif, la présence d'un officier renforce le moral "
+"et facilite votre tâche !"
+
+msgid "DarkestHourGame.ROHints<16>"
+msgstr ""
+"Les mitrailleurs ont un champ de vision limité lorsqu'ils sont déployés, "
+"essayez donc de les attaquer par le flanc."
+
+msgid "DarkestHourGame.ROHints<18>"
+msgstr ""
+"Ne vous tenez pas directement derrière les lance-roquettes quand ils tirent, "
+"vous pouvez subir de graves blessures à cause de l'échappement !"
+
+msgid "DarkestHourGame.ROHints<19>"
+msgstr ""
+"Les soldats antichars devraient toujours emmener un ami avec eux pour avoir "
+"plus de munitions, des rechargements plus rapides et une protection "
+"additionnelle."
+
+msgid "DarkestHourGame.GameName"
+msgstr "DarkestHourGame"
+
+msgid "DarkestHourGame.ROHints<4>"
+msgstr ""
+"Pour utiliser la mire de votre arme et donc avoir une meilleure précision, "
+"appuyez sur la touche %ROIRONSIGHTS%."
+
+msgid "DarkestHourGame.ROHints<8>"
+msgstr ""
+"Vous pouvez déployer un fusil mitrailleur sur presque n'importe quel objet - "
+"appuyez sur %DEPLOY% lorsque vous voyez l'icône de déploiement apparaître "
+"pour la déployer."
+
+msgid "DarkestHourGame.ROHints<12>"
+msgstr ""
+"Le fusil mitrailleur est plus efficace lorsqu'il est tiré en rafales courtes."
+
+msgid "DarkestHourGame.ROHints<15>"
+msgstr ""
+"Les mitrailleurs ne devraient jamais être installés seuls, trouvez-vous un "
+"camarade pour surveiller votre dos."
+
+msgid "DarkestHourGame.ROHints<17>"
+msgstr ""
+"Une fois que vous avez tiré au Bazooka ou au Panzerschreck, mettez vous à "
+"couvert RAPIDEMENT, car la fumée du tir révèle votre position. La riposte se "
+"fera presque certainement !"
+
+msgid "DarkestHourGame.ROHints<20>"
+msgstr ""
+"Les armes antichars seront automatiquement déchargées si vous changez "
+"d'arme. Il est judicieux de s'accompagner d'un coéquipier pour accélérer le "
+"rechargement en cas de besoin."
