@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-15 01:59+0000\n"
+"PO-Revision-Date: 2025-08-26 00:43+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ja/>\n"
@@ -91,3 +91,45 @@ msgstr "訂正"
 
 msgid "DHWeaponPickupTouchMessage.Controls<0>.Text"
 msgstr "拾う"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<7>"
+msgstr "分隊"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<9>"
+msgstr "分隊"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<10>"
+msgstr "分隊"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<11>"
+msgstr "分隊"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<12>"
+msgstr "分隊"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<13>"
+msgstr "分隊"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<14>"
+msgstr "分隊"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<15>"
+msgstr "分隊"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<17>"
+msgstr "分隊"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<18>"
+msgstr "分隊"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<19>"
+msgstr "分隊"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<6>"
+msgstr "分隊"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<8>"
+msgstr "分隊"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<16>"
+msgstr "分隊"
