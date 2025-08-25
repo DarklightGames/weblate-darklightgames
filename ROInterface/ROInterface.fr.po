@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-05 01:43+0000\n"
+"PO-Revision-Date: 2025-08-26 00:43+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/fr/>\n"
@@ -26,7 +26,6 @@ msgstr "Ordres"
 msgid "ROConsole.SMStateName[14]"
 msgstr "Sélectionner le receveur d'ordre..."
 
-#, fuzzy
 msgid "ROControlBinder.BindingLabel[0]"
 msgstr "Red Orchestra"
 
