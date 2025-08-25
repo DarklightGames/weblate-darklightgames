@@ -1,7 +1,103 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-08-26 00:43+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"Language-Team: French <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_vehicles/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.7.2\n"
+
+msgid "DH_AchillesCannon.nProjectileDescriptions<1>"
+msgstr "Mk.I APDS"
+
+msgid "DH_AchillesCannon.nProjectileDescriptions<0>"
+msgstr "Mk.IV APC"
+
+msgid "DH_AchillesCannon.nProjectileDescriptions<2>"
+msgstr "Mk.I HE-T"
+
+msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<0>"
+msgstr "Granata Perforante da 20"
+
+msgid "DH_BT7Cannon.nProjectileDescriptions<1>"
+msgstr "O-240"
+
+msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<1>"
+msgstr "M48 HE-T"
+
+msgid "DH_BA64ArmoredCar.VehicleNameString"
+msgstr "Automitrailleuse BA64"
+
+msgid "DH_BT7Tank.VehicleNameString"
+msgstr "BT-7"
+
+msgid "DH_AchillesTank.VehicleNameString"
+msgstr "Achilles Mk.IC"
+
+msgid "DH_Autoblinda43ArmoredCar.VehicleNameString"
+msgstr "Autoblinda 43"
+
+msgid "DH_AutoblindaArmoredCar.VehicleNameString"
+msgstr "Autoblinda 41"
+
+msgid "DH_AchillesCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<2>"
+msgstr "WP"
+
+msgid "DH_AchillesCannon.ProjectileDescriptions<1>"
+msgstr "APDS"
+
+msgid "DH_AchillesCannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_BT7Cannon.ProjectileDescriptions<0>"
+msgstr "APHE-T"
+
+msgid "DH_BT7Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_BrenCarrierTransport.VehicleNameString"
+msgstr "Bren Carrier Mk.I"
+
+msgid "DH_CV33Tank.VehicleNameString"
+msgstr "Carro Armato L3/33"
+
+msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<1>"
+msgstr "Granata da 20"
+
+msgid "DH_Autoblinda43Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Autoblinda43Cannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.38"
+
+msgid "DH_BT7Cannon.nProjectileDescriptions<0>"
+msgstr "BR-240"
+
+msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<0>"
+msgstr "M61 APC"
+
+msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<2>"
+msgstr "M89 WP"
+
+msgid "DH_AutocarrettaOM.VehicleNameString"
+msgstr "Autocarretta OM 36P"
+
+msgid "DH_AutocarrettaOMSupport.VehicleNameString"
+msgstr "Autocarretta OM 36Mt (Logistique)"
+
+msgid "DH_ChurchillMkVIITank.VehicleNameString"
+msgstr "Churchill Mk.VII"
