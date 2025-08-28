@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-23 23:43+0000\n"
+"PO-Revision-Date: 2025-08-29 12:43+0000\n"
 "Last-Translator: Baianormaster <baianormasterlol@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/pt/>\n"
@@ -356,3 +356,15 @@ msgstr "Manda mensagem privada"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsEnabled"
 msgstr "Ponto de resurgimento foi REABILITADO pelo ADM"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<2>"
+msgstr "Mande um aviso (com som)"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<3>"
+msgstr "Expulsar com mensagem"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<4>"
+msgstr "Mate esse jogador"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<5>"
+msgstr "Amordaçar esse jogado"
