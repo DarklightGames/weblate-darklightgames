@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-29 12:43+0000\n"
+"PO-Revision-Date: 2025-08-31 16:43+0000\n"
 "Last-Translator: Baianormaster <baianormasterlol@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/pt/>\n"
@@ -368,3 +368,9 @@ msgstr "Mate esse jogador"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText<5>"
 msgstr "Amordaçar esse jogado"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<6>"
+msgstr "Mude jogadores para o lado aliado"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<7>"
+msgstr "Mude jogadores para o lado do eixo"
