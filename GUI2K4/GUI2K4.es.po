@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-13 18:52+0000\n"
+"PO-Revision-Date: 2025-09-02 01:43+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/es/>\n"
@@ -94,37 +94,37 @@ msgid "UT2K4PerformWarn.HideCheckbox.Caption"
 msgstr "  No volver a mostrar esta advertencia"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[1]"
-msgstr "Media Bajo"
+msgstr "Muy bajos"
 
 msgid "UT2K4Tab_DetailSettings.BitDepthText[0]"
 msgstr "16-bits"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[2]"
-msgstr "Bajo"
+msgstr "Algo bajos"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[3]"
-msgstr "Bajo"
+msgstr "Bajos"
 
 msgid "UT2K4Tab_DetailSettings.ShadowOptions[0]"
-msgstr "Ninguno"
+msgstr "Sin sombras"
 
 msgid "UT2K4Tab_DetailSettings.ShadowOptions[1]"
-msgstr "Manchas"
+msgstr "Algunas Manchas"
 
 msgid "UT2K4Tab_DetailSettings.ShadowOptions[2]"
-msgstr "Completas"
+msgstr "Sombras Completas"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[4]"
 msgstr "Normal"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[5]"
-msgstr "Alto"
+msgstr "Altos"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[8]"
 msgstr "Demasiado alto"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[7]"
-msgstr "Muy Alto"
+msgstr "Muy Altos"
 
 msgid "ControlBinder.BindingLabel[41]"
 msgstr "Menú de voz"
@@ -145,7 +145,7 @@ msgid "UT2K4Tab_DetailSettings.PanelCaption"
 msgstr "Pantalla"
 
 msgid "UT2K4Tab_DetailSettings.DetailLevels[6]"
-msgstr "Muy Alto"
+msgstr "Algo altos"
 
 msgid "UT2K4GamePageBase.PanelCaption<2>"
 msgstr "Reglas del juego"
