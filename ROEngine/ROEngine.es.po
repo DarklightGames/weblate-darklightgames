@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-13 18:52+0000\n"
+"PO-Revision-Date: 2025-09-02 01:43+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/es/>\n"
@@ -21,13 +21,13 @@ msgid "ROVoicePack.SupportString[6]"
 msgstr "Alguien destruya esto!"
 
 msgid "ROVoicePack.SupportString[9]"
-msgstr "Necesito transporte!"
+msgstr "¡Necesito un transporte!"
 
 msgid "ROVoicePack.SupportAbbrev[1]"
 msgstr "Ayuda necesaria en..."
 
 msgid "ROVoicePack.SupportAbbrev[2]"
-msgstr "Necesito munición"
+msgstr "¡Necesito munición!"
 
 msgid "ROVoicePack.SupportAbbrev[6]"
 msgstr "Requiriendo demolición"
@@ -84,7 +84,7 @@ msgid "ROVoicePack.SupportAbbrev[9]"
 msgstr "Requiriendo transporte"
 
 msgid "ROGameMessage.NewPlayerMessage"
-msgstr "Un nuevo soldado a entrado al combate."
+msgstr "Un nuevo soldado ha entrado al combate."
 
 msgid "ROHud.ReinforcementText"
 msgstr "Refuerzos: "
@@ -168,7 +168,7 @@ msgid "ROVoicePack.SupportString[0]"
 msgstr "Necesitamos ayuda!"
 
 msgid "ROVoicePack.SupportString[2]"
-msgstr "Necesito munición!"
+msgstr "¡Necesito munición!"
 
 msgid "ROVoicePack.SupportString[7]"
 msgstr "Necesitamos un tanque!"
