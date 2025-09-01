@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-13 18:52+0000\n"
+"PO-Revision-Date: 2025-09-02 01:43+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/es/>\n"
@@ -248,10 +248,10 @@ msgid "ROTab_DetailSettings.DetailOptions[6]"
 msgstr "Personalizado"
 
 msgid "ROTab_DetailSettings.ScopeLevels[1]"
-msgstr "Texturizadas 2D"
+msgstr "Texturizadas (2D)"
 
 msgid "ROTab_DetailSettings.ScopeLevels[2]"
-msgstr "Modelos 3D Altos"
+msgstr "Modelos (3D) Altos"
 
 msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[0]"
 msgstr "Modelo"
@@ -485,7 +485,7 @@ msgid "ROTab_Controls.captions_comm[8]"
 msgstr "Cambiar al canal de voz del equipo"
 
 msgid "ROTab_DetailSettings.ScopeLevels[0]"
-msgstr "Modelos Bajo"
+msgstr "Modelos 3D bajos"
 
 msgid "ROUT2K4GamePageSP.PanelHint<0>"
 msgstr "nada"
