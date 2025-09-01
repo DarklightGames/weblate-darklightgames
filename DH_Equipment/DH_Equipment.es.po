@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-17 01:56+0000\n"
+"PO-Revision-Date: 2025-09-02 01:43+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/es/>\n"
@@ -19,7 +19,7 @@ msgid "DHShovelWarningMessage.CannotBeCrawling"
 msgstr "No puedes cavar mientras estas cuerpo a tierra."
 
 msgid "DHShovelItem.ItemName"
-msgstr "Pala"
+msgstr "Herramienta de atrincheramiento"
 
 msgid "DHWireCuttersItem.ItemName"
 msgstr "Cizallas"
@@ -61,10 +61,10 @@ msgid "DHBinocularsItemItalian.ItemName"
 msgstr "Fratelli Koristka 7x50"
 
 msgid "DHTrenchMaceItem.ItemName"
-msgstr "Club de Trinchera"
+msgstr "Palo de Trinchera"
 
 msgid "DHTrenchMaceItem_Bone.ItemName"
-msgstr "Club de huesos"
+msgstr "Palo de hueso"
 
 msgid "DHBrokenBottleItem.ItemName"
 msgstr "Vino Rosso 'Bass-net' Edición 2009"
