@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-31 16:43+0000\n"
+"PO-Revision-Date: 2025-09-02 01:43+0000\n"
 "Last-Translator: Baianormaster <baianormasterlol@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/pt/>\n"
@@ -374,3 +374,9 @@ msgstr "Mude jogadores para o lado aliado"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText<7>"
 msgstr "Mude jogadores para o lado do eixo"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<8>"
+msgstr "Aerotransportar jogadores para o objetivo"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<9>"
+msgstr "Aerotransportar jogador para o grid"
