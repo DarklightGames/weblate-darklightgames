@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-26 00:43+0000\n"
+"PO-Revision-Date: 2025-09-02 01:43+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
@@ -85,10 +85,10 @@ msgid "DHAmericanCannonPawn.RangeText"
 msgstr "yardas"
 
 msgid "DHATCannonMessage.NotQualified"
-msgstr "No estas cualificado para operar este cañón"
+msgstr "No estas calificado para operar este cañón."
 
 msgid "DHATCannonMessage.VehicleIsEnemy"
-msgstr "No puede usar un cañón enemigo"
+msgstr "No puedes usar este cañón enemigo"
 
 msgid "DHAlliedAssaultRoles.AltName"
 msgstr ""
@@ -106,7 +106,7 @@ msgid "DHAlliedSergeantRoles.PluralName"
 msgstr "Sargentos"
 
 msgid "DHArtillery.MenuName"
-msgstr "Artillería de largo alcance"
+msgstr "Artillería de gran calibre"
 
 msgid "DHAlliedAutoRifleRoles.PluralName"
 msgstr "Ametralladores ligeros"
@@ -133,7 +133,7 @@ msgid "DHAlliedRadioOperatorRoles.PluralName"
 msgstr "Operadores de Radio"
 
 msgid "DHArtillerySpottingScope.RangeHeaderString"
-msgstr "Alcance"
+msgstr "Alcance:"
 
 msgid "DHArtillerySpottingScope.NoTargetsHint"
 msgstr "No hay objetivos disponibles"
@@ -160,7 +160,7 @@ msgid "DHAxisMachineGunnerRoles.PluralName"
 msgstr "Ametralladores"
 
 msgid "DHAxisMarksmanRoles.MyName"
-msgstr "Tirador"
+msgstr "Tirador designado"
 
 msgid "DHAxisMortarmanRoles.PluralName"
 msgstr "Operadores de Mortero"
@@ -576,13 +576,13 @@ msgstr ""
 "sea necesario."
 
 msgid "DHATCannonMessage.GunIsRotating"
-msgstr "El cañón se esta rotando"
+msgstr "El cañón esta siendo rotando"
 
 msgid "DHATCannonMessage.CannotEnter"
 msgstr "El cañón esta siendo usado"
 
 msgid "DHATLoadFailMessage.CantLoad"
-msgstr "{0} debe estar en posición para ser recargado"
+msgstr "{0} debe estar en posición de disparo para ser recargado"
 
 msgid "DHAdminMessage.KickedFromSquadMessage"
 msgstr "El administrador '{0}' expulso '{1}' de la escuadra '{2}'."
@@ -606,16 +606,16 @@ msgid "DHArtillerySpottingScope.RightString"
 msgstr "Derecha"
 
 msgid "DHArtillerySpottingScope.DistanceString"
-msgstr "Distancia"
+msgstr "Distancia:"
 
 msgid "DHArtillerySpottingScope.CorrectionString"
-msgstr "Corrección"
+msgstr "Corrección de:"
 
 msgid "DHArtilleryTargetMessage.TargetInvalid"
 msgstr "Objetivo de artillería invalido"
 
 msgid "DHAxisAntiTankRoles.MyName"
-msgstr "Caza-Tanques"
+msgstr "Cazador de tanques"
 
 msgid "DHAxisAssaultRoles.MyName"
 msgstr "Tropa de Asalto"
@@ -681,7 +681,7 @@ msgid "DHArtillerySpottingScope.SelectTargetHint"
 msgstr "Presiona {0} para seleccionar un objetivo de artillería"
 
 msgid "DHArtilleryTargetMessage.TargetMarkedHE"
-msgstr "{0} ha marcado un objetivo de artillería de alto explosivo"
+msgstr "{0} ha marcado un objetivo de apoyo de alto explosivo"
 
 msgid "DHMainMenuGame.GameName"
 msgstr "Juego"
@@ -690,7 +690,7 @@ msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
 msgstr "Rotar"
 
 msgid "DHCommandMenu_LoneWolf.AutoJoinSquadDisabledText"
-msgstr "Sin escuadras para elegir"
+msgstr "No hay escuadras para elegir"
 
 msgid "DHHintManager.Hints[47].Text"
 msgstr ""
@@ -707,10 +707,10 @@ msgid "DHAccessControl.SessionBanned"
 msgstr "No puedes entrar a este servidor hasta que cambie el mapa."
 
 msgid "DHArtilleryMessage.ExhaustedText"
-msgstr "{name} ha sido gastada."
+msgstr "La {name} ha sido gastada."
 
 msgid "DHCommandMenu_FireSupport.AvailableArtilleryText"
-msgstr "Artillería: {0}"
+msgstr "Artillería de alto calibre: {0}"
 
 msgid "DHArtilleryMessage.ActiveTargetChosen"
 msgstr "Objetivo de artillería seleccionado."
@@ -802,19 +802,19 @@ msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
 msgstr "El administrador '{0}' promovió a '{1}' a líder de escuadra '{2}'."
 
 msgid "DHArtilleryMessage.NoTargetText"
-msgstr "Ninguna localización del objetivo."
+msgstr "No hay ninguna localización del objetivo."
 
 msgid "DHArtilleryMessage.NotQualifiedText"
 msgstr "No estas calificado para llamar a la {name}."
 
 msgid "DHArtilleryMessage.CancelledText"
-msgstr "{name} ha sido cancelada."
+msgstr "La {name} ha sido cancelada."
 
 msgid "DHArtillerySpottingScope.PitchHeaderString"
-msgstr "Inclinación"
+msgstr "Inclinación de:"
 
 msgid "DHArtilleryTargetMessage.TargetMarkedSmoke"
-msgstr "{0} ha marcado un objetivo de artillería de humo"
+msgstr "{0} ha marcado un objetivo de apoyo de humo"
 
 msgid "DHCommandMenu_Radio.CancelText"
 msgstr "En ruta (Cancelar)"
@@ -1042,7 +1042,7 @@ msgid "DHCommandMenu_ATGun.CannotBeRotatedText"
 msgstr "No se puede rotar"
 
 msgid "DHCommandMenu_ATGun.OccupiedText"
-msgstr "El cañón esta ocupado"
+msgstr "El cañón esta siendo ocupado"
 
 msgid "DHCommandMenu_ATGun.FatalText"
 msgstr "No se puede rotar"
@@ -1057,7 +1057,7 @@ msgid "DHCommandMenu_LoneWolf.Options<1>.ActionText"
 msgstr "Crear una escuadra"
 
 msgid "DHCommandMenu_SquadManageMember.Options<3>.SubjectText"
-msgstr "Promover a asistente"
+msgstr "Promover a Asistente"
 
 msgid "DHGameMessage.NewTeamMessageGerman"
 msgstr "{name} se ha unido a las fuerzas del Eje."
@@ -1261,22 +1261,22 @@ msgid "DHGetPassword.GetPassRetry.Caption"
 msgstr "Entregar"
 
 msgid "DHArtilleryMessage.ConfirmText"
-msgstr "{name} confirmada."
+msgstr "La {name} ha sido confirmada."
 
 msgid "DHHintManager.Hints[65].Title"
 msgstr "Semovente da 90/53"
 
 msgid "DHArtilleryMessage.DenyText"
-msgstr "{name} denegada."
+msgstr "La {name} ha sido denegada."
 
 msgid "DHArtilleryMessage.TooSoonText"
-msgstr "{name} se encuentra en uso. Intente mas tarde."
+msgstr "La {name} se encuentra en uso. Intente llamar mas tarde."
 
 msgid "DHArtilleryMessage.UnavailableText"
-msgstr "{name} no esta disponible en este momento."
+msgstr "La {name} no esta disponible en este momento."
 
 msgid "DHArtilleryMessage.BadLocationText"
-msgstr "Objetivo invalido para {name}."
+msgstr "Objetivo invalido para la {name}."
 
 msgid "DHHintManager.Hints[55].Title"
 msgstr "Granadas de impacto"
@@ -1340,7 +1340,7 @@ msgid "DHCommandMenu_FireSupport.InvalidTargetText"
 msgstr "Objetivo invalido"
 
 msgid "DHCommandMenu_Patron.Options<1>.ActionText"
-msgstr "Avistando"
+msgstr "Avistar"
 
 msgid "DHCommandMenu_Radio.UnavailableText"
 msgstr "No disponible"
@@ -1349,28 +1349,28 @@ msgid "DHCommandMenu_Radio.ExhaustedText"
 msgstr "Gastado"
 
 msgid "DHCommandMenu_SquadAssistant.Options<1>.ActionText"
-msgstr "Avistando"
+msgstr "Avistar"
 
 msgid "DHCommandMenu_SquadLeader.Options<0>.ActionText"
 msgstr "Crear punto de reunión"
 
 msgid "DHCommandMenu_SquadLeader.Options<1>.ActionText"
-msgstr "Fuego"
+msgstr "Disparar"
 
 msgid "DHCommandMenu_SquadLeader.Options<2>.ActionText"
 msgstr "Construcción"
 
 msgid "DHCommandMenu_SquadLeader.Options<4>.ActionText"
-msgstr "Avistando"
+msgstr "Avistar"
 
 msgid "DHCommandMenu_SquadLeader.Options<5>.ActionText"
 msgstr "Muévete acá"
 
 msgid "DHCommandMenu_SquadManageMember.Options<0>.SubjectText"
-msgstr "Expulsar de la escuadra"
+msgstr "Expulsar a miembro de la escuadra"
 
 msgid "DHCommandMenu_SquadManageMember.Options<4>.SubjectText"
-msgstr "Remover asistente"
+msgstr "Remover Asistente"
 
 msgid "DHCommandMenu_SquadManageNonMember.AlreadyInASquadText"
 msgstr "Ya esta en la escuadra"
@@ -1415,7 +1415,7 @@ msgid "DHConstructionErrorMessage.ErrorMessages<14>"
 msgstr "Tu equipo no {verb} mas {name} (Hasta alcanzar: {integer})."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<15>"
-msgstr "No hay depósito de suministros dentro de {integer} metros."
+msgstr "No hay depósitos de suministros dentro de {integer} metros."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<25>"
 msgstr "No puedes {verb} un {name} en territorio enemigo"
