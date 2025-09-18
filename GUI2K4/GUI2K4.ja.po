@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-18 19:51+0000\n"
+"PO-Revision-Date: 2025-09-19 21:57+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/ja/>\n"
@@ -610,3 +610,15 @@ msgstr "項目..."
 
 msgid "UT2K4SettingsPage.PanelCaption<1>"
 msgstr "オーディオ"
+
+msgid "UT2K4VideoChangeOK.SecondsText"
+msgstr "秒"
+
+msgid "UT2K4VideoChangeOK.SecondText"
+msgstr "秒"
+
+msgid "UT2K4Tab_HudSettings.PanelCaption"
+msgstr "HUD"
+
+msgid "UT2K4SettingsPage.PanelCaption<6>"
+msgstr "HUD"
