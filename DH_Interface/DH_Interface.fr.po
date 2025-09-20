@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-07 07:01+0000\n"
+"PO-Revision-Date: 2025-09-21 18:11+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHBrowser_Footer.BrowserBack.Caption"
 msgstr "Revenir"
@@ -269,3 +269,152 @@ msgstr "Administrateurs (Communauté)"
 
 msgid "DHCreditsPage.PastPatreonSupportersText"
 msgstr "Membres Patreon Passés"
+
+msgid "DHDeployMenu.SurrenderConfirmNominationText"
+msgstr ""
+"Cette action permettra de lancer un vote à l'échelle de l'équipe. Le vote "
+"commencera après que {0}% de l'équipe aura choisi de se retirer."
+
+msgid "DHDeployMenu.SurrenderConfirmEndRoundText"
+msgstr ""
+"Ceci mettra immédiatement fin à la partie en faveur de l'équipe adverse."
+
+msgid "DHDeployMenu.SurrenderButtonText[0]"
+msgstr "Se retirer du combat"
+
+msgid "DHDeployMenu.SurrenderButtonText[1]"
+msgstr "Continuer le combat"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<0>"
+msgstr "Erreur fatale !"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<1>"
+msgstr "Vous n'avez pas choisi d'équipe."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<2>"
+msgstr "La partie n'a pas encore commencé."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<3>"
+msgstr "Le vote de retraite est désactivé."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<4>"
+msgstr "Le vote est déjà en cours."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<5>"
+msgstr "Vous vous êtes déjà retirés du combat."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<6>"
+msgstr ""
+"Votre équipe a déjà voté pour battre en retraite. Essayez à nouveau plus "
+"tard."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<7>"
+msgstr "Vous ne pouvez pas vous retirer après la partie."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<9>"
+msgstr "Vous ne pouvez pas vous retirer aussi tôt."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<10>"
+msgstr "Vous ne pouvez pas vous retirer pendant la phase de préparation."
+
+msgid "DHDeployMenu.AlliesButtonObject.Hint"
+msgstr "Rejoindre les Alliés"
+
+msgid "DHDeployMenu.ArtilleryVehicleImageObject.Hint"
+msgstr "Véhicule d'Artillerie"
+
+msgid "DHDeployMenu.AxisButtonObject.Hint"
+msgstr "Rejoindre l'Axe"
+
+msgid "DHDeployMenu.ContinueButtonObject.Caption"
+msgstr "Continuer"
+
+msgid "DHDeployMenu.DisconnectButtonObject.Caption"
+msgstr "Se Déconnecter"
+
+msgid "DHDeployMenu.EquipmentButtonObject.Hint"
+msgstr "Équipement"
+
+msgid "DHDeployMenu.MapButtonObject.Hint"
+msgstr "Carte [F1]"
+
+msgid "DHDeployMenu.MapVoteButtonObject.Caption"
+msgstr "Vote de Carte"
+
+msgid "DHDeployMenu.MaxVehiclesImageObject.Hint"
+msgstr "Chars Disponibles"
+
+msgid "DHDeployMenu.RetreatButtonObject.Caption"
+msgstr "Se Retirer"
+
+msgid "DHDeployMenu.RoundTimeLabelObject.Hint"
+msgstr "Temps Restant"
+
+msgid "DHDeployMenu.ServersButtonObject.Caption"
+msgstr "Serveurs"
+
+msgid "DHDeployMenu.SettingsButtonObject.Caption"
+msgstr "Paramètres"
+
+msgid "DHDeployMenu.SpectateButtonObject.Hint"
+msgstr "Spectateur"
+
+msgid "DHDeployMenu.SquadsButtonObject.Hint"
+msgstr "Groupes [F1]"
+
+msgid "DHDeployMenu.SuicideButtonObject.Caption"
+msgstr "Se Suicider"
+
+msgid "DHDeployMenu.SupplyVehicleImageObject.Hint"
+msgstr "Véhicule de Construction"
+
+msgid "DHDeployMenu.VehicleButtonObject.Hint"
+msgstr "Véhicules"
+
+msgid "DHEditFavoritePage.UnknownText"
+msgstr "Serveur Inconnu"
+
+msgid "DHEditFavoritePage.IpEntryBox.Caption"
+msgstr "Adresse IP : "
+
+msgid "DHFilterEdit.ComboOpts[0]"
+msgstr "N'importe pas"
+
+msgid "DHFilterEdit.ComboOpts[1]"
+msgstr "Doit être activé"
+
+msgid "DHFilterEdit.ComboOpts[2]"
+msgstr "Doit être désactivé"
+
+msgid "DHFilterEdit.MutOpts[0]"
+msgstr "Aucun Mutateur"
+
+msgid "DHFilterEdit.MutOpts[1]"
+msgstr "Tous Mutateurs"
+
+msgid "DHFilterEdit.MutOpts[2]"
+msgstr "Personnalisé"
+
+msgid "DHFilterEdit.WindowName"
+msgstr "Règles de filtrage..."
+
+msgid "DHFilterEdit.bCancel.Caption"
+msgstr "Annuler"
+
+msgid "DHFilterEdit.bOk.Caption"
+msgstr "OK"
+
+msgid "DHFilterEdit.cbMutators.Caption"
+msgstr "Mutateurs :"
+
+msgid "DHFilterEdit.cbStats.Caption"
+msgstr "Serveurs de Statistiques :"
+
+msgid "DHFilterEdit.ckBots.Caption"
+msgstr "Pas de Bots"
+
+msgid "DHFilterEdit.ckEmpty.Caption"
+msgstr "Pas de Serveurs Vides"
+
+msgid "DHFilterEdit.ckFull.Caption"
+msgstr "Pas de Serveurs Pleins"
