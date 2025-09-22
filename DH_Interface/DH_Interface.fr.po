@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-21 18:11+0000\n"
+"PO-Revision-Date: 2025-09-22 23:34+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/fr/>\n"
@@ -418,3 +418,213 @@ msgstr "Pas de Serveurs Vides"
 
 msgid "DHFilterEdit.ckFull.Caption"
 msgstr "Pas de Serveurs Pleins"
+
+msgid "DHFilterEdit.ckPassworded.Caption"
+msgstr "Pas de Serveurs à MDP"
+
+msgid "DHFilterEdit.ckVACOnly.Caption"
+msgstr "Protégés par VAC Seulement"
+
+msgid "DHFilterEdit.ebName.Caption"
+msgstr "Nom du Filtre :"
+
+msgid "DHFilterEdit.sbMutators.Caption"
+msgstr "Configuration de Mutateur Perso"
+
+msgid "DHFilterEdit.sbOptions.Caption"
+msgstr "Options..."
+
+msgid "DHFilterListPage.bCancel.Caption"
+msgstr "Annuler"
+
+msgid "DHFilterListPage.bCreate.Caption"
+msgstr "Créer"
+
+msgid "DHFilterListPage.bEdit.Caption"
+msgstr "Modifier"
+
+msgid "DHFilterListPage.bOk.Caption"
+msgstr "OK"
+
+msgid "DHFilterListPage.bRemove.Caption"
+msgstr "Retirer"
+
+msgid "DHFilterListPage.sbBackground.Caption"
+msgstr "Filtres..."
+
+msgid "DHGUIDynArrayPage.LockedCancelButton.Caption"
+msgstr "Annuler"
+
+msgid "DHGUIDynArrayPage.LockedOKButton.Caption"
+msgstr "OK"
+
+msgid "DHGUIMapComponent.SquadRallyPointDestroyText"
+msgstr "Détruire Point de Ralliement"
+
+msgid "DHGUIMapComponent.SquadRallyPointSetAsSecondaryText"
+msgstr "Rendre Secondaire"
+
+msgid "DHGUIMapComponent.RemoveText"
+msgstr "Retirer {0}"
+
+msgid "DHGUIMapComponent.ActiveTargetSelectText"
+msgstr "Sélectionner comme Cible Active"
+
+msgid "DHGUIMapComponent.ActiveTargetDeselectText"
+msgstr "Désélectionner Cible Active"
+
+msgid "DHGUIMapComponent.AdminPlaceAlliedSpawnText"
+msgstr "ADMIN : Placer spawn ALLIÉ"
+
+msgid "DHGUIMapComponent.AdminPlaceAxisSpawnText"
+msgstr "ADMIN : Placer spawn AXE"
+
+msgid "DHGUIMapComponent.AdminDestroyAlliedSpawnsText"
+msgstr "ADMIN : Détruit spawns admin ALLIÉS"
+
+msgid "DHGUIMapComponent.AdminDestroyAxisSpawnsText"
+msgstr "ADMIN : Détruire spawns admins AXE"
+
+msgid "DHGUIMapComponent.AdminDestroySpawnText"
+msgstr "ADMIN : Détruire spawn"
+
+msgid "DHGUIMapComponent.AdminTeleportText"
+msgstr "ADMIN : Se téléporter ici"
+
+msgid "DHGUISquadComponent.CreateSquadButton.Caption"
+msgstr "Créer Groupe"
+
+msgid "DHGUISquadComponent.JoinSquadButton.Caption"
+msgstr "Rejoindre Groupe"
+
+msgid "DHGUISquadComponent.LeaveSquadButton.Caption"
+msgstr "Quitter Groupe"
+
+msgid "DHGUISquadComponent.NoRallyPointsImage.Hint"
+msgstr ""
+"Ce groupe n'a pas eu de points de ralliement depuis un certain temps. Les "
+"options de déploiement peuvent être limitées !"
+
+msgid "DHGUITeamSelection.SizeBonusText"
+msgstr "proportion des forces"
+
+msgid "DHGUITeamSelection.UnitsText"
+msgstr " joueurs"
+
+msgid "DHGUITeamSelection.AutoSelect.Caption"
+msgstr "Auto-sélection"
+
+msgid "DHGUITeamSelection.Disconnect.Caption"
+msgstr "Déconnexion"
+
+msgid "DHGUITeamSelection.SettingsButtonObject.Caption"
+msgstr "Paramètres"
+
+msgid "DHGUITeamSelection.Spectate.Caption"
+msgstr "Spectateur"
+
+msgid "DHGUITeamSelection.TeamsCount.Caption"
+msgstr "? joueurs"
+
+msgid "DHGUITeamSelection.TeamsCount2.Caption"
+msgstr "? joueurs"
+
+msgid "DHGameFooterMP.GameBackButton.Caption"
+msgstr "Retour"
+
+msgid "DHGameFooterSP.GameBackButton.Caption"
+msgstr "Retour"
+
+msgid "DHGamePageMP.MPFooter.PrimaryCaption"
+msgstr "Listen"
+
+msgid "DHGamePageMP.MPFooter.SecondaryCaption"
+msgstr "Dédié"
+
+msgid "DHGamePageSP.NoBotsWarningText"
+msgstr ""
+"Darkest Hour : Europe '44-'45 se concentre uniquement sur le multi-joueur et "
+"en conséquence ne prévoit pas de bots en mode Entraînement."
+
+msgid "DHGamePageSP.PageCaption"
+msgstr "Entraînement"
+
+msgid "DHGamePageSP.SPFooter.PrimaryCaption"
+msgstr "Lancer Partie d'Entraînement"
+
+msgid "DHGetDataMenu.CancelButton.Caption"
+msgstr "ANNULER"
+
+msgid "DHGetDataMenu.CancelButton.Hint"
+msgstr "Fermez ce menu, en ignorant les modifications."
+
+msgid "DHGetDataMenu.OkButton.Caption"
+msgstr "OK"
+
+msgid "DHIAMultiColumnRulesPanel.AdvancedButton.Caption"
+msgstr "Voir Options Avancées"
+
+msgid "DHLearnToPlayFooter.GameBackButton.Caption"
+msgstr "Retour"
+
+msgid "DHLearnToPlayPage.PanelCaption<0>"
+msgstr "Guides Vidéo"
+
+msgid "DHLearnToPlayPage.PanelHint<0>"
+msgstr "Renseignez-vous sur le jeu en regardant une vidéo"
+
+msgid "DHLearnToPlayPage.LearnToPlayHeader.Caption"
+msgstr "Apprendre à Jouer"
+
+msgid "DHMOTDConfigPage.LockedCancelButton.Caption"
+msgstr "Annuler"
+
+msgid "DHMOTDConfigPage.LockedOKButton.Caption"
+msgstr "OK"
+
+msgid "DHMainMenu.SteamMustBeRunningText"
+msgstr ""
+"Steam doit être en marche et vous devez avoir une connexion internet active "
+"pour jouer au mode multijoueur"
+
+msgid "DHMainMenu.MOTDErrorString"
+msgstr "Erreur : impossible de télécharger le fil d'actualités ({0})"
+
+msgid "DHMainMenu.ControlsChangedMessage"
+msgstr ""
+"De nouveaux contrôles ont été ajoutés au jeu. En conséquence, vos paramètres "
+"antérieurs peuvent avoir été modifiés.|| Voulez-vous revoir vos paramètres "
+"de contrôle ?"
+
+msgid "DHMainMenu.BadConfigMessage"
+msgstr ""
+"Il y a un problème avec votre fichier de configuration, cliquez sur "
+"continuer pour quitter le jeu et ouvrez un guide sur la façon de réparer "
+"votre fichier de configuration."
+
+msgid "DHMainMenu.CreditsButton.Caption"
+msgstr "Remerciements"
+
+msgid "DHMainMenu.DiscordButton.Hint"
+msgstr "Rejoignez-nous sur Discord !"
+
+msgid "DHMainMenu.FacebookButton.Hint"
+msgstr "Suivez-nous sur Facebook !"
+
+msgid "DHMainMenu.GitHubButton.Hint"
+msgstr "Rejoignez-nous sur GitHub !"
+
+msgid "DHMainMenu.InstantActionButton.Caption"
+msgstr "Entraînement"
+
+msgid "DHMainMenu.QuitButton.Caption"
+msgstr "Quitter"
+
+msgid "DHMainMenu.ServerButton.Caption"
+msgstr "Liste de Serveurs"
+
+msgid "DHMainMenu.SettingsButton.Caption"
+msgstr "Options"
+
+msgid "DHMainMenu.SteamCommunityButton.Hint"
+msgstr "Rejoignez la communauté Steam !"
