@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-22 23:34+0000\n"
+"PO-Revision-Date: 2025-09-24 18:34+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/fr/>\n"
@@ -628,3 +628,98 @@ msgstr "Options"
 
 msgid "DHMainMenu.SteamCommunityButton.Hint"
 msgstr "Rejoignez la communauté Steam !"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<0>"
+msgstr "Cartes Nominées"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<1>"
+msgstr "Poids de Vote"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<2>"
+msgstr "Taille de Carte"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<0>"
+msgstr "Le nom de la carte."
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<1>"
+msgstr "La puissance de vote combinée pour cette carte."
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<2>"
+msgstr "Joueurs recommandés pour la carte."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<0>"
+msgstr "Nom de Carte"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<1>"
+msgstr "Nation Alliée"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<2>"
+msgstr "Nation de l'Axe"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<3>"
+msgstr "Mode de Jeu"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<4>"
+msgstr "Taille de Carte"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<0>"
+msgstr "Le nom de la carte."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<1>"
+msgstr "Le pays Allié pour la carte."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<2>"
+msgstr "La pays de l'Axe pour la carte."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<3>"
+msgstr "Le mode de jeu pour la carte."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<4>"
+msgstr "Nombre de joueurs recommandés pour la carte."
+
+msgid "DHMapVoteMultiColumnListBox.AdminMapContextMenu.ContextItems<0>"
+msgstr "ADMIN : Forcer la carte à ceci"
+
+msgid "DHMapVotingPage.lmsgMapOutOfBounds"
+msgstr ""
+"Veuillez voter pour une carte adaptée au nombre actuel de joueurs. Vous "
+"pouvez toujours voter pour cette carte sur la liste complète."
+
+msgid "DHMapVotingPage.NoRestartMapPrivilegeText"
+msgstr ""
+"Vous n'avez pas suffisamment de privilèges d'admin pour redémarrer une carte "
+"!"
+
+msgid "DHMapVotingPage.NoChangeMapPrivilegeText"
+msgstr ""
+"Vous n'avez pas suffisamment de privilèges d'admin pour changer une carte !"
+
+msgid "DHMapVotingPage.lmsgMode[0]"
+msgstr "La Majorité Gagne"
+
+msgid "DHMapVotingPage.FilterClearButton.Caption"
+msgstr "Effacer"
+
+msgid "DHMapVotingPage.FilterEditbox.Caption"
+msgstr "Chercher"
+
+msgid "DHMapVotingPage.GameTypeCombo.Caption"
+msgstr "Filtrer Mode de Jeu :"
+
+msgid "DHMaplistEditor.ActiveBackground.Caption"
+msgstr "Cartes Sélectionnées"
+
+msgid "DHMaplistEditor.AddAllButton.Caption"
+msgstr "Ajouter Tout"
+
+msgid "DHMaplistEditor.AddButton.Caption"
+msgstr "Ajouter"
+
+msgid "DHMaplistEditor.AvailBackground.Caption"
+msgstr "Cartes Disponibles"
+
+msgid "DHMaplistEditor.DeleteMaplistButton.Caption"
+msgstr "Supprimer"
+
+msgid "DHMaplistEditor.MapListSectionBackground.Caption"
+msgstr "Liste Cartes Sauvegardées"
