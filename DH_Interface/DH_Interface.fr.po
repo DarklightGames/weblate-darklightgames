@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-24 18:34+0000\n"
+"PO-Revision-Date: 2025-09-28 21:12+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/fr/>\n"
@@ -723,3 +723,51 @@ msgstr "Supprimer"
 
 msgid "DHMaplistEditor.MapListSectionBackground.Caption"
 msgstr "Liste Cartes Sauvegardées"
+
+msgid "DHMaplistEditor.MoveDownButton.Caption"
+msgstr "Bas"
+
+msgid "DHMaplistEditor.MoveUpButton.Caption"
+msgstr "Haut"
+
+msgid "DHMaplistEditor.NewMaplistButton.Caption"
+msgstr "Nouveau"
+
+msgid "DHMaplistEditor.RemoveAllButton.Caption"
+msgstr "Supprimer Tout"
+
+msgid "DHMaplistEditor.RemoveButton.Caption"
+msgstr "Supprimer"
+
+msgid "DHMaplistEditor.RenameMaplistButton.Caption"
+msgstr "Renommer"
+
+msgid "DHMidGameVoiceChat.NOSPEECH.Caption"
+msgstr "Ignorer Commandes Vocales"
+
+msgid "DHMidGameVoiceChat.NOSPEECH.Hint"
+msgstr "Ne pas recevoir de commandes vocales, tel que 'À couvert' de ce joueur"
+
+msgid "DHMutatorConfigMenu.AdvancedButton.Caption"
+msgstr "Voir Options Avancées"
+
+msgid "DHMutatorConfigMenu.LockedCancelButton.Caption"
+msgstr "Annuler"
+
+msgid "DHMutatorConfigMenu.LockedOKButton.Caption"
+msgstr "OK"
+
+msgid "DHNetworkStatusMessage.NetStatOk.Caption"
+msgstr "OK"
+
+msgid "DHNetworkStatusMsg.StatusMessages[12]"
+msgstr ""
+"Vous avez été expulsés pour le reste de la partie.||Si un administrateur ne "
+"vous a pas puni, c'est la sanction par défaut pour le tir fratricide, alors "
+"ne le faites pas."
+
+msgid "DHNetworkStatusMsg.StatusTitle[12]"
+msgstr "Expulsé pour la Session"
+
+msgid "DHPerformanceWarning.OkButton.Caption"
+msgstr "OK"
