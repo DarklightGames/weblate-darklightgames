@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-30 17:58+0000\n"
+"PO-Revision-Date: 2025-10-01 00:53+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/fr/>\n"
@@ -783,3 +783,150 @@ msgstr "Êtes-vous sûr de vouloir quitter ?"
 
 msgid "DHQuitPage.YesButton.Caption"
 msgstr "OUI"
+
+msgid "DHScoreBoard.MunitionPercentageText"
+msgstr "Munitions"
+
+msgid "DHScoreBoard.PlayersText"
+msgstr "Joueurs"
+
+msgid "DHScoreBoard.TickHealthText"
+msgstr "Ticks : "
+
+msgid "DHScoreBoard.NetHealthText"
+msgstr "Pertes : "
+
+msgid "DHScoreBoard.NoPlayersText"
+msgstr "Aucun joueurs"
+
+msgid "DHScoreBoard.ScoreboardColumns<0>.Title"
+msgstr "#"
+
+msgid "DHScoreBoard.ScoreboardColumns<2>.Title"
+msgstr "Rôle"
+
+msgid "DHScoreBoard.ScoreboardColumns<5>.Title"
+msgstr "K"
+
+msgid "DHScoreBoard.ScoreboardColumns<6>.Title"
+msgstr "D"
+
+msgid "DHScoreBoard.ScoreboardColumns<7>.Title"
+msgstr "Score"
+
+msgid "DHScoreBoard.ScoreboardColumns<8>.Title"
+msgstr "Ping"
+
+msgid "DHServerBrowser.WelcomeMessageText"
+msgstr ""
+"Bienvenue sur Darkest Hour : Europe '44-'45 ! Assurez-vous de rejoindre la "
+"communauté Discord forte de 5000 personnes pour discuter du jeu, faire des "
+"suggestions, ou signaler tout bug ! Rendez-vous sur le champ de bataille !"
+
+msgid "DHServerBrowser.WelcomeMessageDiscordButtonText"
+msgstr "Rejoindre Discord"
+
+msgid "DHServerBrowser.WelcomeMessagePlayButtonText"
+msgstr "Jouer !"
+
+msgid "DHServerBrowser.PanelCaption<0>"
+msgstr "Favoris"
+
+msgid "DHServerBrowser.PanelCaption<1>"
+msgstr "LAN"
+
+msgid "DHServerBrowser.PanelCaption<2>"
+msgstr "Internet"
+
+msgid "DHServerBrowser.PanelCaption<3>"
+msgstr "LAN"
+
+msgid "DHServerBrowser.PanelCaption<4>"
+msgstr "Internet"
+
+msgid "DHServerBrowser.PanelCaption<5>"
+msgstr "Internet"
+
+msgid "DHServerBrowser.PanelHint<0>"
+msgstr "Choisissez un serveur parmi vos favoris"
+
+msgid "DHServerBrowser.PanelHint<1>"
+msgstr ""
+"Visualisez tous les serveurs actuellement en cours d'exécution sur votre "
+"réseau local"
+
+msgid "DHServerBrowser.PanelHint<2>"
+msgstr "Choisissez parmi les serveurs à travers le monde"
+
+msgid "DHServerBrowser.PanelHint<3>"
+msgstr ""
+"Visualisez tous les serveurs actuellement en cours d'exécution sur votre "
+"réseau local"
+
+msgid "DHServerBrowser.PanelHint<4>"
+msgstr "Choisissez parmi des centaines de serveurs à travers le monde"
+
+msgid "DHServerBrowser.PanelHint<5>"
+msgstr "Choisissez parmi des centaines de serveurs à travers le monde"
+
+msgid "DHServerBrowser.GameTypeCombo.Caption"
+msgstr "Mode de Jeu"
+
+msgid "DHServerBrowser.ServerBrowserHeader.Caption"
+msgstr "Liste de Serveurs"
+
+msgid "DHServerLoading.AuthorText"
+msgstr "Auteur : {0}"
+
+msgid "DHServerLoading.DeployingText"
+msgstr "En marche pour {0}"
+
+msgid "DHSettingsPage.PanelCaption<0>"
+msgstr "Jeu"
+
+msgid "DHSettingsPage.PanelCaption<1>"
+msgstr "Affichage"
+
+msgid "DHSettingsPage.PanelCaption<2>"
+msgstr "Son"
+
+msgid "DHSettingsPage.PanelCaption<3>"
+msgstr "Contrôles"
+
+msgid "DHSettingsPage.PanelCaption<4>"
+msgstr "Souris / Manette"
+
+msgid "DHSettingsPage.PanelCaption<5>"
+msgstr "Interface"
+
+msgid "DHSettingsPage.PanelHint<0>"
+msgstr "Configurer les options liées au jeu et au réseau..."
+
+msgid "DHSettingsPage.PanelHint<1>"
+msgstr ""
+"Sélectionnez votre résolution d'écran ou changez vos paramètres d'affichage "
+"et de détail..."
+
+msgid "DHSettingsPage.PanelHint<2>"
+msgstr "Ajustez votre expérience audio..."
+
+msgid "DHSettingsPage.PanelHint<3>"
+msgstr "Configurez vos commandes de clavier et de souris..."
+
+msgid "DHSettingsPage.PanelHint<4>"
+msgstr "Configurer les options d'entrée diverses..."
+
+msgid "DHSettingsPage.PanelHint<5>"
+msgstr "Personnalisez votre interface lors d'une partie..."
+
+msgid "DHSettingsPage.SettingHeader.Caption"
+msgstr "Options"
+
+msgid "DHSettings_Footer.BackB.Caption"
+msgstr "Retour"
+
+msgid "DHSettings_Footer.DefaultB.Caption"
+msgstr "Par Défaut"
+
+msgid "DHSituationMapGUIPage.EnableMouseControlPrompt"
+msgstr "Appuyez sur [%JUMP%] pour activer la souris"
