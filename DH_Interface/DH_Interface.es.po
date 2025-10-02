@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-01 19:41+0000\n"
+"PO-Revision-Date: 2025-10-03 22:58+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/es/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHBrowser_OpenIP.IPDesc.Caption"
 msgstr "Introduce nueva dirección IP"
@@ -258,7 +258,7 @@ msgid "DHMainMenu.GitHubButton.Hint"
 msgstr "¡Únete a nosotros en GitHub!"
 
 msgid "DHMainMenu.InstantActionButton.Caption"
-msgstr "Práctica"
+msgstr "Modo Práctica"
 
 msgid "DHMainMenu.PatreonButton.Hint"
 msgstr "¡Apóyanos en Patreon!"
