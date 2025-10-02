@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-02 01:43+0000\n"
+"PO-Revision-Date: 2025-10-03 22:58+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/es/>\n"
@@ -9,16 +9,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "ROVoicePack.SupportString[4]"
-msgstr "Necesitamos apoyo de MG!"
+msgstr "¡Necesitamos apoyo de ametralladoras!"
 
 msgid "ROVoicePack.SupportString[5]"
-msgstr "Necesitamos un rifle AT!"
+msgstr "¡Necesitamos un rifle antitanque!"
 
 msgid "ROVoicePack.SupportString[6]"
-msgstr "Alguien destruya esto!"
+msgstr "¡Alguien destruya esto!"
 
 msgid "ROVoicePack.SupportString[9]"
 msgstr "¡Necesito un transporte!"
@@ -30,25 +30,25 @@ msgid "ROVoicePack.SupportAbbrev[2]"
 msgstr "¡Necesito munición!"
 
 msgid "ROVoicePack.SupportAbbrev[6]"
-msgstr "Requiriendo demolición"
+msgstr "Requerir demolición"
 
 msgid "ROVoicePack.SupportAbbrev[7]"
 msgstr "Requiero un tanque"
 
 msgid "ROVoicePack.EnemyString[0]"
-msgstr "Infantería avistada!"
+msgstr "¡Infantería avistada!"
 
 msgid "ROVoicePack.EnemyString[1]"
-msgstr "Posición de MG!"
+msgstr "¡Posición de ametralladora!"
 
 msgid "ROVoicePack.EnemyString[3]"
-msgstr "Ingeniero!"
+msgstr "¡Ingeniero enemigo!"
 
 msgid "ROVoicePack.EnemyString[4]"
-msgstr "Soldado Antitanque!"
+msgstr "¡Soldado Antitanque enemigo!"
 
 msgid "ROVoicePack.EnemyString[5]"
-msgstr "Vehículo ligero!"
+msgstr "¡Vehículo ligero enemigo!"
 
 msgid "ROTeamGame.PropsDisplayText[4]"
 msgstr "Jugadores Maximos"
@@ -57,13 +57,13 @@ msgid "ROTeamGame.PropsDisplayText[5]"
 msgstr "Tiempo limite"
 
 msgid "ROVoicePack.SupportAbbrev[3]"
-msgstr "Solicitamos francotirador"
+msgstr "Solicitar francotirador"
 
 msgid "ROVoicePack.SupportAbbrev[4]"
-msgstr "Apoyo de ametralladoras aqui"
+msgstr "Apoyo de ametralladoras aquí"
 
 msgid "ROVoicePack.SupportAbbrev[8]"
-msgstr "Requerimos la artilleria"
+msgstr "Requerimos artilleria"
 
 msgid "ROTeamGame.PropsDisplayText[3]"
 msgstr "Máximo Espectadores"
@@ -78,10 +78,10 @@ msgid "ROGameMessage.YouHaveLoggedInAsAdminMsg"
 msgstr "Te has registrado como un administrador"
 
 msgid "ROVoicePack.SupportString[3]"
-msgstr "Solicito un francotirador aqui!"
+msgstr "¡Solicito un francotirador aqui!"
 
 msgid "ROVoicePack.SupportAbbrev[9]"
-msgstr "Requiriendo transporte"
+msgstr "Requiero transporte"
 
 msgid "ROGameMessage.NewPlayerMessage"
 msgstr "Un nuevo soldado ha entrado al combate."
@@ -114,13 +114,13 @@ msgid "ROVoicePack.SupportAbbrev[0]"
 msgstr "Ayuda necesaria"
 
 msgid "ROVoicePack.SupportAbbrev[5]"
-msgstr "Necesitamos un rifle AT"
+msgstr "Necesitamos un rifle antitanque"
 
 msgid "ROPlayer.SpectatingModeName[0]"
 msgstr "Vista propia"
 
 msgid "ROPlayer.SpectatingModeName[1]"
-msgstr "Itinerancia"
+msgstr "Vista libre"
 
 msgid "ROPlayer.SpectatingModeName[2]"
 msgstr "Viendo jugadores"
@@ -129,7 +129,7 @@ msgid "ROPlayer.SpectatingModeName[3]"
 msgstr "Modo de vista de espectador"
 
 msgid "ROVoicePack.EnemyString[2]"
-msgstr "Francotirador!"
+msgstr "¡Francotirador enemigo!"
 
 msgid "RORoundOverMsg.AxisWins"
 msgstr "¡Las fuerzas del Eje han ganado la batalla!"
@@ -165,22 +165,22 @@ msgid "ROTeamGame.PropsDisplayText[20]"
 msgstr "Espera en la red"
 
 msgid "ROVoicePack.SupportString[0]"
-msgstr "Necesitamos ayuda!"
+msgstr "¡Necesitamos ayuda!"
 
 msgid "ROVoicePack.SupportString[2]"
 msgstr "¡Necesito munición!"
 
 msgid "ROVoicePack.SupportString[7]"
-msgstr "Necesitamos un tanque!"
+msgstr "¡Necesitamos un tanque!"
 
 msgid "ROVoicePack.SupportString[8]"
-msgstr "Danos Artillería!"
+msgstr "¡Danos Artillería!"
 
 msgid "ROVoicePack.SupportStringAxis[5]"
-msgstr "Necesitamos un Panzerfaust!"
+msgstr "¡Necesitamos un Panzerfaust!"
 
 msgid "ROVoicePack.SupportAbbrevAxis[5]"
-msgstr "Necesito un Panzerfaust"
+msgstr "Solicito un Panzerfaust"
 
 msgid "ROTeamGame.PropsDisplayText[2]"
 msgstr "Velocidad del juegp"
@@ -252,13 +252,13 @@ msgid "ROTeamGame.PropsDisplayText[36]"
 msgstr "Sobrepasar jugadores máximos"
 
 msgid "ROVoicePack.EnemyString[6]"
-msgstr "¡Tanque! ¡Tanque!"
+msgstr "¡Tanque enemigo!"
 
 msgid "ROVoicePack.EnemyString[7]"
-msgstr "¡Tanque pesado!"
+msgstr "¡Tanque pesado enemigo!"
 
 msgid "ROVoicePack.EnemyString[8]"
-msgstr "¡Artillería!"
+msgstr "¡Artillería enemiga!"
 
 msgid "ROVoicePack.EnemyAbbrev[0]"
 msgstr "Infantería avistada"
@@ -294,7 +294,7 @@ msgid "ROVoicePack.AlertString[0]"
 msgstr "¡Granada!"
 
 msgid "ROVoicePack.AlertString[1]"
-msgstr "¡Vamos vamos!"
+msgstr "¡Vamos vamos vamos!"
 
 msgid "ROVoicePack.AlertString[3]"
 msgstr "¡Alto!"
@@ -303,7 +303,7 @@ msgid "ROVoicePack.AlertString[4]"
 msgstr "¡Sigueme!"
 
 msgid "ROVoicePack.AlertString[5]"
-msgstr "¡Carga colocada!"
+msgstr "¡Carga explosiva colocada!"
 
 msgid "ROVoicePack.AlertString[6]"
 msgstr "¡Fuego de cobertura!"
@@ -315,7 +315,7 @@ msgid "ROVoicePack.AlertAbbrev[4]"
 msgstr "Sígueme"
 
 msgid "ROVoicePack.AlertAbbrev[7]"
-msgstr "Fuego aliado"
+msgstr "Fuego amigo"
 
 msgid "ROVoicePack.AlertAbbrev[8]"
 msgstr "Bajo ataque en objetivo"
@@ -327,13 +327,13 @@ msgid "ROVoicePack.VehicleDirectionString[1]"
 msgstr "Muévete adelante"
 
 msgid "ROVoicePack.AlertString[7]"
-msgstr "¡Fuego amigo!"
+msgstr "¡Fuego aliado! ¡No disparen!"
 
 msgid "ROVoicePack.AlertString[9]"
 msgstr "¡Retirada!"
 
 msgid "ROVoicePack.AlertAbbrev[1]"
-msgstr "Vamos vamos"
+msgstr "Vamos vamos vamos"
 
 msgid "ROVoicePack.VehicleDirectionString[3]"
 msgstr "Muévete atrás"
@@ -351,7 +351,7 @@ msgid "ROVoicePack.AlertAbbrev[3]"
 msgstr "Alto"
 
 msgid "ROVoicePack.AlertAbbrev[5]"
-msgstr "Carga colocada"
+msgstr "Carga explosiva colocada"
 
 msgid "ROVoicePack.VehicleDirectionString[2]"
 msgstr "Alto"
@@ -411,13 +411,13 @@ msgid "ROVoicePack.VehicleAlertAbbrev[6]"
 msgstr "Negativo"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[7]"
-msgstr "Nos quemamos"
+msgstr "Nos estamos quemando"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[8]"
 msgstr "Salir de aquí"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[9]"
-msgstr "Cargado"
+msgstr "Proyectil cargado"
 
 msgid "ROVoicePack.ExtraString[2]"
 msgstr "*Insulto*"
@@ -483,7 +483,7 @@ msgid "ROVoicePack.OrderAbbrev[6]"
 msgstr "Enfrentarlos"
 
 msgid "ROVoicePack.EnemyAbbrev[3]"
-msgstr "¡Ingeniero!"
+msgstr "Ingeniero"
 
 msgid "ROVoicePack.EnemyAbbrev[7]"
 msgstr "Tanque pesado"
@@ -552,7 +552,7 @@ msgid "ROVoicePack.VehicleAlertString[3]"
 msgstr "¡Enemigo detrás de nosotros!"
 
 msgid "ROVoicePack.ExtraAbbrev[1]"
-msgstr "No hay retirada"
+msgstr "Sin retirada"
 
 msgid "ROVoicePack.OrderString[4]"
 msgstr "¡Atacadlos!"
