@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-02 01:43+0000\n"
+"PO-Revision-Date: 2025-10-03 22:58+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/es/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "ROControlBinder.BindingLabel[63]"
 msgstr "Usar"
@@ -81,7 +81,7 @@ msgid "ROControlBinder.BindingLabel[73]"
 msgstr "Menú"
 
 msgid "ROControlBinder.BindingLabel[80]"
-msgstr "Vehicle Say"
+msgstr "Dice en vehículo"
 
 msgid "ROGUIRoleSelection.TeamSwitchErrorGameHasStarted"
 msgstr ""
@@ -197,13 +197,13 @@ msgid "ROUT2K4GamePageSP.PanelHint<4>"
 msgstr "Configurar cualquier bot que estará en la sesión..."
 
 msgid "ROConsole.SMStateName[1]"
-msgstr "Soporte"
+msgstr "Solicitar apoyo"
 
 msgid "ROConsole.SMStateName[3]"
-msgstr "Enemigo avistado"
+msgstr "Avistar enemigos"
 
 msgid "ROConsole.SMStateName[4]"
-msgstr "Alerta"
+msgstr "Alertas"
 
 msgid "ROConsole.SMStateName[5]"
 msgstr "Comando de vehículos"
@@ -422,7 +422,7 @@ msgid "ROGUIRoleSelection.TeamSwitchErrorTeamIsFull"
 msgstr "No se puede cambiar de equipo: el equipo seleccionado está completo."
 
 msgid "ROGUITeamSelection.TeamJoinText[0]"
-msgstr "UNIRSE AL EJE"
+msgstr "UNIRSE A LAS FUERZAS DEL EJE"
 
 msgid "ROGUITeamSelection.TeamJoinText[1]"
 msgstr "UNIRSE A LOS ALIADOS"
@@ -443,7 +443,7 @@ msgid "ROScoreBoard.TeamNameAllies"
 msgstr "Los Aliados"
 
 msgid "ROScoreBoard.TeamNameAxis"
-msgstr "El Eje"
+msgstr "Fuerzas del Eje"
 
 msgid "ROScoreBoard.ReinforcementsText"
 msgstr "Refuerzos"
@@ -479,13 +479,13 @@ msgid "ROTab_Controls.Section_Interface"
 msgstr "Interfaz"
 
 msgid "ROTab_Controls.captions_weapons[10]"
-msgstr "Cambiar el barril de la Ametralladora"
+msgstr "Cambiar el cañón de ametralladoras"
 
 msgid "ROTab_Controls.captions_comm[8]"
 msgstr "Cambiar al canal de voz del equipo"
 
 msgid "ROTab_DetailSettings.ScopeLevels[0]"
-msgstr "Modelos 3D bajos"
+msgstr "Modelos (3D) Bajos"
 
 msgid "ROUT2K4GamePageSP.PanelHint<0>"
 msgstr "nada"
@@ -587,7 +587,7 @@ msgid "ROTab_Controls.captions_weapons[0]"
 msgstr "Fuego Primario"
 
 msgid "ROTab_Controls.captions_weapons[1]"
-msgstr "Fuego alternativo"
+msgstr "Fuego Alternativo"
 
 msgid "ROTab_Controls.captions_comm[5]"
 msgstr "Activar micrófono"
@@ -629,7 +629,7 @@ msgid "ROTab_Controls.captions_weapons[9]"
 msgstr "Ajustar bayoneta / Desplegar ametralladora"
 
 msgid "ROTab_Controls.captions_weapons[11]"
-msgstr "Cambiar modo de disparo"
+msgstr "Cambiar el modo de disparo"
 
 msgid "ROTab_Controls.captions_movement[0]"
 msgstr "Adelante"
