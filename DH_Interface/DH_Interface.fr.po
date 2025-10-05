@@ -1,9 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-01 00:53+0000\n"
+"PO-Revision-Date: 2025-10-06 15:58+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
-"Language-Team: French <https://weblate.darklightgames.com/projects/"
+"Language-Team: French <http://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -930,3 +930,21 @@ msgstr "Par Défaut"
 
 msgid "DHSituationMapGUIPage.EnableMouseControlPrompt"
 msgstr "Appuyez sur [%JUMP%] pour activer la souris"
+
+msgid "DHTab_AudioSettings.AudioBK1.Caption"
+msgstr "Système Sonore"
+
+msgid "DHTab_AudioSettings.AudioBK3.Caption"
+msgstr "Communication Vocale"
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Caption"
+msgstr "Canaux Sonores Max"
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Hint"
+msgstr "Nombre de canaux sonores que le jeu peut utiliser à la fois"
+
+msgid "DHTab_AudioSettings.AudioDefaultDriver.Caption"
+msgstr "Pilote de Système"
+
+msgid "DHTab_AudioSettings.AudioEffectsVolumeSlider.Caption"
+msgstr "Volume Effets Sonores"
