@@ -1,9 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-06 15:58+0000\n"
+"PO-Revision-Date: 2025-10-11 21:01+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
-"Language-Team: French <http://weblate.darklightgames.com/projects/"
+"Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -948,3 +948,102 @@ msgstr "Pilote de Système"
 
 msgid "DHTab_AudioSettings.AudioEffectsVolumeSlider.Caption"
 msgstr "Volume Effets Sonores"
+
+msgid "DHTab_AudioSettings.AudioLowDetail.Caption"
+msgstr "Son Basse Qualité"
+
+msgid "DHTab_AudioSettings.AudioMessageBeep.Caption"
+msgstr "Bip de Message"
+
+msgid "DHTab_AudioSettings.AudioMode.Caption"
+msgstr "Mode Audio"
+
+msgid "DHTab_AudioSettings.AudioMusicVolume.Caption"
+msgstr "Volume de la Musique"
+
+msgid "DHTab_AudioSettings.AudioPlayVoices.Caption"
+msgstr "Jouer Messages Vocaux"
+
+msgid "DHTab_AudioSettings.AudioReverseStereo.Caption"
+msgstr "Inverser Stéréo"
+
+msgid "DHTab_AudioSettings.AutoJoinPublic.Caption"
+msgstr "Rejoindre Canal Public Automatiquement"
+
+msgid "DHTab_AudioSettings.AutoSpeakCheckbox.Caption"
+msgstr "Rejoindre Canal Actif Automatiquement"
+
+msgid "DHTab_AudioSettings.ChatPasswordEdit.Caption"
+msgstr "Mot de Passe Chat"
+
+msgid "DHTab_AudioSettings.Dampen.Caption"
+msgstr "Baisser le volume du jeu pendant la VOIP"
+
+msgid "DHTab_AudioSettings.DefaultActiveChannelEditBox.Caption"
+msgstr "Nom Canal par Défaut"
+
+msgid "DHTab_AudioSettings.DisableGameMusic.Caption"
+msgstr "Désactiver la Musique pendant la Partie"
+
+msgid "DHTab_AudioSettings.EnableVoiceChat.Caption"
+msgstr "Activer Chat Vocal"
+
+msgid "DHTab_AudioSettings.VoiceQuality.Caption"
+msgstr "Connectivité Internet"
+
+msgid "DHTab_AudioSettings.VoiceQualityLAN.Caption"
+msgstr "Connectivité LAN"
+
+msgid "DHTab_AudioSettings.VoiceVolume.Caption"
+msgstr "Volume Réception Voix"
+
+msgid "DHTab_Controls.Section_Inventory"
+msgstr "Inventaire"
+
+msgid "DHTab_Controls.Captions_Inventory[0]"
+msgstr "Inventaire Slot 1"
+
+msgid "DHTab_Controls.Captions_Inventory[1]"
+msgstr "Inventaire Slot 2"
+
+msgid "DHTab_Controls.Captions_Inventory[2]"
+msgstr "Inventaire Slot 3"
+
+msgid "DHTab_Controls.Captions_Inventory[3]"
+msgstr "Inventaire Slot 4"
+
+msgid "DHTab_Controls.Captions_Inventory[4]"
+msgstr "Inventaire Slot 5"
+
+msgid "DHTab_Controls.Captions_Inventory[5]"
+msgstr "Inventaire Slot 6"
+
+msgid "DHTab_Controls.Captions_Inventory[6]"
+msgstr "Inventaire Slot 7"
+
+msgid "DHTab_Controls.Captions_Inventory[7]"
+msgstr "Inventaire Slot 8"
+
+msgid "DHTab_Controls.Captions_Inventory[8]"
+msgstr "Inventaire Slot 9"
+
+msgid "DHTab_Controls.Captions_Inventory[9]"
+msgstr "Inventaire Slot 0"
+
+msgid "DHTab_Controls.ControlProfiles[0]"
+msgstr "Actuel"
+
+msgid "DHTab_Controls.ControlProfiles[1]"
+msgstr "Par Défaut (Réinitialiser)"
+
+msgid "DHTab_Controls.ControlProfiles[2]"
+msgstr "Classique RO"
+
+msgid "DHTab_Controls.ControlProfiles[3]"
+msgstr "Pro 104"
+
+msgid "DHTab_Controls.ControlProfiles[4]"
+msgstr "Pro 105"
+
+msgid "DHTab_Controls.ControlProfiles[5]"
+msgstr "Manette XBox 360"
