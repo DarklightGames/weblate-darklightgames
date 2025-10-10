@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-07 03:43+0000\n"
+"PO-Revision-Date: 2025-10-11 21:01+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHAlliedAssaultRoles.PluralName"
 msgstr "Штурмовики"
@@ -83,13 +83,13 @@ msgid "DHAdminMessage.KickedFromSquadMessage"
 msgstr "Администратор '{0}' выгнал игрока '{1}' из отряда '{2}'."
 
 msgid "DHAlliedAntiTankRoles.MyName"
-msgstr "ПТ солдат"
+msgstr "Бронебойщик"
 
 msgid "DHAlliedAntiTankRoles.PluralName"
 msgstr "ПТ солдаты"
 
 msgid "DHAlliedAssaultRoles.MyName"
-msgstr "Штурмовик"
+msgstr "Автоматчик"
 
 msgid "DHATLoadMessage.UnLoaded"
 msgstr "Ракета была разряжена"
@@ -269,7 +269,7 @@ msgid "DHArtilleryTargetMessage.TooManyArtilleryTargets"
 msgstr "Слишком много активных артиллерийских целей"
 
 msgid "DHAxisAntiTankRoles.MyName"
-msgstr "ПТ солдат"
+msgstr "Бронебойщик"
 
 msgid "DHAxisAssaultRoles.MyName"
 msgstr "Штурмовик"
