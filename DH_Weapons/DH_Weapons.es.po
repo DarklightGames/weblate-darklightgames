@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-19 15:54+0000\n"
+"PO-Revision-Date: 2025-10-11 21:01+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/es/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DH_MKB42HWeapon.ItemName"
 msgstr "Mkb 42(H)"
@@ -37,7 +37,7 @@ msgid "DH_ZB30Weapon.ItemName"
 msgstr "Ametralladora ligera ZB-30"
 
 msgid "DH_GLWeapon.ItemName"
-msgstr "Granada AT StG 24 x7 \"Geballte Ladung\""
+msgstr "Granada Antitanque StG 24 x7 \"Geballte Ladung\""
 
 msgid "DH_SpringfieldA1Weapon.ItemName"
 msgstr "Springfield M1903A1"
@@ -52,7 +52,7 @@ msgid "DH_P08LugerWeapon.ItemName"
 msgstr "Pistola Luger P08"
 
 msgid "DH_EnfieldNo4Weapon.ItemName"
-msgstr "Lee Enfield No.4"
+msgstr "Rifle Lee Enfield No.4"
 
 msgid "DH_MN9130Weapon.ItemName"
 msgstr "Mosin M91/30"
@@ -172,7 +172,7 @@ msgid "DH_SVT38Weapon.ItemName"
 msgstr "SVT-38"
 
 msgid "DH_AVT40Weapon.ItemName"
-msgstr "AVT-40"
+msgstr "Rifle automático AVT-40"
 
 msgid "DH_Kz8cmGrW42Weapon.ItemName"
 msgstr "Mortero Kz 8cm GrW 42"
@@ -334,7 +334,7 @@ msgid "DH_Kar98NoCoverWeapon.ItemName"
 msgstr "Kar 98k (mira descubierta)"
 
 msgid "DH_BerettaM1934Weapon.ItemName"
-msgstr "Beretta M1934"
+msgstr "Pistola Beretta M1934"
 
 msgid "DH_LtypeGrenadeWeapon.ItemName"
 msgstr "Granada Anti tanque OTO bomba Tipo L"
