@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-02 01:43+0000\n"
+"PO-Revision-Date: 2025-10-27 16:09+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/es/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DH_NebelGranate39Weapon.ItemName"
 msgstr "Granada de Humo NB 39"
@@ -19,7 +19,7 @@ msgid "DHShovelWarningMessage.CannotBeCrawling"
 msgstr "No puedes cavar mientras estas cuerpo a tierra."
 
 msgid "DHShovelItem.ItemName"
-msgstr "Herramienta de atrincheramiento"
+msgstr "Pala"
 
 msgid "DHWireCuttersItem.ItemName"
 msgstr "Cizallas"
@@ -77,13 +77,13 @@ msgstr ""
 "¡Debes tener a otro compañero cerca para poder usar la pala para construir!"
 
 msgid "DHShovelItem_German.NativeItemName"
-msgstr "Feldspaten"
+msgstr "Pala 'Feldspaten'"
 
 msgid "DHShovelItem_Italian.NativeItemName"
-msgstr "Pala Vanghetta"
+msgstr "Pala 'Vanghetta'"
 
 msgid "DHShovelItem_Russian.NativeItemName"
-msgstr "MPL-50"
+msgstr "Pala 'MPL-50'"
 
 msgid "DH_NebelGranate39Weapon.NativeItemName"
 msgstr "Nebelhandgranate 39"
