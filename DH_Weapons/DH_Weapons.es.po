@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-11 21:01+0000\n"
+"PO-Revision-Date: 2025-10-27 16:09+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/es/>\n"
@@ -25,7 +25,7 @@ msgid "DH_PanzerschreckWeapon.ItemName"
 msgstr "RPzB 54 'Panzerschreck'"
 
 msgid "DH_SVT40ScopedWeapon.ItemName"
-msgstr "SVT-40 (PU)"
+msgstr "Tokarev SVT-40 (PU)"
 
 msgid "DH_M1928_50rndWeapon.ItemName"
 msgstr "M1928A1 Thompson (50 balas)"
@@ -49,7 +49,7 @@ msgid "DH_M1T17CarbineWeapon.ItemName"
 msgstr "Carabina Automática M1/T17"
 
 msgid "DH_P08LugerWeapon.ItemName"
-msgstr "Pistola Luger P08"
+msgstr "Luger Pistole 08"
 
 msgid "DH_EnfieldNo4Weapon.ItemName"
 msgstr "Rifle Lee Enfield No.4"
@@ -100,7 +100,7 @@ msgid "DH_PanzerFaustWeapon.ItemName"
 msgstr "Panzerfaust 60"
 
 msgid "DH_C96Weapon.ItemName"
-msgstr "Pistola Mauser C96"
+msgstr "Mauser C96 Pistole"
 
 msgid "DH_DT29Ammo.ItemName"
 msgstr "Cargador DT29"
@@ -109,7 +109,7 @@ msgid "DH_EnfieldNo4ScopedWeapon.ItemName"
 msgstr "Enfield No.4 Mk.I (T) (No.32)"
 
 msgid "DH_ViSWeapon.ItemName"
-msgstr "Pistola ViS wz.35"
+msgstr "ViS wz.35"
 
 msgid "DH_ColtM1914Weapon.ItemName"
 msgstr "Pistola Kongsberg Colten M/1914"
@@ -127,7 +127,7 @@ msgid "DH_BrenWeapon.ItemName"
 msgstr "Bren Mk.II"
 
 msgid "DH_TT33Weapon.ItemName"
-msgstr "Pistola TT-33"
+msgstr "Tokarev TT-33"
 
 msgid "DH_PPSh41Weapon.ItemName"
 msgstr "PPSh-41"
@@ -139,7 +139,7 @@ msgid "DH_PIATWeapon.ItemName"
 msgstr "PIAT"
 
 msgid "DH_SVT40Weapon.ItemName"
-msgstr "SVT-40"
+msgstr "Tokarev SVT-40"
 
 msgid "DH_BARNoBipodWeapon.ItemName"
 msgstr "Rifle automático M1918A2 (Sin bípode)"
@@ -169,7 +169,7 @@ msgid "DH_PPS43Weapon.ItemName"
 msgstr "PPS-43"
 
 msgid "DH_SVT38Weapon.ItemName"
-msgstr "SVT-38"
+msgstr "Tokarev SVT-38"
 
 msgid "DH_AVT40Weapon.ItemName"
 msgstr "Rifle automático AVT-40"
@@ -199,7 +199,7 @@ msgid "DH_MG42Weapon.ItemName"
 msgstr "Ametralladora MG 42"
 
 msgid "DH_BHPWeapon.ItemName"
-msgstr "Pistola Browning High-Power"
+msgstr "FN Browning HP 35"
 
 msgid "DH_M9531Weapon.ItemName"
 msgstr "Rifle 31.M"
@@ -283,7 +283,7 @@ msgid "DH_VG15Weapon.ItemName"
 msgstr "Rifle semiautomático VG 1-5"
 
 msgid "DH_P38Weapon.ItemName"
-msgstr "Pistola Walther P38"
+msgstr "Walther Pistole 38"
 
 msgid "DH_G43Weapon.ItemName"
 msgstr "G 43"
@@ -334,7 +334,7 @@ msgid "DH_Kar98NoCoverWeapon.ItemName"
 msgstr "Kar 98k (mira descubierta)"
 
 msgid "DH_BerettaM1934Weapon.ItemName"
-msgstr "Pistola Beretta M1934"
+msgstr "Beretta modelo 34"
 
 msgid "DH_LtypeGrenadeWeapon.ItemName"
 msgstr "Granada Anti tanque OTO bomba Tipo L"
