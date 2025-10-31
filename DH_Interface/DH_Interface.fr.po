@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-23 22:26+0000\n"
+"PO-Revision-Date: 2025-11-01 19:09+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/fr/>\n"
@@ -1065,3 +1065,72 @@ msgstr "Augmenter la Hausse/Rotation du Lance-Fumée Véhicule"
 
 msgid "DHTab_Controls.captions_weapons[13]"
 msgstr "Baisser la Hausse/Rotation du Lance-Fumée Véhicule"
+
+msgid "DHTab_Controls.captions_weapons[14]"
+msgstr "Sélectionner Cible Artillerie"
+
+msgid "DHTab_Controls.captions_comm[3]"
+msgstr "Dire au Groupe"
+
+msgid "DHTab_Controls.captions_comm[4]"
+msgstr "Menu Commandes Vocales"
+
+msgid "DHTab_Controls.captions_comm[5]"
+msgstr "Visualiser Chat en Jeu"
+
+msgid "DHTab_Controls.captions_comm[6]"
+msgstr "Activer Microphone"
+
+msgid "DHTab_Controls.captions_comm[7]"
+msgstr "Sélectionner Canal Vocal Commandement"
+
+msgid "DHTab_Controls.captions_comm[8]"
+msgstr "Sélectionner Canal Vocal Local"
+
+msgid "DHTab_Controls.captions_comm[9]"
+msgstr "Sélectionner Canal Vocal Non Assigné"
+
+msgid "DHTab_Controls.captions_comm[10]"
+msgstr "Sélectionner Canal Vocal Groupe"
+
+msgid "DHTab_Controls.captions_comm[11]"
+msgstr "Écrire un message dans le chat"
+
+msgid "DHTab_Controls.captions_comm[12]"
+msgstr "Menu Mute"
+
+msgid "DHTab_Controls.captions_game[4]"
+msgstr "Verrouiller/Déverrouiller Véhicule Blindé"
+
+msgid "DHTab_Controls.captions_game[5]"
+msgstr "Menu Ordres Groupe"
+
+msgid "DHTab_Controls.captions_game[6]"
+msgstr "Menu Groupe"
+
+msgid "DHTab_Controls.captions_game[7]"
+msgstr "Auto-Rejoindre Groupe"
+
+msgid "DHTab_Controls.captions_game[8]"
+msgstr "Placer Point de Ralliement"
+
+msgid "DHTab_Controls.PanelCaption"
+msgstr "Commandes"
+
+msgid "DHTab_Controls.ControlProfilesComboBox.Caption"
+msgstr "Profils de Commandes"
+
+msgid "DHTab_Controls.InputBK1.Caption"
+msgstr "Raccourcis Clavier"
+
+msgid "DHTab_DetailSettings.NoneText"
+msgstr "Aucun"
+
+msgid "DHTab_DetailSettings.RenderModeText[0]"
+msgstr "Direct3D 9.0 (Recommandé)"
+
+msgid "DHTab_DetailSettings.RenderModeText[1]"
+msgstr "Direct3D 8.0 (Problèmes de Rendu)"
+
+msgid "DHTab_DetailSettings.RenderModeText[2]"
+msgstr "OpenGL (Instable)"
