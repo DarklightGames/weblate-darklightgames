@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-26 00:43+0000\n"
+"PO-Revision-Date: 2025-11-01 20:59+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/fr/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "ROConsole.AllPlayersSquad"
 msgstr "Tous les équipiers"
@@ -124,3 +124,156 @@ msgstr "Utiliser"
 
 msgid "ROControlBinder.BindingLabel[23]"
 msgstr "Marcher"
+
+msgid "ROControlBinder.BindingLabel[24]"
+msgstr "Rester Accroupi"
+
+msgid "ROControlBinder.BindingLabel[25]"
+msgstr "S'accroupir"
+
+msgid "ROControlBinder.BindingLabel[26]"
+msgstr "Toujours se Déplacer Latéralement"
+
+msgid "ROControlBinder.BindingLabel[27]"
+msgstr "Se Pencher à Gauche"
+
+msgid "ROControlBinder.BindingLabel[28]"
+msgstr "Se Pencher à Droite"
+
+msgid "ROControlBinder.BindingLabel[29]"
+msgstr "Regarder"
+
+msgid "ROControlBinder.BindingLabel[30]"
+msgstr "Tourner à Gauche"
+
+msgid "ROControlBinder.BindingLabel[31]"
+msgstr "Tourner à Droite"
+
+msgid "ROControlBinder.BindingLabel[32]"
+msgstr "Regarder en Haut"
+
+msgid "ROControlBinder.BindingLabel[33]"
+msgstr "Regarder en Bas"
+
+msgid "ROControlBinder.BindingLabel[34]"
+msgstr "Centrer Regard"
+
+msgid "ROControlBinder.BindingLabel[35]"
+msgstr "Toujours "
+
+msgid "ROControlBinder.BindingLabel[36]"
+msgstr "Changer Mode Caméra"
+
+msgid "ROControlBinder.BindingLabel[37]"
+msgstr "Armes"
+
+msgid "ROControlBinder.BindingLabel[38]"
+msgstr "Tirer"
+
+msgid "ROControlBinder.BindingLabel[39]"
+msgstr "Tir Alternatif"
+
+msgid "ROControlBinder.BindingLabel[40]"
+msgstr "Lancer Arme"
+
+msgid "ROControlBinder.BindingLabel[41]"
+msgstr "Meilleure Arme"
+
+msgid "ROControlBinder.BindingLabel[42]"
+msgstr "Prochaine Arme"
+
+msgid "ROControlBinder.BindingLabel[43]"
+msgstr "Arme Précédente"
+
+msgid "ROControlBinder.BindingLabel[44]"
+msgstr "Dernière Arme"
+
+msgid "ROControlBinder.BindingLabel[45]"
+msgstr "Communication"
+
+msgid "ROControlBinder.BindingLabel[46]"
+msgstr "Dire"
+
+msgid "ROControlBinder.BindingLabel[47]"
+msgstr "Dire (équipe)"
+
+msgid "ROControlBinder.BindingLabel[48]"
+msgstr "Chat"
+
+msgid "ROControlBinder.BindingLabel[49]"
+msgstr "Menu Vocal"
+
+msgid "ROControlBinder.BindingLabel[50]"
+msgstr "Activer Microphone"
+
+msgid "ROControlBinder.BindingLabel[51]"
+msgstr "Parler dans Canal Public"
+
+msgid "ROControlBinder.BindingLabel[52]"
+msgstr "Parler dans Canal Local"
+
+msgid "ROControlBinder.BindingLabel[53]"
+msgstr "Parler dans Canal Équipe"
+
+msgid "ROControlBinder.BindingLabel[54]"
+msgstr "Sélectionner Canal Public"
+
+msgid "ROControlBinder.BindingLabel[55]"
+msgstr "Sélectionner Canal Local"
+
+msgid "ROControlBinder.BindingLabel[56]"
+msgstr "Sélectionner Canal Équipe"
+
+msgid "ROControlBinder.BindingLabel[57]"
+msgstr "HUD"
+
+msgid "ROControlBinder.BindingLabel[58]"
+msgstr "Agrandir HUD"
+
+msgid "ROControlBinder.BindingLabel[59]"
+msgstr "Rétrécir HUD"
+
+msgid "ROControlBinder.BindingLabel[60]"
+msgstr "Toujours Regarder Score"
+
+msgid "ROControlBinder.BindingLabel[61]"
+msgstr "Score"
+
+msgid "ROControlBinder.BindingLabel[62]"
+msgstr "Partie"
+
+msgid "ROControlBinder.BindingLabel[63]"
+msgstr "Utiliser"
+
+msgid "ROControlBinder.BindingLabel[64]"
+msgstr "Mettre en Pause"
+
+msgid "ROControlBinder.BindingLabel[65]"
+msgstr "Capture d’Écran"
+
+msgid "ROControlBinder.BindingLabel[72]"
+msgstr "Divers"
+
+msgid "ROControlBinder.BindingLabel[73]"
+msgstr "Menu"
+
+msgid "ROControlBinder.BindingLabel[74]"
+msgstr "Lecteur de Musique"
+
+msgid "ROControlBinder.BindingLabel[75]"
+msgstr "Menu de Vote"
+
+msgid "ROControlBinder.BindingLabel[76]"
+msgstr "Ouvrir Console"
+
+msgid "ROControlBinder.BindingLabel[77]"
+msgstr "Afficher l’État de Connexion"
+
+msgid "ROControlBinder.BindingLabel[78]"
+msgstr "Annuler Connexion en Cours"
+
+msgid "ROControlBinder.BindingLabel[79]"
+msgstr "Communication Véhicule"
+
+msgid "ROControlBinder.BindingLabel[80]"
+msgstr "Dire dans Véhicule"
