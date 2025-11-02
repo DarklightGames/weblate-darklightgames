@@ -1,9 +1,15 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-03 00:09+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
+"Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
+"darkesthour/roengine/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain\n"
 "Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "ROAmmoWeightMessage.HeavyMessage"
 msgstr "新しい弾倉は重い"
@@ -729,7 +735,7 @@ msgid "ROVoicePack.SupportAbbrev[0]"
 msgstr "誰か来てくれ!"
 
 msgid "ROVoicePack.SupportAbbrev[1]"
-msgstr "誰か来てくれ! 場所は"
+msgstr "誰か来てくれ! 場所は..."
 
 msgid "ROVoicePack.SupportAbbrev[2]"
 msgstr "弾をくれ!"
@@ -747,10 +753,10 @@ msgid "ROVoicePack.SupportAbbrev[6]"
 msgstr "爆薬で吹き飛ばせ!"
 
 msgid "ROVoicePack.SupportAbbrev[7]"
-msgstr "戦車が必要だ!"
+msgstr "戦車の支援が必要だ!"
 
 msgid "ROVoicePack.SupportAbbrev[8]"
-msgstr "砲撃を頼む!"
+msgstr "砲撃支援を頼む!"
 
 msgid "ROVoicePack.SupportAbbrev[9]"
 msgstr "乗せてくれ!"
@@ -789,31 +795,31 @@ msgid "ROVoicePack.EnemyString[8]"
 msgstr "砲撃だ!隠れろ!"
 
 msgid "ROVoicePack.EnemyAbbrev[0]"
-msgstr "歩兵だ!"
+msgstr "敵の歩兵だ!"
 
 msgid "ROVoicePack.EnemyAbbrev[1]"
-msgstr "機関銃だ!"
+msgstr "敵の機関銃だ!"
 
 msgid "ROVoicePack.EnemyAbbrev[2]"
-msgstr "狙撃手だ!"
+msgstr "敵の狙撃手だ!"
 
 msgid "ROVoicePack.EnemyAbbrev[3]"
-msgstr "工兵だ!"
+msgstr "敵の工兵だ!"
 
 msgid "ROVoicePack.EnemyAbbrev[4]"
-msgstr "対戦車兵だ!"
+msgstr "敵の対戦車兵だ!"
 
 msgid "ROVoicePack.EnemyAbbrev[5]"
 msgstr "敵車両だ!"
 
 msgid "ROVoicePack.EnemyAbbrev[6]"
-msgstr "戦車だ!気をつけろ!"
+msgstr "敵の戦車だ!"
 
 msgid "ROVoicePack.EnemyAbbrev[7]"
-msgstr "重戦車だ!"
+msgstr "敵の重戦車だ!"
 
 msgid "ROVoicePack.EnemyAbbrev[8]"
-msgstr "砲撃だ!隠れろ!"
+msgstr "砲撃だ!"
 
 msgid "ROVoicePack.EnemyStringAxis[3]"
 msgstr "工兵だ!"
@@ -822,10 +828,10 @@ msgid "ROVoicePack.EnemyStringAxis[6]"
 msgstr "気をつけろ!戦車だ!"
 
 msgid "ROVoicePack.EnemyAbbrevAxis[3]"
-msgstr "工兵だ!"
+msgstr "敵の工兵だ!"
 
 msgid "ROVoicePack.EnemyAbbrevAxis[6]"
-msgstr "気をつけろ!戦車だ!"
+msgstr "敵の戦車だ!"
 
 msgid "ROVoicePack.AlertString[0]"
 msgstr "手榴弾!"
@@ -870,7 +876,7 @@ msgid "ROVoicePack.AlertAbbrev[3]"
 msgstr "止まれ!"
 
 msgid "ROVoicePack.AlertAbbrev[4]"
-msgstr "俺について来い!"
+msgstr "ついて来い!"
 
 msgid "ROVoicePack.AlertAbbrev[5]"
 msgstr "爆薬を仕掛けた!"
@@ -885,7 +891,7 @@ msgid "ROVoicePack.AlertAbbrev[8]"
 msgstr "攻撃を受けている! 場所は"
 
 msgid "ROVoicePack.AlertAbbrev[9]"
-msgstr "撤退!"
+msgstr "退却!"
 
 msgid "ROVoicePack.VehicleDirectionString[0]"
 msgstr "移動しろ! 目的地は"
@@ -918,7 +924,7 @@ msgid "ROVoicePack.VehicleDirectionString[9]"
 msgstr "少し右に回れ!"
 
 msgid "ROVoicePack.VehicleDirectionAbbrev[0]"
-msgstr "移動しろ! 目的地は"
+msgstr "移動しろ! 目的地は..."
 
 msgid "ROVoicePack.VehicleDirectionAbbrev[1]"
 msgstr "前進!"
@@ -975,31 +981,31 @@ msgid "ROVoicePack.VehicleAlertString[8]"
 msgstr "出ろ!"
 
 msgid "ROVoicePack.VehicleAlertString[9]"
-msgstr "装填完了!"
+msgstr "装填完了"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[0]"
 msgstr "前方に敵!"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[1]"
-msgstr "左方向に敵!"
+msgstr "左側面に敵!"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[2]"
-msgstr "右方向に敵!"
+msgstr "右側面に敵!"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[3]"
 msgstr "後方に敵!"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[4]"
-msgstr "歩兵が近くにいるぞ!"
+msgstr "敵の歩兵が近くにいるぞ!"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[5]"
-msgstr "了解!"
+msgstr "はい!"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[6]"
-msgstr "できません!"
+msgstr "いいえ!"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[7]"
-msgstr "燃えてるぞ!"
+msgstr "車両が炎上している!"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[8]"
 msgstr "出ろ!"
@@ -1041,7 +1047,7 @@ msgid "ROVoicePack.AckAbbrev[0]"
 msgstr "了解!"
 
 msgid "ROVoicePack.AckAbbrev[1]"
-msgstr "できません!"
+msgstr "いいえ"
 
 msgid "ROVoicePack.AckAbbrev[2]"
 msgstr "ありがとう"
@@ -1074,25 +1080,25 @@ msgid "ROVoicePack.OrderString[7]"
 msgstr "撃ち方やめ!"
 
 msgid "ROVoicePack.OrderAbbrev[0]"
-msgstr "攻撃目標は"
+msgstr "攻撃目標は..."
 
 msgid "ROVoicePack.OrderAbbrev[1]"
-msgstr "守備目標は"
+msgstr "守備目標は..."
 
 msgid "ROVoicePack.OrderAbbrev[2]"
-msgstr "その場を離れるな!"
+msgstr "持ち場を離れるな!"
 
 msgid "ROVoicePack.OrderAbbrev[3]"
-msgstr "俺について来い!"
+msgstr "ついて来い!"
 
 msgid "ROVoicePack.OrderAbbrev[4]"
 msgstr "進め!"
 
 msgid "ROVoicePack.OrderAbbrev[5]"
-msgstr "撤退!"
+msgstr "退却!"
 
 msgid "ROVoicePack.OrderAbbrev[6]"
-msgstr "撃て!"
+msgstr "交戦開始!"
 
 msgid "ROVoicePack.OrderAbbrev[7]"
 msgstr "撃ち方やめ!"
