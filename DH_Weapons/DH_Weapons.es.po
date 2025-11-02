@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-27 16:09+0000\n"
+"PO-Revision-Date: 2025-11-03 00:09+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/es/>\n"
@@ -58,7 +58,7 @@ msgid "DH_MN9130Weapon.ItemName"
 msgstr "Mosin M91/30"
 
 msgid "DH_Kar98ScopedZF41Weapon.ItemName"
-msgstr "Karabiner 98k (ZF41)"
+msgstr "Karabiner 98k (Mira ZF41)"
 
 msgid "DH_M9530Weapon.ItemName"
 msgstr "Mannlicher M95/30"
@@ -112,7 +112,7 @@ msgid "DH_ViSWeapon.ItemName"
 msgstr "ViS wz.35"
 
 msgid "DH_ColtM1914Weapon.ItemName"
-msgstr "Pistola Kongsberg Colten M/1914"
+msgstr "Kongsberg Colten M/1914 Pistole"
 
 msgid "DH_G41Weapon.ItemName"
 msgstr "Rifle semiautomático G 41(W)"
@@ -154,7 +154,7 @@ msgid "DH_Nagant1895Weapon.ItemName"
 msgstr "Revolver Nagant M1895"
 
 msgid "DH_SpringfieldScopedWeapon.ItemName"
-msgstr "M1903A4 Springfield (M73 Weaver)"
+msgstr "M1903A4 Springfield (Mira M73 Weaver)"
 
 msgid "DH_PPS43Ammo.ItemName"
 msgstr "Cargador de PPS43"
@@ -199,7 +199,7 @@ msgid "DH_MG42Weapon.ItemName"
 msgstr "Ametralladora MG 42"
 
 msgid "DH_BHPWeapon.ItemName"
-msgstr "FN Browning HP 35"
+msgstr "FN Browning High Power"
 
 msgid "DH_M9531Weapon.ItemName"
 msgstr "Rifle 31.M"
@@ -244,7 +244,7 @@ msgid "DH_M1GrenadeWeapon.ItemName"
 msgstr "Granada Mk II"
 
 msgid "DH_MN9130ScopedWeapon.ItemName"
-msgstr "Mosin M91/30 (PU)"
+msgstr "Mosin M91/30 (Mira PU)"
 
 msgid "DH_M38Weapon.ItemName"
 msgstr "Mosin M38"
@@ -262,7 +262,7 @@ msgid "DH_BazookaM9Weapon.ItemName"
 msgstr "Bazuca M9A1"
 
 msgid "DH_GreaseGunWeapon.ItemName"
-msgstr "M3 Grease Gun"
+msgstr "M3 'Grease Gun'"
 
 msgid "DH_BARWeapon.ItemName"
 msgstr "Rifle Automático Browning M1918A2"
@@ -307,7 +307,7 @@ msgid "DH_STG44ScopedWeapon.ItemName"
 msgstr "Rifle de Asalto StG 44 (ZF4)"
 
 msgid "DH_MN9130ScopedPEWeapon.ItemName"
-msgstr "Mosin M91/30 (PE)"
+msgstr "Mosin M91/30 (Mira PE)"
 
 msgid "DH_KorovinWeapon.ItemName"
 msgstr "Korovin 1941"
@@ -331,7 +331,7 @@ msgid "DH_WitchEnder666Weapon.ItemName"
 msgstr "WitchEnder 666 'Satan's Bane'"
 
 msgid "DH_Kar98NoCoverWeapon.ItemName"
-msgstr "Kar 98k (mira descubierta)"
+msgstr "Kar 98k (Mira descubierta)"
 
 msgid "DH_BerettaM1934Weapon.ItemName"
 msgstr "Beretta modelo 34"
@@ -364,7 +364,7 @@ msgid "DH_F1GrenadeWeapon.NativeItemName"
 msgstr "F1 Granata"
 
 msgid "DH_FG42ScopedWeapon.NativeItemName"
-msgstr "Fallschirmjägergewehr 42 (ZFG42)"
+msgstr "Fallschirmjägergewehr 42 (Mira ZFG42)"
 
 msgid "DH_FG42Weapon.NativeItemName"
 msgstr "Fallschirmjägergewehr 42"
@@ -373,7 +373,7 @@ msgid "DH_G41Weapon.NativeItemName"
 msgstr "Gewehr 41(W)"
 
 msgid "DH_G43ScopedWeapon.NativeItemName"
-msgstr "Gewehr 43 (ZF4)"
+msgstr "Gewehr 43 (Mira ZF4)"
 
 msgid "DH_G43Weapon.NativeItemName"
 msgstr "Gewehr 43"
@@ -385,7 +385,7 @@ msgid "DH_Kar98NoCoverWeapon.NativeItemName"
 msgstr "Karabiner 98k (mira descubierta)"
 
 msgid "DH_Kar98ScopedWeapon.NativeItemName"
-msgstr "Karabiner 98k (ZF39)"
+msgstr "Karabiner 98k (Mira ZF39)"
 
 msgid "DH_Kar98Weapon.NativeItemName"
 msgstr "Karabiner 98k"
@@ -439,7 +439,7 @@ msgid "DH_RPG43GrenadeWeapon.NativeItemName"
 msgstr "RPG-43"
 
 msgid "DH_STG44ScopedWeapon.NativeItemName"
-msgstr "Sturmgewehr 44 (ZF4)"
+msgstr "Sturmgewehr 44 (Mira ZF4)"
 
 msgid "DH_STG44Weapon.NativeItemName"
 msgstr "Sturmgewehr 44"
