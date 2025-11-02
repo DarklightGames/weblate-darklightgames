@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-03 22:58+0000\n"
+"PO-Revision-Date: 2025-11-03 00:09+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
@@ -223,7 +223,7 @@ msgid "DHFriendlyInformationMsg.TeamSurrendered"
 msgstr "¡Tu equipo ha decidido retirarse, la batalla terminará pronto!"
 
 msgid "DHGameMessage.RoleInvalidatedMessage"
-msgstr "Ya no estás cualificado para ser {name}."
+msgstr "Ya no estás calificado para ser {name}."
 
 msgid "DHGameReplicationInfo.ForceScaleText"
 msgstr "Tamaño"
@@ -553,7 +553,7 @@ msgid "DHHud.SpawnNoRoleText"
 msgstr "Pulsa [ESC] para seleccionar un rol"
 
 msgid "DHRadioTouchMessage.NotQualifiedMessage"
-msgstr "No estás cualificado para usar esta radio"
+msgstr "No estás calificado para usar esta radio"
 
 msgid "DHLastObjectiveMessage.AxisAboutToWinMessage"
 msgstr "Último objetivo -- ¡El Eje casi ha ganado la batalla!"
@@ -957,7 +957,7 @@ msgid "DHHud.TeamMessagePrefix"
 msgstr "[EQUIPO] "
 
 msgid "DHHud.SpectateInstructionText1"
-msgstr "Presiona [%FIRE%] para cambias Puntos de Vista/Jugadores"
+msgstr "Presiona [%FIRE%] para intercambiar los Puntos de Vista/Jugadores"
 
 msgid "DHMortarMessage.MustCrouch"
 msgstr "Debes estar agachado para desplegar el mortero"
