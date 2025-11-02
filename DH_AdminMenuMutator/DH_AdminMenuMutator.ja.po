@@ -1,2 +1,135 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-11-03 00:09+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
+"Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_adminmenumutator/ja/>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "DHAdminMenuMutator.FriendlyName"
+msgstr "管理者メニュー"
+
+msgid "DHAdminMenu_AdminMessages.EnterNewPlayerName"
+msgstr "プレイヤーの新しい名前を入力してEnterキーを押してください"
+
+msgid "DHAdminMenu_AdminMessages.EnterPrivateMessage"
+msgstr "プレイヤーへのプライベートメッセージを入力してEnterキーを押します"
+
+msgid "DHAdminMenu_AdminMessages.EnterWarningMessage"
+msgstr "プレイヤーへの警告メッセージを入力してEnterキーを押します"
+
+msgid "DHAdminMenu_AdminMessages.EnterKickReason"
+msgstr "キック時にプレイヤーに表示するメッセージを入力して、Enterキーを押してキックし"
+"ます"
+
+msgid "DHAdminMenu_WarningMessage.WarningHeader"
+msgstr "あなたは管理者から警告メッセージを受け取りました"
+
+msgid "DHAdminMenu_ServerMenu.MenuTitle"
+msgstr "サーバーメニュー"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmKillPlayer"
+msgstr "Enterを押して、このプレーヤーをキルすることを確定します"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAlliesRole"
+msgstr "Enterを押して、このプレイヤーを新たな連合国ロールに移すことを確定します"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAxisRole"
+msgstr "Enterを押して、このプレーヤーを新たな枢軸国ロールに移すことを確定します"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAtObjective"
+msgstr "Enterを押して、このプレイヤーを選択した目標にパラシュートで降下させることを確"
+"定します"
+
+msgid "DHAdminMenu_AdminMessages.EnterGridLocation"
+msgstr "グリッド位置を指定してください（例：グリッドE2キーパッド5の場合は「e25」と入"
+"力してください）"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAtCurrentLocation"
+msgstr "Enterを押して、このプレイヤーに現在地にこのプレーヤーをパラシュートで降下させ"
+"ることを確定します"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableRealism"
+msgstr "Enterを押して、リアリズムモードを有効にすることを確定します"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableRealism"
+msgstr "Enterを押して、リアリズムモードを無効にすることを確定します"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAlliesAtObjective"
+msgstr "Enterを押して、選択した目標にすべての連合国側プレーヤーを配置することを確定し"
+"ます"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAxisAtObjective"
+msgstr "Enterを押して、選択した目標にすべての枢軸国側プレーヤーを配置することを確定し"
+"ます"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAllAtObjective"
+msgstr "Enterを押して、選択した目標にすべてプレーヤーを配置することを確定します"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableMines"
+msgstr "Enterを押して、すべての地雷を無効にすることを確定します"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableMines"
+msgstr "Enterを押して、すべての地雷を再度有効にすることを確定します"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableCapProgress"
+msgstr "Enterを押して、マップ上の拠点占領状況の表示を無効化することを確定します"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableCapProgress"
+msgstr "Enterを押して、マップ上の拠点占領状況の表示を再度有効にすることを確定します"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisablePlayerIcon"
+msgstr "Enterを押して、プレイヤーの位置のマップへの表示を無効にします"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnablePlayerIcon"
+msgstr "Enterを押して、プレイヤーの位置のマップへの表示を再度有効にします"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmKillAll"
+msgstr "Enterを押して、すべてのプレイヤーをキルすることを確定します"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.EnterGameSpeed"
+msgstr "新しいゲーム速度の倍率を指定してください（1が標準です）"
+
+msgid "DHAdminMenu_AdminMessages.EnterTimeRemaining"
+msgstr "新しいラウンドの残り時間（分）を指定してください"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.ConfirmToggleAdminCanPause"
+msgstr "Enterを押して、「管理者は試合を一時停止できる」オプションのオンオフを切り替え"
+"ます"
+
+msgid "DHAdminMenu_AdminMessages.ChangeAlliesSquadSize"
+msgstr "連合国側の分隊あたりの人数を指定してください（8~12、リセットするには0）"
+
+msgid "DHAdminMenu_AdminMessages.ChangeAxisSquadSize"
+msgstr "枢軸国側の分隊あたりの人数を指定してください（8~12、リセットするには0）"
+
+msgid "DHAdminMenu_AdminMessages.ToggleWeaponLockText"
+msgstr "Enterを押して武器のロックのオンオフを切り替えます"
+
+#, fuzzy
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableRallyPoints"
+msgstr "Enterを押して設置された分隊リスポーン地点を無効にします"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableRallyPoints"
+msgstr "Enterを押して、設置された分隊リスポーン地点を再度有効にします"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[1]"
+msgstr "この機能を使用するには、コンソールツールで管理者としてログインする必要があり"
+"ます"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[4]"
+msgstr "エラー: プレイヤー名が指定されていません（no player name specified）"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[5]"
+msgstr ""
