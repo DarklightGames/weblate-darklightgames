@@ -1,7 +1,74 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-04 01:09+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"Language-Team: French <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_adminmenumutator/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "DHAdminMenuMutator.FriendlyName"
+msgstr "Menu Admin"
+
+msgid "DHAdminMenuMutator.Description"
+msgstr ""
+"Menu d'options permettant à un administrateur un plus grand contrôle sur les "
+"joueurs, un match de réalisme ou pendant des tests"
+
+msgid "DHAdminMenu_AdminMessages.EnterNewPlayerName"
+msgstr "Veuillez entrer un nouveau nom pour le joueur - puis appuyez sur Entrée"
+
+msgid "DHAdminMenu_AdminMessages.EnterPrivateMessage"
+msgstr "Tapez votre message privé au joueur - puis appuyez sur Entrée"
+
+msgid "DHAdminMenu_AdminMessages.EnterWarningMessage"
+msgstr "Tapez votre message d'avertissement au joueur - puis appuyez sur Entrée"
+
+msgid "DHAdminMenu_AdminMessages.EnterKickReason"
+msgstr ""
+"Tapez votre message de kick au joueur - puis appuyez sur Entrée pour le kick"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmKillPlayer"
+msgstr "Appuyez sur Entrée pour confirmer que vous voulez TUER ce joueur"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmGagPlayer"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez BAÎLLONER ce joueur"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAlliesRole"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez passer ce joueur à un "
+"nouveau rôle ALLIÉ"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAxisRole"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez passer ce joueur à un "
+"nouveau rôle AXE"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAtObjective"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez PARACHUTER ce joueur "
+"sur l'objectif choisi"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAtCurrentLocation"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez PARACHUTER ce joueur "
+"sur leur emplacement actuel"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableRealism"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez ACTIVER le mode réalisme"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableRealism"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez DÉSACTIVER mode réalisme"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmMatchLive"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous voulez forcer le match réalisme "
+"EN LIVE"
