@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-26 00:43+0000\n"
+"PO-Revision-Date: 2025-11-04 01:09+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DH_Kar98NoCoverWeapon.NativeItemName"
 msgstr "Karabiner 98k (sans capot)"
@@ -104,3 +104,9 @@ msgstr "Beretta mod. 34"
 
 msgid "DH_CarcanoM9138CarbineWeapon.ItemName"
 msgstr "Carcano Moschetto mod. 91/38"
+
+msgid "DH_CarcanoM9138TSCarbineWeapon.ItemName"
+msgstr "Carcano Moschetto TS mod. 91/38"
+
+msgid "DH_CarcanoM91Weapon.ItemName"
+msgstr "Carcano Fucile mod. 91"
