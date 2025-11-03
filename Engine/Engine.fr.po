@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-17 10:43+0000\n"
+"PO-Revision-Date: 2025-11-04 01:09+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/fr/>\n"
@@ -9,10 +9,49 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "Errors.NetOpen"
 msgstr "Erreur lors de l'ouverture du fichier"
 
 msgid "Errors.NetWrite"
 msgstr "Erreur lors de l'écriture du fichier"
+
+msgid "Errors.NetRefused"
+msgstr "Le serveur a refusé d'envoyer '%s'"
+
+msgid "Errors.NetClose"
+msgstr "Erreur à la fermeture du fichier"
+
+msgid "Errors.NetSize"
+msgstr "Inadéquation de taille de fichier"
+
+msgid "Errors.NetMove"
+msgstr "Erreur lors du déplacement du fichier"
+
+msgid "Errors.NetInvalid"
+msgstr "Demande de fichier invalide reçue"
+
+msgid "Errors.NoDownload"
+msgstr "Le package '%s' n'est pas téléchargeable"
+
+msgid "Errors.DownloadFailed"
+msgstr "Téléchargement du package '%s' échoué : %s"
+
+msgid "Errors.RequestDenied"
+msgstr "Fichier demandé par le serveur à partir du niveau en attente : Refusé"
+
+msgid "Errors.ConnectionFailed"
+msgstr "Connexion échouée"
+
+msgid "Errors.ChAllocate"
+msgstr "Impossible d'allouer le canal"
+
+msgid "Errors.NetAlready"
+msgstr "Déjà en réseau"
+
+msgid "Errors.NetListen"
+msgstr "Listen échoué : Aucun contexte de linker disponible"
+
+msgid "Errors.LoadEntry"
+msgstr "Impossible de charger l'entrée : %s"
