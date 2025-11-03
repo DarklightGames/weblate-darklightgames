@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-06 03:58+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2025-11-03 00:09+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/ja/>\n"
 "Language: ja\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHCameraWeapon.ItemName"
 msgstr "カメラ"
@@ -44,3 +44,39 @@ msgstr "置く"
 
 msgid "DHConstructionGroup_Ammunition.GroupName"
 msgstr "弾薬"
+
+msgid "DHCommandMenu_ConstructionGroup.NotAvailableText"
+msgstr "利用不可能"
+
+msgid "DHCommandMenu_ConstructionGroup.TeamLimitText"
+msgstr "制限に達しました"
+
+msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
+msgstr "消耗した"
+
+msgid "DHCommandMenu_ConstructionGroup.RemainingText"
+msgstr "{0} 残っている"
+
+msgid "DHCommandMenu_ConstructionGroup.MaxActiveText"
+msgstr "{0}/{1} 有効"
+
+msgid "DHConstructionControlsMessage.Controls<2>.Text"
+msgstr "回転させる"
+
+msgid "DHConstructionControlsMessage.Controls<4>.Text"
+msgstr "種類の変更"
+
+msgid "DHConstructionControlsMessage.Controls<5>.Text"
+msgstr "外見の変更"
+
+msgid "DHConstructionGroup_Defenses.GroupName"
+msgstr "防衛設備"
+
+msgid "DHConstructionGroup_Obstacles.GroupName"
+msgstr "障害物"
+
+msgid "DHConstructionResupplyPlayers.MenuName"
+msgstr "歩兵用弾薬箱"
+
+msgid "DHConstructionResupplyPlayers.MenuDescription"
+msgstr "歩兵用の弾薬補給地点"
