@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-26 00:43+0000\n"
+"PO-Revision-Date: 2025-11-04 01:09+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHATCannonMessage.VehicleIsEnemy"
 msgstr "Vous ne pouvez pas utiliser un canon ennemi"
@@ -358,13 +358,13 @@ msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
 msgstr "Aucun Joueur "
 
 msgid "DHCommandMenu_SquadManageMember.Options<3>.SubjectText"
-msgstr "Faire assistant"
+msgstr "Faire Adjoint"
 
 msgid "DHCommandMenu_SquadLeader.Options<5>.ActionText"
 msgstr "Mouvement"
 
 msgid "DHCommandMenu_SquadManageMember.Options<4>.SubjectText"
-msgstr "Démettre assistant"
+msgstr "Démettre Adjoint"
 
 msgid "DHCommandMenu_SquadManageMember.Options<0>.SubjectText"
 msgstr "Expulser du groupe"
@@ -1287,7 +1287,7 @@ msgid "DHScoreEvent_FriendlyReload.HumanReadableName"
 msgstr "Rechargement Assisté"
 
 msgid "DHScoreEvent_SquadRallyPointEstablishedAssist.HumanReadableName"
-msgstr "Point de Ralliement Établi (Assistant)"
+msgstr "Point de Ralliement Établi (Adjoint)"
 
 msgid "DHScoreEvent_SquadRallyPointSpawn.HumanReadableName"
 msgstr "Point de Ralliement Groupe"
@@ -1299,7 +1299,8 @@ msgid "DHSpawnProtectMineVolume.WarningMessage"
 msgstr "Vous êtes entré dans une zone contrôlée par l'ennemi, retirez-vous !"
 
 msgid "DHSquadLeaderAssistantVolunteerInteraction.PromptText"
-msgstr "{volunteer} s'est porté volontaire pour le poste d'assistant de groupe."
+msgstr ""
+"{volunteer} s'est porté volontaire pour le poste de chef de groupe adjoint."
 
 msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<1>.Text"
 msgstr "Refuser"
@@ -1587,16 +1588,16 @@ msgstr ""
 "de groupe sera sélectionné sous peu."
 
 msgid "DHSquadMessage.YouAreNoLongerAssistantMessage"
-msgstr "Vous n'êtes plus l'assistant du chef de groupe."
+msgstr "Vous n'êtes plus l'adjoint du chef de groupe."
 
 msgid "DHSquadMessage.YouAreNowAssistantMessage"
-msgstr "Vous êtes maintenant l'assistant du chef de groupe."
+msgstr "Vous êtes maintenant l'adjoint du chef de groupe."
 
 msgid "DHSquadMessage.AlreadyInSquad"
 msgstr "Vous êtes déjà dans un groupe."
 
 msgid "DHSquadMessage.NewAssistantMessage"
-msgstr "{0} a été désigné comme assistant du chef de groupe."
+msgstr "{0} a été désigné comme adjoint du chef de groupe."
 
 msgid "DHSquadMessage.NoVolunteersDisbanded"
 msgstr ""
@@ -1665,7 +1666,7 @@ msgid "DHTeamSayMessage.MessagePrefix"
 msgstr "[EQUIPE]"
 
 msgid "DHSupplyMessage.SuppliesUnloaded"
-msgstr "{0} provisions ont été déchargées du véhicule vers un {1} à proximité"
+msgstr "{0} ressources ont été déchargées du véhicule vers un {1} à proximité"
 
 msgid "DHSquadMessage.SquadPromotionRequestSentMessage"
 msgstr "Une demande de promotion a été envoyée à {0}."
@@ -1696,26 +1697,26 @@ msgstr "Une promotion a déjà été demandée pour ce joueur."
 
 msgid "DHSupplyMessage.SuppliesLoaded"
 msgstr ""
-"{0} provisions ont été chargées dans le véhicule à partir d'un {1} à "
+"{0} ressources ont été chargées dans le véhicule à partir d'un {1} à "
 "proximité"
 
 msgid "DHSquadSayMessage.MessagePrefix"
 msgstr "[GROUPE]"
 
 msgid "DHSupplyMessage.VehicleFull"
-msgstr "La cache d'approvisionnement du véhicule est pleine."
+msgstr "Le point d'approvisionnement du véhicule est plein."
 
 msgid "DHSupplyMessage.VehicleEmpty"
-msgstr "La cache d'approvisionnement du véhicule est vide."
+msgstr "Le point d'approvisionnement du véhicule est vide."
 
 msgid "DHSupplyMessage.SupplyCacheEmpty"
-msgstr "La cache d'approvisionnement à proximité est vide."
+msgstr "Le point d'approvisionnement à proximité est vide."
 
 msgid "DHSupplyMessage.SupplyCacheFull"
-msgstr "La cache d'approvisionnement à proximité est pleine."
+msgstr "Le point d'approvisionnement à proximité est plein."
 
 msgid "DHSupplyMessage.SupplyCacheFallbackName"
-msgstr "cache d'approvisionnement"
+msgstr "point d'approvisionnement"
 
 msgid "DHSquadOrderMessage.AttentionText"
 msgstr "Le chef de groupe a donné un nouvel ordre d'Attention"
@@ -1728,7 +1729,7 @@ msgstr ""
 "Veuillez attendre peu avant d'envoyer une autre demande de fusion de groupes."
 
 msgid "DHSupplyMessage.NoSupplyCaches"
-msgstr "Aucune cache d'approvisionnement à proximité."
+msgstr "Aucun point d'approvisionnement à proximité."
 
 msgid "DHTeamSurrenderVoteMessage.VoteSucceededText"
 msgstr "Le vote pour battre en retraite est un succès ({0})."
@@ -1743,13 +1744,13 @@ msgid "DHTeamKillInteraction.Options<0>.Text"
 msgstr "Pardonner"
 
 msgid "DHSupplyMessage.SuppliesRefunded"
-msgstr "{0} provisions ont renflouées les caches à proximité."
+msgstr "{0} ressources ont renflouées les caches à proximité."
 
 msgid "DHSupplyVehicleMessage.Controls<0>.Text"
-msgstr "Charger Provisions"
+msgstr "Charger Ressources"
 
 msgid "DHSupplyVehicleMessage.Controls<1>.Text"
-msgstr "Décharger Provisions"
+msgstr "Décharger Ressources"
 
 msgid "DHTeamKillInteraction.Options<1>.Text"
 msgstr "Punir"
