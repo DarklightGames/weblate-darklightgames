@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-03 00:09+0000\n"
+"PO-Revision-Date: 2025-11-04 01:09+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/ja/>\n"
@@ -24,10 +24,10 @@ msgid "DHConstructionGroup_Debug.GroupName"
 msgstr "デバッグ"
 
 msgid "DHConstruction_InventorySpawner.ConstructionVerb"
-msgstr "置く"
+msgstr "設置する"
 
 msgid "DHConstruction_SupplyCache.ConstructionVerb"
-msgstr "置く"
+msgstr "設置する"
 
 msgid "DHConstructionControlsMessage.Controls<3>.Text"
 msgstr "リセット"
@@ -40,7 +40,7 @@ msgid "DHCommandMenu_ConstructionGroup.MoreText"
 msgstr "もっと"
 
 msgid "DHConstruction_Resupply.ConstructionVerb"
-msgstr "置く"
+msgstr "設置する"
 
 msgid "DHConstructionGroup_Ammunition.GroupName"
 msgstr "弾薬"
@@ -80,3 +80,54 @@ msgstr "歩兵用弾薬箱"
 
 msgid "DHConstructionResupplyPlayers.MenuDescription"
 msgstr "歩兵用の弾薬補給地点"
+
+msgid "DHConstructionResupplyVehicles.MenuName"
+msgstr "車両・砲用弾薬箱"
+
+msgid "DHConstructionResupplyVehicles.MenuDescription"
+msgstr "車両や砲のための弾薬箱"
+
+msgid "DHConstruction_ConcertinaWire.MenuName"
+msgstr "バリケード"
+
+msgid "DHConstruction_ConcertinaWire.MenuDescription"
+msgstr "歩兵と軽車両の妨害に適する"
+
+msgid "DHConstruction_DragonsTooth.MenuName"
+msgstr "\"竜の歯\""
+
+msgid "DHConstruction_DragonsTooth.MenuDescription"
+msgstr "あらゆる車両の通行を妨げるのに有効"
+
+msgid "DHConstruction_Foxhole.MenuName"
+msgstr "タコツボ"
+
+msgid "DHConstruction_Hedgehog.MenuName"
+msgstr "\"チェコの針鼠\""
+
+msgid "DHConstruction_Hedgehog.MenuDescription"
+msgstr "軽・中車両の通行を妨げるのに適する"
+
+msgid "DHConstruction_PlatoonHQ.MenuDescription"
+msgstr "チームの全員が利用可能なリスポーン地点"
+
+msgid "DHConstruction_Sandbags_Bunker.MenuName"
+msgstr "土嚢（防塁型）"
+
+msgid "DHConstruction_Sandbags_Crescent.MenuName"
+msgstr "土嚢（半月形）"
+
+msgid "DHConstruction_Sandbags_Line.MenuName"
+msgstr "土嚢（直線）"
+
+msgid "DHConstruction_VehiclePool.MenuName"
+msgstr "車両出撃地点（VP）"
+
+msgid "DHConstruction_VehiclePool.MenuDescription"
+msgstr "チーム全体で使える車両出撃地点"
+
+msgid "DHConstruction_Watchtower.MenuName"
+msgstr "監視塔"
+
+msgid "DHConstruction_PlatoonHQ.MenuName"
+msgstr "前線指揮所（HQ）"
