@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-08 04:01+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/ja/>\n"
 "Language: ja\n"
@@ -631,3 +631,94 @@ msgstr "サーバパスワード"
 
 msgid "UT2k4Browser_RulesList.MutatorString"
 msgstr "ミューテータ"
+
+msgid "Settings_Tabs.PerformanceWarningText"
+msgstr "変更を加えると、パフォーマンスに悪影響が出る可能性があります。"
+
+msgid "UT2K4GamePageBase.PanelCaption<1>"
+msgstr "マップ選択"
+
+msgid "UT2K4GamePageBase.PanelCaption<2>"
+msgstr "ゲームルール"
+
+msgid "UT2K4GamePageBase.PanelCaption<4>"
+msgstr "ボット設定"
+
+msgid "UT2K4GetPassword.IncorrectPassword"
+msgstr "パスワードが間違っています。再試行してください。"
+
+msgid "UT2K4GetPassword.GetPassLabel.Caption"
+msgstr "このサーバーで遊ぶにはパスワードを入力してください。"
+
+msgid "UT2K4PerformWarn.DialogText.Caption"
+msgstr "警告"
+
+msgid "UT2K4PerformWarn.DialogText2.Caption"
+msgstr "変更を加えると、パフォーマンスに悪影響が出る可能性があります。"
+
+msgid "UT2K4PerformWarn.HideCheckbox.Caption"
+msgstr "  この警告を再表示しない"
+
+msgid "UT2K4SettingsPage.PanelCaption<2>"
+msgstr "プレイヤー"
+
+msgid "UT2K4SettingsPage.PanelCaption<3>"
+msgstr "ゲーム"
+
+msgid "UT2K4SettingsPage.PanelCaption<4>"
+msgstr "入力"
+
+msgid "UT2K4SettingsPage.PanelCaption<5>"
+msgstr "武器"
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[0]"
+msgstr "16 bit"
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[1]"
+msgstr "32 bit"
+
+msgid "UT2K4Tab_IForceSettings.PanelCaption"
+msgstr "入力"
+
+msgid "UT2K4Tab_MainBase.MessageNoInfo"
+msgstr "情報がありません!"
+
+#, fuzzy
+msgid "UT2K4Tab_MidGameVoiceChat.NOSPEECH.Hint"
+msgstr "このプレーヤーからのクイックチャットを受信しない"
+
+msgid "UT2K4VideoChangeOK.lbText.Caption"
+msgstr "この設定を保存しますか?"
+
+msgid "UT2K4VideoChangeOK.lbText2.Caption"
+msgstr "15秒で元の設定に戻ります"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<3>"
+msgstr "Ping"
+
+msgid "UT2k4Browser_RulesList.TrueString"
+msgstr "有効"
+
+msgid "UT2k4Browser_RulesList.FalseString"
+msgstr "無効"
+
+msgid "UT2k4Browser_RulesList.AdminNameString"
+msgstr "サーバ管理者"
+
+msgid "UT2k4Browser_RulesList.AdminEmailString"
+msgstr "管理者のメールアドレス"
+
+msgid "UT2k4Browser_RulesList.TimeLimitString"
+msgstr "時間制限"
+
+msgid "UT2k4Browser_RulesList.MinPlayersString"
+msgstr "最小プレイヤー数"
+
+msgid "UT2k4Browser_RulesList.MapVotingString"
+msgstr "マップ投票"
+
+msgid "UT2k4Browser_RulesList.KickVotingString"
+msgstr "キック投票"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<4>"
+msgstr "Ping"
