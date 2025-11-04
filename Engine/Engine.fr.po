@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-04 01:09+0000\n"
+"PO-Revision-Date: 2025-11-05 05:47+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/fr/>\n"
@@ -55,3 +55,45 @@ msgstr "Listen échoué : Aucun contexte de linker disponible"
 
 msgid "Errors.LoadEntry"
 msgstr "Impossible de charger l'entrée : %s"
+
+msgid "Errors.InvalidUrl"
+msgstr "URL invalide : %s"
+
+msgid "Errors.InvalidLink"
+msgstr "Lien invalide : %s"
+
+msgid "Errors.FailedBrowse"
+msgstr "Impossible d'entrer dans %s : %s"
+
+msgid "Errors.Listen"
+msgstr "Listen échoué : %s"
+
+msgid "Errors.AbortToEntry"
+msgstr "Échoué ; retour à l'entrée"
+
+msgid "Errors.ServerOpen"
+msgstr "Les serveurs ne peuvent pas ouvrir d'URL réseau"
+
+msgid "Errors.ServerListen"
+msgstr "Serveur dédié ne peut pas listen : %s"
+
+msgid "Errors.Pending"
+msgstr "Connexion en cours à '%s' échouée ; %s"
+
+msgid "Errors.LoadPlayerClass"
+msgstr "Impossible de charger la classe de joueur"
+
+msgid "Errors.ServerOutdated"
+msgstr "La version du serveur est obsolète"
+
+msgid "Errors.ClientOutdated"
+msgstr "Vous devez appliquer les derniers patches"
+
+msgid "Errors.ConnectLost"
+msgstr "Connexion perdue"
+
+msgid "Errors.DemoFileMissing"
+msgstr "Paquet manquant '%s' pour la lecture de démo"
+
+msgid "Errors.DownloadNotAllowed"
+msgstr "Téléchargement de '%s' non autorisé"
