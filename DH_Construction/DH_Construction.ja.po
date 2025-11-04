@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-04 01:09+0000\n"
+"PO-Revision-Date: 2025-11-05 05:47+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/ja/>\n"
@@ -131,3 +131,9 @@ msgstr "監視塔"
 
 msgid "DHConstruction_PlatoonHQ.MenuName"
 msgstr "前線指揮所（HQ）"
+
+msgid "DHConstruction_SupplyCache.MenuName"
+msgstr "兵站集積所"
+
+msgid "DHConstruction_SupplyCache.MenuDescription"
+msgstr "建築物資を貯め、時間とともに増加させる。"
