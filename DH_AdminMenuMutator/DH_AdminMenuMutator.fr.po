@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-04 01:09+0000\n"
+"PO-Revision-Date: 2025-11-05 05:47+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/fr/>\n"
@@ -72,3 +72,78 @@ msgid "DHAdminMenu_AdminMessages.ConfirmMatchLive"
 msgstr ""
 "Appuyez sur Entrée pour confirmer que vous voulez forcer le match réalisme "
 "EN LIVE"
+
+msgid "DHAdminMenu_AdminMessages.EnterGridLocation"
+msgstr ""
+"Veuillez spécifier un carré de grille (exemple : pour le carré E2, petit "
+"carré 5, entrez 'e25')"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAlliesAtObjective"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez déposer TOUS LES ALLIÉS "
+"à l'objectif choisi"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAxisAtObjective"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez déposer TOUS les AXE à "
+"l'objectif choisi"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAllAtObjective"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez déposer TOUS les "
+"joueurs à l'objectif choisi"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableMines"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez DÉSACTIVER tous les "
+"champs de mines"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableMines"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez RÉACTIVER tous les "
+"champs de mines"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableCapProgress"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez DÉSACTIVER la barre de "
+"progression du point de capture sur la carte"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableCapProgress"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez RÉACTIVER la barre de "
+"progression du point de capture sur la carte"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisablePlayerIcon"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez DÉSACTIVER l'icône de "
+"localisation du joueur sur la carte"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnablePlayerIcon"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez RÉACTIVER l'icône de "
+"localisation du joueur sur la carte"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmKillAll"
+msgstr "Appuyez sur Entrée pour confirmer que vous voulez tuer TOUS les joueurs"
+
+msgid "DHAdminMenu_AdminMessages.EnterGameSpeed"
+msgstr ""
+"Veuillez préciser le nouveau multiplicateur de vitesse de jeu (1 est normal)"
+
+msgid "DHAdminMenu_AdminMessages.EnterTimeRemaining"
+msgstr "Veuillez préciser la nouvelle durée de jeu restante (en minutes)"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmToggleAdminCanPause"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez basculer l'option "
+"'admin peut mettre en pause'"
+
+msgid "DHAdminMenu_AdminMessages.DestroyActorInSights"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez détruire l'acteur dans "
+"votre visée"
+
+msgid "DHAdminMenu_AdminMessages.ChangeAlliesSquadSize"
+msgstr ""
+"Veuillez préciser la nouvelle taille d'un groupe Allié (entre 8 et 12 ou 0 "
+"pour réinitialiser)"
