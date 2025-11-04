@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-04 01:09+0000\n"
+"PO-Revision-Date: 2025-11-05 05:47+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/fr/>\n"
@@ -110,3 +110,57 @@ msgstr "Carcano Moschetto TS mod. 91/38"
 
 msgid "DH_CarcanoM91Weapon.ItemName"
 msgstr "Carcano Fucile mod. 91"
+
+msgid "DH_DP27LateWeapon.ItemName"
+msgstr "DP-27"
+
+msgid "DH_DP27Weapon.ItemName"
+msgstr "DP-27"
+
+msgid "DH_DT29Weapon.ItemName"
+msgstr "DT-29"
+
+msgid "DH_PIATWeapon.ItemName"
+msgstr "PIAT"
+
+msgid "DH_PPD40Weapon.ItemName"
+msgstr "PPD-40"
+
+msgid "DH_PPS43Weapon.ItemName"
+msgstr "PPS-43"
+
+msgid "DH_PPSh41Weapon.ItemName"
+msgstr "PPSh-41"
+
+msgid "DH_SVT38Weapon.ItemName"
+msgstr "SVT-38"
+
+msgid "DH_SVT40Weapon.ItemName"
+msgstr "SVT-40"
+
+msgid "DH_TT33Weapon.ItemName"
+msgstr "TT-33"
+
+msgid "DH_ColtM1911Weapon.ItemName"
+msgstr "Colt M1911A1"
+
+msgid "DH_ColtM1914Weapon.ItemName"
+msgstr "Kongsberg Colten M/1914"
+
+msgid "DH_EnfieldNo2Weapon.ItemName"
+msgstr "Enfield No.2"
+
+msgid "DH_EnfieldNo4ScopedWeapon.ItemName"
+msgstr "Enfield No.4 Mk.I (T) (No.32)"
+
+msgid "DH_EnfieldNo4Weapon.ItemName"
+msgstr "Fusil Lee Enfield No.4"
+
+msgid "DH_FG42ScopedWeapon.NativeItemName"
+msgstr "Fallschirmjägergewehr 42 (ZFG42)"
+
+msgid "DH_FG42ScopedWeapon.ItemName"
+msgstr "FG 42 (ZFG42)"
+
+msgid "DH_FG42Weapon.NativeItemName"
+msgstr "Fallschirmjägergewehr 42"
