@@ -1,9 +1,45 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
+"Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
+"darkesthour/engine/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain\n"
 "Content-Transfer-Encoding: 8bit; charset=UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "Progress.ConnectingText"
 msgstr "接続中 (F10でキャンセル):"
+
+msgid "Errors.NetOpen"
+msgstr "ファイルを開く際にエラーが発生しました"
+
+msgid "Errors.NetWrite"
+msgstr "ファイルを保存する際にエラーが発生しました"
+
+msgid "Errors.NetClose"
+msgstr "ファイルを閉じる際にエラーが発生しました"
+
+msgid "Errors.NetSize"
+msgstr "ファイルサイズが一致しません"
+
+msgid "Errors.NetMove"
+msgstr "ファイルを移動する際にエラーが発生しました"
+
+msgid "Errors.NetInvalid"
+msgstr "無効なファイルリクエストを受け取りました"
+
+msgid "Errors.NoDownload"
+msgstr "パッケージ'%s'はダウンロード出来ません"
+
+msgid "Errors.ConnectionFailed"
+msgstr "接続に失敗しました"
+
+msgid "Errors.ChAllocate"
+msgstr "チャンネルを割り当てることが出来ませんでした"
+
+msgid "Errors.NetAlready"
+msgstr "すでに接続しています"
