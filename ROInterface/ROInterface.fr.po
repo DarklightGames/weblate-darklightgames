@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-01 20:59+0000\n"
+"PO-Revision-Date: 2025-11-05 05:47+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/fr/>\n"
@@ -277,3 +277,123 @@ msgstr "Communication Véhicule"
 
 msgid "ROControlBinder.BindingLabel[80]"
 msgstr "Dire dans Véhicule"
+
+msgid "ROScoreBoard.SpectatorTeamName"
+msgstr "Spectateurs"
+
+msgid "ROScoreBoard.UnassignedTeamName"
+msgstr "Non assignés"
+
+msgid "ROScoreBoard.TeamNameAllies"
+msgstr "Alliés"
+
+msgid "ROScoreBoard.TeamNameAxis"
+msgstr "Axe"
+
+msgid "ROScoreBoard.ReinforcementsText"
+msgstr "Renforts"
+
+msgid "ROSettingsPage_new.PanelCaption<1>"
+msgstr "Affichage"
+
+msgid "ROSettingsPage_new.PanelCaption<2>"
+msgstr "Audio"
+
+msgid "ROSettingsPage_new.PanelCaption<4>"
+msgstr "Input"
+
+msgid "ROSettingsPage_new.PanelCaption<5>"
+msgstr "HUD"
+
+msgid "ROTab_AudioSettings.VoiceModes[0]"
+msgstr "Tout"
+
+msgid "ROTab_AudioSettings.VoiceModes[2]"
+msgstr "Aucun"
+
+msgid "ROTab_AudioSettings.PanelCaption"
+msgstr "Audio"
+
+msgid "ROTab_Controls.Headings[0]"
+msgstr "Action"
+
+msgid "ROTab_Controls.Section_Movement"
+msgstr "Mouvement"
+
+msgid "ROTab_Controls.Section_Looking"
+msgstr "Vue"
+
+msgid "ROTab_Controls.Section_Weapons"
+msgstr "Armes"
+
+msgid "ROTab_Controls.Section_Comm"
+msgstr "Communication"
+
+msgid "ROTab_Controls.Section_Game"
+msgstr "Partie"
+
+msgid "ROTab_Controls.Section_Misc"
+msgstr "Divers"
+
+msgid "ROTab_Controls.Section_Interface"
+msgstr "Interface"
+
+msgid "ROTab_Controls.captions_movement[0]"
+msgstr "En avant"
+
+msgid "ROTab_Controls.captions_movement[1]"
+msgstr "En arrière"
+
+msgid "ROTab_Controls.captions_movement[6]"
+msgstr "Sauter"
+
+msgid "ROTab_Controls.captions_movement[7]"
+msgstr "S'accroupir"
+
+msgid "ROTab_Controls.captions_movement[8]"
+msgstr "Se coucher"
+
+msgid "ROTab_Controls.captions_movement[9]"
+msgstr "Courir"
+
+msgid "ROTab_Controls.captions_movement[10]"
+msgstr "Marcher"
+
+msgid "ROTab_Controls.captions_weapons[2]"
+msgstr "Recharger"
+
+msgid "ROTab_Controls.captions_comm[0]"
+msgstr "Dire"
+
+msgid "ROTab_Controls.captions_game[1]"
+msgstr "Utiliser"
+
+msgid "ROTab_DetailSettings.DetailOptions[0]"
+msgstr "Très Bas"
+
+msgid "ROTab_DetailSettings.DetailOptions[1]"
+msgstr "Bas"
+
+msgid "ROTab_DetailSettings.DetailOptions[2]"
+msgstr "Moyen"
+
+msgid "ROTab_DetailSettings.DetailOptions[3]"
+msgstr "Élevé"
+
+msgid "ROTab_DetailSettings.DetailOptions[4]"
+msgstr "Plus Élevé"
+
+msgid "ROTab_DetailSettings.DetailOptions[5]"
+msgstr "Très Élevé"
+
+msgid "ROTab_DetailSettings.DetailOptions[6]"
+msgstr "Personnalisé"
+
+msgid "ROTab_DetailSettings.ScopeLevels[0]"
+msgstr "Modèle (Bas)"
+
+msgid "ROTab_DetailSettings.ScopeLevels[1]"
+msgstr "Texturé"
+
+msgid "ROTab_DetailSettings.ScopeLevels[2]"
+msgstr "Modèle (Élevé)"
