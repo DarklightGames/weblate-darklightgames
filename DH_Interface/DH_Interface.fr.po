@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-01 19:09+0000\n"
+"PO-Revision-Date: 2025-11-05 05:47+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/fr/>\n"
@@ -1134,3 +1134,87 @@ msgstr "Direct3D 8.0 (Problèmes de Rendu)"
 
 msgid "DHTab_DetailSettings.RenderModeText[2]"
 msgstr "OpenGL (Instable)"
+
+msgid "DHTab_DetailSettings.VideoResolution.Caption"
+msgstr "Résolution"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[0]"
+msgstr "Jamais"
+
+msgid "DHTab_DetailSettings.BrightnessSlider.Caption"
+msgstr "Luminosité"
+
+msgid "DHTab_DetailSettings.ContrastSlider.Caption"
+msgstr "Contraste"
+
+msgid "DHTab_DetailSettings.DetailAntialiasing.Caption"
+msgstr "Anticrénelage"
+
+msgid "DHTab_DetailSettings.DetailCoronas.Caption"
+msgstr "Couronnes"
+
+msgid "DHTab_DetailSettings.DetailDecals.Caption"
+msgstr "Décalques"
+
+msgid "DHTab_DetailSettings.DetailProjectors.Caption"
+msgstr "Projecteurs"
+
+msgid "DHTab_DetailSettings.GammaSlider.Caption"
+msgstr "Gamma"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[1]"
+msgstr "Mensuel"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[2]"
+msgstr "Annuel"
+
+msgid "DHTab_GameSettings.IDText"
+msgstr "ID :"
+
+msgid "DHTab_GameSettings.DegreesText"
+msgstr "degrés"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[0]"
+msgstr "Jamais"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[2]"
+msgstr "Toujours"
+
+msgid "DHTab_GameSettings.PanelCaption"
+msgstr "Jeu"
+
+msgid "DHTab_GameSettings.GameBK1.Caption"
+msgstr "Gameplay"
+
+msgid "DHTab_GameSettings.GameBK2.Caption"
+msgstr "Véhicule"
+
+msgid "DHTab_GameSettings.GameBK3.Caption"
+msgstr "Réseau"
+
+msgid "DHTab_Hud.GameBK.Caption"
+msgstr "Options"
+
+msgid "DHTab_Hud.GameBK1.Caption"
+msgstr "Style"
+
+msgid "DHTab_Input.InputBK1.Caption"
+msgstr "Options"
+
+msgid "DHTab_MainSP.DifficultyCombo.Caption"
+msgstr "Difficulté"
+
+msgid "DHTab_MainSP.MapAuthorLabel.Caption"
+msgstr "Test"
+
+msgid "DHTab_MainSP.OptionsContainer.Caption"
+msgstr "Options"
+
+msgid "DHTab_MainSP.PreviewGroup.Caption"
+msgstr "Aperçu"
+
+msgid "DHTab_MutatorSP.IAMutatorAdd.Caption"
+msgstr "Ajouter"
+
+msgid "DHTab_MutatorSP.IAMutatorRemove.Caption"
+msgstr "Retirer"
