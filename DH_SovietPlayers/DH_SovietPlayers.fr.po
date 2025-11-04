@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-05 01:43+0000\n"
+"PO-Revision-Date: 2025-11-05 05:47+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_sovietplayers/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHNation_Czechoslovakia.NationName"
 msgstr "Tchécoslovaquie"
@@ -27,11 +27,9 @@ msgstr "Chef d'Équipe"
 msgid "DHSOVSergeantRoles.MyName"
 msgstr "Chef de Groupe"
 
-#, fuzzy
 msgid "DHSOVEngineerRoles.AltName"
 msgstr "Saper"
 
-#, fuzzy
 msgid "DHSOVMachineGunnerRoles.AltName"
 msgstr "Pulemetchik"
 
