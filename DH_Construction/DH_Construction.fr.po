@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-04 01:09+0000\n"
+"PO-Revision-Date: 2025-11-05 05:47+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/fr/>\n"
@@ -59,3 +59,61 @@ msgstr "Munitions"
 
 msgid "DHConstructionGroup_Debug.GroupName"
 msgstr "Débug"
+
+msgid "DHConstructionGroup_Defenses.GroupName"
+msgstr "Défenses"
+
+msgid "DHConstructionGroup_Logistics.GroupName"
+msgstr "Logistique"
+
+msgid "DHConstructionGroup_Obstacles.GroupName"
+msgstr "Obstacles"
+
+msgid "DHConstruction_Foxhole.MenuName"
+msgstr "Trou individuel"
+
+msgid "DHConstruction_Foxhole.ConstructionVerb"
+msgstr "creuser"
+
+msgid "DHConstruction_Hedgehog.MenuName"
+msgstr "Hérisson tchèque"
+
+msgid "DHConstruction_InventorySpawner.ConstructionVerb"
+msgstr "placer"
+
+msgid "DHConstruction_Resupply.ConstructionVerb"
+msgstr "placer"
+
+msgid "DHConstruction_SupplyCache.ConstructionVerb"
+msgstr "placer"
+
+msgid "DHConstruction_Watchtower.MenuName"
+msgstr "Tour de garde"
+
+msgid "DHConstructionResupplyPlayers.MenuName"
+msgstr "Caisse de Munition (Infanterie)"
+
+msgid "DHConstructionResupplyPlayers.MenuDescription"
+msgstr "Fournit un point de réapprovisionnement pour l'infanterie."
+
+msgid "DHConstructionResupplyVehicles.MenuName"
+msgstr "Caisse de Munition (Véhicules)"
+
+msgid "DHConstructionResupplyVehicles.MenuDescription"
+msgstr ""
+"Fournit un point de réapprovisionnement pour les véhicules et les canons."
+
+msgid "DHConstruction_ConcertinaWire.MenuName"
+msgstr "Fil barbelé"
+
+msgid "DHConstruction_ConcertinaWire.MenuDescription"
+msgstr "Efficace pour bloquer l'infanterie et les véhicules légers."
+
+msgid "DHConstruction_DragonsTooth.MenuName"
+msgstr "Dents de dragon"
+
+msgid "DHConstruction_DragonsTooth.MenuDescription"
+msgstr "Efficace pour bloquer tout véhicule."
+
+msgid "DHConstruction_Hedgehog.MenuDescription"
+msgstr "Efficace pour bloquer les véhicules légers et moyens."
