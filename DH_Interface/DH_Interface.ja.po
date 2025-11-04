@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-06 09:50+0000\n"
-"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
 "Language: ja\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHBrowser_OpenIP.CancelButton.Caption"
 msgstr "キャンセル"
@@ -631,3 +631,69 @@ msgstr "ゲーム"
 
 msgid "DHDeployMenu.SpawnVehicleImageObject.Hint"
 msgstr "リスポーン車"
+
+msgid "DHBrowser_Footer.BrowserJoin.Caption"
+msgstr "参加する"
+
+msgid "DHBrowser_Footer.BrowserSpec.Caption"
+msgstr "観戦する"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<1>"
+msgstr "観戦者として参加する"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<6>"
+msgstr "フィルターの設定"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<7>"
+msgstr "テンプレートを作る"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<8>"
+msgstr "すべてのフィルターを無効化する"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<10>"
+msgstr "お気に入りに追加"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<2>"
+msgstr "サーバーの状態"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<7>"
+msgstr "Ping"
+
+msgid "DHCommunicationPage.Panels<0>.Hint"
+msgstr "他のプレイヤーとのコミュニケーションを管理する"
+
+msgid "DHContextMenu_SquadMembers.AdminPrefixText"
+msgstr "管理者:"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<1>"
+msgstr "{0}を招待"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<2>"
+msgstr "{0}をキック"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<3>"
+msgstr "{0}をバン"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<4>"
+msgstr "{0}を分隊長にする"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<5>"
+msgstr "{0}を副分隊長に任命する"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<6>"
+msgstr "{0}を副分隊長から解任する"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<7>"
+msgstr "副分隊長に立候補する"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<8>"
+msgstr "分隊の併合を要求する"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<9>"
+msgstr "{1}が{0}を分隊長の位置に空挺降下させた"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<10>"
+msgstr "{1}が{0}をマーカーの位置に空挺降下させた"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<11>"
+msgstr "{1}が分隊を分隊長の位置にパラ降下させた"
