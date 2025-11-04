@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-19 21:57+0000\n"
-"Last-Translator: Weblate Admin <weblate@example.com>\n"
+"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ja/>\n"
 "Language: ja\n"
@@ -36,10 +36,10 @@ msgid "DHATCannonMessage.GunIsRotating"
 msgstr "大砲が回転している"
 
 msgid "DHATCannonMessage.CannotEnter"
-msgstr "この大砲にはすでに人が乗っている"
+msgstr "この大砲はすでに使用中です"
 
 msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
-msgstr "終える"
+msgstr "終了"
 
 msgid "DHATCannonMessage.VehicleIsEnemy"
 msgstr "敵の大砲は使えない"
@@ -60,19 +60,19 @@ msgid "DHAccessControl.SessionBanned"
 msgstr "レベルが変更されるまでこのサーバーに参加することはできません。"
 
 msgid "DHAdminMessage.KickedFromSquadMessage"
-msgstr "'{0}' (アドミン) が '{1}' を '{2}' 分隊から追放しました。"
+msgstr "管理者'{0}' が '{1}' を '{2}' 分隊から追放しました。"
 
 msgid "DHATGunTouchMessage.Controls<0>.Text"
-msgstr "入る"
+msgstr "使用する"
 
 msgid "DHATLoadMessage.BeenLoaded"
 msgstr "{0}は装填を手伝ってくれた"
 
 msgid "DHATLoadMessage.UnLoaded"
-msgstr "ロケット弾は下ろされた"
+msgstr "ロケット弾はアンロードされた"
 
 msgid "DHAccessControl.IPBanned"
-msgstr "あなたは禁止されているため、このサーバーに参加できません。"
+msgstr "あなたはBANされているため、このサーバーに参加できません。"
 
 msgid "DHArtillerySpottingScope.DistanceString"
 msgstr "距離"
@@ -136,3 +136,6 @@ msgstr "分隊"
 
 msgid "DarkestHourGame.GameName"
 msgstr "DarkestHourGame"
+
+msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
+msgstr "管理者'{0}'が{1}を{2}分隊の分隊長にしました"
