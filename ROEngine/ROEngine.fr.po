@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-30 00:58+0000\n"
+"PO-Revision-Date: 2025-11-05 05:47+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/fr/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "ROAmmoWeightMessage.HeavyMessage"
 msgstr "Le chargeur est lourd"
@@ -61,3 +61,296 @@ msgstr "Les Forces de L'Axe ont Gagné la Bataille !"
 
 msgid "RORoundOverMsg.NoDecisiveOutcome"
 msgstr "Aucune Victoire Décisive"
+
+msgid "ROVoicePack.EnemyString[2]"
+msgstr "Tireur embusqué !"
+
+msgid "ROVoicePack.EnemyString[3]"
+msgstr "Sapeur !"
+
+msgid "ROVoicePack.EnemyString[8]"
+msgstr "Artillerie !"
+
+msgid "ROVoicePack.EnemyAbbrev[2]"
+msgstr "Tireur embusqué"
+
+msgid "ROVoicePack.EnemyAbbrev[3]"
+msgstr "Sapeur"
+
+msgid "ROVoicePack.EnemyAbbrev[6]"
+msgstr "Char"
+
+msgid "ROVoicePack.EnemyAbbrev[8]"
+msgstr "Artillerie"
+
+msgid "ROVoicePack.EnemyStringAxis[3]"
+msgstr "Pionier!"
+
+#, fuzzy
+msgid "ROVoicePack.EnemyAbbrevAxis[3]"
+msgstr "Pionier"
+
+msgid "ROVoicePack.EnemyAbbrevAxis[6]"
+msgstr "Panzer"
+
+msgid "ROVoicePack.AlertString[0]"
+msgstr "Grenade !"
+
+#, fuzzy
+msgid "ROVoicePack.EnemyStringAxis[6]"
+msgstr "Achtung, Panzer!"
+
+msgid "ROVoicePack.AlertString[1]"
+msgstr "Allez, allez, allez !"
+
+msgid "ROVoicePack.AlertString[2]"
+msgstr "À couvert !"
+
+msgid "ROVoicePack.AlertString[3]"
+msgstr "Halte !"
+
+msgid "ROVoicePack.AlertString[4]"
+msgstr "Suivez-moi !"
+
+msgid "ROVoicePack.AlertString[5]"
+msgstr "Charge posée !"
+
+msgid "ROVoicePack.AlertString[6]"
+msgstr "Tir de couverture !"
+
+msgid "ROVoicePack.AlertString[7]"
+msgstr "Tir ami !"
+
+msgid "ROVoicePack.AlertString[9]"
+msgstr "Retirez-vous !"
+
+msgid "ROVoicePack.AlertAbbrev[0]"
+msgstr "Grenade"
+
+msgid "ROVoicePack.AlertAbbrev[1]"
+msgstr "Allez allez allez"
+
+msgid "ROVoicePack.AlertAbbrev[2]"
+msgstr "À couvert"
+
+msgid "ROVoicePack.AlertAbbrev[3]"
+msgstr "Halte"
+
+msgid "ROVoicePack.AlertAbbrev[4]"
+msgstr "Suivez-moi"
+
+msgid "ROVoicePack.AlertAbbrev[5]"
+msgstr "Charge posée"
+
+msgid "ROVoicePack.AlertAbbrev[6]"
+msgstr "Tir de couverture"
+
+msgid "ROVoicePack.AlertAbbrev[7]"
+msgstr "Tir ami"
+
+msgid "ROVoicePack.AlertAbbrev[8]"
+msgstr "Pris d'assaut à objective"
+
+msgid "ROVoicePack.AlertAbbrev[9]"
+msgstr "Retraite"
+
+msgid "ROVoicePack.VehicleDirectionString[1]"
+msgstr "En avant"
+
+msgid "ROVoicePack.VehicleDirectionString[2]"
+msgstr "Halte"
+
+msgid "ROVoicePack.VehicleDirectionString[3]"
+msgstr "En arrière"
+
+msgid "ROVoicePack.VehicleDirectionString[4]"
+msgstr "À gauche"
+
+msgid "ROVoicePack.VehicleDirectionString[5]"
+msgstr "À droite"
+
+msgid "ROVoicePack.VehicleDirectionString[6]"
+msgstr "En avant de 5 mètres !"
+
+msgid "ROVoicePack.VehicleDirectionString[7]"
+msgstr "En arrière de 5 mètres !"
+
+msgid "ROVoicePack.VehicleDirectionString[8]"
+msgstr "Virage léger à gauche !"
+
+msgid "ROVoicePack.VehicleDirectionString[9]"
+msgstr "Virage léger à droite !"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[0]"
+msgstr "Aller vers..."
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[1]"
+msgstr "En avant"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[2]"
+msgstr "Halte"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[3]"
+msgstr "En arrière"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[4]"
+msgstr "À gauche"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[5]"
+msgstr "À droite"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[6]"
+msgstr "En avant de 5 mètres"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[7]"
+msgstr "En arrière de 5 mètres"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[8]"
+msgstr "Léger virage à gauche"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[9]"
+msgstr "Léger virage à droite"
+
+msgid "ROVoicePack.VehicleAlertString[0]"
+msgstr "Ennemis en face !"
+
+msgid "ROVoicePack.VehicleAlertString[1]"
+msgstr "Ennemis sur le flanc gauche !"
+
+msgid "ROVoicePack.VehicleAlertString[2]"
+msgstr "Ennemis sur le flanc droit !"
+
+msgid "ROVoicePack.VehicleAlertString[3]"
+msgstr "Ennemis derrière-nous !"
+
+msgid "ROVoicePack.VehicleAlertString[4]"
+msgstr "Infanterie ennemie à proximité !"
+
+msgid "ROVoicePack.VehicleAlertString[5]"
+msgstr "Oui, chef !"
+
+msgid "ROVoicePack.VehicleAlertString[6]"
+msgstr "Non, non !"
+
+msgid "ROVoicePack.VehicleAlertString[7]"
+msgstr "Ça crame !"
+
+msgid "ROVoicePack.VehicleAlertString[8]"
+msgstr "Sortez !"
+
+msgid "ROVoicePack.VehicleAlertString[9]"
+msgstr "Approvisionné."
+
+msgid "ROVoicePack.VehicleAlertAbbrev[0]"
+msgstr "Ennemis en face"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[1]"
+msgstr "Ennemis flanc gauche"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[2]"
+msgstr "Ennemis flanc droit"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[3]"
+msgstr "Ennemis à l'arrière"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[4]"
+msgstr "Infanterie ennemie proche"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[5]"
+msgstr "Compris"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[6]"
+msgstr "Négatif"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[7]"
+msgstr "Incendie à bord"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[8]"
+msgstr "Sortez"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[9]"
+msgstr "Approvisionné"
+
+msgid "ROVoicePack.ExtraString[0]"
+msgstr "Je vais te tuer !"
+
+msgid "ROVoicePack.ExtraString[1]"
+msgstr "Pas de retraite !"
+
+msgid "ROVoicePack.ExtraString[2]"
+msgstr "*insulte*"
+
+msgid "ROVoicePack.ExtraAbbrev[0]"
+msgstr "Je vais te tuer"
+
+msgid "ROVoicePack.ExtraAbbrev[1]"
+msgstr "Pas de retraite"
+
+msgid "ROVoicePack.ExtraAbbrev[2]"
+msgstr "Insulte"
+
+msgid "ROVoicePack.AckString[0]"
+msgstr "Oui, chef !"
+
+msgid "ROVoicePack.AckString[1]"
+msgstr "Non, non !"
+
+msgid "ROVoicePack.AckString[2]"
+msgstr "Merci"
+
+msgid "ROVoicePack.AckString[3]"
+msgstr "Désolé"
+
+msgid "ROVoicePack.AckAbbrev[0]"
+msgstr "Oui, chef"
+
+msgid "ROVoicePack.AckAbbrev[1]"
+msgstr "Négatif"
+
+msgid "ROVoicePack.AckAbbrev[2]"
+msgstr "Merci"
+
+msgid "ROVoicePack.AckAbbrev[3]"
+msgstr "S'excuser"
+
+msgid "ROVoicePack.OrderString[2]"
+msgstr "Tenez cette position !"
+
+msgid "ROVoicePack.OrderString[3]"
+msgstr "Suivez-moi !"
+
+msgid "ROVoicePack.OrderString[4]"
+msgstr "Attaque à volonté !"
+
+msgid "ROVoicePack.OrderString[5]"
+msgstr "Retirez-vous !"
+
+msgid "ROVoicePack.OrderString[6]"
+msgstr "Feu à volonté !"
+
+msgid "ROVoicePack.OrderString[7]"
+msgstr "Halte au feu !"
+
+msgid "ROVoicePack.OrderAbbrev[0]"
+msgstr "Attaquer..."
+
+msgid "ROVoicePack.OrderAbbrev[1]"
+msgstr "Défendre..."
+
+msgid "ROVoicePack.OrderAbbrev[2]"
+msgstr "Tenir Position"
+
+msgid "ROVoicePack.OrderAbbrev[3]"
+msgstr "Suivez-moi"
+
+msgid "ROVoicePack.OrderAbbrev[4]"
+msgstr "Déplacez-vous"
+
+msgid "ROVoicePack.OrderAbbrev[5]"
+msgstr "Retraite"
+
+msgid "ROVoicePack.OrderAbbrev[6]"
+msgstr "Engager"
+
+msgid "ROVoicePack.OrderAbbrev[7]"
+msgstr "Halte au feu"
