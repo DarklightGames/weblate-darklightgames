@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"PO-Revision-Date: 2025-11-05 17:35+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/ja/>\n"
@@ -683,9 +683,8 @@ msgstr "入力"
 msgid "UT2K4Tab_MainBase.MessageNoInfo"
 msgstr "情報がありません!"
 
-#, fuzzy
 msgid "UT2K4Tab_MidGameVoiceChat.NOSPEECH.Hint"
-msgstr "このプレーヤーからのクイックチャットを受信しない"
+msgstr "このプレーヤーからのボイスメッセージを受信しない"
 
 msgid "UT2K4VideoChangeOK.lbText.Caption"
 msgstr "この設定を保存しますか?"
@@ -722,3 +721,25 @@ msgstr "キック投票"
 
 msgid "UT2k4Browser_ServersList.ColumnHeadings<4>"
 msgstr "Ping"
+
+msgid "ControlBinder.BindingLabel[15]"
+msgstr "三人称視点を切り替える"
+
+msgid "ControlBinder.BindingLabel[41]"
+msgstr "発言メニュー"
+
+msgid "UT2K4GamePageBase.PanelCaption<0>"
+msgstr "ゲームモード"
+
+msgid "UT2K4PerformWarn.HideCheckbox.Hint"
+msgstr "これをチェックすると、設定メニューでプロパティを調整するときに警告メッセージ"
+"が表示されなくなります"
+
+msgid "UT2K4SettingsPage.PanelCaption<0>"
+msgstr "ディスプレイ"
+
+msgid "UT2K4VideoChangeOK.RestoreText"
+msgstr "(元の設定は %count% %seconds% で復元されます)"
+
+msgid "UT2k4Browser_ServerListPageBase.PingCompleteText"
+msgstr "PING が完了しました。%NumServers% サーバ, %NumPlayers% プレイヤー"
