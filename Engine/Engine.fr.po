@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 17:35+0000\n"
+"PO-Revision-Date: 2025-11-06 02:13+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/fr/>\n"
@@ -190,3 +190,27 @@ msgstr "JOY 10"
 
 msgid "KeyNames.Joy11"
 msgstr "JOY 11"
+
+msgid "KeyNames.Joy12"
+msgstr "JOY 12"
+
+msgid "KeyNames.Joy13"
+msgstr "JOY 13"
+
+msgid "KeyNames.Joy14"
+msgstr "JOY 14"
+
+msgid "KeyNames.Joy15"
+msgstr "JOY 15"
+
+msgid "KeyNames.Joy16"
+msgstr "JOY 16"
+
+msgid "KeyNames.End"
+msgstr "FIN"
+
+msgid "KeyNames.Home"
+msgstr "HOME"
+
+msgid "KeyNames.Select"
+msgstr "SELECT"
