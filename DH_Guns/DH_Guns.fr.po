@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 17:35+0000\n"
+"PO-Revision-Date: 2025-11-06 02:13+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/fr/>\n"
@@ -353,3 +353,15 @@ msgstr "HEAT M66"
 
 msgid "DH_M116Gun.VehicleNameString"
 msgstr "Pack Howitzer 75mm M1"
+
+msgid "DH_M1919A4Gun.VehicleNameString"
+msgstr "Mitrailleuse M1919A4 Browning"
+
+msgid "DH_M1MortarCannon.nProjectileDescriptions<1>"
+msgstr "M56 WP"
+
+msgid "DH_M1MortarCannon.nProjectileDescriptions<2>"
+msgstr "M56 HE"
+
+msgid "DH_M45QuadmountGun.VehicleNameString"
+msgstr "Affût Quadruple M45"
