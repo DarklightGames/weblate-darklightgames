@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 17:35+0000\n"
+"PO-Revision-Date: 2025-11-06 02:13+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/fr/>\n"
@@ -245,3 +245,21 @@ msgstr "Carabine M1"
 
 msgid "DH_M1GarandWeapon.ItemName"
 msgstr "M1 Garand"
+
+msgid "DH_M1T17CarbineWeapon.ItemName"
+msgstr "Carabine Automatique M1/T17"
+
+msgid "DH_M2MortarVehicle.VehicleNameString"
+msgstr "Mortier 60mm M2"
+
+msgid "DH_M2MortarWeapon.ItemName"
+msgstr "Mortier 60mm M2"
+
+msgid "DH_M34GrenadeWeapon.NativeItemName"
+msgstr "OUG vz.34 Rucni Granat"
+
+msgid "DH_M9530Weapon.NativeItemName"
+msgstr "Gewehr M95/30"
+
+msgid "DH_M9530Weapon.ItemName"
+msgstr "Mannlicher M95/30"
