@@ -1,2 +1,24 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-11-05 17:35+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
+"Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
+"darkesthour/xvoting/ja/>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "MapVotingPage.lmsgMapVotingDisabled"
+msgstr "マップ投票はサーバー管理者によって無効にされています。"
+
+msgid "MapVotingPage.lmsgReplicationNotFinished"
+msgstr "マップデータのダウンロード中です。後でもう一度試してください。"
+
+msgid "MapVotingPage.lmsgMapDisabled"
+msgstr "選択したマップは無効です。"
+
+msgid "MapVotingPage.WindowName"
+msgstr "マップ投票"
