@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 17:35+0000\n"
+"PO-Revision-Date: 2025-11-06 02:13+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/fr/>\n"
@@ -243,7 +243,7 @@ msgid "DHAdminMenu_ErrorMessages.ErrorMessage[18]"
 msgstr "ERREUR : aucun nom d'équipe valide spécifié"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[19]"
-msgstr "ERREUR: rôle de joueur %insert_name% introuvable"
+msgstr "ERREUR : rôle de joueur %insert_name% introuvable"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[20]"
 msgstr "ERROR : objectif %insert_name% introuvable"
@@ -272,3 +272,29 @@ msgstr "Le placement de points de ralliement est déjà activé"
 
 msgid "DHAdminMenu_MenuBase.Label_PageNumber"
 msgstr "Page %X% sur %Y%"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[21]"
+msgstr ""
+"ERREUR : aucun type valide de lieu de dépôt spécifié (i.e. AtObjective, "
+"AtGrid ou AtCurrentLocation"
+
+msgid "DHAdminMenu_MenuBase.Label_PreviousMenu"
+msgstr "PgUp = menu précédent"
+
+msgid "DHAdminMenu_MenuBase.Label_PreviousPage"
+msgstr "PgUp = page précédente"
+
+msgid "DHAdminMenu_MenuBase.Label_NextPage"
+msgstr "PgDn = page suivante"
+
+msgid "DHAdminMenu_MenuBase.Label_ExitMenu"
+msgstr "Esc = sortir du menu admin"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyRename"
+msgstr "Votre pseudo a été changé par l'admin"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastMinesDisabled"
+msgstr "Tous les champs de mines ont été DÉSACTIVÉS par l'admin"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastMinesEnabled"
+msgstr "Tous les champs de mines ont été RÉACTIVÉS par l'admin"
