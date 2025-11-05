@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-11-05 17:35+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ja/>\n"
 "Language: ja\n"
@@ -33,7 +33,7 @@ msgid "DHATGunTouchMessage.Controls<1>.Text"
 msgstr "回転"
 
 msgid "DHATCannonMessage.GunIsRotating"
-msgstr "大砲が回転している"
+msgstr "大砲は回転中です"
 
 msgid "DHATCannonMessage.CannotEnter"
 msgstr "この大砲はすでに使用中です"
@@ -42,7 +42,7 @@ msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
 msgstr "終了"
 
 msgid "DHATCannonMessage.VehicleIsEnemy"
-msgstr "敵の大砲は使えない"
+msgstr "敵の大砲は使えません"
 
 msgid "DHATCannonMessage.NotQualified"
 msgstr "あなたにはこの大砲を使う資格がありません"
@@ -51,13 +51,13 @@ msgid "DHATLoadMessage.LoadedGunner"
 msgstr "{0}の装填を手伝った"
 
 msgid "DHATLoadFailMessage.CantLoad"
-msgstr "{0} を装填するにはデプロイする必要があります"
+msgstr "{0} を再装填するには構える必要があります"
 
 msgid "DHArtillerySpottingScope.PitchHeaderString"
 msgstr "勾配"
 
 msgid "DHAccessControl.SessionBanned"
-msgstr "レベルが変更されるまでこのサーバーに参加することはできません。"
+msgstr "マップが変更されるまでこのサーバーに参加することはできません。"
 
 msgid "DHAdminMessage.KickedFromSquadMessage"
 msgstr "管理者'{0}' が '{1}' を '{2}' 分隊から追放しました。"
@@ -69,7 +69,7 @@ msgid "DHATLoadMessage.BeenLoaded"
 msgstr "{0}は装填を手伝ってくれた"
 
 msgid "DHATLoadMessage.UnLoaded"
-msgstr "ロケット弾はアンロードされた"
+msgstr "ロケット弾の装填が解除された"
 
 msgid "DHAccessControl.IPBanned"
 msgstr "あなたはBANされているため、このサーバーに参加できません。"
@@ -78,13 +78,13 @@ msgid "DHArtillerySpottingScope.DistanceString"
 msgstr "距離"
 
 msgid "DHArtillerySpottingScope.RangeHeaderString"
-msgstr "射程"
+msgstr "射距離"
 
 msgid "DHArtillerySpottingScope.SquadText"
 msgstr "分隊"
 
 msgid "DHArtillerySpottingScope.SelectedTargetText"
-msgstr "選択中目標"
+msgstr "選択中の目標"
 
 msgid "DHArtillerySpottingScope.CorrectionString"
 msgstr "訂正"
@@ -138,7 +138,1864 @@ msgid "DarkestHourGame.GameName"
 msgstr "DarkestHourGame"
 
 msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
-msgstr "管理者'{0}'が{1}を{2}分隊の分隊長にしました"
+msgstr "管理者'{0}'が{1}を{2}分隊の分隊長にしました。"
 
 msgid "DHArtilleryMessage.RequestText"
-msgstr "{name}を頼んでいる。"
+msgstr "{name}を求めている。"
+
+msgid "DHAdminMessage.PlacedSpawnMessage"
+msgstr "管理者{0}が{1}チームにスポーン地点を設置しました。"
+
+msgid "DHAdminMessage.DestroyedSpawnMessage"
+msgstr "管理者'{0}'が設置した'{1}'チームのスポーン地点を管理者が破壊しました。"
+
+msgid "DHAdminMessage.DestroyedAllSpawnsMessage"
+msgstr "管理者'{0}'が設置した'{1}'チームの全てのスポーン地点を管理者が破壊しました。"
+
+msgid "DHAdminMessage.AdminTeleportedMessage"
+msgstr "管理者{0}はテレポートしました。"
+
+msgid "DHAdminMessage.AdminLoggedInMessage"
+msgstr "{0}はサーバー管理者としてログインしました。"
+
+msgid "DHAdminMessage.AdminLoggedOutMessage"
+msgstr "{0}は管理者権限を放棄しました。"
+
+msgid "DHAlliedAntiTankRoles.MyName"
+msgstr "対戦車歩兵"
+
+msgid "DHAlliedAssaultRoles.MyName"
+msgstr "突撃歩兵"
+
+msgid "DHAlliedAutoRifleRoles.MyName"
+msgstr "軽機関銃兵"
+
+msgid "DHAlliedCorporalRoles.MyName"
+msgstr "伍長"
+
+msgid "DHAlliedEngineerRoles.MyName"
+msgstr "戦闘工兵"
+
+msgid "DHAlliedMachineGunnerRoles.MyName"
+msgstr "機関銃兵"
+
+msgid "DHAlliedMortarmanRoles.MyName"
+msgstr "迫撃砲射手"
+
+msgid "DHAlliedRadioOperatorRoles.MyName"
+msgstr "無線通信士"
+
+msgid "DHAlliedRiflemanRoles.MyName"
+msgstr "小銃兵"
+
+msgid "DHAlliedSergeantRoles.MyName"
+msgstr "軍曹"
+
+msgid "DHAlliedSniperRoles.MyName"
+msgstr "狙撃手"
+
+msgid "DHAlliedTankCrewmanRoles.MyName"
+msgstr "戦車兵"
+
+msgid "DHArtillery.MenuName"
+msgstr "長距離砲撃"
+
+msgid "DHArtilleryMessage.ConfirmText"
+msgstr "{name}が承諾された。"
+
+msgid "DHArtilleryMessage.DenyText"
+msgstr "{name}が拒否された。"
+
+msgid "DHArtilleryMessage.TooSoonText"
+msgstr "{name}はすでに進行中です。再度要請してください。"
+
+msgid "DHArtilleryMessage.ExhaustedText"
+msgstr "{name}は使い果たされました。"
+
+msgid "DHArtilleryMessage.UnavailableText"
+msgstr "{name}は現在利用不可能です。"
+
+msgid "DHArtilleryMessage.BadLocationText"
+msgstr "{name}の目標地点は無効な位置です。"
+
+msgid "DHArtilleryMessage.NoTargetText"
+msgstr "目標地点がありません。"
+
+msgid "DHArtilleryMessage.NotQualifiedText"
+msgstr "あなたには{name}を要請する資格がありません。"
+
+msgid "DHArtilleryMessage.CancelledText"
+msgstr "{name}はキャンセルされました。"
+
+msgid "DHArtilleryMessage.ActiveTargetChosen"
+msgstr "火力支援の目標が設定されました。"
+
+msgid "DHArtillerySpottingScope.MeasurementToolText"
+msgstr "測距ツール"
+
+msgid "DHArtillerySpottingScope.TargetToggleHint"
+msgstr "{0}を押して砲撃目標を切り替える"
+
+msgid "DHArtillerySpottingScope.SelectTargetHint"
+msgstr "{0}を押して砲撃目標を選択"
+
+msgid "DHArtillerySpottingScope.NoTargetsHint"
+msgstr "砲撃目標がありません"
+
+msgid "DHArtilleryTargetMessage.TargetInvalid"
+msgstr "無効な砲撃目標"
+
+msgid "DHArtilleryTargetMessage.TargetMarkedHE"
+msgstr "{0}が榴弾の砲撃目標を指定した"
+
+msgid "DHArtilleryTargetMessage.TargetMarkedSmoke"
+msgstr "{0}が発煙弾の砲撃目標を指定した"
+
+msgid "DHArtilleryTargetMessage.CannotMarkTargetYet"
+msgstr "あなたはまだ別の砲撃目標を指定できません"
+
+msgid "DHArtilleryTargetMessage.TooManyArtilleryTargets"
+msgstr "有効な砲撃目標が多すぎます"
+
+msgid "DHAxisAntiTankRoles.MyName"
+msgstr "戦車猟兵"
+
+msgid "DHAxisAssaultRoles.MyName"
+msgstr "突撃歩兵"
+
+msgid "DHAxisCorporalRoles.MyName"
+msgstr "伍長"
+
+msgid "DHAxisEngineerRoles.MyName"
+msgstr "突撃工兵"
+
+msgid "DHAxisMachineGunnerRoles.MyName"
+msgstr "機関銃手"
+
+msgid "DHAxisMarksmanRoles.MyName"
+msgstr "選抜射手"
+
+msgid "DHAxisMortarmanRoles.MyName"
+msgstr "迫撃砲射手"
+
+msgid "DHAxisRadioOperatorRoles.MyName"
+msgstr "無線通信士"
+
+msgid "DHAxisRiflemanRoles.MyName"
+msgstr "小銃兵"
+
+msgid "DHAxisSergeantRoles.MyName"
+msgstr "軍曹"
+
+msgid "DHAxisSniperRoles.MyName"
+msgstr "狙撃手"
+
+msgid "DHAxisTankCrewmanRoles.MyName"
+msgstr "戦車兵"
+
+msgid "DHCommandMenu_ATGun.EnemyGunText"
+msgstr "敵の砲を回転させることは出来ない"
+
+msgid "DHCommandMenu_ATGun.CannotBeRotatedText"
+msgstr "回転できない"
+
+msgid "DHCommandMenu_ATGun.OccupiedText"
+msgstr "砲は使用中です"
+
+msgid "DHCommandMenu_ATGun.FatalText"
+msgstr "回転できない"
+
+msgid "DHCommandMenu_ATGun.CooldownText"
+msgstr "待機"
+
+msgid "DHCommandMenu_FireSupport.UnavailableText"
+msgstr "利用不可能"
+
+msgid "DHCommandMenu_FireSupport.InvalidTargetText"
+msgstr "無効な砲撃目標"
+
+msgid "DHCommandMenu_FireSupport.OffMapSupportExhaustedText"
+msgstr "使い果たしている"
+
+msgid "DHCommandMenu_FireSupport.AvailableArtilleryText"
+msgstr "砲撃:{0}回"
+
+msgid "DHCommandMenu_FireSupport.AvailableParadropsText"
+msgstr "空挺降下:{0}回"
+
+msgid "DHCommandMenu_FireSupport.AvailableAirstrikesText"
+msgstr "空爆:{0}回"
+
+msgid "DHCommandMenu_LoneWolf.AutoJoinSquadDisabledText"
+msgstr "加入できる分隊がありません"
+
+msgid "DHCommandMenu_LoneWolf.Options<0>.ActionText"
+msgstr "分隊への自動加入"
+
+msgid "DHCommandMenu_LoneWolf.Options<1>.ActionText"
+msgstr "分隊を作る"
+
+msgid "DHCommandMenu_Patron.Options<0>.ActionText"
+msgstr "建築"
+
+msgid "DHCommandMenu_Patron.Options<1>.ActionText"
+msgstr "スポット"
+
+msgid "DHCommandMenu_Radio.UnavailableText"
+msgstr "利用不可能"
+
+msgid "DHCommandMenu_Radio.ExhaustedText"
+msgstr "使い果たしている"
+
+msgid "DHCommandMenu_Radio.UnqualifiedText"
+msgstr "利用する資格がない"
+
+msgid "DHCommandMenu_Radio.OngoingText"
+msgstr "砲撃は進行中"
+
+msgid "DHCommandMenu_Radio.AvailableText"
+msgstr "利用可能"
+
+msgid "DHCommandMenu_SquadAssistant.Options<0>.ActionText"
+msgstr "建築"
+
+msgid "DHCommandMenu_SquadAssistant.Options<1>.ActionText"
+msgstr "スポット"
+
+msgid "DHCommandMenu_SquadLeader.InEnemyTerritory"
+msgstr "敵の支配領域にいる"
+
+msgid "DHCommandMenu_SquadLeader.Options<0>.ActionText"
+msgstr "分隊リスポーン地点(rally)を設置する"
+
+msgid "DHCommandMenu_SquadLeader.Options<1>.ActionText"
+msgstr "攻撃"
+
+msgid "DHCommandMenu_SquadLeader.Options<2>.ActionText"
+msgstr "建築"
+
+msgid "DHCommandMenu_SquadLeader.Options<4>.ActionText"
+msgstr "スポット"
+
+msgid "DHCommandMenu_SquadLeader.Options<5>.ActionText"
+msgstr "移動"
+
+msgid "DHCommandMenu_SquadManageMember.Options<0>.SubjectText"
+msgstr "分隊からキックする"
+
+msgid "DHCommandMenu_SquadManageMember.Options<1>.SubjectText"
+msgstr "分隊長にする"
+
+msgid "DHCommandMenu_SquadManageMember.Options<2>.SubjectText"
+msgstr "分隊からバン"
+
+msgid "DHCommandMenu_SquadManageMember.Options<3>.SubjectText"
+msgstr "副分隊長にする"
+
+msgid "DHCommandMenu_SquadManageMember.Options<4>.SubjectText"
+msgstr "副分隊長の任を解く"
+
+msgid "DHCommandMenu_SquadManageNonMember.AlreadyInASquadText"
+msgstr "すでに分隊に所属しています"
+
+msgid "DHCommandMenu_SquadManageNonMember.SquadIsFullText"
+msgstr "分隊は満員です"
+
+msgid "DHCommandMenu_SquadManageNonMember.Options<0>.ActionText"
+msgstr "分隊に招く"
+
+msgid "DHCommandPostMessage.ActivatedMessage"
+msgstr "{name}が開設されました。"
+
+msgid "DHCommandPostMessage.OverrunMessage"
+msgstr "{name}は敵によって制圧されました。"
+
+msgid "DHCommandPostMessage.DestroyedMessage"
+msgstr "{name}は破壊されました。"
+
+msgid "DHCommandPostMessage.ConstructedMessage"
+msgstr "{name}は{seconds}秒で開設されます。"
+
+msgid "DHCommunicationMessage.AllChatDisabledMessage"
+msgstr "全体チャットは現在無効です。"
+
+msgid "DHConstruction.ConstructionVerb"
+msgstr "作る"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<2>"
+msgstr "{name}は固い地面に{verb}しなければなりません。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<3>"
+msgstr "地面の勾配があまりに急なので{name}を{verb}できません。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<4>"
+msgstr "{name}を水中に{verb}ことはできません。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<5>"
+msgstr "ここに{name}を{verb}ことはできません。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<6>"
+msgstr "{name}を{verb}のに十分な空間がありません。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<7>"
+msgstr "{name}は土の上に{verb}必要があります。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<8>"
+msgstr "自軍の{name}に近すぎます。{integer}m以上離れる必要があります。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<9>"
+msgstr "敵の{name}に近すぎます。{integer}m以上離れる必要があります。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<10>"
+msgstr "{name}を地雷原に{verb}ことはできません。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<11>"
+msgstr "スポーン地点の近くに{name}を{verb}ことはできません。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<12>"
+msgstr "屋内に{name}を{verb}ことはできません。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<13>"
+msgstr "目標地点内に{name}を{verb}ことはできません。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<14>"
+msgstr "あなたのチームはこれ以上{name}を{verb}できません。制限の{integer}に達しました"
+"。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<15>"
+msgstr "{integer}m以内に兵站集積所がありません。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<16>"
+msgstr "{name}を{verb}のに十分な物資がありません。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<17>"
+msgstr "この場所に{name}を{verb}ことはできません。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<18>"
+msgstr "この地面は固すぎるので{name}を{verb}できません。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<20>"
+msgstr "{name}を{verb}には{integer}人の分隊員が必要です。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<21>"
+msgstr "他の活動中に{name}を{verb}ことはできません。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<22>"
+msgstr "目標{string}に近すぎます。{integer}m以上離れる必要があります。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<23>"
+msgstr "支配下でない目標({string})に近すぎます。{integer}m以上離れる必要があります。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<24>"
+msgstr "{name}は自軍の{string}から{integer}m以内で{verb}必要があります"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<25>"
+msgstr "敵の支配領域に{name}を{verb}ことはできません"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<26>"
+msgstr "利用可能な{name}はもうありません"
+
+msgid "DHConstructionGroup_Guns.GroupName"
+msgstr "砲"
+
+msgid "DHConstructionSupplyAttachment.HumanReadableName"
+msgstr "兵站集積所"
+
+msgid "DHConstructionSupplyAttachment_Static_Main.HumanReadableName"
+msgstr "主な兵站集積所"
+
+msgid "DHConstruction_Vehicle.ConstructionVerb"
+msgstr "設置する"
+
+msgid "DHEnemyInformationMsg.EnemyIsWeak"
+msgstr "敵の増援は尽きようとしている。勝利は近い!"
+
+msgid "DHEnemyInformationMsg.EnemyIsSurrendering"
+msgstr "敵は退却している。戦闘はすぐに終わるだろう!"
+
+msgid "DHFireSupportMessage.OnMapArtilleryRequestConfirmedText"
+msgstr "火力支援目標が指定されました。"
+
+msgid "DHFireSupportMessage.OffMapArtilleryRequestConfirmedText"
+msgstr "長距離砲撃の目標が指定されました。"
+
+msgid "DHFireSupportMessage.OnMapArtilleryRequestingLocked"
+msgstr "あなたは{seconds}秒間火力支援目標を設定できません。"
+
+msgid "DHFireSupportMessage.RadiomanNotification"
+msgstr "{squad}分隊が長距離砲撃の目標を設定しました。"
+
+msgid "DHFireSupportMessage.ArtilleryOperatorNotification"
+msgstr "{squad}分隊が{type}の火力支援目標を設定しました。"
+
+msgid "DHFireSupportMessage.ErrorText"
+msgstr "火力支援目標を設定できませんでした。"
+
+msgid "DHFriendlyInformationMsg.TeamSurrendered"
+msgstr "あなたのチームは退却を決定しました。戦闘はすぐに終わります!"
+
+msgid "DHGameMessage.VehicleDestroyedMessage"
+msgstr "{0}は破壊されました。"
+
+msgid "DHGameMessage.VehicleDepletedMessage"
+msgstr "{0}の増援はなくなりました。"
+
+msgid "DHGameMessage.VehicleArrivedMessage"
+msgstr "{0}の増援が到着しました。"
+
+msgid "DHGameMessage.VehicleCutOffMessage"
+msgstr "{0}の増援は絶たれました。"
+
+msgid "DHGameMessage.VehicleTeamKilledMessage"
+msgstr "{0}は自軍の{1}を破壊した。"
+
+msgid "DHGameMessage.RoleInvalidatedMessage"
+msgstr "あなたは{name}の資格を失いました。"
+
+msgid "DHGameMessage.RoleLockedMessage"
+msgstr "{role}が固定されました。"
+
+msgid "DHGameMessage.RoleUnlockedMessage"
+msgstr "{role}の固定が解除されました。"
+
+msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
+msgstr "敵の前線指揮所(HQ)を破壊するには仲間が必要です!"
+
+msgid "DHGameMessage.NewTeamMessageRussian"
+msgstr "{name}が連合国側に加わりました。"
+
+msgid "DHGameMessage.NewTeamMessageGerman"
+msgstr "{name}が枢軸国側に加わりました。"
+
+msgid "DHGameMessage.FFKillMessage"
+msgstr "{name}は自軍の兵士を殺した。"
+
+msgid "DHGameMessage.FFViolationMessage"
+msgstr "フレンドリーファイアにより{name}を削除します。"
+
+msgid "DHGameMessage.RoleChangeMsg"
+msgstr "あなたは{role}としてリスポーンします。"
+
+msgid "DHGameMessage.MaxRoleMsg"
+msgstr "{role}になることはできません。"
+
+msgid "DHGameMessage.HasForgivenMessage"
+msgstr "{victim}は{killer}を許しました。"
+
+msgid "DHGameMessage.LeftMessage"
+msgstr "{name}が戦場を去りました。"
+
+msgid "DHGameMessage.EnteredMessage"
+msgstr "{name}が戦場に来ました。"
+
+msgid "DHGameMessage.GlobalNameChange"
+msgstr "{old_name}は名前を{new_name}に変更しました。"
+
+msgid "DHGameMessage.VoteStarted"
+msgstr "{name}が投票を開始しました。"
+
+msgid "DHGameReplicationInfo.ForceScaleText"
+msgstr "大きさ"
+
+msgid "DHGameReplicationInfo.ReinforcementsInfiniteText"
+msgstr "無制限"
+
+msgid "DHGameType.GameTypeName"
+msgstr "不明なゲームルール"
+
+msgid "DHGameType_Advance.GameTypeName"
+msgstr "進撃(Advance)"
+
+msgid "DHGameType_Armored_Advance.GameTypeName"
+msgstr "進撃(戦車混合)(Armored Advance)"
+
+msgid "DHGameType_Clash.GameTypeName"
+msgstr "衝突(Clash)"
+
+msgid "DHGameType_Defence.GameTypeName"
+msgstr "防衛"
+
+msgid "DHGameType_Domination.GameTypeName"
+msgstr "支配"
+
+msgid "DHGameType_Push.GameTypeName"
+msgstr "攻勢(Push)"
+
+msgid "DHGameType_Stalemate.GameTypeName"
+msgstr "膠着状態"
+
+msgid "DHGetPassword.GetPassFail.Caption"
+msgstr "キャンセル"
+
+msgid "DHGetPassword.GetPassRetry.Caption"
+msgstr "送信"
+
+msgid "DHHintManager.Hints[0].Title"
+msgstr "Darkest Hour にようこそ!"
+
+msgid "DHHintManager.Hints[0].Text"
+msgstr ""
+"これらのヒントメッセージはゲーム中に定期的に表示されます。注意深く見てくださ"
+"い。生死はヒントメッセージにかかっているかもしれません!設定メニューのHUDタブ"
+"から無効にできます。"
+
+msgid "DHHintManager.Hints[1].Title"
+msgstr "乗り越える"
+
+msgid "DHHintManager.Hints[1].Text"
+msgstr ""
+"小さな障害物は乗り越えることができます！乗り越えるには、低い障害物の前に立ち"
+"、乗り越えアイコンが表示されたら、%JUMP% を押して障害物の上に乗り越えます。"
+
+msgid "DHHintManager.Hints[2].Title"
+msgstr "パラシュート"
+
+msgid "DHHintManager.Hints[2].Text"
+msgstr "移動キーでパラシュートを操作できます!"
+
+msgid "DHHintManager.Hints[3].Title"
+msgstr "発煙筒"
+
+msgid "DHHintManager.Hints[3].Text"
+msgstr "発煙筒は、チームメイトとの意思疎通に使用されます。色付き発煙筒の意味は必ずチ"
+"ームメイトに伝えましょう。"
+
+msgid "DHHintManager.Hints[6].Title"
+msgstr "迫撃砲"
+
+msgid "DHHintManager.Hints[6].Text"
+msgstr ""
+"迫撃砲を持ち運んでいる間は武器の変更・スプリント・伏せ・障害部の乗り越えはで"
+"きません。迫撃砲を展開するには、平らな地面でしゃがみ、%DEPLOY% "
+"を押してください。"
+
+msgid "DHHintManager.Hints[7].Title"
+msgstr "迫撃砲の運用"
+
+msgid "DHHintManager.Hints[7].Text"
+msgstr ""
+"迫撃砲の水平方向を調整するには、AキーまたはDキーを押し続けます。仰角を上げる"
+"にはSキーを押します。仰角を下げるにはWキーを押します。弾薬の種類を変更するに"
+"は、%SwitchFireMode%キーを押します。弾を発射するには、%Fire%キーを押します。"
+
+msgid "DHHintManager.Hints[8].Title"
+msgstr "砲撃目標"
+
+msgid "DHHintManager.Hints[8].Text"
+msgstr ""
+"分隊長は砲撃目標を設定することができ、それらはマップ上に表示されます。砲弾が"
+"目標地点の近くに着弾すると、着弾位置がマップ上に表示されます。これらの表示を"
+"使って目標を狙いましょう。"
+
+msgid "DHHintManager.Hints[9].Title"
+msgstr "迫撃砲から離れる"
+
+msgid "DHHintManager.Hints[9].Text"
+msgstr ""
+"%Use%キーを押すことで、いつでも迫撃砲から離れることができます。迫撃砲から離れ"
+"ている間は、補給エリアまたはチームメイトから弾薬を得ることができます。"
+
+msgid "DHHintManager.Hints[10].Title"
+msgstr "迫撃砲を持ち上げる"
+
+msgid "DHHintManager.Hints[10].Text"
+msgstr "迫撃砲を持ち上げるには、%Deploy%キーを押します。その際、仰俯角や左右の設定は"
+"初期化されます。"
+
+msgid "DHHintManager.Hints[12].Title"
+msgstr "双眼鏡"
+
+msgid "DHHintManager.Hints[12].Text"
+msgstr ""
+"双眼鏡を使って火力支援目標を設定できます。%ROIRONSIGHTS%キーを押して双眼鏡を"
+"覗き、%FIRE%キーを長押しして火力支援メニューを表示します。"
+
+msgid "DHHintManager.Hints[13].Title"
+msgstr "無線通信手"
+
+msgid "DHHintManager.Hints[13].Text"
+msgstr "あなたは無線通信士です!分隊長が長距離砲撃を要請できるように、分隊長のそばにい"
+"てください!"
+
+msgid "DHHintManager.Hints[40].Title"
+msgstr "車両の発動機"
+
+msgid "DHHintManager.Hints[40].Text"
+msgstr "あなたは車両に乗りました。発動機のオンオフを切り替えるには%FIRE%を押してくだ"
+"さい。"
+
+msgid "DHHintManager.Hints[42].Title"
+msgstr "Higgins Boat"
+
+msgid "DHHintManager.Hints[42].Text"
+msgstr ""
+"あなたは\"ヒギンズボート\"を操縦しています"
+"。船首のランプを開くには%PREVWEAPON%(デフォルトはマウスホイールを下に回す) "
+"。船首ランプを上げるには、%NEXTWEAPON% 。"
+
+msgid "DHHintManager.Hints[43].Title"
+msgstr "再補給トラック"
+
+msgid "DHHintManager.Hints[43].Text"
+msgstr "再補給トラックの近くにいます。弾薬を補給するには、トラックの外の後方に立って"
+"ください。"
+
+msgid "DHHintManager.Hints[44].Title"
+msgstr "兵站トラック"
+
+msgid "DHHintManager.Hints[44].Text"
+msgstr "あなたは兵站トラックを運転しています。この車両は他の車両や迫撃砲、歩兵に弾薬"
+"を供給できます。安全な場所に停めましょう。"
+
+msgid "DHHintManager.Hints[46].Title"
+msgstr "車載機関銃"
+
+msgid "DHHintManager.Hints[46].Text"
+msgstr "この機関銃は車外に設置されており、射撃や再装填はハッチを開けた状態でのみ可能"
+"です"
+
+msgid "DHHintManager.Hints[47].Title"
+msgstr "リモコン機銃"
+
+msgid "DHHintManager.Hints[47].Text"
+msgstr "この機関銃は車内からのみ射撃できますが、再装填はハッチを開けた状態でなければ"
+"できません"
+
+msgid "DHHintManager.Hints[48].Title"
+msgstr "車外の機関銃の再装填"
+
+msgid "DHHintManager.Hints[48].Text"
+msgstr "ハッチを開いた（かつ双眼鏡を覗いていない）状態でのみ車外の機関銃を再装填でき"
+"ます"
+
+msgid "DHHintManager.Hints[49].Title"
+msgstr "索敵スコープ"
+
+msgid "DHHintManager.Hints[50].Title"
+msgstr "砲撃指揮官"
+
+msgid "DHHintManager.Hints[51].Title"
+msgstr "マップ操作"
+
+msgid "DHHintManager.Hints[51].Text"
+msgstr "%JUMP%を押してマップを操作できます。"
+
+msgid "DHHintManager.Hints[52].Title"
+msgstr "マップ操作2"
+
+msgid "DHHintManager.Hints[52].Text"
+msgstr "マップの拡大縮小はマウスホイールで、表示範囲の移動は左クリックしながらドラッ"
+"グで行えます。"
+
+msgid "DHHintManager.Hints[53].Title"
+msgstr "マップ上のマーカー"
+
+msgid "DHHintManager.Hints[53].Text"
+msgstr "マップ上にマーカーを追加したり操作したりするには、対象の場所にマウスカーソル"
+"を移動して右クリックします。"
+
+msgid "DHHintManager.Hints[54].Title"
+msgstr "無線機を探す"
+
+msgid "DHHintManager.Hints[54].Text"
+msgstr "長距離砲撃の目標を設定しました。砲撃を要請するには無線機を探してください!"
+
+msgid "DHHintManager.Hints[55].Title"
+msgstr "衝撃信管手榴弾"
+
+msgid "DHHintManager.Hints[55].Text"
+msgstr "衝撃信管手榴弾はなにかにぶつかると爆発します。しっかり投げないと爆発しないか"
+"もしれません!"
+
+msgid "DHHintManager.Hints[60].Title"
+msgstr "射距離"
+
+msgid "DHHintManager.Hints[60].Text"
+msgstr "この兵器の照準器は距離の調整が可能です!%SWITCHFIREMODE%を押して照準距離を変更"
+"します。"
+
+msgid "DHHintManager.Hints[61].Title"
+msgstr "苦肉の策"
+
+msgid "DHHintManager.Hints[61].Text"
+msgstr "この武器は非標準弾薬を使用するため補給はできません。弾を無駄にしないでくださ"
+"い！"
+
+msgid "DHHintManager.Hints[62].Title"
+msgstr "銃身の過熱"
+
+msgid "DHHintManager.Hints[62].Text"
+msgstr "機関銃の銃身が過熱しています!銃身の過熱は精度の低下を引き起こし、最終的には射"
+"撃できなくなります。"
+
+msgid "DHHintManager.Hints[63].Title"
+msgstr "銃身の交換"
+
+msgid "DHHintManager.Hints[63].Text"
+msgstr "この機関銃は銃身を交換できます。展開中に%ROMGOPERATION%を押して予備の銃身に交"
+"換します。"
+
+msgid "DHHintManager.Hints[64].Title"
+msgstr "過熱による破損"
+
+msgid "DHHintManager.Hints[64].Text"
+msgstr "加熱によって銃身が壊れました。この銃身で撃つことはできません。"
+
+msgid "DHHintManager.Hints[65].Title"
+msgstr "Semovente da 90/53"
+
+msgid "DHHintManager.Hints[65].Text"
+msgstr "Semovente da 90/"
+"53は強力な砲を搭載していますが、搭載弾薬数は非常に限られています。一発を丁寧"
+"に!"
+
+msgid "DHHintManager.Hints[66].Title"
+msgstr "砲撃!"
+
+msgid "DHHintManager.Hints[66].Text"
+msgstr "迫撃砲弾を真上に発射しました。身を隠した方が良いでしょう!"
+
+msgid "DHHud.ServerNameText"
+msgstr "サーバー: "
+
+msgid "DHHud.MapNameText"
+msgstr "マップ: "
+
+msgid "DHHud.MapGameTypeText"
+msgstr "ゲーム形式: "
+
+msgid "DHHud.NoTimeLimitText"
+msgstr "無制限"
+
+msgid "DHHud.AndMoreText"
+msgstr "そしてさらに......"
+
+msgid "DHHud.LegendCarriedArtilleryRadioText"
+msgstr "砲撃通信手"
+
+msgid "DHHud.TimeElapsedText"
+msgstr "経過時間: "
+
+msgid "DHHud.JoinTeamText"
+msgstr "[ESC]を押してチームに加わる"
+
+msgid "DHHud.InvalidSpawnSettingsText"
+msgstr "[ESC]を押して兵科、車両、スポーン地点を選択"
+
+msgid "DHHud.NotReadyToSpawnText"
+msgstr "{s}秒後にスポーン可能になります。(この時間を分隊の組織と計画の立案に使いまし"
+"ょう!)"
+
+msgid "DHHud.SelectSpawnPointText"
+msgstr "[ESC]を押してスポーン地点を選択"
+
+msgid "DHHud.SpawnInfantryText"
+msgstr "{2}後に{0}としてスポーンします|[ESC]を押して変更"
+
+msgid "DHHud.SpawnVehicleText"
+msgstr "{2}後に{3}を操縦する{0}としてスポーンします |[ESC]を押して変更"
+
+msgid "DHHud.SpawnAtVehicleText"
+msgstr "{2}後に{1}に{0}としてスポーンします |[ESC]を押して変更"
+
+msgid "DHHud.SpawnRallyPointText"
+msgstr "{2}後に{0}として分隊リスポーン地点(rally)にスポーンします。|[ESC]を押して変更"
+
+msgid "DHHud.SpawnNoRoleText"
+msgstr "[ESC]を押して兵科を選択"
+
+msgid "DHHud.NeedReloadText"
+msgstr "再装填が必要です"
+
+msgid "DHHud.CanReloadText"
+msgstr "%THROWMGAMMO%を押して再装填を手伝う"
+
+msgid "DHHud.ConnectedObjectivesNotSecuredText"
+msgstr "関連する目標が占領されていません"
+
+msgid "DHHud.NeedsClearedText"
+msgstr " (未占領)"
+
+msgid "DHHud.BlackoutText"
+msgstr "暗転"
+
+msgid "DHHud.PlaceRallyPointText"
+msgstr "[%PLACERALLYPOINT%]を押す"
+
+msgid "DHHud.SayTypeConsoleText"
+msgstr "[コンソール]"
+
+msgid "DHHud.SayTypeAllText"
+msgstr "[全体チャット]"
+
+msgid "DHHud.TypingPromptText"
+msgstr "[{0}]を押してチャット送信範囲を変更"
+
+msgid "DHHud.PrereleaseDisclaimerText"
+msgstr "これはプレリリースビルドです。すべてのコンテンツは変更される可能性があります"
+"。"
+
+msgid "DHHud.ReinforcementText"
+msgstr "{2}後に{0}としてスポーン|[ESC]を押して変更"
+
+msgid "DHHud.TeamMessagePrefix"
+msgstr "[チーム] "
+
+msgid "DHHud.SpectateInstructionText1"
+msgstr "[%FIRE%]を押して視点と観戦対象を変更"
+
+msgid "DHHud.SpectateInstructionText2"
+msgstr "[%ALTFIRE%]を押して観戦モードを変更"
+
+msgid "DHHud.SpectateInstructionText3"
+msgstr "[%ROIRONSIGHTS%]を押して視点の一人称と三人称を切り替え"
+
+msgid "DHHud.SpectateInstructionText4"
+msgstr "[%JUMP%]を押して自身を見る"
+
+msgid "DHHud.LegendAxisObjectiveText"
+msgstr "枢軸側支配地域"
+
+msgid "DHHud.LegendAlliesObjectiveText"
+msgstr "連合国側支配地域"
+
+msgid "DHHud.LegendArtilleryRadioText"
+msgstr "砲撃要請用の無線機"
+
+msgid "DHIQMessage.LeaderAWOLMessage"
+msgstr "あなたは分隊と補給線を無視しています。"
+
+msgid "DHIQMessage.MemberAWOLMessage"
+msgstr "あなたは分隊を放棄しています。"
+
+msgid "DHIQMessage.NotInSquadMessage"
+msgstr "あなたは分隊にいません。"
+
+msgid "DHIQMessage.Congratulations<0>"
+msgstr "わあ!とても賢いですね!"
+
+msgid "DHIQMessage.Congratulations<1>"
+msgstr "すばらしい!"
+
+msgid "DHIQMessage.Congratulations<2>"
+msgstr "あなたは戦術の天才だ!"
+
+msgid "DHIQMessage.Congratulations<3>"
+msgstr "よくやった!"
+
+msgid "DHIQMessage.Congratulations<4>"
+msgstr "ホントにイカれてる!"
+
+msgid "DHIQMessage.Congratulations<6>"
+msgstr "おみごと!"
+
+msgid "DHIQMessage.Congratulations<7>"
+msgstr "あなたは天才だ!"
+
+msgid "DHInventorySpawner.MenuNoun"
+msgstr "箱"
+
+msgid "DHInventorySpawner.MenuNameFormat"
+msgstr "{name}{noun}"
+
+msgid "DHLastObjectiveMessage.AxisAboutToWinMessage"
+msgstr "最終目標 -- 枢軸国側は戦いに勝ちつつあります!"
+
+msgid "DHLastObjectiveMessage.AlliesAboutToWinMessage"
+msgstr "最終目標 -- 連合国側は戦いに勝ちつつあります!"
+
+msgid "DHLib.ServerHealthStages[0].Text"
+msgstr "良好"
+
+msgid "DHLib.ServerHealthStages[1].Text"
+msgstr "問題なし"
+
+msgid "DHLib.ServerHealthStages[2].Text"
+msgstr "要注意"
+
+msgid "DHLib.ServerHealthStages[3].Text"
+msgstr "異常"
+
+msgid "DHLib.ServerHealthStages[4].Text"
+msgstr "停止中"
+
+msgid "DHLocalMessage.SquadLeaderID"
+msgstr "分隊長"
+
+msgid "DHLocalMessage.SquadAssistantID"
+msgstr "副分隊長"
+
+msgid "DHMainMenuGame.GameName"
+msgstr "ゲーム"
+
+msgid "DHMapDatabase.SizeAnyText"
+msgstr "どれでも"
+
+msgid "DHMapDatabase.SizeExtraSmallText"
+msgstr "最小"
+
+msgid "DHMapDatabase.SizeSmallText"
+msgstr "小"
+
+msgid "DHMapDatabase.SizeMediumText"
+msgstr "中"
+
+msgid "DHMapDatabase.SizeLargeText"
+msgstr "大"
+
+msgid "DHMapMarker.CalculatingString"
+msgstr "計算中......"
+
+msgid "DHMapMarker_AdminParadrop.MarkerName"
+msgstr "管理者:空挺降下目標を配置"
+
+msgid "DHMapMarker_Enemy_ATGun.MarkerName"
+msgstr "敵の対戦車砲"
+
+msgid "DHMapMarker_Enemy_CommandPost.MarkerName"
+msgstr "敵の前線指揮所(HQ)"
+
+msgid "DHMapMarker_Enemy_Infantry.MarkerName"
+msgstr "敵歩兵"
+
+msgid "DHMapMarker_Enemy_Tank.MarkerName"
+msgstr "敵戦車"
+
+msgid "DHMapMarker_Enemy_Vehicle.MarkerName"
+msgstr "敵車両"
+
+msgid "DHMapMarker_FireSupport_HE.MarkerName"
+msgstr "迫撃砲の目標: 榴弾"
+
+msgid "DHMapMarker_FireSupport_OffMap.MarkerName"
+msgstr "長距離砲撃の目標"
+
+msgid "DHMapMarker_FireSupport_Smoke.MarkerName"
+msgstr "迫撃砲の目標: 発煙弾"
+
+msgid "DHMapMarker_Friendly_CommandPost.MarkerName"
+msgstr "前線指揮所(HQ)の開設予定地"
+
+msgid "DHMapMarker_Friendly_Supplies.MarkerName"
+msgstr "兵站集積所の開設予定地"
+
+msgid "DHMapMarker_OngoingBarrage.MarkerName"
+msgstr "進行中の砲撃"
+
+msgid "DHMapMarker_Ruler.MarkerName"
+msgstr "距離計"
+
+msgid "DHMapMarker_Squad_Attack.MarkerName"
+msgstr "分隊目標: 攻撃"
+
+msgid "DHMapMarker_Squad_Attention.MarkerName"
+msgstr "分隊目標: 注意"
+
+msgid "DHMapMarker_Squad_Defend.MarkerName"
+msgstr "分隊目標: 防衛"
+
+msgid "DHMapMarker_Squad_Move.MarkerName"
+msgstr "分隊目標: 移動"
+
+msgid "DHMortarMessage.MustCrouch"
+msgstr "迫撃砲を展開するにはしゃがむ必要があります"
+
+msgid "DHMortarMessage.MustBeStill"
+msgstr "移動中に迫撃砲を展開することはできません"
+
+msgid "DHMortarMessage.CannotLean"
+msgstr "伏せながら迫撃砲を展開することはできません"
+
+msgid "DHMortarMessage.BadSurface"
+msgstr "この地面に迫撃砲を展開することはできません"
+
+msgid "DHMortarMessage.NotEnoughRoom"
+msgstr "ここには迫撃砲の展開に十分な空間がありません"
+
+msgid "DHMortarMessage.CannotDeploy"
+msgstr "ここに迫撃砲を展開することはできません"
+
+msgid "DHMortarMessage.InWater"
+msgstr "水中に迫撃砲を展開することはできません"
+
+msgid "DHMortarMessage.NotQualified"
+msgstr "あなたはこの迫撃砲を使う資格がありません"
+
+msgid "DHMortarMessage.InUse"
+msgstr "現在使用中の迫撃砲を使うことはできません"
+
+msgid "DHMortarMessage.EnemyMortar"
+msgstr "敵の迫撃砲を使うことはできません"
+
+msgid "DHObjectiveMessage.TeamStrings[0]"
+msgstr "枢軸国"
+
+msgid "DHObjectiveMessage.TeamStrings[1]"
+msgstr "連合国"
+
+msgid "DHObjectiveMessage.NotificationTypes[0]"
+msgstr "中立化されている"
+
+msgid "DHObjectiveMessage.NotificationTypes[1]"
+msgstr "占領されている"
+
+msgid "DHObjectiveMessage.NotificationTypes[2]"
+msgstr "占領している"
+
+msgid "DHObjectiveMessage.NotificationMessage"
+msgstr "{0}は{2}を{1}"
+
+msgid "DHPawn.AdminSpawnedVehicleText"
+msgstr "管理者 {name} が {車両} をスポーンしました"
+
+msgid "DHPawnTouchMessage.Messages<0>"
+msgstr "[%THROWMGAMMO%]を押して{0}に弾薬を渡す"
+
+msgid "DHPawnTouchMessage.Messages<1>"
+msgstr "[%THROWMGAMMO%]を押して{0}の再装填を手伝う"
+
+msgid "DHPawnTouchMessage.Messages<2>"
+msgstr "[%THROWMGAMMO%]を押して{0}に弾薬を渡し、再装填を手伝う"
+
+msgid "DHPawnTouchMessage.FallbackPlayerName"
+msgstr "自軍の兵士"
+
+msgid "DHPlayerReplicationInfo.SquadLeaderAbbreviation"
+msgstr "SL"
+
+msgid "DHPlayerReplicationInfo.AssistantAbbreviation"
+msgstr "ASL"
+
+msgid "DHRadioTouchMessage.RequestMessage"
+msgstr "[%SHOWORDERMENU | ONRELEASE HIDEORDERMENU%]を押し続けて砲撃を要請"
+
+msgid "DHRadioTouchMessage.NotQualifiedMessage"
+msgstr "あなたにはこの無線機を使用する資格がありません"
+
+msgid "DHRadioTouchMessage.NoTargetMessage"
+msgstr "砲撃目標が指定されていません"
+
+msgid "DHRadioTouchMessage.NotOwnedMessage"
+msgstr "敵の無線機は使用できません"
+
+msgid "DHRadioTouchMessage.BusyMessage"
+msgstr "無線機は現在使用中です"
+
+msgid "DHRadioTouchMessage.CalibratingMessage"
+msgstr "無線機は較正中です"
+
+msgid "DHReinforcementAwardMsg.ObjectiveString"
+msgstr "目標"
+
+msgid "DHReinforcementAwardMsg.ReinforcementAward"
+msgstr "あなたのチームは{1}を占領したことで{0}人の増援を得ました!"
+
+msgid "DHReinforcementAwardMsg.ReinforcementLoss"
+msgstr "あなたのチームは{1}を喪失したことで{0}人の増援を失いました!"
+
+msgid "DHReinforcementAwardMsg.ReinforcementAttrition"
+msgstr "あなたのチームは多くの増援を失っています!!!"
+
+msgid "DHReinforcementMsg.ReinforcementsRemaining"
+msgstr "あなたのチームには増援の{0}%が残っています!"
+
+msgid "DHReinforcementMsg.ReinforcementsDepleted"
+msgstr "あなたのチームの増援は尽きました！"
+
+msgid "DHResetGameMsg.CountdownText"
+msgstr "ゲームは{seconds}秒後に再スタートします"
+
+msgid "DHResetGameMsg.GameRestartingText"
+msgstr "ゲームは再スタート中です"
+
+msgid "DHResupplyMessage.HaveResupplied"
+msgstr "{0}が補給されました"
+
+msgid "DHResupplyMessage.BeenResupplied"
+msgstr "{0}から補給されました"
+
+msgid "DHResupplyMessage.HaveResuppliedFriendlyMortar"
+msgstr "自軍の迫撃砲に弾薬を供給しました"
+
+msgid "DHRocketWarningMessage.NoHipFire"
+msgstr "{0}を腰だめで撃つことはできません"
+
+msgid "DHRocketWarningMessage.CrouchOrRestToFire"
+msgstr "{0}を撃つにはしゃがむか依託する必要があります"
+
+msgid "DHRocketWarningMessage.ProneOrRestToFire"
+msgstr "{0}を撃つには伏せるか依託する必要があります"
+
+msgid "DHRocketWarningMessage.NoProneReload"
+msgstr "伏せながら{0}を再装填することはできません"
+
+msgid "DHRocketWarningMessage.RestToReload"
+msgstr "{0}を再装填するには伏せる必要があります"
+
+msgid "DHRocketWarningMessage.ShoulderForAssistedReload"
+msgstr "再装填を手伝ってもらうには{0}を構えなければなりません"
+
+msgid "DHRocketWarningMessage.CantBeMoving"
+msgstr "{0}を撃つには静止している必要があります"
+
+msgid "DHScoreCategory_Combat.HumanReadableName"
+msgstr "戦闘"
+
+msgid "DHScoreCategory_Support.HumanReadableName"
+msgstr "支援"
+
+msgid "DHScoreEvent_ConstructionCompleted.HumanReadableName"
+msgstr "建築"
+
+msgid "DHScoreEvent_FireSupportSpottingAssist.HumanReadableName"
+msgstr "火力支援・スポット"
+
+msgid "DHScoreEvent_FriendlyReload.HumanReadableName"
+msgstr "自軍の再装填"
+
+msgid "DHScoreEvent_FriendlyResupply.HumanReadableName"
+msgstr "自軍への弾薬供給"
+
+msgid "DHScoreEvent_Kill.HumanReadableName"
+msgstr "キル"
+
+msgid "DHScoreEvent_ObjectiveCapture.HumanReadableName"
+msgstr "目標を占領しました"
+
+msgid "DHScoreEvent_ObjectiveNeutralize.HumanReadableName"
+msgstr "目標が中立化されました"
+
+msgid "DHScoreEvent_SquadRallyPointEstablished.HumanReadableName"
+msgstr "分隊リスポーン地点(rally)の開設"
+
+msgid "DHScoreEvent_SquadRallyPointEstablishedAssist.HumanReadableName"
+msgstr "分隊リスポーン地点(rally)の開設(補助)"
+
+msgid "DHScoreEvent_SquadRallyPointSpawn.HumanReadableName"
+msgstr "分隊リスポーン地点(rally)でリスポーン"
+
+msgid "DHScoreEvent_Suicide.HumanReadableName"
+msgstr "自殺"
+
+msgid "DHScoreEvent_TeamKill.HumanReadableName"
+msgstr "チームキル"
+
+msgid "DHScoreEvent_TeamKillPunish.HumanReadableName"
+msgstr "チームキルへの罰"
+
+msgid "DHScoreEvent_VehicleKill.HumanReadableName"
+msgstr "車両破壊"
+
+msgid "DHServerSayMessage.MessagePrefix"
+msgstr "[サーバー]"
+
+msgid "DHSetupPhaseMessage.PhaseMessage"
+msgstr "戦闘は{0}後に始まります"
+
+msgid "DHSetupPhaseMessage.PhaseEndMessage"
+msgstr "戦闘開始!"
+
+msgid "DHSignal_Fire.SignalName"
+msgstr "攻撃"
+
+msgid "DHSignal_Move.SignalName"
+msgstr "移動"
+
+msgid "DHSpawnProtectMineVolume.SafePeriodWarningMessage"
+msgstr "ここは敵の支配下に置かれました! %remaining%以内に前線まで後退してください!"
+
+msgid "DHSpawnProtectMineVolume.SpawnMFActivatedMessage"
+msgstr "ここは敵の支配下に置かれました! 前線まで後退してください!"
+
+msgid "DHSpawnProtectMineVolume.ExitedMinefieldMessage"
+msgstr "敵の支配領域を脱出しました。再び戻ると脱走とみなされます!"
+
+msgid "DHSpawnProtectMineVolume.UnprotectedVehicleWarning"
+msgstr "この車両は敵に発見された!"
+
+msgid "DHSpawnProtectMineVolume.WarningMessage"
+msgstr "敵の支配地域に入りました。後退してください!"
+
+msgid "DHSquadInviteInteraction.PromptText"
+msgstr "{0}があなたを{1}分隊に招待しています。"
+
+msgid "DHSquadInviteInteraction.Options<0>.Text"
+msgstr "承諾"
+
+msgid "DHSquadInviteInteraction.Options<1>.Text"
+msgstr "拒否"
+
+msgid "DHSquadInviteInteraction.Options<2>.Text"
+msgstr "以後すべて無視"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.PromptText"
+msgstr "{volunteer}は副分隊長に志願しました。"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<0>.Text"
+msgstr "承諾"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<1>.Text"
+msgstr "拒否"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<2>.Text"
+msgstr "以後全て無視"
+
+msgid "DHSquadLeaderSayDeadMessage.MessagePrefix"
+msgstr "[分隊長(死亡)]"
+
+msgid "DHSquadLeaderSayMessage.MessagePrefix"
+msgstr "[分隊長]"
+
+msgid "DHSquadLeaderVolunteerInteraction.PromptText"
+msgstr "あなたの分隊のは分隊長が必要です! 分隊長に志願しますか?(のこり時間{time})"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<0>.Text"
+msgstr "志願する"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<1>.Text"
+msgstr "拒否する"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<2>.Text"
+msgstr "以後全て無視する"
+
+msgid "DHSquadMergeRequestInteraction.PromptText"
+msgstr "{0} はあなたの分隊を {1} 分隊に統合することを申し出ました。"
+
+msgid "DHSquadMergeRequestInteraction.Options<0>.Text"
+msgstr "承諾する"
+
+msgid "DHSquadMergeRequestInteraction.Options<1>.Text"
+msgstr "拒否する"
+
+msgid "DHSquadMergeRequestInteraction.Options<2>.Text"
+msgstr "以後全て無視する"
+
+msgid "DHSquadMessage.JoinedMessage"
+msgstr "{0} が分隊に加わりました。"
+
+msgid "DHSquadMessage.LeftMessage"
+msgstr "{0} は分隊を去りました。"
+
+msgid "DHSquadMessage.KickedMessage"
+msgstr "あなたは分隊からキックされました。"
+
+msgid "DHSquadMessage.NoLongerLeaderMessage"
+msgstr "あなたはもう分隊長ではありません。"
+
+msgid "DHSquadMessage.YouAreNowLeaderMessage"
+msgstr "あなたは分隊長です。"
+
+msgid "DHSquadMessage.NewLeaderMessage"
+msgstr "{0} が分隊長になりました。"
+
+msgid "DHSquadMessage.InviteAlreadyInSquadMessage"
+msgstr "{0} はすでに分隊に所属しています。"
+
+msgid "DHSquadMessage.FullMessage"
+msgstr "分隊が満員のため、招待することができません。"
+
+msgid "DHSquadMessage.InvitePendingMessage"
+msgstr "{0} はすでに分隊に招待されています。後でもう一度試してください。"
+
+msgid "DHSquadMessage.InviteSentMessage"
+msgstr "{0} が分隊に招待されました。"
+
+msgid "DHSquadMessage.NoLeaderMessage"
+msgstr "分隊長が分隊を去りました。"
+
+msgid "DHSquadMessage.LockedMessage"
+msgstr "分隊はロックされています。"
+
+msgid "DHSquadMessage.UnlockedMessage"
+msgstr "分隊のロックが解除されました。"
+
+msgid "DHSquadMessage.CreatedMessage"
+msgstr "分隊が作成されました。"
+
+msgid "DHSquadMessage.RallyPointActiveMessage"
+msgstr "分隊が新たな分隊リスポーン地点(RP)を設置しました。"
+
+msgid "DHSquadMessage.RallyPointTooCloseMessage"
+msgstr "既存のRPに近い位置に新たにRPを作成することはできません。{0} "
+"メートル離れている必要があります。"
+
+msgid "DHSquadMessage.RallyPointExhaustedMessage"
+msgstr "分隊リスポーン地点(RP)は消耗しました。"
+
+msgid "DHSquadMessage.RallyPointNeedSquadmateNearby"
+msgstr "分隊リスポーン地点 (RP) を作成するには、近くに分隊員がいる必要があります。"
+
+msgid "DHSquadMessage.RallyPointCreatedMessage"
+msgstr "分隊リスポーン地点 (RP) "
+"が設置されました。このRPを有効化するには、分隊と一緒にエリアを確保してくださ"
+"い。"
+
+msgid "DHSquadMessage.RallyPointOverrunMessage"
+msgstr "分隊リスポーン地点 (RP) が敵に襲われました。"
+
+msgid "DHSquadMessage.RallyPointGroundTooSteep"
+msgstr "地面が急すぎるためここに分隊リスポーン地点 (RP) を設けることはできません。"
+
+msgid "DHSquadMessage.RallyPointInMinefield"
+msgstr "地雷原には分隊リスポーン地点 (RP) ポイントを設置できません。"
+
+msgid "DHSquadMessage.RallyPointInWater"
+msgstr "水中に分隊リスポーン地点 (RP)を設置することはできません。"
+
+msgid "DHSquadMessage.RallyPointNotOnFoot"
+msgstr "分隊リスポーン地点 (RP) を設置するには地に足をつける必要があります。"
+
+msgid "DHSquadMessage.RallyPointTooSoon"
+msgstr "分隊リスポーン地点 (RP) を作成できるようになるまで {0} 秒待つ必要があります。"
+
+msgid "DHSquadMessage.RallyPointAbandoned"
+msgstr "分隊リスポーン地点 (RP) が放棄されたため、開設できませんでした。"
+
+msgid "DHSquadMessage.RallyPointBadLocation"
+msgstr "この場所では分隊リスポーン地点 (RP) を設置できません。"
+
+msgid "DHSquadMessage.RallyPointRemoved"
+msgstr "分隊長が分隊リスポーン地点 (RP) を削除しました。"
+
+msgid "DHSquadMessage.RallyPointAbandonmentWarning"
+msgstr "新しく作成された分隊リスポーン地点 (RP) は放棄されます！"
+
+msgid "DHSquadMessage.RallyPointSwapped"
+msgstr "分隊長が現在有効な分隊リスポーン地点 (RP) を変更しました。"
+
+msgid "DHSquadMessage.RallyPointTooCloseToConstruction"
+msgstr "{0} の近くに分隊リスポーン地点 (RP) は設置できません。"
+
+msgid "DHSquadMessage.RallyPointDestroyed"
+msgstr "分隊リスポーン地点 (RP)が破壊されました。"
+
+msgid "DHSquadMessage.RallyPointInUncontrolledObjective"
+msgstr "完全に占領していない目標内には分隊リスポーン地点 (RP)を設置できません。"
+
+msgid "DHSquadMessage.RallyPointExposed"
+msgstr "分隊リスポーン地点 (RP) が敵に発見されました！"
+
+msgid "DHSquadMessage.RallyPointBehindEnemyLines"
+msgstr "分隊リスポーン地点 (RP) は敵の支配地域では設置できません。"
+
+msgid "DHSquadMessage.BannedPlayer"
+msgstr "{0} は分隊から永久追放されました。"
+
+msgid "DHSquadMessage.BannedCannotJoin"
+msgstr "あなたは永久追放されているため、この分隊に加わることはできません。"
+
+msgid "DHSquadMessage.AutoJoinFailed"
+msgstr "あなたが加わることができる分隊はありません。"
+
+msgid "DHSquadMessage.YouLeft"
+msgstr "あなたは分隊を去りました。"
+
+msgid "DHSquadMessage.YouVolunteeredToBeSquadLeader"
+msgstr "あなたは分隊長に志願しました。まもなく新たな分隊長が選出されます。"
+
+msgid "DHSquadMessage.NoVolunteers"
+msgstr "誰も分隊長に志願しませんでした。"
+
+msgid "DHSquadMessage.NoVolunteersDisbanded"
+msgstr "分隊が小さすぎて、分隊長への志願者がいなかったため、あなたの分隊は解散されま"
+"した。"
+
+msgid "DHSquadMessage.AlreadyInSquad"
+msgstr "あなたはすでに分隊に所属しています。"
+
+msgid "DHSquadMessage.YouAreNowAssistantMessage"
+msgstr "あなたは副分隊長になりました。"
+
+msgid "DHSquadMessage.YouAreNoLongerAssistantMessage"
+msgstr "あなたは副分隊長ではありません。"
+
+msgid "DHSquadMessage.NewAssistantMessage"
+msgstr "{0} は副分隊長に昇格しました。"
+
+msgid "DHSquadMessage.NotInSquadMessage"
+msgstr ""
+"あなたは分隊にいません。[%SQUADMENU%] を押して分隊メニューに入るか、"
+"[%SQUADJOINAUTO%] を押して自動的に分隊に参加します。"
+
+msgid "DHSquadMessage.SquadMergedSourceMessage"
+msgstr "あなたの分隊は {0} 分隊に併合されました。新しい分隊長は {1} です。"
+
+msgid "DHSquadMessage.SquadMergedSourceGenericMessage"
+msgstr "あなたの分隊は別の分隊に併合されました。"
+
+msgid "DHSquadMessage.SquadMergedDestinationMessage"
+msgstr "あなたの分隊は別の分隊を併合しました。"
+
+msgid "DHSquadMessage.SquadMergeRequestDeniedMessage"
+msgstr "あなたの分隊併合要求は {0} 分隊によって拒否されました。"
+
+msgid "DHSquadMessage.SquadMergeRequestDeniedGenericMessage"
+msgstr "あなたの分隊併合は拒否されました。"
+
+msgid "DHSquadMessage.SquadMergeFailedMessage"
+msgstr "分隊併合は失敗しましたが、"
+
+msgid "DHSquadMessage.SquadTargetSelectionRefused"
+msgstr "あなたは砲兵観測手です。有効な砲撃目標を自分で設定した目標に切り替えることは"
+"できません。"
+
+msgid "DHSquadMessage.SquadPromotionRequestDeniedMessage"
+msgstr "分隊長への昇格提案は {0} によって拒否されました。"
+
+msgid "DHSquadMessage.SquadPromotionRequestAcceptedMessage"
+msgstr "分隊長への昇格提案が {0} に承認されました。"
+
+msgid "DHSquadMessage.SquadPromotionRequestSentMessage"
+msgstr "分隊長への昇格提案が {0} に送信されました。"
+
+msgid "DHSquadMessage.SquadPromotionRequestDuplicateMessage"
+msgstr "すでに {0} に分隊長への昇格提案を送信しています。"
+
+msgid "DHSquadOrderMessage.WaitText"
+msgstr "新たな命令を出す前に少しお待ち下さい"
+
+msgid "DHSquadOrderMessage.AttackText"
+msgstr "分隊長が新しい攻撃命令を出しました"
+
+msgid "DHSquadOrderMessage.DefendText"
+msgstr "分隊長が新たな防衛命令を出しました"
+
+msgid "DHSquadOrderMessage.MoveText"
+msgstr "分隊長が新しい移動命令を出しました"
+
+msgid "DHSquadOrderMessage.AttentionText"
+msgstr "分隊長が新たな注意命令を出しました"
+
+msgid "DHSquadPromotionRequestInteraction.PromptText"
+msgstr "{0} はあなたを {1} 分隊の分隊長に昇格させたいと言っています。"
+
+msgid "DHSquadPromotionRequestInteraction.Options<0>.Text"
+msgstr "承諾する"
+
+msgid "DHSquadPromotionRequestInteraction.Options<1>.Text"
+msgstr "拒否する"
+
+msgid "DHSquadPromotionRequestInteraction.Options<2>.Text"
+msgstr "以後全て無視する"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<0>"
+msgstr "しばらく待ってから、分隊併合要求を送信してください。"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<1>"
+msgstr "分隊併合要求の送信中にエラーが発生しました。"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<2>"
+msgstr "この分隊には併合要求を送信できません。"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<3>"
+msgstr "この分隊にはすでに併合要求があります。"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<4>"
+msgstr "分隊併合要求が送信されました。"
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<0>"
+msgstr "分隊昇格要求を送信中にエラーが発生しました。"
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<1>"
+msgstr "このプレイヤーにはすでに分隊長への昇格を提案しています。"
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<2>"
+msgstr "分隊長への昇格を提案しました。"
+
+msgid "DHSquadSayMessage.MessagePrefix"
+msgstr "[分隊]"
+
+msgid "DHSupplyMessage.SuppliesUnloaded"
+msgstr "{0} 単位の物資が近くの {1} に降ろされました"
+
+msgid "DHSupplyMessage.SuppliesLoaded"
+msgstr "{0}単位の物資が近くの{1} から車両に積み込まれました"
+
+msgid "DHSupplyMessage.VehicleFull"
+msgstr "車両の物資が満杯です。"
+
+msgid "DHSupplyMessage.VehicleEmpty"
+msgstr "車両の物資は空です。"
+
+msgid "DHSupplyMessage.NoSupplyCaches"
+msgstr "近くに兵站集積所がありません。"
+
+msgid "DHSupplyMessage.SupplyCacheEmpty"
+msgstr "近くの兵站集積所は空です。"
+
+msgid "DHSupplyMessage.SupplyCacheFull"
+msgstr "近くの兵站集積所がいっぱいです。"
+
+msgid "DHSupplyMessage.SupplyCacheFallbackName"
+msgstr "兵站集積所"
+
+msgid "DHSupplyMessage.SuppliesRefunded"
+msgstr "{0} 単位の物資が近くの兵站集積所に返還されました。"
+
+msgid "DHSupplyVehicleMessage.Controls<0>.Text"
+msgstr "物資を積み込む"
+
+msgid "DHSupplyVehicleMessage.Controls<1>.Text"
+msgstr "物資を下ろす"
+
+msgid "DHTeamKillInteraction.PromptText"
+msgstr "{0} があなたをチームキルしました！"
+
+msgid "DHTeamKillInteraction.Options<0>.Text"
+msgstr "許す"
+
+msgid "DHTeamKillInteraction.Options<1>.Text"
+msgstr "罰する"
+
+msgid "DHTeamSayMessage.MessagePrefix"
+msgstr "[チーム]"
+
+msgid "DHTeamSurrenderVoteMessage.VoteSucceededText"
+msgstr "投票({0})で撤退が可決されました。"
+
+msgid "DHTeamSurrenderVoteMessage.VoteFailedText"
+msgstr "投票({0})で撤退が否決されました。"
+
+msgid "DHTeamSurrenderVoteMessage.VoteSummaryText"
+msgstr "はい:{0}票、必要なら:{1}票"
+
+msgid "DHTeamSurrenderVoteMessage.VoteNominatedText"
+msgstr "{0} は撤退を提言した。"
+
+msgid "DHTeamSurrenderVoteMessage.VoteNominationsRemainingText"
+msgstr "投票を開始するには、さらに [{0}] 人の提言が必要です。"
+
+msgid "DHUnits.DistanceUnits<0>.Name"
+msgstr "Unreal Unit"
+
+msgid "DHUnits.DistanceUnits<0>.Symbol"
+msgstr "uu"
+
+msgid "DHUnits.DistanceUnits<1>.Name"
+msgstr "メートル"
+
+msgid "DHUnits.DistanceUnits<1>.Symbol"
+msgstr "m"
+
+msgid "DHUnits.DistanceUnits<2>.Name"
+msgstr "ヤード"
+
+msgid "DHUnits.DistanceUnits<2>.Symbol"
+msgstr "yd"
+
+msgid "DHVehicleCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DHVehicleCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DHVehicleMessage.AllRiderPositionsFull"
+msgstr "すべての座席が占有されています"
+
+msgid "DHVehicleMessage.NoRiderPositions"
+msgstr "この車両には乗れません"
+
+msgid "DHVehicleMessage.VehicleBurning"
+msgstr "車両が燃えている！"
+
+msgid "DHVehicleMessage.OpenHatchToExit"
+msgstr "脱出するには{0}でハッチを開く必要があります"
+
+msgid "DHVehicleMessage.ExitCommandersHatch"
+msgstr "車長の出入口から脱出しなければなりません"
+
+msgid "DHVehicleMessage.ExitDriverOrComHatch"
+msgstr "操縦手または車長の出入口から出なければなりません"
+
+msgid "DHVehicleMessage.ExitCommandersOrMGHatch"
+msgstr "車長または機銃手の出入口から出なければなりません"
+
+msgid "DHVehicleMessage.CantFindExitPosition"
+msgstr "脱出先の空間がありません"
+
+msgid "DHVehicleMessage.VehicleNowLocked"
+msgstr "乗員の配置がロックされました"
+
+msgid "DHVehicleMessage.VehicleNowUnlocked"
+msgstr "乗員の配置のロックが解除されました"
+
+msgid "DHVehicleMessage.AbandonedVehicleUnlocked"
+msgstr "ロックされた車両から離れる時間が長すぎたため、乗員の配置のロックが解除されま"
+"した"
+
+msgid "DHVehicleMessage.CantEnterLockedVehicle"
+msgstr "この車両は乗員によってロックされています"
+
+msgid "DHVehicleMessage.MapDisabledVehicleLocking"
+msgstr "このマップでは車両をロックできません"
+
+msgid "DHVehicleMessage.CantLockNonCrewVehicle"
+msgstr "この車両は戦車兵以外の兵科でも運転できるため、車両をロックできません"
+
+msgid "DHVehicleMessage.OnlyTankCrewCanLockVehicle"
+msgstr "戦車兵だけが車両をロックまたはロック解除できます"
+
+msgid "DHVehicleMessage.CanOnlyLockFromCrewPosition"
+msgstr "車内にいる場合のみ車両をロックまたはロック解除できます"
+
+msgid "DHVehicleMessage.OtherCrewmanCanLockVehicle"
+msgstr "最初に乗った戦車兵のみが車両をロックまたはロック解除できます"
+
+msgid "DHVehicleMessage.UnbuttonToReload"
+msgstr "再装填するには{0}でハッチを開く必要があります"
+
+msgid "DHVehicleMessage.VehicleScuttleInitiated"
+msgstr "現在非推奨"
+
+msgid "DHVehicleMessage.UnbuttonHatchToChangePosition"
+msgstr "位置を変更するには、出入口{0}を開く必要があります"
+
+msgid "DHVehicleMessage.GunObstructed"
+msgstr "銃は障害物があるため発射できません"
+
+msgid "DHVehicleMessage.NotQualified"
+msgstr "この車両を運転する資格がありません"
+
+msgid "DHVehicleMessage.VehicleIsEnemy"
+msgstr "敵の車両は使用できない"
+
+msgid "DHVehicleMessage.CannotEnter"
+msgstr "車両は満員です"
+
+msgid "DHVehiclePoolMessage.ActivatedMessage"
+msgstr "車両出撃地点(VP)が有効化されました。"
+
+msgid "DHVehiclePoolMessage.DestroyedMessage"
+msgstr "車両出撃地点 (VP) が破壊されました。"
+
+msgid "DHVehicleSayMessage.MessagePrefix"
+msgstr "[車両内]"
+
+msgid "DHVehicleTouchControlsMessage.Controls<0>.Text"
+msgstr "入る"
+
+msgid "DHVehicleVoiceSayMessage.MessagePrefix"
+msgstr "[ボイス]"
+
+msgid "DHVoicePack.SupportString[1]"
+msgstr "{objective}に応援が必要"
+
+msgid "DHVoicePack.EnemyAbbrevAxis[3]"
+msgstr "工兵"
+
+msgid "DHVoicePack.AlertString[8]"
+msgstr "{objective}が攻撃を受けている"
+
+msgid "DHVoicePack.VehicleDirectionString[0]"
+msgstr "{objective}に移動する"
+
+msgid "DHVoicePack.OrderString[0]"
+msgstr "{objective}を攻撃せよ"
+
+msgid "DHVoicePack.OrderString[1]"
+msgstr "{objective}を防衛せよ"
+
+msgid "DHVoiceReplicationInfo.LocalChannelText"
+msgstr "全体"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<0>"
+msgstr "指示"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<1>"
+msgstr "指示"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<2>"
+msgstr "未割り当て"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<3>"
+msgstr "未割り当て"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<4>"
+msgstr "分隊"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<5>"
+msgstr "分隊"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecName"
+msgstr "より良い品質"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecDescription"
+msgstr "9.6kbps -- より多くの帯域幅を使用しますが、サウンドはずっとクリアになります。"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecName"
+msgstr "より良い品質"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecDescription"
+msgstr "9.6kbps -- より多くの帯域幅を使用しますが、サウンドはずっとクリアになります。"
+
+msgid "DHVoiceSayMessage.MessagePrefix"
+msgstr "[ボイス]"
+
+msgid "DHVoteInfo.Options<0>.Text"
+msgstr "はい"
+
+msgid "DHVoteInfo.Options<1>.Text"
+msgstr "いいえ"
+
+msgid "DHVoteInfo_TeamSurrender.QuestionText"
+msgstr "退却して別の日に戦いますか？"
+
+msgid "DHVoteMessage.VoteReceievedText"
+msgstr "あなたの投票が受理されました。"
+
+msgid "DHVoteMessage.VoteConcludedText"
+msgstr "投票は終了しました。"
+
+msgid "DHVotingHandler.lmsgMapVotedTooRecently"
+msgstr "他のマップに投票する前に %seconds% 秒お待ちください!"
+
+msgid "DHVotingHandler.SwapAndRestartText"
+msgstr "DH-[チームを入れ替えて再スタート]"
+
+msgid "DHWeaponPickup.PickupMessage"
+msgstr "あなたは {0} を手に入れました"
+
+msgid "DHWeaponsLockedMessage.LockedFFMessage"
+msgstr "フレンドリーファイアにより、武器がロックされました！"
+
+msgid "DHWeaponsLockedMessage.LockedSKMessage"
+msgstr "スポーンキルが多すぎたため、武器がロックされました！"
+
+msgid "DHWeaponsLockedMessage.LockedWithTimerMessage"
+msgstr "武器は {0} 秒間ロックされています"
+
+msgid "DHWeaponsLockedMessage.LockedSetupPhaseMessage"
+msgstr "準備時間中、武器はロックされます"
+
+msgid "DHWeaponsLockedMessage.UnlockedMessage"
+msgstr "武器のロックが解除されました"
+
+msgid "DHWeaponsLockedMessage.LockedFFSKMessage"
+msgstr "自軍兵士をスポーンキルしたため、武器がロックされました！"
+
+msgid "DH_ModifyRoundTimeMessage.IncreasedText"
+msgstr "増加しました"
+
+msgid "DH_ModifyRoundTimeMessage.DecreasedText"
+msgstr "減少しました"
+
+msgid "DH_ModifyRoundTimeMessage.ChangedText"
+msgstr "変更されました"
+
+msgid "DH_ModifyRoundTimeMessage.RoundTimeModifiedText"
+msgstr "残り時間は {0} になりました。"
+
+msgid "DarkestHourGame.ROHints<0>"
+msgstr "%SHOWOBJECTIVES% を押すと、占領または防衛すべき目標の位置を表示できます。"
+
+msgid "DarkestHourGame.ROHints<1>"
+msgstr "Mk II手榴弾を「コッキング」するには、手榴弾を構えたまま %FIRE 3% を押します。"
+
+msgid "DarkestHourGame.ROHints<2>"
+msgstr "目標を制圧するには、まず目標エリアに入る必要があります。占領を開始して完了す"
+"るには、おそらく複数のチームメイトが必要になります。"
+
+msgid "DarkestHourGame.ROHints<3>"
+msgstr "ゲーム中に兵科を変更するには %PLAYERMENU% を、チームを変更するには "
+"%PLAYERMENU% を押します。"
+
+msgid "DarkestHourGame.ROHints<4>"
+msgstr "武器の照準照準器を使って射撃の集弾性と正確性を高めるには、%ROIRONSIGHTS% "
+"キーを押します。"
+
+msgid "DarkestHourGame.ROHints<5>"
+msgstr "目標を制圧することができれば10点が与えられる。"
+
+msgid "DarkestHourGame.ROHints<6>"
+msgstr "しゃがみ、伏せると武器が安定し、発砲時の反動が減少します。"
+
+msgid "DarkestHourGame.ROHints<7>"
+msgstr "スタミナを回復するには、立ち止まって少し休んでください。"
+
+msgid "DarkestHourGame.ROHints<8>"
+msgstr "機関銃はほぼすべての物体に依託できます。展開アイコンが表示されたら、%DEPLOY% "
+"を押してデプロイします。"
+
+msgid "DarkestHourGame.ROHints<9>"
+msgstr "リロード時の「Magazine "
+"Heavy」は、弾倉に弾薬が半分以上入っていることを示します。"
+
+msgid "DarkestHourGame.ROHints<10>"
+msgstr "機関銃は展開した状態でしか再装填できません。"
+
+msgid "DarkestHourGame.ROHints<11>"
+msgstr "弾薬を必要とする機関銃手に弾薬を供給すると、プレイヤーは1ポイントを獲得します"
+"。"
+
+msgid "DarkestHourGame.ROHints<12>"
+msgstr "機関銃は、制御可能な短いバーストで発射するとより効果的です。"
+
+msgid "DarkestHourGame.ROHints<13>"
+msgstr "30 Calの銃身は交換できません。過熱しないように注意してください！"
+
+msgid "DarkestHourGame.ROHints<14>"
+msgstr "士官の存在は仲間の士気を高め、目標制圧を容易にする!"
+
+msgid "DarkestHourGame.ROHints<15>"
+msgstr "機関銃手は背後に対して無防備になります。仲間に背中を守ってもらいましょう。"
+
+msgid "DarkestHourGame.ROHints<16>"
+msgstr "設置された機関銃は脅威だが射角は限られている。射線に入らないよう側面から攻撃"
+"するんだ。"
+
+msgid "DarkestHourGame.ROHints<17>"
+msgstr ""
+"BazookaまたはPanzerscherekを発射したら、バックブラストで位置が明らかになるの"
+"で、すぐに別の場所に隠れましょう。ほぼ確実に反撃が続きます！"
+
+msgid "DarkestHourGame.ROHints<18>"
+msgstr "ロケット弾が発射されるときは、射手の後ろに立たないでください。バックブラスト"
+"で重傷を負う可能性があります!"
+
+msgid "DarkestHourGame.ROHints<19>"
+msgstr "対戦車歩兵は、弾薬補給や再装填の高速化、周囲の警戒のため、常に仲間を連れて行"
+"くべきです。"
+
+msgid "DarkestHourGame.ROHints<20>"
+msgstr ""
+"別の武器に変更すると、対戦車ロケットは自動的に装填解除されます。必要に応じて"
+"チームメイトと連絡を取り合い、再装填を手伝ってもらうのが良いでしょう。"
+
+msgid "DHChatRoomMessage.CannotJoinSquadChannelText"
+msgstr "チャンネル `%title%` "
+"に参加できませんでした。あなたは分隊にいなければなりません。"
+
+msgid "DHChatRoomMessage.CannotJoinCommandChannelText"
+msgstr "チャンネル`%title%` "
+"に参加できませんでした。分隊長または副分隊長である必要があり、分隊には少なく"
+"とも2人のメンバーが必要です。"
+
+msgid "DHCommandMenu_ATGun.BusyText"
+msgstr "行動中"
+
+msgid "DHCommandMenu_Radio.CancelText"
+msgstr "進行中 (キャンセル)"
+
+msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
+msgstr "0人のプレイヤー "
+
+msgid "DHCommandMenu_SquadMenu.Options<0>.ActionText"
+msgstr "分隊を去る"
+
+msgid "DHCommandSayMessage.MessagePrefix"
+msgstr "[コマンド]"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<27>"
+msgstr "このソケットはすでに使用されています"
+
+msgid "DHGameType_Cutoff.GameTypeName"
+msgstr "カットオフ"
+
+msgid "DHHintManager.Hints[49].Text"
+msgstr "あなたはスポッティングスコープを装備した大砲を操作しています。%NEXTWEAPON% "
+"を押してスポッティングスコープを覗きます。"
+
+msgid "DHHintManager.Hints[50].Text"
+msgstr ""
+"マップを開いて射撃目標を設定します。右クリックで火力支援要請を有効な目標にす"
+"るか、距離計ツールを使用してマップ上の特定の地点までの距離を測定します。"
