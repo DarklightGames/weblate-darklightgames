@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-11-05 05:47+0000\n"
-"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
 "Language: ja\n"
@@ -615,7 +615,7 @@ msgid "DHTab_Controls.Captions_Inventory[2]"
 msgstr "インベントリスロット 3"
 
 msgid "DHTab_Controls.Captions_Inventory[0]"
-msgstr "インベントリスロット 2"
+msgstr "インベントリスロット 1"
 
 msgid "DHMaplistEditor.RenameMaplistButton.Caption"
 msgstr "名前変更"
