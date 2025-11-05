@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 17:35+0000\n"
+"PO-Revision-Date: 2025-11-06 02:13+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/fr/>\n"
@@ -920,3 +920,9 @@ msgstr "Fiat 508CM"
 
 msgid "DH_FiatL640Tank.VehicleNameString"
 msgstr "Carro Armato L6/40"
+
+msgid "DH_GreyhoundCannon.nProjectileDescriptions<1>"
+msgstr "M63 HE-T"
+
+msgid "DH_GreyhoundCannon.nProjectileDescriptions<2>"
+msgstr "Mitraille M2"
