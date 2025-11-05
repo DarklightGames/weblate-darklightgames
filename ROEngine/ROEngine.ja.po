@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-03 00:09+0000\n"
+"PO-Revision-Date: 2025-11-05 17:35+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/ja/>\n"
@@ -1108,3 +1108,33 @@ msgstr "説明は利用できない。"
 
 msgid "ROWeaponLostMessage.WeaponLostMessage"
 msgstr "手を撃たれて武器を落とした!"
+
+msgid "ROTeamGame.PropsDisplayText[20]"
+msgstr "Net Wait"
+
+msgid "ROTeamGame.PropsDisplayText[21]"
+msgstr "最小ネットプレイヤー"
+
+msgid "ROTeamGame.PropsDisplayText[22]"
+msgstr "プレイヤーは準備完了せよ"
+
+msgid "ROTeamGame.PropsDisplayText[23]"
+msgstr "フレンドリーファイアの倍率"
+
+msgid "ROTeamGame.PropsDisplayText[24]"
+msgstr "砲撃のフレンドリーファイアの倍率"
+
+msgid "ROTeamGame.PropsDisplayText[25]"
+msgstr "爆薬によるフレンドリーファイアの倍率"
+
+msgid "ROTeamGame.PropsDisplayText[28]"
+msgstr "全体プライベートチャット"
+
+msgid "ROTeamGame.PropsDisplayText[30]"
+msgstr "フレンドリーファイアへの罰"
+
+msgid "ROTeamGame.PropsDisplayText[38]"
+msgstr "フレンドリーファイアのキル上限"
+
+msgid "ROTeamGame.PropsDisplayText[39]"
+msgstr "フレンドリーファイアーのダメージ上限"
