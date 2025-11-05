@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"PO-Revision-Date: 2025-11-05 17:35+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/fr/>\n"
@@ -97,3 +97,96 @@ msgstr "Paquet manquant '%s' pour la lecture de démo"
 
 msgid "Errors.DownloadNotAllowed"
 msgstr "Téléchargement de '%s' non autorisé"
+
+msgid "KeyNames.Up"
+msgstr "HAUT"
+
+msgid "KeyNames.Right"
+msgstr "DROITE"
+
+msgid "KeyNames.Left"
+msgstr "GAUCHE"
+
+msgid "KeyNames.Down"
+msgstr "BAS"
+
+msgid "KeyNames.LeftMouse"
+msgstr "SOURIS GAUCHE"
+
+msgid "KeyNames.RightMouse"
+msgstr "SOURIS DROITE"
+
+msgid "KeyNames.MiddleMouse"
+msgstr "SOURIS MILIEU"
+
+msgid "KeyNames.MouseX"
+msgstr "SOURIS X"
+
+msgid "KeyNames.MouseY"
+msgstr "SOURIS Y"
+
+msgid "KeyNames.MouseZ"
+msgstr "SOURIS Z"
+
+msgid "KeyNames.MouseW"
+msgstr "SOURIS W"
+
+msgid "KeyNames.JoyX"
+msgstr "JOY X"
+
+msgid "KeyNames.JoyY"
+msgstr "JOY Y"
+
+msgid "KeyNames.JoyZ"
+msgstr "JOY Z"
+
+msgid "KeyNames.JoyU"
+msgstr "JOY U"
+
+msgid "KeyNames.JoyV"
+msgstr "JOY V"
+
+msgid "KeyNames.JoySlider1"
+msgstr "JOYSLIDER 1"
+
+msgid "KeyNames.JoySlider2"
+msgstr "JOYSLIDER 2"
+
+msgid "KeyNames.MouseWheelUp"
+msgstr "MOLETTE HAUT"
+
+msgid "KeyNames.MouseWheelDown"
+msgstr "MOLETTE BAS"
+
+msgid "KeyNames.Joy1"
+msgstr "JOY 1"
+
+msgid "KeyNames.Joy2"
+msgstr "JOY 2"
+
+msgid "KeyNames.Joy3"
+msgstr "JOY 3"
+
+msgid "KeyNames.Joy4"
+msgstr "JOY 4"
+
+msgid "KeyNames.Joy5"
+msgstr "JOY 5"
+
+msgid "KeyNames.Joy6"
+msgstr "JOY 6"
+
+msgid "KeyNames.Joy7"
+msgstr "JOY 7"
+
+msgid "KeyNames.Joy8"
+msgstr "JOY 8"
+
+msgid "KeyNames.Joy9"
+msgstr "JOY 9"
+
+msgid "KeyNames.Joy10"
+msgstr "JOY 10"
+
+msgid "KeyNames.Joy11"
+msgstr "JOY 11"
