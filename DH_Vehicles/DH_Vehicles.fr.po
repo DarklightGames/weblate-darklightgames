@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"PO-Revision-Date: 2025-11-05 17:35+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/fr/>\n"
@@ -890,3 +890,33 @@ msgstr "Panzer IV Ausf.H"
 
 msgid "DH_PanzerIVJTank.VehicleNameString"
 msgstr "Panzer IV Ausf.J"
+
+msgid "DH_Cromwell6PdrCannon.nProjectileDescriptions<0>"
+msgstr "Mk.IX APC"
+
+msgid "DH_Cromwell6PdrCannon.nProjectileDescriptions<1>"
+msgstr "Mk.X HE-T"
+
+msgid "DH_Cromwell95mmCannon.nProjectileDescriptions<0>"
+msgstr "Mk.IA HE-T"
+
+msgid "DH_Cromwell95mmCannon.nProjectileDescriptions<1>"
+msgstr "Mk.IA SMK-BE"
+
+msgid "DH_Cromwell95mmCannon.nProjectileDescriptions<2>"
+msgstr "Mk.I HEAT"
+
+msgid "DH_CromwellCannon.nProjectileDescriptions<0>"
+msgstr "M61 APC"
+
+msgid "DH_CromwellCannon.nProjectileDescriptions<1>"
+msgstr "M48 HE-T"
+
+msgid "DH_CromwellCannon.nProjectileDescriptions<2>"
+msgstr "M64 WP"
+
+msgid "DH_Fiat508CMTransport.VehicleNameString"
+msgstr "Fiat 508CM"
+
+msgid "DH_FiatL640Tank.VehicleNameString"
+msgstr "Carro Armato L6/40"
