@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"PO-Revision-Date: 2025-11-05 17:35+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/fr/>\n"
@@ -284,3 +284,72 @@ msgstr "O-832"
 
 msgid "DH_BM36MortarCannon.nProjectileDescriptions<1>"
 msgstr "D-832"
+
+msgid "DH_Bofors40mmCannon.nProjectileDescriptions<0>"
+msgstr "Mk.II HE-T"
+
+msgid "DH_Bofors40mmCannon.nProjectileDescriptions<1>"
+msgstr "M81A1 AP"
+
+msgid "DH_Bofors40mmGun.VehicleNameString"
+msgstr "Canon 40mm Bofors"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<0>"
+msgstr "Granata Perforante da 47"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<1>"
+msgstr "Granata da 47"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<2>"
+msgstr "Effetto Pronto da 47"
+
+msgid "DH_Cannone4732Gun.VehicleNameString"
+msgstr "Cannone da 47/32"
+
+msgid "DH_Fiat1435Gun.VehicleNameString"
+msgstr "Fiat-Revelli modello 14/35"
+
+msgid "DH_Fiat1435Gun_AC.VehicleNameString"
+msgstr "Fiat mod. 35"
+
+msgid "DH_Fiat1435Gun_WC.VehicleNameString"
+msgstr "Fiat mod. 14"
+
+msgid "DH_Flak38Gun.VehicleNameString"
+msgstr "FlaK 38 2.0cm"
+
+msgid "DH_Flak88Gun.VehicleNameString"
+msgstr "FlaK 36 8.8cm"
+
+msgid "DH_Flakvierling38Gun.VehicleNameString"
+msgstr "Flakvierling 38 2.0cm"
+
+msgid "DH_Granatwerfer34Cannon.ProjectileDescriptions<1>"
+msgstr "Fumigène"
+
+msgid "DH_Granatwerfer34Cannon.nProjectileDescriptions<0>"
+msgstr "Wgr. 38"
+
+msgid "DH_Granatwerfer34Cannon.nProjectileDescriptions<1>"
+msgstr "Wgr. 38 Nb."
+
+msgid "DH_Granatwerfer34Mortar.VehicleNameString"
+msgstr "Granatwerfer 34"
+
+msgid "DH_LeIG18Cannon.nProjectileDescriptions<0>"
+msgstr "Igr.38 Sprgr"
+
+msgid "DH_LeIG18Cannon.nProjectileDescriptions<1>"
+msgstr "Igr.38 HL/A"
+
+msgid "DH_LeIG18Gun.VehicleNameString"
+msgstr "7.5cm le.IG 18"
+
+msgid "DH_M116Cannon.nProjectileDescriptions<0>"
+msgstr "HE M48"
+
+msgid "DH_M116Cannon.nProjectileDescriptions<1>"
+msgstr "HEAT M66"
+
+msgid "DH_M116Gun.VehicleNameString"
+msgstr "Pack Howitzer 75mm M1"
