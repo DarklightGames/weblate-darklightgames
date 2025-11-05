@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-06 03:58+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2025-11-05 17:35+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/xinterface/ja/>\n"
 "Language: ja\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "GUIQuestionPage.ButtonNames<1>"
 msgstr "キャンセル"
@@ -22,3 +22,27 @@ msgstr "いいえ"
 
 msgid "ExtendedConsole.ServerFullMsg"
 msgstr "サーバはいっぱい"
+
+msgid "ExtendedConsole.SMStateName[0]"
+msgstr "ボイスメッセージメニュー"
+
+msgid "ExtendedConsole.SMStateName[2]"
+msgstr "返事"
+
+msgid "GUIQuestionPage.ButtonNames<0>"
+msgstr "OK"
+
+msgid "GUIQuestionPage.ButtonNames<2>"
+msgstr "再試行"
+
+msgid "GUIQuestionPage.ButtonNames<3>"
+msgstr "継続"
+
+msgid "GUIQuestionPage.ButtonNames<6>"
+msgstr "中止"
+
+msgid "GUIQuestionPage.ButtonNames<7>"
+msgstr "無視"
+
+msgid "HudBase.NowViewing"
+msgstr "観戦中"
