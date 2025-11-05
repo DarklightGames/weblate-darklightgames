@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"PO-Revision-Date: 2025-11-05 17:35+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/fr/>\n"
@@ -164,3 +164,84 @@ msgstr "FG 42 (ZFG42)"
 
 msgid "DH_FG42Weapon.NativeItemName"
 msgstr "Fallschirmjägergewehr 42"
+
+msgid "DH_FG42Weapon.ItemName"
+msgstr "FG 42"
+
+msgid "DH_G41Weapon.NativeItemName"
+msgstr "Gewehr 41(W)"
+
+msgid "DH_G41Weapon.ItemName"
+msgstr "G 41(W)"
+
+msgid "DH_G43ScopedWeapon.NativeItemName"
+msgstr "Gewehr 43 (ZF4)"
+
+msgid "DH_G43ScopedWeapon.ItemName"
+msgstr "G 43 (ZF4)"
+
+msgid "DH_G43Weapon.NativeItemName"
+msgstr "Gewehr 43"
+
+msgid "DH_G43Weapon.ItemName"
+msgstr "G 43"
+
+msgid "DH_G98Weapon.NativeItemName"
+msgstr "Gewehr 98"
+
+msgid "DH_G98Weapon.ItemName"
+msgstr "G 98"
+
+msgid "DH_GLWeapon.ItemName"
+msgstr "Geballte Ladung StG 24 x7"
+
+msgid "DH_GeratPIIWeapon.ItemName"
+msgstr "Gerat Potsdam II"
+
+msgid "DH_GeratPWeapon.ItemName"
+msgstr "Gerät Potsdam"
+
+msgid "DH_GreaseGunWeapon.ItemName"
+msgstr "M3 Grease Gun"
+
+msgid "DH_Kar98ScopedWeapon.NativeItemName"
+msgstr "Karabiner 98k (ZF39)"
+
+msgid "DH_Kar98ScopedWeapon.ItemName"
+msgstr "Kar 98k (ZF39)"
+
+msgid "DH_Kar98ScopedZF41Weapon.ItemName"
+msgstr "Karabiner 98k (ZF41)"
+
+msgid "DH_Kar98Weapon.NativeItemName"
+msgstr "Karabiner 98k"
+
+msgid "DH_Kar98Weapon.ItemName"
+msgstr "Kar 98k"
+
+msgid "DH_KorovinWeapon.ItemName"
+msgstr "Korovin 1941"
+
+msgid "DH_Kz8cmGrW42Vehicle.VehicleNameString"
+msgstr "Kurze 8cm Granatwerfer 42"
+
+msgid "DH_Kz8cmGrW42Weapon.NativeItemName"
+msgstr "Kurze 8cm Granatwerfer 42"
+
+msgid "DH_Kz8cmGrW42Weapon.Description"
+msgstr "Kurze 8cm Granatwerfer 42"
+
+msgid "DH_Kz8cmGrW42Weapon.ItemName"
+msgstr "Kz 8cm GrW 42 Mortar"
+
+msgid "DH_M1924Weapon.NativeItemName"
+msgstr "Puska M1924"
+
+msgid "DH_M1A1CarbineWeapon.ItemName"
+msgstr "Carabine M1A1"
+
+msgid "DH_M1CarbineWeapon.ItemName"
+msgstr "Carabine M1"
+
+msgid "DH_M1GarandWeapon.ItemName"
+msgstr "M1 Garand"
