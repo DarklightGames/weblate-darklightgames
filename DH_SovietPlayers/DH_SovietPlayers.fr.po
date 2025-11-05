@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"PO-Revision-Date: 2025-11-05 17:35+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_sovietplayers/fr/>\n"
@@ -33,18 +33,14 @@ msgstr "Saper"
 msgid "DHSOVMachineGunnerRoles.AltName"
 msgstr "Pulemetchik"
 
-#, fuzzy
 msgid "DH_SovietMadManRoles.MyName"
 msgstr "Mad Man"
 
-#, fuzzy
 msgid "DH_SovietMadManRoles.AltName"
 msgstr "Mad Man"
 
-#, fuzzy
 msgid "DH_SovietMadManRoles.PluralName"
 msgstr "Mad Men"
 
-#, fuzzy
 msgid "DHSOVSniperRoles.AltName"
-msgstr "Snaiper"
+msgstr "Snaïper"
