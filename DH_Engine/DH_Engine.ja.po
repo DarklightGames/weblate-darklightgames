@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-11-05 17:35+0000\n"
-"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ja/>\n"
 "Language: ja\n"
@@ -30,7 +30,7 @@ msgid "DHCommandMenu_ATGun.Options<0>.ActionText"
 msgstr "回転"
 
 msgid "DHATGunTouchMessage.Controls<1>.Text"
-msgstr "回転"
+msgstr "回転する"
 
 msgid "DHATCannonMessage.GunIsRotating"
 msgstr "大砲は回転中です"
