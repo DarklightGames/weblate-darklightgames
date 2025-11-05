@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"PO-Revision-Date: 2025-11-05 17:35+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/fr/>\n"
@@ -21,7 +21,8 @@ msgstr ""
 "joueurs, un match de réalisme ou pendant des tests"
 
 msgid "DHAdminMenu_AdminMessages.EnterNewPlayerName"
-msgstr "Veuillez entrer un nouveau nom pour le joueur - puis appuyez sur Entrée"
+msgstr ""
+"Veuillez entrer un nouveau pseudo pour le joueur - puis appuyez sur Entrée"
 
 msgid "DHAdminMenu_AdminMessages.EnterPrivateMessage"
 msgstr "Tapez votre message privé au joueur - puis appuyez sur Entrée"
@@ -147,3 +148,127 @@ msgid "DHAdminMenu_AdminMessages.ChangeAlliesSquadSize"
 msgstr ""
 "Veuillez préciser la nouvelle taille d'un groupe Allié (entre 8 et 12 ou 0 "
 "pour réinitialiser)"
+
+msgid "DHAdminMenu_AdminMessages.ChangeAxisSquadSize"
+msgstr ""
+"Veuillez préciser la nouvelle taille d'un groupe de l'Axe (entre 8 et 12 ou "
+"0 pour réinitialiser)"
+
+msgid "DHAdminMenu_AdminMessages.SetGamePasswordText"
+msgstr "Veuillez spécifier le nouveau mot de passe de partie"
+
+msgid "DHAdminMenu_AdminMessages.ToggleWeaponLockText"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez activer ou désactiver "
+"le blocage des armes"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableRallyPoints"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez DÉSACTIVER le placement "
+"de point de ralliement"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableRallyPoints"
+msgstr ""
+"Appuyez sur Entrée pour confirmer que vous souhaitez RÉACTIVER le placement "
+"de point de ralliement"
+
+msgid "DHAdminMenu_ErrorMessages.MissingNameText"
+msgstr "<nom manquant>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[1]"
+msgstr ""
+"Vous devez être connecté en tant qu'administrateur (via la console) pour "
+"utiliser cette fonction"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[2]"
+msgstr "Le parachutage d'un joueur n'est pas autorisé sur ce serveur"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[3]"
+msgstr ""
+"Le mutator de réalisme n'est pas chargé sur le serveur, vous ne pouvez donc "
+"pas utiliser cette option"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[4]"
+msgstr "ERREUR : aucun pseudo spécifié"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[5]"
+msgstr "ERREUR : impossible de trouver un joueur avec le pseudo '%insert_name%'"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[6]"
+msgstr ""
+"PROBLÈME : plus d'un joueur trouvé avec le pseudo '%insert_name%' donc il "
+"n'est pas sûr de procéder à cette action"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[7]"
+msgstr "<ERREUR : pas de pseudo>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[8]"
+msgstr "<ERREUR : pas de pseudo d'administrateur>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[9]"
+msgstr ""
+"Le joueur '%insert_name%' n'est pas actuellement actif et vous ne pouvez "
+"donc pas utiliser cette option"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[10]"
+msgstr "'%insert_name%' est déjà dans ce rôle"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[11]"
+msgstr "Désolé, il n'est pas possible d'effectuer cette action sur un bot"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[12]"
+msgstr "ERREUR : aucun message spécifié"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[13]"
+msgstr ""
+"ERREUR : kick échoué sur '%insert_name%' (notez qu'il n'est pas possible de "
+"kicker un admin)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[14]"
+msgstr ""
+"ERREUR : impossible de kicker n'importe quel joueur car l'actor "
+"'AccessControl' nécessaire n'est pas sur le serveur (notez que cela est "
+"normal en jeu solo)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[15]"
+msgstr "Il n'y a pas de champs de mines dans ce niveau"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[16]"
+msgstr "Les champs de mines sont déjà désactivés"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[17]"
+msgstr "Les champs de mines sont déjà activés"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[18]"
+msgstr "ERREUR : aucun nom d'équipe valide spécifié"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[19]"
+msgstr "ERREUR: rôle de joueur %insert_name% introuvable"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[20]"
+msgstr "ERROR : objectif %insert_name% introuvable"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[22]"
+msgstr "ERREUR : coordonnées de grille de carte invalides"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[23]"
+msgstr ""
+"Pour vous connecter automatiquement, vous devez configurer votre fichier "
+"DarkestHour.ini avec vos informations de connexion admin"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[24]"
+msgstr "Aucun joueur trouvé dans la visée"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[25]"
+msgstr ""
+"Ce mode de jeu n'autorise pas les points de ralliement, vous ne pouvez donc "
+"pas utiliser cette option"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[26]"
+msgstr "Le placement de points de ralliement est déjà désactivé"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[27]"
+msgstr "Le placement de points de ralliement est déjà activé"
+
+msgid "DHAdminMenu_MenuBase.Label_PageNumber"
+msgstr "Page %X% sur %Y%"
