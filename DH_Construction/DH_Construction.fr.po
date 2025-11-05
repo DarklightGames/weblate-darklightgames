@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"PO-Revision-Date: 2025-11-05 17:35+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/fr/>\n"
@@ -117,3 +117,35 @@ msgstr "Efficace pour bloquer tout véhicule."
 
 msgid "DHConstruction_Hedgehog.MenuDescription"
 msgstr "Efficace pour bloquer les véhicules légers et moyens."
+
+msgid "DHConstruction_PlatoonHQ.CustomErrorString"
+msgstr ""
+"Impossible de {verb} un(e) {name} à proximité de {string} sauf si l'on est "
+"dans les {integer}m d'un objectif sous contrôle."
+
+msgid "DHConstruction_PlatoonHQ.MenuName"
+msgstr "Poste de Commandement"
+
+msgid "DHConstruction_PlatoonHQ.MenuDescription"
+msgstr "Fournit un point de réapparition pour votre équipe."
+
+msgid "DHConstruction_Sandbags_Bunker.MenuName"
+msgstr "Sacs de sable (casemate)"
+
+msgid "DHConstruction_Sandbags_Crescent.MenuName"
+msgstr "Sacs de sable (croissant)"
+
+msgid "DHConstruction_Sandbags_Line.MenuName"
+msgstr "Sacs de sable (ligne)"
+
+msgid "DHConstruction_SupplyCache.MenuName"
+msgstr "Point d'Approvisionnement"
+
+msgid "DHConstruction_SupplyCache.MenuDescription"
+msgstr "Stocke et génère des ressources au fil du temps."
+
+msgid "DHConstruction_VehiclePool.MenuName"
+msgstr "Dépôt de Véhicules"
+
+msgid "DHConstruction_VehiclePool.MenuDescription"
+msgstr "Fournit un point de réapparition de véhicule à l'échelle de l'équipe."
