@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"PO-Revision-Date: 2025-11-05 17:35+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/fr/>\n"
@@ -13,3 +13,6 @@ msgstr ""
 
 msgid "ControlBinder.BindingLabel[15]"
 msgstr "Basculer \"BehindView\""
+
+msgid "ControlBinder.BindingLabel[41]"
+msgstr "Menu Vocal"
