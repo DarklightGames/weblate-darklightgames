@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 05:47+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2025-11-06 17:48+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
 "Language: ja\n"
@@ -697,3 +697,66 @@ msgstr "{1}が{0}をマーカーの位置に空挺降下させた"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<11>"
 msgstr "{1}が分隊を分隊長の位置にパラ降下させた"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<12>"
+msgstr "IPを開く"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<12>"
+msgstr "{1} が分隊をマーカーの位置に空挺降下させました"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<13>"
+msgstr "{1}が分隊に所属していないプレイヤーをマーカーに空挺降下させました"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<14>"
+msgstr "{1} が{0} を分隊長に昇格しました"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<15>"
+msgstr "{1} が分隊から{0}を キックしました"
+
+msgid "DHTab_Hud.UseNativeRoleNames.Caption"
+msgstr "兵科の名称を現地語で表示する"
+
+msgid "DHTab_Hud.UseNativeItemNames.Caption"
+msgstr "武器や兵器の名称を現地語で表示する"
+
+msgid "DHCreditsPage.ProjectLeadsText"
+msgstr "プロジェクトリーダー"
+
+msgid "DHCreditsPage.ProgrammersText"
+msgstr "プログラマー"
+
+msgid "DHCreditsPage.AnimatorsText"
+msgstr "アニメーション制作"
+
+msgid "DHCreditsPage.ModelersText"
+msgstr "モデリング"
+
+msgid "DHCreditsPage.TextureArtistsText"
+msgstr "テクスチャ制作"
+
+msgid "DHCreditsPage.ArtistsText"
+msgstr "アートデザイン"
+
+msgid "DHCreditsPage.LevelDesignersText"
+msgstr "マップ設計・制作"
+
+msgid "DHCreditsPage.SoundArtistsText"
+msgstr "サウンド制作"
+
+msgid "DHCreditsPage.VoiceActorsText"
+msgstr "声優"
+
+msgid "DHCreditsPage.LocalizationTeamText"
+msgstr "ローカライズ"
+
+msgid "DHCreditsPage.CommunityAdminsText"
+msgstr "コミュニティ管理者"
+
+msgid "DHCreditsPage.PastPatreonSupportersText"
+msgstr "過去のPatreonサポーター"
+
+msgid "DHCreditsPage.OtherContributorsText"
+msgstr "その他の貢献者"
+
+msgid "DHCreditsPage.SpecialThanksText"
+msgstr "スペシャルサンクス"
