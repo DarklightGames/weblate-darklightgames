@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 17:48+0000\n"
-"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
+"PO-Revision-Date: 2025-11-07 19:09+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ja/>\n"
 "Language: ja\n"
@@ -1976,6 +1976,7 @@ msgstr "行動中"
 msgid "DHCommandMenu_Radio.CancelText"
 msgstr "進行中 (キャンセル)"
 
+#, fuzzy
 msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
 msgstr "0人のプレイヤー "
 
