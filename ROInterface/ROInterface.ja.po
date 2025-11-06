@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"PO-Revision-Date: 2025-11-06 02:13+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ja/>\n"
@@ -872,9 +872,8 @@ msgstr "射撃モード切替"
 msgid "ROTab_Controls.captions_comm[0]"
 msgstr "Say(全員チャット)"
 
-#, fuzzy
 msgid "ROTab_Controls.captions_comm[1]"
-msgstr "Team Say(\\\"チームチャット)"
+msgstr "Team Say(チームチャット)"
 
 msgid "ROTab_Controls.captions_comm[2]"
 msgstr "Vehicle Say(車両チャット)"
