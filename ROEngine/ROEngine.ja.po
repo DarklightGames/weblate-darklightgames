@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 17:35+0000\n"
+"PO-Revision-Date: 2025-11-06 17:48+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/ja/>\n"
@@ -54,10 +54,10 @@ msgid "ROArtilleryMsg.NoArtyAvailable"
 msgstr "使用可能な砲撃支援は無い"
 
 msgid "ROBipodWarningMsg.DeployToFire"
-msgstr "この銃で射撃するには二脚を展開し、設置しなければならない！"
+msgstr "この銃で射撃するには依託状態でなくてはなりません！"
 
 msgid "ROBipodWarningMsg.DeployToReload"
-msgstr "この銃の装填には二脚を展開し、設置しなければならない！"
+msgstr "この銃を再装填するには依託状態でなくてはなりません!"
 
 msgid "RODaddyMessage.DaddyMessage"
 msgstr "アンタリアンはあなたのお父さんです!"
@@ -759,7 +759,7 @@ msgid "ROVoicePack.SupportAbbrev[8]"
 msgstr "砲撃支援を頼む!"
 
 msgid "ROVoicePack.SupportAbbrev[9]"
-msgstr "乗せてくれ!"
+msgstr "乗り物が必要だ!"
 
 msgid "ROVoicePack.SupportStringAxis[5]"
 msgstr "パンツァーファウストが必要だ!"
