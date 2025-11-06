@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 02:13+0000\n"
+"PO-Revision-Date: 2025-11-06 17:48+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/fr/>\n"
@@ -214,3 +214,39 @@ msgstr "HOME"
 
 msgid "KeyNames.Select"
 msgstr "SELECT"
+
+msgid "KeyNames.Space"
+msgstr "ESPACE"
+
+msgid "KeyNames.PageUp"
+msgstr "PAGE UP"
+
+msgid "KeyNames.PageDown"
+msgstr "PAGE DOWN"
+
+msgid "KeyNames.Print"
+msgstr "PRINT"
+
+msgid "KeyNames.Execute"
+msgstr "EXECUTE"
+
+msgid "KeyNames.PrintScrn"
+msgstr "IMPR ECRAN"
+
+msgid "KeyNames.Insert"
+msgstr "INSER"
+
+msgid "KeyNames.Delete"
+msgstr "SUPPR"
+
+msgid "KeyNames.Help"
+msgstr "HELP"
+
+msgid "KeyNames.NumPad0"
+msgstr "NUM 0"
+
+msgid "KeyNames.NumPad1"
+msgstr "NUM 1"
+
+msgid "KeyNames.NumPad2"
+msgstr "NUM 2"
