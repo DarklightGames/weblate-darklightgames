@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-04 10:43+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@gmail.com>\n"
+"PO-Revision-Date: 2025-11-06 17:48+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/ja/>\n"
 "Language: ja\n"
@@ -9,10 +9,85 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHRadioItem.ItemName"
 msgstr "ラジオ"
 
 msgid "DHBinocularsItem.ItemName"
 msgstr "双眼鏡"
+
+msgid "DHBinocularsItemAllied.ItemName"
+msgstr "M13 6x30 双眼鏡"
+
+msgid "DHBinocularsItemGerman.ItemName"
+msgstr "Zeiss 6x30 官給双眼鏡"
+
+msgid "DHBinocularsItemItalian.ItemName"
+msgstr "Koristka 7x50 双眼鏡"
+
+msgid "DHBinocularsItemSoviet.ItemName"
+msgstr "BPP 6x30 双眼鏡"
+
+msgid "DHBrokenBottleItem.ItemName"
+msgstr "VINO ROSSO 'Bass-net' 2009"
+
+msgid "DHShovelItem.ItemName"
+msgstr "シャベル"
+
+msgid "DHShovelItem_German.NativeItemName"
+msgstr "Feldspaten"
+
+msgid "DHShovelItem_Italian.NativeItemName"
+msgstr "Pala Vanghetta"
+
+msgid "DHShovelItem_Russian.NativeItemName"
+msgstr "MPL-50"
+
+msgid "DHShovelWarningMessage.CannotBeCrawling"
+msgstr "伏せながら掘ることはできません。"
+
+msgid "DHShovelWarningMessage.NeedMoreFriendliesToBuildMessage"
+msgstr "シャベルを使って建設するには、近くに別の分隊員がいる必要があります！"
+
+msgid "DHTrenchMaceItem.ItemName"
+msgstr "棍棒"
+
+msgid "DHTrenchMaceItem_Bone.ItemName"
+msgstr "骨の棍棒"
+
+msgid "DHTrenchMaceItem_Grenade.ItemName"
+msgstr "メイス"
+
+msgid "DHWireCuttersItem.ItemName"
+msgstr "ワイヤーカッター"
+
+msgid "DH_NebelGranate39Weapon.NativeItemName"
+msgstr "Nebelhandgranate 39"
+
+msgid "DH_NebelGranate39Weapon.ItemName"
+msgstr "NB 39 発煙筒"
+
+msgid "DH_OrangeSmokeWeapon.NativeItemName"
+msgstr "RauchSichtzeichen Orange 160"
+
+msgid "DH_OrangeSmokeWeapon.ItemName"
+msgstr "RauchSichtzeichen Orange 160 信号発煙筒(橙)"
+
+msgid "DH_ParachuteItem.ItemName"
+msgstr "パラシュート"
+
+msgid "DH_ParachuteStaticLine.ItemName"
+msgstr "自動開傘パラシュート"
+
+msgid "DH_RDG1SmokeGrenadeWeapon.NativeItemName"
+msgstr "RDG-1"
+
+msgid "DH_RDG1SmokeGrenadeWeapon.ItemName"
+msgstr "RDG-1 発煙筒"
+
+msgid "DH_RedSmokeWeapon.ItemName"
+msgstr "M16 信号発煙筒(赤)"
+
+msgid "DH_USSmokeGrenadeWeapon.ItemName"
+msgstr "M8 発煙筒"
