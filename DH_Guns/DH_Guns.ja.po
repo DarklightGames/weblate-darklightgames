@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-04 01:09+0000\n"
+"PO-Revision-Date: 2025-11-06 17:48+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ja/>\n"
@@ -31,3 +31,156 @@ msgstr "O-240"
 
 msgid "DH_45mmM1942GunCannon.nProjectileDescriptions<2>"
 msgstr "BR-240P"
+
+msgid "DH_45mmM1937Gun.VehicleNameString"
+msgstr "45mm 53-K (1937) 対戦車砲"
+
+msgid "DH_45mmM1937GunCannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_45mmM1937GunCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_45mmM1942Gun.VehicleNameString"
+msgstr "45mm M-42 対戦車砲"
+
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<2>"
+msgstr "APCR"
+
+msgid "DH_6PounderGun.VehicleNameString"
+msgstr "6ポンド Mk.IV 対戦車砲"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions<1>"
+msgstr "APDS"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_6PounderGunCannon.nProjectileDescriptions<0>"
+msgstr "Mk.XT APC"
+
+msgid "DH_6PounderGunCannon.nProjectileDescriptions<1>"
+msgstr "Mk.I APDS"
+
+msgid "DH_6PounderGunCannon.nProjectileDescriptions<2>"
+msgstr "Mk.X HE-T"
+
+msgid "DH_AT57Cannon.nProjectileDescriptions<0>"
+msgstr "M86 APC"
+
+msgid "DH_AT57Cannon.nProjectileDescriptions<1>"
+msgstr "M303 HE-T"
+
+msgid "DH_AT57Gun.VehicleNameString"
+msgstr "57mm M1 対戦車砲"
+
+msgid "DH_BM36Mortar.VehicleNameString"
+msgstr "82mm BM-36 迫撃砲"
+
+msgid "DH_BM36MortarCannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_BM36MortarCannon.ProjectileDescriptions<1>"
+msgstr "発煙弾"
+
+msgid "DH_BM36MortarCannon.nProjectileDescriptions<0>"
+msgstr "O-832"
+
+msgid "DH_BM36MortarCannon.nProjectileDescriptions<1>"
+msgstr "D-832"
+
+msgid "DH_Bofors40mmCannon.ProjectileDescriptions<0>"
+msgstr "HE-T"
+
+msgid "DH_Bofors40mmCannon.ProjectileDescriptions<1>"
+msgstr "AP"
+
+msgid "DH_Bofors40mmCannon.nProjectileDescriptions<0>"
+msgstr "Mk.II HE-T"
+
+msgid "DH_Bofors40mmCannon.nProjectileDescriptions<1>"
+msgstr "M81A1 AP"
+
+msgid "DH_Bofors40mmGun.VehicleNameString"
+msgstr "Bofors 40mm砲"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<0>"
+msgstr "AP"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<0>"
+msgstr "Granata Perforante da 47"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<1>"
+msgstr "Granata da 47"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<2>"
+msgstr "Effetto Pronto da 47"
+
+msgid "DH_Cannone4732Gun.VehicleNameString"
+msgstr "Cannone da 47/32"
+
+msgid "DH_Fiat1435Gun.VehicleNameString"
+msgstr "Fiat-Revelli modello 14/35"
+
+msgid "DH_Fiat1435Gun_AC.VehicleNameString"
+msgstr "Fiat mod. 35"
+
+msgid "DH_Fiat1435Gun_WC.VehicleNameString"
+msgstr "Fiat mod. 14"
+
+msgid "DH_Flak38Gun.VehicleNameString"
+msgstr "2,0cm FlaK 38"
+
+msgid "DH_Flak88Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Flak88Cannon.nProjectileDescriptions<1>"
+msgstr "Schw.Sprgr.Patr."
+
+msgid "DH_Flak88Gun.VehicleNameString"
+msgstr "8,8cm FlaK 36"
+
+msgid "DH_Flakvierling38Gun.VehicleNameString"
+msgstr "2,0cm Flakvierling 38"
+
+msgid "DH_Granatwerfer34Cannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_Granatwerfer34Cannon.ProjectileDescriptions<1>"
+msgstr "発煙弾"
+
+msgid "DH_Granatwerfer34Cannon.nProjectileDescriptions<0>"
+msgstr "Wgr. 38"
+
+msgid "DH_Granatwerfer34Cannon.nProjectileDescriptions<1>"
+msgstr "Wgr. 38 Nb."
+
+msgid "DH_Granatwerfer34Mortar.VehicleNameString"
+msgstr "Granatwerfer 34 8cm 迫撃砲"
+
+msgid "DH_LeIG18Cannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_LeIG18Cannon.ProjectileDescriptions<1>"
+msgstr "HEAT"
+
+msgid "DH_LeIG18Cannon.nProjectileDescriptions<0>"
+msgstr "Igr.38 Sprgr"
+
+msgid "DH_LeIG18Cannon.nProjectileDescriptions<1>"
+msgstr "Igr.38 HL/A"
