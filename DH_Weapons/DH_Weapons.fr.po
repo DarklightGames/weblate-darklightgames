@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 02:13+0000\n"
+"PO-Revision-Date: 2025-11-06 17:48+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/fr/>\n"
@@ -263,3 +263,42 @@ msgstr "Gewehr M95/30"
 
 msgid "DH_M9530Weapon.ItemName"
 msgstr "Mannlicher M95/30"
+
+msgid "DH_M34GrenadeWeapon.ItemName"
+msgstr "Grenade RG-34"
+
+msgid "DH_M38Weapon.ItemName"
+msgstr "Mosin M38"
+
+msgid "DH_M44Weapon.ItemName"
+msgstr "Mosin M44"
+
+msgid "DH_M712Weapon.ItemName"
+msgstr "Mauser M712 'Schnellfeuer'"
+
+msgid "DH_M9531Weapon.NativeItemName"
+msgstr "Puska 31.M"
+
+msgid "DH_MAB38Weapon.NativeItemName"
+msgstr "Moschetto Automatico Beretta M1938A"
+
+msgid "DH_MAB38Weapon.ItemName"
+msgstr "MAB mod. 38-A"
+
+msgid "DH_MAB42Weapon.NativeItemName"
+msgstr "Moschetto Automatico Beretta M1938A/42"
+
+msgid "DH_MAB42Weapon.ItemName"
+msgstr "MAB mod. 38-A/42"
+
+msgid "DH_MG34Weapon.NativeItemName"
+msgstr "Maschinengewehr 34"
+
+msgid "DH_MG34Weapon.ItemName"
+msgstr "MG 34"
+
+msgid "DH_MG42Weapon.NativeItemName"
+msgstr "Maschinengewehr 42"
+
+msgid "DH_MG42Weapon.ItemName"
+msgstr "MG 42"
