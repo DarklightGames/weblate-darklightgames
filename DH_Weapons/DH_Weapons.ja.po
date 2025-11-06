@@ -1,2 +1,261 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-11-06 17:48+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
+"Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_weapons/ja/>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "DH_30calWeapon.ItemName"
+msgstr "Browning M1919A6"
+
+msgid "DH_AVT40Weapon.ItemName"
+msgstr "AVT-40"
+
+msgid "DH_BARNoBipodWeapon.ItemName"
+msgstr "B.A.R. M1918A2 (二脚なし)"
+
+msgid "DH_BARWeapon.ItemName"
+msgstr "B.A.R. M1918A2"
+
+msgid "DH_BHPWeapon.ItemName"
+msgstr "FN Browning High-Power"
+
+msgid "DH_BazookaM9Weapon.ItemName"
+msgstr "M9A1 Bazooka"
+
+msgid "DH_BazookaWeapon.ItemName"
+msgstr "M1A1 Bazooka"
+
+msgid "DH_BerettaM1934Weapon.ItemName"
+msgstr "Beretta M1934"
+
+msgid "DH_Breda30Weapon.ItemName"
+msgstr "Breda M30"
+
+msgid "DH_BrenWeapon.ItemName"
+msgstr "Bren Mk.II"
+
+msgid "DH_C96Weapon.ItemName"
+msgstr "Mauser C96"
+
+msgid "DH_CarcanoM9138CarbineWeapon.ItemName"
+msgstr "Carcano Moschetto M1891/38(騎兵銃 銃剣折りたたみ式)"
+
+msgid "DH_CarcanoM9138ShortRifleWeapon.ItemName"
+msgstr "Carcano Fucile Corto mod. 91/38(短小銃)"
+
+msgid "DH_CarcanoM9138TSCarbineWeapon.ItemName"
+msgstr "Carcano Moschetto TS mod. 91/38(騎兵銃 銃剣着脱式)"
+
+msgid "DH_CarcanoM91Weapon.ItemName"
+msgstr "Carcano Fucile mod. 91(歩兵小銃)"
+
+msgid "DH_ColtM1911Weapon.ItemName"
+msgstr "Colt M1911A1"
+
+msgid "DH_ColtM1914Weapon.ItemName"
+msgstr "Kongsberg Colten M/1914"
+
+msgid "DH_DP27Ammo.ItemName"
+msgstr "DP27 弾倉"
+
+msgid "DH_DP27LateWeapon.ItemName"
+msgstr "DP-27"
+
+msgid "DH_DP27Weapon.ItemName"
+msgstr "DP-27"
+
+msgid "DH_DT29Ammo.ItemName"
+msgstr "DT29 弾倉"
+
+msgid "DH_DT29Weapon.ItemName"
+msgstr "DT-29"
+
+msgid "DH_EnfieldNo2Weapon.ItemName"
+msgstr "Enfield No.2"
+
+msgid "DH_EnfieldNo4ScopedWeapon.ItemName"
+msgstr "Enfield No.4 Mk.I (T) (No.32スコープ付き)"
+
+msgid "DH_EnfieldNo4Weapon.ItemName"
+msgstr "Lee Enfield No.4 小銃"
+
+msgid "DH_F1GrenadeWeapon.NativeItemName"
+msgstr "F1 Granata"
+
+msgid "DH_F1GrenadeWeapon.ItemName"
+msgstr "F1手榴弾"
+
+msgid "DH_FG42ScopedWeapon.NativeItemName"
+msgstr "Fallschirmjägergewehr 42 (ZFG42)"
+
+msgid "DH_FG42ScopedWeapon.ItemName"
+msgstr "FG 42(ZFG42付き)"
+
+msgid "DH_FG42Weapon.NativeItemName"
+msgstr "Fallschirmjägergewehr 42"
+
+msgid "DH_FG42Weapon.ItemName"
+msgstr "FG 42"
+
+msgid "DH_G41Weapon.NativeItemName"
+msgstr "Gewehr 41(W)"
+
+msgid "DH_G41Weapon.ItemName"
+msgstr "G 41(W)"
+
+msgid "DH_G43ScopedWeapon.NativeItemName"
+msgstr "Gewehr 43 (ZF4)"
+
+msgid "DH_G43ScopedWeapon.ItemName"
+msgstr "G 43 (ZF4付き)"
+
+msgid "DH_G43Weapon.NativeItemName"
+msgstr "Gewehr 43"
+
+msgid "DH_G43Weapon.ItemName"
+msgstr "G 43"
+
+msgid "DH_G98Weapon.NativeItemName"
+msgstr "Gewehr 98"
+
+msgid "DH_G98Weapon.ItemName"
+msgstr "G 98"
+
+msgid "DH_GLWeapon.ItemName"
+msgstr "StG 24 x7 収束手榴弾"
+
+msgid "DH_GeratPIIWeapon.ItemName"
+msgstr "ゲレートポツダム2"
+
+msgid "DH_GeratPWeapon.ItemName"
+msgstr "ゲレートポツダム"
+
+msgid "DH_GreaseGunWeapon.ItemName"
+msgstr "M3 Grease Gun"
+
+msgid "DH_Kar98NoCoverWeapon.NativeItemName"
+msgstr "Karabiner 98k (照星カバーなし)"
+
+msgid "DH_Kar98NoCoverWeapon.ItemName"
+msgstr "Kar 98k (照星カバーなし)"
+
+msgid "DH_Kar98ScopedWeapon.NativeItemName"
+msgstr "Karabiner 98k (ZF39付き)"
+
+msgid "DH_Kar98ScopedWeapon.ItemName"
+msgstr "Kar 98k (ZF39付き)"
+
+msgid "DH_Kar98ScopedZF41Weapon.ItemName"
+msgstr "Karabiner 98k (ZF41付き)"
+
+msgid "DH_Kar98Weapon.NativeItemName"
+msgstr "Karabiner 98k"
+
+msgid "DH_Kz8cmGrW42Weapon.NativeItemName"
+msgstr "Kurz 8cm Granatwerfer 42"
+
+msgid "DH_M1924Weapon.NativeItemName"
+msgstr "M1924 Puska"
+
+msgid "DH_M34GrenadeWeapon.NativeItemName"
+msgstr "OUG vz.34 Rucni Granat"
+
+msgid "DH_M9530Weapon.NativeItemName"
+msgstr "Gewehr M95/30"
+
+msgid "DH_M9531Weapon.NativeItemName"
+msgstr "31.M Puska"
+
+msgid "DH_MAB38Weapon.NativeItemName"
+msgstr "Moschetto Automatico Beretta M1938A"
+
+msgid "DH_MAB42Weapon.NativeItemName"
+msgstr "Moschetto Automatico Beretta M1938A/42"
+
+msgid "DH_MG34Weapon.NativeItemName"
+msgstr "Maschinengewehr 34"
+
+msgid "DH_MG42Weapon.NativeItemName"
+msgstr "Maschinengewehr 42"
+
+msgid "DH_MKB42HWeapon.NativeItemName"
+msgstr "Maschinenkarabiner 42(H)"
+
+msgid "DH_MP3008Weapon.NativeItemName"
+msgstr "Maschinenpistole 3008"
+
+msgid "DH_MP38Weapon.NativeItemName"
+msgstr "Maschinenpistole 38"
+
+msgid "DH_MP40Weapon.NativeItemName"
+msgstr "Maschinenpistole 40"
+
+msgid "DH_MP41RWeapon.NativeItemName"
+msgstr "Maschinenpistole 41(r)"
+
+msgid "DH_MP41Weapon.NativeItemName"
+msgstr "Maschinenpistole 41"
+
+msgid "DH_PTRDWeapon.NativeItemName"
+msgstr "PTRD-41"
+
+msgid "DH_PanzerFaustWeapon.NativeItemName"
+msgstr "Panzerfaust 60"
+
+msgid "DH_PanzerschreckWeapon.NativeItemName"
+msgstr "Raketenpanzerbüchse 54 'Panzerschreck'"
+
+msgid "DH_RPG43GrenadeWeapon.NativeItemName"
+msgstr "RPG-43"
+
+msgid "DH_STG44ScopedWeapon.NativeItemName"
+msgstr "Sturmgewehr 44 (ZF4)"
+
+msgid "DH_STG44Weapon.NativeItemName"
+msgstr "Sturmgewehr 44"
+
+msgid "DH_StielGranateWeapon.NativeItemName"
+msgstr "Stielhandgranate 24"
+
+msgid "DH_VG15Weapon.NativeItemName"
+msgstr "Volkssturmgewehr 1-5"
+
+msgid "DH_VK98Weapon.NativeItemName"
+msgstr "Volkssturmkarabiner 98"
+
+msgid "DH_Vz24ScopedWeapon.NativeItemName"
+msgstr "ZB vz.24 Puska (IOR)"
+
+msgid "DH_Vz24Weapon.NativeItemName"
+msgstr "ZB vz.24 Puska"
+
+msgid "DH_ZB30Weapon.NativeItemName"
+msgstr "ZB vz.30 Kulomet"
+
+msgid "DH_Kar98Weapon.ItemName"
+msgstr "Kar 98k"
+
+msgid "DH_KorovinWeapon.ItemName"
+msgstr "Korovin 1941 \"PPK\""
+
+msgid "DH_Kz8cmGrW42Vehicle.VehicleNameString"
+msgstr "Kurz 8cm Granatwerfer 42 迫撃砲"
+
+msgid "DH_Kz8cmGrW42Weapon.Description"
+msgstr "Kurz 8cm Granatwerfer 42 迫撃砲"
+
+msgid "DH_Kz8cmGrW42Weapon.ItemName"
+msgstr "Kz 8cm GrW 42 迫撃砲"
+
+msgid "DH_LtypeGrenadeWeapon.ItemName"
+msgstr "\"O.T.O Tipo L\" 対戦車手榴弾"
+
+msgid "DH_M1924Weapon.ItemName"
+msgstr "M1924 小銃"
