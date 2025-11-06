@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"PO-Revision-Date: 2025-11-06 17:48+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/ja/>\n"
@@ -43,3 +43,102 @@ msgstr "チャンネルを割り当てることが出来ませんでした"
 
 msgid "Errors.NetAlready"
 msgstr "すでに接続しています"
+
+msgid "Errors.NetRefused"
+msgstr "サーバが '%s' の送信を拒否しました"
+
+msgid "Errors.DownloadFailed"
+msgstr "パッケージ '%s' のダウンロードに失敗しました: %s"
+
+msgid "Errors.InvalidUrl"
+msgstr "URL が無効です:%s"
+
+msgid "Errors.InvalidLink"
+msgstr "リンクが無効です:%s"
+
+msgid "Errors.Pending"
+msgstr "'%s' への保留中の接続が失敗しました。%s"
+
+msgid "Errors.ServerOutdated"
+msgstr "サーバーのバージョンが古いです"
+
+msgid "Errors.ClientOutdated"
+msgstr "最新のパッチを適用する必要があります"
+
+msgid "Errors.ConnectLost"
+msgstr "接続が失われました"
+
+msgid "Errors.DownloadNotAllowed"
+msgstr "'%s' のダウンロードは許可されていません"
+
+msgid "KeyNames.Up"
+msgstr "上キー"
+
+msgid "KeyNames.Right"
+msgstr "右キー"
+
+msgid "KeyNames.Left"
+msgstr "左キー"
+
+msgid "KeyNames.Down"
+msgstr "下キー"
+
+msgid "KeyNames.LeftMouse"
+msgstr "マウス左クリック"
+
+msgid "KeyNames.RightMouse"
+msgstr "マウス右クリック"
+
+msgid "KeyNames.MiddleMouse"
+msgstr "マウスホイールクリック"
+
+msgid "KeyNames.MouseX"
+msgstr "マウス X軸"
+
+msgid "KeyNames.MouseY"
+msgstr "マウス Y軸"
+
+msgid "KeyNames.MouseZ"
+msgstr "マウス Z軸"
+
+msgid "KeyNames.MouseW"
+msgstr "マウス W軸"
+
+msgid "KeyNames.MouseWheelUp"
+msgstr "マウスホイール上"
+
+msgid "KeyNames.MouseWheelDown"
+msgstr "マウスホイール下"
+
+msgid "KeyNames.JoyX"
+msgstr "アナログスティックX軸"
+
+msgid "KeyNames.JoyY"
+msgstr "アナログスティック Y軸"
+
+msgid "KeyNames.JoyZ"
+msgstr "アナログスティック Z軸"
+
+msgid "KeyNames.JoyU"
+msgstr "アナログスティック U軸"
+
+msgid "KeyNames.JoyV"
+msgstr "アナログスティック V軸"
+
+msgid "KeyNames.JoySlider1"
+msgstr "ジョイスティック スライダー1"
+
+msgid "KeyNames.JoySlider2"
+msgstr "ジョイスティック スライダー2"
+
+msgid "KeyNames.Joy1"
+msgstr "ジョイスティック 1"
+
+msgid "KeyNames.Joy2"
+msgstr "ジョイスティック 2"
+
+msgid "KeyNames.Joy3"
+msgstr "ジョイスティック 3"
+
+msgid "KeyNames.Joy4"
+msgstr "ジョイスティック 4"
