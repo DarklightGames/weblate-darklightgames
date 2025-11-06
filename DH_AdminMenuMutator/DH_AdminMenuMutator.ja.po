@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-03 00:09+0000\n"
+"PO-Revision-Date: 2025-11-06 17:48+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/ja/>\n"
@@ -60,19 +60,16 @@ msgstr "Enterを押して、リアリズムモードを有効にすることを�
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableRealism"
 msgstr "Enterを押して、リアリズムモードを無効にすることを確定します"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAlliesAtObjective"
 msgstr "Enterを押して、選択した目標にすべての連合国側プレーヤーを配置することを確定し"
 "ます"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAxisAtObjective"
 msgstr "Enterを押して、選択した目標にすべての枢軸国側プレーヤーを配置することを確定し"
 "ます"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.ConfirmDropAllAtObjective"
-msgstr "Enterを押して、選択した目標にすべてプレーヤーを配置することを確定します"
+msgstr "Enterを押して、選択した目標にすべてのプレーヤーを配置することを確定します"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableMines"
 msgstr "Enterを押して、すべての地雷を無効にすることを確定します"
@@ -80,7 +77,6 @@ msgstr "Enterを押して、すべての地雷を無効にすることを確定�
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableMines"
 msgstr "Enterを押して、すべての地雷を再度有効にすることを確定します"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableCapProgress"
 msgstr "Enterを押して、マップ上の拠点占領状況の表示を無効化することを確定します"
 
@@ -96,14 +92,12 @@ msgstr "Enterを押して、プレイヤーの位置のマップへの表示を�
 msgid "DHAdminMenu_AdminMessages.ConfirmKillAll"
 msgstr "Enterを押して、すべてのプレイヤーをキルすることを確定します"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.EnterGameSpeed"
-msgstr "新しいゲーム速度の倍率を指定してください（1が標準です）"
+msgstr "新たなゲーム速度の倍率を指定してください（1が標準です）"
 
 msgid "DHAdminMenu_AdminMessages.EnterTimeRemaining"
 msgstr "新しいラウンドの残り時間（分）を指定してください"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.ConfirmToggleAdminCanPause"
 msgstr "Enterを押して、「管理者は試合を一時停止できる」オプションのオンオフを切り替え"
 "ます"
@@ -117,9 +111,8 @@ msgstr "枢軸国側の分隊あたりの人数を指定してください（8~1
 msgid "DHAdminMenu_AdminMessages.ToggleWeaponLockText"
 msgstr "Enterを押して武器のロックのオンオフを切り替えます"
 
-#, fuzzy
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableRallyPoints"
-msgstr "Enterを押して設置された分隊リスポーン地点を無効にします"
+msgstr "Enterを押して設置された分隊リスポーン地点(RP)を無効にします"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableRallyPoints"
 msgstr "Enterを押して、設置された分隊リスポーン地点を再度有効にします"
@@ -133,3 +126,56 @@ msgstr "エラー: プレイヤー名が指定されていません（no player 
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[5]"
 msgstr ""
+"エラー: '%insert_name%' というプレイヤーが見つかりませんでした（could not "
+"find a player called '%insert_name%'）"
+
+msgid "DHAdminMenu_AdminMessages.DestroyActorInSights"
+msgstr "[Enter] を押して、視界内のアクターの破壊を確定します"
+
+msgid "DHAdminMenu_AdminMessages.SetGamePasswordText"
+msgstr "新しいゲームパスワードを指定してください"
+
+msgid "DHAdminMenu_ErrorMessages.MissingNameText"
+msgstr "<missing name>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[2]"
+msgstr "このサーバーではプレイヤーの空挺降下は許可されていません"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[6]"
+msgstr "問題:'%insert_name%' "
+"という名前のプレイヤーが複数見つかったため、この操作を続行するのは安全ではあ"
+"りません"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[10]"
+msgstr "'%insert_name%' は既にその兵科です"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[11]"
+msgstr "そのアクションをボットで実行することはできません"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[12]"
+msgstr "エラー:メッセージが指定されていません(no message specified)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[15]"
+msgstr "このマップには地雷原はありません"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[16]"
+msgstr "地雷原はすでに無効になっています"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[17]"
+msgstr "地雷原はすでに有効になっています"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[18]"
+msgstr "エラー:有効なチーム名が指定されていません(no valid team name specified)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[19]"
+msgstr "エラー:兵科%insert_name% が見つかりません"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[20]"
+msgstr "エラー:目標 %insert_name% が見つかりません"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[21]"
+msgstr "エラー:有効なタイプの空挺降下位置が指定されていません "
+"(例:目標、グリッド、または現在の場所)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[22]"
+msgstr "エラー:無効なマップグリッド座標です"
