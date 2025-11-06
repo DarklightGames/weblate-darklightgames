@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 02:13+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2025-11-06 17:48+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ja/>\n"
 "Language: ja\n"
@@ -903,7 +903,7 @@ msgid "ROTab_Controls.captions_game[1]"
 msgstr "使う"
 
 msgid "ROTab_Controls.captions_game[2]"
-msgstr "機関銃手に弾を補給"
+msgstr "機関銃手に弾を渡す"
 
 msgid "ROTab_Controls.captions_game[3]"
 msgstr "ゲームを一時停止"
@@ -1261,3 +1261,249 @@ msgstr "選択した兵科は満員です。他の兵科を選択してくださ
 
 msgid "ROControlBinder.BindingLabel[2]"
 msgstr "リロード"
+
+msgid "ROConsole.SMStateName[14]"
+msgstr "命令の対象を選択..."
+
+msgid "ROControlBinder.BindingLabel[0]"
+msgstr "Red Orchestra"
+
+msgid "ROControlBinder.BindingLabel[1]"
+msgstr "スプリントダッシュ"
+
+msgid "ROControlBinder.BindingLabel[3]"
+msgstr "アイアンサイト"
+
+msgid "ROControlBinder.BindingLabel[4]"
+msgstr "兵科を変更"
+
+msgid "ROControlBinder.BindingLabel[5]"
+msgstr "HUD を表示/非表示"
+
+msgid "ROControlBinder.BindingLabel[6]"
+msgstr "伏せる"
+
+msgid "ROControlBinder.BindingLabel[7]"
+msgstr "銃剣の着脱/機関銃の展開"
+
+msgid "ROControlBinder.BindingLabel[8]"
+msgstr "機関銃の銃身交換"
+
+msgid "ROControlBinder.BindingLabel[9]"
+msgstr "目標を表示"
+
+msgid "ROControlBinder.BindingLabel[11]"
+msgstr "陣営を変更"
+
+msgid "ROControlBinder.BindingLabel[12]"
+msgstr "使用/インタラクト"
+
+msgid "ROControlBinder.BindingLabel[13]"
+msgstr "射撃モードの切り替え"
+
+msgid "ROControlBinder.BindingLabel[14]"
+msgstr "武器の変更"
+
+msgid "ROControlBinder.BindingLabel[15]"
+msgstr "機関銃手に弾薬を渡す"
+
+msgid "ROControlBinder.BindingLabel[17]"
+msgstr "移動"
+
+msgid "ROControlBinder.BindingLabel[18]"
+msgstr "前進"
+
+msgid "ROControlBinder.BindingLabel[19]"
+msgstr "後退"
+
+msgid "ROControlBinder.BindingLabel[22]"
+msgstr "ジャンプ"
+
+msgid "ROControlBinder.BindingLabel[23]"
+msgstr "歩く"
+
+msgid "ROControlBinder.BindingLabel[24]"
+msgstr "しゃがむ(押すたび切り替え)"
+
+msgid "ROControlBinder.BindingLabel[25]"
+msgstr "しゃがむ(長押し)"
+
+msgid "ROControlBinder.BindingLabel[27]"
+msgstr "左にリーン"
+
+msgid "ROControlBinder.BindingLabel[30]"
+msgstr "左を向く"
+
+msgid "ROControlBinder.BindingLabel[31]"
+msgstr "右を向く"
+
+msgid "ROControlBinder.BindingLabel[32]"
+msgstr "上を見る"
+
+msgid "ROControlBinder.BindingLabel[33]"
+msgstr "下を見る"
+
+msgid "ROControlBinder.BindingLabel[10]"
+msgstr "スコープの品質を変える"
+
+msgid "ROControlBinder.BindingLabel[16]"
+msgstr "砲撃目標を保存する"
+
+msgid "ROControlBinder.BindingLabel[20]"
+msgstr "左に移動"
+
+msgid "ROControlBinder.BindingLabel[21]"
+msgstr "右に移動"
+
+msgid "ROControlBinder.BindingLabel[26]"
+msgstr "横移動の切り替え"
+
+msgid "ROControlBinder.BindingLabel[28]"
+msgstr "上半身を右に傾ける(リーン)"
+
+msgid "ROControlBinder.BindingLabel[29]"
+msgstr "視界操作"
+
+msgid "ROControlBinder.BindingLabel[34]"
+msgstr "方向を中央に戻す"
+
+msgid "ROControlBinder.BindingLabel[35]"
+msgstr "切り替え "
+
+msgid "ROControlBinder.BindingLabel[36]"
+msgstr "カメラモードの切り替え"
+
+msgid "ROControlBinder.BindingLabel[37]"
+msgstr "武器の操作"
+
+msgid "ROControlBinder.BindingLabel[38]"
+msgstr "射撃"
+
+msgid "ROControlBinder.BindingLabel[39]"
+msgstr "特殊射撃/近接攻撃"
+
+msgid "ROControlBinder.BindingLabel[40]"
+msgstr "武器を捨てる"
+
+msgid "ROControlBinder.BindingLabel[43]"
+msgstr "一つ前の持ち物"
+
+msgid "ROControlBinder.BindingLabel[42]"
+msgstr "次の持ち物"
+
+msgid "ROControlBinder.BindingLabel[45]"
+msgstr "コミュニケーション"
+
+msgid "ROControlBinder.BindingLabel[46]"
+msgstr "全体チャット"
+
+msgid "ROControlBinder.BindingLabel[47]"
+msgstr "チームチャット"
+
+msgid "ROControlBinder.BindingLabel[48]"
+msgstr "ゲーム内チャット"
+
+msgid "ROControlBinder.BindingLabel[49]"
+msgstr "ボイスメッセージメニュー"
+
+msgid "ROControlBinder.BindingLabel[50]"
+msgstr "マイクを有効にする"
+
+msgid "ROControlBinder.BindingLabel[51]"
+msgstr "全体へのボイスチャット"
+
+msgid "ROControlBinder.BindingLabel[52]"
+msgstr "近距離の友軍限定のボイスチャット"
+
+msgid "ROControlBinder.BindingLabel[53]"
+msgstr "チーム全体へのボイスチャット"
+
+msgid "ROControlBinder.BindingLabel[54]"
+msgstr "全体への切り替え"
+
+msgid "ROControlBinder.BindingLabel[55]"
+msgstr "近距離への切り替え"
+
+msgid "ROControlBinder.BindingLabel[56]"
+msgstr "チーム全体への切り替え"
+
+msgid "ROControlBinder.BindingLabel[57]"
+msgstr "HUD設定"
+
+msgid "ROControlBinder.BindingLabel[58]"
+msgstr "HUDの輝度"
+
+msgid "ROControlBinder.BindingLabel[59]"
+msgstr "HUDの縮小"
+
+msgid "ROControlBinder.BindingLabel[60]"
+msgstr "スコアボードの表示(切り替え)"
+
+msgid "ROControlBinder.BindingLabel[61]"
+msgstr "スコアボード(押す間)"
+
+msgid "ROControlBinder.BindingLabel[62]"
+msgstr "ゲーム設定"
+
+msgid "ROControlBinder.BindingLabel[63]"
+msgstr "使用する/インタラクト"
+
+msgid "ROControlBinder.BindingLabel[64]"
+msgstr "一時停止"
+
+msgid "ROControlBinder.BindingLabel[65]"
+msgstr "スクリーンショット"
+
+msgid "ROControlBinder.BindingLabel[72]"
+msgstr "その他"
+
+msgid "ROControlBinder.BindingLabel[73]"
+msgstr "メニュー"
+
+msgid "ROControlBinder.BindingLabel[75]"
+msgstr "投票メニュー"
+
+msgid "ROControlBinder.BindingLabel[76]"
+msgstr "コンソール(表示切り替え)"
+
+msgid "ROControlBinder.BindingLabel[74]"
+msgstr "音楽再生"
+
+msgid "ROControlBinder.BindingLabel[77]"
+msgstr "接続状況を確認する"
+
+msgid "ROControlBinder.BindingLabel[78]"
+msgstr "接続を中止する"
+
+msgid "ROControlBinder.BindingLabel[79]"
+msgstr "車両内のコミュニケーション"
+
+msgid "ROControlBinder.BindingLabel[80]"
+msgstr "車両内チャット"
+
+msgid "ROSettingsPage_new.PanelCaption<5>"
+msgstr "HUD"
+
+msgid "ROTab_AudioSettings.AudioModes[1]"
+msgstr "立体音響"
+
+msgid "ROTab_AudioSettings.AudioModes[2]"
+msgstr "ハードウェア立体音響"
+
+msgid "ROTab_AudioSettings.AudioModes[3]"
+msgstr "ハードウェア立体音響 + EAX"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<0>"
+msgstr "なし"
+
+msgid "ROUT2K4GamePageSP.PanelHint<0>"
+msgstr "なし"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[0]"
+msgstr "3Dモデル"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[1]"
+msgstr "テクスチャのみ"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[2]"
+msgstr "高品質3Dモデル"
