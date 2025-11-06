@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 02:13+0000\n"
+"PO-Revision-Date: 2025-11-06 17:48+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/fr/>\n"
@@ -298,3 +298,47 @@ msgstr "Tous les champs de mines ont été DÉSACTIVÉS par l'admin"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastMinesEnabled"
 msgstr "Tous les champs de mines ont été RÉACTIVÉS par l'admin"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyKill"
+msgstr "Vous avez été réengagé par l'admin"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyGag"
+msgstr "Vous avez été bâillonné par l'admin"
+
+msgid "DHAdminMenu_NotifyMessages.NotifySwitch"
+msgstr "Votre rôle ou équipe a été changé par l'admin"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyParaDrop"
+msgstr "Vous avez été parachuté quelque part par l'admin"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressDisabled"
+msgstr "Les barres de progression de capture ont été DÉSACTIVÉES par l'admin"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressEnabled"
+msgstr "Les barres de progression de capture ont été RÉACTIVÉES par l'admin"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconDisabled"
+msgstr "Icônes de joueurs sur la carte DÉSACTIVÉES par l'admin"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconEnabled"
+msgstr "Icônes de joueurs sur la carte RÉACTIVÉES par l'admin"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastKilledAllPlayers"
+msgstr "Tous les joueurs ont été tués par l'admin"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastChangedGameSpeed"
+msgstr "Vitesse du jeu mise en x #insert_number# par l'admin"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastSetTimeRemaining"
+msgstr "Temps de jeu restant changé par l'admin"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyToggleAdminCanPause"
+msgstr ""
+"Vous avez activé le paramètre 'admin peut mettre en pause' sur "
+"#bAdminCanPause#"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastAlliesSquadSizeChanged"
+msgstr "La taille des groupes Alliés a été modifiée par l'admin"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastAxisSquadSizeChanged"
+msgstr "La taille des groupes de l'Axe a été modifiée par l'admin"
