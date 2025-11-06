@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-10 04:01+0000\n"
-"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"PO-Revision-Date: 2025-11-06 17:48+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_gerplayers/ja/>\n"
 "Language: ja\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHNation_Germany.NationName"
 msgstr "ドイツ"
@@ -19,3 +19,27 @@ msgstr "P-SCHRECKが必要だ!"
 
 msgid "DHGerVoice.SupportAbbrevAxis[5]"
 msgstr "P-SCHRECKを要請する"
+
+msgid "DHZVoice.SupportStringAxis[5]"
+msgstr "Panzerschreckが必要だ!"
+
+msgid "DHZVoice.SupportAbbrevAxis[5]"
+msgstr "Panzerschreckが必要だ"
+
+msgid "DH_OstTruppenRifleman.MyName"
+msgstr "東方義勇兵 (小銃兵)"
+
+msgid "DH_WHArtilleryGunner.MyName"
+msgstr "沿岸砲手"
+
+msgid "DH_WHArtilleryOfficer.MyName"
+msgstr "砲兵将校"
+
+msgid "DH_WHSPCrew.MyName"
+msgstr "突撃砲乗員"
+
+msgid "DH_ZBerserker.MyName"
+msgstr "バーサーカー"
+
+msgid "DH_ZLeader.MyName"
+msgstr "ゾンビのリーダー"
