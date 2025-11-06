@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-10 04:01+0000\n"
-"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"PO-Revision-Date: 2025-11-06 17:48+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_sovietplayers/ja/>\n"
 "Language: ja\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHNation_Czechoslovakia.NationName"
 msgstr "チェコスロバキア"
@@ -19,3 +19,21 @@ msgstr "ポーランド人民軍"
 
 msgid "DHNation_USSR.NationName"
 msgstr "ソビエト連邦"
+
+msgid "DHSOVCorporalRoles.MyName"
+msgstr "班長"
+
+msgid "DHSOVEngineerRoles.AltName"
+msgstr "工兵"
+
+msgid "DHSOVMachineGunnerRoles.AltName"
+msgstr "\"Pulemetchik\" 機関銃手"
+
+msgid "DHSOVSergeantRoles.MyName"
+msgstr "分隊長"
+
+msgid "DHSOVSniperRoles.AltName"
+msgstr "Snaiper"
+
+msgid "DH_SovietMadManRoles.AltName"
+msgstr "Mad Man"
