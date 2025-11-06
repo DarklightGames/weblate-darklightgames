@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 17:35+0000\n"
+"PO-Revision-Date: 2025-11-06 17:48+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/ja/>\n"
@@ -78,7 +78,7 @@ msgid "DHConstructionResupplyPlayers.MenuName"
 msgstr "歩兵用弾薬箱"
 
 msgid "DHConstructionResupplyPlayers.MenuDescription"
-msgstr "歩兵用の弾薬補給地点"
+msgstr "歩兵のための弾薬箱"
 
 msgid "DHConstructionResupplyVehicles.MenuName"
 msgstr "車両・砲用弾薬箱"
@@ -132,10 +132,10 @@ msgid "DHConstruction_PlatoonHQ.MenuName"
 msgstr "前線指揮所（HQ）"
 
 msgid "DHConstruction_SupplyCache.MenuName"
-msgstr "兵站集積所"
+msgstr "物資集積所"
 
 msgid "DHConstruction_SupplyCache.MenuDescription"
-msgstr "建築物資を貯め、時間とともに増加させる。"
+msgstr "建築物資を貯め、時間とともに増加させる"
 
 msgid "DHConstructionControlsMessage.Controls<0>.Text"
 msgstr "承諾"
