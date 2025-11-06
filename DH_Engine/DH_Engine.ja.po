@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 17:35+0000\n"
-"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"PO-Revision-Date: 2025-11-06 17:48+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ja/>\n"
 "Language: ja\n"
@@ -463,7 +463,7 @@ msgstr "あなたのチームはこれ以上{name}を{verb}できません。制
 "。"
 
 msgid "DHConstructionErrorMessage.ErrorMessages<15>"
-msgstr "{integer}m以内に兵站集積所がありません。"
+msgstr "{integer}m以内に物資集積所がありません。"
 
 msgid "DHConstructionErrorMessage.ErrorMessages<16>"
 msgstr "{name}を{verb}のに十分な物資がありません。"
@@ -499,7 +499,7 @@ msgid "DHConstructionGroup_Guns.GroupName"
 msgstr "砲"
 
 msgid "DHConstructionSupplyAttachment.HumanReadableName"
-msgstr "兵站集積所"
+msgstr "物資集積所"
 
 msgid "DHConstructionSupplyAttachment_Static_Main.HumanReadableName"
 msgstr "主な兵站集積所"
@@ -734,18 +734,18 @@ msgstr ""
 "。船首ランプを上げるには、%NEXTWEAPON% 。"
 
 msgid "DHHintManager.Hints[43].Title"
-msgstr "再補給トラック"
+msgstr "物資運搬車(LOGI)"
 
 msgid "DHHintManager.Hints[43].Text"
-msgstr "再補給トラックの近くにいます。弾薬を補給するには、トラックの外の後方に立って"
-"ください。"
+msgstr "物資運搬車の近くにいます。弾薬を補給するには、トラックの外の後方に立ってくだ"
+"さい。"
 
 msgid "DHHintManager.Hints[44].Title"
-msgstr "兵站トラック"
+msgstr "物資運搬車(LOGI)"
 
 msgid "DHHintManager.Hints[44].Text"
-msgstr "あなたは兵站トラックを運転しています。この車両は他の車両や迫撃砲、歩兵に弾薬"
-"を供給できます。安全な場所に停めましょう。"
+msgstr "あなたは物資運搬車(LOGI)を運転しています。この車両は他の車両や迫撃砲、歩兵に"
+"弾薬を供給できます。安全な場所に停めましょう。"
 
 msgid "DHHintManager.Hints[46].Title"
 msgstr "車載機関銃"
@@ -1618,19 +1618,19 @@ msgid "DHSupplyMessage.VehicleEmpty"
 msgstr "車両の物資は空です。"
 
 msgid "DHSupplyMessage.NoSupplyCaches"
-msgstr "近くに兵站集積所がありません。"
+msgstr "近くに物資集積所がありません。"
 
 msgid "DHSupplyMessage.SupplyCacheEmpty"
-msgstr "近くの兵站集積所は空です。"
+msgstr "近くの物資集積所は空です。"
 
 msgid "DHSupplyMessage.SupplyCacheFull"
-msgstr "近くの兵站集積所がいっぱいです。"
+msgstr "近くの物資集積所はいっぱいです。"
 
 msgid "DHSupplyMessage.SupplyCacheFallbackName"
-msgstr "兵站集積所"
+msgstr "物資集積所"
 
 msgid "DHSupplyMessage.SuppliesRefunded"
-msgstr "{0} 単位の物資が近くの兵站集積所に返還されました。"
+msgstr "{0} 単位の物資が近くの物資集積所に返還されました。"
 
 msgid "DHSupplyVehicleMessage.Controls<0>.Text"
 msgstr "物資を積み込む"
