@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 17:48+0000\n"
+"PO-Revision-Date: 2025-11-07 19:09+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/fr/>\n"
@@ -250,3 +250,90 @@ msgstr "NUM 1"
 
 msgid "KeyNames.NumPad2"
 msgstr "NUM 2"
+
+msgid "KeyNames.GreyStar"
+msgstr "ETOILE"
+
+msgid "KeyNames.GreyPlus"
+msgstr "PLUS"
+
+msgid "KeyNames.Separator"
+msgstr "ANTISLASH"
+
+msgid "KeyNames.GreyMinus"
+msgstr "MOINS"
+
+msgid "KeyNames.NumPadPeriod"
+msgstr "POINT"
+
+msgid "KeyNames.GreySlash"
+msgstr "SLASH"
+
+msgid "KeyNames.Pause"
+msgstr "PAUSE"
+
+msgid "KeyNames.CapsLock"
+msgstr "VERR MAJ"
+
+msgid "KeyNames.Tab"
+msgstr "TAB"
+
+msgid "KeyNames.Enter"
+msgstr "ENTRÉE"
+
+msgid "KeyNames.Shift"
+msgstr "MAJ"
+
+msgid "KeyNames.NumLock"
+msgstr "VERR NUM"
+
+msgid "KeyNames.Escape"
+msgstr "ECHAP"
+
+msgid "Progress.CancelledConnect"
+msgstr "Tentative de connexion annulée"
+
+msgid "Progress.RunningNet"
+msgstr "%s : %s (%i joueurs)"
+
+msgid "Progress.NetReceiving"
+msgstr "Réception de '%s' : %i/%i"
+
+msgid "Progress.NetReceiveOk"
+msgstr "Réception de '%s' avec succès"
+
+msgid "Progress.NetSend"
+msgstr "Envoi de '%s'"
+
+msgid "Progress.NetSending"
+msgstr "Envoi de '%s' : %i/%i"
+
+msgid "Progress.Connecting"
+msgstr "Connexion (F10 pour Annuler)..."
+
+msgid "Progress.Listening"
+msgstr "En écoute de clients..."
+
+msgid "Progress.Loading"
+msgstr "Chargement"
+
+msgid "Progress.Paused"
+msgstr "Mis en pause par %s"
+
+msgid "Progress.ReceiveFile"
+msgstr "Réception de '%s' (F10 Annule)"
+
+msgid "Progress.ReceiveOptionalFile"
+msgstr "Réception du fichier optionnel '%s' (Appuyer sur F10 pour passer)"
+
+msgid "Progress.ReceiveSize"
+msgstr "Taille %iK, Total %3.1f%%"
+
+msgid "Progress.ConnectingText"
+msgstr "Connexion (F10 pour Annuler) :"
+
+msgid "Progress.CorruptConnect"
+msgstr "Fichiers du Jeu Incompatibles !"
+
+msgid "KeyNames.NumPad3"
+msgstr "NUM 3"
