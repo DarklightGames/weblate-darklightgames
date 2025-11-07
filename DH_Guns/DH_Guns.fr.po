@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 17:48+0000\n"
+"PO-Revision-Date: 2025-11-07 19:09+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/fr/>\n"
@@ -395,3 +395,9 @@ msgstr "Mortier Ordnance ML 3-inch"
 
 msgid "DH_Model35Mortar.VehicleNameString"
 msgstr "Mortaio da 81/14 mod. 35"
+
+msgid "DH_Pak36ATGun.VehicleNameString"
+msgstr "PaK 36 3.7cm"
+
+msgid "DH_Pak36Cannon.ProjectileDescriptions<0>"
+msgstr "AP-HE-T"
