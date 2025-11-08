@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-07 19:09+0000\n"
+"PO-Revision-Date: 2025-11-08 21:58+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/fr/>\n"
@@ -305,3 +305,174 @@ msgstr "MG 42"
 
 msgid "DH_MP3008Weapon.ItemName"
 msgstr "MP 3008"
+
+msgid "DH_MKB42HWeapon.NativeItemName"
+msgstr "Maschinenkarabiner 42(H)"
+
+msgid "DH_MKB42HWeapon.ItemName"
+msgstr "Mkb 42(H)"
+
+msgid "DH_MN9130ScopedPEWeapon.ItemName"
+msgstr "Mosin M91/30 (PE)"
+
+msgid "DH_MN9130ScopedWeapon.ItemName"
+msgstr "Mosin M91/30 (PU)"
+
+msgid "DH_MN9130Weapon.ItemName"
+msgstr "Mosin M91/30"
+
+msgid "DH_MP3008Weapon.NativeItemName"
+msgstr "Maschinenpistole 3008"
+
+msgid "DH_MP38Weapon.NativeItemName"
+msgstr "Maschinenpistole 38"
+
+msgid "DH_MP38Weapon.ItemName"
+msgstr "MP 38"
+
+msgid "DH_MP40Ammo.ItemName"
+msgstr "Chargeur 9mm 32 coups"
+
+msgid "DH_MP40Weapon.NativeItemName"
+msgstr "Maschinenpistole 40"
+
+msgid "DH_MP40Weapon.ItemName"
+msgstr "MP 40"
+
+msgid "DH_MP41RWeapon.NativeItemName"
+msgstr "Maschinenpistole 41(r)"
+
+msgid "DH_MP41RWeapon.ItemName"
+msgstr "MP 41(r)"
+
+msgid "DH_MP41Weapon.NativeItemName"
+msgstr "Maschinenpistole 41"
+
+msgid "DH_MP41Weapon.ItemName"
+msgstr "MP 41"
+
+msgid "DH_MillsBombWeapon.ItemName"
+msgstr "Mills Bomb"
+
+msgid "DH_Nagant1895BramitWeapon.ItemName"
+msgstr "Nagant M1895 (BraMit)"
+
+msgid "DH_Nagant1895Weapon.ItemName"
+msgstr "Nagant M1895"
+
+msgid "DH_P08LugerWeapon.ItemName"
+msgstr "Luger P08"
+
+msgid "DH_P38Weapon.ItemName"
+msgstr "Walther P38"
+
+msgid "DH_PPS43Ammo.ItemName"
+msgstr "Chargeur de PPS43"
+
+msgid "DH_PPSh41Ammo.ItemName"
+msgstr "Chargeur 7.62mm 71 coups"
+
+msgid "DH_PTRDWeapon.NativeItemName"
+msgstr "PTRD-41"
+
+msgid "DH_PTRDWeapon.ItemName"
+msgstr "Fusil Antichar PTRD-41"
+
+msgid "DH_PanzerFaustWeapon.NativeItemName"
+msgstr "Panzerfaust 60"
+
+msgid "DH_PanzerFaustWeapon.ItemName"
+msgstr "Panzerfaust 60"
+
+msgid "DH_PanzerschreckWeapon.NativeItemName"
+msgstr "Raketenpanzerbüchse 54 'Panzerschreck'"
+
+msgid "DH_PanzerschreckWeapon.ItemName"
+msgstr "RPzB 54 'Panzerschreck'"
+
+msgid "DH_RPG43GrenadeWeapon.NativeItemName"
+msgstr "RPG-43"
+
+msgid "DH_RPG43GrenadeWeapon.ItemName"
+msgstr "Grenade Antichar RPG-43"
+
+msgid "DH_SRCMMod35GrenadeWeapon.ItemName"
+msgstr "Grenade SRCM mod. 35"
+
+msgid "DH_SRCMMod35SmokeGrenadeWeapon.ItemName"
+msgstr "Grenade Fumigène SRCM mod. 35"
+
+msgid "DH_STG44ScopedWeapon.NativeItemName"
+msgstr "Sturmgewehr 44 (ZF4)"
+
+msgid "DH_STG44ScopedWeapon.ItemName"
+msgstr "StG 44 (ZF4)"
+
+msgid "DH_STG44Weapon.NativeItemName"
+msgstr "Sturmgewehr 44"
+
+msgid "DH_STG44Weapon.ItemName"
+msgstr "StG 44"
+
+msgid "DH_SVT40ScopedWeapon.ItemName"
+msgstr "SVT-40 (PU)"
+
+msgid "DH_SpringfieldA1Weapon.ItemName"
+msgstr "Springfield M1903A1"
+
+msgid "DH_SpringfieldScopedWeapon.ItemName"
+msgstr "Springfield M1903A4 (Weaver M73)"
+
+msgid "DH_StenMkIICWeapon.ItemName"
+msgstr "STEN Mk.II"
+
+msgid "DH_StenMkIIIWeapon.ItemName"
+msgstr "STEN Mk.III"
+
+msgid "DH_StenMkIIWeapon.ItemName"
+msgstr "STEN Mk.II"
+
+msgid "DH_StenMkVWeapon.ItemName"
+msgstr "STEN Mk.V"
+
+msgid "DH_StielGranateWeapon.NativeItemName"
+msgstr "Stielhandgranate 24"
+
+msgid "DH_StielGranateWeapon.ItemName"
+msgstr "Grenade StG 24"
+
+msgid "DH_ThompsonWeapon.ItemName"
+msgstr "Thompson M1A1"
+
+msgid "DH_VG15Weapon.NativeItemName"
+msgstr "Volkssturmgewehr 1-5"
+
+msgid "DH_VG15Weapon.ItemName"
+msgstr "VG 1-5"
+
+msgid "DH_VK98Weapon.NativeItemName"
+msgstr "Volkssturmkarabiner 98"
+
+msgid "DH_VK98Weapon.ItemName"
+msgstr "VK 98"
+
+msgid "DH_ViSWeapon.ItemName"
+msgstr "ViS wz.35"
+
+msgid "DH_Vz24ScopedWeapon.NativeItemName"
+msgstr "Puska ZB vz.24 (IOR)"
+
+msgid "DH_Vz24Weapon.NativeItemName"
+msgstr "Puska ZB vz.24"
+
+msgid "DH_Winchester1897Weapon.ItemName"
+msgstr "Winchester Modèle 1897"
+
+msgid "DH_WitchEnder666Weapon.ItemName"
+msgstr "WitchEnder 666 'Fléau de Satan'"
+
+msgid "DH_Wz35Weapon.ItemName"
+msgstr "Fucile Controcarro 35(P)"
+
+msgid "DH_ZB30Weapon.NativeItemName"
+msgstr "Kulomet ZB vz.30"
