@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"PO-Revision-Date: 2025-11-08 21:58+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/fr/>\n"
@@ -174,7 +174,7 @@ msgid "ROControlBinder.BindingLabel[39]"
 msgstr "Tir Alternatif"
 
 msgid "ROControlBinder.BindingLabel[40]"
-msgstr "Lancer Arme"
+msgstr "Jeter Arme"
 
 msgid "ROControlBinder.BindingLabel[41]"
 msgstr "Meilleure Arme"
@@ -369,10 +369,10 @@ msgid "ROTab_Controls.captions_game[1]"
 msgstr "Utiliser"
 
 msgid "ROTab_DetailSettings.DetailOptions[0]"
-msgstr "Très Bas"
+msgstr "Très Faible"
 
 msgid "ROTab_DetailSettings.DetailOptions[1]"
-msgstr "Bas"
+msgstr "Faible"
 
 msgid "ROTab_DetailSettings.DetailOptions[2]"
 msgstr "Moyen"
@@ -396,4 +396,25 @@ msgid "ROTab_DetailSettings.ScopeLevels[1]"
 msgstr "Texturé"
 
 msgid "ROTab_DetailSettings.ScopeLevels[2]"
+msgstr "Modèle (Élevé)"
+
+msgid "ROTab_Controls.captions_weapons[4]"
+msgstr "Jeter Arme"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<0>"
+msgstr "aucun"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<3>"
+msgstr "Mutators"
+
+msgid "ROUT2K4GamePageSP.PanelHint<0>"
+msgstr "aucun"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[0]"
+msgstr "Modèle"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[1]"
+msgstr "Texture"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[2]"
 msgstr "Modèle (Élevé)"
