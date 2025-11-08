@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"PO-Revision-Date: 2025-11-08 21:58+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/fr/>\n"
@@ -86,7 +86,6 @@ msgstr "Artillerie"
 msgid "ROVoicePack.EnemyStringAxis[3]"
 msgstr "Pionier!"
 
-#, fuzzy
 msgid "ROVoicePack.EnemyAbbrevAxis[3]"
 msgstr "Pionier"
 
@@ -354,3 +353,129 @@ msgstr "Engager"
 
 msgid "ROVoicePack.OrderAbbrev[7]"
 msgstr "Halte au feu"
+
+msgid "ROTeamGame.PropsDisplayText[0]"
+msgstr "Compétence Bots"
+
+msgid "ROTeamGame.PropsDisplayText[1]"
+msgstr "Rotation de Cartes"
+
+msgid "ROTeamGame.PropsDisplayText[2]"
+msgstr "Vitesse de Jeu"
+
+msgid "ROTeamGame.PropsDisplayText[3]"
+msgstr "Spectateurs Max"
+
+msgid "ROTeamGame.PropsDisplayText[4]"
+msgstr "Joueurs Max"
+
+msgid "ROTeamGame.PropsDisplayText[5]"
+msgstr "Limite de Temps"
+
+msgid "ROTeamGame.PropsDisplayText[6]"
+msgstr "Autoriser Vue de l'Arrière"
+
+msgid "ROTeamGame.PropsDisplayText[7]"
+msgstr "Caméra 1ère Personne Seulement"
+
+msgid "ROTeamGame.PropsDisplayText[8]"
+msgstr "Verrouiller Caméra 3ème Personne"
+
+msgid "ROTeamGame.PropsDisplayText[9]"
+msgstr "Autoriser Caméra sur ViewPoint"
+
+msgid "ROTeamGame.PropsDisplayText[10]"
+msgstr "Autoriser Caméra Libre"
+
+msgid "ROTeamGame.PropsDisplayText[11]"
+msgstr "Autoriser Caméra après Mort"
+
+msgid "ROTeamGame.PropsDisplayText[12]"
+msgstr "Autoriser Pause par Admin"
+
+msgid "ROTeamGame.PropsDisplayText[13]"
+msgstr "Joueurs Min"
+
+msgid "ROTeamGame.PropsDisplayText[14]"
+msgstr "Mode de Bot"
+
+msgid "ROTeamGame.PropsDisplayText[15]"
+msgstr "Délai à la Fin de la Partie"
+
+msgid "ROTeamGame.PropsDisplayText[16]"
+msgstr "Ajuster Compétence"
+
+msgid "ROTeamGame.PropsDisplayText[17]"
+msgstr "Limite de Victoires"
+
+msgid "ROTeamGame.PropsDisplayText[18]"
+msgstr "Limite de Parties"
+
+msgid "ROTeamGame.PropsDisplayText[19]"
+msgstr "Durée Phase de Préparation"
+
+msgid "ROTeamGame.PropsDisplayText[20]"
+msgstr "Net Wait"
+
+msgid "ROTeamGame.PropsDisplayText[21]"
+msgstr "Joueurs Net Min"
+
+msgid "ROTeamGame.PropsDisplayText[22]"
+msgstr "Joueurs Doivent Être Prêts"
+
+msgid "ROTeamGame.PropsDisplayText[23]"
+msgstr "Échelle Tir Ami"
+
+msgid "ROTeamGame.PropsDisplayText[24]"
+msgstr "Échelle Tir Ami (Artillerie)"
+
+msgid "ROTeamGame.PropsDisplayText[25]"
+msgstr "Échelle Tir Ami (Explosifs)"
+
+msgid "ROTeamGame.PropsDisplayText[26]"
+msgstr "Les Bots Équilibrent les Équipes"
+
+msgid "ROTeamGame.PropsDisplayText[27]"
+msgstr "Les Joueurs Équilibrent les Équipes"
+
+msgid "ROTeamGame.PropsDisplayText[28]"
+msgstr "Chat Privé Inter-Équipe"
+
+msgid "ROTeamGame.PropsDisplayText[29]"
+msgstr "Temps pour Kicker les Inactifs"
+
+msgid "ROTeamGame.PropsDisplayText[30]"
+msgstr "Punition pour Tir Ami"
+
+msgid "ROTeamGame.PropsDisplayText[31]"
+msgstr "Mode de Message de Mort"
+
+msgid "ROTeamGame.PropsDisplayText[32]"
+msgstr "HUD noir quand Mort"
+
+msgid "ROTeamGame.PropsDisplayText[33]"
+msgstr "HUD noir sur vue non-joueur"
+
+msgid "ROTeamGame.PropsDisplayText[34]"
+msgstr "Auto-Équilibrage des Équipes à la Mort"
+
+msgid "ROTeamGame.PropsDisplayText[35]"
+msgstr "Différence de Joueurs Max"
+
+msgid "ROTeamGame.PropsDisplayText[36]"
+msgstr "Passer Outre Joueurs Max"
+
+msgid "ROTeamGame.PropsDisplayText[37]"
+msgstr "Pardon de Tir Fratricide Activé"
+
+msgid "ROTeamGame.PropsDisplayText[38]"
+msgstr "Limite de Tir Fratricide"
+
+msgid "ROTeamGame.PropsDisplayText[39]"
+msgstr "Limite de Dommages Ami"
+
+msgid "ROTeamGame.PropsDisplayText[40]"
+msgstr "Afficher l'IP du Serveur sur Score"
+
+msgid "ROTeamGame.PropsDisplayText[41]"
+msgstr "Afficher le Temps sur le Score"
