@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 17:35+0000\n"
+"PO-Revision-Date: 2025-11-08 21:58+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/fr/>\n"
@@ -16,3 +16,75 @@ msgstr "Basculer \"BehindView\""
 
 msgid "ControlBinder.BindingLabel[41]"
 msgstr "Menu Vocal"
+
+msgid "Settings_Tabs.PerformanceWarningText"
+msgstr "Le changement que vous apportez peut nuire à votre performance."
+
+msgid "UT2K4SettingsPage.PanelCaption<4>"
+msgstr "Entrée"
+
+msgid "UT2K4SettingsPage.PanelCaption<5>"
+msgstr "Armes"
+
+msgid "UT2K4SettingsPage.PanelCaption<6>"
+msgstr "HUD"
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[0]"
+msgstr "16-bit"
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[1]"
+msgstr "32-bit"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[0]"
+msgstr "Le plus Faible"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[2]"
+msgstr "Plus Faible"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[3]"
+msgstr "Faible"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[4]"
+msgstr "Normal"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[5]"
+msgstr "Élevé"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[6]"
+msgstr "Plutôt Élevé"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[8]"
+msgstr "Le plus Élevé"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[0]"
+msgstr "Aucun"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[7]"
+msgstr "Très Élevé"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[1]"
+msgstr "Très Faible"
+
+msgid "UT2K4Browser_Page.ReadyString"
+msgstr "Prêt"
+
+msgid "UT2K4GamePageBase.PanelCaption<0>"
+msgstr "Type de Partie"
+
+msgid "UT2K4GamePageBase.PanelCaption<3>"
+msgstr "Mutators"
+
+msgid "UT2K4PerformWarn.DialogText.Caption"
+msgstr "ATTENTION"
+
+msgid "UT2K4SettingsPage.PanelCaption<0>"
+msgstr "Affichage"
+
+msgid "UT2K4SettingsPage.PanelCaption<1>"
+msgstr "Audio"
+
+msgid "UT2K4SettingsPage.PanelCaption<2>"
+msgstr "Joueur"
+
+msgid "UT2K4SettingsPage.PanelCaption<3>"
+msgstr "Jeu"
