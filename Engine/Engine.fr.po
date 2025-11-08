@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-07 19:09+0000\n"
+"PO-Revision-Date: 2025-11-08 21:58+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/fr/>\n"
@@ -337,3 +337,80 @@ msgstr "Fichiers du Jeu Incompatibles !"
 
 msgid "KeyNames.NumPad3"
 msgstr "NUM 3"
+
+msgid "KeyNames.NumPad4"
+msgstr "NUM 4"
+
+msgid "KeyNames.NumPad5"
+msgstr "NUM 5"
+
+msgid "KeyNames.NumPad6"
+msgstr "NUM 6"
+
+msgid "KeyNames.NumPad7"
+msgstr "NUM 7"
+
+msgid "KeyNames.NumPad8"
+msgstr "NUM 8"
+
+msgid "KeyNames.NumPad9"
+msgstr "NUM 9"
+
+msgid "ChatRoomMessage.AnonText"
+msgstr "Quelqu'un"
+
+msgid "ChatRoomMessage.ChatRoomString[0]"
+msgstr "Canal invalide ou introuvable : '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[1]"
+msgstr "Déjà membre du canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[2]"
+msgstr "Le canal '%title%' requiert un mot de passe !"
+
+msgid "ChatRoomMessage.ChatRoomString[3]"
+msgstr "Mot de passe incorrect pour canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[4]"
+msgstr "Vous avez été banni du canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[5]"
+msgstr "Impossible de rejoindre le canal '%title%'.  Canal plein !"
+
+msgid "ChatRoomMessage.ChatRoomString[6]"
+msgstr "Vous n'êtes pas autorisé à rejoindre le canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[7]"
+msgstr "Canal '%title%' rejoint avec succès"
+
+msgid "ChatRoomMessage.ChatRoomString[8]"
+msgstr "Vous avez quitté le canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[9]"
+msgstr "Actuellement en communication sur canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[10]"
+msgstr "Plus en communication sur canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[11]"
+msgstr "'%pri%' a rejoint le canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[12]"
+msgstr "'%pri%' a quitté le canal '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[13]"
+msgstr "'%pri%' a été banni avec succès de votre canal personnel"
+
+msgid "ChatRoomMessage.ChatRoomString[14]"
+msgstr ""
+"Bannissement de chat vocal infructueux.  Aucun joueur avec l'ID spécifié n'a "
+"été trouvé"
+
+msgid "ChatRoomMessage.ChatRoomString[15]"
+msgstr "Le chat vocal n'est pas activé sur ce serveur"
+
+msgid "PlayerController.ViewingFrom"
+msgstr "Point de vue de"
+
+msgid "PlayerController.OwnCamera"
+msgstr "Point de vue de soi-même"
