@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-07 19:09+0000\n"
+"PO-Revision-Date: 2025-11-08 21:58+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/fr/>\n"
@@ -348,3 +348,143 @@ msgstr "Kick avec message"
 
 msgid "DHAdminMenu_PlayerActionsMenu.MenuText<4>"
 msgstr "Tuer ce joueur"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsDisabled"
+msgstr "Le placement de point de ralliement a été désactivé par l'admin"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsEnabled"
+msgstr "Le placement de points de ralliement a été activé par l'admin"
+
+msgid "DHAdminMenu_ObjectivesMenu.MenuTitle"
+msgstr "MENU DE SÉLECTION D'OBJECTIF"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<0>"
+msgstr "Renommer joueur"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<1>"
+msgstr "Envoyer message privé"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<2>"
+msgstr "Envoyer un message d'avertissement (avec son)"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<5>"
+msgstr "Bâillonner ce joueur"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<6>"
+msgstr "Passer le joueur à un rôle Allié"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<7>"
+msgstr "Passer le joueur à un rôle Axe"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<8>"
+msgstr "Parachuter le joueur sur l'objectif"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<9>"
+msgstr "Parachuter le joueur sur la grille"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<10>"
+msgstr "Parachuter le joueur sur l'emplacement actuel"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuTitle"
+msgstr "ACTIONS JOUEUR :"
+
+msgid "DHAdminMenu_PlayerMenu.Label_AimedPlayer"
+msgstr "[Joueur dans votre visée]"
+
+msgid "DHAdminMenu_PlayerMenu.Label_RealismMenu"
+msgstr "R = menu de test ou de partie de réalisme"
+
+msgid "DHAdminMenu_PlayerMenu.Label_ServerMenu"
+msgstr "M = menu serveur (options de serveur communes)"
+
+msgid "DHAdminMenu_PlayerMenu.MenuTitle"
+msgstr "MENU ADMIN JOUEURS"
+
+msgid "DHAdminMenu_PrivateMessage.MessageHeader"
+msgstr "Vous avez reçu un message privé d'un admin"
+
+msgid "DHAdminMenu_PrivateMessage.MessageChatPrefix"
+msgstr "MESSAGE ADMIN de"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<1>"
+msgstr "Activer partie de réalisme"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<2>"
+msgstr "Désactiver partie de réalisme"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<4>"
+msgstr "Parachuter tous les joueurs Alliés sur l'objectif"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<5>"
+msgstr "Parachuter tous les joueurs de l'Axe sur l'objectif"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<6>"
+msgstr "Parachuter tous les joueurs sur l'objectif"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<7>"
+msgstr "Parachuter tous les joueurs Alliés sur la grille"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<8>"
+msgstr "Parachuter tous les joueurs de l'Axe sur la grille"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<9>"
+msgstr "Parachuter tous les joueurs sur la grille"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<11>"
+msgstr "Activer/Désactiver champs de mine"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<12>"
+msgstr "Activer/Désactiver la barre de progression de capture"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<13>"
+msgstr "Activer/Désactiver les icônes de localisation de joueurs"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<14>"
+msgstr "Tuer tous les joueurs (achever la partie de réalisme)"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<15>"
+msgstr "Définir une nouvelle vitesse de jeu"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<16>"
+msgstr "Définir le nouveau temps de jeu restant (minutes)"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<18>"
+msgstr "Détruire l'actor dans votre visée"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<19>"
+msgstr "Changer la taille de l'équipe Alliée"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<20>"
+msgstr "Changer la taille de l'équipe de l'Axe"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<21>"
+msgstr "Activer/Désactiver le placement de points de ralliements"
+
+msgid "DHAdminMenu_RealismMenu.MenuTitle"
+msgstr "MENU DE TEST OU DE PARTIE DE RÉALISME"
+
+msgid "DHAdminMenu_RolesMenu.MenuTitle"
+msgstr "MENU DE SÉLECTION DE RÔLE"
+
+msgid "DHAdminMenu_ServerMenu.MenuText<1>"
+msgstr ""
+"Définir le mot de passe de partie (laisser vide pour supprimer le mot de "
+"passe)"
+
+msgid "DHAdminMenu_ServerMenu.MenuText<2>"
+msgstr "Activer/Désactiver Verrouillage Armes"
+
+msgid "DHAdminMenu_ServerMenu.MenuTitle"
+msgstr "MENU SERVEUR (POUR PARAMÈTRES DIVERS)"
+
+msgid "DHAdminMenu_WarningMessage.WarningHeader"
+msgstr "Vous avez reçu un message d'avertissement de l'administrateur"
+
+msgid "DHAdminMenu_WarningMessage.WarningChatPrefix"
+msgstr "AVERTISSEMENT ADMIN de"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<3>"
+msgstr "Aller à la partie de réalisme en LIVE"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<17>"
+msgstr "Admin peut mettre le jeu en pause"
