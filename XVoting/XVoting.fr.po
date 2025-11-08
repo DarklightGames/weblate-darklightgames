@@ -1,2 +1,27 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-11-08 21:58+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"Language-Team: French <https://weblate.darklightgames.com/projects/"
+"darkesthour/xvoting/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "MapVotingPage.lmsgMapVotingDisabled"
+msgstr ""
+"Désolé, le vote de carte a été désactivé par l'administrateur du serveur."
+
+msgid "MapVotingPage.lmsgReplicationNotFinished"
+msgstr ""
+"Téléchargement des données de la carte en cours. Veuillez réessayer plus "
+"tard."
+
+msgid "MapVotingPage.lmsgMapDisabled"
+msgstr "La carte sélectionnée est désactivée."
+
+msgid "MapVotingPage.WindowName"
+msgstr "Vote de Carte"
