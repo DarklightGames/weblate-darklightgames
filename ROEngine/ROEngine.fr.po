@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-08 21:58+0000\n"
+"PO-Revision-Date: 2025-11-10 15:09+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/fr/>\n"
@@ -95,7 +95,6 @@ msgstr "Panzer"
 msgid "ROVoicePack.AlertString[0]"
 msgstr "Grenade !"
 
-#, fuzzy
 msgid "ROVoicePack.EnemyStringAxis[6]"
 msgstr "Achtung, Panzer!"
 
@@ -479,3 +478,99 @@ msgstr "Afficher l'IP du Serveur sur Score"
 
 msgid "ROTeamGame.PropsDisplayText[41]"
 msgstr "Afficher le Temps sur le Score"
+
+msgid "ROVoicePack.SupportAbbrev[2]"
+msgstr "Besoin de munitions"
+
+msgid "ROVoicePack.SupportString[0]"
+msgstr "On a besoin d'aide !"
+
+msgid "ROVoicePack.SupportString[2]"
+msgstr "J'ai besoin de munitions !"
+
+msgid "ROVoicePack.SupportString[3]"
+msgstr "Amenez-nous un tireur d'élite !"
+
+msgid "ROVoicePack.SupportString[4]"
+msgstr "Il nous faut un FM !"
+
+msgid "ROVoicePack.SupportString[5]"
+msgstr "Il nous faut un fusil antichar !"
+
+msgid "ROVoicePack.SupportString[6]"
+msgstr "Faites péter ça !"
+
+msgid "ROVoicePack.SupportString[7]"
+msgstr "On a besoin d'un char !"
+
+msgid "ROVoicePack.SupportString[8]"
+msgstr "Donnez-nous de l'artillerie !"
+
+msgid "ROVoicePack.SupportString[9]"
+msgstr "J'ai besoin de transport !"
+
+msgid "ROVoicePack.SupportAbbrev[0]"
+msgstr "Aide requise"
+
+msgid "ROVoicePack.EnemyString[4]"
+msgstr "Soldats antichars !"
+
+msgid "ROVoicePack.EnemyString[5]"
+msgstr "Véhicule léger !"
+
+msgid "ROVoicePack.EnemyString[6]"
+msgstr "Char ! Char !"
+
+msgid "ROVoicePack.SupportAbbrev[1]"
+msgstr "Besoin d'aide à..."
+
+msgid "ROVoicePack.SupportAbbrev[3]"
+msgstr "Demander tireur d'élite"
+
+msgid "ROVoicePack.SupportAbbrev[4]"
+msgstr "Besoin d'appui FM"
+
+msgid "ROVoicePack.SupportAbbrev[5]"
+msgstr "Besoin d'un fusil antichar"
+
+msgid "ROVoicePack.SupportAbbrev[6]"
+msgstr "Demander démolition"
+
+msgid "ROVoicePack.SupportAbbrev[7]"
+msgstr "Demander un char"
+
+msgid "ROVoicePack.SupportAbbrev[8]"
+msgstr "Demander artillerie"
+
+msgid "ROVoicePack.SupportAbbrev[9]"
+msgstr "Demander transport"
+
+msgid "ROVoicePack.SupportStringAxis[5]"
+msgstr "Il nous faut un Panzerfaust !"
+
+msgid "ROVoicePack.SupportAbbrevAxis[5]"
+msgstr "Besoin d'un Panzerfaust"
+
+msgid "ROVoicePack.EnemyString[0]"
+msgstr "Infanterie repérée !"
+
+msgid "ROVoicePack.EnemyString[1]"
+msgstr "Nid de mitrailleuse !"
+
+msgid "ROVoicePack.EnemyString[7]"
+msgstr "Char lourd !"
+
+msgid "ROVoicePack.EnemyAbbrev[0]"
+msgstr "Infanterie repérée"
+
+msgid "ROVoicePack.EnemyAbbrev[1]"
+msgstr "Nid de mitrailleuse"
+
+msgid "ROVoicePack.EnemyAbbrev[4]"
+msgstr "Soldats antichar"
+
+msgid "ROVoicePack.EnemyAbbrev[5]"
+msgstr "Véhicule léger"
+
+msgid "ROVoicePack.EnemyAbbrev[7]"
+msgstr "Char lourd"
