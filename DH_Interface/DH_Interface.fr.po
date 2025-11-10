@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 05:47+0000\n"
+"PO-Revision-Date: 2025-11-10 15:09+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/fr/>\n"
@@ -1218,3 +1218,206 @@ msgstr "Ajouter"
 
 msgid "DHTab_MutatorSP.IAMutatorRemove.Caption"
 msgstr "Retirer"
+
+msgid "DHTab_DetailSettings.RelaunchQuestion"
+msgstr ""
+"Le mode graphique a été modifié avec succès.  Cependant, il ne prendra pas "
+"effet avant la prochaine fois que le jeu sera commencé.  Voulez-vous "
+"relancer le jeu maintenant ?"
+
+msgid "DHTab_DetailSettings.CorpseStayTime.Caption"
+msgstr "Délai d'Apparition de Cadavres (Secondes)"
+
+msgid "DHTab_DetailSettings.DetailAnisotropy.Caption"
+msgstr "Filtrage Anisotrope"
+
+msgid "DHTab_DetailSettings.DetailCharacterDetail.Caption"
+msgstr "Détail Personnages"
+
+msgid "DHTab_DetailSettings.DetailCharacterShadows.Caption"
+msgstr "Ombres Personnages"
+
+msgid "DHTab_DetailSettings.DetailDecalStay.Caption"
+msgstr "Délai Décalques"
+
+msgid "DHTab_DetailSettings.DetailDecoLayers.Caption"
+msgstr "Détail Terrain"
+
+msgid "DHTab_DetailSettings.DetailDetailTextures.Caption"
+msgstr "Détail de Texture"
+
+msgid "DHTab_DetailSettings.DetailDynamicLighting.Caption"
+msgstr "Ombrage Dynamique"
+
+msgid "DHTab_DetailSettings.DetailForceFSAASS.Caption"
+msgstr "Forcer Captures FSAA"
+
+msgid "DHTab_DetailSettings.DetailPhysics.Caption"
+msgstr "Détail Physique"
+
+msgid "DHTab_DetailSettings.DetailTextureDetail.Caption"
+msgstr "Détail Textures"
+
+msgid "DHTab_DetailSettings.DetailTrilinear.Caption"
+msgstr "Filtrage Trilinaire"
+
+msgid "DHTab_DetailSettings.DetailWorldDetail.Caption"
+msgstr "Détail Monde"
+
+msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
+msgstr "Distance de Rendu"
+
+msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
+msgstr "Distance de Rendu Dynamique"
+
+msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
+msgstr ""
+"Maintient les FPS aussi haut que possible en ajustant la distance de rendu "
+"automatiquement en fonction des performances"
+
+msgid "DHTab_DetailSettings.GlobalDetails.Caption"
+msgstr "Détails du jeu"
+
+msgid "DHTab_DetailSettings.HDRCheckbox.Caption"
+msgstr "Flou Lumineux"
+
+msgid "DHTab_DetailSettings.MeshLOD.Caption"
+msgstr "Niveau de Détail Dynamique"
+
+msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
+msgstr "Seuil de Distance Rendu Dynamique"
+
+msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
+msgstr ""
+"Utilisé par la Distance de Rendu Dynamique pour déterminer quand il faut "
+"abaisser la distance de rendu pour plus de FPS"
+
+msgid "DHTab_DetailSettings.MotionBlur.Caption"
+msgstr "Effets de Flou"
+
+msgid "DHTab_DetailSettings.RenderDeviceCombo.Caption"
+msgstr "Appareil de Rendu"
+
+msgid "DHTab_DetailSettings.ScopeDetail.Caption"
+msgstr "Détail Lunette"
+
+msgid "DHTab_DetailSettings.UseVSyncCheckBox.Caption"
+msgstr "VSync (Non Recommandé)"
+
+msgid "DHTab_DetailSettings.UseVSyncCheckBox.Hint"
+msgstr ""
+"Le VSync est utilisé pour réduire le déchirement d'écran au coût d'une "
+"latence plus élevée de vos commandes (il est possible que les paramètres de "
+"votre carte graphique passent outre de nombreux paramètres graphiques tels "
+"que celui-ci)"
+
+msgid "DHTab_DetailSettings.VideoColorDepth.Caption"
+msgstr "Profondeur de Couleur"
+
+msgid "DHTab_DetailSettings.VideoFullScreen.Caption"
+msgstr "Plein Écran"
+
+msgid "DHTab_DetailSettings.WeatherEffects.Caption"
+msgstr "Effets Météo"
+
+msgid "DHTab_DetailSettings.sbSection1.Caption"
+msgstr "Rendu Basique"
+
+msgid "DHTab_DetailSettings.sbSection2.Caption"
+msgstr "Détails du Jeu"
+
+msgid "DHTab_DetailSettings.sbSection3.Caption"
+msgstr "Test Gamma"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[3]"
+msgstr "Personnalisé (fichier ini) - tous les %NumDays% jours"
+
+msgid "DHTab_GameSettings.NoROIDText"
+msgstr "Doit rejoindre le multijoueur avant"
+
+msgid "DHTab_GameSettings.NetSpeedText[0]"
+msgstr "Très Bas ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[1]"
+msgstr "Bas ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[2]"
+msgstr "Moyen ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[3]"
+msgstr "Recommandé ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[4]"
+msgstr "Élevé ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[5]"
+msgstr "Très Élevé ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[6]"
+msgstr "Défini par Utilisateur (%NetSpeed%)"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[1]"
+msgstr "Seulement avec équipage"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Caption"
+msgstr "Alertes Véhicule Automatiques"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Hint"
+msgstr "Pour envoyer des alertes vocales automatiques dans un véhicule"
+
+msgid "DHTab_GameSettings.BayonetSpawn.Caption"
+msgstr "Apparaître avec baïonnette fixée"
+
+msgid "DHTab_GameSettings.BayonetSpawn.Hint"
+msgstr ""
+"Utile si vous voulez toujours avoir votre baïonnette fixée et n'aimez pas "
+"avoir à l'attacher à chaque apparition"
+
+msgid "DHTab_GameSettings.CopyROIDButton.Caption"
+msgstr "Copier l'ID sur le presse-papier"
+
+msgid "DHTab_GameSettings.CopyROIDButton.Hint"
+msgstr "Ceci vous permettra de coller votre ROID en tant que texte"
+
+msgid "DHTab_GameSettings.DynamicNetspeed.Caption"
+msgstr "NetSpeed Dynamique"
+
+msgid "DHTab_GameSettings.DynamicNetspeed.Hint"
+msgstr ""
+"Abaissera le NetSpeed à 6000 ou jusqu'à ce que les 40 de ping soit atteints, "
+"utile pour ceux qui veulent un meilleur ping vs un NetSpeed stable"
+
+msgid "DHTab_GameSettings.Incognito.Caption"
+msgstr "Mode Incognito"
+
+msgid "DHTab_GameSettings.Incognito.Hint"
+msgstr "Ne pas afficher mon statut de Patron ou de Développeur sur le score"
+
+msgid "DHTab_GameSettings.LockTankOnEntry.Caption"
+msgstr "Verrouiller char après embarquement"
+
+msgid "DHTab_GameSettings.LockTankOnEntry.Hint"
+msgstr ""
+"Verrouille automatiquement un char (ou un autre véhicule blindé) lorsque "
+"vous y apparaissez, ou si vous entrez dans un char vide. Cela empêche "
+"d'autres joueurs d'utiliser les postes d'équipage."
+
+msgid "DHTab_GameSettings.ManualReloading.Caption"
+msgstr "Rechargement d'Obus Manuel"
+
+msgid "DHTab_GameSettings.ManualReloading.Hint"
+msgstr ""
+"Les obus ne se rechargeront pas jusqu'à ce que vous cliquiez après le tir, "
+"utile si vous décidez de changer de type d'obus à ce moment-là"
+
+msgid "DHTab_GameSettings.Netspeed.Caption"
+msgstr "NetSpeed (Octets par Seconde)"
+
+msgid "DHTab_GameSettings.NoGore.Caption"
+msgstr "Pas de Gore"
+
+msgid "DHTab_GameSettings.NoGore.Hint"
+msgstr "Pas de démembrement, décapitation ou d'effets de sang"
+
+msgid "DHTab_GameSettings.PlayerName.Caption"
+msgstr "Pseudo"
