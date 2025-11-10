@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 17:48+0000\n"
+"PO-Revision-Date: 2025-11-10 15:09+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/ja/>\n"
@@ -750,7 +750,7 @@ msgid "ROVoicePack.SupportAbbrev[5]"
 msgstr "対戦車小銃が必要だ!"
 
 msgid "ROVoicePack.SupportAbbrev[6]"
-msgstr "爆薬で吹き飛ばせ!"
+msgstr "梱包爆薬で吹き飛ばせ!"
 
 msgid "ROVoicePack.SupportAbbrev[7]"
 msgstr "戦車の支援が必要だ!"
