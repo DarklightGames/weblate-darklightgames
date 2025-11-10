@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-08 21:58+0000\n"
+"PO-Revision-Date: 2025-11-10 15:09+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/fr/>\n"
@@ -1076,3 +1076,174 @@ msgstr "M61 APC"
 
 msgid "DH_ShermanCannon_M4A3E2_Jumbo.nProjectileDescriptions<1>"
 msgstr "M48 HE-T"
+
+msgid "DH_ShermanCannon_M4A3E2_Jumbo.nProjectileDescriptions<2>"
+msgstr "M64 WP"
+
+msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<0>"
+msgstr "M62 APC"
+
+msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<1>"
+msgstr "M42 HE"
+
+msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<2>"
+msgstr "M93 HVAP"
+
+msgid "DH_ShermanFireFlyCannon.nProjectileDescriptions<0>"
+msgstr "Mk.IV APC"
+
+msgid "DH_ShermanFireFlyCannon.nProjectileDescriptions<1>"
+msgstr "Mk.I APDS"
+
+msgid "DH_ShermanFireFlyCannon.nProjectileDescriptions<2>"
+msgstr "Mk.I HE-T"
+
+msgid "DH_ShermanFireflyTank.VehicleNameString"
+msgstr "Sherman 'Firefly' Mk.VC"
+
+msgid "DH_ShermanTank.VehicleNameString"
+msgstr "Sherman M4A1(75)"
+
+msgid "DH_ShermanTankA_M4A176W.VehicleNameString"
+msgstr "Sherman M4A1(76)"
+
+msgid "DH_ShermanTank_British.VehicleNameString"
+msgstr "Sherman Mk.II"
+
+msgid "DH_ShermanTank_DDay.VehicleNameString"
+msgstr "Sherman M4A1(75) DD"
+
+msgid "DH_ShermanTank_M4A3105_Howitzer.VehicleNameString"
+msgstr "Sherman M4A3(105)"
+
+msgid "DH_ShermanTank_M4A375W.VehicleNameString"
+msgstr "Sherman M4A3(75)W"
+
+msgid "DH_ShermanTank_M4A376W.VehicleNameString"
+msgstr "Sherman M4A3(76)W"
+
+msgid "DH_ShermanTank_M4A3E2_Jumbo.VehicleNameString"
+msgstr "Sherman M4A3E2(75)W"
+
+msgid "DH_ShermanTank_M4A3E8.VehicleNameString"
+msgstr "Sherman M4A3E8"
+
+msgid "DH_ShermanTank_M4A3E8_Fury.VehicleNameString"
+msgstr "Sherman M4A3E8 'Fury'"
+
+msgid "DH_ShermanTank_M4A3E8_ZombieSlayer.VehicleNameString"
+msgstr "Sherman M4A3E8 'Zombie Slayer'"
+
+msgid "DH_StuH42Cannon.nProjectileDescriptions<2>"
+msgstr "Gr.39 Hl/C"
+
+msgid "DH_StuH42Destroyer.VehicleNameString"
+msgstr "StuH42 Ausf.G"
+
+msgid "DH_StuartCannon.nProjectileDescriptions<0>"
+msgstr "M51B1 APC"
+
+msgid "DH_StuartCannon.nProjectileDescriptions<1>"
+msgstr "M63 HE-T"
+
+msgid "DH_StuartCannon.nProjectileDescriptions<2>"
+msgstr "Mitraille M2"
+
+msgid "DH_StuartTank.VehicleNameString"
+msgstr "M5 Stuart"
+
+msgid "DH_StuartTank_British.VehicleNameString"
+msgstr "Stuart Mk.VI"
+
+msgid "DH_Stug3GDestroyer.VehicleNameString"
+msgstr "StuG III Ausf.G"
+
+msgid "DH_T3476Tank_German.VehicleNameString"
+msgstr "Panzer T-34"
+
+msgid "DH_T3476Tank_GermanB.VehicleNameString"
+msgstr "Panzer T-34"
+
+msgid "DH_T3476_42Tank.VehicleNameString"
+msgstr "T34/76 M42"
+
+msgid "DH_T3476_43Tank.VehicleNameString"
+msgstr "T34/76 M43"
+
+msgid "DH_T3485Tank_German.VehicleNameString"
+msgstr "Panzer T-34"
+
+msgid "DH_T60Tank.VehicleNameString"
+msgstr "Char Léger T-60"
+
+msgid "DH_T_4F1Tank.VehicleNameString"
+msgstr "T-IV mod.F"
+
+msgid "DH_WespeTank.VehicleNameString"
+msgstr "Sd.Kfz. 124 Wespe"
+
+msgid "DH_WillysJeep.VehicleNameString"
+msgstr "Jeep Willys MB"
+
+msgid "DH_T_4GEarlyTank.VehicleNameString"
+msgstr "T-IV mod.G"
+
+msgid "DH_T_5GTank.VehicleNameString"
+msgstr "T-V 'Pantera' mod.G"
+
+msgid "DH_Tiger2BTank.VehicleNameString"
+msgstr "Panzer VI Ausf.B 'Tigre Royal'"
+
+msgid "DH_TigerTank.VehicleNameString"
+msgstr "Panzer VI Ausf.E 'Tigre'"
+
+msgid "DH_TigerTank_Butcher.VehicleNameString"
+msgstr "Panzer VI Ausf.E 'Butcher'"
+
+msgid "DH_UniversalCarrierTransport.VehicleNameString"
+msgstr "Universal Carrier"
+
+msgid "DH_WespeCannon.ProjectileDescriptions<1>"
+msgstr "Fumigène"
+
+msgid "DH_WespeCannon.nProjectileDescriptions<0>"
+msgstr "F.H.Gr."
+
+msgid "DH_WespeCannon.nProjectileDescriptions<1>"
+msgstr "F.H.Gr.Nb."
+
+msgid "DH_WolverineCannon_Early.nProjectileDescriptions<1>"
+msgstr "M42A1 HE-T"
+
+msgid "DH_WolverineCannon_Early.nProjectileDescriptions<2>"
+msgstr "M88 HC"
+
+msgid "DH_WolverineTank.VehicleNameString"
+msgstr "M10 Wolverine"
+
+msgid "DH_WolverineTank_British.VehicleNameString"
+msgstr "Wolverine SP"
+
+msgid "DH_WespeCannon.nProjectileDescriptions<2>"
+msgstr "Gr.39 Hl/C"
+
+msgid "DH_WirbelwindTank.VehicleNameString"
+msgstr "Flakpanzer IV 'Wirbelwind'"
+
+msgid "DH_WolverineCannon.nProjectileDescriptions<0>"
+msgstr "M62 APC"
+
+msgid "DH_WolverineCannon.nProjectileDescriptions<1>"
+msgstr "M93 HVAP"
+
+msgid "DH_WolverineCannon.nProjectileDescriptions<2>"
+msgstr "M42A1 HE-T"
+
+msgid "DH_WolverineCannon_Early.nProjectileDescriptions<0>"
+msgstr "M62 APC"
+
+msgid "DH_ZiS5vTruckSupport.VehicleNameString"
+msgstr "ZiS-5V (Logistique)"
+
+msgid "DH_ZiS5vTruckTransport.VehicleNameString"
+msgstr "ZiS-5V (Transport)"
