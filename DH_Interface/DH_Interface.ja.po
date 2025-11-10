@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-10 15:09+0000\n"
+"PO-Revision-Date: 2025-11-11 07:40+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
@@ -1201,13 +1201,448 @@ msgid "DHServerBrowser.WelcomeMessagePlayButtonText"
 msgstr "まずプレイする！"
 
 msgid "DHServerBrowser.PanelHint<0>"
-msgstr "お気に入りの中から参加するサーバーを選択"
+msgstr "お気に入りの中から参加するサーバーを選択する"
 
 msgid "DHServerBrowser.PanelHint<1>"
 msgstr "LAN 上の DH サーバーを表示する"
 
 msgid "DHServerBrowser.PanelHint<2>"
-msgstr "世界中の DH サーバーから選択"
+msgstr "世界中の DH サーバーから選択する"
 
 msgid "DHServerBrowser.PanelHint<3>"
-msgstr "LAN上のROサーバを表示"
+msgstr "LAN上のROサーバを表示する"
+
+msgid "DHServerBrowser.PanelHint<4>"
+msgstr "世界中の ROサーバーから選択する"
+
+msgid "DHServerBrowser.PanelHint<5>"
+msgstr "世界中の ROサーバーから選択する"
+
+msgid "DHServerLoading.DeployingText"
+msgstr "{0} に展開中"
+
+msgid "DHSettingsPage.PanelCaption<1>"
+msgstr "ディスプレイ設定"
+
+msgid "DHSettingsPage.PanelCaption<2>"
+msgstr "オーディオ設定"
+
+msgid "DHSettingsPage.PanelCaption<3>"
+msgstr "操作設定"
+
+msgid "DHSettingsPage.PanelCaption<4>"
+msgstr "入力設定"
+
+msgid "DHSettingsPage.PanelHint<0>"
+msgstr "ゲームとネットワーク関連の設定を設定..."
+
+msgid "DHSettingsPage.PanelHint<1>"
+msgstr "解像度や画面のディティールを設定..."
+
+msgid "DHSettingsPage.PanelHint<2>"
+msgstr "オーディオを設定..."
+
+msgid "DHSettingsPage.PanelHint<3>"
+msgstr "キーボードとマウスのコントロールを設定..."
+
+msgid "DHSettingsPage.PanelHint<4>"
+msgstr "入力機器やその他の設定..."
+
+msgid "DHSettingsPage.PanelHint<5>"
+msgstr "HUDをカスタマイズ..."
+
+msgid "DHSettingsPage.SettingHeader.Caption"
+msgstr "設定"
+
+msgid "DHSituationMapGUIPage.EnableMouseControlPrompt"
+msgstr "[%JUMP%] を押してマウスを有効にします"
+
+msgid "DHTab_AudioSettings.AudioBK1.Caption"
+msgstr "サウンドシステム"
+
+msgid "DHTab_AudioSettings.AudioBK3.Caption"
+msgstr "ボイスチャット"
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Caption"
+msgstr "最大オーディオチャンネル数"
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Hint"
+msgstr "ゲームが一度に使用できるサウンドチャンネルの数"
+
+msgid "DHTab_AudioSettings.AudioDefaultDriver.Caption"
+msgstr "システムドライバ"
+
+msgid "DHTab_AudioSettings.AudioEffectsVolumeSlider.Caption"
+msgstr "エフェクト音量"
+
+msgid "DHTab_AudioSettings.AudioLowDetail.Caption"
+msgstr "低音質"
+
+msgid "DHTab_AudioSettings.AudioMessageBeep.Caption"
+msgstr "メッセージ通知音"
+
+msgid "DHTab_AudioSettings.AudioMode.Caption"
+msgstr "オーディオモード"
+
+msgid "DHTab_AudioSettings.AudioMusicVolume.Caption"
+msgstr "BGM音量"
+
+msgid "DHTab_AudioSettings.AudioPlayVoices.Caption"
+msgstr "ボイスメッセージの再生"
+
+msgid "DHTab_AudioSettings.AudioReverseStereo.Caption"
+msgstr "音声の左右入れ替え"
+
+msgid "DHTab_AudioSettings.AutoJoinPublic.Caption"
+msgstr "自動で'Public'ボイスチャットチャンネルに入る"
+
+msgid "DHTab_AudioSettings.AutoSpeakCheckbox.Caption"
+msgstr "有効なボイスチャットチャンネルを自動選択"
+
+msgid "DHTab_AudioSettings.ChatPasswordEdit.Caption"
+msgstr "チャットパスワード"
+
+msgid "DHTab_AudioSettings.Dampen.Caption"
+msgstr "VOIP使用時ゲーム音量を下げる"
+
+msgid "DHTab_AudioSettings.EnableVoiceChat.Caption"
+msgstr "ボイスチャットを有効にする"
+
+msgid "DHTab_AudioSettings.VoiceQuality.Caption"
+msgstr "インターネット品質"
+
+msgid "DHTab_AudioSettings.VoiceQualityLAN.Caption"
+msgstr "LAN品質"
+
+msgid "DHTab_AudioSettings.VoiceVolume.Caption"
+msgstr "ボイスチャット音量"
+
+msgid "DHTab_Controls.ControlProfiles[0]"
+msgstr "現在"
+
+msgid "DHTab_Controls.ControlProfiles[1]"
+msgstr "デフォルト (リセット)"
+
+msgid "DHTab_Controls.ControlProfiles[2]"
+msgstr "RO クラシック"
+
+msgid "DHTab_Controls.ControlProfiles[3]"
+msgstr "Pro104"
+
+msgid "DHTab_Controls.ControlProfiles[4]"
+msgstr "Pro 105"
+
+msgid "DHTab_Controls.ControlProfiles[5]"
+msgstr "XBox 360 コントローラー"
+
+msgid "DHTab_Controls.captions_movement[12]"
+msgstr "スプリントの切り替え"
+
+msgid "DHTab_Controls.captions_weapons[9]"
+msgstr "機関銃の銃身交換"
+
+msgid "DHTab_Controls.captions_weapons[10]"
+msgstr "射撃モードの切り替え"
+
+msgid "DHTab_Controls.captions_weapons[11]"
+msgstr "機関銃の展開/銃剣の着脱/発煙弾投射機を使用"
+
+msgid "DHTab_Controls.captions_weapons[12]"
+msgstr "発煙弾投射機の射程を伸ばす/回転させる"
+
+msgid "DHTab_Controls.captions_weapons[13]"
+msgstr "発煙弾投射機の射程を縮める/回転させる"
+
+msgid "DHTab_Controls.captions_weapons[14]"
+msgstr "砲撃目標の切り替え"
+
+msgid "DHTab_Controls.captions_comm[3]"
+msgstr "分隊チャット"
+
+msgid "DHTab_Controls.captions_comm[4]"
+msgstr "ボイスメッセージメニュー"
+
+msgid "DHTab_Controls.captions_comm[5]"
+msgstr "ゲーム内チャットを見る"
+
+msgid "DHTab_Controls.captions_comm[6]"
+msgstr "マイクを有効にする"
+
+msgid "DHTab_Controls.captions_comm[7]"
+msgstr "'命令'ボイスチャンネルに切り替え"
+
+msgid "DHTab_Controls.captions_comm[8]"
+msgstr "'近くのみ'ボイスチャンネルに切替"
+
+msgid "DHTab_Controls.captions_comm[9]"
+msgstr "分隊未加入者のボイスチャンネルに切り替え"
+
+msgid "DHTab_Controls.captions_comm[10]"
+msgstr "分隊ボイスチャンネルに切り替え"
+
+msgid "DHTab_Controls.captions_comm[11]"
+msgstr "チャットメッセージの入力を開始する"
+
+msgid "DHTab_Controls.captions_comm[12]"
+msgstr "ミュートメニュー"
+
+msgid "DHTab_Controls.captions_game[4]"
+msgstr "装甲車両の座席ロック/ロック解除"
+
+msgid "DHTab_Controls.captions_game[5]"
+msgstr "分隊指示メニュー"
+
+msgid "DHTab_Controls.captions_game[7]"
+msgstr "分隊への自動加入"
+
+msgid "DHTab_Controls.captions_game[8]"
+msgstr "分隊リスポーン地点(RP)を設置する"
+
+msgid "DHTab_Controls.PanelCaption"
+msgstr "操作"
+
+msgid "DHTab_Controls.ControlProfilesComboBox.Caption"
+msgstr "操作プロファイル"
+
+msgid "DHTab_Controls.InputBK1.Caption"
+msgstr "操作割り当て"
+
+msgid "DHTab_DetailSettings.NoneText"
+msgstr "なし"
+
+msgid "DHTab_DetailSettings.RenderModeText[0]"
+msgstr "Direct3D 9.0 (推奨)"
+
+msgid "DHTab_DetailSettings.RenderModeText[1]"
+msgstr "Direct3D 8.0 (レンダリングに問題あり)"
+
+msgid "DHTab_DetailSettings.RenderModeText[2]"
+msgstr "OpenGL (不安定版)"
+
+msgid "DHTab_DetailSettings.RelaunchQuestion"
+msgstr "グラフィックモードは正常に変更されました。ただし、次回ゲームが開始されるまで"
+"有効になりません。今すぐゲームを再起動しますか?"
+
+msgid "DHTab_DetailSettings.ContrastSlider.Caption"
+msgstr "コントラスト"
+
+msgid "DHTab_DetailSettings.CorpseStayTime.Caption"
+msgstr "死体の残存時間 (秒)"
+
+msgid "DHTab_DetailSettings.DetailAnisotropy.Caption"
+msgstr "異方性フィルタリング"
+
+msgid "DHTab_DetailSettings.DetailAntialiasing.Caption"
+msgstr "アンチエイリアス"
+
+msgid "DHTab_DetailSettings.DetailCharacterDetail.Caption"
+msgstr "キャラクターディティール"
+
+msgid "DHTab_DetailSettings.DetailCharacterShadows.Caption"
+msgstr "キャラクターの影"
+
+msgid "DHTab_DetailSettings.DetailCoronas.Caption"
+msgstr "レンズフレア"
+
+msgid "DHTab_DetailSettings.DetailDecalStay.Caption"
+msgstr "弾痕の表示時間"
+
+msgid "DHTab_DetailSettings.DetailDecals.Caption"
+msgstr "弾痕"
+
+msgid "DHTab_DetailSettings.DetailDecoLayers.Caption"
+msgstr "地面の質"
+
+msgid "DHTab_DetailSettings.DetailDetailTextures.Caption"
+msgstr "詳細なテクスチャ"
+
+msgid "DHTab_DetailSettings.DetailDynamicLighting.Caption"
+msgstr "ダイナミックライティング"
+
+msgid "DHTab_DetailSettings.DetailForceFSAASS.Caption"
+msgstr "スクリーンショットにFSAAを適用する"
+
+msgid "DHTab_DetailSettings.DetailPhysics.Caption"
+msgstr "物理演算の質"
+
+msgid "DHTab_DetailSettings.DetailTextureDetail.Caption"
+msgstr "テクスチャの質"
+
+msgid "DHTab_DetailSettings.DetailTrilinear.Caption"
+msgstr "トライリニアフィルタリング"
+
+msgid "DHTab_DetailSettings.DetailWorldDetail.Caption"
+msgstr "環境の質"
+
+msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
+msgstr "表示距離"
+
+msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
+msgstr "表示距離の自動調整"
+
+msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
+msgstr "パフォーマンスに基づいて自動的に表示距離を調整することで、FPS "
+"を可能な限り高く保ちます"
+
+msgid "DHTab_DetailSettings.GammaSlider.Caption"
+msgstr "ガンマ"
+
+msgid "DHTab_DetailSettings.GlobalDetails.Caption"
+msgstr "画質"
+
+msgid "DHTab_DetailSettings.HDRCheckbox.Caption"
+msgstr "HDRのにじみ"
+
+msgid "DHTab_DetailSettings.MeshLOD.Caption"
+msgstr "ダイナミックメッシュLOD"
+
+msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
+msgstr "表示距離の自動調整用最小FPS"
+
+msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
+msgstr "表示距離の自動調整の基準として、FPSを向上させるために表示距離を下げ始めるタイ"
+"ミングを決定します"
+
+msgid "DHTab_DetailSettings.MotionBlur.Caption"
+msgstr "ぶれ効果"
+
+msgid "DHTab_DetailSettings.RenderDeviceCombo.Caption"
+msgstr "レンダリング"
+
+msgid "DHTab_DetailSettings.ScopeDetail.Caption"
+msgstr "スコープの質"
+
+msgid "DHTab_DetailSettings.UseVSyncCheckBox.Caption"
+msgstr "VSync (非推奨)"
+
+msgid "DHTab_DetailSettings.UseVSyncCheckBox.Hint"
+msgstr ""
+"VSyncを使用すると、入力遅延を犠牲にして画面のティアリングを軽減できます（GPU"
+"設定は、このような多くのグラフィック設定よりも優先されます）"
+
+msgid "DHTab_DetailSettings.VideoColorDepth.Caption"
+msgstr "色数"
+
+msgid "DHTab_DetailSettings.VideoFullScreen.Caption"
+msgstr "フルスクリーン"
+
+msgid "DHTab_DetailSettings.WeatherEffects.Caption"
+msgstr "天候効果"
+
+msgid "DHTab_DetailSettings.sbSection1.Caption"
+msgstr "基本設定"
+
+msgid "DHTab_DetailSettings.sbSection2.Caption"
+msgstr "詳細設定"
+
+msgid "DHTab_DetailSettings.sbSection3.Caption"
+msgstr "ガンマサンプル"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[0]"
+msgstr "なし"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[3]"
+msgstr "カスタム (ini ファイルから)-%NumDays% 日ごと"
+
+msgid "DHTab_GameSettings.NoROIDText"
+msgstr "最初にマルチプレイヤーに参加する必要があります"
+
+msgid "DHTab_GameSettings.NetSpeedText[0]"
+msgstr "最低速(~80kbps)({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[1]"
+msgstr "低速 (~96kbps)({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[2]"
+msgstr "低速(120kbps) ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[3]"
+msgstr "推奨(160kbps)({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[4]"
+msgstr "高速(240kbps)({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[5]"
+msgstr "超高速(400kbps)({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[6]"
+msgstr "ユーザー定義 (%NetSpeed%)"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[0]"
+msgstr "なし"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[1]"
+msgstr "他に乗員がいるときのみ"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[2]"
+msgstr "常に"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Caption"
+msgstr "自動で車両内ボイスメッセージを送信"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Hint"
+msgstr "車両内ボイスメッセージを送信するタイミング"
+
+msgid "DHTab_GameSettings.BayonetSpawn.Caption"
+msgstr "銃剣を取り付けた状態でスポーン"
+
+msgid "DHTab_GameSettings.BayonetSpawn.Hint"
+msgstr "常に銃剣を取り付けておきたい場合に便利です"
+
+msgid "DHTab_GameSettings.CopyROIDButton.Hint"
+msgstr "これにより、ROIDをテキストとして貼り付けることができます"
+
+msgid "DHTab_GameSettings.DynamicNetspeed.Caption"
+msgstr "自動ネットスピード"
+
+msgid "DHTab_GameSettings.DynamicNetspeed.Hint"
+msgstr ""
+"NetSpeedを6000に下げるか、またはpingが40になるまで下げます。安定したNetSpeed"
+"よりも優れたPingを希望するユーザーに役立ちます"
+
+msgid "DHTab_GameSettings.GameBK1.Caption"
+msgstr "ゲーム設定"
+
+msgid "DHTab_GameSettings.GameBK2.Caption"
+msgstr "車両設定"
+
+msgid "DHTab_GameSettings.GameBK3.Caption"
+msgstr "ネットワーク設定"
+
+msgid "DHTab_GameSettings.Incognito.Caption"
+msgstr "シークレットモード"
+
+msgid "DHTab_GameSettings.Incognito.Hint"
+msgstr "Patreonや開発者のステータスをスコアボードに表示しない"
+
+msgid "DHTab_GameSettings.LockTankOnEntry.Caption"
+msgstr "戦車の座席ロックを自動的に有効化する"
+
+msgid "DHTab_GameSettings.LockTankOnEntry.Hint"
+msgstr ""
+"戦車 (または他の装甲車両) "
+"にスポーンしたとき、または空の戦車に入ったときに、座席位置が自動的にロックさ"
+"れます。これにより、他のプレイヤーが戦車乗組員のポジションを使用できなくなり"
+"ます。"
+
+msgid "DHTab_GameSettings.ManualReloading.Caption"
+msgstr "戦車砲弾の手動装填"
+
+msgid "DHTab_GameSettings.ManualReloading.Hint"
+msgstr "発射後にクリックするまで弾はリロードされないので、発射後に弾種を変更したい場"
+"合に便利です(Rキーで砲弾を発射せず再装填できます)"
+
+msgid "DHTab_GameSettings.Netspeed.Caption"
+msgstr "ネットスピード (バイト/秒)"
+
+msgid "DHTab_GameSettings.Netspeed.Hint"
+msgstr ""
+"ゲームで使用したい最大インターネット速度 "
+"(バイト/秒)。サーバーはクライアントの最大速度を設定できますが、その速度はクラ"
+"イアントよりも優先されます。"
+
+msgid "DHTab_GameSettings.NoGore.Caption"
+msgstr "ゴア表現なし"
+
+msgid "DHTab_GameSettings.NoGore.Hint"
+msgstr "四肢の切断、首の損傷、血液描写を無効にする"
