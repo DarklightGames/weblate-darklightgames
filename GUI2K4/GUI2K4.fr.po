@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-08 21:58+0000\n"
+"PO-Revision-Date: 2025-11-10 15:09+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/fr/>\n"
@@ -88,3 +88,30 @@ msgstr "Joueur"
 
 msgid "UT2K4SettingsPage.PanelCaption<3>"
 msgstr "Jeu"
+
+msgid "UT2K4Browser_Page.QueryCompleteString"
+msgstr "Requête Achevée !"
+
+msgid "UT2K4Browser_Page.StartQueryString"
+msgstr "Requêtage du Serveur Principal"
+
+msgid "UT2K4Browser_ServerListPageMS.PanelCaption"
+msgstr "Liste de Serveurs : Internet"
+
+msgid "UT2K4GamePageBase.PanelCaption<1>"
+msgstr "Sélectionner Carte"
+
+msgid "UT2K4GamePageBase.PanelCaption<2>"
+msgstr "Règles de Jeu"
+
+msgid "UT2K4GamePageBase.PanelCaption<4>"
+msgstr "Configuration Bots"
+
+msgid "UT2K4GetPassword.IncorrectPassword"
+msgstr "Mot de passe incorrect spécifié.  Veuillez réessayer."
+
+msgid "UT2K4GetPassword.GetPassLabel.Caption"
+msgstr "Un mot de passe est requis pour jouer sur ce serveur."
+
+msgid "UT2K4GetPassword.GetPassPW.Caption"
+msgstr "Mot de Passe Serveur"
