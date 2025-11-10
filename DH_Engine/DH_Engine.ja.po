@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-11-10 15:09+0000\n"
-"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ja/>\n"
 "Language: ja\n"
@@ -24,7 +24,7 @@ msgid "DHArtillerySpottingScope.RightString"
 msgstr "右"
 
 msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
-msgstr "回転する"
+msgstr "回転させる"
 
 msgid "DHCommandMenu_ATGun.Options<0>.ActionText"
 msgstr "回転"
@@ -1977,7 +1977,7 @@ msgid "DHCommandMenu_Radio.CancelText"
 msgstr "進行中 (キャンセル)"
 
 msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
-msgstr "プレイヤーなし "
+msgstr "プレイヤーがいません "
 
 msgid "DHCommandMenu_SquadMenu.Options<0>.ActionText"
 msgstr "分隊を去る"
