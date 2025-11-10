@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-11-10 15:09+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
 "Language: ja\n"
@@ -762,4 +762,452 @@ msgid "DHCreditsPage.SpecialThanksText"
 msgstr "スペシャルサンクス"
 
 msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<2>"
-msgstr "マップの推奨プレーヤの数"
+msgstr "マップの推奨プレイヤー数"
+
+msgid "DHDeployMenu.SelectRoleText"
+msgstr "兵科を選択"
+
+msgid "DHDeployMenu.SelectSpawnPointText"
+msgstr "スポーン地点を選択"
+
+msgid "DHDeployMenu.DeployInTimeText"
+msgstr "コンティニューを押して出撃してください ({0})"
+
+msgid "DHDeployMenu.DeployNowText"
+msgstr "コンティニューを押して今すぐ出撃できます!"
+
+msgid "DHDeployMenu.ReservedString"
+msgstr "予約済み"
+
+msgid "DHDeployMenu.ChangeTeamConfirmText"
+msgstr "本当に陣営を変えますか?({s} 秒間は再変更できません)"
+
+msgid "DHDeployMenu.FreeChangeTeamConfirmText"
+msgstr "本当に陣営を変えますか？"
+
+msgid "DHDeployMenu.CantChangeTeamYetText"
+msgstr "陣営を変更する前に {s} 待つ必要があります"
+
+msgid "DHDeployMenu.UnlockText"
+msgstr "ロック解除"
+
+msgid "DHDeployMenu.VehicleUnavailableString"
+msgstr "選択した車両は利用不可能になりました。"
+
+msgid "DHDeployMenu.BotsText"
+msgstr "ボット"
+
+msgid "DHDeployMenu.SquadLeadershipOnlyText"
+msgstr "分隊長のみ"
+
+msgid "DHDeployMenu.RecommendJoiningSquadText"
+msgstr ""
+"出撃前に分隊に加入することを強くお勧めします！分隊に参加することで、役割の選"
+"択肢が増え、前線の近くから出撃できるようになります。||今すぐ自動的に分隊に参"
+"加しますか？"
+
+msgid "DHDeployMenu.UnassignedPlayersCaptionText"
+msgstr "分隊未加入"
+
+msgid "DHDeployMenu.NonSquadLeaderOnlyText"
+msgstr "分隊長でない人のみ"
+
+msgid "DHDeployMenu.SurrenderConfirmBaseText"
+msgstr "本当に降伏しますか？"
+
+msgid "DHDeployMenu.SurrenderConfirmNominationText"
+msgstr "この操作によってチーム全体の投票が開始されます。全員投票はチームの {0}% "
+"が撤退を選択した後に開始されます。"
+
+msgid "DHDeployMenu.SurrenderConfirmEndRoundText"
+msgstr "これで戦闘は即座に終了し、相手陣営の勝利となります。"
+
+msgid "DHDeployMenu.SurrenderButtonText[0]"
+msgstr "降伏する"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<0>"
+msgstr "致命的なエラーです！"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<1>"
+msgstr "まだ陣営を選んでいません。"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<2>"
+msgstr "戦闘はまだ始まっていません。"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<3>"
+msgstr "降伏投票は無効になっています。"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<4>"
+msgstr "降伏投票はすでに進行中です。"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<5>"
+msgstr "あなたはすでに降伏に賛成しています。"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<6>"
+msgstr "あなたの陣営はすでに降伏投票を済ませています。もう一度試してください。"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<7>"
+msgstr "戦闘終了後は降伏できません。"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<9>"
+msgstr "こんなに早く降伏することはできません。"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<10>"
+msgstr "準備時間中は降伏できません。"
+
+msgid "DHDeployMenu.ArtilleryVehicleImageObject.Hint"
+msgstr "砲兵車両"
+
+msgid "DHDeployMenu.ContinueButtonObject.Caption"
+msgstr "出撃"
+
+msgid "DHDeployMenu.DisconnectButtonObject.Caption"
+msgstr "退出する"
+
+msgid "DHDeployMenu.EquipmentButtonObject.Hint"
+msgstr "装備"
+
+msgid "DHDeployMenu.MapVoteButtonObject.Caption"
+msgstr "マップ投票"
+
+msgid "DHDeployMenu.MaxVehiclesImageObject.Hint"
+msgstr "戦車が利用可能"
+
+msgid "DHDeployMenu.SpectateButtonObject.Hint"
+msgstr "観戦する"
+
+msgid "DHDeployMenu.SquadsButtonObject.Hint"
+msgstr "分隊 [F1]"
+
+msgid "DHDeployMenu.SupplyVehicleImageObject.Hint"
+msgstr "物資輸送車"
+
+msgid "DHDeployMenu.VehicleButtonObject.Hint"
+msgstr "車両"
+
+msgid "DHEditFavoritePage.UnknownText"
+msgstr "不明なサーバー"
+
+msgid "DHFilterEdit.ComboOpts[0]"
+msgstr "関係ありません"
+
+msgid "DHFilterEdit.ComboOpts[1]"
+msgstr "オンにする必要があります"
+
+msgid "DHFilterEdit.ComboOpts[2]"
+msgstr "オフにする必要があります"
+
+msgid "DHFilterEdit.MutOpts[0]"
+msgstr "ミューテーターがありません"
+
+msgid "DHFilterEdit.MutOpts[1]"
+msgstr "すべてのミューテータ"
+
+msgid "DHFilterEdit.WindowName"
+msgstr "フィルタを編集..."
+
+msgid "DHFilterEdit.bOk.Caption"
+msgstr "はい"
+
+msgid "DHFilterEdit.cbStats.Caption"
+msgstr "記録ありサーバー:"
+
+msgid "DHFilterEdit.ckBots.Caption"
+msgstr "Botなし"
+
+msgid "DHFilterEdit.ckEmpty.Caption"
+msgstr "誰もいないサーバを表示しない"
+
+msgid "DHFilterEdit.ckFull.Caption"
+msgstr "満員のサーバを表示しない"
+
+msgid "DHFilterEdit.ckPassworded.Caption"
+msgstr "パスワードが必要なサーバを表示しない"
+
+msgid "DHFilterEdit.ckVACOnly.Caption"
+msgstr "Valve Anti-Cheatで保護されたサーバのみ表示"
+
+msgid "DHFilterEdit.ebName.Caption"
+msgstr "フィルタ名:"
+
+msgid "DHFilterEdit.sbMutators.Caption"
+msgstr "カスタムミューテータ設定"
+
+msgid "DHFilterEdit.sbOptions.Caption"
+msgstr "オプション..."
+
+msgid "DHFilterListPage.bCreate.Caption"
+msgstr "作成"
+
+msgid "DHFilterListPage.bOk.Caption"
+msgstr "決定"
+
+msgid "DHFilterListPage.sbBackground.Caption"
+msgstr "フィルタ..."
+
+msgid "DHGUIDynArrayPage.LockedOKButton.Caption"
+msgstr "決定"
+
+msgid "DHGUIMapComponent.SquadRallyPointSetAsSecondaryText"
+msgstr "分隊スポーン地点(RP)を予備にする"
+
+msgid "DHGUIMapComponent.RemoveText"
+msgstr "{0} を削除する"
+
+msgid "DHGUIMapComponent.ActiveTargetSelectText"
+msgstr "目標として選択する"
+
+msgid "DHGUIMapComponent.ActiveTargetDeselectText"
+msgstr "選択を解除する"
+
+msgid "DHGUIMapComponent.AdminPlaceAlliedSpawnText"
+msgstr "管理者:連合国軍のスポーン地点を配置する"
+
+msgid "DHGUIMapComponent.AdminPlaceAxisSpawnText"
+msgstr "管理者:枢軸国軍のスポーン地点を配置する"
+
+msgid "DHGUIMapComponent.AdminDestroyAlliedSpawnsText"
+msgstr "管理者:管理者が設置した連合国軍のスポーン地点を無効化する"
+
+msgid "DHGUIMapComponent.AdminDestroyAxisSpawnsText"
+msgstr "管理者:管理者が設置した枢軸国軍のスポーン地点を無効化する"
+
+msgid "DHGUIMapComponent.AdminDestroySpawnText"
+msgstr "管理者:スポーン地点を無効化する"
+
+msgid "DHGUIMapComponent.AdminTeleportText"
+msgstr "管理者:ここにテレポートさせる"
+
+msgid "DHGUISquadComponent.CreateSquadButton.Caption"
+msgstr "分隊を作る"
+
+msgid "DHGUISquadComponent.NoRallyPointsImage.Hint"
+msgstr "この分隊はしばらくの間、分隊リスポーン地点 "
+"(RP)を設置していません。出撃地点が限定されています！"
+
+msgid "DHGUITeamSelection.SizeBonusText"
+msgstr "分隊の定員"
+
+msgid "DHGUITeamSelection.UnitsText"
+msgstr " 人"
+
+msgid "DHGUITeamSelection.AutoSelect.Caption"
+msgstr "自動選択"
+
+msgid "DHGUITeamSelection.Disconnect.Caption"
+msgstr "退出する"
+
+msgid "DHGUITeamSelection.SettingsButtonObject.Caption"
+msgstr "設定"
+
+msgid "DHGUITeamSelection.Spectate.Caption"
+msgstr "観戦する"
+
+msgid "DHGUITeamSelection.TeamsCount.Caption"
+msgstr "?人"
+
+msgid "DHGUITeamSelection.TeamsCount2.Caption"
+msgstr "?人"
+
+msgid "DHGamePageMP.MPFooter.PrimaryCaption"
+msgstr "P2P接続"
+
+msgid "DHGamePageMP.MPFooter.SecondaryCaption"
+msgstr "専用"
+
+msgid "DHGamePageSP.NoBotsWarningText"
+msgstr ""
+"Darkest Hour: Europe "
+"'44-'45はマルチプレイヤーのみに焦点を当てているため、訓練モードでのボットのサ"
+"ポートは含まれていません。"
+
+msgid "DHGamePageSP.PageCaption"
+msgstr "訓練"
+
+msgid "DHGamePageSP.SPFooter.PrimaryCaption"
+msgstr "訓練を始める"
+
+msgid "DHGetDataMenu.CancelButton.Hint"
+msgstr "このメニューを閉じて変更を破棄します。"
+
+msgid "DHGetDataMenu.OkButton.Caption"
+msgstr "決定"
+
+msgid "DHIAMultiColumnRulesPanel.AdvancedButton.Caption"
+msgstr "拡張オプションを表示"
+
+msgid "DHLearnToPlayPage.PanelCaption<0>"
+msgstr "ビデオガイド"
+
+msgid "DHLearnToPlayPage.PanelHint<0>"
+msgstr "映像を見てゲームについて学ぶ"
+
+msgid "DHLearnToPlayPage.LearnToPlayHeader.Caption"
+msgstr "プレイを学ぼう"
+
+msgid "DHMOTDConfigPage.LockedOKButton.Caption"
+msgstr "決定"
+
+msgid "DHMainMenu.SteamMustBeRunningText"
+msgstr "マルチプレイヤーでプレイするには、Steamが起動していて、インターネット接続が必"
+"要です"
+
+msgid "DHMainMenu.ControlsChangedMessage"
+msgstr "新しい操作がゲームに追加されました。その結果、以前のキーバインディングが変更"
+"された可能性があります。||コントロール設定を見直しますか？"
+
+msgid "DHMainMenu.BadConfigMessage"
+msgstr "設定ファイルに問題があります。[続行] "
+"をクリックしてゲームを終了し、設定ファイルの修正方法に関するガイドを開きます"
+"。"
+
+msgid "DHMainMenu.SteamCommunityButton.Hint"
+msgstr "Steam コミュニティに参加しましょう！"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<0>"
+msgstr "投票されたマップ"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<1>"
+msgstr "投票数"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<2>"
+msgstr "マップ規模"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<1>"
+msgstr "マップへのプレイヤーの投票量を合わせたものです。"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<1>"
+msgstr "連合国"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<2>"
+msgstr "枢軸国"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<4>"
+msgstr "マップ規模"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<1>"
+msgstr "このマップにおける連合国側の国"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<2>"
+msgstr "このマップにおける枢軸国側の国"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<3>"
+msgstr "マップでの試合の形式"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<4>"
+msgstr "マップの推奨プレイヤー数"
+
+msgid "DHMapVoteMultiColumnListBox.AdminMapContextMenu.ContextItems<0>"
+msgstr "管理者:強制的にこのマップにします"
+
+msgid "DHMapVotingPage.lmsgMapOutOfBounds"
+msgstr "現在のプレイヤー数に適したマップに投票してください。全マップリスト上からはこ"
+"のマップに投票できます。"
+
+msgid "DHMapVotingPage.NoRestartMapPrivilegeText"
+msgstr "マップを再スタートするための十分な管理者権限がありません!"
+
+msgid "DHMapVotingPage.NoChangeMapPrivilegeText"
+msgstr "マップを変更するための十分な管理者権限がありません!"
+
+msgid "DHMapVotingPage.lmsgMode[0]"
+msgstr "多数決です"
+
+msgid "DHMapVotingPage.FilterClearButton.Caption"
+msgstr "クリア"
+
+msgid "DHMapVotingPage.FilterEditbox.Caption"
+msgstr "検索"
+
+msgid "DHMapVotingPage.GameTypeCombo.Caption"
+msgstr "試合形式フィルター:"
+
+msgid "DHMaplistEditor.ActiveBackground.Caption"
+msgstr "得票中のマップ"
+
+msgid "DHMaplistEditor.AvailBackground.Caption"
+msgstr "選択可能なマップ"
+
+msgid "DHMaplistEditor.MapListSectionBackground.Caption"
+msgstr "保存されたマップリスト"
+
+msgid "DHMaplistEditor.NewMaplistButton.Caption"
+msgstr "新規"
+
+msgid "DHMidGameVoiceChat.NOSPEECH.Caption"
+msgstr "ボイスメッセージを無視"
+
+msgid "DHMidGameVoiceChat.NOSPEECH.Hint"
+msgstr "このプレイヤーから「グレネード!」などのボイスメッセージを受信しない"
+
+msgid "DHMutatorConfigMenu.AdvancedButton.Caption"
+msgstr "拡張オプションを表示"
+
+msgid "DHMutatorConfigMenu.LockedOKButton.Caption"
+msgstr "決定"
+
+msgid "DHNetworkStatusMessage.NetStatOk.Caption"
+msgstr "OK"
+
+msgid "DHNetworkStatusMsg.StatusMessages[12]"
+msgstr ""
+"現在のマップの間、再参加できません。||管理者による罰でない場合、これはチーム"
+"キリングに対するデフォルトの罰なので、チームキルしないでください。"
+
+msgid "DHNetworkStatusMsg.StatusTitle[12]"
+msgstr "試合からキックされました"
+
+msgid "DHPerformanceWarning.OkButton.Caption"
+msgstr "OK"
+
+msgid "DHPlayerSetupPage.psTitleBar.Caption"
+msgstr "プレイヤー設定"
+
+msgid "DHScoreBoard.MunitionPercentageText"
+msgstr "軍需品充足率"
+
+msgid "DHScoreBoard.PlayersText"
+msgstr "プレイヤー数"
+
+msgid "DHScoreBoard.TickHealthText"
+msgstr "Tick: "
+
+msgid "DHScoreBoard.NetHealthText"
+msgstr "Packet Loss: "
+
+msgid "DHScoreBoard.ScoreboardColumns<0>.Title"
+msgstr "#"
+
+msgid "DHScoreBoard.ScoreboardColumns<2>.Title"
+msgstr "兵科"
+
+msgid "DHScoreBoard.ScoreboardColumns<5>.Title"
+msgstr "K"
+
+msgid "DHScoreBoard.ScoreboardColumns<6>.Title"
+msgstr "D"
+
+msgid "DHScoreBoard.ScoreboardColumns<8>.Title"
+msgstr "Ping"
+
+msgid "DHServerBrowser.WelcomeMessageText"
+msgstr ""
+"Darkest "
+"Hour：Europe'44-'45へようこそ！5000人以上が集う巨大なDiscordコミュニティに参"
+"加して、ゲームについて話し合ったり、提案をしたり、バグを報告したりしてくださ"
+"い！それでは戦場でお会いしましょう！"
+
+msgid "DHServerBrowser.WelcomeMessagePlayButtonText"
+msgstr "まずプレイする！"
+
+msgid "DHServerBrowser.PanelHint<0>"
+msgstr "お気に入りの中から参加するサーバーを選択"
+
+msgid "DHServerBrowser.PanelHint<1>"
+msgstr "LAN 上の DH サーバーを表示する"
+
+msgid "DHServerBrowser.PanelHint<2>"
+msgstr "世界中の DH サーバーから選択"
+
+msgid "DHServerBrowser.PanelHint<3>"
+msgstr "LAN上のROサーバを表示"
