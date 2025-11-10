@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 17:48+0000\n"
+"PO-Revision-Date: 2025-11-10 15:09+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ja/>\n"
@@ -1507,3 +1507,9 @@ msgstr "テクスチャのみ"
 
 msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[2]"
 msgstr "高品質3Dモデル"
+
+msgid "ROControlBinder.BindingLabel[41]"
+msgstr "主武装"
+
+msgid "ROControlBinder.BindingLabel[44]"
+msgstr "前の武器"
