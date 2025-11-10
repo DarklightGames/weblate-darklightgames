@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 17:48+0000\n"
+"PO-Revision-Date: 2025-11-10 15:09+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/ja/>\n"
@@ -142,3 +142,274 @@ msgstr "ジョイスティック 3"
 
 msgid "KeyNames.Joy4"
 msgstr "ジョイスティック 4"
+
+msgid "Errors.LoadEntry"
+msgstr "エントリを読み込めません:%s"
+
+msgid "Errors.Listen"
+msgstr "リッスンに失敗しました:%s"
+
+msgid "Errors.ServerOpen"
+msgstr "サーバーはネットワーク URL を開くことができません"
+
+msgid "Errors.ServerListen"
+msgstr "専用サーバーはリッスンできません:%s"
+
+msgid "Errors.LoadPlayerClass"
+msgstr "兵科を読み込めませんでした"
+
+msgid "Errors.DemoFileMissing"
+msgstr "デモ再生用のパッケージ '%s' が見つかりません"
+
+msgid "KeyNames.Joy5"
+msgstr "ジョイスティック 5"
+
+msgid "KeyNames.Joy6"
+msgstr "ジョイスティック 6"
+
+msgid "KeyNames.Joy7"
+msgstr "ジョイスティック 7"
+
+msgid "KeyNames.Joy8"
+msgstr "ジョイスティック 8"
+
+msgid "KeyNames.Joy9"
+msgstr "ジョイスティック 9"
+
+msgid "KeyNames.Joy10"
+msgstr "ジョイスティック 10"
+
+msgid "KeyNames.Joy11"
+msgstr "ジョイスティック 11"
+
+msgid "KeyNames.Joy12"
+msgstr "ジョイスティック 12"
+
+msgid "KeyNames.Joy13"
+msgstr "ジョイスティック 13"
+
+msgid "KeyNames.Joy14"
+msgstr "ジョイスティック 14"
+
+msgid "KeyNames.Joy15"
+msgstr "ジョイスティック 15"
+
+msgid "KeyNames.Joy16"
+msgstr "ジョイスティック 16"
+
+msgid "KeyNames.Space"
+msgstr "スペース"
+
+msgid "KeyNames.PageUp"
+msgstr "PAGE UP"
+
+msgid "KeyNames.PageDown"
+msgstr "PAGE DOWN"
+
+msgid "KeyNames.End"
+msgstr "END"
+
+msgid "KeyNames.Home"
+msgstr "HOME"
+
+msgid "KeyNames.Select"
+msgstr "SELECT"
+
+msgid "KeyNames.Print"
+msgstr "PRINT"
+
+msgid "KeyNames.Execute"
+msgstr "EXECUTE"
+
+msgid "KeyNames.PrintScrn"
+msgstr "PRINT SCREEN"
+
+msgid "KeyNames.Insert"
+msgstr "INSERT"
+
+msgid "KeyNames.Delete"
+msgstr "DELETE"
+
+msgid "KeyNames.Help"
+msgstr "HELP"
+
+msgid "KeyNames.NumPad0"
+msgstr "NUM 0"
+
+msgid "KeyNames.NumPad1"
+msgstr "NUM 1"
+
+msgid "KeyNames.NumPad2"
+msgstr "NUM 2"
+
+msgid "KeyNames.NumPad3"
+msgstr "NUM 3"
+
+msgid "KeyNames.NumPad4"
+msgstr "NUM 4"
+
+msgid "KeyNames.NumPad5"
+msgstr "NUM 5"
+
+msgid "KeyNames.NumPad6"
+msgstr "NUM 6"
+
+msgid "KeyNames.NumPad7"
+msgstr "NUM 7"
+
+msgid "KeyNames.NumPad8"
+msgstr "NUM 8"
+
+msgid "KeyNames.NumPad9"
+msgstr "NUM 9"
+
+msgid "KeyNames.GreyStar"
+msgstr "GREY STAR"
+
+msgid "KeyNames.GreyPlus"
+msgstr "GREY PLUS"
+
+msgid "KeyNames.Separator"
+msgstr "SEPARATOR"
+
+msgid "KeyNames.GreyMinus"
+msgstr "GREY MINUS"
+
+msgid "KeyNames.NumPadPeriod"
+msgstr "NUM ."
+
+msgid "KeyNames.GreySlash"
+msgstr "GRAY SLASH"
+
+msgid "KeyNames.Pause"
+msgstr "PAUSE"
+
+msgid "KeyNames.CapsLock"
+msgstr "CAPSLOCK"
+
+msgid "KeyNames.Tab"
+msgstr "TAB"
+
+msgid "KeyNames.Enter"
+msgstr "ENTER"
+
+msgid "KeyNames.Shift"
+msgstr "SHIFT"
+
+msgid "KeyNames.NumLock"
+msgstr "NUMLOCK"
+
+msgid "KeyNames.Escape"
+msgstr "ESCAPE"
+
+msgid "Progress.CancelledConnect"
+msgstr "接続の試行がキャンセルされました"
+
+msgid "Progress.RunningNet"
+msgstr "%s: %s (%i 人のプレイヤー)"
+
+msgid "Progress.NetReceiving"
+msgstr "'%s' を受信中: %i/%i"
+
+msgid "Progress.NetReceiveOk"
+msgstr "'%s' の受信が完了しました"
+
+msgid "Progress.NetSend"
+msgstr "'%s' を送信中"
+
+msgid "Progress.NetSending"
+msgstr "'%s' を送信中: %i/%i"
+
+msgid "Progress.Connecting"
+msgstr "接続中 (F10 でキャンセル)..."
+
+msgid "Progress.Loading"
+msgstr "読み込み中"
+
+msgid "Progress.Paused"
+msgstr "%s によって一時停止されました"
+
+msgid "Progress.ReceiveFile"
+msgstr "'%s' を受信中 (F10 でキャンセル)"
+
+msgid "Progress.ReceiveOptionalFile"
+msgstr "オプションファイル '%s' を受信中 ( F10 でスキップ)"
+
+msgid "Progress.ReceiveSize"
+msgstr "サイズ %iK、 %3.1f%% 完了"
+
+msgid "Progress.CorruptConnect"
+msgstr "互換性のないゲームファイルです！"
+
+msgid "ChatRoomMessage.ChatRoomString[0]"
+msgstr "無効なチャンネルまたはチャンネルが見つかりませんでした:'%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[1]"
+msgstr "既にチャンネル '%title%' のメンバーになっています"
+
+msgid "ChatRoomMessage.ChatRoomString[2]"
+msgstr "チャンネル '%title%' にはパスワードが必要です!"
+
+msgid "ChatRoomMessage.ChatRoomString[3]"
+msgstr "チャンネル '%title%' のパスワードが正しくありません"
+
+msgid "ChatRoomMessage.ChatRoomString[4]"
+msgstr "チャンネル '%title%' へのアクセスは禁止されています"
+
+msgid "ChatRoomMessage.ChatRoomString[5]"
+msgstr "チャンネル '%title%'に参加できませんでした。チャンネルが満員です！"
+
+msgid "ChatRoomMessage.ChatRoomString[6]"
+msgstr "チャンネル '%title%' には参加できません"
+
+msgid "ChatRoomMessage.ChatRoomString[7]"
+msgstr "チャンネル '%title%' に正常に参加しました"
+
+msgid "ChatRoomMessage.ChatRoomString[8]"
+msgstr "チャンネル '%title%' から退出しました"
+
+msgid "ChatRoomMessage.ChatRoomString[9]"
+msgstr "現在、チャンネル '%title%' で話しています"
+
+msgid "ChatRoomMessage.ChatRoomString[10]"
+msgstr "もうチャンネル '%title%' では話していません"
+
+msgid "ChatRoomMessage.ChatRoomString[11]"
+msgstr "'%pri%' がチャンネル '%title%' に参加しました"
+
+msgid "ChatRoomMessage.ChatRoomString[12]"
+msgstr "'%pri%' がチャンネル '%title%'から退出しました"
+
+msgid "ChatRoomMessage.ChatRoomString[13]"
+msgstr "あなたの個人チャットチャンネルへの'%pri%'の参加を禁止しました"
+
+msgid "ChatRoomMessage.ChatRoomString[14]"
+msgstr "ボイスチャット禁止は成功しませんでした。指定された ID "
+"のプレイヤーが見つかりませんでした"
+
+msgid "ChatRoomMessage.ChatRoomString[15]"
+msgstr "このサーバーではボイスチャットが有効になっていません"
+
+msgid "PlayerController.ViewingFrom"
+msgstr "現在観戦中"
+
+msgid "PlayerController.OwnCamera"
+msgstr "自分の視点から観戦中"
+
+msgid "Errors.RequestDenied"
+msgstr "サーバーが保留中のレベルからのファイルを要求して拒否されました"
+
+msgid "Errors.NetListen"
+msgstr "リッスンに失敗しました:リンカーコンテキストが使用できません"
+
+msgid "Errors.FailedBrowse"
+msgstr "%s への参加に失敗しました:%s"
+
+msgid "Errors.AbortToEntry"
+msgstr "参加を中断しました"
+
+msgid "Progress.Listening"
+msgstr "クライアントをリッスン中......"
+
+msgid "ChatRoomMessage.AnonText"
+msgstr "だれか"
