@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 17:48+0000\n"
+"PO-Revision-Date: 2025-11-10 15:09+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/ja/>\n"
@@ -90,13 +90,13 @@ msgid "DHConstruction_ConcertinaWire.MenuName"
 msgstr "バリケード"
 
 msgid "DHConstruction_ConcertinaWire.MenuDescription"
-msgstr "歩兵と軽車両の妨害に適する"
+msgstr "歩兵と軽車両の通行を防ぐのに効果的"
 
 msgid "DHConstruction_DragonsTooth.MenuName"
 msgstr "\"竜の歯\""
 
 msgid "DHConstruction_DragonsTooth.MenuDescription"
-msgstr "あらゆる車両の通行を妨げるのに有効"
+msgstr "あらゆる車両の通行を妨害するのに効果的"
 
 msgid "DHConstruction_Foxhole.MenuName"
 msgstr "タコツボ"
@@ -105,7 +105,7 @@ msgid "DHConstruction_Hedgehog.MenuName"
 msgstr "\"チェコの針鼠\""
 
 msgid "DHConstruction_Hedgehog.MenuDescription"
-msgstr "軽・中車両の通行を妨げるのに適する"
+msgstr "軽・中車両の通行を妨害するのに有効"
 
 msgid "DHConstruction_PlatoonHQ.MenuDescription"
 msgstr "チームの全員が利用可能なリスポーン地点"
@@ -123,7 +123,7 @@ msgid "DHConstruction_VehiclePool.MenuName"
 msgstr "車両出撃地点（VP）"
 
 msgid "DHConstruction_VehiclePool.MenuDescription"
-msgstr "チーム全体で使える車両出撃地点"
+msgstr "チーム全体で使える車両の出撃地点"
 
 msgid "DHConstruction_Watchtower.MenuName"
 msgstr "監視塔"
