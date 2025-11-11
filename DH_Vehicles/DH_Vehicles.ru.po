@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 18:43+0000\n"
+"PO-Revision-Date: 2025-11-12 19:09+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
@@ -1286,7 +1286,7 @@ msgid "DH_EyeN.VehicleNameString"
 msgstr "Скверный глаз"
 
 msgid "DH_EyeW.VehicleNameString"
-msgstr "Безнравственный глаз"
+msgstr "Крутейший глаз"
 
 msgid "DH_DieGlocke.VehicleNameString"
 msgstr "\"Колокол\""
