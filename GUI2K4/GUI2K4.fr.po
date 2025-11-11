@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-10 15:09+0000\n"
+"PO-Revision-Date: 2025-11-11 18:43+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/fr/>\n"
@@ -115,3 +115,129 @@ msgstr "Un mot de passe est requis pour jouer sur ce serveur."
 
 msgid "UT2K4GetPassword.GetPassPW.Caption"
 msgstr "Mot de Passe Serveur"
+
+msgid "UT2K4PerformWarn.DialogText2.Caption"
+msgstr "Le changement que vous apportez peut nuire à votre performance."
+
+msgid "UT2K4PerformWarn.HideCheckbox.Caption"
+msgstr "  Ne pas afficher cet avertissement de nouveau"
+
+msgid "UT2K4PerformWarn.HideCheckbox.Hint"
+msgstr ""
+"Cochez ceci pour désactiver l'affichage des messages d'avertissement lors de "
+"l'ajustement des propriétés dans le menu Paramètres"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[1]"
+msgstr "Simple"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[2]"
+msgstr "Complet"
+
+msgid "UT2K4Tab_DetailSettings.PanelCaption"
+msgstr "Affichage"
+
+msgid "UT2K4Tab_HudSettings.PanelCaption"
+msgstr "HUD"
+
+msgid "UT2K4Tab_IForceSettings.PanelCaption"
+msgstr "Entrée"
+
+msgid "UT2K4Tab_MainBase.MessageNoInfo"
+msgstr "Aucune information disponible !"
+
+msgid "UT2K4Tab_MidGameVoiceChat.NOSPEECH.Hint"
+msgstr ""
+"Ne jamais recevoir de messages vocaux comme \"À couvert !\" de ce joueur"
+
+msgid "UT2K4VideoChangeOK.RestoreText"
+msgstr "(Les paramètres d'origine seront restaurés dans %count% %seconds%)"
+
+msgid "UT2K4VideoChangeOK.SecondText"
+msgstr "seconde"
+
+msgid "UT2K4VideoChangeOK.SecondsText"
+msgstr "secondes"
+
+msgid "UT2K4VideoChangeOK.lbText.Caption"
+msgstr "Valider ces paramètres ?"
+
+msgid "UT2K4VideoChangeOK.lbText2.Caption"
+msgstr "(Les paramètres d'origine seront restaurés dans 15 secondes)"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<0>"
+msgstr "Pseudo"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<1>"
+msgstr "Score"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<2>"
+msgstr "Grade"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<3>"
+msgstr "Ping"
+
+msgid "UT2k4Browser_RulesList.TrueString"
+msgstr "Activé"
+
+msgid "UT2k4Browser_RulesList.FalseString"
+msgstr "Désactivé"
+
+msgid "UT2k4Browser_RulesList.AdminNameString"
+msgstr "Admin Serveur"
+
+msgid "UT2k4Browser_RulesList.AdminEmailString"
+msgstr "Adresse Mail Admin"
+
+msgid "UT2k4Browser_RulesList.MutatorString"
+msgstr "Mutator"
+
+msgid "UT2k4Browser_RulesList.TimeLimitString"
+msgstr "Limite de Temps"
+
+msgid "UT2k4Browser_RulesList.MinPlayersString"
+msgstr "Joueurs Minimum (bots)"
+
+msgid "UT2k4Browser_RulesList.MapVotingString"
+msgstr "Vote de Carte"
+
+msgid "UT2k4Browser_RulesList.KickVotingString"
+msgstr "Vote de Kick"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<0>"
+msgstr "Paramètre"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<1>"
+msgstr "Valeur"
+
+msgid "UT2k4Browser_ServerListPageBase.PingingText"
+msgstr "Ping en cours ( %NumRec% / %TotalNum% )"
+
+msgid "UT2k4Browser_ServerListPageBase.PingCompleteText"
+msgstr "Ping complet ! %NumServers% Serveurs, %NumPlayers% Joueurs"
+
+msgid "UT2k4Browser_ServerListPageBase.QueryCompleteString"
+msgstr "Requête complète ! Reçu : %NumServers% Serveurs"
+
+msgid "UT2k4Browser_ServerListPageFavorites.RemoveFavoriteText"
+msgstr "Retirer des Favoris"
+
+msgid "UT2k4Browser_ServerListPageFavorites.EditFavoriteText"
+msgstr "Modifier Adresse IP"
+
+msgid "UT2k4Browser_ServerListPageFavorites.PanelCaption"
+msgstr "Liste de Serveurs : Favoris"
+
+msgid "UT2k4Browser_ServerListPageLAN.PanelCaption"
+msgstr "Liste de Serveurs : LAN"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<1>"
+msgstr "Nom du Serveur"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<2>"
+msgstr "Carte"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<3>"
+msgstr "Joueurs"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<4>"
+msgstr "Ping"
