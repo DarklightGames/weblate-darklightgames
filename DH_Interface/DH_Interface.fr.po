@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-10 15:09+0000\n"
+"PO-Revision-Date: 2025-11-11 18:43+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/fr/>\n"
@@ -1085,7 +1085,7 @@ msgid "DHTab_Controls.captions_comm[7]"
 msgstr "Sélectionner Canal Vocal Commandement"
 
 msgid "DHTab_Controls.captions_comm[8]"
-msgstr "Sélectionner Canal Vocal Local"
+msgstr "Sélectionner Canal Vocal de Proximité"
 
 msgid "DHTab_Controls.captions_comm[9]"
 msgstr "Sélectionner Canal Vocal Non Assigné"
@@ -1421,3 +1421,217 @@ msgstr "Pas de démembrement, décapitation ou d'effets de sang"
 
 msgid "DHTab_GameSettings.PlayerName.Caption"
 msgstr "Pseudo"
+
+msgid "DHTab_GameSettings.Netspeed.Hint"
+msgstr ""
+"Votre vitesse Internet maximale souhaitée (en Octets par Seconde). Les "
+"serveurs peuvent définir une vitesse client maximale, ce qui passera outre "
+"de ce paramètre."
+
+msgid "DHTab_GameSettings.PlayersROID.Caption"
+msgstr ""
+"Vous devez d'abord rejoindre une partie multijoueur avant que votre ID ne "
+"soit affiché"
+
+msgid "DHTab_GameSettings.PurgeCacheDays.Caption"
+msgstr "Purger Cache"
+
+msgid "DHTab_GameSettings.PurgeCacheDays.Hint"
+msgstr ""
+"À quelle fréquence supprimer les fichiers personnalisés téléchargés à partir "
+"de serveurs"
+
+msgid "DHTab_GameSettings.ThrottleOtherVehicles.Caption"
+msgstr "Accélérateur Progressif - Autres Véhicules"
+
+msgid "DHTab_GameSettings.ThrottleOtherVehicles.Hint"
+msgstr ""
+"Utilise un accélérateur progressif pour les véhicules autres que les chars, "
+"non recommandé"
+
+msgid "DHTab_GameSettings.ThrottleTanks.Caption"
+msgstr "Accélérateur Progressif - Chars"
+
+msgid "DHTab_GameSettings.ThrottleTanks.Hint"
+msgstr ""
+"Utilise un accélérateur progressif pour les chars, utile pour les longues "
+"distances"
+
+msgid "DHTab_GameSettings.ViewFOV.Caption"
+msgstr "Champ De Vision (FOV) Normal"
+
+msgid "DHTab_Input.InputScopedFactor.Caption"
+msgstr "Sensibilité Lunette/Jumelles"
+
+msgid "DHTab_Input.InputUseJoystick.Caption"
+msgstr "Activer Manette"
+
+msgid "DHTab_MainSP.MapCaptionText"
+msgstr "Cartes de {game}"
+
+msgid "DHTab_MainSP.MapAuthorText"
+msgstr "Auteur : {author}"
+
+msgid "DHTab_MainSP.MapPlayersText"
+msgstr "{min} joueurs"
+
+msgid "DHTab_MainSP.MapPlayersRangeText"
+msgstr "{min}-{max} joueurs"
+
+msgid "DHTab_MainSP.MaplistButton.ButtonCaption"
+msgstr "Paramétrage Liste de Cartes"
+
+msgid "DHTab_MainSP.NoPreview.Caption"
+msgstr "Aucun Aperçu Disponible"
+
+msgid "DHTab_MainSP.RecommendedPlayers.Caption"
+msgstr "Idéal pour 4 à 8 joueurs"
+
+msgid "DHTab_MainSP.ScrollSection.Caption"
+msgstr "Description Carte"
+
+msgid "DHTab_MainSP.SelectionGroup.Caption"
+msgstr "Sélection de Carte"
+
+msgid "DHTab_MutatorSP.ActiveBackground.Caption"
+msgstr "Mutators Actifs"
+
+msgid "DHTab_MutatorSP.AvailBackground.Caption"
+msgstr "Mutators Disponibles"
+
+msgid "DHTab_MutatorSP.DescriptionBackground.Caption"
+msgstr "Détails du Mutator"
+
+msgid "DHTab_MutatorSP.IAMutatorAll.Caption"
+msgstr "Ajouter Tout"
+
+msgid "DHTab_MutatorSP.IAMutatorClear.Caption"
+msgstr "Tout Retirer"
+
+msgid "DHTab_MutatorSP.IAMutatorConfig.Caption"
+msgstr "Configurer Mutators"
+
+msgid "DHTab_ServerRulesPanel.AdvancedButton.Caption"
+msgstr "Options Avancées"
+
+msgid "DHTab_ServerRulesPanel.EnableWebadmin.Caption"
+msgstr "Activer WebAdmin"
+
+msgid "DHTab_ServerRulesPanel.LANServer.Caption"
+msgstr "Serveur LAN"
+
+msgid "DHTab_ServerRulesPanel.WebadminPort.Caption"
+msgstr "Port WebAdmin"
+
+msgid "DHVideoChangePrompt.bCancel.Caption"
+msgstr "Restaurer Paramétrage"
+
+msgid "DHVideoChangePrompt.bOk.Caption"
+msgstr "Garder Paramétrage"
+
+msgid "DHTab_Input.InputMouseSmoothing.Caption"
+msgstr "Lissage de Souris"
+
+msgid "DHTab_Input.InputMouseSmoothStr.Caption"
+msgstr "Puissance Lissage Souris"
+
+msgid "DHTab_Input.InputMouseSensitivity.Caption"
+msgstr "Sensibilité Souris (Jeu)"
+
+msgid "DHTab_Input.InputMousePollRate.Caption"
+msgstr "Taux de Polling Souris"
+
+msgid "DHTab_Input.InputMouseLag.Hint"
+msgstr "Activer cette option réduira la latence de votre souris."
+
+msgid "DHTab_Input.InputMouseLag.Caption"
+msgstr "Réduire Latence Souris"
+
+msgid "DHTab_Input.InputMouseAccel.Caption"
+msgstr "Seuil Accélération Souris"
+
+msgid "DHTab_Input.InputMenuSensitivity.Caption"
+msgstr "Sensibilité Souris (Menus)"
+
+msgid "DHTab_Input.InputIronSightFactor.Caption"
+msgstr "Sensibilité Visée"
+
+msgid "DHTab_Input.InputIronSightBipodFactor.Caption"
+msgstr "Sensibilité Arme Déployée"
+
+msgid "DHTab_Input.InputInvertMouse.Caption"
+msgstr "Inverser Souris"
+
+msgid "DHTab_Input.InputBK3.Caption"
+msgstr "Réglage Fin"
+
+msgid "DHTab_Input.InputAutoSlope.Caption"
+msgstr "Auto Slope"
+
+msgid "DHTab_Hud.myHudScale.Caption"
+msgstr "Taille HUD"
+
+msgid "DHTab_Hud.myGameHudOpacity.Caption"
+msgstr "Transparence HUD"
+
+msgid "DHTab_Hud.UseTechnicalAmmoNames.Caption"
+msgstr "Utiliser Noms Techniques de Munitions (Chars/Canons)"
+
+msgid "DHTab_Hud.UseNativeRoleNames.Caption"
+msgstr "Utiliser Noms Natifs des Classes"
+
+msgid "DHTab_Hud.UseNativeItemNames.Caption"
+msgstr "Utiliser Noms Natifs des Objets"
+
+msgid "DHTab_Hud.ShowMapFirstSpawn.Caption"
+msgstr "Afficher la Carte lors du Premier Spawn"
+
+msgid "DHTab_Hud.ShowCompass.Caption"
+msgstr "Afficher Boussole"
+
+msgid "DHTab_Hud.ShowChatMessages.Hint"
+msgstr ""
+"Afficher les messages de chat des joueurs et du serveur. Les messages "
+"peuvent quand même être lus dans la console."
+
+msgid "DHTab_Hud.ShowChatMessages.Caption"
+msgstr "Afficher Messages du Chat"
+
+msgid "DHTab_Hud.HintsCombo.Caption"
+msgstr "Niveau d'Indices"
+
+msgid "DHTab_Hud.GameHudVisible.Caption"
+msgstr "Cacher HUD"
+
+msgid "DHTab_Hud.GameHudSimpleColours.Hint"
+msgstr "Couleurs du HUD rouges/bleues, pour les joueurs daltoniens."
+
+msgid "DHTab_Hud.GameHudSimpleColours.Caption"
+msgstr "Couleurs HUD Simples"
+
+msgid "DHTab_Hud.GameHudShowWeaponInfo.Caption"
+msgstr "Afficher Informations Arme"
+
+msgid "DHTab_Hud.GameHudShowPersonalInfo.Caption"
+msgstr "Afficher Informations Personnelles"
+
+msgid "DHTab_Hud.GameHudShowDeathMessages.Caption"
+msgstr "Afficher Messages de Mort"
+
+msgid "DHTab_Hud.GameHudMessageScale.Caption"
+msgstr "Taille de Police du Chat"
+
+msgid "DHTab_GameSettings.ViewFOV.Hint"
+msgstr ""
+"Quelle part du monde peut être vue sur toute la largeur de votre écran. Un "
+"FOV plus bas donne une vue légèrement plus zoomée, tandis qu'un FOV plus "
+"élevé est moins zoomé mais donne une vision périphérique supplémentaire. "
+"Remarque - un moniteur à écran large ne donne pas une largeur de vision "
+"supplémentaire ; la même vue est répartie sur l'écran plus large et le haut "
+"et le bas sont recadrés."
+
+msgid "DHTab_Hud.GameHudMessageCount.Caption"
+msgstr "Nombre Chat Maximum"
+
+msgid "DHTab_Hud.GameHudMessageOffset.Caption"
+msgstr "Décalage Police de Message"
