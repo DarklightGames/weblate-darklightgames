@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-10 15:09+0000\n"
+"PO-Revision-Date: 2025-11-11 07:54+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ja/>\n"
@@ -374,6 +374,7 @@ msgstr "Nbgr.Kw.K(Smoke)"
 msgid "DH_HetzerDestroyer.VehicleNameString"
 msgstr "Jagdpanzer 38(t) 'Hetzer'"
 
+#, fuzzy
 msgid "DH_HetzerVehicleMessage.MGBlockingHatch"
 msgstr "リモコン機銃がハッチを塞いでいます:横に回すと開きます"
 
