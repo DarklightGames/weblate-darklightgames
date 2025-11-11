@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 07:54+0000\n"
-"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
+"PO-Revision-Date: 2025-11-12 19:09+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ja/>\n"
 "Language: ja\n"
@@ -143,9 +143,8 @@ msgstr "Fiat mod. 35"
 msgid "DH_Fiat1435Gun_WC.VehicleNameString"
 msgstr "Fiat mod. 14"
 
-#, fuzzy
 msgid "DH_Flak38Gun.VehicleNameString"
-msgstr "2,0cm FlaK 38"
+msgstr "2,0cm Flak 38"
 
 msgid "DH_Flak88Cannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
@@ -153,9 +152,8 @@ msgstr "PzGr.39"
 msgid "DH_Flak88Cannon.nProjectileDescriptions<1>"
 msgstr "Schw.Sprgr.Patr."
 
-#, fuzzy
 msgid "DH_Flak88Gun.VehicleNameString"
-msgstr "8,8cm FlaK 36"
+msgstr "8,8cm Flak 36"
 
 msgid "DH_Flakvierling38Gun.VehicleNameString"
 msgstr "2,0cm Flakvierling 38"
@@ -201,3 +199,12 @@ msgstr "APCR"
 
 msgid "DH_ZiS3CannonLate.ProjectileDescriptions<2>"
 msgstr "APCR"
+
+msgid "DH_M116Cannon.ProjectileDescriptions<1>"
+msgstr "HEAT"
+
+msgid "DH_M1927Cannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_M1927Cannon.ProjectileDescriptions<1>"
+msgstr "HEAT"
