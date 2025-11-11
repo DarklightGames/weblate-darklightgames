@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-04 01:09+0000\n"
+"PO-Revision-Date: 2025-11-11 07:54+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -426,9 +426,11 @@ msgstr ""
 "Trop près d'un objectif non-contrôlé ({string}), il faut être {integer}m "
 "plus loin."
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<24>"
 msgstr "Vous devez {verb} un {name} dans les {integer}m d'un {string} allié"
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<27>"
 msgstr "Cette alvéole est déjà occupée"
 
@@ -453,12 +455,14 @@ msgstr "Trop près d'un objectif ({string}), il faut être {integer}m plus loin.
 msgid "DHConstruction_Vehicle.ConstructionVerb"
 msgstr "enterrer"
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<25>"
 msgstr "Vous ne pouvez pas {verb} un {name} en territoire ennemi"
 
 msgid "DHConstructionGroup_Guns.GroupName"
 msgstr "Canons"
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<26>"
 msgstr "Plus de {name} disponibles"
 
