@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 07:54+0000\n"
+"PO-Revision-Date: 2025-11-11 18:43+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/es/>\n"
@@ -516,11 +516,10 @@ msgstr "Humo"
 msgid "DH_ShermanCannon_M4A3105_Howitzer.nProjectileDescriptions<1>"
 msgstr "M60 WP"
 
-#, fuzzy
 msgid "DH_HetzerVehicleMessage.MGBlockingHatch"
 msgstr ""
-"La ametralladora esta bloqueando la escotilla - Gírala hacia los lados para "
-"abrir la escotilla"
+"¡La ametralladora esta bloqueando la escotilla! - Gírala hacia tus 8 en "
+"punto para abrir la escotilla"
 
 msgid "DH_ISU152Cannon.nProjectileDescriptions<0>"
 msgstr "OF-540"
@@ -1250,3 +1249,27 @@ msgstr "Gr.39 Hl/C"
 
 msgid "DH_WespeTank.VehicleNameString"
 msgstr "Sd.Kfz. 124 'Wespe'"
+
+msgid "DH_DieGlocke.VehicleNameString"
+msgstr "La Campana"
+
+msgid "DH_EyeE.VehicleNameString"
+msgstr "Ojo malvado"
+
+msgid "DH_EyeN.VehicleNameString"
+msgstr "Ojo nefasto"
+
+msgid "DH_EyeW.VehicleNameString"
+msgstr "Ojo embrujado"
+
+msgid "DH_UFO.VehicleNameString"
+msgstr "Objeto volador no identificado"
+
+msgid "DH_UFOBlue.VehicleNameString"
+msgstr "OVNI Azul del dolor"
+
+msgid "DH_UFOGreen.VehicleNameString"
+msgstr "OVNI Verde de la Lealtad"
+
+msgid "DH_UFORed.VehicleNameString"
+msgstr "OVNI Rojo de la furia"
