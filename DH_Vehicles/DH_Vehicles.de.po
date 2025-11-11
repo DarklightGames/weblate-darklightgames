@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 07:54+0000\n"
+"PO-Revision-Date: 2025-11-11 18:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/de/>\n"
@@ -243,9 +243,8 @@ msgstr "HE"
 msgid "DH_HetzerDestroyer.VehicleNameString"
 msgstr "Jagdpanzer 38(t) 'Hetzer'"
 
-#, fuzzy
 msgid "DH_HetzerVehicleMessage.MGBlockingHatch"
-msgstr "MG versperrt die Luke - drehe es zur Seite um zu öffnen"
+msgstr "Luke versperrt! Drehe das MG auf 8 Uhr um sie freizustellen."
 
 msgid "DH_HigginsBoat.VehicleNameString"
 msgstr "Higgins Boot"
@@ -1662,3 +1661,27 @@ msgstr "M88 HC"
 
 msgid "DH_T3485Cannon_Berlin.nProjectileDescriptions<1>"
 msgstr "BR-365P"
+
+msgid "DH_DieGlocke.VehicleNameString"
+msgstr "Die Glocke"
+
+msgid "DH_EyeE.VehicleNameString"
+msgstr "Teufelsauge"
+
+msgid "DH_EyeN.VehicleNameString"
+msgstr "Schandauge"
+
+msgid "DH_EyeW.VehicleNameString"
+msgstr "Schmähauge"
+
+msgid "DH_UFO.VehicleNameString"
+msgstr "Undefiniertes fantastisches Objekt"
+
+msgid "DH_UFOBlue.VehicleNameString"
+msgstr "Blaues UFO der Trauer"
+
+msgid "DH_UFOGreen.VehicleNameString"
+msgstr "Grünes UFO der Treue"
+
+msgid "DH_UFORed.VehicleNameString"
+msgstr "Rotes UFO des Zorns"
