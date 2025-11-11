@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 17:48+0000\n"
+"PO-Revision-Date: 2025-11-11 18:43+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/ja/>\n"
@@ -18,7 +18,7 @@ msgid "DH_AVT40Weapon.ItemName"
 msgstr "AVT-40"
 
 msgid "DH_BARNoBipodWeapon.ItemName"
-msgstr "B.A.R. M1918A2 (二脚なし)"
+msgstr "B.A.R. M1918A2 (w/o Bipod)"
 
 msgid "DH_BARWeapon.ItemName"
 msgstr "B.A.R. M1918A2"
@@ -45,16 +45,16 @@ msgid "DH_C96Weapon.ItemName"
 msgstr "Mauser C96"
 
 msgid "DH_CarcanoM9138CarbineWeapon.ItemName"
-msgstr "Carcano Moschetto M1891/38(騎兵銃 銃剣折りたたみ式)"
+msgstr "Carcano Moschetto mod. 91/38"
 
 msgid "DH_CarcanoM9138ShortRifleWeapon.ItemName"
-msgstr "Carcano Fucile Corto mod. 91/38(短小銃)"
+msgstr "Carcano Fucile Corto mod. 91/38"
 
 msgid "DH_CarcanoM9138TSCarbineWeapon.ItemName"
-msgstr "Carcano Moschetto TS mod. 91/38(騎兵銃 銃剣着脱式)"
+msgstr "Carcano Moschetto TS mod. 91/38"
 
 msgid "DH_CarcanoM91Weapon.ItemName"
-msgstr "Carcano Fucile mod. 91(歩兵小銃)"
+msgstr "Carcano Fucile mod. 91"
 
 msgid "DH_ColtM1911Weapon.ItemName"
 msgstr "Colt M1911A1"
@@ -81,10 +81,10 @@ msgid "DH_EnfieldNo2Weapon.ItemName"
 msgstr "Enfield No.2"
 
 msgid "DH_EnfieldNo4ScopedWeapon.ItemName"
-msgstr "Enfield No.4 Mk.I (T) (No.32スコープ付き)"
+msgstr "Enfield No.4 Mk.I (T) (No.32)"
 
 msgid "DH_EnfieldNo4Weapon.ItemName"
-msgstr "Lee Enfield No.4 小銃"
+msgstr "Lee Enfield No.4"
 
 msgid "DH_F1GrenadeWeapon.NativeItemName"
 msgstr "F1 Granata"
@@ -96,7 +96,7 @@ msgid "DH_FG42ScopedWeapon.NativeItemName"
 msgstr "Fallschirmjägergewehr 42 (ZFG42)"
 
 msgid "DH_FG42ScopedWeapon.ItemName"
-msgstr "FG 42(ZFG42付き)"
+msgstr "FG 42(ZFG42)"
 
 msgid "DH_FG42Weapon.NativeItemName"
 msgstr "Fallschirmjägergewehr 42"
@@ -114,7 +114,7 @@ msgid "DH_G43ScopedWeapon.NativeItemName"
 msgstr "Gewehr 43 (ZF4)"
 
 msgid "DH_G43ScopedWeapon.ItemName"
-msgstr "G 43 (ZF4付き)"
+msgstr "G 43 (ZF4)"
 
 msgid "DH_G43Weapon.NativeItemName"
 msgstr "Gewehr 43"
@@ -147,13 +147,13 @@ msgid "DH_Kar98NoCoverWeapon.ItemName"
 msgstr "Kar 98k (照星カバーなし)"
 
 msgid "DH_Kar98ScopedWeapon.NativeItemName"
-msgstr "Karabiner 98k (ZF39付き)"
+msgstr "Karabiner 98k (ZF39)"
 
 msgid "DH_Kar98ScopedWeapon.ItemName"
-msgstr "Kar 98k (ZF39付き)"
+msgstr "Kar 98k (ZF39)"
 
 msgid "DH_Kar98ScopedZF41Weapon.ItemName"
-msgstr "Karabiner 98k (ZF41付き)"
+msgstr "Karabiner 98k (ZF41)"
 
 msgid "DH_Kar98Weapon.NativeItemName"
 msgstr "Karabiner 98k"
@@ -255,7 +255,223 @@ msgid "DH_Kz8cmGrW42Weapon.ItemName"
 msgstr "Kz 8cm GrW 42 迫撃砲"
 
 msgid "DH_LtypeGrenadeWeapon.ItemName"
-msgstr "\"O.T.O Tipo L\" 対戦車手榴弾"
+msgstr "O.T.O Tipo L 対戦車手榴弾"
 
 msgid "DH_M1924Weapon.ItemName"
 msgstr "M1924 小銃"
+
+msgid "DH_M1928_20rndWeapon.ItemName"
+msgstr "M1928A1 Thompson (20発マガジン)"
+
+msgid "DH_M1928_30rndWeapon.ItemName"
+msgstr "M1928A1 Thompson (30発マガジン)"
+
+msgid "DH_M1928_50rndWeapon.ItemName"
+msgstr "M1928A1 Thompson (50発マガジン)"
+
+msgid "DH_M1A1CarbineWeapon.ItemName"
+msgstr "M1A1 Carbine"
+
+msgid "DH_M1CarbineWeapon.ItemName"
+msgstr "M1 Carbine"
+
+msgid "DH_M1GarandWeapon.ItemName"
+msgstr "M1 Garand"
+
+msgid "DH_M1GrenadeWeapon.ItemName"
+msgstr "Mk II 手榴弾"
+
+msgid "DH_M1T17CarbineWeapon.ItemName"
+msgstr "M2 Carbine"
+
+msgid "DH_M2MortarVehicle.VehicleNameString"
+msgstr "60mm M2 迫撃砲"
+
+msgid "DH_M2MortarWeapon.ItemName"
+msgstr "60mm M2 迫撃砲"
+
+msgid "DH_M34GrenadeWeapon.ItemName"
+msgstr "RG vz.34 手榴弾"
+
+msgid "DH_M38Weapon.ItemName"
+msgstr "Mosin M38"
+
+msgid "DH_M44Weapon.ItemName"
+msgstr "Mosin M44"
+
+msgid "DH_M712Weapon.ItemName"
+msgstr "Mauser M712 'Schnellfeuer'"
+
+msgid "DH_M9530Weapon.ItemName"
+msgstr "Mannlicher M95/30"
+
+msgid "DH_M9531Weapon.ItemName"
+msgstr "Mannlicher M95 '31.M'"
+
+msgid "DH_MAB38Weapon.ItemName"
+msgstr "MAB mod. 38-A"
+
+msgid "DH_MAB42Weapon.ItemName"
+msgstr "MAB mod. 38-A/42"
+
+msgid "DH_MG34Weapon.ItemName"
+msgstr "MG34"
+
+msgid "DH_MG42Weapon.ItemName"
+msgstr "MG42"
+
+msgid "DH_MKB42HWeapon.ItemName"
+msgstr "Mkb 42(H)"
+
+msgid "DH_MN9130ScopedPEWeapon.ItemName"
+msgstr "Mosin M91/30 (PE)"
+
+msgid "DH_MN9130ScopedWeapon.ItemName"
+msgstr "Mosin M91/30 (PU)"
+
+msgid "DH_STG44ScopedWeapon.ItemName"
+msgstr "StG 44 (ZF4)"
+
+msgid "DH_SVT40ScopedWeapon.ItemName"
+msgstr "SVT-40 (PU)"
+
+msgid "DH_SpringfieldScopedWeapon.ItemName"
+msgstr "M1903A4 Springfield (M73 'Weaver')"
+
+msgid "DH_Vz24ScopedWeapon.ItemName"
+msgstr "Vz.24 (IOR)"
+
+msgid "DH_Vz24Weapon.ItemName"
+msgstr "Vz.24"
+
+msgid "DH_MN9130Weapon.ItemName"
+msgstr "Mosin M91/30"
+
+msgid "DH_MP3008Weapon.ItemName"
+msgstr "MP 3008"
+
+msgid "DH_MP38Weapon.ItemName"
+msgstr "MP 38"
+
+msgid "DH_MP40Ammo.ItemName"
+msgstr "32rd 9mm Magazine"
+
+msgid "DH_MP40Weapon.ItemName"
+msgstr "MP 40"
+
+msgid "DH_MP41RWeapon.ItemName"
+msgstr "MP 41(r)"
+
+msgid "DH_MP41Weapon.ItemName"
+msgstr "MP 41"
+
+msgid "DH_RPG43GrenadeWeapon.ItemName"
+msgstr "RPG-43 対戦車手榴弾"
+
+msgid "DH_SRCMMod35GrenadeWeapon.ItemName"
+msgstr "SRCM mod. 35 手榴弾"
+
+msgid "DH_SRCMMod35SmokeGrenadeWeapon.ItemName"
+msgstr "SRCM mod. 35 発煙手榴弾"
+
+msgid "DH_StielGranateWeapon.ItemName"
+msgstr "M24 柄付手榴弾"
+
+msgid "DH_MillsBombWeapon.ItemName"
+msgstr "Mills 手榴弾"
+
+msgid "DH_Nagant1895BramitWeapon.ItemName"
+msgstr "Nagant M1895 (BraMit)"
+
+msgid "DH_Nagant1895Weapon.ItemName"
+msgstr "Nagant M1895"
+
+msgid "DH_P08LugerWeapon.ItemName"
+msgstr "Luger P08"
+
+msgid "DH_P38Weapon.ItemName"
+msgstr "Walther P38"
+
+msgid "DH_PIATWeapon.ItemName"
+msgstr "PIAT"
+
+msgid "DH_PPD40Weapon.ItemName"
+msgstr "PPD-40"
+
+msgid "DH_PPS43Ammo.ItemName"
+msgstr "PPS43 マガジン"
+
+msgid "DH_PPS43Weapon.ItemName"
+msgstr "PPS-43"
+
+msgid "DH_PPSH41_StickWeapon.ItemName"
+msgstr "PPSh-41 (35発マガジン)"
+
+msgid "DH_PPSh41Ammo.ItemName"
+msgstr "71発 7.62mm マガジン"
+
+msgid "DH_PPSh41Weapon.ItemName"
+msgstr "PPSh-41"
+
+msgid "DH_PTRDWeapon.ItemName"
+msgstr "PTRD-41"
+
+msgid "DH_PanzerFaustWeapon.ItemName"
+msgstr "Panzerfaust 60"
+
+msgid "DH_PanzerschreckWeapon.ItemName"
+msgstr "RPzB 54 'Panzerschreck'"
+
+msgid "DH_STG44Weapon.ItemName"
+msgstr "StG 44"
+
+msgid "DH_SVT38Weapon.ItemName"
+msgstr "SVT-38"
+
+msgid "DH_SVT40Weapon.ItemName"
+msgstr "SVT-40"
+
+msgid "DH_SatchelCharge10lb10sWeapon.ItemName"
+msgstr "3KG 梱包爆薬"
+
+msgid "DH_SpringfieldA1Weapon.ItemName"
+msgstr "Springfield M1903A1"
+
+msgid "DH_StenMkIICWeapon.ItemName"
+msgstr "STEN Mk.II"
+
+msgid "DH_StenMkIIIWeapon.ItemName"
+msgstr "STEN Mk.III"
+
+msgid "DH_StenMkIIWeapon.ItemName"
+msgstr "STEN Mk.II"
+
+msgid "DH_StenMkVWeapon.ItemName"
+msgstr "STEN Mk.V"
+
+msgid "DH_TT33Weapon.ItemName"
+msgstr "TT-33"
+
+msgid "DH_ThompsonWeapon.ItemName"
+msgstr "M1A1 Thompson"
+
+msgid "DH_VG15Weapon.ItemName"
+msgstr "VG 1-5"
+
+msgid "DH_VK98Weapon.ItemName"
+msgstr "VK 98"
+
+msgid "DH_ViSWeapon.ItemName"
+msgstr "Radom ViS wz.35"
+
+msgid "DH_Winchester1897Weapon.ItemName"
+msgstr "Winchester M1897"
+
+msgid "DH_WitchEnder666Weapon.ItemName"
+msgstr "WitchEnder 666 'Satan's Bane'"
+
+msgid "DH_Wz35Weapon.ItemName"
+msgstr "Fucile Controcarro 35(P)"
+
+msgid "DH_ZB30Weapon.ItemName"
+msgstr "ZB vz.30"
