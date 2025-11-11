@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-08 06:43+0000\n"
+"PO-Revision-Date: 2025-11-11 07:54+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pl/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHAlliedAntiTankRoles.PluralName"
 msgstr "Żołnierze Przeciwpancerni"
@@ -1145,9 +1145,11 @@ msgstr "Musisz mieć {integer} członków w twoim oddziale aby {verb} {name}."
 msgid "DHConstructionErrorMessage.ErrorMessages<21>"
 msgstr "Nie mozesz {verb} {name} gdy jesteś zajęty."
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<24>"
 msgstr "Musisz {verb} {name} w obrębie {integer}m od sojuszniczego {string}"
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<25>"
 msgstr "Nie możesz {verb} {name} na terytorium wroga"
 
@@ -1177,9 +1179,11 @@ msgstr "Nie ma składów zasobów w obrębie {integer} metrów."
 msgid "DHConstructionErrorMessage.ErrorMessages<16>"
 msgstr "Niewystarczająco zasobów aby {verb} {name}."
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<26>"
 msgstr "Nie ma więcej dostępnych {name}"
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<27>"
 msgstr "To gniazdo jest już zajęte"
 
