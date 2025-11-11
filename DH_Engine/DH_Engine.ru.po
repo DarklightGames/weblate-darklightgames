@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 07:54+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-11-11 18:43+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
 "Language: ru\n"
@@ -417,19 +417,16 @@ msgstr "Вы не можете {verb} здесь '{name}', поскольку в
 msgid "DHConstructionErrorMessage.ErrorMessages<22>"
 msgstr "Слишком близко к цели ({string}). Отойдите дальше на {integer}м."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<24>"
 msgstr ""
 "Вы можете {verb} {name}только в пределах {integer}м от дружественного "
-"{string}"
+"{string}."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<25>"
-msgstr "Вы не можете {verb} {name} на вражеской территории"
+msgstr "Вы не можете {verb} {name} на вражеской территории."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<26>"
-msgstr "{name} больше не доступно"
+msgstr "{name} больше не доступно."
 
 msgid "DHConstructionGroup_Guns.GroupName"
 msgstr "Орудия"
@@ -2875,9 +2872,8 @@ msgstr " "
 msgid "DHCommandMenu_FireSupport.Options<0>.ActionText"
 msgstr " "
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<27>"
-msgstr "Это место занято"
+msgstr "Это место занято."
 
 msgid "DHCommandPostMessage.ConstructedMessage"
 msgstr "{name} был построен и будет доступен через {seconds} сек."
@@ -2962,3 +2958,9 @@ msgstr "Выстрел невозможен. Орудию что то мешае
 
 msgid "DHHud.TypingPromptText"
 msgstr "Нажмите [{0}] что бы сменить канал чата"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<28>"
+msgstr "Поблизости нету товарищей по отряду."
+
+msgid "DHMapMarker_Enemy_Artillery.MarkerName"
+msgstr "Артиллерия противника"
