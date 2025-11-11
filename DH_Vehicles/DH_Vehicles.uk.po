@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 07:54+0000\n"
-"Last-Translator: Veneamin <martinradovui@gmail.com>\n"
+"PO-Revision-Date: 2025-11-12 19:09+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/uk/>\n"
 "Language: uk\n"
@@ -532,9 +532,8 @@ msgstr "%o була вбита своїм кулеметом калібру .50 
 msgid "DH_ChurchillMkVIITank.VehicleNameString"
 msgstr "Черчилль Mk.VII"
 
-#, fuzzy
 msgid "DH_HetzerVehicleMessage.MGBlockingHatch"
-msgstr "Кулемет блокує люк - поверніть його вбік, щоб відкрити"
+msgstr "Люк заблоковано! Поверніть кулемет но 8 годин, щоб відкрити стулки."
 
 msgid "DH_PanzerIVF1CannonPawn.VehiclePositionString"
 msgstr "в гарматі Panzer IV F1"
@@ -1267,3 +1266,27 @@ msgstr "Gr.39 Hl/C"
 
 msgid "DH_WespeTank.VehicleNameString"
 msgstr "Sd.Kfz. 124 «Веспе»"
+
+msgid "DH_DieGlocke.VehicleNameString"
+msgstr "«Дзвін»"
+
+msgid "DH_EyeE.VehicleNameString"
+msgstr "Лихе око"
+
+msgid "DH_EyeN.VehicleNameString"
+msgstr "Зловісне око"
+
+msgid "DH_EyeW.VehicleNameString"
+msgstr "Лукаве око"
+
+msgid "DH_UFO.VehicleNameString"
+msgstr "Невпізнанний фантастичний об'єкт"
+
+msgid "DH_UFOGreen.VehicleNameString"
+msgstr "Зелене НЛО Вірності"
+
+msgid "DH_UFOBlue.VehicleNameString"
+msgstr "Синє НЛО Скорботи"
+
+msgid "DH_UFORed.VehicleNameString"
+msgstr "Красне НЛО Люті"
