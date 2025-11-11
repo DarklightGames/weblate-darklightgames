@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 07:54+0000\n"
+"PO-Revision-Date: 2025-11-11 18:43+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ru/>\n"
@@ -13,9 +13,8 @@ msgstr ""
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.13.3\n"
 
-#, fuzzy
 msgid "DH_Pak40ATGun.VehicleNameString"
-msgstr "7,5 см ПТ орудие Pak 40"
+msgstr "7,5см Пак 40"
 
 msgid "DH_M1927Cannon.ProjectileDescriptions<0>"
 msgstr "ОФ"
@@ -56,9 +55,8 @@ msgstr "HEAT M66"
 msgid "DH_45mmM1937GunCannon.ProjectileDescriptions<0>"
 msgstr "ББ"
 
-#, fuzzy
 msgid "DH_Flak88Gun.VehicleNameString"
-msgstr "8,8 см орудие Flak 36"
+msgstr "8,8см орудие Flak 36"
 
 msgid "DH_Flak88Cannon.nProjectileDescriptions<1>"
 msgstr "Schw.Sprgr.Patr."
@@ -165,9 +163,8 @@ msgstr "ОФ"
 msgid "DH_6PounderGunCannon.nProjectileDescriptions<0>"
 msgstr "Mk.XT APC"
 
-#, fuzzy
 msgid "DH_Flak38Gun.VehicleNameString"
-msgstr "2 см орудие Flak 38"
+msgstr "2,0см орудие Flak 38"
 
 msgid "DH_PantherturmCannon.nProjectileDescriptions<1>"
 msgstr "PzGr.40/42"
@@ -268,9 +265,8 @@ msgstr "76 мм орудие ЗиС-3"
 msgid "DH_Bofors40mmCannon.nProjectileDescriptions<1>"
 msgstr "M81A1 AP"
 
-#, fuzzy
 msgid "DH_Pak39Gun.VehicleNameString"
-msgstr "5 см орудие KwK 39"
+msgstr "5,0см KwK 39"
 
 msgid "DH_ZiS3Cannon.nProjectileDescriptions<1>"
 msgstr "ОФ-350"
@@ -293,9 +289,8 @@ msgstr "ОФ"
 msgid "DH_LeIG18Gun.VehicleNameString"
 msgstr "7,5 см гаубица le.IG.18"
 
-#, fuzzy
 msgid "DH_Pak43ATGun.VehicleNameString"
-msgstr "8,8 см ПТ орудие Pak 43/41"
+msgstr "8,8см Пак 43/41"
 
 msgid "DH_17PounderGunCannonPawn.RangeText"
 msgstr "Ярды"
@@ -318,9 +313,8 @@ msgstr "ББ"
 msgid "DH_Pak38Cannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
 
-#, fuzzy
 msgid "DH_Pak38ATGun.VehicleNameString"
-msgstr "5 см ПТ орудие Pak 38"
+msgstr "5,0см Пак 38"
 
 msgid "DH_Flakvierling38Gun.VehicleNameString"
 msgstr "2 см орудие Flakvierling 38"
@@ -445,9 +439,8 @@ msgstr "Фиат мод. 35"
 msgid "DH_Fiat1435Gun_WC.VehicleNameString"
 msgstr "Фиат мод. 14"
 
-#, fuzzy
 msgid "DH_Pak36ATGun.VehicleNameString"
-msgstr "3,7 см ПТ орудие Pak 36"
+msgstr "3,7см Пак 36"
 
 msgid "DH_Pak36Cannon.ProjectileDescriptions<0>"
 msgstr "ОФ-ББ-Т"
