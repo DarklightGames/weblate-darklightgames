@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-08 21:58+0000\n"
+"PO-Revision-Date: 2025-11-11 07:54+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/fr/>\n"
@@ -315,9 +315,11 @@ msgstr "Fiat mod. 35"
 msgid "DH_Fiat1435Gun_WC.VehicleNameString"
 msgstr "Fiat mod. 14"
 
+#, fuzzy
 msgid "DH_Flak38Gun.VehicleNameString"
 msgstr "FlaK 38 2.0cm"
 
+#, fuzzy
 msgid "DH_Flak88Gun.VehicleNameString"
 msgstr "FlaK 36 8.8cm"
 
@@ -396,6 +398,7 @@ msgstr "Mortier Ordnance ML 3-inch"
 msgid "DH_Model35Mortar.VehicleNameString"
 msgstr "Mortaio da 81/14 mod. 35"
 
+#, fuzzy
 msgid "DH_Pak36ATGun.VehicleNameString"
 msgstr "PaK 36 3.7cm"
 
@@ -432,18 +435,22 @@ msgstr "PzGr.40"
 msgid "DH_Pak36Cannon.nProjectileDescriptions<2>"
 msgstr "StGr.41"
 
+#, fuzzy
 msgid "DH_Pak38ATGun.VehicleNameString"
 msgstr "PaK 38 5.0cm"
 
+#, fuzzy
 msgid "DH_Pak39Gun.VehicleNameString"
 msgstr "Canon KwK 39 5.0cm"
 
+#, fuzzy
 msgid "DH_Pak40ATGun.VehicleNameString"
 msgstr "PaK 40 7.5cm"
 
 msgid "DH_Pak40Cannon.nProjectileDescriptions<2>"
 msgstr "Gr.38 Hl/B"
 
+#, fuzzy
 msgid "DH_Pak43ATGun.VehicleNameString"
 msgstr "8.8cm PaK 43"
 
