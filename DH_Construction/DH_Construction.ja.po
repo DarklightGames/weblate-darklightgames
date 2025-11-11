@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-10 15:09+0000\n"
+"PO-Revision-Date: 2025-11-11 18:43+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/ja/>\n"
@@ -114,7 +114,7 @@ msgid "DHConstruction_Sandbags_Bunker.MenuName"
 msgstr "土嚢（防塁型）"
 
 msgid "DHConstruction_Sandbags_Crescent.MenuName"
-msgstr "土嚢（半月形）"
+msgstr "土嚢（三日月形）"
 
 msgid "DHConstruction_Sandbags_Line.MenuName"
 msgstr "土嚢（直線）"
@@ -146,3 +146,9 @@ msgstr "兵站"
 msgid "DHConstruction_PlatoonHQ.CustomErrorString"
 msgstr "占領中の目標から {integer} m以内でない限り、{name} を {string} "
 "の近くで{verb}ことはできません。"
+
+msgid "DHCommandMenu_ConstructionGroup.NoSquadMembersNearbyText"
+msgstr "近くに分隊員がいません"
+
+msgid "DHConstruction_Sandbags_MortarPit.MenuName"
+msgstr "土嚢（迫撃砲用）"
