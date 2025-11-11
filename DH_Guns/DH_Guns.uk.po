@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 07:54+0000\n"
+"PO-Revision-Date: 2025-11-12 19:09+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/uk/>\n"
@@ -64,9 +64,8 @@ msgstr "Ярдів"
 msgid "DH_Bofors40mmGun.VehicleNameString"
 msgstr "40 мм гармата «Бофос»"
 
-#, fuzzy
 msgid "DH_Flak38Gun.VehicleNameString"
-msgstr "2 см гармата Flak 38"
+msgstr "2,0 см Flak 38"
 
 msgid "DH_Bofors40mmCannon.ProjectileDescriptions<1>"
 msgstr "Бронебійний (AP)"
@@ -104,9 +103,8 @@ msgstr "57 мм ПТ гармата М1"
 msgid "DH_Bofors40mmCannon.ProjectileDescriptions<0>"
 msgstr "Осколково-фугасний (HE-T)"
 
-#, fuzzy
 msgid "DH_Flak88Gun.VehicleNameString"
-msgstr "8,8 см гармата Flak 36"
+msgstr "8,8 см Flak 36"
 
 msgid "DH_Flakvierling38Gun.VehicleNameString"
 msgstr "2 см гармата Flakvierling 38"
@@ -141,9 +139,8 @@ msgstr "Чотиримісна установка M45"
 msgid "DH_M5Gun.VehicleNameString"
 msgstr "3-дюймова гармата М5"
 
-#, fuzzy
 msgid "DH_Pak38ATGun.VehicleNameString"
-msgstr "5 см ПТ гармата Pak 38"
+msgstr "5,0 см Pak 38"
 
 msgid "DH_Pak38Cannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
@@ -160,13 +157,11 @@ msgstr "Бронебійний (APCBC)"
 msgid "DH_Pak39Cannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
-#, fuzzy
 msgid "DH_Pak39Gun.VehicleNameString"
-msgstr "5 см гармата KwK 39"
+msgstr "5,0 см KwK 39"
 
-#, fuzzy
 msgid "DH_Pak40ATGun.VehicleNameString"
-msgstr "7,5 см ПТ гармата Pak 40"
+msgstr "7,5 см Pak 40"
 
 msgid "DH_Pak40Cannon.ProjectileDescriptions<1>"
 msgstr "Осколково-фугасний (HE)"
@@ -174,9 +169,8 @@ msgstr "Осколково-фугасний (HE)"
 msgid "DH_Pak40Cannon.ProjectileDescriptions<2>"
 msgstr "Кумулятивний (HEAT)"
 
-#, fuzzy
 msgid "DH_Pak43ATGun.VehicleNameString"
-msgstr "8,8 см ПТ гармата Pak 43/41"
+msgstr "8,8 см Pak 43/41"
 
 msgid "DH_PantherturmCannon.ProjectileDescriptions<0>"
 msgstr "Бронебійний (APCBC)"
@@ -463,6 +457,5 @@ msgstr "PzGr.40"
 msgid "DH_Pak36Cannon.nProjectileDescriptions<2>"
 msgstr "StGr.41"
 
-#, fuzzy
 msgid "DH_Pak36ATGun.VehicleNameString"
-msgstr "3,7 см ПТ гармата Pak 38"
+msgstr "3,7 см Pak 38"
