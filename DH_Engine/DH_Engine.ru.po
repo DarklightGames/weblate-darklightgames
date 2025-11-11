@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-11 21:01+0000\n"
+"PO-Revision-Date: 2025-11-11 07:54+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -417,11 +417,13 @@ msgstr "Вы не можете {verb} здесь '{name}', поскольку в
 msgid "DHConstructionErrorMessage.ErrorMessages<22>"
 msgstr "Слишком близко к цели ({string}). Отойдите дальше на {integer}м."
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<24>"
 msgstr ""
 "Вы можете {verb} {name}только в пределах {integer}м от дружественного "
 "{string}"
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<25>"
 msgstr "Вы не можете {verb} {name} на вражеской территории"
 
@@ -2872,6 +2874,7 @@ msgstr " "
 msgid "DHCommandMenu_FireSupport.Options<0>.ActionText"
 msgstr " "
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<27>"
 msgstr "Это место занято"
 
