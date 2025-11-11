@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-10 15:09+0000\n"
+"PO-Revision-Date: 2025-11-11 07:54+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/fr/>\n"
@@ -801,6 +801,7 @@ msgstr "M18 Hellcat"
 msgid "DH_HetzerDestroyer.VehicleNameString"
 msgstr "Jagdpanzer 38(t) 'Hetzer'"
 
+#, fuzzy
 msgid "DH_HetzerVehicleMessage.MGBlockingHatch"
 msgstr "Le FM bloque la trappe - pivotez-le latéralement pour l'ouvrir"
 
