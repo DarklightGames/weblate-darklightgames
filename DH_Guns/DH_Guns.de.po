@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-19 14:02+0000\n"
+"PO-Revision-Date: 2025-11-11 07:54+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/de/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DH_17PounderGun.VehicleNameString"
 msgstr "17-Pfünder Panzerabwehrkanone"
@@ -71,9 +71,11 @@ msgstr "Yards"
 msgid "DH_Bofors40mmCannon.ProjectileDescriptions[1]"
 msgstr "AP"
 
+#, fuzzy
 msgid "DH_Flak38Gun.VehicleNameString"
 msgstr "2cm FlaK 38"
 
+#, fuzzy
 msgid "DH_Flak88Gun.VehicleNameString"
 msgstr "8,8cm FlaK 36"
 
@@ -107,6 +109,7 @@ msgstr "M45 Vierlingsgeschütz"
 msgid "DH_M5Gun.VehicleNameString"
 msgstr "3-Zoll Geschütz M5"
 
+#, fuzzy
 msgid "DH_Pak38ATGun.VehicleNameString"
 msgstr "5,0cm PaK 38"
 
@@ -125,9 +128,11 @@ msgstr "APCR"
 msgid "DH_Pak39Cannon.ProjectileDescriptions[2]"
 msgstr "HE"
 
+#, fuzzy
 msgid "DH_Pak39Gun.VehicleNameString"
 msgstr "5,0cm KwK 39"
 
+#, fuzzy
 msgid "DH_Pak40ATGun.VehicleNameString"
 msgstr "7,5cm PaK 40"
 
@@ -140,6 +145,7 @@ msgstr "HE"
 msgid "DH_Pak40Cannon.ProjectileDescriptions[2]"
 msgstr "APCR"
 
+#, fuzzy
 msgid "DH_Pak43ATGun.VehicleNameString"
 msgstr "8,8cm PaK 43"
 
@@ -563,6 +569,7 @@ msgstr "O-271"
 msgid "DH_ZiS3Gun.VehicleNameString"
 msgstr "ZiS-3 76mm Divisionsgeschütz"
 
+#, fuzzy
 msgid "DH_Pak36ATGun.VehicleNameString"
 msgstr "3,7cm PaK 36"
 
