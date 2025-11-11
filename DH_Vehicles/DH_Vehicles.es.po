@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-16 08:07+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2025-11-11 07:54+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/es/>\n"
 "Language: es\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DH_AchillesTank.VehicleNameString"
 msgstr "Achilles Mk.IC"
@@ -516,6 +516,7 @@ msgstr "Humo"
 msgid "DH_ShermanCannon_M4A3105_Howitzer.nProjectileDescriptions<1>"
 msgstr "M60 WP"
 
+#, fuzzy
 msgid "DH_HetzerVehicleMessage.MGBlockingHatch"
 msgstr ""
 "La ametralladora esta bloqueando la escotilla - Gírala hacia los lados para "
