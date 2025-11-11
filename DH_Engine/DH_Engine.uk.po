@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 07:54+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-11-12 19:09+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
 "Language: uk\n"
@@ -285,9 +285,8 @@ msgstr ""
 "Занадто близько до контрольної точки ({string}), відійдіть на {integer}м "
 "далі."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<25>"
-msgstr "{name} не можливо {verb} на ворожій території"
+msgstr "{name} не можливо {verb} на ворожій території."
 
 msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
 msgstr ""
@@ -311,10 +310,9 @@ msgstr "Ваша команда вирішила відступити, битв�
 msgid "DHGameMessage.VehicleTeamKilledMessage"
 msgstr "{0} убив союзника {1}."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<24>"
 msgstr ""
-"Ви можете {verb} {name} тільки в межах {integer}м від дружнього {string}"
+"Ви можете {verb} {name} тільки в межах {integer}м від дружнього {string}."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<23>"
 msgstr ""
@@ -389,9 +387,8 @@ msgstr "Натисніть {0}, щоб вибрати артилерійську
 msgid "DHArtilleryTargetMessage.TargetInvalid"
 msgstr "Недійсна артилерійська ціль"
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<26>"
-msgstr "{name} більше не доступно"
+msgstr "{name} більше не доступно."
 
 msgid "DHHud.MapNameText"
 msgstr "Мапа: "
@@ -2551,9 +2548,8 @@ msgstr "{name} знищено."
 msgid "DHCommandPostMessage.ConstructedMessage"
 msgstr "{name} побудовано та буде налагоджено через {seconds} seconds."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<27>"
-msgstr "Ця точка монтажу все зайнята"
+msgstr "Ця точка монтажу вже зайнята."
 
 msgid "DHGameMessage.RoleLockedMessage"
 msgstr "Роль '{role}' заблоковано."
@@ -2673,3 +2669,9 @@ msgstr "Гармата не може стріляти через перешко�
 
 msgid "DHHud.TypingPromptText"
 msgstr "Натисніть [{0}], щоб змінити канал чату"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<28>"
+msgstr "Поруч немає товаришів з загону."
+
+msgid "DHMapMarker_Enemy_Artillery.MarkerName"
+msgstr "Ворожа артилерія"
