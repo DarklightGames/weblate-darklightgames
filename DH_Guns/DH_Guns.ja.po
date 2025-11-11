@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-10 15:09+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2025-11-11 07:54+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ja/>\n"
 "Language: ja\n"
@@ -143,6 +143,7 @@ msgstr "Fiat mod. 35"
 msgid "DH_Fiat1435Gun_WC.VehicleNameString"
 msgstr "Fiat mod. 14"
 
+#, fuzzy
 msgid "DH_Flak38Gun.VehicleNameString"
 msgstr "2,0cm FlaK 38"
 
@@ -152,6 +153,7 @@ msgstr "PzGr.39"
 msgid "DH_Flak88Cannon.nProjectileDescriptions<1>"
 msgstr "Schw.Sprgr.Patr."
 
+#, fuzzy
 msgid "DH_Flak88Gun.VehicleNameString"
 msgstr "8,8cm FlaK 36"
 
