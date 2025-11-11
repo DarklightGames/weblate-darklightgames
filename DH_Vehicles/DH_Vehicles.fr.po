@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 07:54+0000\n"
+"PO-Revision-Date: 2025-11-11 18:43+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/fr/>\n"
@@ -801,9 +801,10 @@ msgstr "M18 Hellcat"
 msgid "DH_HetzerDestroyer.VehicleNameString"
 msgstr "Jagdpanzer 38(t) 'Hetzer'"
 
-#, fuzzy
 msgid "DH_HetzerVehicleMessage.MGBlockingHatch"
-msgstr "Le FM bloque la trappe - pivotez-le latéralement pour l'ouvrir"
+msgstr ""
+"L'écoutille est bloquée par le FM ! Pivotez-le vers vos 8 heures pour "
+"l'ouvrir."
 
 msgid "DH_HigginsBoat.VehicleNameString"
 msgstr "Higgins Boat"
@@ -1248,3 +1249,27 @@ msgstr "ZiS-5V (Logistique)"
 
 msgid "DH_ZiS5vTruckTransport.VehicleNameString"
 msgstr "ZiS-5V (Transport)"
+
+msgid "DH_DieGlocke.VehicleNameString"
+msgstr "Die Glocke"
+
+msgid "DH_EyeE.VehicleNameString"
+msgstr "Le Mauvais Œil"
+
+msgid "DH_EyeN.VehicleNameString"
+msgstr "L'Œil Infâme"
+
+msgid "DH_EyeW.VehicleNameString"
+msgstr "L'Œil Torve"
+
+msgid "DH_UFO.VehicleNameString"
+msgstr "Objet Fantastique Non-Identifié"
+
+msgid "DH_UFOBlue.VehicleNameString"
+msgstr "L'OVNI Bleu du Chagrin"
+
+msgid "DH_UFOGreen.VehicleNameString"
+msgstr "L'OVNI Vert de la Loyauté"
+
+msgid "DH_UFORed.VehicleNameString"
+msgstr "L'OVNI Rouge de la Rage"
