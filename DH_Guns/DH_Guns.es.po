@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 07:54+0000\n"
+"PO-Revision-Date: 2025-11-11 18:43+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/es/>\n"
@@ -51,13 +51,11 @@ msgstr "Cañón AT M1 57mm"
 msgid "DH_Bofors40mmGun.VehicleNameString"
 msgstr "Cañón Bofors 40mm"
 
-#, fuzzy
 msgid "DH_Flak38Gun.VehicleNameString"
-msgstr "Cañón FlaK 38 2cm"
+msgstr "Flak 38 2cm"
 
-#, fuzzy
 msgid "DH_Flak88Gun.VehicleNameString"
-msgstr "Cañón FlaK 36 8,8cm"
+msgstr "Cañón Flak 36 8,8cm"
 
 msgid "DH_Flakvierling38Gun.VehicleNameString"
 msgstr "Cañón Flakvierling 38 2cm"
@@ -68,9 +66,8 @@ msgstr "Cañón 7.5 cm leichtes Infanteriegeschütz 18"
 msgid "DH_M45QuadmountGun.VehicleNameString"
 msgstr "M45 Quadmount"
 
-#, fuzzy
 msgid "DH_Pak43ATGun.VehicleNameString"
-msgstr "Cañón 8.8cm Pak43/41"
+msgstr "Cañón 8,8cm Pak 43/41"
 
 msgid "DH_Model35Mortar.VehicleNameString"
 msgstr "Mortero da 81/14 mod. 35"
@@ -78,13 +75,11 @@ msgstr "Mortero da 81/14 mod. 35"
 msgid "DH_M1927Gun.VehicleNameString"
 msgstr "Cañón de Regimiento 76mm M1927"
 
-#, fuzzy
 msgid "DH_Pak38ATGun.VehicleNameString"
-msgstr "Cañón 5.0 cm Pak38"
+msgstr "Cañón 5.0 cm Pak 38"
 
-#, fuzzy
 msgid "DH_Pak39Gun.VehicleNameString"
-msgstr "Cañón 5.0cm KwK 39"
+msgstr "Cañón 5, 0cm KwK 39"
 
 msgid "DH_PantherturmGun.VehicleNameString"
 msgstr "Torreta Panther"
@@ -116,9 +111,8 @@ msgstr "Mortero Ordnance ML 3-inch"
 msgid "DH_M5Gun.VehicleNameString"
 msgstr "Cañón AT 3-inch M5"
 
-#, fuzzy
 msgid "DH_Pak40ATGun.VehicleNameString"
-msgstr "Cañón 7.5cm Pak40"
+msgstr "Cañón 7.5cm Pak 40"
 
 msgid "DH_Granatwerfer34Mortar.VehicleNameString"
 msgstr "Mortero 8cm Granatwerfer 34"
@@ -444,9 +438,8 @@ msgstr "Wgr. 38"
 msgid "DH_Granatwerfer34Cannon.nProjectileDescriptions<1>"
 msgstr "Wgr. 38 Nb."
 
-#, fuzzy
 msgid "DH_Pak36ATGun.VehicleNameString"
-msgstr "Cañón AT PaK 36 3,7cm"
+msgstr "Cañón AT Pak 36 3,7cm"
 
 msgid "DH_Pak36Cannon.ProjectileDescriptions<0>"
 msgstr "AP-HE-T"
