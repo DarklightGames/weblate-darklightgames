@@ -534,16 +534,19 @@ msgid "DHConstructionErrorMessage.ErrorMessages<23>"
 msgstr "Too close to an uncontrolled objective ({string}), it must be {integer}m further away."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<24>"
-msgstr "You must {verb} a {name} within {integer}m of a friendly {string}"
+msgstr "You must {verb} a {name} within {integer}m of a friendly {string}."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<25>"
-msgstr "You cannot {verb} a {name} in enemy territory"
+msgstr "You cannot {verb} a {name} in enemy territory."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<26>"
-msgstr "There are no more {name} available"
+msgstr "There are no more {name} available."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<27>"
-msgstr "This socket is already occupied"
+msgstr "This socket is already occupied."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<28>"
+msgstr "No squadmates nearby."
 
 msgid "DHConstructionGroup_Guns.GroupName"
 msgstr "Guns"
@@ -1069,6 +1072,9 @@ msgstr "ADMIN: Place paradrop mark"
 
 msgid "DHMapMarker_Enemy_ATGun.MarkerName"
 msgstr "Enemy AT Gun"
+
+msgid "DHMapMarker_Enemy_Artillery.MarkerName"
+msgstr "Enemy Artillery"
 
 msgid "DHMapMarker_Enemy_CommandPost.MarkerName"
 msgstr "Enemy Command Post"

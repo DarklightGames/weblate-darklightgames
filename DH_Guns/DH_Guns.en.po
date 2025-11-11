@@ -141,7 +141,7 @@ msgid "DH_Fiat1435Gun_WC.VehicleNameString"
 msgstr "Fiat mod. 14"
 
 msgid "DH_Flak38Gun.VehicleNameString"
-msgstr "2,0cm FlaK 38"
+msgstr "2,0cm Flak 38"
 
 msgid "DH_Flak88Cannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
@@ -150,7 +150,7 @@ msgid "DH_Flak88Cannon.nProjectileDescriptions<1>"
 msgstr "Schw.Sprgr.Patr."
 
 msgid "DH_Flak88Gun.VehicleNameString"
-msgstr "8,8cm FlaK 36"
+msgstr "8,8cm Flak 36"
 
 msgid "DH_Flakvierling38Gun.VehicleNameString"
 msgstr "2,0cm Flakvierling 38"
@@ -279,7 +279,7 @@ msgid "DH_Model35MortarCannon.nProjectileDescriptions<2>"
 msgstr "Bomba gr. c. da 81"
 
 msgid "DH_Pak36ATGun.VehicleNameString"
-msgstr "3,7cm PaK 36"
+msgstr "3,7cm Pak 36"
 
 msgid "DH_Pak36Cannon.ProjectileDescriptions<0>"
 msgstr "AP-HE-T"
@@ -300,7 +300,7 @@ msgid "DH_Pak36Cannon.nProjectileDescriptions<2>"
 msgstr "StGr.41"
 
 msgid "DH_Pak38ATGun.VehicleNameString"
-msgstr "5,0cm PaK 38"
+msgstr "5,0cm Pak 38"
 
 msgid "DH_Pak38Cannon.ProjectileDescriptions<0>"
 msgstr "APCBC"
@@ -339,10 +339,10 @@ msgid "DH_Pak39Cannon.nProjectileDescriptions<2>"
 msgstr "Sprgr.Patr.38"
 
 msgid "DH_Pak39Gun.VehicleNameString"
-msgstr "5.0cm KwK 39 gun"
+msgstr "5,0cm KwK 39"
 
 msgid "DH_Pak40ATGun.VehicleNameString"
-msgstr "7,5cm PaK 40"
+msgstr "7,5cm Pak 40"
 
 msgid "DH_Pak40Cannon.ProjectileDescriptions<0>"
 msgstr "APCBC"
@@ -363,7 +363,7 @@ msgid "DH_Pak40Cannon.nProjectileDescriptions<2>"
 msgstr "Gr.38 Hl/B"
 
 msgid "DH_Pak43ATGun.VehicleNameString"
-msgstr "8,8-cm PaK 43"
+msgstr "8,8cm Pak 43/41"
 
 msgid "DH_Pak43Cannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39/43"

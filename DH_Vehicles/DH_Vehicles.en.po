@@ -158,6 +158,30 @@ msgstr "DUKW"
 msgid "DH_DUKWSupport.VehicleNameString"
 msgstr "DUKW (Logistics)"
 
+msgid "DH_DieGlocke.VehiclePositionString"
+msgstr "in Die Glocke"
+
+msgid "DH_DieGlocke.VehicleNameString"
+msgstr "Die Glocke"
+
+msgid "DH_EyeE.VehiclePositionString"
+msgstr "in Evil Eye"
+
+msgid "DH_EyeE.VehicleNameString"
+msgstr "Evil Eye"
+
+msgid "DH_EyeN.VehiclePositionString"
+msgstr "in Nefarious Eye"
+
+msgid "DH_EyeN.VehicleNameString"
+msgstr "Nefarious Eye"
+
+msgid "DH_EyeW.VehiclePositionString"
+msgstr "in Wicked Eye"
+
+msgid "DH_EyeW.VehicleNameString"
+msgstr "Wicked Eye"
+
 msgid "DH_Fiat508CMTransport.VehicleNameString"
 msgstr "Fiat 508CM"
 
@@ -273,7 +297,7 @@ msgid "DH_HetzerDestroyer.VehicleNameString"
 msgstr "Jagdpanzer 38(t) 'Hetzer'"
 
 msgid "DH_HetzerVehicleMessage.MGBlockingHatch"
-msgstr "MG is blocking the hatch - turn it sideways to open"
+msgstr "Hatch blocked! Turn MG to 8 o'clock to unblock it."
 
 msgid "DH_HigginsBoat.VehicleNameString"
 msgstr "Higgins Boat"
@@ -1168,6 +1192,30 @@ msgstr "Panzer VI 'Tiger' Ausf.E"
 
 msgid "DH_TigerTank_Butcher.VehicleNameString"
 msgstr "Panzer VI Ausf.E 'Butcher'"
+
+msgid "DH_UFO.VehiclePositionString"
+msgstr "in UFO"
+
+msgid "DH_UFO.VehicleNameString"
+msgstr "Undefined Fantastic Object"
+
+msgid "DH_UFOBlue.VehiclePositionString"
+msgstr "in Blue UFO"
+
+msgid "DH_UFOBlue.VehicleNameString"
+msgstr "Blue UFO of Grief"
+
+msgid "DH_UFOGreen.VehiclePositionString"
+msgstr "in Green UFO"
+
+msgid "DH_UFOGreen.VehicleNameString"
+msgstr "Green UFO of Loyalty"
+
+msgid "DH_UFORed.VehiclePositionString"
+msgstr "in Red UFO"
+
+msgid "DH_UFORed.VehicleNameString"
+msgstr "Red UFO of Rage"
 
 msgid "DH_UniversalCarrierTransport.VehicleNameString"
 msgstr "Universal Carrier"

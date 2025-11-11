@@ -26,6 +26,9 @@ msgstr "{0} Remaining"
 msgid "DHCommandMenu_ConstructionGroup.MaxActiveText"
 msgstr "{0}/{1} Active"
 
+msgid "DHCommandMenu_ConstructionGroup.NoSquadMembersNearbyText"
+msgstr "No squadmates nearby"
+
 msgid "DHCommandMenu_ConstructionGroup.MoreText"
 msgstr "More"
 
@@ -121,6 +124,9 @@ msgstr "Sandbags (Crescent)"
 
 msgid "DHConstruction_Sandbags_Line.MenuName"
 msgstr "Sandbags (Line)"
+
+msgid "DHConstruction_Sandbags_MortarPit.MenuName"
+msgstr "Sandbags (Mortar Pit)"
 
 msgid "DHConstruction_SupplyCache.MenuName"
 msgstr "Supply Cache"
