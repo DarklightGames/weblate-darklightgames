@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 07:54+0000\n"
+"PO-Revision-Date: 2025-11-11 18:43+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ja/>\n"
@@ -1247,3 +1247,27 @@ msgstr "HE"
 
 msgid "DH_JacksonTank.VehicleNameString"
 msgstr "M36 Jackson"
+
+msgid "DH_DieGlocke.VehicleNameString"
+msgstr "UFO '鐘'"
+
+msgid "DH_EyeE.VehicleNameString"
+msgstr "イビルアイ"
+
+msgid "DH_EyeN.VehicleNameString"
+msgstr "ネファリアスアイ"
+
+msgid "DH_EyeW.VehicleNameString"
+msgstr "ウィックドアイ"
+
+msgid "DH_UFO.VehicleNameString"
+msgstr "Undefined Fantastic Object"
+
+msgid "DH_UFOBlue.VehicleNameString"
+msgstr "悲しみのブルーUFO"
+
+msgid "DH_UFOGreen.VehicleNameString"
+msgstr "忠誠のグリーンUFO"
+
+msgid "DH_UFORed.VehicleNameString"
+msgstr "怒りのレッドUFO"
