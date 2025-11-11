@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-08 21:58+0000\n"
+"PO-Revision-Date: 2025-11-11 18:43+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/fr/>\n"
@@ -210,7 +210,7 @@ msgid "ROControlBinder.BindingLabel[51]"
 msgstr "Parler dans Canal Public"
 
 msgid "ROControlBinder.BindingLabel[52]"
-msgstr "Parler dans Canal Local"
+msgstr "Parler dans Canal Proximité"
 
 msgid "ROControlBinder.BindingLabel[53]"
 msgstr "Parler dans Canal Équipe"
@@ -219,7 +219,7 @@ msgid "ROControlBinder.BindingLabel[54]"
 msgstr "Sélectionner Canal Public"
 
 msgid "ROControlBinder.BindingLabel[55]"
-msgstr "Sélectionner Canal Local"
+msgstr "Sélectionner Canal de Proximité"
 
 msgid "ROControlBinder.BindingLabel[56]"
 msgstr "Sélectionner Canal Équipe"
@@ -237,7 +237,7 @@ msgid "ROControlBinder.BindingLabel[60]"
 msgstr "Toujours Regarder Score"
 
 msgid "ROControlBinder.BindingLabel[61]"
-msgstr "Score"
+msgstr "Tableau de Score"
 
 msgid "ROControlBinder.BindingLabel[62]"
 msgstr "Partie"
@@ -418,3 +418,263 @@ msgstr "Texture"
 
 msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[2]"
 msgstr "Modèle (Élevé)"
+
+msgid "ROGUIRoleSelection.UnknownErrorMessageText"
+msgstr ""
+"Une erreur inconnue s'est produite lors de la mise à jour des informations "
+"du joueur. Veuillez patienter un peu et réessayer."
+
+msgid "ROGUIRoleSelection.ErrorTeamMustJoinBeforeStart"
+msgstr ""
+"Impossible de changer d'équipe : l'équipe doit être rejointe avant le début "
+"de la partie."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorTooManyPlayers"
+msgstr "Impossible de changer d'équipe : trop de joueurs actifs dans la partie."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorRoundHasEnded"
+msgstr "Impossible de changer d'équipe : la partie est terminée."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorGameHasStarted"
+msgstr ""
+"Impossible de changer d'équipe : les règles du serveur interdisent les "
+"changements d'équipe après le début de la partie."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorPlayingAgainstBots"
+msgstr ""
+"Impossible de changer d'équipe : les règles du serveur définit la présence "
+"de bots sur une équipe et de joueurs sur l'autre."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorTeamIsFull"
+msgstr "Impossible de changer d'équipe : l'équipe sélectionnée est pleine."
+
+msgid "ROGUITeamSelection.TeamJoinText[0]"
+msgstr "REJOINDRE L'AXE"
+
+msgid "ROGUITeamSelection.TeamJoinText[1]"
+msgstr "REJOINDRE LES ALLIÉS"
+
+msgid "ROGUITeamSelection.TeamJoinHint[0]"
+msgstr "Rejoindre les forces de l'Axe"
+
+msgid "ROGUITeamSelection.TeamJoinHint[1]"
+msgstr "Rejoindre les forces Alliées"
+
+msgid "ROTab_AudioSettings.AudioModes[0]"
+msgstr "Mode Sans Échec"
+
+msgid "ROTab_AudioSettings.AudioModes[1]"
+msgstr "Audio 3D"
+
+msgid "ROTab_AudioSettings.AudioModes[2]"
+msgstr "Audio 3D H/W"
+
+msgid "ROTab_AudioSettings.AudioModes[3]"
+msgstr "H/W 3D + EAX"
+
+msgid "ROTab_AudioSettings.VoiceModes[1]"
+msgstr "Aucunes railleries"
+
+msgid "ROTab_Controls.Headings[1]"
+msgstr "Touche 1"
+
+msgid "ROTab_Controls.Headings[2]"
+msgstr "Touche 2"
+
+msgid "ROTab_Controls.ClearCaption"
+msgstr "Appuyez sur '%backspace%' pour délier %keybind% de %keyname%."
+
+msgid "ROTab_Controls.ActionText"
+msgstr "{%keybinds%} - actuellement liés à cette touche."
+
+msgid "ROTab_Controls.Section_Speech_Prefix"
+msgstr "Commandes Vocales : "
+
+msgid "ROTab_Controls.captions_movement[2]"
+msgstr "À Gauche"
+
+msgid "ROTab_Controls.captions_movement[3]"
+msgstr "À Droite"
+
+msgid "ROTab_Controls.captions_movement[4]"
+msgstr "Se pencher à Gauche"
+
+msgid "ROTab_Controls.captions_movement[5]"
+msgstr "Se pencher à Droite"
+
+msgid "ROTab_Controls.captions_movement[11]"
+msgstr "Toujours s'Accroupir"
+
+msgid "ROTab_Controls.captions_looking[0]"
+msgstr "Tourner à Gauche"
+
+msgid "ROTab_Controls.captions_looking[1]"
+msgstr "Tourner à Droite"
+
+msgid "ROTab_Controls.captions_looking[2]"
+msgstr "Regarder en Haut"
+
+msgid "ROTab_Controls.captions_looking[3]"
+msgstr "Regarder en Bas"
+
+msgid "ROTab_Controls.captions_looking[4]"
+msgstr "Centrer la Vue"
+
+msgid "ROTab_Controls.captions_looking[5]"
+msgstr "Activer la Troisième Personne (hors-ligne seulement)"
+
+msgid "ROTab_Controls.captions_looking[6]"
+msgstr "Changer de Mode de Caméra (hors-ligne seulement)"
+
+msgid "ROTab_Controls.captions_weapons[0]"
+msgstr "Tirer"
+
+msgid "ROTab_Controls.captions_weapons[1]"
+msgstr "Tir Alternatif"
+
+msgid "ROTab_Controls.captions_weapons[3]"
+msgstr "Mettre en Joue"
+
+msgid "ROTab_Controls.captions_weapons[5]"
+msgstr "Prochaine Arme"
+
+msgid "ROTab_Controls.captions_weapons[6]"
+msgstr "Arme Précédente"
+
+msgid "ROTab_Controls.captions_weapons[7]"
+msgstr "Sélectionner Meilleure Arme"
+
+msgid "ROTab_Controls.captions_weapons[8]"
+msgstr "Sélectionner Dernière Arme"
+
+msgid "ROTab_Controls.captions_weapons[9]"
+msgstr "Fixer Baïonnette / Déployer FM"
+
+msgid "ROTab_Controls.captions_weapons[10]"
+msgstr "Changer de Canon FM"
+
+msgid "ROTab_Controls.captions_weapons[11]"
+msgstr "Changer Mode de Tir"
+
+msgid "ROTab_Controls.captions_comm[1]"
+msgstr "Dire à l'Équipe"
+
+msgid "ROTab_Controls.captions_comm[2]"
+msgstr "Dire au Véhicule"
+
+msgid "ROTab_Controls.captions_comm[3]"
+msgstr "Menu Commandes Vocales"
+
+msgid "ROTab_Controls.captions_comm[4]"
+msgstr "Consulter Chat"
+
+msgid "ROTab_Controls.captions_comm[5]"
+msgstr "Activer Microphone"
+
+msgid "ROTab_Controls.captions_comm[6]"
+msgstr "Sélectionner Canal Vocal Public"
+
+msgid "ROTab_Controls.captions_comm[7]"
+msgstr "Sélectionner Canal Vocal de Proximité"
+
+msgid "ROTab_Controls.captions_comm[8]"
+msgstr "Sélectionner Canal Vocal Équipe"
+
+msgid "ROTab_Controls.captions_game[0]"
+msgstr "Ouvrir Menu du Jeu"
+
+msgid "ROTab_Controls.captions_game[2]"
+msgstr "Réapprovisionner Mitrailleur"
+
+msgid "ROTab_Controls.captions_game[3]"
+msgstr "Mettre en Pause"
+
+msgid "ROTab_Controls.captions_misc[0]"
+msgstr "Ouvrir Menu de Vote"
+
+msgid "ROTab_Controls.captions_misc[1]"
+msgstr "Ouvrir Console"
+
+msgid "ROTab_Controls.captions_misc[2]"
+msgstr "Consulter Statut de Connexion"
+
+msgid "ROTab_Controls.captions_misc[3]"
+msgstr "Annuler Connexion en Cours"
+
+msgid "ROTab_Controls.captions_misc[4]"
+msgstr "Commencer Enregistrement Démo"
+
+msgid "ROTab_Controls.captions_misc[5]"
+msgstr "Arrêter Enregistrement Démo"
+
+msgid "ROTab_Controls.captions_misc[6]"
+msgstr "Prendre une Capture d'Écran"
+
+msgid "ROTab_Controls.captions_misc[7]"
+msgstr "Consulter Infos Serveur"
+
+msgid "ROTab_Controls.captions_misc[8]"
+msgstr "Afficher Statistiques Personnelles"
+
+msgid "ROTab_Controls.captions_misc[9]"
+msgstr "Consulter Statistiques du Prochain Joueur"
+
+msgid "ROTab_Controls.captions_interface[0]"
+msgstr "Consulter la Carte de Situation"
+
+msgid "ROTab_Controls.captions_interface[1]"
+msgstr "Activer le Score"
+
+msgid "ROTab_Controls.captions_interface[2]"
+msgstr "Consulter le Score"
+
+msgid "ROTab_Controls.captions_interface[3]"
+msgstr "Agrandir le HUD"
+
+msgid "ROTab_Controls.captions_interface[4]"
+msgstr "Rétrécir le HUD"
+
+msgid "ROTab_Hud.Hints<0>"
+msgstr "Tous les Indices (Réinitialiser)"
+
+msgid "ROTab_Hud.Hints<1>"
+msgstr "Nouveaux Indices Seulement"
+
+msgid "ROTab_Hud.Hints<2>"
+msgstr "Aucuns Indices"
+
+msgid "ROTab_Hud.HintsCombo.Caption"
+msgstr "Niveau d'Indice"
+
+msgid "ROTab_Hud.HintsCombo.Hint"
+msgstr "Détermine si les indices seront affichés ou non."
+
+msgid "ROUT2K4GamePageSP.PageCaption"
+msgstr "Solo"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<1>"
+msgstr "Sélectionner Carte"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<2>"
+msgstr "Règles de Jeu"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<4>"
+msgstr "Configuration Bots"
+
+msgid "ROUT2K4GamePageSP.PanelHint<1>"
+msgstr "Afficher un aperçu des cartes pour le mode de jeu actuel..."
+
+msgid "ROUT2K4GamePageSP.PanelHint<2>"
+msgstr "Configurer les règles de jeu..."
+
+msgid "ROUT2K4GamePageSP.PanelHint<3>"
+msgstr "Sélectionner et configurer les mutators..."
+
+msgid "ROUT2K4GamePageSP.PanelHint<4>"
+msgstr "Configurer les bots qui seront dans la partie..."
+
+msgid "ROUT2K4GamePageSP.SPFooter.PrimaryCaption"
+msgstr "COMMENCER MODE ENTRAÎNEMENT"
+
+msgid "ROUT2K4GamePageSP.SPFooter.PrimaryHint"
+msgstr "Débuter une Partie avec ces Paramètres"
