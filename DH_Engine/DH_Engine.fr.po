@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 07:54+0000\n"
+"PO-Revision-Date: 2025-11-11 18:43+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -426,13 +426,11 @@ msgstr ""
 "Trop près d'un objectif non-contrôlé ({string}), il faut être {integer}m "
 "plus loin."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<24>"
-msgstr "Vous devez {verb} un {name} dans les {integer}m d'un {string} allié"
+msgstr "Vous devez {verb} un {name} dans les {integer}m d'un {string} allié."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<27>"
-msgstr "Cette alvéole est déjà occupée"
+msgstr "Cette zone est déjà occupée."
 
 msgid "DHConstructionSupplyAttachment.HumanReadableName"
 msgstr "Dépôt de Matériel"
@@ -455,16 +453,14 @@ msgstr "Trop près d'un objectif ({string}), il faut être {integer}m plus loin.
 msgid "DHConstruction_Vehicle.ConstructionVerb"
 msgstr "enterrer"
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<25>"
-msgstr "Vous ne pouvez pas {verb} un {name} en territoire ennemi"
+msgstr "Vous ne pouvez pas {verb} un {name} en territoire ennemi."
 
 msgid "DHConstructionGroup_Guns.GroupName"
 msgstr "Canons"
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<26>"
-msgstr "Plus de {name} disponibles"
+msgstr "Plus de {name} disponibles."
 
 msgid "DHConstructionSupplyAttachment_Static_Main.HumanReadableName"
 msgstr "Dépôt de Matériel Principal"
@@ -1910,7 +1906,7 @@ msgid "DHVoicePack.OrderString[1]"
 msgstr "Défendez {objective}"
 
 msgid "DHVoiceReplicationInfo.LocalChannelText"
-msgstr "Local"
+msgstr "Proximité"
 
 msgid "DHVoiceReplicationInfo.PublicChannelNames<0>"
 msgstr "Commandement"
@@ -2151,3 +2147,9 @@ msgstr ""
 "Les armes antichars seront automatiquement déchargées si vous changez "
 "d'arme. Il est judicieux de s'accompagner d'un coéquipier pour accélérer le "
 "rechargement en cas de besoin."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<28>"
+msgstr "Aucun membre du groupe à proximité."
+
+msgid "DHMapMarker_Enemy_Artillery.MarkerName"
+msgstr "Artillerie Ennemie"
