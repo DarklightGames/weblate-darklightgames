@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-17 10:43+0000\n"
+"PO-Revision-Date: 2025-11-11 07:54+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/uk/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<0>"
 msgstr "БР-240"
@@ -64,6 +64,7 @@ msgstr "Ярдів"
 msgid "DH_Bofors40mmGun.VehicleNameString"
 msgstr "40 мм гармата «Бофос»"
 
+#, fuzzy
 msgid "DH_Flak38Gun.VehicleNameString"
 msgstr "2 см гармата Flak 38"
 
@@ -103,6 +104,7 @@ msgstr "57 мм ПТ гармата М1"
 msgid "DH_Bofors40mmCannon.ProjectileDescriptions<0>"
 msgstr "Осколково-фугасний (HE-T)"
 
+#, fuzzy
 msgid "DH_Flak88Gun.VehicleNameString"
 msgstr "8,8 см гармата Flak 36"
 
@@ -139,6 +141,7 @@ msgstr "Чотиримісна установка M45"
 msgid "DH_M5Gun.VehicleNameString"
 msgstr "3-дюймова гармата М5"
 
+#, fuzzy
 msgid "DH_Pak38ATGun.VehicleNameString"
 msgstr "5 см ПТ гармата Pak 38"
 
@@ -157,9 +160,11 @@ msgstr "Бронебійний (APCBC)"
 msgid "DH_Pak39Cannon.ProjectileDescriptions<2>"
 msgstr "Осколково-фугасний (HE)"
 
+#, fuzzy
 msgid "DH_Pak39Gun.VehicleNameString"
 msgstr "5 см гармата KwK 39"
 
+#, fuzzy
 msgid "DH_Pak40ATGun.VehicleNameString"
 msgstr "7,5 см ПТ гармата Pak 40"
 
@@ -169,6 +174,7 @@ msgstr "Осколково-фугасний (HE)"
 msgid "DH_Pak40Cannon.ProjectileDescriptions<2>"
 msgstr "Кумулятивний (HEAT)"
 
+#, fuzzy
 msgid "DH_Pak43ATGun.VehicleNameString"
 msgstr "8,8 см ПТ гармата Pak 43/41"
 
@@ -457,5 +463,6 @@ msgstr "PzGr.40"
 msgid "DH_Pak36Cannon.nProjectileDescriptions<2>"
 msgstr "StGr.41"
 
+#, fuzzy
 msgid "DH_Pak36ATGun.VehicleNameString"
 msgstr "3,7 см ПТ гармата Pak 38"
