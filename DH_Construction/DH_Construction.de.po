@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-19 04:22+0000\n"
+"PO-Revision-Date: 2025-11-11 18:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/de/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
 msgstr "Erschöpft"
@@ -182,3 +182,9 @@ msgstr "Bietet einen Nachschubknoten für Fahrzeuge und Geschütze."
 
 msgid "DHConstruction_VehiclePool.MenuDescription"
 msgstr "Bietet einen Fahrzeug-Einstiegspunkt für das Team."
+
+msgid "DHCommandMenu_ConstructionGroup.NoSquadMembersNearbyText"
+msgstr "Keine Truppkameraden in der Nähe"
+
+msgid "DHConstruction_Sandbags_MortarPit.MenuName"
+msgstr "Sandsäcke (Mörserstellung)"
