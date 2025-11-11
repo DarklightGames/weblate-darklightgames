@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 17:48+0000\n"
+"PO-Revision-Date: 2025-11-11 18:43+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/ja/>\n"
@@ -179,3 +179,46 @@ msgstr "エラー:有効なタイプの空挺降下位置が指定されてい�
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[22]"
 msgstr "エラー:無効なマップグリッド座標です"
+
+msgid "DHAdminMenuMutator.Description"
+msgstr "リアリズムマッチ中やテストにプレイヤーをより細かく制御できるスクリーンメニュ"
+"ーオプション"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmGagPlayer"
+msgstr "Enter キーを押して、このプレイヤーにGAGを設定します"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[7]"
+msgstr "<エラー: プレイヤー名がありません>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[8]"
+msgstr "<エラー: 管理者の名前がありません>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[9]"
+msgstr "プレイヤー '%insert_name%' "
+"は現在アクティブではないため、このオプションは使用できません"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[13]"
+msgstr "エラー:'%insert_name%' をキックできませんでした "
+"(管理者としてログインしているプレイヤーはキックできません)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[14]"
+msgstr ""
+"エラー:必要な「AccessControl」アクターがサーバー上にないため、"
+"どのプレイヤーもキックできません (シングルプレイヤーでは正常な動作です)"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[23]"
+msgstr "自動ログインするには、管理者ログイン情報を DarkestHour.ini "
+"ファイルに設定する必要があります"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[24]"
+msgstr "視界にプレイヤーがいません"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[25]"
+msgstr "このゲームモードでは分隊リスポーン地点 (RP) "
+"を使用できないため、このオプションは使用できません"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[26]"
+msgstr "分隊リスポーン地点(RP)の配置はすでに無効になっています"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[27]"
+msgstr "分隊リスポーン地点(RP)の配置はすでに有効になっています"
