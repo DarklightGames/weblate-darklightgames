@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 07:54+0000\n"
+"PO-Revision-Date: 2025-11-11 18:43+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/de/>\n"
@@ -753,9 +753,8 @@ msgstr ""
 msgid "DHConstructionErrorMessage.ErrorMessages<16>"
 msgstr "Es steht nicht ausreichend Nachschub zur Verfügung um {name} zu {verb}."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<27>"
-msgstr "Dieser Platz ist bereits belegt"
+msgstr "Dieser Platz ist bereits belegt."
 
 msgid "DHConstruction_Vehicle.ConstructionVerb"
 msgstr "platzieren"
@@ -861,18 +860,16 @@ msgstr ""
 "Zu nah an einem Zielobjekt {string}), es muss sich weitere {integer}m "
 "entfernt befinden."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<25>"
-msgstr "{name} kann nicht in feindlichem Gebiet {verb} werden"
+msgstr "{name} kann nicht in feindlichem Gebiet {verb} werden."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<23>"
 msgstr ""
 "Zu nah an einem nicht kontrolliertem Zielobjekt {string}), es muss sich "
 "weitere {integer}m entfernt befinden."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<26>"
-msgstr "Es stehen keine weiteren {name} zur Verfügung"
+msgstr "Es stehen keine weiteren {name} zur Verfügung."
 
 msgid "DHMapMarker_Enemy_ATGun.MarkerName"
 msgstr "Feindliche PaK"
@@ -953,11 +950,10 @@ msgstr "Konstruktion"
 msgid "DHConstructionErrorMessage.ErrorMessages<7>"
 msgstr "{name} muss auf geerdetem Gelände {verb} werden."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<24>"
 msgstr ""
 "Ein {name} muss innerhalb {integer}m eines befreundeten {string} {verb} "
-"werden"
+"werden."
 
 msgid "DHFireSupportMessage.OnMapArtilleryRequestingLocked"
 msgstr ""
@@ -2310,3 +2306,9 @@ msgstr ""
 "Panzerabwehrwaffen werden automatisch entladen sobald eine andere Waffe "
 "ausgewählt wird. Es ist daher eine gute Idee bei einem Kameraden zu bleiben "
 "um das Nachladen bei Bedarf zu beschleunigen."
+
+msgid "DHConstructionErrorMessage.ErrorMessages<28>"
+msgstr "Keine Truppkameraden in der Nähe."
+
+msgid "DHMapMarker_Enemy_Artillery.MarkerName"
+msgstr "Feindliche Artillerie"
