@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-19 14:02+0000\n"
+"PO-Revision-Date: 2025-11-11 07:54+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/de/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHATCannonMessage.GunIsRotating"
 msgstr "Das Geschütz wird neu ausgerichtet"
@@ -753,6 +753,7 @@ msgstr ""
 msgid "DHConstructionErrorMessage.ErrorMessages<16>"
 msgstr "Es steht nicht ausreichend Nachschub zur Verfügung um {name} zu {verb}."
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<27>"
 msgstr "Dieser Platz ist bereits belegt"
 
@@ -860,6 +861,7 @@ msgstr ""
 "Zu nah an einem Zielobjekt {string}), es muss sich weitere {integer}m "
 "entfernt befinden."
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<25>"
 msgstr "{name} kann nicht in feindlichem Gebiet {verb} werden"
 
@@ -868,6 +870,7 @@ msgstr ""
 "Zu nah an einem nicht kontrolliertem Zielobjekt {string}), es muss sich "
 "weitere {integer}m entfernt befinden."
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<26>"
 msgstr "Es stehen keine weiteren {name} zur Verfügung"
 
@@ -950,6 +953,7 @@ msgstr "Konstruktion"
 msgid "DHConstructionErrorMessage.ErrorMessages<7>"
 msgstr "{name} muss auf geerdetem Gelände {verb} werden."
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<24>"
 msgstr ""
 "Ein {name} muss innerhalb {integer}m eines befreundeten {string} {verb} "
