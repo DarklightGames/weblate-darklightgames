@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-16 08:07+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2025-11-11 07:54+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
 "Language: ru\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DH_50CalDamType.FemaleSuicide"
 msgstr "%o была убита из собственного пулемета .50 калибра."
@@ -1192,6 +1192,7 @@ msgstr "Panzer IV Ausf.G"
 msgid "DH_DUKWSupport.VehicleNameString"
 msgstr "Амфибия DUKW (Снабжение)"
 
+#, fuzzy
 msgid "DH_HetzerVehicleMessage.MGBlockingHatch"
 msgstr "Пулемёт блокирует люк - поверните его в сторону, чтобы открыть"
 
