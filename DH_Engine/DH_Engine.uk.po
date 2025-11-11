@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-11-11 07:54+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
 "Language: uk\n"
@@ -285,6 +285,7 @@ msgstr ""
 "Занадто близько до контрольної точки ({string}), відійдіть на {integer}м "
 "далі."
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<25>"
 msgstr "{name} не можливо {verb} на ворожій території"
 
@@ -388,6 +389,7 @@ msgstr "Натисніть {0}, щоб вибрати артилерійську
 msgid "DHArtilleryTargetMessage.TargetInvalid"
 msgstr "Недійсна артилерійська ціль"
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<26>"
 msgstr "{name} більше не доступно"
 
