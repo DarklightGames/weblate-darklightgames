@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-10 15:09+0000\n"
+"PO-Revision-Date: 2025-11-11 07:54+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ja/>\n"
@@ -486,12 +486,15 @@ msgstr "目標{string}に近すぎます。{integer}m以上離れる必要があ
 msgid "DHConstructionErrorMessage.ErrorMessages<23>"
 msgstr "支配下でない目標({string})に近すぎます。{integer}m以上離れる必要があります。"
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<24>"
 msgstr "{name}は自軍の{string}から{integer}m以内で{verb}必要があります"
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<25>"
 msgstr "敵の支配領域に{name}を{verb}ことはできません"
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<26>"
 msgstr "利用可能な{name}はもうありません"
 
@@ -1985,6 +1988,7 @@ msgstr "分隊を去る"
 msgid "DHCommandSayMessage.MessagePrefix"
 msgstr "[コマンド]"
 
+#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<27>"
 msgstr "このソケットはすでに使用されています"
 
