@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 19:43+0000\n"
+"PO-Revision-Date: 2025-11-11 18:43+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/es/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHConstruction_SupplyCache.MenuDescription"
 msgstr "Almacena y genera suministros con el paso del tiempo."
@@ -169,3 +169,9 @@ msgstr "Coloca"
 
 msgid "DHConstruction_VehiclePool.MenuName"
 msgstr "Puesto Vehicular"
+
+msgid "DHCommandMenu_ConstructionGroup.NoSquadMembersNearbyText"
+msgstr "No hay miembros de escuadrón cerca"
+
+msgid "DHConstruction_Sandbags_MortarPit.MenuName"
+msgstr "Bolsas de arena (Para morteros)"
