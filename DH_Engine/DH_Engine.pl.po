@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 07:54+0000\n"
-"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
+"PO-Revision-Date: 2025-11-12 19:09+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pl/>\n"
 "Language: pl\n"
@@ -1145,13 +1145,11 @@ msgstr "Musisz mieć {integer} członków w twoim oddziale aby {verb} {name}."
 msgid "DHConstructionErrorMessage.ErrorMessages<21>"
 msgstr "Nie mozesz {verb} {name} gdy jesteś zajęty."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<24>"
-msgstr "Musisz {verb} {name} w obrębie {integer}m od sojuszniczego {string}"
+msgstr "Musisz {verb} {name} w obrębie {integer}m od sojuszniczego {string}."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<25>"
-msgstr "Nie możesz {verb} {name} na terytorium wroga"
+msgstr "Nie możesz {verb} {name} na terytorium wroga."
 
 msgid "DHEnemyInformationMsg.EnemyIsWeak"
 msgstr "Wrogowi prawie skończyły się posiłki, zwycięstwo jest bliskie!"
@@ -1179,13 +1177,11 @@ msgstr "Nie ma składów zasobów w obrębie {integer} metrów."
 msgid "DHConstructionErrorMessage.ErrorMessages<16>"
 msgstr "Niewystarczająco zasobów aby {verb} {name}."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<26>"
-msgstr "Nie ma więcej dostępnych {name}"
+msgstr "Nie ma więcej dostępnych {name}."
 
-#, fuzzy
 msgid "DHConstructionErrorMessage.ErrorMessages<27>"
-msgstr "To gniazdo jest już zajęte"
+msgstr "To gniazdo jest już zajęte."
 
 msgid "DHConstructionGroup_Guns.GroupName"
 msgstr "Uzbrojenie"
