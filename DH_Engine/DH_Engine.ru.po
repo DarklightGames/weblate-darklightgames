@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 18:43+0000\n"
+"PO-Revision-Date: 2025-11-13 22:09+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -660,7 +660,7 @@ msgid "DHVehicleCollisionDamageType.FemaleSuicide"
 msgstr "%o погибла в автокатастрофе."
 
 msgid "DHVehicleCannon.ProjectileDescriptions<0>"
-msgstr "Бронебойный (APCBC)"
+msgstr "ББ"
 
 msgid "DHVehicleCollisionDamageType.DeathString"
 msgstr "%o погиб в результате столкновения с автомобилем %k."
