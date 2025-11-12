@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 07:54+0000\n"
+"PO-Revision-Date: 2025-11-12 19:09+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/pl/>\n"
@@ -37,9 +37,8 @@ msgstr "Podkalibrowy (APCR)"
 msgid "DH_6PounderGunCannon.ProjectileDescriptions<2>"
 msgstr "Odłamkowo-Burzący (HE)"
 
-#, fuzzy
 msgid "DH_Pak38ATGun.VehicleNameString"
-msgstr "Działo ppanc. 5.0 cm Pak38"
+msgstr "5,0cm Pak 38"
 
 msgid "DH_Pak38Cannon.ProjectileDescriptions<2>"
 msgstr "Odłamkowo-Burzący (HE)"
@@ -53,13 +52,11 @@ msgstr "Effetto Pronto da 47"
 msgid "DH_Cannone4732Gun.VehicleNameString"
 msgstr "Cannone 47/32"
 
-#, fuzzy
 msgid "DH_Flak38Gun.VehicleNameString"
-msgstr "Działko 2cm FlaK 38"
+msgstr "2,0cm Flak 38"
 
-#, fuzzy
 msgid "DH_Flak88Gun.VehicleNameString"
-msgstr "Działo 8.8cm FlaK 36"
+msgstr "8,8cm Flak 36"
 
 msgid "DH_Flakvierling38Gun.VehicleNameString"
 msgstr "Działko 2cm Flakvierling 38"
@@ -100,20 +97,17 @@ msgstr "3-calowe Działo M5"
 msgid "DH_Pak39Cannon.ProjectileDescriptions<2>"
 msgstr "Odłamkowo-Burzący (HE)"
 
-#, fuzzy
 msgid "DH_Pak39Gun.VehicleNameString"
-msgstr "Działo 5.0cm KwK 39"
+msgstr "5,0cm KwK 39"
 
-#, fuzzy
 msgid "DH_Pak40ATGun.VehicleNameString"
-msgstr "Działo ppanc. 7.5cm Pak40"
+msgstr "7,5cm Pak 40"
 
 msgid "DH_Pak40Cannon.ProjectileDescriptions<1>"
 msgstr "Odłamkowo-Burzący (HE)"
 
-#, fuzzy
 msgid "DH_Pak43ATGun.VehicleNameString"
-msgstr "Działo ppanc. 8.8 cm Pak43/41"
+msgstr "8,8cm Pak 43/41"
 
 msgid "DH_PantherturmGun.VehicleNameString"
 msgstr "Pantherturm"
@@ -442,9 +436,8 @@ msgstr "Fiat mod. 35"
 msgid "DH_Fiat1435Gun_WC.VehicleNameString"
 msgstr "Fiat mod. 14"
 
-#, fuzzy
 msgid "DH_Pak36ATGun.VehicleNameString"
-msgstr "Działo 3,7cm PaK 36"
+msgstr "3,7cm Pak 36"
 
 msgid "DH_Pak36Cannon.ProjectileDescriptions<0>"
 msgstr "AP-HE-T"
