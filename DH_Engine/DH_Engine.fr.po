@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-13 22:09+0000\n"
+"PO-Revision-Date: 2025-11-14 23:09+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -1442,7 +1442,7 @@ msgid "DHSquadLeaderSayMessage.MessagePrefix"
 msgstr "[CHEF GROUPE]"
 
 msgid "DHSquadMessage.RallyPointOverrunMessage"
-msgstr "Un point de ralliement a été supprimé par des ennemis."
+msgstr "Un point de ralliement a été supprimé par l'ennemi."
 
 msgid "DHSquadMessage.BannedPlayer"
 msgstr "{0} a été banni du groupe."
