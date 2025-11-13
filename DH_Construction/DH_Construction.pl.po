@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-01 19:41+0000\n"
+"PO-Revision-Date: 2025-11-13 22:09+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/pl/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHCameraWeapon.ItemName"
 msgstr "Kamera"
@@ -172,3 +172,9 @@ msgstr "Skrzynia z amunicją (Pojazdy)"
 
 msgid "DHConstructionResupplyVehicles.MenuDescription"
 msgstr "Zapewnia punkt zaopatrzenia dla pojazdów i armat."
+
+msgid "DHCommandMenu_ConstructionGroup.NoSquadMembersNearbyText"
+msgstr "Brak członków oddziału w pobliżu"
+
+msgid "DHConstruction_Sandbags_MortarPit.MenuName"
+msgstr "Worki z piaskiem (Gniazdo Moździerza)"
