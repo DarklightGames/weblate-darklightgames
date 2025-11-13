@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-13 22:09+0000\n"
+"PO-Revision-Date: 2025-11-14 23:09+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/fr/>\n"
@@ -678,3 +678,8 @@ msgstr "COMMENCER MODE ENTRAÎNEMENT"
 
 msgid "ROUT2K4GamePageSP.SPFooter.PrimaryHint"
 msgstr "Débuter une Partie avec ces Paramètres"
+
+msgid "ROGUIRoleSelection.RoleIsFullMessageText"
+msgstr ""
+"Le rôle que vous avez sélectionné est complet. Sélectionnez un autre rôle "
+"dans la liste et appuyez sur Continuer."
