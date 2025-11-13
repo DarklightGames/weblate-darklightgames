@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 18:43+0000\n"
+"PO-Revision-Date: 2025-11-13 22:09+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/fr/>\n"
@@ -503,7 +503,7 @@ msgid "ROTab_Controls.captions_movement[5]"
 msgstr "Se pencher à Droite"
 
 msgid "ROTab_Controls.captions_movement[11]"
-msgstr "Toujours s'Accroupir"
+msgstr "Toujours S'Accroupir"
 
 msgid "ROTab_Controls.captions_looking[0]"
 msgstr "Tourner à Gauche"
@@ -557,7 +557,7 @@ msgid "ROTab_Controls.captions_weapons[11]"
 msgstr "Changer Mode de Tir"
 
 msgid "ROTab_Controls.captions_comm[1]"
-msgstr "Dire à l'Équipe"
+msgstr "Dire à L'Équipe"
 
 msgid "ROTab_Controls.captions_comm[2]"
 msgstr "Dire au Véhicule"
