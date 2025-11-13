@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-10 15:09+0000\n"
+"PO-Revision-Date: 2025-11-14 23:09+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/fr/>\n"
@@ -519,7 +519,7 @@ msgid "ROVoicePack.EnemyString[5]"
 msgstr "Véhicule léger !"
 
 msgid "ROVoicePack.EnemyString[6]"
-msgstr "Char ! Char !"
+msgstr "Char ennemi !"
 
 msgid "ROVoicePack.SupportAbbrev[1]"
 msgstr "Besoin d'aide à..."
