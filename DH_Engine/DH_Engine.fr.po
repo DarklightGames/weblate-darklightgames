@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 18:43+0000\n"
+"PO-Revision-Date: 2025-11-13 22:09+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -553,7 +553,7 @@ msgid "DHGameMessage.VoteStarted"
 msgstr "{name} a lancé un vote."
 
 msgid "DHGameType.GameTypeName"
-msgstr "Type de Jeu Inconnu"
+msgstr "Mode de Jeu Inconnu"
 
 msgid "DHHintManager.Hints[1].Text"
 msgstr ""
@@ -1135,7 +1135,7 @@ msgid "DHHud.MapNameText"
 msgstr "Carte : "
 
 msgid "DHHud.MapGameTypeText"
-msgstr "Type de Jeu : "
+msgstr "Mode de Jeu : "
 
 msgid "DHHud.NoTimeLimitText"
 msgstr "Illimité"
