@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 18:43+0000\n"
+"PO-Revision-Date: 2025-11-13 22:09+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/fr/>\n"
@@ -69,7 +69,7 @@ msgid "UT2K4Browser_Page.ReadyString"
 msgstr "Prêt"
 
 msgid "UT2K4GamePageBase.PanelCaption<0>"
-msgstr "Type de Partie"
+msgstr "Mode de Jeu"
 
 msgid "UT2K4GamePageBase.PanelCaption<3>"
 msgstr "Mutators"
