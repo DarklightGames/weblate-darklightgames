@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 18:43+0000\n"
+"PO-Revision-Date: 2025-11-13 22:09+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/fr/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Weblate 5.13.3\n"
 
 msgid "DHBrowser_Footer.BrowserBack.Caption"
-msgstr "Revenir"
+msgstr "Retour"
 
 msgid "DHBrowser_Footer.BrowserFilter.Caption"
 msgstr "Filtres"
@@ -22,7 +22,7 @@ msgid "DHBrowser_Footer.BrowserJoin.Caption"
 msgstr "Rejoindre"
 
 msgid "DHBrowser_Footer.BrowserMain.Caption"
-msgstr "Principal"
+msgstr "Menu"
 
 msgid "DHBrowser_Footer.BrowserRefresh.Caption"
 msgstr "Rafraîchir"
@@ -219,7 +219,7 @@ msgid "DHDeployMenu.DeployInTimeText"
 msgstr "Appuyez sur Continuer pour apparaître ({0})"
 
 msgid "DHDeployMenu.DeployNowText"
-msgstr "Appuyez sur Continuer pour apparaître maintenant !"
+msgstr "Appuyez sur Continuer pour apparaître !"
 
 msgid "DHDeployMenu.ReservedString"
 msgstr "Réservé"
@@ -280,7 +280,7 @@ msgstr ""
 "Ceci mettra immédiatement fin à la partie en faveur de l'équipe adverse."
 
 msgid "DHDeployMenu.SurrenderButtonText[0]"
-msgstr "Se retirer du combat"
+msgstr "Vote de Retraite"
 
 msgid "DHDeployMenu.SurrenderButtonText[1]"
 msgstr "Continuer le combat"
@@ -330,7 +330,7 @@ msgid "DHDeployMenu.ContinueButtonObject.Caption"
 msgstr "Continuer"
 
 msgid "DHDeployMenu.DisconnectButtonObject.Caption"
-msgstr "Se Déconnecter"
+msgstr "Déconnexion"
 
 msgid "DHDeployMenu.EquipmentButtonObject.Hint"
 msgstr "Équipement"
@@ -633,7 +633,7 @@ msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<0>"
 msgstr "Cartes Nominées"
 
 msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<1>"
-msgstr "Poids de Vote"
+msgstr "Votes"
 
 msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<2>"
 msgstr "Taille de Carte"
@@ -695,7 +695,7 @@ msgstr ""
 "Vous n'avez pas suffisamment de privilèges d'admin pour changer une carte !"
 
 msgid "DHMapVotingPage.lmsgMode[0]"
-msgstr "La Majorité Gagne"
+msgstr "La Majorité L'Emporte"
 
 msgid "DHMapVotingPage.FilterClearButton.Caption"
 msgstr "Effacer"
@@ -879,7 +879,7 @@ msgid "DHServerLoading.AuthorText"
 msgstr "Auteur : {0}"
 
 msgid "DHServerLoading.DeployingText"
-msgstr "En marche pour {0}"
+msgstr "En marche vers {0}"
 
 msgid "DHSettingsPage.PanelCaption<0>"
 msgstr "Jeu"
@@ -1001,34 +1001,34 @@ msgid "DHTab_Controls.Section_Inventory"
 msgstr "Inventaire"
 
 msgid "DHTab_Controls.Captions_Inventory[0]"
-msgstr "Inventaire Slot 1"
+msgstr "Place D'Inventaire 1"
 
 msgid "DHTab_Controls.Captions_Inventory[1]"
-msgstr "Inventaire Slot 2"
+msgstr "Place D'Inventaire 2"
 
 msgid "DHTab_Controls.Captions_Inventory[2]"
-msgstr "Inventaire Slot 3"
+msgstr "Place D'Inventaire 3"
 
 msgid "DHTab_Controls.Captions_Inventory[3]"
-msgstr "Inventaire Slot 4"
+msgstr "Place D'Inventaire 4"
 
 msgid "DHTab_Controls.Captions_Inventory[4]"
-msgstr "Inventaire Slot 5"
+msgstr "Place D'Inventaire 5"
 
 msgid "DHTab_Controls.Captions_Inventory[5]"
-msgstr "Inventaire Slot 6"
+msgstr "Place D'Inventaire 6"
 
 msgid "DHTab_Controls.Captions_Inventory[6]"
-msgstr "Inventaire Slot 7"
+msgstr "Place D'Inventaire 7"
 
 msgid "DHTab_Controls.Captions_Inventory[7]"
-msgstr "Inventaire Slot 8"
+msgstr "Place D'Inventaire 8"
 
 msgid "DHTab_Controls.Captions_Inventory[8]"
-msgstr "Inventaire Slot 9"
+msgstr "Place D'Inventaire 9"
 
 msgid "DHTab_Controls.Captions_Inventory[9]"
-msgstr "Inventaire Slot 0"
+msgstr "Place D'Inventaire 0"
 
 msgid "DHTab_Controls.ControlProfiles[0]"
 msgstr "Actuel"
@@ -1244,7 +1244,7 @@ msgid "DHTab_DetailSettings.DetailDecoLayers.Caption"
 msgstr "Détail Terrain"
 
 msgid "DHTab_DetailSettings.DetailDetailTextures.Caption"
-msgstr "Détail de Texture"
+msgstr "Textures Détaillées"
 
 msgid "DHTab_DetailSettings.DetailDynamicLighting.Caption"
 msgstr "Ombrage Dynamique"
@@ -1276,7 +1276,7 @@ msgstr ""
 "automatiquement en fonction des performances"
 
 msgid "DHTab_DetailSettings.GlobalDetails.Caption"
-msgstr "Détails du jeu"
+msgstr "Détails du Jeu"
 
 msgid "DHTab_DetailSettings.HDRCheckbox.Caption"
 msgstr "Flou Lumineux"
@@ -1345,7 +1345,7 @@ msgid "DHTab_GameSettings.NetSpeedText[2]"
 msgstr "Moyen ({0})"
 
 msgid "DHTab_GameSettings.NetSpeedText[3]"
-msgstr "Recommandé ({0})"
+msgstr "Conseillé ({0})"
 
 msgid "DHTab_GameSettings.NetSpeedText[4]"
 msgstr "Élevé ({0})"
@@ -1394,7 +1394,7 @@ msgid "DHTab_GameSettings.Incognito.Hint"
 msgstr "Ne pas afficher mon statut de Patron ou de Développeur sur le score"
 
 msgid "DHTab_GameSettings.LockTankOnEntry.Caption"
-msgstr "Verrouiller char après embarquement"
+msgstr "Verrouiller Char Après Embarquement"
 
 msgid "DHTab_GameSettings.LockTankOnEntry.Hint"
 msgstr ""
@@ -1414,7 +1414,7 @@ msgid "DHTab_GameSettings.Netspeed.Caption"
 msgstr "NetSpeed (Octets par Seconde)"
 
 msgid "DHTab_GameSettings.NoGore.Caption"
-msgstr "Pas de Gore"
+msgstr "Réduire Effets de Violence"
 
 msgid "DHTab_GameSettings.NoGore.Hint"
 msgstr "Pas de démembrement, décapitation ou d'effets de sang"
@@ -1458,7 +1458,7 @@ msgstr ""
 "distances"
 
 msgid "DHTab_GameSettings.ViewFOV.Caption"
-msgstr "Champ De Vision (FOV) Normal"
+msgstr "Champ De Vision (FOV)"
 
 msgid "DHTab_Input.InputScopedFactor.Caption"
 msgstr "Sensibilité Lunette/Jumelles"
