@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-03 22:58+0000\n"
+"PO-Revision-Date: 2025-11-15 06:33+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/es/>\n"
@@ -681,3 +681,8 @@ msgstr "Juego"
 
 msgid "ROTab_Controls.Section_Speech_Prefix"
 msgstr "Comando de voz: "
+
+msgid "ROGUIRoleSelection.RoleIsFullMessageText"
+msgstr ""
+"El rol que seleccionaste está lleno. Selecciona otro rol de la lista y "
+"presiona continuar."
