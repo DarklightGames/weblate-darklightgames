@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-15 06:33+0000\n"
+"PO-Revision-Date: 2025-11-15 08:01+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
@@ -1792,7 +1792,7 @@ msgid "DHVehicleMessage.AllRiderPositionsFull"
 msgstr "Toutes les places passager sont occupées"
 
 msgid "DHVehicleMessage.NoRiderPositions"
-msgstr "Impossible de s’asseoir sur ce véhicule"
+msgstr "Impossible de s'asseoir sur ce véhicule"
 
 msgid "DHVehicleMessage.VehicleBurning"
 msgstr "Incendie à bord !"
