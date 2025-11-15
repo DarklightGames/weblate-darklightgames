@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-14 23:09+0000\n"
-"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"PO-Revision-Date: 2025-11-15 06:33+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
 "Language: fr\n"
@@ -1609,8 +1609,8 @@ msgstr "Un autre groupe a été fusionné avec le votre."
 
 msgid "DHSquadMessage.NotInSquadMessage"
 msgstr ""
-"Vous n'êtes pas dans un groupe. Appuyez sur [%SQUADMENU%) pour entrer dans "
-"le menu du groupe ou appuyez sur [%SQUADJOINAUTO%) pour rejoindre "
+"Vous n'êtes pas dans un groupe. Appuyez sur [%SQUADMENU%] pour entrer dans "
+"le menu du groupe ou appuyez sur [%SQUADJOINAUTO%] pour rejoindre "
 "automatiquement un groupe."
 
 msgid "DHSquadMessage.SquadMergedSourceGenericMessage"
