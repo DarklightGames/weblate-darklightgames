@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 17:48+0000\n"
+"PO-Revision-Date: 2025-11-17 21:06+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_gerplayers/ja/>\n"
@@ -15,10 +15,10 @@ msgid "DHNation_Germany.NationName"
 msgstr "ドイツ"
 
 msgid "DHGerVoice.SupportStringAxis[5]"
-msgstr "P-SCHRECKが必要だ!"
+msgstr "Panzerschreckが必要だ!"
 
 msgid "DHGerVoice.SupportAbbrevAxis[5]"
-msgstr "P-SCHRECKを要請する"
+msgstr "Panzerschreckが必要だ!"
 
 msgid "DHZVoice.SupportStringAxis[5]"
 msgstr "Panzerschreckが必要だ!"
