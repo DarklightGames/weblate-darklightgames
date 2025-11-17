@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-17 07:09+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2025-11-17 07:36+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
 "Language: ja\n"
@@ -1184,9 +1184,11 @@ msgstr "兵科"
 msgid "DHScoreBoard.ScoreboardColumns<5>.Title"
 msgstr "K"
 
+#, fuzzy
 msgid "DHScoreBoard.ScoreboardColumns<6>.Title"
 msgstr "D"
 
+#, fuzzy
 msgid "DHScoreBoard.ScoreboardColumns<8>.Title"
 msgstr "Ping"
 
