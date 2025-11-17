@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 17:48+0000\n"
+"PO-Revision-Date: 2025-11-17 21:06+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/ja/>\n"
@@ -45,7 +45,7 @@ msgid "DHShovelItem_Russian.NativeItemName"
 msgstr "MPL-50"
 
 msgid "DHShovelWarningMessage.CannotBeCrawling"
-msgstr "伏せながら掘ることはできません。"
+msgstr "伏せた状態で工作することはできません"
 
 msgid "DHShovelWarningMessage.NeedMoreFriendliesToBuildMessage"
 msgstr "シャベルを使って建設するには、近くに別の分隊員がいる必要があります！"
