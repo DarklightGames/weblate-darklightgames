@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-12 19:09+0000\n"
+"PO-Revision-Date: 2025-11-17 07:09+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ja/>\n"
@@ -208,3 +208,177 @@ msgstr "HE"
 
 msgid "DH_M1927Cannon.ProjectileDescriptions<1>"
 msgstr "HEAT"
+
+msgid "DH_M116Cannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_M116Cannon.nProjectileDescriptions<0>"
+msgstr "HE M48"
+
+msgid "DH_M116Cannon.nProjectileDescriptions<1>"
+msgstr "HEAT M66"
+
+msgid "DH_M1927Cannon.nProjectileDescriptions<0>"
+msgstr "OF-350"
+
+msgid "DH_M1927Cannon.nProjectileDescriptions<1>"
+msgstr "BP-350M"
+
+msgid "DH_M1MortarCannon.nProjectileDescriptions<0>"
+msgstr "M34A1 HE"
+
+msgid "DH_M1MortarCannon.nProjectileDescriptions<1>"
+msgstr "M56 WP"
+
+msgid "DH_M1MortarCannon.nProjectileDescriptions<2>"
+msgstr "M56 HE"
+
+msgid "DH_M5GunCannon.nProjectileDescriptions<0>"
+msgstr "M62 APC"
+
+msgid "DH_M5GunCannon.nProjectileDescriptions<1>"
+msgstr "M42A1 HE-T"
+
+msgid "DH_ML3InchCannon.nProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_Model35MortarCannon.nProjectileDescriptions<0>"
+msgstr "Bomba g. a. da 81"
+
+msgid "DH_Model35MortarCannon.nProjectileDescriptions<1>"
+msgstr "Bomba Fumogena"
+
+msgid "DH_Model35MortarCannon.nProjectileDescriptions<2>"
+msgstr "Bomba gr. c. da 81"
+
+msgid "DH_Pak36Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.36"
+
+msgid "DH_Pak36Cannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40"
+
+msgid "DH_Pak36Cannon.nProjectileDescriptions<2>"
+msgstr "StGr.41"
+
+msgid "DH_Pak38Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Pak38Cannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40"
+
+msgid "DH_Pak38Cannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Patr.38"
+
+msgid "DH_Pak39Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Pak39Cannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40"
+
+msgid "DH_Pak39Cannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Patr.38"
+
+msgid "DH_Pak40Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Pak40Cannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+msgid "DH_Pak40Cannon.nProjectileDescriptions<2>"
+msgstr "Gr.38 Hl/B"
+
+msgid "DH_Pak43Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39/43"
+
+msgid "DH_Pak43Cannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr."
+
+msgid "DH_PantherturmCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39/42"
+
+msgid "DH_PantherturmCannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40/42"
+
+msgid "DH_PantherturmCannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Patr.42"
+
+msgid "DH_ZiS2Cannon.nProjectileDescriptions<0>"
+msgstr "BR-271"
+
+msgid "DH_ZiS2Cannon.nProjectileDescriptions<1>"
+msgstr "O-271"
+
+msgid "DH_ZiS2Cannon.nProjectileDescriptions<2>"
+msgstr "BR-271P"
+
+msgid "DH_ZiS3Cannon.nProjectileDescriptions<0>"
+msgstr "BR-350B"
+
+msgid "DH_ZiS3Cannon.nProjectileDescriptions<1>"
+msgstr "OF-350"
+
+msgid "DH_ZiS3CannonLate.nProjectileDescriptions<0>"
+msgstr "BR-350B"
+
+msgid "DH_ZiS3CannonLate.nProjectileDescriptions<1>"
+msgstr "OF-350"
+
+msgid "DH_ZiS3CannonLate.nProjectileDescriptions<2>"
+msgstr "BR-350P"
+
+msgid "DH_ML3InchCannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_Model35MortarCannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_Model35MortarCannon.ProjectileDescriptions<2>"
+msgstr "HE-L"
+
+msgid "DH_Pak36Cannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_Pak38Cannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_Pak38Cannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_Pak39Cannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_Pak39Cannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_Pak40Cannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_Pak40Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_Pak40Cannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_PantherturmCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_PantherturmCannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_ZiS2Cannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_ZiS2Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_ZiS3Cannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_ZiS3Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions<1>"
+msgstr "HE"
