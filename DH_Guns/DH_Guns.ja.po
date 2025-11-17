@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-17 07:09+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2025-11-17 07:55+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ja/>\n"
 "Language: ja\n"
@@ -382,3 +382,21 @@ msgstr "APBC"
 
 msgid "DH_ZiS3CannonLate.ProjectileDescriptions<1>"
 msgstr "HE"
+
+msgid "DH_17PounderGun.VehicleNameString"
+msgstr "17ポンド対戦車砲"
+
+msgid "DH_LeIG18Gun.VehicleNameString"
+msgstr "7,5cm 軽歩兵砲"
+
+msgid "DH_M116Gun.VehicleNameString"
+msgstr "M1A1 75mm榴弾砲"
+
+msgid "DH_M1919A4Gun.VehicleNameString"
+msgstr "M1919A4"
+
+msgid "DH_M1927Gun.VehicleNameString"
+msgstr "M1927 76mm連隊砲"
+
+msgid "DH_M1Mortar.VehicleNameString"
+msgstr "M1 81mm 迫撃砲"
