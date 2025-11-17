@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-17 07:36+0000\n"
-"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
+"PO-Revision-Date: 2025-11-17 07:55+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/pl/>\n"
 "Language: pl\n"
@@ -1649,3 +1649,21 @@ msgstr "Stopień trudności"
 
 msgid "DHSituationMapGUIPage.EnableMouseControlPrompt"
 msgstr "Wciśnij [%JUMP%] by aktywować mysz"
+
+msgid "DHScoreBoard.SquadMemberIndexColumnTitle"
+msgstr "#"
+
+msgid "DHScoreBoard.RoleColumnTitle"
+msgstr "Rola"
+
+msgid "DHScoreBoard.ScoreColumnTitle"
+msgstr "Wynik"
+
+msgid "DHScoreBoard.PingColumnTitle"
+msgstr "Ping"
+
+msgid "DHScoreBoard.KillsColumnTitle"
+msgstr "Z"
+
+msgid "DHScoreBoard.DeathsColumnTitle"
+msgstr "Ś"
