@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-01 19:41+0000\n"
+"PO-Revision-Date: 2025-11-17 07:36+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHBrowser_Footer.BrowserFilter.Caption"
 msgstr "Фільтри"
@@ -934,12 +934,15 @@ msgstr "#"
 msgid "DHScoreBoard.ScoreboardColumns<3>.Title"
 msgstr "Роль"
 
+#, fuzzy
 msgid "DHScoreBoard.ScoreboardColumns<6>.Title"
 msgstr "С"
 
+#, fuzzy
 msgid "DHScoreBoard.ScoreboardColumns<7>.Title"
 msgstr "Рахунок"
 
+#, fuzzy
 msgid "DHScoreBoard.ScoreboardColumns<8>.Title"
 msgstr "Пінг"
 
