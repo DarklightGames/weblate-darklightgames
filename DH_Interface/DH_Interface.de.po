@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-12 06:43+0000\n"
+"PO-Revision-Date: 2025-11-17 07:36+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/de/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHBrowser_Footer.BrowserJoin.Caption"
 msgstr "Beitreten"
@@ -1007,6 +1007,7 @@ msgstr "Erweiterte Optionen anzeigen"
 msgid "DHPerformanceWarning.OkButton.Caption"
 msgstr "OK"
 
+#, fuzzy
 msgid "DHScoreBoard.ScoreboardColumns<6>.Title"
 msgstr "T"
 
@@ -1021,9 +1022,11 @@ msgstr ""
 "Bitte für eine Karte mit geeigneter Spielerzahl abstimmen. In der "
 "Gesamtübersicht kann dennoch für diese Karte abgestimmt werden."
 
+#, fuzzy
 msgid "DHScoreBoard.ScoreboardColumns<7>.Title"
 msgstr "Punktestand"
 
+#, fuzzy
 msgid "DHScoreBoard.ScoreboardColumns<8>.Title"
 msgstr "Ping"
 
