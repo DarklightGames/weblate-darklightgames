@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-17 07:36+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"PO-Revision-Date: 2025-11-17 07:55+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
 "Language: ru\n"
@@ -1700,3 +1700,21 @@ msgstr "У вас недостаточно прав администратора
 
 msgid "DHSituationMapGUIPage.EnableMouseControlPrompt"
 msgstr "Нажмите [%JUMP%] для активации мыши"
+
+msgid "DHScoreBoard.SquadMemberIndexColumnTitle"
+msgstr "#"
+
+msgid "DHScoreBoard.RoleColumnTitle"
+msgstr "Должность"
+
+msgid "DHScoreBoard.PingColumnTitle"
+msgstr "Пинг"
+
+msgid "DHScoreBoard.ScoreColumnTitle"
+msgstr "Счёт"
+
+msgid "DHScoreBoard.KillsColumnTitle"
+msgstr "У"
+
+msgid "DHScoreBoard.DeathsColumnTitle"
+msgstr "С"
