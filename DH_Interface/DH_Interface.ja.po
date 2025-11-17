@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-17 21:06+0000\n"
-"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
+"PO-Revision-Date: 2025-11-18 22:09+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
 "Language: ja\n"
@@ -655,7 +655,7 @@ msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<10>"
 msgstr "お気に入りに追加"
 
 msgid "DHBrowser_ServersList.ColumnHeadings<2>"
-msgstr "サーバーの状態"
+msgstr "状態"
 
 msgid "DHBrowser_ServersList.ColumnHeadings<7>"
 msgstr "Ping"
