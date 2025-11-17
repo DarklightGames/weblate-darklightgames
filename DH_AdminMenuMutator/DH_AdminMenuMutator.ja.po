@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-17 07:55+0000\n"
+"PO-Revision-Date: 2025-11-17 21:06+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/ja/>\n"
@@ -15,17 +15,16 @@ msgid "DHAdminMenuMutator.FriendlyName"
 msgstr "管理者メニュー"
 
 msgid "DHAdminMenu_AdminMessages.EnterNewPlayerName"
-msgstr "プレイヤーの新しい名前を入力してEnterキーを押してください"
+msgstr "新たなプレイヤーの名前を入力してEnterを押してください"
 
 msgid "DHAdminMenu_AdminMessages.EnterPrivateMessage"
-msgstr "プレイヤーへのプライベートメッセージを入力してEnterキーを押します"
+msgstr "プレイヤーへのプライベートメッセージを入力してEnterを押します"
 
 msgid "DHAdminMenu_AdminMessages.EnterWarningMessage"
-msgstr "プレイヤーへの警告メッセージを入力してEnterキーを押します"
+msgstr "プレイヤーへの警告メッセージを入力してEnterを押します"
 
 msgid "DHAdminMenu_AdminMessages.EnterKickReason"
-msgstr "キック時にプレイヤーに表示するメッセージを入力して、Enterキーを押してキックし"
-"ます"
+msgstr "キック時にプレイヤーに表示するメッセージを入力して、Enterを押してキックします"
 
 msgid "DHAdminMenu_WarningMessage.WarningHeader"
 msgstr "あなたは管理者から警告メッセージを受け取りました"
@@ -78,16 +77,17 @@ msgid "DHAdminMenu_AdminMessages.ConfirmEnableMines"
 msgstr "Enterを押して、すべての地雷を再度有効にすることを確定します"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisableCapProgress"
-msgstr "Enterを押して、マップ上の拠点占領状況の表示を無効化することを確定します"
+msgstr "Enterを押して、マップ上の占領状況のプログレスバーを無効化することを確定します"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnableCapProgress"
-msgstr "Enterを押して、マップ上の拠点占領状況の表示を再度有効にすることを確定します"
+msgstr "Enterを押して、マップ上の占領状況のプログレスバーを再度有効にすることを確定し"
+"ます"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmDisablePlayerIcon"
-msgstr "Enterを押して、プレイヤーの位置のマップへの表示を無効にします"
+msgstr "Enterを押して、マップ上でのプレイヤー位置の表示をオフにします"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmEnablePlayerIcon"
-msgstr "Enterを押して、プレイヤーの位置のマップへの表示を再度有効にします"
+msgstr "Enterを押して、マップ上でのプレイヤー位置の表示を再度オンにします"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmKillAll"
 msgstr "Enterを押して、すべてのプレイヤーをキルすることを確定します"
@@ -96,7 +96,7 @@ msgid "DHAdminMenu_AdminMessages.EnterGameSpeed"
 msgstr "新たなゲーム速度の倍率を指定してください（1が標準です）"
 
 msgid "DHAdminMenu_AdminMessages.EnterTimeRemaining"
-msgstr "新しいラウンドの残り時間（分）を指定してください"
+msgstr "新たなラウンドの残り時間（分）を指定してください"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmToggleAdminCanPause"
 msgstr "Enterを押して、「管理者は試合を一時停止できる」オプションのオンオフを切り替え"
@@ -133,7 +133,7 @@ msgid "DHAdminMenu_AdminMessages.DestroyActorInSights"
 msgstr "[Enter] を押して、視界内のアクターの破壊を確定します"
 
 msgid "DHAdminMenu_AdminMessages.SetGamePasswordText"
-msgstr "新しいゲームパスワードを指定してください"
+msgstr "新たなゲームパスワードを指定してください"
 
 msgid "DHAdminMenu_ErrorMessages.MissingNameText"
 msgstr "<missing name>"
@@ -185,7 +185,9 @@ msgstr "リアリズムマッチ中やテストにプレイヤーをより細か
 "ーオプション"
 
 msgid "DHAdminMenu_AdminMessages.ConfirmGagPlayer"
-msgstr "Enter キーを押して、このプレイヤーにGAGを設定します"
+msgstr "Enter "
+"を押してこのプレイヤーを黙らせます(テキスト・ボイスチャットを使用不可にします"
+")"
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[7]"
 msgstr "<エラー: プレイヤー名がありません>"
@@ -262,3 +264,174 @@ msgstr "すべての地雷は管理者によって無効にされました"
 
 msgid "DHAdminMenu_NotifyMessages.BroadcastMinesEnabled"
 msgstr "すべての地雷は管理者によって再び有効にされました"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressDisabled"
+msgstr "占領状況のプログレスバーは管理者によって無効にされました"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressEnabled"
+msgstr "占領状況のプログレスバーは管理者によって再度有効にされました"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconDisabled"
+msgstr "マップ上のプレイヤーアイコンは管理者により無効化されています"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconEnabled"
+msgstr "マップ上のプレイヤーアイコンが管理者によって再度有効化されました"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastKilledAllPlayers"
+msgstr "すべてのプレイヤーが管理者によってキルされました"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastChangedGameSpeed"
+msgstr "管理者によりゲーム速度が x #insert_number # に変更されました"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastSetTimeRemaining"
+msgstr "残りラウンド時間は管理者によって変更されました"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyToggleAdminCanPause"
+msgstr "「管理者はラウンドをポーズできる」設定を #bAdminCanPause # に切り替えました"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastAlliesSquadSizeChanged"
+msgstr "連合国側の分隊サイズが管理者によって変更されました"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastAxisSquadSizeChanged"
+msgstr "枢軸国側の分隊サイズが管理者によって変更されました"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsDisabled"
+msgstr "分隊リスポーン地点(RP)の設置は管理者によって無効にされています"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsEnabled"
+msgstr "分隊リスポーン地点(RP)の設置は管理者によって有効化されています"
+
+msgid "DHAdminMenu_ObjectivesMenu.MenuTitle"
+msgstr "目標選択メニュー"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<0>"
+msgstr "プレイヤー名を変更"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<1>"
+msgstr "プライベートメッセージを送信"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<2>"
+msgstr "警告メッセージを送信 (音付き)"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<3>"
+msgstr "メッセージ付きキック"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<4>"
+msgstr "このプレイヤーをキルする"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<5>"
+msgstr "このプレイヤーを黙らせる(テキスト・ボイスチャットを使用不可にする)"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<6>"
+msgstr "プレイヤーを連合国側に切り替える"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<7>"
+msgstr "プレイヤーを枢軸国側に切り替える"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<8>"
+msgstr "プレイヤーを目標地点に空挺降下させる"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<9>"
+msgstr "プレイヤーを指定した座標に空挺降下させる"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<10>"
+msgstr "現在地にプレイヤーを空挺降下させる"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuTitle"
+msgstr "プレイヤーアクション:"
+
+msgid "DHAdminMenu_PlayerMenu.Label_AimedPlayer"
+msgstr "[目の前のプレイヤー]"
+
+msgid "DHAdminMenu_PlayerMenu.Label_RealismMenu"
+msgstr "R = リアリズムマッチ (またはテスト) メニュー"
+
+msgid "DHAdminMenu_PlayerMenu.Label_ServerMenu"
+msgstr "M = サーバーメニュー (共通サーバー設定)"
+
+msgid "DHAdminMenu_PlayerMenu.MenuTitle"
+msgstr "プレイヤー管理者メニュー"
+
+msgid "DHAdminMenu_PrivateMessage.MessageHeader"
+msgstr "管理者からプライベートメッセージを受信しました"
+
+msgid "DHAdminMenu_PrivateMessage.MessageChatPrefix"
+msgstr "からの管理者メッセージ"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<1>"
+msgstr "リアリズムマッチを有効にする"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<2>"
+msgstr "リアリズムマッチを無効にする"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<4>"
+msgstr "連合国側の全プレイヤーを目標地点に空挺降下させる"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<5>"
+msgstr "枢軸国側の全プレイヤーを目標地点に空挺降下させる"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<6>"
+msgstr "全プレイヤーを目標地点に空挺降下させる"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<7>"
+msgstr "連合国側の全プレイヤーを指定した座標に空挺降下させる"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<8>"
+msgstr "枢軸国側の全プレイヤーを指定した座標に空挺降下させる"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<9>"
+msgstr "全プレイヤーを指定した座標に空挺降下させる"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<11>"
+msgstr "地雷のオン/オフの切り替え"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<12>"
+msgstr "占領状況のプログレスバーのオン/オフを切り替える"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<13>"
+msgstr "マップ上でのプレイヤー位置の表示のオンオフを切り替えます"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<14>"
+msgstr "すべてのプレイヤーをキルする(リアリズムマッチを終了する)"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<15>"
+msgstr "新たなゲーム速度を設定"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<16>"
+msgstr "新たな残りラウンド時間 (分) を設定"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<17>"
+msgstr "管理者がラウンドを一時停止できるかどうかを切り替える"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<18>"
+msgstr "眼の前のアクターを破壊する"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<19>"
+msgstr "連合国側の分隊サイズを変更"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<20>"
+msgstr "枢軸国側の分隊サイズを変更"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<21>"
+msgstr "分隊リスポーン地点(RP)設置のオンオフを切り替え"
+
+msgid "DHAdminMenu_RealismMenu.MenuTitle"
+msgstr "リアリズムマッチ (またはテスト) メニュー"
+
+msgid "DHAdminMenu_RolesMenu.MenuTitle"
+msgstr "兵科選択メニュー"
+
+msgid "DHAdminMenu_ServerMenu.MenuText<1>"
+msgstr "ゲームパスワードを設定 (パスワードを削除するには空白のままにする)"
+
+msgid "DHAdminMenu_ServerMenu.MenuText<2>"
+msgstr "武器のロックを切り替え"
+
+msgid "DHAdminMenu_WarningMessage.WarningChatPrefix"
+msgstr "からの管理者警告"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmMatchLive"
+msgstr "Enter を押して、リアリズムマッチを有効にします"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<3>"
+msgstr "リアリズムマッチを有効にする"
