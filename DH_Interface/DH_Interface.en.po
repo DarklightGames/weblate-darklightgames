@@ -782,19 +782,19 @@ msgstr "No players"
 msgid "DHScoreBoard.ScoreboardColumns<0>.Title"
 msgstr "#"
 
-msgid "DHScoreBoard.ScoreboardColumns<2>.Title"
+msgid "DHScoreBoard.ScoreboardColumns<3>.Title"
 msgstr "Role"
 
-msgid "DHScoreBoard.ScoreboardColumns<5>.Title"
+msgid "DHScoreBoard.ScoreboardColumns<6>.Title"
 msgstr "K"
 
-msgid "DHScoreBoard.ScoreboardColumns<6>.Title"
+msgid "DHScoreBoard.ScoreboardColumns<7>.Title"
 msgstr "D"
 
-msgid "DHScoreBoard.ScoreboardColumns<7>.Title"
+msgid "DHScoreBoard.ScoreboardColumns<8>.Title"
 msgstr "Score"
 
-msgid "DHScoreBoard.ScoreboardColumns<8>.Title"
+msgid "DHScoreBoard.ScoreboardColumns<9>.Title"
 msgstr "Ping"
 
 msgid "DHServerBrowser.WelcomeMessageText"
