@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 18:43+0000\n"
+"PO-Revision-Date: 2025-11-17 21:06+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ja/>\n"
@@ -374,9 +374,8 @@ msgstr "Nbgr.Kw.K(Smoke)"
 msgid "DH_HetzerDestroyer.VehicleNameString"
 msgstr "Jagdpanzer 38(t) 'Hetzer'"
 
-#, fuzzy
 msgid "DH_HetzerVehicleMessage.MGBlockingHatch"
-msgstr "リモコン機銃がハッチを塞いでいます:横に回すと開きます"
+msgstr "リモコン機銃がハッチを塞いでいます!:横に回すと開きます。"
 
 msgid "DH_HigginsBoat.VehicleNameString"
 msgstr "'Higgins Boat' LCVP"
@@ -409,7 +408,7 @@ msgid "DH_ISU152Cannon_Late.nProjectileDescriptions<0>"
 msgstr "OF-540(HE)"
 
 msgid "DH_ISU152Cannon_Late.nProjectileDescriptions<1>"
-msgstr "BR-540B(APHE)"
+msgstr "BR-540B(APHEBC)"
 
 msgid "DH_JacksonCannon.nProjectileDescriptions<0>"
 msgstr "M82 APC"
@@ -631,7 +630,7 @@ msgid "DH_ShermanCannonA_76mm_Early.nProjectileDescriptions<1>"
 msgstr "M42A1 HE-T"
 
 msgid "DH_ShermanCannonA_76mm_Early.nProjectileDescriptions<2>"
-msgstr "M88 HC"
+msgstr "M88 HC(Smoke)"
 
 msgid "DH_ShermanCannon_M4A3105_Howitzer.nProjectileDescriptions<0>"
 msgstr "M1 HE-T"
@@ -751,13 +750,13 @@ msgid "DH_ISU152Cannon.ProjectileDescriptions<0>"
 msgstr "HE"
 
 msgid "DH_ISU152Cannon.ProjectileDescriptions<1>"
-msgstr "AP"
+msgstr "APHE"
 
 msgid "DH_ISU152Cannon_Late.ProjectileDescriptions<0>"
 msgstr "HE"
 
 msgid "DH_ISU152Cannon_Late.ProjectileDescriptions<1>"
-msgstr "APBC"
+msgstr "APHEBC"
 
 msgid "DH_ISU152Destroyer.VehicleNameString"
 msgstr "ISU-152"
@@ -832,7 +831,7 @@ msgid "DH_M7PriestCannon.ProjectileDescriptions<0>"
 msgstr "HE-T"
 
 msgid "DH_M7PriestCannon.ProjectileDescriptions<1>"
-msgstr "白リン発煙弾"
+msgstr "白リン発煙弾(WP)"
 
 msgid "DH_M7PriestCannon.ProjectileDescriptions<2>"
 msgstr "HEAT"
