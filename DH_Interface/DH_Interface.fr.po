@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-17 07:36+0000\n"
-"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"PO-Revision-Date: 2025-11-17 07:55+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/fr/>\n"
 "Language: fr\n"
@@ -1638,3 +1638,21 @@ msgstr "Nombre Chat Maximum"
 
 msgid "DHTab_Hud.GameHudMessageOffset.Caption"
 msgstr "Décalage Police de Message"
+
+msgid "DHScoreBoard.SquadMemberIndexColumnTitle"
+msgstr "#"
+
+msgid "DHScoreBoard.RoleColumnTitle"
+msgstr "Rôle"
+
+msgid "DHScoreBoard.KillsColumnTitle"
+msgstr "K"
+
+msgid "DHScoreBoard.DeathsColumnTitle"
+msgstr "D"
+
+msgid "DHScoreBoard.ScoreColumnTitle"
+msgstr "Score"
+
+msgid "DHScoreBoard.PingColumnTitle"
+msgstr "Ping"
