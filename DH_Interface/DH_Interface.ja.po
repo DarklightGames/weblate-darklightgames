@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-11-17 07:36+0000\n"
-"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
 "Language: ja\n"
@@ -596,6 +596,7 @@ msgstr "カスタム"
 msgid "DHFilterListPage.bEdit.Caption"
 msgstr "編集"
 
+#, fuzzy
 msgid "DHScoreBoard.ScoreboardColumns<7>.Title"
 msgstr "スコア"
 
