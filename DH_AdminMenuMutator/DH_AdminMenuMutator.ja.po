@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 18:43+0000\n"
+"PO-Revision-Date: 2025-11-17 07:55+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/ja/>\n"
@@ -222,3 +222,43 @@ msgstr "分隊リスポーン地点(RP)の配置はすでに無効になって�
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[27]"
 msgstr "分隊リスポーン地点(RP)の配置はすでに有効になっています"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[3]"
+msgstr "リアリズムマッチミューテーターはサーバーにロードされていないため、このオプシ"
+"ョンは使用できません"
+
+msgid "DHAdminMenu_MenuBase.Label_PageNumber"
+msgstr "%Y% ページ中の %X% ページ"
+
+msgid "DHAdminMenu_MenuBase.Label_PreviousMenu"
+msgstr "PgUp = 前のメニュー"
+
+msgid "DHAdminMenu_MenuBase.Label_PreviousPage"
+msgstr "PgUp = 前のページ"
+
+msgid "DHAdminMenu_MenuBase.Label_NextPage"
+msgstr "PgDN = 次のページ"
+
+msgid "DHAdminMenu_MenuBase.Label_ExitMenu"
+msgstr "Esc = 管理者メニューを終了"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyRename"
+msgstr "ゲーム名は管理者によって変更されました"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyKill"
+msgstr "管理者によってリスポーンされました"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyGag"
+msgstr "管理者によってテキストチャットでの発言が禁止されました"
+
+msgid "DHAdminMenu_NotifyMessages.NotifySwitch"
+msgstr "管理者によって新たな役割または陣営に切り替えられました"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyParaDrop"
+msgstr "管理者によってどこかに投下されました"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastMinesDisabled"
+msgstr "すべての地雷は管理者によって無効にされました"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastMinesEnabled"
+msgstr "すべての地雷は管理者によって再び有効にされました"
