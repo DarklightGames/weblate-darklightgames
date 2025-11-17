@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-17 07:36+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2025-11-17 21:06+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
 "Language: ja\n"
@@ -697,7 +697,7 @@ msgid "DHContextMenu_SquadMembers.EntryTexts<10>"
 msgstr "{1}が{0}をマーカーの位置に空挺降下させた"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<11>"
-msgstr "{1}が分隊を分隊長の位置にパラ降下させた"
+msgstr "{1}が分隊を分隊長の位置に空挺降下させた"
 
 msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<12>"
 msgstr "IPを開く"
@@ -1658,3 +1658,204 @@ msgstr "プレビュー"
 
 msgid "DHTab_MutatorSP.IAMutatorRemove.Caption"
 msgstr "削除"
+
+msgid "DHScoreBoard.SquadMemberIndexColumnTitle"
+msgstr "#"
+
+msgid "DHScoreBoard.RoleColumnTitle"
+msgstr "兵科"
+
+msgid "DHScoreBoard.KillsColumnTitle"
+msgstr "K"
+
+msgid "DHScoreBoard.DeathsColumnTitle"
+msgstr "D"
+
+msgid "DHScoreBoard.ScoreColumnTitle"
+msgstr "戦果"
+
+msgid "DHScoreBoard.PingColumnTitle"
+msgstr "Ping"
+
+msgid "DHTab_GameSettings.PlayersROID.Caption"
+msgstr "マルチプレイヤーゲームへの参加後にIDが表示されます"
+
+msgid "DHTab_GameSettings.PurgeCacheDays.Caption"
+msgstr "キャッシュを削除"
+
+msgid "DHTab_GameSettings.PurgeCacheDays.Hint"
+msgstr "サーバーからダウンロードしたカスタムファイルを削除する頻度"
+
+msgid "DHTab_GameSettings.ThrottleOtherVehicles.Caption"
+msgstr "漸増アクセル(その他の車両)"
+
+msgid "DHTab_GameSettings.ThrottleOtherVehicles.Hint"
+msgstr "戦車以外の車両に漸増アクセルを使用します。(お勧めしません)"
+
+msgid "DHTab_GameSettings.ThrottleTanks.Caption"
+msgstr "漸増アクセル(戦車)"
+
+msgid "DHTab_GameSettings.ThrottleTanks.Hint"
+msgstr "戦車のアクセル操作を相対制御(ある値が保持される、ジャンプキーで0に戻る)にしま"
+"す。長時間のドライブに便利です"
+
+msgid "DHTab_GameSettings.ViewFOV.Caption"
+msgstr "標準視野角(FOV)"
+
+msgid "DHTab_GameSettings.ViewFOV.Hint"
+msgstr ""
+"ゲーム内での視野の広さ(視野角、FOV)です。小さな値を選ぶと少しズームされた視野"
+"になり、大きな値ほど周辺視野が広がります。ワイドスクリーンモニタでは視野の幅"
+"が広くなるわけではないことに注意してください。スタンダード(4:3)のモニタと同じ"
+"視野のうち上部と下部が切り取られます。"
+
+msgid "DHTab_Hud.GameBK1.Caption"
+msgstr "スタイル"
+
+msgid "DHTab_Hud.GameHudMessageCount.Caption"
+msgstr "画面に表示されるテキストチャットの最大数"
+
+msgid "DHTab_Hud.GameHudMessageOffset.Caption"
+msgstr "メッセージのフォントのオフセット"
+
+msgid "DHTab_Hud.GameHudMessageScale.Caption"
+msgstr "テキストチャットのフォントサイズ"
+
+msgid "DHTab_Hud.GameHudShowDeathMessages.Caption"
+msgstr "キルログを表示"
+
+msgid "DHTab_Hud.GameHudShowPersonalInfo.Caption"
+msgstr "プレイヤー名を表示"
+
+msgid "DHTab_Hud.GameHudShowWeaponInfo.Caption"
+msgstr "兵器内の情報オーバレイを表示"
+
+msgid "DHTab_Hud.GameHudSimpleColours.Caption"
+msgstr "シンプルな HUD カラー"
+
+msgid "DHTab_Hud.GameHudSimpleColours.Hint"
+msgstr "チームHUDカラーを赤と青のみにします。色覚異常のプレイヤー向けです。"
+
+msgid "DHTab_Hud.GameHudVisible.Caption"
+msgstr "HUD を非表示"
+
+msgid "DHTab_Hud.ShowChatMessages.Caption"
+msgstr "チャットメッセージを表示"
+
+msgid "DHTab_Hud.ShowChatMessages.Hint"
+msgstr "プレイヤーとサーバーからのチャットメッセージを表示します。メッセージは引き続"
+"きコンソールで読むことができます。"
+
+msgid "DHTab_Hud.ShowCompass.Caption"
+msgstr "コンパスを表示"
+
+msgid "DHTab_Hud.ShowMapFirstSpawn.Caption"
+msgstr "初回スポーン時にマップを表示"
+
+msgid "DHTab_Hud.UseTechnicalAmmoNames.Caption"
+msgstr "実際の弾薬名を使う (戦車/対戦車砲)"
+
+msgid "DHTab_Hud.myGameHudOpacity.Caption"
+msgstr "HUDの不透明度"
+
+msgid "DHTab_Hud.myHudScale.Caption"
+msgstr "HUDのサイズ"
+
+msgid "DHTab_Input.InputInvertMouse.Caption"
+msgstr "マウス入力の上下を反転"
+
+msgid "DHTab_Input.InputAutoSlope.Caption"
+msgstr "移動時に視線を水平方向に自動調整、傾斜地では足元を向く。(コントローラー向け)"
+
+msgid "DHTab_Input.InputIronSightBipodFactor.Caption"
+msgstr "二脚使用時の感度倍率"
+
+msgid "DHTab_Input.InputIronSightFactor.Caption"
+msgstr "アイアンサイト使用時の感度倍率"
+
+msgid "DHTab_Input.InputMenuSensitivity.Caption"
+msgstr "マウス感度 (メニュー)"
+
+msgid "DHTab_Input.InputMouseAccel.Caption"
+msgstr "マウス加速のしきい値"
+
+msgid "DHTab_Input.InputMouseLag.Caption"
+msgstr "マウスラグを軽減"
+
+msgid "DHTab_Input.InputMouseLag.Hint"
+msgstr "このオプションを有効にすると、マウスのラグが軽減されます。"
+
+msgid "DHTab_Input.InputMousePollRate.Caption"
+msgstr "マウスのポーリングレート"
+
+msgid "DHTab_Input.InputMouseSensitivity.Caption"
+msgstr "マウス感度(ゲーム内)"
+
+msgid "DHTab_Input.InputMouseSmoothStr.Caption"
+msgstr "マウススムージングの強度"
+
+msgid "DHTab_Input.InputMouseSmoothing.Caption"
+msgstr "マウススムージング"
+
+msgid "DHTab_Input.InputScopedFactor.Caption"
+msgstr "スコープと双眼鏡の感度倍率"
+
+msgid "DHTab_Input.InputUseJoystick.Caption"
+msgstr "ジョイスティックを有効にする"
+
+msgid "DHTab_MainSP.MapCaptionText"
+msgstr "{game} マップ"
+
+msgid "DHTab_MainSP.MapAuthorText"
+msgstr "マップ作成者:{author}"
+
+msgid "DHTab_MainSP.MapPlayersText"
+msgstr "{min} 人"
+
+msgid "DHTab_MainSP.MapPlayersRangeText"
+msgstr "{min}~{max}人"
+
+msgid "DHTab_MainSP.DifficultyCombo.Caption"
+msgstr "難易度"
+
+msgid "DHTab_MainSP.MapAuthorLabel.Caption"
+msgstr "テスト"
+
+msgid "DHTab_MainSP.MaplistButton.ButtonCaption"
+msgstr "マップリスト編集"
+
+msgid "DHTab_MainSP.NoPreview.Caption"
+msgstr "プレビューがありません"
+
+msgid "DHTab_MainSP.RecommendedPlayers.Caption"
+msgstr "4~8人のプレーヤーに最適"
+
+msgid "DHTab_MainSP.SelectionGroup.Caption"
+msgstr "マップ選択"
+
+msgid "DHTab_MutatorSP.ActiveBackground.Caption"
+msgstr "使用するミューテータ"
+
+msgid "DHTab_MutatorSP.AvailBackground.Caption"
+msgstr "利用可能なミューテータ"
+
+msgid "DHTab_MutatorSP.DescriptionBackground.Caption"
+msgstr "ミューテータの詳細"
+
+msgid "DHTab_MutatorSP.IAMutatorConfig.Caption"
+msgstr "ミューテータの設定"
+
+msgid "DHTab_ServerRulesPanel.AdvancedButton.Caption"
+msgstr "拡張オプションを表示"
+
+msgid "DHTab_ServerRulesPanel.EnableWebadmin.Caption"
+msgstr "WebAdminを有効にする"
+
+msgid "DHTab_ServerRulesPanel.WebadminPort.Caption"
+msgstr "WebAdminポート"
+
+msgid "DHVideoChangePrompt.bCancel.Caption"
+msgstr "設定をもとに戻す"
+
+msgid "DHVideoChangePrompt.bOk.Caption"
+msgstr "設定を確定する"
