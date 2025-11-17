@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-10 15:09+0000\n"
+"PO-Revision-Date: 2025-11-17 21:06+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/ja/>\n"
@@ -66,10 +66,10 @@ msgid "ROConsole.SMStateName[8]"
 msgstr "挑発"
 
 msgid "ROConsole.SMStateName[9]"
-msgstr "...を攻撃"
+msgstr "...を攻撃せよ"
 
 msgid "ROConsole.SMStateName[10]"
-msgstr "...を防御"
+msgstr "...を防御せよ"
 
 msgid "ROConsole.SMStateName[11]"
 msgstr "...に移動"
@@ -78,7 +78,7 @@ msgid "ROConsole.SMStateName[12]"
 msgstr "...に援護が必要"
 
 msgid "ROConsole.SMStateName[13]"
-msgstr "...に敵の攻撃"
+msgstr "... が攻撃を受けている"
 
 msgid "ROCreditsPage.WindowName"
 msgstr "クレジット"
