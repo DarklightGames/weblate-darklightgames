@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 18:43+0000\n"
+"PO-Revision-Date: 2025-11-17 21:06+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ja/>\n"
@@ -141,7 +141,7 @@ msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
 msgstr "管理者'{0}'が{1}を{2}分隊の分隊長にしました。"
 
 msgid "DHArtilleryMessage.RequestText"
-msgstr "{name}を求めている。"
+msgstr "{name}を要請中"
 
 msgid "DHAdminMessage.PlacedSpawnMessage"
 msgstr "管理者{0}が{1}チームにスポーン地点を設置しました。"
@@ -201,10 +201,10 @@ msgid "DHArtillery.MenuName"
 msgstr "長距離砲撃"
 
 msgid "DHArtilleryMessage.ConfirmText"
-msgstr "{name}が承諾された。"
+msgstr "{name}が承諾されました"
 
 msgid "DHArtilleryMessage.DenyText"
-msgstr "{name}が拒否された。"
+msgstr "{name}は却下されました"
 
 msgid "DHArtilleryMessage.TooSoonText"
 msgstr "{name}はすでに進行中です。再度要請してください。"
@@ -219,7 +219,7 @@ msgid "DHArtilleryMessage.BadLocationText"
 msgstr "{name}の目標地点は無効な位置です。"
 
 msgid "DHArtilleryMessage.NoTargetText"
-msgstr "目標地点がありません。"
+msgstr "砲撃目標が指定されていません。"
 
 msgid "DHArtilleryMessage.NotQualifiedText"
 msgstr "あなたには{name}を要請する資格がありません。"
@@ -752,7 +752,7 @@ msgstr "車載機関銃"
 
 msgid "DHHintManager.Hints[46].Text"
 msgstr "この機関銃は車外に設置されており、射撃や再装填はハッチを開けた状態でのみ可能"
-"です"
+"です。"
 
 msgid "DHHintManager.Hints[47].Title"
 msgstr "リモコン機銃"
