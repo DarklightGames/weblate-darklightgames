@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-10 15:09+0000\n"
+"PO-Revision-Date: 2025-11-17 21:06+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/roengine/ja/>\n"
@@ -12,13 +12,13 @@ msgstr ""
 "X-Generator: Weblate 5.13.3\n"
 
 msgid "ROAmmoWeightMessage.HeavyMessage"
-msgstr "新しい弾倉は重い"
+msgstr "弾は十分入っている"
 
 msgid "ROAmmoWeightMessage.LightMessage"
-msgstr "新しい弾倉は軽い"
+msgstr "弾は半分くらい入っている"
 
 msgid "ROAmmoWeightMessage.VeryLightMessage"
-msgstr "新しい弾倉はとても軽い"
+msgstr "弾はほとんど入っていない"
 
 msgid "ROArtilleryMsg.SavedPosition"
 msgstr "砲撃座標決定"
@@ -108,7 +108,7 @@ msgid "ROGameMessage.EnteredMessage"
 msgstr "が戦場に到着した。"
 
 msgid "ROGameMessage.NewPlayerMessage"
-msgstr "新たなる兵士が戦場に投入される。"
+msgstr "新たな兵士が戦場に到着した。"
 
 msgid "ROHintManager.Hints[0].Title"
 msgstr "ようこそ"
@@ -609,7 +609,7 @@ msgid "ROTeamGame.PropsDisplayText[11]"
 msgstr "死亡後の散策観戦を許可"
 
 msgid "ROTeamGame.PropsDisplayText[12]"
-msgstr "Adminのポーズを許可"
+msgstr "Adminがラウンドをポーズすることを許可"
 
 msgid "ROTeamGame.PropsDisplayText[13]"
 msgstr "最小プレイヤー数"
@@ -996,7 +996,7 @@ msgid "ROVoicePack.VehicleAlertAbbrev[3]"
 msgstr "後方に敵!"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[4]"
-msgstr "敵の歩兵が近くにいるぞ!"
+msgstr "敵の歩兵が近い!"
 
 msgid "ROVoicePack.VehicleAlertAbbrev[5]"
 msgstr "はい!"
