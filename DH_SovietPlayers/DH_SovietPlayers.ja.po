@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 18:43+0000\n"
+"PO-Revision-Date: 2025-11-17 21:06+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_sovietplayers/ja/>\n"
@@ -24,10 +24,10 @@ msgid "DHSOVCorporalRoles.MyName"
 msgstr "班長"
 
 msgid "DHSOVEngineerRoles.AltName"
-msgstr "工兵"
+msgstr "Saper"
 
 msgid "DHSOVMachineGunnerRoles.AltName"
-msgstr "\"Pulemetchik\" 機関銃手"
+msgstr "Pulemetchik"
 
 msgid "DHSOVSergeantRoles.MyName"
 msgstr "分隊長"
