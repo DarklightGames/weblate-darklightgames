@@ -779,22 +779,22 @@ msgstr "Loss: "
 msgid "DHScoreBoard.NoPlayersText"
 msgstr "No players"
 
-msgid "DHScoreBoard.ScoreboardColumns<0>.Title"
+msgid "DHScoreBoard.SquadMemberIndexColumnTitle"
 msgstr "#"
 
-msgid "DHScoreBoard.ScoreboardColumns<3>.Title"
+msgid "DHScoreBoard.RoleColumnTitle"
 msgstr "Role"
 
-msgid "DHScoreBoard.ScoreboardColumns<6>.Title"
+msgid "DHScoreBoard.KillsColumnTitle"
 msgstr "K"
 
-msgid "DHScoreBoard.ScoreboardColumns<7>.Title"
+msgid "DHScoreBoard.DeathsColumnTitle"
 msgstr "D"
 
-msgid "DHScoreBoard.ScoreboardColumns<8>.Title"
+msgid "DHScoreBoard.ScoreColumnTitle"
 msgstr "Score"
 
-msgid "DHScoreBoard.ScoreboardColumns<9>.Title"
+msgid "DHScoreBoard.PingColumnTitle"
 msgstr "Ping"
 
 msgid "DHServerBrowser.WelcomeMessageText"
