@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-03 00:09+0000\n"
+"PO-Revision-Date: 2025-11-29 18:09+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/es/>\n"
@@ -52,7 +52,7 @@ msgid "DH_P08LugerWeapon.ItemName"
 msgstr "Luger Pistole 08"
 
 msgid "DH_EnfieldNo4Weapon.ItemName"
-msgstr "Rifle Lee Enfield No.4"
+msgstr "Lee Enfield No.4"
 
 msgid "DH_MN9130Weapon.ItemName"
 msgstr "Mosin M91/30"
@@ -115,7 +115,7 @@ msgid "DH_ColtM1914Weapon.ItemName"
 msgstr "Kongsberg Colten M/1914 Pistole"
 
 msgid "DH_G41Weapon.ItemName"
-msgstr "Rifle semiautomático G 41(W)"
+msgstr "G 41(W)"
 
 msgid "DH_M2MortarVehicle.VehicleNameString"
 msgstr "Mortero de 60 mm M2"
@@ -172,7 +172,7 @@ msgid "DH_SVT38Weapon.ItemName"
 msgstr "Tokarev SVT-38"
 
 msgid "DH_AVT40Weapon.ItemName"
-msgstr "Rifle automático AVT-40"
+msgstr "Tokarev AVT-40"
 
 msgid "DH_Kz8cmGrW42Weapon.ItemName"
 msgstr "Mortero Kz 8cm GrW 42"
