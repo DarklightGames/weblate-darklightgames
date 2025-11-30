@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-17 21:06+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2025-11-30 17:58+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ja/>\n"
 "Language: ja\n"
@@ -472,7 +472,7 @@ msgid "DHConstructionErrorMessage.ErrorMessages<17>"
 msgstr "この場所に{name}を{verb}ことはできません。"
 
 msgid "DHConstructionErrorMessage.ErrorMessages<18>"
-msgstr "この地面は固すぎるので{name}を{verb}できません。"
+msgstr "この地面は固すぎるので{name}を{verb}ことはできません。"
 
 msgid "DHConstructionErrorMessage.ErrorMessages<20>"
 msgstr "{name}を{verb}には{integer}人の分隊員が必要です。"
@@ -1164,9 +1164,8 @@ msgstr "自軍の兵士"
 msgid "DHPlayerReplicationInfo.SquadLeaderAbbreviation"
 msgstr "SL"
 
-#, fuzzy
 msgid "DHPlayerReplicationInfo.AssistantAbbreviation"
-msgstr "ASL"
+msgstr "A"
 
 msgid "DHRadioTouchMessage.RequestMessage"
 msgstr "[%SHOWORDERMENU | ONRELEASE HIDEORDERMENU%]を押し続けて砲撃を要請"
@@ -1429,8 +1428,7 @@ msgstr "分隊リスポーン地点 (RP) を作成するには、近くに分隊
 
 msgid "DHSquadMessage.RallyPointCreatedMessage"
 msgstr "分隊リスポーン地点 (RP) "
-"が設置されました。このRPを有効化するには、分隊と一緒にエリアを確保してくださ"
-"い。"
+"が設置されました。このRPを有効化するには、付近の安全を確保してください。"
 
 msgid "DHSquadMessage.RallyPointOverrunMessage"
 msgstr "分隊リスポーン地点 (RP) が敵に襲われました。"
