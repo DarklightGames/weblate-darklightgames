@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-18 22:09+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2025-11-30 17:58+0000\n"
+"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
 "Language: ja\n"
@@ -174,7 +174,7 @@ msgid "DHSmallFontDS.FontArrayNames<2>"
 msgstr "DHFonts_jap.DHSmallFont"
 
 msgid "DHBrowser_Footer.BrowserMain.Caption"
-msgstr "メイン"
+msgstr "メインメニュー"
 
 msgid "DHButtonFontDS.FontArrayNames<4>"
 msgstr "DHFont_jap.DHButtonFontDS"
@@ -772,10 +772,10 @@ msgid "DHDeployMenu.SelectSpawnPointText"
 msgstr "スポーン地点を選択"
 
 msgid "DHDeployMenu.DeployInTimeText"
-msgstr "コンティニューを押して出撃してください ({0})"
+msgstr "'出撃'をクリック!({0})"
 
 msgid "DHDeployMenu.DeployNowText"
-msgstr "コンティニューを押して今すぐ出撃できます!"
+msgstr "'出撃'をクリック!"
 
 msgid "DHDeployMenu.ReservedString"
 msgstr "予約済み"
