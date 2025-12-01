@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-30 17:58+0000\n"
+"PO-Revision-Date: 2025-12-02 04:09+0000\n"
 "Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
@@ -772,7 +772,7 @@ msgid "DHDeployMenu.SelectSpawnPointText"
 msgstr "スポーン地点を選択"
 
 msgid "DHDeployMenu.DeployInTimeText"
-msgstr "'出撃'をクリック!({0})"
+msgstr "({0}後に出撃できます!"
 
 msgid "DHDeployMenu.DeployNowText"
 msgstr "'出撃'をクリック!"
