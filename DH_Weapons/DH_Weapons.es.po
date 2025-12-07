@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-29 18:09+0000\n"
+"PO-Revision-Date: 2025-12-08 09:43+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/es/>\n"
@@ -19,7 +19,7 @@ msgid "DH_GeratPIIWeapon.ItemName"
 msgstr "Gerat Potsdam II"
 
 msgid "DH_G43ScopedWeapon.ItemName"
-msgstr "Rifle de francotirador G 43 (ZF4)"
+msgstr "G 43 (ZF4)"
 
 msgid "DH_PanzerschreckWeapon.ItemName"
 msgstr "RPzB 54 'Panzerschreck'"
@@ -34,7 +34,7 @@ msgid "DH_MP41RWeapon.ItemName"
 msgstr "MP 41(r)"
 
 msgid "DH_ZB30Weapon.ItemName"
-msgstr "Ametralladora ligera ZB-30"
+msgstr "ZB-30"
 
 msgid "DH_GLWeapon.ItemName"
 msgstr "Granada Antitanque StG 24 x7 \"Geballte Ladung\""
@@ -64,7 +64,7 @@ msgid "DH_M9530Weapon.ItemName"
 msgstr "Mannlicher M95/30"
 
 msgid "DH_DP27LateWeapon.ItemName"
-msgstr "Ametralladora DP-27"
+msgstr "DP-27"
 
 msgid "DH_Vz24Weapon.ItemName"
 msgstr "Rifle Vz.24"
@@ -73,10 +73,10 @@ msgid "DH_Kz8cmGrW42Weapon.Description"
 msgstr "Kurz 8cm Granatwerfer 42"
 
 msgid "DH_30calWeapon.ItemName"
-msgstr "Ametralladora Browning M1919A6"
+msgstr "Browning M1919A6"
 
 msgid "DH_DT29Weapon.ItemName"
-msgstr "Ametralladora DT-29"
+msgstr "DT-29"
 
 msgid "DH_M1924Weapon.ItemName"
 msgstr "Rifle M1924"
@@ -91,7 +91,7 @@ msgid "DH_StenMkVWeapon.ItemName"
 msgstr "STEN Mk.V"
 
 msgid "DH_Kar98Weapon.ItemName"
-msgstr "Rifle Kar 98k"
+msgstr "Kar 98k"
 
 msgid "DH_Kar98ScopedWeapon.ItemName"
 msgstr "Rifle de francotirador Kar 98k (ZF39)"
@@ -142,7 +142,7 @@ msgid "DH_SVT40Weapon.ItemName"
 msgstr "Tokarev SVT-40"
 
 msgid "DH_BARNoBipodWeapon.ItemName"
-msgstr "Rifle automático M1918A2 (Sin bípode)"
+msgstr "Browning Automatic Rifle M1918A2 (Sin bípode)"
 
 msgid "DH_M2MortarWeapon.ItemName"
 msgstr "Mortero de 60 mm M2"
@@ -163,7 +163,7 @@ msgid "DH_Nagant1895BramitWeapon.ItemName"
 msgstr "Revolver Nagant M1895 (Silenciador BraMit)"
 
 msgid "DH_G98Weapon.ItemName"
-msgstr "Rifle G 98"
+msgstr "G 98"
 
 msgid "DH_PPS43Weapon.ItemName"
 msgstr "PPS-43"
@@ -178,7 +178,7 @@ msgid "DH_Kz8cmGrW42Weapon.ItemName"
 msgstr "Mortero Kz 8cm GrW 42"
 
 msgid "DH_MG34Weapon.ItemName"
-msgstr "Ametralladora MG 34"
+msgstr "MG 34"
 
 msgid "DH_ColtM1911Weapon.ItemName"
 msgstr "Colt M1911A1"
@@ -187,7 +187,7 @@ msgid "DH_SatchelCharge10lb10sWeapon.ItemName"
 msgstr "Carga explosiva de 3 kg"
 
 msgid "DH_DP27Weapon.ItemName"
-msgstr "Ametralladora DP-27"
+msgstr "DP-27"
 
 msgid "DH_M1928_30rndWeapon.ItemName"
 msgstr "M1928A1 Thompson (30 balas)"
@@ -196,7 +196,7 @@ msgid "DH_MP38Weapon.ItemName"
 msgstr "MP 38"
 
 msgid "DH_MG42Weapon.ItemName"
-msgstr "Ametralladora MG 42"
+msgstr "MG 42"
 
 msgid "DH_BHPWeapon.ItemName"
 msgstr "FN Browning High Power"
@@ -232,7 +232,7 @@ msgid "DH_M1CarbineWeapon.ItemName"
 msgstr "Carabina M1"
 
 msgid "DH_FG42Weapon.ItemName"
-msgstr "Fusil automático FG 42"
+msgstr "FG 42"
 
 msgid "DH_PTRDWeapon.ItemName"
 msgstr "Rifle Antitanque PTRD-41"
@@ -265,7 +265,7 @@ msgid "DH_GreaseGunWeapon.ItemName"
 msgstr "M3 'Grease Gun'"
 
 msgid "DH_BARWeapon.ItemName"
-msgstr "Rifle Automático Browning M1918A2"
+msgstr "Browning Automatic Rifle M1918A2"
 
 msgid "DH_Kz8cmGrW42Vehicle.VehicleNameString"
 msgstr "Kurz 8cm Granatwerfer 42"
@@ -280,7 +280,7 @@ msgid "DH_StenMkIICWeapon.ItemName"
 msgstr "STEN Mk.II"
 
 msgid "DH_VG15Weapon.ItemName"
-msgstr "Rifle semiautomático VG 1-5"
+msgstr "VG 1-5"
 
 msgid "DH_P38Weapon.ItemName"
 msgstr "Walther Pistole 38"
@@ -325,7 +325,7 @@ msgid "DH_ThompsonWeapon.ItemName"
 msgstr "M1A1 Thompson"
 
 msgid "DH_STG44Weapon.ItemName"
-msgstr "Rifle de Asalto StG 44"
+msgstr "StG 44"
 
 msgid "DH_WitchEnder666Weapon.ItemName"
 msgstr "WitchEnder 666 'Satan's Bane'"
@@ -346,7 +346,7 @@ msgid "DH_Wz35Weapon.ItemName"
 msgstr "Rifle antitanque Wz-35"
 
 msgid "DH_Breda30Weapon.ItemName"
-msgstr "Ametralladora ligera Breda modello 30"
+msgstr "Breda modelo. 1930"
 
 msgid "DH_CarcanoM91Weapon.ItemName"
 msgstr "Carcano M91"
