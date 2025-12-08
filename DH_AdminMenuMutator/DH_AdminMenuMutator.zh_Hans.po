@@ -1,2 +1,25 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.darklightgames.com/projects/darkesthour/dh_adminmenumutator/zh_Hans/>"
+"\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "DHAdminMenuMutator.FriendlyName"
+msgstr "管理员菜单"
+
+msgid "DHAdminMenu_AdminMessages.EnterNewPlayerName"
+msgstr "请为玩家输入新名称-然后按回车"
+
+msgid "DHAdminMenu_AdminMessages.EnterWarningMessage"
+msgstr "输入对玩家的警告信息-然后按回车"
+
+msgid "DHAdminMenu_AdminMessages.EnterKickReason"
+msgstr "输入对玩家的提出信息-然后按回车将其踢出"
