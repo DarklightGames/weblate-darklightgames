@@ -1,2 +1,33 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.darklightgames.com/projects/darkesthour/roengine/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "ROAmmoWeightMessage.HeavyMessage"
+msgstr "新弹匣很沉"
+
+msgid "ROAmmoWeightMessage.LightMessage"
+msgstr "新弹匣是轻的"
+
+msgid "ROAmmoWeightMessage.VeryLightMessage"
+msgstr "新弹匣非常轻"
+
+msgid "ROBipodWarningMsg.DeployToFire"
+msgstr "你必须部署后才可开火!"
+
+msgid "ROBipodWarningMsg.DeployToReload"
+msgstr "你必须部署后才可重装弹药!"
+
+msgid "ROGameMessage.YouHaveLoggedInAsAdminMsg"
+msgstr "你已以管理员的身份登入."
+
+msgid "ROGameMessage.NewPlayerMessage"
+msgstr "一名新兵已加入战斗."
