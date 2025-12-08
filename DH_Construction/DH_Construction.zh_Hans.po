@@ -1,2 +1,153 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.darklightgames.com/projects/darkesthour/dh_construction/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "DHCameraWeapon.ItemName"
+msgstr "摄像机"
+
+msgid "DHCommandMenu_ConstructionGroup.NotAvailableText"
+msgstr "暂无"
+
+msgid "DHCommandMenu_ConstructionGroup.TeamLimitText"
+msgstr "达到限制"
+
+msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
+msgstr "已用尽"
+
+msgid "DHCommandMenu_ConstructionGroup.RemainingText"
+msgstr "{0}剩余"
+
+msgid "DHCommandMenu_ConstructionGroup.BusyText"
+msgstr "忙碌"
+
+msgid "DHCommandMenu_ConstructionGroup.MaxActiveText"
+msgstr "{0}/{1}启用"
+
+msgid "DHCommandMenu_ConstructionGroup.NoSquadMembersNearbyText"
+msgstr "附近没有班组成员"
+
+msgid "DHCommandMenu_ConstructionGroup.MoreText"
+msgstr "更多"
+
+msgid "DHConstructionControlsMessage.Controls<0>.Text"
+msgstr "确认"
+
+msgid "DHConstructionControlsMessage.Controls<1>.Text"
+msgstr "取消"
+
+msgid "DHConstructionControlsMessage.Controls<2>.Text"
+msgstr "旋转"
+
+msgid "DHConstructionControlsMessage.Controls<3>.Text"
+msgstr "重置"
+
+msgid "DHConstructionControlsMessage.Controls<4>.Text"
+msgstr "切换变体/更改型号"
+
+msgid "DHConstructionControlsMessage.Controls<5>.Text"
+msgstr "更改皮肤"
+
+msgid "DHConstructionGroup_Ammunition.GroupName"
+msgstr "弹药"
+
+msgid "DHConstructionGroup_Debug.GroupName"
+msgstr "调试"
+
+msgid "DHConstructionGroup_Defenses.GroupName"
+msgstr "防守工事"
+
+msgid "DHConstructionGroup_Logistics.GroupName"
+msgstr "后勤"
+
+msgid "DHConstructionGroup_Obstacles.GroupName"
+msgstr "障碍物"
+
+msgid "DHConstructionResupplyPlayers.MenuName"
+msgstr "弹药箱(步兵)"
+
+msgid "DHConstructionResupplyPlayers.MenuDescription"
+msgstr "为步兵提供补给点."
+
+msgid "DHConstructionResupplyVehicles.MenuName"
+msgstr "弹药箱(载具)"
+
+msgid "DHConstructionResupplyVehicles.MenuDescription"
+msgstr "为载具和火炮提供补给点."
+
+msgid "DHConstruction_ConcertinaWire.MenuName"
+msgstr "铁丝网"
+
+msgid "DHConstruction_ConcertinaWire.MenuDescription"
+msgstr "可有效阻挡步兵和轻型车辆."
+
+msgid "DHConstruction_DragonsTooth.MenuName"
+msgstr "龙牙水泥墩"
+
+msgid "DHConstruction_DragonsTooth.MenuDescription"
+msgstr "可以有效阻挡所有载具."
+
+msgid "DHConstruction_Foxhole.MenuName"
+msgstr "散兵坑"
+
+msgid "DHConstruction_Foxhole.ConstructionVerb"
+msgstr "挖掘"
+
+msgid "DHConstruction_Hedgehog.MenuName"
+msgstr "刺猬弹"
+
+msgid "DHConstruction_Hedgehog.MenuDescription"
+msgstr "可以有效阻挡轻型和中型车辆."
+
+msgid "DHConstruction_InventorySpawner.ConstructionVerb"
+msgstr "放置"
+
+msgid "DHConstruction_PlatoonHQ.CustomErrorString"
+msgstr "除非在控制据点的{integer}米范围内.否则不可在靠近{string}的地方{verb}{name}."
+
+msgid "DHConstruction_PlatoonHQ.MenuName"
+msgstr "前线指挥所"
+
+msgid "DHConstruction_PlatoonHQ.MenuDescription"
+msgstr "为全队提供复活点."
+
+msgid "DHConstruction_Resupply.ConstructionVerb"
+msgstr "放置"
+
+msgid "DHConstruction_Sandbags_Bunker.MenuName"
+msgstr "沙袋(掩体)"
+
+msgid "DHConstruction_Sandbags_Crescent.MenuName"
+msgstr "沙袋(月牙形)"
+
+msgid "DHConstruction_Sandbags_Line.MenuName"
+msgstr "沙袋(线形)"
+
+msgid "DHConstruction_Sandbags_MortarPit.MenuName"
+msgstr "沙袋(迫击炮阵地)"
+
+msgid "DHConstruction_SupplyCache.MenuName"
+msgstr "物资储存点"
+
+msgid "DHConstruction_SupplyCache.MenuDescription"
+msgstr "随时间生成并存储补给物资."
+
+msgid "DHConstruction_SupplyCache.ConstructionVerb"
+msgstr "放置"
+
+msgid "DHConstruction_VehiclePool.MenuName"
+msgstr "车辆库/载具储备池"
+
+msgid "DHConstruction_VehiclePool.MenuDescription"
+msgstr "为全队提供载具重生点."
+
+msgid "DHConstruction_Watchtower.MenuName"
+msgstr "瞭望塔"
