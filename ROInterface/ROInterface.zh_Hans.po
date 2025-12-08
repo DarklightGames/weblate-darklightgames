@@ -1,2 +1,677 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.darklightgames.com/projects/darkesthour/rointerface/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "ROConsole.AllPlayersSquad"
+msgstr "所有队友"
+
+msgid "ROConsole.SMStateName[1]"
+msgstr "支援"
+
+msgid "ROConsole.SMStateName[3]"
+msgstr "发现敌人"
+
+msgid "ROConsole.SMStateName[4]"
+msgstr "警告"
+
+msgid "ROConsole.SMStateName[5]"
+msgstr "载具指令"
+
+msgid "ROConsole.SMStateName[6]"
+msgstr "载具警告"
+
+msgid "ROConsole.SMStateName[7]"
+msgstr "指令"
+
+msgid "ROConsole.SMStateName[8]"
+msgstr "嘲讽"
+
+msgid "ROConsole.SMStateName[9]"
+msgstr "攻击..."
+
+msgid "ROConsole.SMStateName[10]"
+msgstr "防守..."
+
+msgid "ROConsole.SMStateName[11]"
+msgstr "前往..."
+
+msgid "ROConsole.SMStateName[12]"
+msgstr "在...寻求帮助"
+
+msgid "ROConsole.SMStateName[13]"
+msgstr "在...遭受攻击"
+
+msgid "ROConsole.SMStateName[14]"
+msgstr "选择命令接收人..."
+
+msgid "ROControlBinder.BindingLabel[0]"
+msgstr "红色管弦乐队"
+
+msgid "ROControlBinder.BindingLabel[1]"
+msgstr "冲刺"
+
+msgid "ROControlBinder.BindingLabel[2]"
+msgstr "重装弹药"
+
+msgid "ROControlBinder.BindingLabel[3]"
+msgstr "机械瞄具"
+
+msgid "ROControlBinder.BindingLabel[4]"
+msgstr "更改兵种"
+
+msgid "ROControlBinder.BindingLabel[5]"
+msgstr "显示 / 隐藏抬头显示"
+
+msgid "ROControlBinder.BindingLabel[6]"
+msgstr "匍匐"
+
+msgid "ROControlBinder.BindingLabel[7]"
+msgstr "刺刀装配 / 机枪部署"
+
+msgid "ROControlBinder.BindingLabel[8]"
+msgstr "更换机枪枪管"
+
+msgid "ROControlBinder.BindingLabel[9]"
+msgstr "显示据点"
+
+msgid "ROControlBinder.BindingLabel[10]"
+msgstr "更改瞄准镜品质"
+
+msgid "ROControlBinder.BindingLabel[11]"
+msgstr "更改阵营"
+
+msgid "ROControlBinder.BindingLabel[12]"
+msgstr "使用"
+
+msgid "ROControlBinder.BindingLabel[13]"
+msgstr "切换开火模式"
+
+msgid "ROControlBinder.BindingLabel[14]"
+msgstr "更换武器"
+
+msgid "ROControlBinder.BindingLabel[15]"
+msgstr "机枪弹药补给"
+
+msgid "ROControlBinder.BindingLabel[16]"
+msgstr "保存炮击坐标"
+
+msgid "ROControlBinder.BindingLabel[17]"
+msgstr "移动"
+
+msgid "ROControlBinder.BindingLabel[18]"
+msgstr "前进"
+
+msgid "ROControlBinder.BindingLabel[19]"
+msgstr "后退"
+
+msgid "ROControlBinder.BindingLabel[20]"
+msgstr "向左平走"
+
+msgid "ROControlBinder.BindingLabel[21]"
+msgstr "向右平走"
+
+msgid "ROControlBinder.BindingLabel[22]"
+msgstr "跳跃"
+
+#, fuzzy
+msgid "ROControlBinder.BindingLabel[23]"
+msgstr "静步"
+
+msgid "ROControlBinder.BindingLabel[24]"
+msgstr "切换蹲伏"
+
+msgid "ROControlBinder.BindingLabel[25]"
+msgstr "蹲伏(按住)"
+
+msgid "ROControlBinder.BindingLabel[26]"
+msgstr "横向行走切换"
+
+msgid "ROControlBinder.BindingLabel[27]"
+msgstr "左倾头"
+
+msgid "ROControlBinder.BindingLabel[28]"
+msgstr "右倾头"
+
+msgid "ROControlBinder.BindingLabel[29]"
+msgstr "视角操作"
+
+msgid "ROControlBinder.BindingLabel[30]"
+msgstr "向左看"
+
+msgid "ROControlBinder.BindingLabel[31]"
+msgstr "向右看"
+
+msgid "ROControlBinder.BindingLabel[32]"
+msgstr "向上看"
+
+msgid "ROControlBinder.BindingLabel[33]"
+msgstr "向下看"
+
+msgid "ROControlBinder.BindingLabel[34]"
+msgstr "视角居中"
+
+msgid "ROControlBinder.BindingLabel[35]"
+msgstr "切换· "
+
+msgid "ROControlBinder.BindingLabel[36]"
+msgstr "切换视角模式"
+
+msgid "ROControlBinder.BindingLabel[37]"
+msgstr "武器"
+
+msgid "ROControlBinder.BindingLabel[38]"
+msgstr "开火"
+
+msgid "ROControlBinder.BindingLabel[39]"
+msgstr "特殊开火"
+
+msgid "ROControlBinder.BindingLabel[40]"
+msgstr "投掷武器"
+
+msgid "ROControlBinder.BindingLabel[41]"
+msgstr "更好的武器"
+
+msgid "ROControlBinder.BindingLabel[42]"
+msgstr "下一武器"
+
+msgid "ROControlBinder.BindingLabel[43]"
+msgstr "上一武器"
+
+msgid "ROControlBinder.BindingLabel[44]"
+msgstr "最后武器"
+
+msgid "ROControlBinder.BindingLabel[45]"
+msgstr "交流"
+
+msgid "ROControlBinder.BindingLabel[46]"
+msgstr "全局聊天"
+
+msgid "ROControlBinder.BindingLabel[47]"
+msgstr "队伍聊天"
+
+msgid "ROControlBinder.BindingLabel[48]"
+msgstr "游戏内聊天"
+
+#, fuzzy
+msgid "ROControlBinder.BindingLabel[49]"
+msgstr "语音菜单"
+
+msgid "ROControlBinder.BindingLabel[50]"
+msgstr "启动麦克风"
+
+msgid "ROControlBinder.BindingLabel[51]"
+msgstr "在全体频道说话"
+
+msgid "ROControlBinder.BindingLabel[52]"
+msgstr "在本地频道说话"
+
+msgid "ROControlBinder.BindingLabel[53]"
+msgstr "在团队频道说话"
+
+msgid "ROControlBinder.BindingLabel[54]"
+msgstr "切换至全局频道"
+
+msgid "ROControlBinder.BindingLabel[55]"
+msgstr "切换至当地频道"
+
+msgid "ROControlBinder.BindingLabel[56]"
+msgstr "切换至团队频道"
+
+msgid "ROControlBinder.BindingLabel[57]"
+msgstr "抬头显示设置"
+
+msgid "ROControlBinder.BindingLabel[58]"
+msgstr "抬头显示亮度"
+
+msgid "ROControlBinder.BindingLabel[59]"
+msgstr "缩小抬头显示"
+
+msgid "ROControlBinder.BindingLabel[60]"
+msgstr "切换至计分板"
+
+msgid "ROControlBinder.BindingLabel[61]"
+msgstr "计分板(按住)"
+
+msgid "ROControlBinder.BindingLabel[62]"
+msgstr "游戏设定"
+
+msgid "ROControlBinder.BindingLabel[63]"
+msgstr "使用"
+
+msgid "ROControlBinder.BindingLabel[64]"
+msgstr "暂停"
+
+msgid "ROControlBinder.BindingLabel[65]"
+msgstr "截屏"
+
+msgid "ROControlBinder.BindingLabel[72]"
+msgstr "杂项功能"
+
+msgid "ROControlBinder.BindingLabel[73]"
+msgstr "主菜单"
+
+msgid "ROControlBinder.BindingLabel[74]"
+msgstr "音乐播放器"
+
+msgid "ROControlBinder.BindingLabel[75]"
+msgstr "投票菜单"
+
+msgid "ROControlBinder.BindingLabel[76]"
+msgstr "切换至指令台"
+
+msgid "ROControlBinder.BindingLabel[77]"
+msgstr "查看连接状态"
+
+msgid "ROControlBinder.BindingLabel[78]"
+msgstr "中断连接"
+
+msgid "ROControlBinder.BindingLabel[79]"
+msgstr "载具通讯"
+
+msgid "ROControlBinder.BindingLabel[80]"
+msgstr "载具内说"
+
+msgid "ROGUIRoleSelection.RoleIsFullMessageText"
+msgstr "你选择的兵种已满.请从列表中选择另一个兵种然后点击继续."
+
+msgid "ROGUIRoleSelection.UnknownErrorMessageText"
+msgstr "更新玩家信息时发生未知错误,请稍后重试."
+
+msgid "ROGUIRoleSelection.ErrorTeamMustJoinBeforeStart"
+msgstr "无法更换阵营:必须在游戏开始前加入阵营."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorTooManyPlayers"
+msgstr "无法切换阵营:游戏中活跃玩家过多."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorRoundHasEnded"
+msgstr "无法切换阵营:本局已结束."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorGameHasStarted"
+msgstr "无法切换阵营:服务器规定游戏开始后不可切换阵营."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorPlayingAgainstBots"
+msgstr "无法切换阵营:服务器规定一方为机器人,一方为玩家."
+
+msgid "ROGUIRoleSelection.TeamSwitchErrorTeamIsFull"
+msgstr "无法切换阵营:选择的阵营已满."
+
+msgid "ROGUITeamSelection.TeamJoinText[0]"
+msgstr "加入轴心国阵营"
+
+msgid "ROGUITeamSelection.TeamJoinText[1]"
+msgstr "加入同盟国阵营"
+
+msgid "ROGUITeamSelection.TeamJoinHint[0]"
+msgstr "加入轴心国部队"
+
+msgid "ROGUITeamSelection.TeamJoinHint[1]"
+msgstr "加入同盟国部队"
+
+msgid "ROScoreBoard.SpectatorTeamName"
+msgstr "观察者"
+
+msgid "ROScoreBoard.UnassignedTeamName"
+msgstr "未分配"
+
+msgid "ROScoreBoard.TeamNameAllies"
+msgstr "盟军"
+
+msgid "ROScoreBoard.TeamNameAxis"
+msgstr "轴心军"
+
+msgid "ROScoreBoard.ReinforcementsText"
+msgstr "增援"
+
+msgid "ROSettingsPage_new.PanelCaption<1>"
+msgstr "显示"
+
+msgid "ROSettingsPage_new.PanelCaption<2>"
+msgstr "音频"
+
+msgid "ROSettingsPage_new.PanelCaption<4>"
+msgstr "输入"
+
+msgid "ROSettingsPage_new.PanelCaption<5>"
+msgstr "HUD"
+
+msgid "ROTab_AudioSettings.AudioModes[0]"
+msgstr "安全模式"
+
+msgid "ROTab_AudioSettings.AudioModes[1]"
+msgstr "立体音效"
+
+msgid "ROTab_AudioSettings.AudioModes[2]"
+msgstr "硬件立体音频"
+
+msgid "ROTab_AudioSettings.AudioModes[3]"
+msgstr "硬件立体音频+EAX"
+
+msgid "ROTab_AudioSettings.VoiceModes[0]"
+msgstr "所有"
+
+msgid "ROTab_AudioSettings.VoiceModes[1]"
+msgstr "无嘲讽"
+
+msgid "ROTab_AudioSettings.VoiceModes[2]"
+msgstr "无"
+
+msgid "ROTab_AudioSettings.PanelCaption"
+msgstr "音频"
+
+msgid "ROTab_Controls.Headings[0]"
+msgstr "动作"
+
+msgid "ROTab_Controls.Headings[1]"
+msgstr "按键1"
+
+msgid "ROTab_Controls.Headings[2]"
+msgstr "按键2"
+
+msgid "ROTab_Controls.ClearCaption"
+msgstr "按下'%backspace%'来解除%keyname%上的%keybind%绑定."
+
+msgid "ROTab_Controls.ActionText"
+msgstr "{%keybinds%} - 当前已绑定到此按键."
+
+msgid "ROTab_Controls.Section_Movement"
+msgstr "移动"
+
+msgid "ROTab_Controls.Section_Looking"
+msgstr "观察视角"
+
+msgid "ROTab_Controls.Section_Weapons"
+msgstr "武器"
+
+msgid "ROTab_Controls.Section_Comm"
+msgstr "交流"
+
+msgid "ROTab_Controls.Section_Game"
+msgstr "游戏"
+
+msgid "ROTab_Controls.Section_Misc"
+msgstr "杂项功能"
+
+msgid "ROTab_Controls.Section_Interface"
+msgstr "界面"
+
+msgid "ROTab_Controls.Section_Speech_Prefix"
+msgstr "语音指令:· "
+
+msgid "ROTab_Controls.captions_movement[0]"
+msgstr "前进"
+
+msgid "ROTab_Controls.captions_movement[1]"
+msgstr "后退"
+
+msgid "ROTab_Controls.captions_movement[2]"
+msgstr "左平走"
+
+msgid "ROTab_Controls.captions_movement[3]"
+msgstr "右平走"
+
+msgid "ROTab_Controls.captions_movement[4]"
+msgstr "左倾头"
+
+msgid "ROTab_Controls.captions_movement[5]"
+msgstr "右倾头"
+
+msgid "ROTab_Controls.captions_movement[6]"
+msgstr "跳跃"
+
+msgid "ROTab_Controls.captions_movement[7]"
+msgstr "蹲伏"
+
+msgid "ROTab_Controls.captions_movement[8]"
+msgstr "匍匐"
+
+msgid "ROTab_Controls.captions_movement[9]"
+msgstr "冲刺"
+
+msgid "ROTab_Controls.captions_movement[10]"
+msgstr "静步"
+
+msgid "ROTab_Controls.captions_movement[11]"
+msgstr "切换蹲伏"
+
+msgid "ROTab_Controls.captions_looking[0]"
+msgstr "左转"
+
+msgid "ROTab_Controls.captions_looking[1]"
+msgstr "右转"
+
+msgid "ROTab_Controls.captions_looking[2]"
+msgstr "向上看"
+
+msgid "ROTab_Controls.captions_looking[3]"
+msgstr "向下看"
+
+msgid "ROTab_Controls.captions_looking[4]"
+msgstr "视角居中"
+
+msgid "ROTab_Controls.captions_looking[5]"
+msgstr "切换至第三人称模式(仅限线下)"
+
+msgid "ROTab_Controls.captions_looking[6]"
+msgstr "切换视角模式(仅限线下)"
+
+msgid "ROTab_Controls.captions_weapons[0]"
+msgstr "主要攻击"
+
+msgid "ROTab_Controls.captions_weapons[1]"
+msgstr "次要攻击"
+
+msgid "ROTab_Controls.captions_weapons[2]"
+msgstr "重装弹药"
+
+msgid "ROTab_Controls.captions_weapons[3]"
+msgstr "机械瞄具"
+
+msgid "ROTab_Controls.captions_weapons[4]"
+msgstr "投掷武器"
+
+msgid "ROTab_Controls.captions_weapons[5]"
+msgstr "下一武器"
+
+msgid "ROTab_Controls.captions_weapons[6]"
+msgstr "上一武器"
+
+msgid "ROTab_Controls.captions_weapons[7]"
+msgstr "切换至最好的武器"
+
+msgid "ROTab_Controls.captions_weapons[8]"
+msgstr "切换至最后的武器"
+
+msgid "ROTab_Controls.captions_weapons[9]"
+msgstr "刺刀装配 / 机枪部署"
+
+msgid "ROTab_Controls.captions_weapons[10]"
+msgstr "更换机枪枪管"
+
+msgid "ROTab_Controls.captions_weapons[11]"
+msgstr "更换开火模式"
+
+msgid "ROTab_Controls.captions_comm[0]"
+msgstr "全局说话"
+
+msgid "ROTab_Controls.captions_comm[1]"
+msgstr "阵营说话"
+
+msgid "ROTab_Controls.captions_comm[2]"
+msgstr "载具内说话"
+
+msgid "ROTab_Controls.captions_comm[3]"
+msgstr "语音指令菜单"
+
+msgid "ROTab_Controls.captions_comm[4]"
+msgstr "查看游戏内聊天"
+
+msgid "ROTab_Controls.captions_comm[5]"
+msgstr "启用麦克风"
+
+msgid "ROTab_Controls.captions_comm[6]"
+msgstr "切换至全局语音频道"
+
+msgid "ROTab_Controls.captions_comm[7]"
+msgstr "切换至本地语音频道"
+
+msgid "ROTab_Controls.captions_comm[8]"
+msgstr "切换至阵营语音频道"
+
+msgid "ROTab_Controls.captions_game[0]"
+msgstr "打开游戏菜单"
+
+msgid "ROTab_Controls.captions_game[1]"
+msgstr "使用"
+
+msgid "ROTab_Controls.captions_game[2]"
+msgstr "补给机枪手"
+
+msgid "ROTab_Controls.captions_game[3]"
+msgstr "暂停游戏"
+
+msgid "ROTab_Controls.captions_misc[0]"
+msgstr "打开投票菜单"
+
+msgid "ROTab_Controls.captions_misc[1]"
+msgstr "切换至指令台"
+
+msgid "ROTab_Controls.captions_misc[2]"
+msgstr "查看连接状态"
+
+msgid "ROTab_Controls.captions_misc[3]"
+msgstr "取消连接"
+
+msgid "ROTab_Controls.captions_misc[4]"
+msgstr "开始demo录制"
+
+msgid "ROTab_Controls.captions_misc[5]"
+msgstr "停止demo录制"
+
+msgid "ROTab_Controls.captions_misc[6]"
+msgstr "截屏"
+
+msgid "ROTab_Controls.captions_misc[7]"
+msgstr "查看服务器讯息"
+
+msgid "ROTab_Controls.captions_misc[8]"
+msgstr "展示个人战绩"
+
+msgid "ROTab_Controls.captions_misc[9]"
+msgstr "查看下一名玩家战绩"
+
+msgid "ROTab_Controls.captions_interface[0]"
+msgstr "切换态势地图"
+
+msgid "ROTab_Controls.captions_interface[1]"
+msgstr "切换计分板"
+
+msgid "ROTab_Controls.captions_interface[2]"
+msgstr "展示计分板"
+
+msgid "ROTab_Controls.captions_interface[3]"
+msgstr "增大抬头显示尺寸"
+
+msgid "ROTab_Controls.captions_interface[4]"
+msgstr "减小抬头显示尺寸"
+
+msgid "ROTab_DetailSettings.DetailOptions[0]"
+msgstr "最低"
+
+msgid "ROTab_DetailSettings.DetailOptions[1]"
+msgstr "低"
+
+msgid "ROTab_DetailSettings.DetailOptions[2]"
+msgstr "中等"
+
+msgid "ROTab_DetailSettings.DetailOptions[3]"
+msgstr "高"
+
+msgid "ROTab_DetailSettings.DetailOptions[4]"
+msgstr "更高"
+
+msgid "ROTab_DetailSettings.DetailOptions[5]"
+msgstr "最高"
+
+msgid "ROTab_DetailSettings.DetailOptions[6]"
+msgstr "自定义"
+
+msgid "ROTab_DetailSettings.ScopeLevels[0]"
+msgstr "模型(低)"
+
+msgid "ROTab_DetailSettings.ScopeLevels[1]"
+msgstr "纹理化"
+
+msgid "ROTab_DetailSettings.ScopeLevels[2]"
+msgstr "模型(高)"
+
+msgid "ROTab_Hud.Hints<0>"
+msgstr "所有提示(重置)"
+
+msgid "ROTab_Hud.Hints<1>"
+msgstr "仅显示新提示"
+
+msgid "ROTab_Hud.Hints<2>"
+msgstr "无提示"
+
+msgid "ROTab_Hud.HintsCombo.Caption"
+msgstr "提示等级"
+
+msgid "ROTab_Hud.HintsCombo.Hint"
+msgstr "选择提示需要显示或不需要显示."
+
+msgid "ROUT2K4GamePageSP.PageCaption"
+msgstr "单人"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<0>"
+msgstr "无"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<1>"
+msgstr "选择地图"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<2>"
+msgstr "游戏规则"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<3>"
+msgstr "游戏模式/调整器"
+
+msgid "ROUT2K4GamePageSP.PanelCaption<4>"
+msgstr "机器人设定"
+
+msgid "ROUT2K4GamePageSP.PanelHint<0>"
+msgstr "无"
+
+msgid "ROUT2K4GamePageSP.PanelHint<1>"
+msgstr "预览当前所选游戏模式的地图..."
+
+msgid "ROUT2K4GamePageSP.PanelHint<2>"
+msgstr "配置游戏规则..."
+
+msgid "ROUT2K4GamePageSP.PanelHint<3>"
+msgstr "选择并配置要使用的游戏模式..."
+
+msgid "ROUT2K4GamePageSP.PanelHint<4>"
+msgstr "配置即将加入会话的任何机器人..."
+
+msgid "ROUT2K4GamePageSP.SPFooter.PrimaryCaption"
+msgstr "开始练习模式"
+
+msgid "ROUT2K4GamePageSP.SPFooter.PrimaryHint"
+msgstr "以当前设置开始比赛"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[0]"
+msgstr "模型"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[1]"
+msgstr "纹理"
+
+msgid "ROUT2K4Tab_DetailSettings.ScopeLevels[2]"
+msgstr "高品质模型"
