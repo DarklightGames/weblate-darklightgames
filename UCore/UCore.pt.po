@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"PO-Revision-Date: 2025-12-09 22:09+0000\n"
 "Last-Translator: flatboy <wannabekilla157@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/ucore/pt/>\n"
@@ -31,3 +31,9 @@ msgstr "Sexta-Feira"
 
 msgid "DateTime.DayOfWeekNames[6]"
 msgstr "Sábado"
+
+msgid "UUnits.UnrealAngleSymbol"
+msgstr "u"
+
+msgid "UUnits.DegreesSymbol"
+msgstr "°"
