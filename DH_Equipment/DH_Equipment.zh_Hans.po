@@ -1,2 +1,90 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.darklightgames.com/projects/darkesthour/dh_equipment/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "DHBinocularsItem.ItemName"
+msgstr "双筒望远镜"
+
+msgid "DHBinocularsItemAllied.ItemName"
+msgstr "M13型6X30倍双筒望远镜"
+
+msgid "DHBinocularsItemGerman.ItemName"
+msgstr "蔡司6X30倍双筒望远镜"
+
+msgid "DHBinocularsItemItalian.ItemName"
+msgstr "伽利略7X50双筒望远镜"
+
+msgid "DHBinocularsItemSoviet.ItemName"
+msgstr "BPP型6X30双筒望远镜"
+
+msgid "DHBrokenBottleItem.ItemName"
+msgstr "威诺罗索红酒2009年酿造"
+
+msgid "DHRadioItem.ItemName"
+msgstr "无线电"
+
+msgid "DHShovelItem.ItemName"
+msgstr "野战铲"
+
+msgid "DHShovelItem_German.NativeItemName"
+msgstr "野战铲"
+
+msgid "DHShovelItem_Italian.NativeItemName"
+msgstr "野战铲"
+
+msgid "DHShovelItem_Russian.NativeItemName"
+msgstr "野战铲"
+
+msgid "DHShovelWarningMessage.CannotBeCrawling"
+msgstr "您不能在匍匐的时候挖掘."
+
+msgid "DHTrenchMaceItem.ItemName"
+msgstr "战壕棒"
+
+msgid "DHTrenchMaceItem_Bone.ItemName"
+msgstr "骨棒"
+
+msgid "DHTrenchMaceItem_Grenade.ItemName"
+msgstr "战壕狼牙棒"
+
+msgid "DHWireCuttersItem.ItemName"
+msgstr "剪线钳"
+
+msgid "DH_NebelGranate39Weapon.NativeItemName"
+msgstr "Nb.Hgr.39型烟雾手榴弹"
+
+msgid "DH_NebelGranate39Weapon.ItemName"
+msgstr "NB 39型烟雾手榴弹"
+
+msgid "DH_OrangeSmokeWeapon.NativeItemName"
+msgstr "160毫米橙色烟雾信号弹"
+
+msgid "DH_OrangeSmokeWeapon.ItemName"
+msgstr "160毫米橙色烟雾信号弹"
+
+msgid "DH_ParachuteItem.ItemName"
+msgstr "降落伞"
+
+msgid "DH_ParachuteStaticLine.ItemName"
+msgstr "开伞拉绳"
+
+msgid "DH_RDG1SmokeGrenadeWeapon.NativeItemName"
+msgstr "RDG-1型烟雾手榴弹"
+
+msgid "DH_RDG1SmokeGrenadeWeapon.ItemName"
+msgstr "RDG-1型烟雾手榴弹"
+
+msgid "DH_RedSmokeWeapon.ItemName"
+msgstr "M16型信号烟雾弹"
+
+msgid "DH_USSmokeGrenadeWeapon.ItemName"
+msgstr "M8型烟雾弹"
