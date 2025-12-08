@@ -1,2 +1,46 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.darklightgames.com/projects/darkesthour/ucore/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "DateTime.DayOfWeekNames[0]"
+msgstr "周日"
+
+msgid "DateTime.DayOfWeekNames[1]"
+msgstr "周一"
+
+msgid "DateTime.DayOfWeekNames[3]"
+msgstr "周三"
+
+msgid "DateTime.DayOfWeekNames[4]"
+msgstr "周四"
+
+msgid "DateTime.DayOfWeekNames[5]"
+msgstr "周五"
+
+msgid "DateTime.DayOfWeekNames[2]"
+msgstr "周二"
+
+msgid "DateTime.DayOfWeekNames[6]"
+msgstr "周六"
+
+msgid "UUnits.UnrealAngleSymbol"
+msgstr "u"
+
+msgid "UUnits.DegreesSymbol"
+msgstr "度"
+
+msgid "UUnits.MilsSymbol"
+msgstr "密位"
+
+#, fuzzy
+msgid "UUnits.RadiansSymbol"
+msgstr "弧度"
