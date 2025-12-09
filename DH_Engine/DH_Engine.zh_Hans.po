@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
-"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"PO-Revision-Date: 2025-12-09 22:09+0000\n"
+"Last-Translator: Sanae <929719345@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_engine/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -25,3 +25,111 @@ msgstr "完成"
 
 msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
 msgstr "旋转"
+
+msgid "DHATCannonMessage.CannotEnter"
+msgstr "火炮已经有人使用了"
+
+msgid "DHATGunTouchMessage.Controls<0>.Text"
+msgstr "输入"
+
+msgid "DHATGunTouchMessage.Controls<1>.Text"
+msgstr "旋转"
+
+msgid "DHATLoadFailMessage.CantLoad"
+msgstr "必须部署{0} 才能重新装填"
+
+msgid "DHATLoadMessage.LoadedGunner"
+msgstr "您已重新装填 {0}"
+
+msgid "DHATLoadMessage.BeenLoaded"
+msgstr "您已被 {0} 重新加载"
+
+msgid "DHATLoadMessage.UnLoaded"
+msgstr "火箭弹已经取出"
+
+msgid "DHAccessControl.IPBanned"
+msgstr "您无法加入此服务器，您已被封禁。"
+
+msgid "DHAccessControl.SessionBanned"
+msgstr "在更改级别之前，您无法加入此服务器。"
+
+msgid "DHAdminMessage.KickedFromSquadMessage"
+msgstr "管理员 '{0}' 将 '{1}' 从小队 '{2}' 中踢出。"
+
+msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
+msgstr "管理员 '{0}' 将 '{1}' 提升为小队 '{2}' 的队长。"
+
+msgid "DHAdminMessage.AdminTeleportedMessage"
+msgstr "管理员 '{0}' 已传送。"
+
+msgid "DHAdminMessage.AlliedTeamNameGenitive"
+msgstr "同盟国"
+
+msgid "DHAdminMessage.AxisTeamNameGenitive"
+msgstr "轴心国"
+
+msgid "DHAdminMessage.AdminLoggedInMessage"
+msgstr "{0} 以服务器管理员身份登录。"
+
+msgid "DHAdminMessage.AdminLoggedOutMessage"
+msgstr "{0} 放弃了管理员权限。"
+
+msgid "DHAlliedAntiTankRoles.MyName"
+msgstr "反坦克兵"
+
+msgid "DHAlliedAssaultRoles.MyName"
+msgstr "突击兵"
+
+msgid "DHAlliedAutoRifleRoles.MyName"
+msgstr "轻机枪手"
+
+msgid "DHAlliedCorporalRoles.MyName"
+msgstr "下士"
+
+msgid "DHAlliedEngineerRoles.MyName"
+msgstr "战斗工兵"
+
+msgid "DHAlliedMachineGunnerRoles.MyName"
+msgstr "机枪手"
+
+msgid "DHAlliedMortarmanRoles.MyName"
+msgstr "迫击炮操作员"
+
+msgid "DHAlliedRadioOperatorRoles.MyName"
+msgstr "无线电操作员"
+
+msgid "DHAlliedRiflemanRoles.MyName"
+msgstr "步枪兵"
+
+msgid "DHAlliedSergeantRoles.MyName"
+msgstr "中士"
+
+msgid "DHAlliedSniperRoles.MyName"
+msgstr "狙击手"
+
+msgid "DHAlliedTankCrewmanRoles.MyName"
+msgstr "坦克乘员"
+
+msgid "DHArtillery.MenuName"
+msgstr "远程火炮"
+
+msgid "DHArtilleryMessage.RequestText"
+msgstr "正在请求 {name}。"
+
+msgid "DHArtilleryMessage.ConfirmText"
+msgstr "{name} 已确认。"
+
+msgid "DHArtilleryMessage.DenyText"
+msgstr "{name} 被拒绝。"
+
+msgid "DHArtilleryMessage.TooSoonText"
+msgstr "{name} 当前正在使用中。请稍后再试。"
+
+msgid "DHArtilleryMessage.ExhaustedText"
+msgstr "{name} 已用尽。"
+
+msgid "DHArtilleryMessage.UnavailableText"
+msgstr "{name} 此时不可用。"
+
+msgid "DHArtilleryMessage.BadLocationText"
+msgstr "{name} 的目标位置无效。"
