@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"PO-Revision-Date: 2025-12-09 22:09+0000\n"
 "Last-Translator: flatboy <wannabekilla157@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/pt/>\n"
@@ -13,3 +13,21 @@ msgstr ""
 
 msgid "DH_30calWeapon.ItemName"
 msgstr "Metralhadora M1919A6 Browning"
+
+msgid "DH_AVT40Weapon.ItemName"
+msgstr "AVT-40"
+
+msgid "DH_BARNoBipodWeapon.ItemName"
+msgstr "Browning Automatic Rifle M1918A2 (Sem Bipé)"
+
+msgid "DH_BARWeapon.ItemName"
+msgstr "Browning Automatic Rifle M1918A2"
+
+msgid "DH_BHPWeapon.ItemName"
+msgstr "Browning High-Power"
+
+msgid "DH_BazookaM9Weapon.ItemName"
+msgstr "M9A1 Bazooka"
+
+msgid "DH_BazookaWeapon.ItemName"
+msgstr "M1A1 Bazooka"
