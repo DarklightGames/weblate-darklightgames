@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
-"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"PO-Revision-Date: 2025-12-09 22:09+0000\n"
+"Last-Translator: Sanae <929719345@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_britishplayers/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -22,3 +22,18 @@ msgstr "坦克猎手"
 
 msgid "DHCWCorporalRoles.MyName"
 msgstr "准下士"
+
+msgid "DHCWSergeantRoles.MyName"
+msgstr "下士"
+
+msgid "DHCanadianVoice.SupportString[5]"
+msgstr "我们需要PIAT!"
+
+msgid "DHCanadianVoice.SupportAbbrev[5]"
+msgstr "需要PIAT"
+
+msgid "DHNation_Britain.NationName"
+msgstr "大不列颠"
+
+msgid "DHNation_Canada.NationName"
+msgstr "加拿大"
