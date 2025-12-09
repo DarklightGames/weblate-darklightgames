@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"PO-Revision-Date: 2025-12-09 22:09+0000\n"
 "Last-Translator: flatboy <wannabekilla157@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/pt/>\n"
@@ -13,3 +13,27 @@ msgstr ""
 
 msgid "DHCameraWeapon.ItemName"
 msgstr "Câmera"
+
+msgid "DHCommandMenu_ConstructionGroup.NotAvailableText"
+msgstr "Indisponível"
+
+msgid "DHCommandMenu_ConstructionGroup.TeamLimitText"
+msgstr "Limite Alcançado"
+
+msgid "DHCommandMenu_ConstructionGroup.BusyText"
+msgstr "Ocupado"
+
+msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
+msgstr "Exausto"
+
+msgid "DHCommandMenu_ConstructionGroup.RemainingText"
+msgstr "{0} Restantes"
+
+msgid "DHCommandMenu_ConstructionGroup.MaxActiveText"
+msgstr "{0}/{1} Ativo"
+
+msgid "DHCommandMenu_ConstructionGroup.NoSquadMembersNearbyText"
+msgstr "Não há membros do esquadrão por perto"
+
+msgid "DHCommandMenu_ConstructionGroup.MoreText"
+msgstr "Mais"
