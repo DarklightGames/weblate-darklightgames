@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"PO-Revision-Date: 2025-12-09 22:09+0000\n"
 "Last-Translator: flatboy <wannabekilla157@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pt/>\n"
@@ -15,3 +15,27 @@ msgid "DHATCannonMessage.GunIsRotating"
 msgstr ""
 "Ocorre quando uma arma estacionária atualmente está sendo rotacionada por "
 "outro jogador"
+
+msgid "DHATCannonMessage.NotQualified"
+msgstr "Você não está autorizado a operar essa arma"
+
+msgid "DHATCannonMessage.VehicleIsEnemy"
+msgstr "Você não pode operar a arma do inimigo"
+
+msgid "DHATCannonMessage.CannotEnter"
+msgstr "Essa arma já está sendo operada"
+
+msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
+msgstr "Parar de girar"
+
+msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
+msgstr "Rotacionar"
+
+msgid "DHATGunTouchMessage.Controls<0>.Text"
+msgstr "Entrar"
+
+msgid "DHATGunTouchMessage.Controls<1>.Text"
+msgstr "Rotacionar"
+
+msgid "DHATLoadFailMessage.CantLoad"
+msgstr "{0} Deve-se colocar no bipé para recarregar"
