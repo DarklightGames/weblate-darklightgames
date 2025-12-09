@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"PO-Revision-Date: 2025-12-09 22:09+0000\n"
 "Last-Translator: flatboy <wannabekilla157@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/pt/>\n"
@@ -13,3 +13,27 @@ msgstr ""
 
 msgid "DHBinocularsItem.ItemName"
 msgstr "Binóculos"
+
+msgid "DHBinocularsItemAllied.ItemName"
+msgstr "Binóculos M13 6X30"
+
+msgid "DHBinocularsItemGerman.ItemName"
+msgstr "Binóculos Zeiss Dienstglas 6x30"
+
+msgid "DHBinocularsItemItalian.ItemName"
+msgstr "Binóculos Fratelli Koristka 7x50"
+
+msgid "DHBinocularsItemSoviet.ItemName"
+msgstr "Binóculos BPP Optik 6x30"
+
+msgid "DHBrokenBottleItem.ItemName"
+msgstr "Vino Rosso 'Bass-net' 2009 Vintage"
+
+msgid "DHRadioItem.ItemName"
+msgstr "Rádio"
+
+msgid "DHShovelItem.ItemName"
+msgstr "Pá"
+
+msgid "DHShovelItem_German.NativeItemName"
+msgstr "Pá"
