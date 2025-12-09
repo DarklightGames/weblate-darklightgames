@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"PO-Revision-Date: 2025-12-09 22:09+0000\n"
 "Last-Translator: flatboy <wannabekilla157@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/pt/>\n"
@@ -13,3 +13,18 @@ msgstr ""
 
 msgid "Errors.NetOpen"
 msgstr "Erro ao abrir o arquivo"
+
+msgid "Errors.NetWrite"
+msgstr "Erro ao gravar no arquivo"
+
+msgid "Errors.NetClose"
+msgstr "Erro fechando o arquivo"
+
+msgid "Errors.NetSize"
+msgstr "Incompatibilidade tamanho de arquivos diferentes"
+
+msgid "Errors.NetMove"
+msgstr "Erro ao mover o arquivo"
+
+msgid "Errors.NetRefused"
+msgstr "Servidor se negou a enviar"
