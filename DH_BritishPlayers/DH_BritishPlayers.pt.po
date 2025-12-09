@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"PO-Revision-Date: 2025-12-09 22:09+0000\n"
 "Last-Translator: flatboy <wannabekilla157@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_britishplayers/pt/>\n"
@@ -12,4 +12,16 @@ msgstr ""
 "X-Generator: Weblate 5.13.3\n"
 
 msgid "DHBritishVoice.SupportString[5]"
+msgstr "Nós precisamos de um PIAT!"
+
+msgid "DHBritishVoice.SupportAbbrev[5]"
+msgstr "Preciso de um PIAT"
+
+msgid "DHCWAntiTankRoles.MyName"
+msgstr "Soldado anti-tanque"
+
+msgid "DHCWCorporalRoles.MyName"
+msgstr "Cabo"
+
+msgid "DHCanadianVoice.SupportString[5]"
 msgstr "Nós precisamos de um PIAT!"
