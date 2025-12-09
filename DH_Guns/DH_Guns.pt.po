@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"PO-Revision-Date: 2025-12-09 22:09+0000\n"
 "Last-Translator: flatboy <wannabekilla157@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/pt/>\n"
@@ -13,3 +13,27 @@ msgstr ""
 
 msgid "DH_17PounderGun.VehicleNameString"
 msgstr "Canhão Anti-Tank de 17 libras"
+
+msgid "DH_17PounderGunCannon.nProjectileDescriptions<0>"
+msgstr "Mk.IV APC"
+
+msgid "DH_17PounderGunCannon.nProjectileDescriptions<1>"
+msgstr "Mk.I HE-T"
+
+msgid "DH_45mmM1937Gun.VehicleNameString"
+msgstr "Canhão Anti-tanque 45mm 53-K (1937)"
+
+msgid "DH_45mmM1937GunCannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_45mmM1937GunCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<0>"
+msgstr "BR-240"
+
+msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<1>"
+msgstr "O-240"
+
+msgid "DH_45mmM1942Gun.VehicleNameString"
+msgstr "M-42 45mm Anti-tanque"
