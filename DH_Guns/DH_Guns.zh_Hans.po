@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"PO-Revision-Date: 2025-12-09 22:09+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_guns/zh_Hans/>\n"
@@ -25,3 +25,112 @@ msgstr "风帽穿甲弹"
 
 msgid "DH_45mmM1937GunCannon.ProjectileDescriptions<1>"
 msgstr "高爆弹"
+
+msgid "DH_17PounderGunCannon.nProjectileDescriptions<1>"
+msgstr "Mk.1型 荧光高爆弹"
+
+msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<0>"
+msgstr "BR-240(风帽穿甲榴弹)"
+
+msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<1>"
+msgstr "O-240(高爆弹)"
+
+msgid "DH_45mmM1942Gun.VehicleNameString"
+msgstr "45毫米 M-42型反坦克炮"
+
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<0>"
+msgstr "风帽穿甲弹"
+
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<2>"
+msgstr "硬芯穿甲弹"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions<0>"
+msgstr "BR-240(穿甲高爆榴弹)"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions<1>"
+msgstr "O-240(高爆弹)"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions<2>"
+msgstr "BR-240P(硬芯穿甲弹)"
+
+msgid "DH_6PounderGun.VehicleNameString"
+msgstr "6磅Mk.4型反坦克炮"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions<1>"
+msgstr "脱壳穿甲弹"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions<2>"
+msgstr "高爆弹"
+
+#, fuzzy
+msgid "DH_6PounderGunCannon.nProjectileDescriptions<0>"
+msgstr "Mk.增强发射药型穿甲弹"
+
+msgid "DH_6PounderGunCannon.nProjectileDescriptions<1>"
+msgstr "Mk.1型脱壳穿甲弹"
+
+msgid "DH_6PounderGunCannon.nProjectileDescriptions<2>"
+msgstr "Mk.10型荧光高爆弹"
+
+msgid "DH_AT57Cannon.nProjectileDescriptions<0>"
+msgstr "M86型穿甲弹"
+
+msgid "DH_AT57Cannon.nProjectileDescriptions<1>"
+msgstr "M303型荧光高爆弹"
+
+msgid "DH_AT57Gun.VehicleNameString"
+msgstr "57毫米M1型反坦克炮"
+
+msgid "DH_BM36Mortar.VehicleNameString"
+msgstr "82毫米BM-36型迫击炮"
+
+msgid "DH_BM36MortarCannon.ProjectileDescriptions<0>"
+msgstr "高爆弹"
+
+msgid "DH_BM36MortarCannon.ProjectileDescriptions<1>"
+msgstr "烟雾弹"
+
+msgid "DH_BM36MortarCannon.nProjectileDescriptions<0>"
+msgstr "0-832型高爆弹"
+
+msgid "DH_BM36MortarCannon.nProjectileDescriptions<1>"
+msgstr "D-832型烟雾弹"
+
+msgid "DH_Bofors40mmCannon.ProjectileDescriptions<0>"
+msgstr "荧光高爆弹"
+
+msgid "DH_Bofors40mmCannon.ProjectileDescriptions<1>"
+msgstr "穿甲弹"
+
+msgid "DH_Bofors40mmCannon.nProjectileDescriptions<0>"
+msgstr "Mk.2型荧光高爆弹"
+
+msgid "DH_Bofors40mmCannon.nProjectileDescriptions<1>"
+msgstr "M81A1型穿甲弹"
+
+msgid "DH_Bofors40mmGun.VehicleNameString"
+msgstr "博福斯40毫米机炮"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<0>"
+msgstr "穿甲弹"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<2>"
+msgstr "破甲弹"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<0>"
+msgstr "穿甲高爆弹"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_Cannone4732Gun.VehicleNameString"
+msgstr "47毫米32型反坦克炮"
