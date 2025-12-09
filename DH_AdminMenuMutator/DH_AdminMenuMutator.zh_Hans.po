@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
-"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"PO-Revision-Date: 2025-12-09 22:09+0000\n"
+"Last-Translator: Sanae <929719345@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_adminmenumutator/zh_Hans/>"
 "\n"
@@ -23,3 +23,367 @@ msgstr "输入对玩家的警告信息-然后按回车"
 
 msgid "DHAdminMenu_AdminMessages.EnterKickReason"
 msgstr "输入对玩家的提出信息-然后按回车将其踢出"
+
+msgid "DHAdminMenuMutator.Description"
+msgstr "屏幕菜单选项允许管理员更好地控制玩家、现实主义比赛或测试过程"
+
+msgid "DHAdminMenu_AdminMessages.EnterPrivateMessage"
+msgstr "向玩家键入您的私人信息-然后按回车键"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmKillPlayer"
+msgstr "按回车键—确认要杀死此玩家"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmGagPlayer"
+msgstr "按回车键-确认您要堵上此玩家的嘴"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAlliesRole"
+msgstr "按回车键-确认您要将此玩家切换到新的同盟国角色"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmSwitchToAxisRole"
+msgstr "按回车键-确认您要将此玩家切换到新的轴心国角色"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAtObjective"
+msgstr "按回车键-确认您要在所选目标上对该玩家进行空投"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAtCurrentLocation"
+msgstr "按回车键-确认您要将此玩家放在其当前位置"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableRealism"
+msgstr "按回车键—确认要启用写实模式"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableRealism"
+msgstr "按回车键—确认要禁用写实模式"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAlliesAtObjective"
+msgstr "按回车键-确认您要将所有同盟国玩家放置在所选目标上"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAxisAtObjective"
+msgstr "按回车键-确认您要将所有轴心国玩家放置在所选目标上"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDropAllAtObjective"
+msgstr "按回车键-确认您要将所有玩家放在所选目标上"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableMines"
+msgstr "按回车键-确认要禁用所有地雷场"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableMines"
+msgstr "按回车键-确认要重新启用所有雷场"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableCapProgress"
+msgstr "按回车键-确认要重新启用地图上的上限进度条"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableCapProgress"
+msgstr "按回车键-确认要禁用地图上的占领进度条"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisablePlayerIcon"
+msgstr "按回车键-确认要禁用地图上的玩家位置图标"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnablePlayerIcon"
+msgstr "按回车键-确认要重新启用地图上的玩家位置图标"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmKillAll"
+msgstr "按回车键-确认要杀死所有玩家"
+
+msgid "DHAdminMenu_AdminMessages.EnterGameSpeed"
+msgstr "请指定新的游戏速度倍数（1为正常值）"
+
+msgid "DHAdminMenu_AdminMessages.EnterTimeRemaining"
+msgstr "请指定新一轮剩余时间（分钟）"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmToggleAdminCanPause"
+msgstr "按回车键-确认您要切换“管理员可以暂停”选项"
+
+msgid "DHAdminMenu_AdminMessages.ChangeAlliesSquadSize"
+msgstr "请指定新的同盟国小队规模（在8到12之间，或重置为0）"
+
+msgid "DHAdminMenu_AdminMessages.ChangeAxisSquadSize"
+msgstr "请指定新的轴心国小队规模（8和12，或重置为0）"
+
+msgid "DHAdminMenu_AdminMessages.SetGamePasswordText"
+msgstr "请指定新游戏密码"
+
+msgid "DHAdminMenu_AdminMessages.ToggleWeaponLockText"
+msgstr "按回车键-确认要打开/关闭武器锁定"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmDisableRallyPoints"
+msgstr "按回车键-确认要禁用集结点放置"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmEnableRallyPoints"
+msgstr "按回车键-确认要重新启用集结点位置"
+
+msgid "DHAdminMenu_ErrorMessages.MissingNameText"
+msgstr "<缺少姓名>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[1]"
+msgstr "您必须以管理员身份登录（通过控制台）才能使用此功能"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[3]"
+msgstr "服务器上未加载现实匹配变量，因此您无法使用此选项"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[4]"
+msgstr "错误：未指定玩家名称"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[5]"
+msgstr "错误：找不到名为 '%insert_name%' 的玩家"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[6]"
+msgstr "问题：发现多个名为 '%insert_name%' 的玩家，因此继续执行此操作不安全"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[7]"
+msgstr "<错误：没有玩家名称>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[8]"
+msgstr "<错误：没有管理员名称>"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[9]"
+msgstr "玩家 '%insert_name%' 当前未处于活动状态，因此您无法使用此选项"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[10]"
+msgstr "'%insert_name%' 已在该角色中"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[11]"
+msgstr "抱歉，无法在机器人上执行该操作"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[12]"
+msgstr "错误：未指定消息"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[13]"
+msgstr "错误：无法踢出 '%insert_name%' （请注意，以管理员身份登录的玩家将无法踢出）"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[14]"
+msgstr "错误：无法踢任何玩家，因为服务器上没有必要的 'AccessControl' "
+"参与者（请注意，这在单人游戏中很正常）"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[16]"
+msgstr "雷区已禁用"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[17]"
+msgstr "雷区已启用"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[18]"
+msgstr "错误：未指定有效的团队名称"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[19]"
+msgstr "错误：找不到玩家角色 %insert_name%"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[20]"
+msgstr "错误：找不到目标 %insert_name%"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[21]"
+msgstr "错误：未指定有效的放置位置类型（即目标、网格或当前位置"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[22]"
+msgstr "错误：地图网格坐标无效"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[23]"
+msgstr "要自动登录，您必须使用管理员登录详细信息设置DarkestHour.ini文件"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[25]"
+msgstr "此游戏模式不允许使用集结点，因此您无法使用此选项"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[26]"
+msgstr "集结点位置已禁用"
+
+msgid "DHAdminMenu_ErrorMessages.ErrorMessage[27]"
+msgstr "集结点放置已启用"
+
+msgid "DHAdminMenu_MenuBase.Label_PageNumber"
+msgstr "第 %X% 页，共 %Y%页"
+
+msgid "DHAdminMenu_MenuBase.Label_PreviousMenu"
+msgstr "PgUp = 上一级菜单"
+
+msgid "DHAdminMenu_MenuBase.Label_PreviousPage"
+msgstr "PgUp = 上一页"
+
+msgid "DHAdminMenu_MenuBase.Label_NextPage"
+msgstr "PgDn = 下一页"
+
+msgid "DHAdminMenu_MenuBase.Label_ExitMenu"
+msgstr "Esc = 退出管理菜单"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyRename"
+msgstr "您的游戏名称已被管理员更改"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyKill"
+msgstr "您已被管理员重新生成"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyGag"
+msgstr "你被管理员堵住了嘴"
+
+msgid "DHAdminMenu_NotifyMessages.NotifySwitch"
+msgstr "管理员已将您切换到新角色或团队"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyParaDrop"
+msgstr "你被管理员放在某个地方了"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastMinesDisabled"
+msgstr "所有雷区已被管理员禁用"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastMinesEnabled"
+msgstr "管理员已重新启用所有雷区"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressDisabled"
+msgstr "占领进度条已被管理员禁用"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastCapProgressEnabled"
+msgstr "占领进度条已被管理员重新启用"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconDisabled"
+msgstr "地图上的玩家图标已被管理员禁用"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastPlayerIconEnabled"
+msgstr "地图上的玩家图标已被管理员重新启用"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastKilledAllPlayers"
+msgstr "所有玩家已被管理员杀死"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastChangedGameSpeed"
+msgstr "管理员将游戏速度更改为 x #insert_number#"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastSetTimeRemaining"
+msgstr "剩余回合时间由管理员更改"
+
+msgid "DHAdminMenu_NotifyMessages.NotifyToggleAdminCanPause"
+msgstr "您将 '管理员可以暂停' 设置切换为 #bAdminCanPause#"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastAlliesSquadSizeChanged"
+msgstr "同盟国小队规模已由管理员更改"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastAxisSquadSizeChanged"
+msgstr "轴心国小队规模已由管理员更改"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsDisabled"
+msgstr "管理员已禁用集结点放置"
+
+msgid "DHAdminMenu_NotifyMessages.BroadcastRallyPointsEnabled"
+msgstr "集结点放置已由管理员启用"
+
+msgid "DHAdminMenu_ObjectivesMenu.MenuTitle"
+msgstr "目标选择菜单"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<0>"
+msgstr "重命名玩家"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<1>"
+msgstr "发送私人消息"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<2>"
+msgstr "发送警告信息（带声音）"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<4>"
+msgstr "杀死此玩家"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<5>"
+msgstr "给这个玩家禁言"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<6>"
+msgstr "将玩家切换到同盟国角色"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<7>"
+msgstr "将玩家切换到轴心国角色"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<8>"
+msgstr "空投玩家到目标"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<9>"
+msgstr "空投玩家到网格"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuText<10>"
+msgstr "空投玩家到当前位置"
+
+msgid "DHAdminMenu_PlayerActionsMenu.MenuTitle"
+msgstr "玩家动作："
+
+msgid "DHAdminMenu_PlayerMenu.Label_AimedPlayer"
+msgstr "[玩家在你的视线中]"
+
+msgid "DHAdminMenu_PlayerMenu.Label_RealismMenu"
+msgstr "R=现实比赛（或测试）菜单"
+
+msgid "DHAdminMenu_PlayerMenu.Label_ServerMenu"
+msgstr "M=服务器菜单（常用服务器设置）"
+
+msgid "DHAdminMenu_PlayerMenu.MenuTitle"
+msgstr "玩家管理菜单"
+
+msgid "DHAdminMenu_PrivateMessage.MessageHeader"
+msgstr "您收到了来自管理员的私人消息"
+
+msgid "DHAdminMenu_PrivateMessage.MessageChatPrefix"
+msgstr "来自的管理员消息"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<1>"
+msgstr "启用现实主义比赛"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<2>"
+msgstr "禁用现实主义比赛"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<4>"
+msgstr "空投所有同盟国玩家在目标"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<5>"
+msgstr "空投所有轴心国玩家在目标"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<6>"
+msgstr "空投所有玩家在目标"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<7>"
+msgstr "空投所有同盟国玩家在网格"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<8>"
+msgstr "空投所有轴心国玩家在网格"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<9>"
+msgstr "空投所有玩家在网格"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<11>"
+msgstr "关闭/打开雷区"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<12>"
+msgstr "关闭/打开占领进度条"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<13>"
+msgstr "关闭/打开玩家位置图标"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<14>"
+msgstr "杀死所有玩家（结束现实主义比赛）"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<15>"
+msgstr "设置新游戏速度"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<16>"
+msgstr "设置新的剩余回合时间（分钟）"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<17>"
+msgstr "切换管理员是否可以暂停游戏"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<19>"
+msgstr "更改同盟国小队规模"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<20>"
+msgstr "更改轴心国小队规模"
+
+msgid "DHAdminMenu_RealismMenu.MenuText<21>"
+msgstr "打开/关闭集结点位置"
+
+msgid "DHAdminMenu_RealismMenu.MenuTitle"
+msgstr "现实主义比赛（或测试）菜单"
+
+msgid "DHAdminMenu_RolesMenu.MenuTitle"
+msgstr "角色选择菜单"
+
+msgid "DHAdminMenu_ServerMenu.MenuText<1>"
+msgstr "设置游戏密码（留空可删除密码）"
+
+msgid "DHAdminMenu_ServerMenu.MenuText<2>"
+msgstr "切换锁定武器"
+
+msgid "DHAdminMenu_ServerMenu.MenuTitle"
+msgstr "服务器菜单（用于各种设置）"
+
+msgid "DHAdminMenu_WarningMessage.WarningHeader"
+msgstr "您收到了来自管理员的警告消息"
+
+msgid "DHAdminMenu_WarningMessage.WarningChatPrefix"
+msgstr "来自管理员的警告"
