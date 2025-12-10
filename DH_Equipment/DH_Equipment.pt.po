@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-09 22:09+0000\n"
+"PO-Revision-Date: 2025-12-11 01:04+0000\n"
 "Last-Translator: flatboy <wannabekilla157@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/pt/>\n"
@@ -37,3 +37,33 @@ msgstr "Pá"
 
 msgid "DHShovelItem_German.NativeItemName"
 msgstr "Pá"
+
+msgid "DHShovelItem_Italian.NativeItemName"
+msgstr "Pala Vanghetta"
+
+msgid "DHShovelItem_Russian.NativeItemName"
+msgstr "MPL-50"
+
+msgid "DHShovelWarningMessage.CannotBeCrawling"
+msgstr "Não é possível cavar deitado."
+
+msgid "DHTrenchMaceItem.ItemName"
+msgstr "Clava de Trincheira"
+
+msgid "DHTrenchMaceItem_Bone.ItemName"
+msgstr "Clava de Osso"
+
+msgid "DHTrenchMaceItem_Grenade.ItemName"
+msgstr "Porrete de Trincheira"
+
+msgid "DHWireCuttersItem.ItemName"
+msgstr "Alicate de Corte"
+
+msgid "DH_NebelGranate39Weapon.NativeItemName"
+msgstr "Nebelhandgranate 39"
+
+msgid "DH_NebelGranate39Weapon.ItemName"
+msgstr "Granada de fumaça NB 39"
+
+msgid "DH_OrangeSmokeWeapon.NativeItemName"
+msgstr "RauchSichtzeichen Orange 160"
