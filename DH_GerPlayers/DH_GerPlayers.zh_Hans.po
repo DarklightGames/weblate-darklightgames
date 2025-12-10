@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
-"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"PO-Revision-Date: 2025-12-10 21:20+0000\n"
+"Last-Translator: Sanae <929719345@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_gerplayers/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -22,3 +22,6 @@ msgstr "我们需要坦克杀手!"
 
 msgid "DHZVoice.SupportAbbrevAxis[5]"
 msgstr "需要一个坦克杀手"
+
+msgid "DHNation_Germany.NationName"
+msgstr "德国"
