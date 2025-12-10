@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-09 22:09+0000\n"
+"PO-Revision-Date: 2025-12-11 01:04+0000\n"
 "Last-Translator: flatboy <wannabekilla157@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/pt/>\n"
@@ -37,3 +37,33 @@ msgstr "Não há membros do esquadrão por perto"
 
 msgid "DHCommandMenu_ConstructionGroup.MoreText"
 msgstr "Mais"
+
+msgid "DHConstructionControlsMessage.Controls<0>.Text"
+msgstr "Confirmar"
+
+msgid "DHConstructionControlsMessage.Controls<1>.Text"
+msgstr "Cancelar"
+
+msgid "DHConstructionControlsMessage.Controls<2>.Text"
+msgstr "Rotacionar"
+
+msgid "DHConstructionControlsMessage.Controls<3>.Text"
+msgstr "Resetar"
+
+msgid "DHConstructionControlsMessage.Controls<4>.Text"
+msgstr "Mudar Variante"
+
+msgid "DHConstructionControlsMessage.Controls<5>.Text"
+msgstr "Trocar modelo"
+
+msgid "DHConstructionGroup_Ammunition.GroupName"
+msgstr "Munição"
+
+msgid "DHConstructionGroup_Defenses.GroupName"
+msgstr "Defesas"
+
+msgid "DHConstructionGroup_Logistics.GroupName"
+msgstr "Logística"
+
+msgid "DHConstructionGroup_Obstacles.GroupName"
+msgstr "Obstáculos"
