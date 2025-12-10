@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"PO-Revision-Date: 2025-12-10 21:20+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_weapons/zh_Hans/>\n"
@@ -19,3 +19,459 @@ msgstr "勃朗宁M1918A2(无支架)型全自动机枪"
 
 msgid "DH_BARWeapon.ItemName"
 msgstr "勃朗宁M1918A2型全自动机枪"
+
+msgid "DH_AVT40Weapon.ItemName"
+msgstr "AVT-40全/半自动步枪"
+
+msgid "DH_BHPWeapon.ItemName"
+msgstr "勃朗宁HP大威力手枪"
+
+msgid "DH_BazookaM9Weapon.ItemName"
+msgstr "M9A1型巴祖卡"
+
+msgid "DH_BazookaWeapon.ItemName"
+msgstr "M1A1型巴祖卡"
+
+msgid "DH_BerettaM1934Weapon.ItemName"
+msgstr "贝雷塔M34型"
+
+msgid "DH_Breda30Weapon.ItemName"
+msgstr "布雷达M.30"
+
+msgid "DH_BrenWeapon.ItemName"
+msgstr "布伦Mk.II"
+
+msgid "DH_C96Weapon.ItemName"
+msgstr "毛瑟C96"
+
+msgid "DH_CarcanoM9138CarbineWeapon.ItemName"
+msgstr "卡尔卡诺M91/38卡宾枪"
+
+msgid "DH_DT29Weapon.ItemName"
+msgstr "DT-29轻机枪"
+
+msgid "DH_EnfieldNo2Weapon.ItemName"
+msgstr "恩菲尔德2号左轮手枪"
+
+msgid "DH_EnfieldNo4ScopedWeapon.ItemName"
+msgstr "恩菲尔德4号Mk.1(T)狙击型"
+
+msgid "DH_EnfieldNo4Weapon.ItemName"
+msgstr "李恩菲尔德4号步枪"
+
+msgid "DH_F1GrenadeWeapon.NativeItemName"
+msgstr "F1手榴弹"
+
+msgid "DH_F1GrenadeWeapon.ItemName"
+msgstr "F1手榴弹"
+
+msgid "DH_FG42ScopedWeapon.NativeItemName"
+msgstr "伞兵狙击型ZFG42轻机枪"
+
+msgid "DH_FG42ScopedWeapon.ItemName"
+msgstr "伞兵狙击型ZFG42轻机枪"
+
+msgid "DH_FG42Weapon.NativeItemName"
+msgstr "Fallschirmjägergewehr 42"
+
+msgid "DH_FG42Weapon.ItemName"
+msgstr "FG42轻机枪"
+
+msgid "DH_G41Weapon.NativeItemName"
+msgstr "Gewehr 41(W)"
+
+msgid "DH_G41Weapon.ItemName"
+msgstr "G41半自动步枪"
+
+msgid "DH_G43ScopedWeapon.NativeItemName"
+msgstr "Gewehr 43 (ZF4)"
+
+msgid "DH_G43ScopedWeapon.ItemName"
+msgstr "G43半自动狙击步枪(ZF4型瞄准镜)"
+
+msgid "DH_G43Weapon.NativeItemName"
+msgstr "Gewehr 43"
+
+msgid "DH_G43Weapon.ItemName"
+msgstr "G43半自动步枪"
+
+msgid "DH_G98Weapon.NativeItemName"
+msgstr "Gewehr 98"
+
+msgid "DH_G98Weapon.ItemName"
+msgstr "G98栓动步枪"
+
+msgid "DH_GLWeapon.ItemName"
+msgstr "StG 24 x7集束手榴弹"
+
+msgid "DH_GeratPIIWeapon.ItemName"
+msgstr "波茨坦2型设备"
+
+msgid "DH_GeratPWeapon.ItemName"
+msgstr "波茨坦设备"
+
+msgid "DH_GreaseGunWeapon.ItemName"
+msgstr "M3黄油枪"
+
+msgid "DH_Kar98NoCoverWeapon.NativeItemName"
+msgstr "Karabiner 98k (无照门)"
+
+msgid "DH_Kar98NoCoverWeapon.ItemName"
+msgstr "卡尔98卡宾型(无照门)"
+
+msgid "DH_Kar98ScopedWeapon.NativeItemName"
+msgstr "Karabiner 98k (ZF39)"
+
+msgid "DH_Kar98ScopedWeapon.ItemName"
+msgstr "卡尔98卡宾狙击型(ZF39瞄准镜)"
+
+msgid "DH_Kar98ScopedZF41Weapon.ItemName"
+msgstr "卡尔98卡宾狙击型(ZF41瞄准镜)"
+
+msgid "DH_Kar98Weapon.NativeItemName"
+msgstr "Karabiner 98k"
+
+msgid "DH_Kar98Weapon.ItemName"
+msgstr "卡尔98栓动卡宾枪"
+
+msgid "DH_KorovinWeapon.ItemName"
+msgstr "科罗温PPK-41冲锋枪"
+
+msgid "DH_Kz8cmGrW42Vehicle.VehicleNameString"
+msgstr "8厘米短管迫击炮42型"
+
+msgid "DH_Kz8cmGrW42Weapon.NativeItemName"
+msgstr "Kurz 8cm Granatwerfer 42"
+
+msgid "DH_Kz8cmGrW42Weapon.Description"
+msgstr "8厘米短管迫击炮42型"
+
+msgid "DH_Kz8cmGrW42Weapon.ItemName"
+msgstr "8厘米短管迫击炮42型"
+
+msgid "DH_LtypeGrenadeWeapon.ItemName"
+msgstr "O.T.O L型反坦克手榴弹"
+
+msgid "DH_M1924Weapon.NativeItemName"
+msgstr "M1924式毛瑟步枪"
+
+msgid "DH_M1924Weapon.ItemName"
+msgstr "M1924步枪"
+
+msgid "DH_M1928_20rndWeapon.ItemName"
+msgstr "M1928A1型汤姆森冲锋枪(20发弹匣)"
+
+msgid "DH_M1928_30rndWeapon.ItemName"
+msgstr "M1928A1型汤普森(30发弹匣)"
+
+msgid "DH_M1928_50rndWeapon.ItemName"
+msgstr "M1928A1型汤普森(50发弹鼓)"
+
+msgid "DH_M1A1CarbineWeapon.ItemName"
+msgstr "M1A1型半自动卡宾枪"
+
+msgid "DH_M1CarbineWeapon.ItemName"
+msgstr "M1型半自动卡宾枪"
+
+msgid "DH_M1GarandWeapon.ItemName"
+msgstr "M1型加兰德"
+
+msgid "DH_M1GrenadeWeapon.ItemName"
+msgstr "Mk 2型手榴弹"
+
+msgid "DH_M1T17CarbineWeapon.ItemName"
+msgstr "M1/T17型全自动卡宾枪"
+
+msgid "DH_M2MortarVehicle.VehicleNameString"
+msgstr "60毫米M2型迫击炮"
+
+msgid "DH_M2MortarWeapon.ItemName"
+msgstr "60毫米M2型迫击炮"
+
+msgid "DH_M34GrenadeWeapon.NativeItemName"
+msgstr "OUG vz.34 Rucni Granat"
+
+msgid "DH_M34GrenadeWeapon.ItemName"
+msgstr "RG-34型手榴弹"
+
+msgid "DH_M38Weapon.ItemName"
+msgstr "莫辛M38型栓动步枪"
+
+msgid "DH_M44Weapon.ItemName"
+msgstr "莫辛M44型栓动步枪"
+
+msgid "DH_M712Weapon.ItemName"
+msgstr "毛瑟M712型(速射)"
+
+msgid "DH_M9530Weapon.NativeItemName"
+msgstr "Gewehr M95/30"
+
+msgid "DH_M9530Weapon.ItemName"
+msgstr "曼利夏M95/30栓动步枪"
+
+msgid "DH_M9531Weapon.NativeItemName"
+msgstr "31.M Puska"
+
+msgid "DH_M9531Weapon.ItemName"
+msgstr "曼利夏M95/31型步枪(匈牙利)"
+
+msgid "DH_MAB38Weapon.NativeItemName"
+msgstr "Moschetto Automatico Beretta M1938A"
+
+msgid "DH_MAB38Weapon.ItemName"
+msgstr "MAB 38改进型冲锋枪"
+
+msgid "DH_MAB42Weapon.NativeItemName"
+msgstr "Moschetto Automatico Beretta M1938A/42"
+
+msgid "DH_MAB42Weapon.ItemName"
+msgstr "MAB 38/42冲锋枪(42改)"
+
+msgid "DH_MG34Weapon.NativeItemName"
+msgstr "Maschinengewehr 34"
+
+msgid "DH_MG34Weapon.ItemName"
+msgstr "MG 34轻机枪"
+
+msgid "DH_MG42Weapon.NativeItemName"
+msgstr "Maschinengewehr 42"
+
+msgid "DH_MG42Weapon.ItemName"
+msgstr "MG 42通用机枪"
+
+msgid "DH_MKB42HWeapon.NativeItemName"
+msgstr "Maschinenkarabiner 42(H)"
+
+msgid "DH_MKB42HWeapon.ItemName"
+msgstr "Mkb 42型突击步枪(黑内尔)"
+
+msgid "DH_MN9130ScopedPEWeapon.ItemName"
+msgstr "莫辛 M91/30型栓动狙击枪(PE瞄准镜)"
+
+msgid "DH_MN9130ScopedWeapon.ItemName"
+msgstr "莫辛 M91/30型栓动狙击枪(PU瞄准镜)"
+
+msgid "DH_MN9130Weapon.ItemName"
+msgstr "莫辛M91/30型栓动步枪"
+
+msgid "DH_MP3008Weapon.NativeItemName"
+msgstr "Maschinenpistole 3008"
+
+msgid "DH_MP3008Weapon.ItemName"
+msgstr "MP 3008型冲锋枪"
+
+msgid "DH_MP38Weapon.NativeItemName"
+msgstr "Maschinenpistole 38"
+
+msgid "DH_MP38Weapon.ItemName"
+msgstr "MP 38型冲锋枪"
+
+msgid "DH_MP40Ammo.ItemName"
+msgstr "32发装9毫米弹匣"
+
+msgid "DH_MP40Weapon.NativeItemName"
+msgstr "Maschinenpistole 40"
+
+msgid "DH_MP40Weapon.ItemName"
+msgstr "MP 40冲锋枪"
+
+msgid "DH_MP41RWeapon.NativeItemName"
+msgstr "Maschinenpistole 41(r)"
+
+msgid "DH_MP41RWeapon.ItemName"
+msgstr "MP 41型冲锋枪(俄制)"
+
+msgid "DH_MP41Weapon.NativeItemName"
+msgstr "Maschinenpistole 41"
+
+msgid "DH_MP41Weapon.ItemName"
+msgstr "MP 41型步枪"
+
+msgid "DH_MillsBombWeapon.ItemName"
+msgstr "米尔斯手榴弹"
+
+msgid "DH_Nagant1895BramitWeapon.ItemName"
+msgstr "纳甘 M1895(BraMit消音器)"
+
+msgid "DH_Nagant1895Weapon.ItemName"
+msgstr "纳甘 M1895型左轮"
+
+msgid "DH_P08LugerWeapon.ItemName"
+msgstr "鲁格 P08型手枪"
+
+msgid "DH_P38Weapon.ItemName"
+msgstr "沃尔特 P38型手枪"
+
+msgid "DH_PIATWeapon.ItemName"
+msgstr "步兵反坦克发射器(PIAT)"
+
+msgid "DH_PPD40Weapon.ItemName"
+msgstr "PPD-40型冲锋枪"
+
+msgid "DH_PPS43Ammo.ItemName"
+msgstr "PPS-43型弹匣"
+
+msgid "DH_PPS43Weapon.ItemName"
+msgstr "PPS-43型冲锋枪"
+
+msgid "DH_PPSH41_StickWeapon.ItemName"
+msgstr "波波沙-41型冲锋枪(35发弹匣)"
+
+msgid "DH_PPSh41Ammo.ItemName"
+msgstr "71发装7.62毫米弹鼓"
+
+msgid "DH_PPSh41Weapon.ItemName"
+msgstr "波波沙-41型冲锋枪(71发装弹鼓)"
+
+msgid "DH_PTRDWeapon.NativeItemName"
+msgstr "PTRD-41"
+
+msgid "DH_PTRDWeapon.ItemName"
+msgstr "PTRD-41型反坦克步枪"
+
+msgid "DH_PanzerFaustWeapon.NativeItemName"
+msgstr "Panzerfaust 60"
+
+msgid "DH_PanzerFaustWeapon.ItemName"
+msgstr "铁拳60"
+
+msgid "DH_PanzerschreckWeapon.NativeItemName"
+msgstr "Raketenpanzerbüchse 54 'Panzerschreck'"
+
+msgid "DH_PanzerschreckWeapon.ItemName"
+msgstr "RPzB 54型反坦克火箭筒(坦克杀手)"
+
+msgid "DH_RPG43GrenadeWeapon.NativeItemName"
+msgstr "RPG-43"
+
+msgid "DH_RPG43GrenadeWeapon.ItemName"
+msgstr "RPG-43型反坦克手榴弹"
+
+msgid "DH_SRCMMod35GrenadeWeapon.ItemName"
+msgstr "SRCM 35型手榴弹(碰炸引信)"
+
+msgid "DH_SRCMMod35SmokeGrenadeWeapon.ItemName"
+msgstr "SRCM 35型烟雾弹"
+
+msgid "DH_STG44ScopedWeapon.NativeItemName"
+msgstr "Sturmgewehr 44 (ZF4)"
+
+msgid "DH_STG44ScopedWeapon.ItemName"
+msgstr "StG 44型突击步枪(ZF4瞄准镜)"
+
+msgid "DH_STG44Weapon.NativeItemName"
+msgstr "Sturmgewehr 44"
+
+msgid "DH_STG44Weapon.ItemName"
+msgstr "StG 44型突击步枪"
+
+msgid "DH_SVT38Weapon.ItemName"
+msgstr "SVT-38型半自动步枪"
+
+msgid "DH_SVT40ScopedWeapon.ItemName"
+msgstr "SVT-40型半自动步枪(PU瞄准镜)"
+
+msgid "DH_SVT40Weapon.ItemName"
+msgstr "SVT-40型半自动步枪"
+
+msgid "DH_SatchelCharge10lb10sWeapon.ItemName"
+msgstr "3公斤炸药包"
+
+msgid "DH_SpringfieldA1Weapon.ItemName"
+msgstr "春田 M1903A1型栓动步枪"
+
+msgid "DH_SpringfieldScopedWeapon.ItemName"
+msgstr "春田M1903A4型栓动狙击枪(M73瞄准镜)"
+
+msgid "DH_StenMkIICWeapon.ItemName"
+msgstr "斯登 Mk.2型冲锋枪"
+
+msgid "DH_StenMkIIIWeapon.ItemName"
+msgstr "斯登 Mk.3型冲锋枪"
+
+msgid "DH_StenMkIIWeapon.ItemName"
+msgstr "斯登 Mk.2型冲锋枪"
+
+msgid "DH_StenMkVWeapon.ItemName"
+msgstr "斯登 Mk.5型冲锋枪"
+
+msgid "DH_StielGranateWeapon.NativeItemName"
+msgstr "Stielhandgranate 24"
+
+msgid "DH_StielGranateWeapon.ItemName"
+msgstr "StG 24柄式手榴弹"
+
+msgid "DH_TT33Weapon.ItemName"
+msgstr "托卡列夫TT-33型手枪"
+
+msgid "DH_ThompsonWeapon.ItemName"
+msgstr "M1A1型汤普森冲锋枪"
+
+msgid "DH_VG15Weapon.NativeItemName"
+msgstr "Volkssturmgewehr 1-5"
+
+msgid "DH_VG15Weapon.ItemName"
+msgstr "人民突击步枪(VG1-5)"
+
+msgid "DH_VK98Weapon.NativeItemName"
+msgstr "Volkssturmkarabiner 98"
+
+msgid "DH_VK98Weapon.ItemName"
+msgstr "VK98型栓动步枪(人民冲锋队)"
+
+msgid "DH_ViSWeapon.ItemName"
+msgstr "拉多姆手枪(ViS wz.35)"
+
+msgid "DH_Vz24ScopedWeapon.NativeItemName"
+msgstr "ZB vz.24 Puska (IOR)"
+
+msgid "DH_Vz24ScopedWeapon.ItemName"
+msgstr "Vz.24型栓动步枪(IOR瞄准镜)"
+
+msgid "DH_Vz24Weapon.NativeItemName"
+msgstr "ZB vz.24 Puska"
+
+msgid "DH_Vz24Weapon.ItemName"
+msgstr "VZ.24型栓动步枪"
+
+msgid "DH_Winchester1897Weapon.ItemName"
+msgstr "温彻斯特 M1897堑壕枪"
+
+msgid "DH_WitchEnder666Weapon.ItemName"
+msgstr "末地女巫 666 '撒旦的武器'"
+
+msgid "DH_Wz35Weapon.ItemName"
+msgstr "Fucile Controcarro 35型反坦克步枪(波兰)"
+
+msgid "DH_ZB30Weapon.NativeItemName"
+msgstr "ZB vz.30 Kulomet"
+
+msgid "DH_ZB30Weapon.ItemName"
+msgstr "ZB-30型轻机枪"
+
+msgid "DH_CarcanoM9138ShortRifleWeapon.ItemName"
+msgstr "卡尔卡诺卡宾型M91/38型步枪"
+
+msgid "DH_CarcanoM9138TSCarbineWeapon.ItemName"
+msgstr "卡尔卡诺特种M91/38型卡宾枪"
+
+msgid "DH_CarcanoM91Weapon.ItemName"
+msgstr "卡尔卡诺M91型栓动步枪"
+
+msgid "DH_ColtM1911Weapon.ItemName"
+msgstr "柯尔特M1911A1型手枪"
+
+msgid "DH_ColtM1914Weapon.ItemName"
+msgstr "康斯贝格柯尔特M1914型手枪"
+
+msgid "DH_DP27Ammo.ItemName"
+msgstr "DP27弹盘"
+
+msgid "DH_DP27LateWeapon.ItemName"
+msgstr "DP-27型轻机枪"
+
+msgid "DH_DP27Weapon.ItemName"
+msgstr "DP-27型轻机枪"
+
+msgid "DH_DT29Ammo.ItemName"
+msgstr "DT29弹盘"
