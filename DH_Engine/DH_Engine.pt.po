@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-09 22:09+0000\n"
+"PO-Revision-Date: 2025-12-11 01:04+0000\n"
 "Last-Translator: flatboy <wannabekilla157@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pt/>\n"
@@ -39,3 +39,37 @@ msgstr "Rotacionar"
 
 msgid "DHATLoadFailMessage.CantLoad"
 msgstr "{0} Deve-se colocar no bipé para recarregar"
+
+msgid "DHATLoadMessage.LoadedGunner"
+msgstr "Você remunicou {0}"
+
+msgid "DHATLoadMessage.BeenLoaded"
+msgstr "{0} recarregou sua arma"
+
+msgid "DHAccessControl.IPBanned"
+msgstr "Não é possível entrar neste servidor, você foi banido."
+
+msgid "DHAccessControl.SessionBanned"
+msgstr "Não é possível entrar no servidor até que o mapa mude."
+
+msgid "DHAdminMessage.KickedFromSquadMessage"
+msgstr "O administrador '{0}' expulsou '{1}' do esquadrão '{2}'"
+
+msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
+msgstr "O administrador '{0}' promoveu '{1}' para liderar o esquadrão '{2}'."
+
+msgid "DHAdminMessage.PlacedSpawnMessage"
+msgstr "O administrador '{0}' colocou um ponto de spawn na equipe {1}."
+
+msgid "DHAdminMessage.DestroyedSpawnMessage"
+msgstr ""
+"O administrador '{0}' destruiu um ponto de spawn colocado pelo administrador "
+"na equipe {1}."
+
+msgid "DHAdminMessage.DestroyedAllSpawnsMessage"
+msgstr ""
+"O administrador '{0}' destruiu todos os pontos de spawn colocados pelo "
+"administrador na equipe {1}."
+
+msgid "DHAdminMessage.AdminTeleportedMessage"
+msgstr "O administrador '{0}' se teletransportou-se."
