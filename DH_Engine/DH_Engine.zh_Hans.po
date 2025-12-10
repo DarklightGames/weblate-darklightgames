@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-09 22:09+0000\n"
+"PO-Revision-Date: 2025-12-10 21:20+0000\n"
 "Last-Translator: Sanae <929719345@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_engine/zh_Hans/>\n"
@@ -133,3 +133,369 @@ msgstr "{name} 此时不可用。"
 
 msgid "DHArtilleryMessage.BadLocationText"
 msgstr "{name} 的目标位置无效。"
+
+msgid "DHArtilleryMessage.NoTargetText"
+msgstr "没有目标位置。"
+
+msgid "DHArtilleryMessage.NotQualifiedText"
+msgstr "您没有资格请求 {name}。"
+
+msgid "DHArtilleryMessage.CancelledText"
+msgstr "{name} 已取消。"
+
+msgid "DHArtilleryMessage.ActiveTargetChosen"
+msgstr "已选择火力支援目标。"
+
+msgid "DHArtillerySpottingScope.LeftString"
+msgstr "左"
+
+msgid "DHArtillerySpottingScope.RightString"
+msgstr "右"
+
+msgid "DHArtillerySpottingScope.CorrectionString"
+msgstr "校正"
+
+msgid "DHArtillerySpottingScope.DistanceString"
+msgstr "距离"
+
+msgid "DHArtillerySpottingScope.RangeHeaderString"
+msgstr "范围"
+
+msgid "DHArtillerySpottingScope.SquadText"
+msgstr "小队"
+
+msgid "DHArtillerySpottingScope.SelectedTargetText"
+msgstr "选定的目标"
+
+msgid "DHArtillerySpottingScope.MeasurementToolText"
+msgstr "测量工具"
+
+msgid "DHArtillerySpottingScope.TargetToggleHint"
+msgstr "按 {0} 在火炮目标之间切换"
+
+msgid "DHArtillerySpottingScope.SelectTargetHint"
+msgstr "按 {0} 选择火炮目标"
+
+msgid "DHArtillerySpottingScope.NoTargetsHint"
+msgstr "无可用目标"
+
+msgid "DHArtilleryTargetMessage.TargetInvalid"
+msgstr "无效的炮击目标"
+
+msgid "DHArtilleryTargetMessage.TargetMarkedHE"
+msgstr "{0} 已标记高爆炮击目标"
+
+msgid "DHArtilleryTargetMessage.TargetMarkedSmoke"
+msgstr "{0} 已标记烟雾炮击目标"
+
+msgid "DHArtilleryTargetMessage.CannotMarkTargetYet"
+msgstr "您还不能标记另一个炮击目标标记"
+
+msgid "DHArtilleryTargetMessage.TooManyArtilleryTargets"
+msgstr "有太多的激活炮击目标"
+
+msgid "DHAxisAntiTankRoles.MyName"
+msgstr "坦克猎手"
+
+msgid "DHAxisAssaultRoles.MyName"
+msgstr "突击掷弹兵"
+
+msgid "DHAxisCorporalRoles.MyName"
+msgstr "上等兵"
+
+msgid "DHAxisEngineerRoles.MyName"
+msgstr "突击工兵"
+
+msgid "DHAxisMachineGunnerRoles.MyName"
+msgstr "机枪手"
+
+msgid "DHAxisMarksmanRoles.MyName"
+msgstr "班组精确射手"
+
+msgid "DHAxisMortarmanRoles.MyName"
+msgstr "迫击炮操作员"
+
+msgid "DHAxisRadioOperatorRoles.MyName"
+msgstr "无线电操作员"
+
+msgid "DHAxisRiflemanRoles.MyName"
+msgstr "掷弹兵"
+
+msgid "DHAxisSergeantRoles.MyName"
+msgstr "下士"
+
+msgid "DHAxisSniperRoles.MyName"
+msgstr "专业狙击手"
+
+msgid "DHAxisTankCrewmanRoles.MyName"
+msgstr "坦克乘员组"
+
+msgid "DHChatRoomMessage.CannotJoinSquadChannelText"
+msgstr "无法加入频道 `%title%`。你必须在一个小队中。"
+
+msgid "DHChatRoomMessage.CannotJoinCommandChannelText"
+msgstr "无法加入频道 `%title%`。您必须是队长或副队长，并且您的队伍必须至少有2名成员。"
+
+msgid "DHCommandMenu_ATGun.EnemyGunText"
+msgstr "无法旋转敌人的火炮"
+
+msgid "DHCommandMenu_ATGun.CannotBeRotatedText"
+msgstr "无法旋转"
+
+msgid "DHCommandMenu_ATGun.OccupiedText"
+msgstr "火炮被占用"
+
+msgid "DHCommandMenu_ATGun.FatalText"
+msgstr "旋转不可用"
+
+msgid "DHCommandMenu_ATGun.CooldownText"
+msgstr "停下"
+
+msgid "DHCommandMenu_ATGun.BusyText"
+msgstr "忙碌中"
+
+msgid "DHCommandMenu_ATGun.Options<0>.ActionText"
+msgstr "旋转"
+
+msgid "DHCommandMenu_FireSupport.UnavailableText"
+msgstr "不可用"
+
+msgid "DHCommandMenu_FireSupport.InvalidTargetText"
+msgstr "无效的目标"
+
+msgid "DHCommandMenu_FireSupport.OffMapSupportExhaustedText"
+msgstr "精疲力竭"
+
+msgid "DHCommandMenu_FireSupport.AvailableArtilleryText"
+msgstr "炮击: {0}"
+
+msgid "DHCommandMenu_FireSupport.AvailableParadropsText"
+msgstr "视差: {0}"
+
+msgid "DHCommandMenu_FireSupport.AvailableAirstrikesText"
+msgstr "空袭: {0}"
+
+msgid "DHCommandMenu_LoneWolf.AutoJoinSquadDisabledText"
+msgstr "没有符合条件的小队"
+
+msgid "DHCommandMenu_LoneWolf.Options<0>.ActionText"
+msgstr "自动加入小队"
+
+msgid "DHCommandMenu_LoneWolf.Options<1>.ActionText"
+msgstr "创建小队"
+
+msgid "DHCommandMenu_Patron.Options<0>.ActionText"
+msgstr "建造"
+
+msgid "DHCommandMenu_Patron.Options<1>.ActionText"
+msgstr "发现"
+
+msgid "DHCommandMenu_Radio.UnavailableText"
+msgstr "不可用"
+
+msgid "DHCommandMenu_Radio.ExhaustedText"
+msgstr "精疲力竭"
+
+msgid "DHCommandMenu_Radio.UnqualifiedText"
+msgstr "不合格的"
+
+msgid "DHCommandMenu_Radio.OngoingText"
+msgstr "正在进行"
+
+msgid "DHCommandMenu_Radio.AvailableText"
+msgstr "可用"
+
+msgid "DHCommandMenu_Radio.CancelText"
+msgstr "正在进行（取消）"
+
+msgid "DHCommandMenu_SquadAssistant.Options<0>.ActionText"
+msgstr "建造"
+
+msgid "DHCommandMenu_SquadAssistant.Options<1>.ActionText"
+msgstr "发现"
+
+msgid "DHCommandMenu_SquadLeader.InEnemyTerritory"
+msgstr "在敌方领土内"
+
+msgid "DHCommandMenu_SquadLeader.Options<0>.ActionText"
+msgstr "创建集结点"
+
+msgid "DHCommandMenu_SquadLeader.Options<1>.ActionText"
+msgstr "开火"
+
+msgid "DHCommandMenu_SquadLeader.Options<2>.ActionText"
+msgstr "建造"
+
+msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
+msgstr "无玩家 "
+
+msgid "DHCommandMenu_SquadLeader.Options<4>.ActionText"
+msgstr "发现"
+
+msgid "DHCommandMenu_SquadLeader.Options<5>.ActionText"
+msgstr "移动"
+
+msgid "DHCommandMenu_SquadManageMember.Options<0>.SubjectText"
+msgstr "从小队中踢出"
+
+msgid "DHCommandMenu_SquadManageMember.Options<1>.SubjectText"
+msgstr "晋升为队长"
+
+msgid "DHCommandMenu_SquadManageMember.Options<2>.SubjectText"
+msgstr "禁止进入小队"
+
+msgid "DHCommandMenu_SquadManageMember.Options<3>.SubjectText"
+msgstr "担任副队长"
+
+msgid "DHCommandMenu_SquadManageMember.Options<4>.SubjectText"
+msgstr "移除副队长职务"
+
+msgid "DHCommandMenu_SquadManageNonMember.AlreadyInASquadText"
+msgstr "已经在一个小队里了"
+
+msgid "DHCommandMenu_SquadManageNonMember.SquadIsFullText"
+msgstr "小队已满"
+
+msgid "DHCommandMenu_SquadManageNonMember.Options<0>.ActionText"
+msgstr "邀请加入小队"
+
+msgid "DHCommandMenu_SquadMenu.Options<0>.ActionText"
+msgstr "离开小队"
+
+msgid "DHCommandPostMessage.ActivatedMessage"
+msgstr "已建立 {name} 。"
+
+msgid "DHCommandPostMessage.OverrunMessage"
+msgstr "{name} 被敌人占领了。"
+
+msgid "DHCommandPostMessage.DestroyedMessage"
+msgstr "{name} 已被销毁。"
+
+msgid "DHCommandPostMessage.ConstructedMessage"
+msgstr "已创建｛name｝，并将在｛秒｝秒内建立。，并将 {seconds} 秒内建造完成。"
+
+msgid "DHCommandSayMessage.MessagePrefix"
+msgstr "[命令]"
+
+msgid "DHCommunicationMessage.AllChatDisabledMessage"
+msgstr "公共聊天当前已禁用。"
+
+msgid "DHConstruction.ConstructionVerb"
+msgstr "建造"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<8>"
+msgstr "太过接近现有的友军 {name}，它必须远离 {integer}m外。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<9>"
+msgstr "太过接近现有的敌军 {name}，它必须远离 {integer}m外。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<10>"
+msgstr "你不能在雷区里对 {name}进行{verb} 。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<2>"
+msgstr "你必须在坚实的地面上对 {name} 进行 {verb} 。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<3>"
+msgstr "这里地面太陡，无法对 {name}进行 {verb} 。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<4>"
+msgstr "你不能在水里对{name}进行{verb}。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<5>"
+msgstr "你无法在此处对{name}进行{verb}。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<6>"
+msgstr "这里空间不足，无法对{name}进行{verb}。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<7>"
+msgstr "你必须在泥土地形上对{name}进行{verb}。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<11>"
+msgstr "你不能在复活点附近对{name}进行{verb}。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<12>"
+msgstr "你不能在室内对{name}进行{verb}。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<13>"
+msgstr "您不能在目标内{verb}{name}。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<14>"
+msgstr "你的团队无法再{verb}更多{name}（已达上限：{integer}）。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<15>"
+msgstr "{integer}米范围内没有物资补给点。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<16>"
+msgstr "物资补给不足，无法对{name}进行{verb}。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<17>"
+msgstr "你无法在此表面对{name}进行{verb}。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<18>"
+msgstr "此处地面太硬，无法对{name}进行{verb}。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<20>"
+msgstr "你的小队必须拥有{integer}名成员，才能{verb}{name}。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<21>"
+msgstr "当你正忙时，不能对{name}进行{verb}。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<22>"
+msgstr "距离目标点({string})过近，需再远离{integer}米。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<23>"
+msgstr "距离未被占领的目标点({string})过近，需再远离{integer}米。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<24>"
+msgstr "你必须在友方{string}的{integer}米范围内对{name}进行{verb}。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<25>"
+msgstr "你不能在敌方领土上对{name}进行{verb}。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<26>"
+msgstr "没有更多{name}可用了。"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<28>"
+msgstr "附近没有小队队友。"
+
+msgid "DHEnemyInformationMsg.EnemyIsWeak"
+msgstr "敌人的援军快耗光了，胜利近在咫尺！"
+
+msgid "DHEnemyInformationMsg.EnemyIsSurrendering"
+msgstr "敌人正在撤退，战斗很快就会结束！"
+
+msgid "DHFireSupportMessage.OnMapArtilleryRequestConfirmedText"
+msgstr "火力支援目标已被标记。"
+
+msgid "DHFireSupportMessage.OffMapArtilleryRequestConfirmedText"
+msgstr "远程火力支援目标已标记。"
+
+msgid "DHFireSupportMessage.OnMapArtilleryRequestingLocked"
+msgstr "你还需等待{seconds}秒才能放置下一个火力支援标记。"
+
+msgid "DHFireSupportMessage.RadiomanNotification"
+msgstr "{squad}小队已标记一个远程火力支援目标。"
+
+msgid "DHFireSupportMessage.ArtilleryOperatorNotification"
+msgstr "{squad}小队已标记一个{type}目标用于火力支援。"
+
+msgid "DHFireSupportMessage.ErrorText"
+msgstr "无法放置火力支援标记。"
+
+msgid "DHFriendlyInformationMsg.TeamSurrendered"
+msgstr "你的团队决定撤退，战斗很快就会结束！"
+
+msgid "DHGameMessage.VehicleDestroyedMessage"
+msgstr "{0}已被销毁。"
+
+msgid "DHGameMessage.VehicleDepletedMessage"
+msgstr "{0}的增援已耗尽。"
+
+msgid "DHGameMessage.VehicleArrivedMessage"
+msgstr "{0}的增援已到达。"
+
+msgid "DHGameMessage.VehicleCutOffMessage"
+msgstr "{0}的增援已被切断。"
+
+msgid "DHGameMessage.VehicleTeamKilledMessage"
+msgstr "{0}击杀了一名友方{1}。"
