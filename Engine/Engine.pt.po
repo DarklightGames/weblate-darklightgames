@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-09 22:09+0000\n"
+"PO-Revision-Date: 2025-12-11 01:04+0000\n"
 "Last-Translator: flatboy <wannabekilla157@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/pt/>\n"
@@ -28,3 +28,27 @@ msgstr "Erro ao mover o arquivo"
 
 msgid "Errors.NetRefused"
 msgstr "Servidor se negou a enviar"
+
+msgid "Errors.RequestDenied"
+msgstr "O servidor solicitou um arquivo do nível pendente: Negado"
+
+msgid "Errors.ConnectionFailed"
+msgstr "Conexão falhou"
+
+msgid "Errors.NetListen"
+msgstr "Falha ao escutar: Nenhum contexto de link disponível"
+
+msgid "Errors.LoadEntry"
+msgstr "Não foi possível carregar a entrada: %s"
+
+msgid "Errors.InvalidUrl"
+msgstr "URL inválida: %s"
+
+msgid "Errors.InvalidLink"
+msgstr "Link inválido: %s"
+
+msgid "Errors.FailedBrowse"
+msgstr "Falha ao entrar em %s: %s"
+
+msgid "Errors.Listen"
+msgstr "Falha ao escutar: %s"
