@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-09 22:09+0000\n"
+"PO-Revision-Date: 2025-12-11 01:04+0000\n"
 "Last-Translator: flatboy <wannabekilla157@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/pt/>\n"
@@ -31,3 +31,33 @@ msgstr "M9A1 Bazooka"
 
 msgid "DH_BazookaWeapon.ItemName"
 msgstr "M1A1 Bazooka"
+
+msgid "DH_Breda30Weapon.ItemName"
+msgstr "Breda mod. 30"
+
+msgid "DH_BrenWeapon.ItemName"
+msgstr "Bren Mk.II"
+
+msgid "DH_C96Weapon.ItemName"
+msgstr "Mauser C96"
+
+msgid "DH_CarcanoM9138CarbineWeapon.ItemName"
+msgstr "Carcano Moschetto mod. 91/38"
+
+msgid "DH_CarcanoM9138ShortRifleWeapon.ItemName"
+msgstr "Carcano Fucile Corto mod. 91/38"
+
+msgid "DH_CarcanoM9138TSCarbineWeapon.ItemName"
+msgstr "Carcano Moschetto TS mod. 91/38"
+
+msgid "DH_CarcanoM91Weapon.ItemName"
+msgstr "Carcano Fucile mod. 91"
+
+msgid "DH_ColtM1911Weapon.ItemName"
+msgstr "Colt M1911A1"
+
+msgid "DH_ColtM1914Weapon.ItemName"
+msgstr "Kongsberg Colten M/1914"
+
+msgid "DH_DP27Ammo.ItemName"
+msgstr "Carregador de DP27"
