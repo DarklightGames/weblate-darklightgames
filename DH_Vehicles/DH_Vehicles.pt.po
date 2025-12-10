@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-09 22:09+0000\n"
+"PO-Revision-Date: 2025-12-11 01:04+0000\n"
 "Last-Translator: flatboy <wannabekilla157@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/pt/>\n"
@@ -37,3 +37,36 @@ msgstr "Granata Perforante da 20"
 
 msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<1>"
 msgstr "Granata da 20"
+
+msgid "DH_Autoblinda43ArmoredCar.VehicleNameString"
+msgstr "Autoblinda 43"
+
+msgid "DH_Autoblinda43Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Autoblinda43Cannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.38"
+
+msgid "DH_AutoblindaArmoredCar.VehicleNameString"
+msgstr "Autoblinda 41"
+
+msgid "DH_AutocarrettaOM.VehicleNameString"
+msgstr "Autocarretta OM 36P"
+
+msgid "DH_AutocarrettaOMSupport.VehicleNameString"
+msgstr "Autocarretta OM 36Mt (Logística)"
+
+msgid "DH_BA64ArmoredCar.VehicleNameString"
+msgstr "Carro Blindado BA-64"
+
+msgid "DH_BT7Cannon.ProjectileDescriptions<0>"
+msgstr "APHE-T"
+
+msgid "DH_BT7Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_BT7Cannon.nProjectileDescriptions<0>"
+msgstr "BR-240"
+
+msgid "DH_BT7Cannon.nProjectileDescriptions<1>"
+msgstr "O-240"
