@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-09 22:09+0000\n"
+"PO-Revision-Date: 2025-12-11 01:04+0000\n"
 "Last-Translator: flatboy <wannabekilla157@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/rointerface/pt/>\n"
@@ -13,3 +13,30 @@ msgstr ""
 
 msgid "ROConsole.AllPlayersSquad"
 msgstr "Todos aliados"
+
+msgid "ROConsole.SMStateName[1]"
+msgstr "Suporte"
+
+msgid "ROConsole.SMStateName[3]"
+msgstr "Inimigo Avistado"
+
+msgid "ROConsole.SMStateName[4]"
+msgstr "Alerta"
+
+msgid "ROConsole.SMStateName[5]"
+msgstr "Comando do veículo"
+
+msgid "ROConsole.SMStateName[6]"
+msgstr "Alertas do Veículo"
+
+msgid "ROConsole.SMStateName[7]"
+msgstr "Comandos"
+
+msgid "ROConsole.SMStateName[8]"
+msgstr "Provocações"
+
+msgid "ROConsole.SMStateName[9]"
+msgstr "Atacar..."
+
+msgid "ROConsole.SMStateName[10]"
+msgstr "Defender..."
