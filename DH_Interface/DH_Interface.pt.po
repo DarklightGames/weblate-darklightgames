@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-09 22:09+0000\n"
+"PO-Revision-Date: 2025-12-11 01:04+0000\n"
 "Last-Translator: flatboy <wannabekilla157@gmail.com>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/pt/>\n"
@@ -34,3 +34,27 @@ msgstr "Somente servidores padrão"
 
 msgid "DHBrowser_OpenIP.CancelButton.Caption"
 msgstr "Cancelar"
+
+msgid "DHBrowser_OpenIP.IpEntryBox.Caption"
+msgstr "Endereço de IP "
+
+msgid "DHBrowser_OpenIP.OkButton.Caption"
+msgstr "OK"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<0>"
+msgstr "Entrar no servidor"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<1>"
+msgstr "Entrar como espectador"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<3>"
+msgstr "Atualizar Informações do Servidor"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<4>"
+msgstr "Atualizar Lista"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<6>"
+msgstr "Configurar filtros"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<7>"
+msgstr "Criar Modelo"
