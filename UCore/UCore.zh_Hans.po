@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"PO-Revision-Date: 2025-12-12 00:47+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/ucore/zh_Hans/>\n"
@@ -41,6 +41,5 @@ msgstr "度"
 msgid "UUnits.MilsSymbol"
 msgstr "密位"
 
-#, fuzzy
 msgid "UUnits.RadiansSymbol"
 msgstr "弧度"
