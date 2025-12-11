@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-10 21:20+0000\n"
-"Last-Translator: Sanae <929719345@qq.com>\n"
+"PO-Revision-Date: 2025-12-12 00:47+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_guns/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -68,9 +68,8 @@ msgstr "脱壳穿甲弹"
 msgid "DH_6PounderGunCannon.ProjectileDescriptions<2>"
 msgstr "高爆弹"
 
-#, fuzzy
 msgid "DH_6PounderGunCannon.nProjectileDescriptions<0>"
-msgstr "Mk.增强发射药型穿甲弹"
+msgstr "Mk.XT型穿甲弹"
 
 msgid "DH_6PounderGunCannon.nProjectileDescriptions<1>"
 msgstr "Mk.1型脱壳穿甲弹"
