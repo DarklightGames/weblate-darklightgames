@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
-"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"PO-Revision-Date: 2025-12-12 00:47+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_vehicles/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -22,3 +22,141 @@ msgstr "Mk.4型穿甲弹"
 
 msgid "DH_AchillesCannon.nProjectileDescriptions<1>"
 msgstr "MK.1型脱壳穿甲弹"
+
+msgid "DH_AchillesCannon.ProjectileDescriptions<2>"
+msgstr "高爆弹"
+
+msgid "DH_BT7Cannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_Cromwell6PdrCannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_Cromwell95mmCannon.ProjectileDescriptions<0>"
+msgstr "高爆弹"
+
+msgid "DH_CromwellCannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_GreyhoundCannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_HellcatCannon.ProjectileDescriptions<2>"
+msgstr "高爆弹"
+
+msgid "DH_HetzerCannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_IS2Cannon.ProjectileDescriptions<0>"
+msgstr "高爆弹"
+
+msgid "DH_IS2Cannon_Late.ProjectileDescriptions<0>"
+msgstr "高爆弹"
+
+msgid "DH_ISU152Cannon.ProjectileDescriptions<0>"
+msgstr "高爆弹"
+
+msgid "DH_ISU152Cannon_Late.ProjectileDescriptions<0>"
+msgstr "高爆弹"
+
+msgid "DH_JacksonCannon.ProjectileDescriptions<2>"
+msgstr "高爆弹"
+
+msgid "DH_JacksonCannon_Early.ProjectileDescriptions<2>"
+msgstr "高爆弹"
+
+msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions<2>"
+msgstr "高爆弹"
+
+msgid "DH_KV1sCannon_Late.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_LocustCannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_M7PriestCannon.ProjectileDescriptions<0>"
+msgstr "荧光高爆弹"
+
+msgid "DH_PantherDCannon.ProjectileDescriptions<2>"
+msgstr "高爆弹"
+
+msgid "DH_PanzerIIILCannon.ProjectileDescriptions<2>"
+msgstr "高爆弹"
+
+msgid "DH_PanzerIIINCannon.ProjectileDescriptions<0>"
+msgstr "高爆弹"
+
+msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions<2>"
+msgstr "高爆弹"
+
+msgid "DH_PanzerIVGEarlyCannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_PanzerIVGLateCannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_SU76Cannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_SdKfz2519DCannon.ProjectileDescriptions<0>"
+msgstr "高爆弹"
+
+msgid "DH_Semovente4732Cannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_ShermanCannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_ShermanCannonA_76mm.ProjectileDescriptions<2>"
+msgstr "高爆弹"
+
+msgid "DH_ShermanCannonA_76mm_Early.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_ShermanCannon_M4A3105_Howitzer.ProjectileDescriptions<0>"
+msgstr "高爆弹"
+
+msgid "DH_ShermanCannon_M4A3E2_Jumbo.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions<2>"
+msgstr "高爆弹"
+
+msgid "DH_StuH42Cannon.ProjectileDescriptions<0>"
+msgstr "高爆弹"
+
+msgid "DH_StuartCannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_Stug3GCannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_T3476Cannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_T3476_42Cannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_T3476_43Cannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_T3485Cannon.ProjectileDescriptions<2>"
+msgstr "高爆弹"
+
+msgid "DH_T60Cannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DH_WespeCannon.ProjectileDescriptions<0>"
+msgstr "高爆弹"
+
+msgid "DH_WolverineCannon.ProjectileDescriptions<2>"
+msgstr "高爆弹"
