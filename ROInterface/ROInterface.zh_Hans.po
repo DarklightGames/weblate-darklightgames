@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"PO-Revision-Date: 2025-12-12 00:47+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/rointerface/zh_Hans/>\n"
@@ -122,7 +122,6 @@ msgstr "向右平走"
 msgid "ROControlBinder.BindingLabel[22]"
 msgstr "跳跃"
 
-#, fuzzy
 msgid "ROControlBinder.BindingLabel[23]"
 msgstr "静步"
 
@@ -201,7 +200,6 @@ msgstr "队伍聊天"
 msgid "ROControlBinder.BindingLabel[48]"
 msgstr "游戏内聊天"
 
-#, fuzzy
 msgid "ROControlBinder.BindingLabel[49]"
 msgstr "语音菜单"
 
