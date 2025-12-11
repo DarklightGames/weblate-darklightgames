@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-12-12 00:47+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_vehicles/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -160,3 +160,87 @@ msgstr "高爆弹"
 
 msgid "DH_WolverineCannon.ProjectileDescriptions<2>"
 msgstr "高爆弹"
+
+msgid "DH_AchillesCannon.nProjectileDescriptions<2>"
+msgstr "Mk.1型荧光高爆弹"
+
+msgid "DH_AchillesTank.VehicleNameString"
+msgstr "阿喀琉斯 Mk.1C型坦克歼击车"
+
+msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<0>"
+msgstr "20毫米高爆穿甲弹(布雷达用)"
+
+msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<1>"
+msgstr "20毫米高爆弹(布雷达用)"
+
+msgid "DH_Autoblinda43ArmoredCar.VehicleNameString"
+msgstr "AB 43轮式装甲车"
+
+msgid "DH_Autoblinda43Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39(被帽风帽穿甲弹)"
+
+msgid "DH_Autoblinda43Cannon.nProjectileDescriptions<1>"
+msgstr "Sorgr.Patr.38(荧光高爆弹)"
+
+msgid "DH_AutoblindaArmoredCar.VehicleNameString"
+msgstr "AB 41轮式战车"
+
+msgid "DH_AutocarrettaOM.VehicleNameString"
+msgstr "OM 36P运输车"
+
+msgid "DH_AutocarrettaOMSupport.VehicleNameString"
+msgstr "OM36Mt后勤运输车(Logistics)"
+
+msgid "DH_BA64ArmoredCar.VehicleNameString"
+msgstr "BA64装甲车"
+
+msgid "DH_BT7Cannon.ProjectileDescriptions<0>"
+msgstr "荧光穿甲高爆弹"
+
+msgid "DH_BT7Cannon.nProjectileDescriptions<0>"
+msgstr "BR-240被帽穿甲高爆弹"
+
+msgid "DH_BT7Cannon.nProjectileDescriptions<1>"
+msgstr "O-240(高爆弹)"
+
+msgid "DH_BT7Tank.VehicleNameString"
+msgstr "BT-7(轻型坦克)"
+
+msgid "DH_BrenCarrierTransport.VehicleNameString"
+msgstr "布伦车Mk.1型"
+
+msgid "DH_CV33Tank.VehicleNameString"
+msgstr "CV-33(超轻型坦克)"
+
+msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<2>"
+msgstr "白磷烟幕弹"
+
+msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<0>"
+msgstr "M61穿甲弹"
+
+msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<1>"
+msgstr "M48 HE-T"
+
+msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<2>"
+msgstr "M89 WP"
+
+msgid "DH_ChurchillMkVIITank.VehicleNameString"
+msgstr "丘吉尔 Mk.7型重型步兵坦克"
+
+msgid "DH_Cromwell6PdrCannon.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_Cromwell6PdrCannon.nProjectileDescriptions<0>"
+msgstr "Mk.IX APC"
+
+msgid "DH_Cromwell6PdrCannon.nProjectileDescriptions<1>"
+msgstr "Mk.X HE-T"
+
+msgid "DH_Cromwell6PdrTank.VehicleNameString"
+msgstr "克伦威尔Mk.1巡洋坦克(6磅炮)"
+
+msgid "DH_Cromwell95mmCannon.ProjectileDescriptions<1>"
+msgstr "烟幕弹"
