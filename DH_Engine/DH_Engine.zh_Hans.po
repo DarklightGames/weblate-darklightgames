@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-10 21:20+0000\n"
-"Last-Translator: Sanae <929719345@qq.com>\n"
+"PO-Revision-Date: 2025-12-12 00:47+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_engine/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -499,3 +499,12 @@ msgstr "{0}的增援已被切断。"
 
 msgid "DHGameMessage.VehicleTeamKilledMessage"
 msgstr "{0}击杀了一名友方{1}。"
+
+msgid "DHAdminMessage.PlacedSpawnMessage"
+msgstr "管理员 '{0}' 在{1}阵营放置了一个重生点."
+
+msgid "DHAdminMessage.DestroyedSpawnMessage"
+msgstr "管理员 '{0}'已摧毁了在{1}阵营放置的管理员放置重生点."
+
+msgid "DHAdminMessage.DestroyedAllSpawnsMessage"
+msgstr "管理员'{0}'已摧毁了在{1}阵营放置的所有管理员放置重生点."
