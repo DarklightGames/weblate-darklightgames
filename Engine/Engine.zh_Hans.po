@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"PO-Revision-Date: 2025-12-12 00:47+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/engine/zh_Hans/>\n"
@@ -22,3 +22,87 @@ msgstr "关闭文件时发生错误"
 
 msgid "Errors.NetSize"
 msgstr "文件大小不匹配"
+
+msgid "Errors.NetRefused"
+msgstr "服务器拒绝发送 '%s'"
+
+msgid "Errors.NetMove"
+msgstr "移动文件时发生错误"
+
+msgid "Errors.NetInvalid"
+msgstr "收到无效文件请求"
+
+msgid "Errors.NoDownload"
+msgstr "软件包'%s'不可下载"
+
+msgid "Errors.DownloadFailed"
+msgstr "软件包'%s'下载失败:%s"
+
+msgid "Errors.RequestDenied"
+msgstr "服务器请求待处理级别文件:已拒绝"
+
+msgid "Errors.ConnectionFailed"
+msgstr "连接失败"
+
+msgid "Errors.ChAllocate"
+msgstr "无法分配通道"
+
+msgid "Errors.NetAlready"
+msgstr "已在联网中"
+
+msgid "Errors.NetListen"
+msgstr "监听失败:无链接器上下文可用"
+
+msgid "Errors.LoadEntry"
+msgstr "无法加载条目: %s"
+
+msgid "Errors.InvalidUrl"
+msgstr "无效的URL: %s"
+
+msgid "Errors.InvalidLink"
+msgstr "无效链接: %s"
+
+msgid "Errors.FailedBrowse"
+msgstr "无法进入%s: %s"
+
+msgid "Errors.Listen"
+msgstr "监听失败: %s"
+
+msgid "Errors.AbortToEntry"
+msgstr "失败; 返回至初始界面"
+
+msgid "Errors.ServerOpen"
+msgstr "服务器无法打开网络URL"
+
+msgid "Errors.ServerListen"
+msgstr "专用服务器无法监听: %s"
+
+msgid "Errors.Pending"
+msgstr "待处理的连接到 '%s'失败; %s"
+
+msgid "Errors.LoadPlayerClass"
+msgstr "加载玩家兵种失败"
+
+msgid "Errors.ServerOutdated"
+msgstr "服务器的版本已过期"
+
+msgid "Errors.ClientOutdated"
+msgstr "你需要安装最新的补丁"
+
+msgid "Errors.ConnectLost"
+msgstr "丢失连接"
+
+msgid "Errors.DemoFileMissing"
+msgstr "缺失用于演示demo的文件包 '%s'"
+
+msgid "Errors.DownloadNotAllowed"
+msgstr "不允许下载 '%s'"
+
+msgid "KeyNames.Up"
+msgstr "上"
+
+msgid "KeyNames.Right"
+msgstr "右"
+
+msgid "KeyNames.Left"
+msgstr "左"
