@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-10 21:20+0000\n"
+"PO-Revision-Date: 2025-12-12 00:47+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_weapons/zh_Hans/>\n"
@@ -45,7 +45,7 @@ msgid "DH_C96Weapon.ItemName"
 msgstr "毛瑟C96"
 
 msgid "DH_CarcanoM9138CarbineWeapon.ItemName"
-msgstr "卡尔卡诺M91/38卡宾枪"
+msgstr "卡尔卡诺M91/38短管卡宾枪"
 
 msgid "DH_DT29Weapon.ItemName"
 msgstr "DT-29轻机枪"
