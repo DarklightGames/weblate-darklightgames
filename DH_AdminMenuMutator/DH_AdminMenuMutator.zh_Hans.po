@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-09 22:09+0000\n"
-"Last-Translator: Sanae <929719345@qq.com>\n"
+"PO-Revision-Date: 2025-12-12 00:47+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_adminmenumutator/zh_Hans/>"
 "\n"
@@ -387,3 +387,12 @@ msgstr "您收到了来自管理员的警告消息"
 
 msgid "DHAdminMenu_WarningMessage.WarningChatPrefix"
 msgstr "来自管理员的警告"
+
+msgid "DHAdminMenu_AdminMessages.EnterGridLocation"
+msgstr "请指定一个网格位置(例如:对于网格E2的键区5,请输入'e25')"
+
+msgid "DHAdminMenu_AdminMessages.ConfirmMatchLive"
+msgstr "按回车键确认您要强制开启真实模式对局(在线对战)"
+
+msgid "DHAdminMenu_AdminMessages.DestroyActorInSights"
+msgstr "按回车键确认您要摧毁在您视线内的实体"
