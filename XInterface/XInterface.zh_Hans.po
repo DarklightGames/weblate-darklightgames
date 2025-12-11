@@ -1,2 +1,48 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-12-12 00:47+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.darklightgames.com/projects/darkesthour/xinterface/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "ExtendedConsole.ServerFullMsg"
+msgstr "服务器现已满人"
+
+msgid "GUIQuestionPage.ButtonNames<0>"
+msgstr "OK"
+
+msgid "GUIQuestionPage.ButtonNames<1>"
+msgstr "取消"
+
+msgid "GUIQuestionPage.ButtonNames<2>"
+msgstr "重试"
+
+msgid "GUIQuestionPage.ButtonNames<3>"
+msgstr "继续"
+
+msgid "GUIQuestionPage.ButtonNames<4>"
+msgstr "是"
+
+msgid "GUIQuestionPage.ButtonNames<5>"
+msgstr "否"
+
+msgid "GUIQuestionPage.ButtonNames<6>"
+msgstr "中止"
+
+msgid "GUIQuestionPage.ButtonNames<7>"
+msgstr "无视"
+
+msgid "HudBase.NowViewing"
+msgstr "现观看"
+
+msgid "ExtendedConsole.SMStateName[0]"
+msgstr "语音菜单"
+
+msgid "ExtendedConsole.SMStateName[2]"
+msgstr "回应"
