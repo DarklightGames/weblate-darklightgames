@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"PO-Revision-Date: 2025-12-12 00:47+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/gui2k4/zh_Hans/>\n"
@@ -13,3 +13,6 @@ msgstr ""
 
 msgid "UT2k4Browser_ServersList.ColumnHeadings<4>"
 msgstr "延迟"
+
+msgid "ControlBinder.BindingLabel[15]"
+msgstr "切换\"第三人称视角\""
