@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"PO-Revision-Date: 2025-12-12 00:47+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/roengine/zh_Hans/>\n"
@@ -31,3 +31,12 @@ msgstr "你已以管理员的身份登入."
 
 msgid "ROGameMessage.NewPlayerMessage"
 msgstr "一名新兵已加入战斗."
+
+msgid "ROHud.TimeRemainingText"
+msgstr "剩余时间:· "
+
+msgid "ROHud.ViewingText"
+msgstr "观战中:· "
+
+msgid "ROPlayer.SpectatingModeName[0]"
+msgstr "观战自己"
