@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"PO-Revision-Date: 2025-12-12 00:47+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_interface/zh_Hans/>\n"
@@ -25,3 +25,90 @@ msgstr "刷新"
 
 msgid "DHBrowser_Footer.BrowserSpec.Caption"
 msgstr "观察"
+
+msgid "DHBrowser_Footer.BrowserJoin.Caption"
+msgstr "加入"
+
+msgid "DHBrowser_Footer.OnlyStandardCheckBox.Caption"
+msgstr "仅限标准服务器"
+
+msgid "DHBrowser_OpenIP.CancelButton.Caption"
+msgstr "取消"
+
+msgid "DHBrowser_OpenIP.IPDesc.Caption"
+msgstr "输入新IP地址"
+
+msgid "DHBrowser_OpenIP.IpEntryBox.Caption"
+msgstr "IP地址:· "
+
+msgid "DHBrowser_OpenIP.OkButton.Caption"
+msgstr "确认"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<0>"
+msgstr "加入服务器"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<1>"
+msgstr "以观察者身份加入游戏"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<3>"
+msgstr "刷新服务器信息"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<4>"
+msgstr "刷新列表"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<6>"
+msgstr "配置过滤器"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<7>"
+msgstr "创建模版"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<8>"
+msgstr "停用所有过滤器"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<10>"
+msgstr "添加到收藏夹"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<11>"
+msgstr "复制服务器地址"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<12>"
+msgstr "打开IP"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<1>"
+msgstr "服务器名称"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<2>"
+msgstr "状态"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<3>"
+msgstr "地点"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<4>"
+msgstr "版本"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<5>"
+msgstr "地图"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<6>"
+msgstr "玩家"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<7>"
+msgstr "延迟"
+
+msgid "DHCommunicationPage.Panels<0>.Caption"
+msgstr "交流"
+
+msgid "DHCommunicationPage.Panels<0>.Hint"
+msgstr "管理与其他玩家的交流"
+
+msgid "DHContextMenu_SquadMembers.AdminPrefixText"
+msgstr "管理员说:"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<1>"
+msgstr "邀请 {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<2>"
+msgstr "踢出 {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<3>"
+msgstr "封禁 {0}"
