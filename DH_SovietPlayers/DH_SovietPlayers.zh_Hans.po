@@ -1,2 +1,42 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-12-12 00:47+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.darklightgames.com/projects/darkesthour/dh_sovietplayers/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "DHNation_Czechoslovakia.NationName"
+msgstr "捷克斯洛伐克"
+
+msgid "DHNation_Poland.NationName"
+msgstr "波兰人民军"
+
+msgid "DHNation_USSR.NationName"
+msgstr "苏维埃社会主义共和国联盟"
+
+msgid "DHSOVCorporalRoles.MyName"
+msgstr "火力小组组长"
+
+msgid "DHSOVEngineerRoles.AltName"
+msgstr "Saper"
+
+msgid "DHSOVMachineGunnerRoles.AltName"
+msgstr "Pulemetchik"
+
+msgid "DHSOVSergeantRoles.MyName"
+msgstr "班长"
+
+msgid "DHSOVSniperRoles.AltName"
+msgstr "狙击手"
+
+msgid "DH_SovietMadManRoles.MyName"
+msgstr "狂人"
+
+msgid "DH_SovietMadManRoles.AltName"
+msgstr "Mad Man"
