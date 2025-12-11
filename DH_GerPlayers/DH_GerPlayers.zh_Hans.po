@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-10 21:20+0000\n"
-"Last-Translator: Sanae <929719345@qq.com>\n"
+"PO-Revision-Date: 2025-12-12 00:47+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_gerplayers/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -25,3 +25,21 @@ msgstr "需要一个坦克杀手"
 
 msgid "DHNation_Germany.NationName"
 msgstr "德国"
+
+msgid "DH_OstTruppenRifleman.MyName"
+msgstr "东欧志愿步枪兵"
+
+msgid "DH_WHArtilleryGunner.MyName"
+msgstr "炮手"
+
+msgid "DH_WHArtilleryOfficer.MyName"
+msgstr "炮兵军官"
+
+msgid "DH_WHSPCrew.MyName"
+msgstr "突击炮车组成员"
+
+msgid "DH_ZBerserker.MyName"
+msgstr "狂战士"
+
+msgid "DH_ZLeader.MyName"
+msgstr "僵尸首领"
