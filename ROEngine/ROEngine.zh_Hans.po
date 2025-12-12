@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-12 00:47+0000\n"
+"PO-Revision-Date: 2025-12-12 23:49+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/roengine/zh_Hans/>\n"
@@ -40,3 +40,537 @@ msgstr "观战中:· "
 
 msgid "ROPlayer.SpectatingModeName[0]"
 msgstr "观战自己"
+
+msgid "RORoundOverMsg.AlliesWins"
+msgstr "盟军阵营赢得了战争!"
+
+msgid "RORoundOverMsg.NoDecisiveOutcome"
+msgstr "无决定性胜利"
+
+msgid "ROTeamGame.PropsDisplayText[0]"
+msgstr "机器人熟练程度"
+
+msgid "ROTeamGame.PropsDisplayText[2]"
+msgstr "游戏速度"
+
+msgid "ROTeamGame.PropsDisplayText[3]"
+msgstr "最大观察者数量"
+
+msgid "ROTeamGame.PropsDisplayText[4]"
+msgstr "最大玩家数量"
+
+msgid "ROTeamGame.PropsDisplayText[5]"
+msgstr "时间限制"
+
+msgid "ROTeamGame.PropsDisplayText[6]"
+msgstr "允许第三人称视角"
+
+msgid "ROTeamGame.PropsDisplayText[7]"
+msgstr "观察者仅限第一人称视角"
+
+msgid "ROTeamGame.PropsDisplayText[8]"
+msgstr "第三人称视角观察锁定"
+
+msgid "ROTeamGame.PropsDisplayText[10]"
+msgstr "允许自由视角观战"
+
+msgid "ROTeamGame.PropsDisplayText[11]"
+msgstr "允许死亡后观察"
+
+msgid "ROTeamGame.PropsDisplayText[12]"
+msgstr "允许管理员暂停"
+
+msgid "ROTeamGame.PropsDisplayText[13]"
+msgstr "最小玩家数量"
+
+msgid "ROTeamGame.PropsDisplayText[14]"
+msgstr "机器人的模式"
+
+msgid "ROTeamGame.PropsDisplayText[16]"
+msgstr "熟练程度自动调节"
+
+msgid "ROTeamGame.PropsDisplayText[17]"
+msgstr "胜利局数限制"
+
+msgid "ROTeamGame.PropsDisplayText[18]"
+msgstr "局数限制"
+
+msgid "ROTeamGame.PropsDisplayText[19]"
+msgstr "开始前准备时间时长"
+
+msgid "ROTeamGame.PropsDisplayText[22]"
+msgstr "玩家必须准备"
+
+msgid "ROTeamGame.PropsDisplayText[26]"
+msgstr "机器人自动平衡队伍"
+
+msgid "ROTeamGame.PropsDisplayText[27]"
+msgstr "玩家平衡队伍"
+
+msgid "ROTeamGame.PropsDisplayText[29]"
+msgstr "踢出挂机过长所需的时间"
+
+msgid "ROTeamGame.PropsDisplayText[30]"
+msgstr "队伤惩罚"
+
+msgid "ROTeamGame.PropsDisplayText[31]"
+msgstr "死亡信息显示模式"
+
+msgid "ROTeamGame.PropsDisplayText[32]"
+msgstr "死亡时画面全黑"
+
+msgid "ROTeamGame.PropsDisplayText[34]"
+msgstr "死亡后自动平衡队伍"
+
+msgid "ROTeamGame.PropsDisplayText[35]"
+msgstr "最大队伍人数差"
+
+msgid "ROTeamGame.PropsDisplayText[37]"
+msgstr "原谅友杀启用"
+
+msgid "ROTeamGame.PropsDisplayText[38]"
+msgstr "友伤击杀上限"
+
+msgid "ROTeamGame.PropsDisplayText[39]"
+msgstr "友伤伤害上限"
+
+msgid "ROTeamGame.PropsDisplayText[40]"
+msgstr "在记分板展示服务器IP"
+
+msgid "ROTeamGame.PropsDisplayText[41]"
+msgstr "在记分板展示时间"
+
+msgid "ROVoicePack.SupportString[0]"
+msgstr "我们需要帮助!"
+
+msgid "ROVoicePack.SupportString[2]"
+msgstr "我需要弹药!"
+
+msgid "ROVoicePack.SupportString[3]"
+msgstr "把狙击手拉过来!"
+
+msgid "ROVoicePack.SupportString[4]"
+msgstr "我们需要机枪支援!"
+
+msgid "ROVoicePack.SupportString[5]"
+msgstr "我们需要一把反坦克步枪!"
+
+msgid "ROVoicePack.SupportString[6]"
+msgstr "来个人把这个炸了!"
+
+msgid "ROVoicePack.SupportString[7]"
+msgstr "我们需要一辆坦克!"
+
+msgid "ROVoicePack.SupportString[8]"
+msgstr "来些炮火打击!"
+
+msgid "ROVoicePack.SupportString[9]"
+msgstr "我需要运送!"
+
+msgid "ROVoicePack.SupportAbbrev[0]"
+msgstr "需要帮助"
+
+msgid "ROVoicePack.SupportAbbrev[1]"
+msgstr "在...需要帮助"
+
+msgid "ROVoicePack.SupportAbbrev[2]"
+msgstr "需要弹药"
+
+msgid "ROVoicePack.SupportAbbrev[3]"
+msgstr "需要狙击手"
+
+msgid "ROVoicePack.SupportAbbrev[4]"
+msgstr "需要机枪支援"
+
+msgid "ROVoicePack.SupportAbbrev[5]"
+msgstr "需要一把反坦克步枪"
+
+msgid "ROVoicePack.SupportAbbrev[6]"
+msgstr "需要炸药"
+
+msgid "ROVoicePack.SupportAbbrev[7]"
+msgstr "需要坦克"
+
+msgid "ROVoicePack.SupportAbbrev[8]"
+msgstr "需要炮火打击"
+
+msgid "ROVoicePack.SupportAbbrev[9]"
+msgstr "需要运输"
+
+msgid "ROVoicePack.SupportStringAxis[5]"
+msgstr "我们需要铁拳!"
+
+msgid "ROVoicePack.SupportAbbrevAxis[5]"
+msgstr "需要一把铁拳"
+
+msgid "ROVoicePack.EnemyString[0]"
+msgstr "发现地方步兵!"
+
+msgid "ROVoicePack.EnemyString[1]"
+msgstr "发现敌方机枪!"
+
+msgid "ROVoicePack.EnemyString[2]"
+msgstr "敌方狙击手!"
+
+msgid "ROVoicePack.EnemyString[3]"
+msgstr "敌方爆兵!"
+
+msgid "ROVoicePack.EnemyString[4]"
+msgstr "敌方反坦克兵!"
+
+msgid "ROVoicePack.EnemyString[5]"
+msgstr "敌方小型载具!"
+
+msgid "ROVoicePack.EnemyString[6]"
+msgstr "坦克!坦克!!!"
+
+msgid "ROVoicePack.EnemyString[7]"
+msgstr "敌方重型坦克!"
+
+msgid "ROVoicePack.EnemyString[8]"
+msgstr "炮火打击!"
+
+msgid "ROVoicePack.EnemyAbbrev[0]"
+msgstr "发现敌方步兵"
+
+msgid "ROVoicePack.EnemyAbbrev[1]"
+msgstr "发现敌方机枪"
+
+msgid "ROVoicePack.EnemyAbbrev[2]"
+msgstr "敌方狙击手"
+
+msgid "ROVoicePack.EnemyAbbrev[3]"
+msgstr "敌方爆兵"
+
+msgid "ROVoicePack.EnemyAbbrev[4]"
+msgstr "敌方反坦克兵"
+
+msgid "ROVoicePack.EnemyAbbrev[5]"
+msgstr "敌方小型载具"
+
+msgid "ROVoicePack.EnemyAbbrev[6]"
+msgstr "敌方坦克"
+
+msgid "ROVoicePack.EnemyAbbrev[7]"
+msgstr "敌方重型坦克"
+
+msgid "ROVoicePack.EnemyAbbrev[8]"
+msgstr "敌方炮火打击"
+
+msgid "ROVoicePack.EnemyStringAxis[3]"
+msgstr "敌方工兵!"
+
+msgid "ROVoicePack.EnemyStringAxis[6]"
+msgstr "警告!敌方坦克!"
+
+msgid "ROVoicePack.EnemyAbbrevAxis[3]"
+msgstr "敌方工兵"
+
+msgid "ROVoicePack.EnemyAbbrevAxis[6]"
+msgstr "敌方坦克"
+
+msgid "ROVoicePack.AlertString[0]"
+msgstr "手榴弹!"
+
+msgid "ROVoicePack.AlertString[1]"
+msgstr "冲刺 冲 冲!"
+
+msgid "ROVoicePack.AlertString[2]"
+msgstr "找掩护!"
+
+msgid "ROVoicePack.AlertString[3]"
+msgstr "停!"
+
+msgid "ROVoicePack.AlertString[4]"
+msgstr "跟着我!"
+
+msgid "ROVoicePack.AlertString[5]"
+msgstr "炸药已安放!"
+
+msgid "ROVoicePack.AlertString[6]"
+msgstr "掩护射击!"
+
+msgid "ROVoicePack.AlertString[7]"
+msgstr "是友军!别打了!"
+
+msgid "ROVoicePack.AlertString[9]"
+msgstr "撤退!"
+
+msgid "ROVoicePack.AlertAbbrev[0]"
+msgstr "手榴弹"
+
+msgid "ROVoicePack.AlertAbbrev[1]"
+msgstr "走 走 走"
+
+msgid "ROVoicePack.AlertAbbrev[2]"
+msgstr "找掩护"
+
+msgid "ROVoicePack.AlertAbbrev[3]"
+msgstr "停"
+
+msgid "ROVoicePack.AlertAbbrev[4]"
+msgstr "跟着我"
+
+msgid "ROVoicePack.AlertAbbrev[5]"
+msgstr "炸药已安放"
+
+msgid "ROVoicePack.AlertAbbrev[6]"
+msgstr "掩护射击"
+
+msgid "ROVoicePack.AlertAbbrev[7]"
+msgstr "友军误伤"
+
+msgid "ROHud.ReinforcementText"
+msgstr "兵力:· "
+
+msgid "ROPlayer.SpectatingModeName[1]"
+msgstr "侦察"
+
+msgid "ROPlayer.SpectatingModeName[2]"
+msgstr "观看玩家"
+
+msgid "ROPlayer.SpectatingModeName[3]"
+msgstr "围观视角"
+
+msgid "RORoundOverMsg.AxisWins"
+msgstr "轴心国阵营赢得了战争!"
+
+msgid "ROTeamGame.PropsDisplayText[1]"
+msgstr "使用地图轮换"
+
+msgid "ROTeamGame.PropsDisplayText[9]"
+msgstr "允许围观视角"
+
+msgid "ROTeamGame.PropsDisplayText[15]"
+msgstr "回合结束后延迟"
+
+msgid "ROTeamGame.PropsDisplayText[20]"
+msgstr "网络等待时间"
+
+msgid "ROTeamGame.PropsDisplayText[21]"
+msgstr "最小网络玩家数"
+
+msgid "ROTeamGame.PropsDisplayText[23]"
+msgstr "友军伤害比例"
+
+msgid "ROTeamGame.PropsDisplayText[24]"
+msgstr "友军炮火伤害比例"
+
+msgid "ROTeamGame.PropsDisplayText[25]"
+msgstr "友军爆炸伤害比例"
+
+msgid "ROTeamGame.PropsDisplayText[28]"
+msgstr "跨队私聊功能"
+
+msgid "ROTeamGame.PropsDisplayText[33]"
+msgstr "观察非玩家视角下画面全黑"
+
+msgid "ROTeamGame.PropsDisplayText[36]"
+msgstr "覆盖最大玩家数"
+
+msgid "ROVoicePack.AlertAbbrev[8]"
+msgstr "据点被攻击,据点"
+
+msgid "ROVoicePack.AlertAbbrev[9]"
+msgstr "撤退"
+
+msgid "ROVoicePack.VehicleDirectionString[1]"
+msgstr "前进"
+
+msgid "ROVoicePack.VehicleDirectionString[2]"
+msgstr "停下"
+
+msgid "ROVoicePack.VehicleDirectionString[3]"
+msgstr "后退"
+
+msgid "ROVoicePack.VehicleDirectionString[4]"
+msgstr "朝左走"
+
+msgid "ROVoicePack.VehicleDirectionString[5]"
+msgstr "朝右走"
+
+msgid "ROVoicePack.VehicleDirectionString[6]"
+msgstr "前进5米!"
+
+msgid "ROVoicePack.VehicleDirectionString[7]"
+msgstr "后退5米!"
+
+msgid "ROVoicePack.VehicleDirectionString[8]"
+msgstr "朝左转一点!"
+
+msgid "ROVoicePack.VehicleDirectionString[9]"
+msgstr "朝右转一点!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[0]"
+msgstr "前往..."
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[1]"
+msgstr "前进"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[2]"
+msgstr "停下"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[3]"
+msgstr "后退"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[4]"
+msgstr "朝左走"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[5]"
+msgstr "朝右走"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[6]"
+msgstr "前进5米"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[7]"
+msgstr "后退5米"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[8]"
+msgstr "朝左转一点"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[9]"
+msgstr "朝右转一点"
+
+msgid "ROVoicePack.VehicleAlertString[0]"
+msgstr "敌人在前面!"
+
+msgid "ROVoicePack.VehicleAlertString[1]"
+msgstr "敌人在左侧!"
+
+msgid "ROVoicePack.VehicleAlertString[2]"
+msgstr "敌人在右侧!"
+
+msgid "ROVoicePack.VehicleAlertString[3]"
+msgstr "敌人在后方!"
+
+msgid "ROVoicePack.VehicleAlertString[4]"
+msgstr "敌人步兵接近!"
+
+msgid "ROVoicePack.VehicleAlertString[5]"
+msgstr "好的,长官!"
+
+msgid "ROVoicePack.VehicleAlertString[6]"
+msgstr "不,不要!"
+
+msgid "ROVoicePack.VehicleAlertString[7]"
+msgstr "我们着火了!"
+
+msgid "ROVoicePack.VehicleAlertString[8]"
+msgstr "出去!"
+
+msgid "ROVoicePack.VehicleAlertString[9]"
+msgstr "装填完毕."
+
+msgid "ROVoicePack.VehicleAlertAbbrev[0]"
+msgstr "敌人在前方"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[1]"
+msgstr "敌人在左侧"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[2]"
+msgstr "敌人在右侧"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[3]"
+msgstr "敌人在后方"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[4]"
+msgstr "敌人步兵接近"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[5]"
+msgstr "收到"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[6]"
+msgstr "拒绝"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[7]"
+msgstr "我们着火了"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[8]"
+msgstr "出去"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[9]"
+msgstr "装填完毕"
+
+msgid "ROVoicePack.ExtraString[0]"
+msgstr "我会杀了你!"
+
+msgid "ROVoicePack.ExtraString[1]"
+msgstr "不许撤退!"
+
+msgid "ROVoicePack.ExtraString[2]"
+msgstr "*嘲讽*"
+
+msgid "ROVoicePack.ExtraAbbrev[0]"
+msgstr "我会杀了你"
+
+msgid "ROVoicePack.ExtraAbbrev[1]"
+msgstr "不许撤退"
+
+msgid "ROVoicePack.ExtraAbbrev[2]"
+msgstr "嘲讽"
+
+msgid "ROVoicePack.AckString[0]"
+msgstr "是的长官!"
+
+msgid "ROVoicePack.AckString[1]"
+msgstr "不,不!"
+
+msgid "ROVoicePack.AckString[2]"
+msgstr "谢谢"
+
+msgid "ROVoicePack.AckString[3]"
+msgstr "对不起"
+
+msgid "ROVoicePack.AckAbbrev[0]"
+msgstr "是的长官"
+
+msgid "ROVoicePack.AckAbbrev[1]"
+msgstr "拒绝"
+
+msgid "ROVoicePack.AckAbbrev[2]"
+msgstr "谢谢"
+
+msgid "ROVoicePack.AckAbbrev[3]"
+msgstr "抱歉"
+
+msgid "ROVoicePack.OrderString[2]"
+msgstr "守住这个地方!"
+
+msgid "ROVoicePack.OrderString[3]"
+msgstr "跟着我!"
+
+msgid "ROVoicePack.OrderString[4]"
+msgstr "全力攻击!"
+
+msgid "ROVoicePack.OrderString[5]"
+msgstr "撤退!"
+
+msgid "ROVoicePack.OrderString[6]"
+msgstr "全力开火!"
+
+msgid "ROVoicePack.OrderString[7]"
+msgstr "停火!"
+
+msgid "ROVoicePack.OrderAbbrev[0]"
+msgstr "攻击..."
+
+msgid "ROVoicePack.OrderAbbrev[1]"
+msgstr "防守..."
+
+msgid "ROVoicePack.OrderAbbrev[2]"
+msgstr "原地待命"
+
+msgid "ROVoicePack.OrderAbbrev[3]"
+msgstr "跟着我"
+
+msgid "ROVoicePack.OrderAbbrev[4]"
+msgstr "开始移动"
+
+msgid "ROVoicePack.OrderAbbrev[5]"
+msgstr "撤退"
+
+msgid "ROVoicePack.OrderAbbrev[6]"
+msgstr "接战"
+
+msgid "ROVoicePack.OrderAbbrev[7]"
+msgstr "停火"
