@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-12 00:47+0000\n"
+"PO-Revision-Date: 2025-12-12 23:49+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_vehicles/zh_Hans/>\n"
@@ -244,3 +244,21 @@ msgstr "克伦威尔Mk.1巡洋坦克(6磅炮)"
 
 msgid "DH_Cromwell95mmCannon.ProjectileDescriptions<1>"
 msgstr "烟幕弹"
+
+msgid "DH_Cromwell95mmCannon.ProjectileDescriptions<2>"
+msgstr "破甲弹"
+
+msgid "DH_Cromwell95mmCannon.nProjectileDescriptions<0>"
+msgstr "MK.IA HE-T"
+
+msgid "DH_Cromwell95mmCannon.nProjectileDescriptions<1>"
+msgstr "Mk.IA SMK-BE"
+
+msgid "DH_Cromwell95mmCannon.nProjectileDescriptions<2>"
+msgstr "Mk.I HEAT"
+
+msgid "DH_Cromwell95mmTank.VehicleNameString"
+msgstr "克伦威尔 Mk.6型"
+
+msgid "DH_CromwellCannon.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
