@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-12 00:47+0000\n"
+"PO-Revision-Date: 2025-12-12 23:49+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_sovietplayers/zh_Hans/>\n"
@@ -40,3 +40,6 @@ msgstr "狂人"
 
 msgid "DH_SovietMadManRoles.AltName"
 msgstr "Mad Man"
+
+msgid "DH_SovietMadManRoles.PluralName"
+msgstr "狂人"
