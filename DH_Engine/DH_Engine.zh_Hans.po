@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-12 00:47+0000\n"
-"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"PO-Revision-Date: 2025-12-12 23:49+0000\n"
+"Last-Translator: Sanae <929719345@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_engine/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -508,3 +508,612 @@ msgstr "管理员 '{0}'已摧毁了在{1}阵营放置的管理员放置重生点
 
 msgid "DHAdminMessage.DestroyedAllSpawnsMessage"
 msgstr "管理员'{0}'已摧毁了在{1}阵营放置的所有管理员放置重生点."
+
+msgid "DHGameMessage.RoleInvalidatedMessage"
+msgstr "你已不再具备担任{name}的资格。"
+
+msgid "DHGameMessage.RoleLockedMessage"
+msgstr "{role}已被锁定。"
+
+msgid "DHGameMessage.RoleUnlockedMessage"
+msgstr "{role}已被解锁。"
+
+msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
+msgstr "你必须要有另一名队友在附近才能拆除敌方指挥所！"
+
+msgid "DHGameMessage.NewTeamMessageRussian"
+msgstr "{name}已加入盟军。"
+
+msgid "DHGameMessage.NewTeamMessageGerman"
+msgstr "{name}已加入轴心国军队。"
+
+msgid "DHGameMessage.FFKillMessage"
+msgstr "{name} 击杀了一名友军士兵。"
+
+msgid "DHGameMessage.FFViolationMessage"
+msgstr "因友军伤害违规，已将 {name} 移出游戏。"
+
+msgid "DHGameMessage.RoleChangeMsg"
+msgstr "你将尝试以{role}身份重新部署。"
+
+msgid "DHGameMessage.MaxRoleMsg"
+msgstr "无法切换至{role}。"
+
+msgid "DHGameMessage.HasForgivenMessage"
+msgstr "{victim}已原谅{killer}。"
+
+msgid "DHGameMessage.LeftMessage"
+msgstr "{name}已离开战场。"
+
+msgid "DHGameMessage.EnteredMessage"
+msgstr "{name}已进入战场。"
+
+msgid "DHGameMessage.GlobalNameChange"
+msgstr "{old_name}已将名称更改为{new_name}。"
+
+msgid "DHGameMessage.VoteStarted"
+msgstr "{name}发起了一次投票。"
+
+msgid "DHGameType.GameTypeName"
+msgstr "未知游戏类型"
+
+msgid "DHGameType_Advance.GameTypeName"
+msgstr "前进"
+
+msgid "DHGameType_Armored_Advance.GameTypeName"
+msgstr "装甲推进"
+
+msgid "DHGameType_Clash.GameTypeName"
+msgstr "冲突"
+
+msgid "DHGameType_Cutoff.GameTypeName"
+msgstr "中止"
+
+msgid "DHGameType_Defence.GameTypeName"
+msgstr "防御"
+
+msgid "DHGameType_Domination.GameTypeName"
+msgstr "控制"
+
+msgid "DHGameType_Push.GameTypeName"
+msgstr "推进"
+
+msgid "DHGameType_Stalemate.GameTypeName"
+msgstr "僵局"
+
+msgid "DHGetPassword.GetPassFail.Caption"
+msgstr "取消"
+
+msgid "DHHintManager.Hints[0].Title"
+msgstr "欢迎来到至暗时刻！"
+
+msgid "DHHintManager.Hints[0].Text"
+msgstr "这些提示信息会在游戏中定期显示。请注意查看，你的生存可能就靠它了！你可以在配"
+"置菜单的HUD选项卡中禁用这些提示。"
+
+msgid "DHHintManager.Hints[1].Title"
+msgstr "攀越"
+
+msgid "DHHintManager.Hints[1].Text"
+msgstr ""
+"注意，士兵！你可以攀越小型障碍！操作如下：站立于任何低矮障碍物正前方，待攀越"
+"图标出现后，按下**%JUMP%**（通常是空格键）键即可翻越至顶部。"
+
+msgid "DHHintManager.Hints[2].Title"
+msgstr "降落伞"
+
+msgid "DHHintManager.Hints[2].Text"
+msgstr "全体注意！你们可以用移动键（WASD键或其他你指定的方向键）操控降落伞的飞行轨迹"
+"！"
+
+msgid "DHHintManager.Hints[3].Title"
+msgstr "彩色烟雾弹"
+
+msgid "DHHintManager.Hints[3].Text"
+msgstr "听好！彩色烟雾弹是战场上与队友通讯的重要装备。必须事先明确告知你的队友每种颜"
+"色烟雾所代表的信号含义。"
+
+msgid "DHHintManager.Hints[6].Title"
+msgstr "迫击炮"
+
+msgid "DHHintManager.Hints[6].Text"
+msgstr "注意！手持迫击炮时，禁止切换武器、冲刺、卧倒及进行战术攀越。部署迫击炮时，于"
+"平坦地面采取蹲姿，并按下 **%DEPLOY%** 键执行部署！"
+
+msgid "DHHintManager.Hints[7].Title"
+msgstr "迫击炮操作员"
+
+msgid "DHHintManager.Hints[7].Text"
+msgstr ""
+"士兵，我想你应该熟悉一下迫击炮该如何操作。迫击炮操作指令如下：**按住A或D键调"
+"整水平射界；按S键增大射角；按W键减小射角；按%SwitchFireMode%键切换弹药类型；"
+"按%Fire%键执行击发。"
+
+msgid "DHHintManager.Hints[8].Title"
+msgstr "炮火打击目标"
+
+msgid "DHHintManager.Hints[8].Text"
+msgstr "各小队队长可在地图上标定敌目标。炮弹首发试射后，落点将实时标绘于诸元地图。炮"
+"手需依据此落点标记，立即修正诸元，实施效力射！"
+
+msgid "DHHintManager.Hints[9].Title"
+msgstr "迫击炮转移阵地"
+
+msgid "DHHintManager.Hints[9].Text"
+msgstr "迫击炮手注意事项：你可随时按下 %Use% "
+"键脱离炮位。脱离期间，迅速前往补给区或向友军士兵领取补充弹药，随时准备重返战"
+"位！"
+
+msgid "DHHintManager.Hints[10].Title"
+msgstr "迫击炮解除部署"
+
+msgid "DHHintManager.Hints[10].Text"
+msgstr "迫击炮手注意事项：按下 %Deploy% "
+"键执行迫击炮撤收。请注意，撤收动作将自动清零所有射角与方向设定。"
+
+msgid "DHHintManager.Hints[12].Title"
+msgstr "双筒望远镜"
+
+msgid "DHHintManager.Hints[12].Text"
+msgstr ""
+"这是指挥部。目标标定权限已下放至你处。现在，听好操作程序：使用你的望远镜（ "
+"`%ROIRONSIGHTS%`键），锁定目标区域后，长按 %FIRE% "
+"键，即可调出火力支援申请菜单。完毕！"
+
+msgid "DHHintManager.Hints[13].Title"
+msgstr "无线电操作员"
+
+msgid "DHHintManager.Hints[13].Text"
+msgstr "“通讯兵，立即向小队长靠拢！你的电台是连接远程炮火的关键，必须保证小队长随时能"
+"呼叫火力覆盖。这是命令！”"
+
+msgid "DHHintManager.Hints[40].Title"
+msgstr "载具引擎"
+
+msgid "DHHintManager.Hints[40].Text"
+msgstr "车组成员注意，你已进入载具。发动机启停控制由 %FIRE% 键负责，完毕。"
+
+msgid "DHHintManager.Hints[42].Title"
+msgstr "希金斯登陆艇"
+
+msgid "DHHintManager.Hints[42].Text"
+msgstr ""
+"希金斯艇驾驶员注意，艇艏跳板控制指令如下：放下跳板，人员离艇，按 "
+"%PREVWEAPON%；关闭跳板，准备机动，按 %NEXTWEAPON%。完毕！"
+
+msgid "DHHintManager.Hints[43].Title"
+msgstr "补给卡车"
+
+msgid "DHHintManager.Hints[43].Text"
+msgstr "注意：你现在正靠近一辆补给卡车。要领取弹药，就立即到卡车尾部后方站立。动作要"
+"快！"
+
+msgid "DHHintManager.Hints[44].Title"
+msgstr "补给卡车"
+
+msgid "DHHintManager.Hints[44].Text"
+msgstr "卡车驾驶员注意：你驾驶的是通用补给车，可为载具、迫击炮及步兵单位实施补给。任"
+"务开始后，务必将其停放至安全位置。完毕。"
+
+msgid "DHHintManager.Hints[46].Title"
+msgstr "外置式机枪"
+
+msgid "DHHintManager.Hints[46].Text"
+msgstr "车组成员注意！车载的这挺机枪是外部架设武器。所以请记住：如果你想开火或重新装"
+"弹，那你就必须得打开舱盖。这意味着射手会完全暴露。清楚没有？完毕！"
+
+msgid "DHHintManager.Hints[47].Title"
+msgstr "遥控武器站"
+
+msgid "DHHintManager.Hints[47].Text"
+msgstr ""
+"注意，你车装备有一台遥控武器站。此武器让你可以在载具内部进行全向瞄准与射击，"
+"而无需暴露身体。但请注意，由于武器安装于车辆外部，因此你必须打开舱盖才能重新"
+"装弹。"
+
+msgid "DHHintManager.Hints[48].Title"
+msgstr "外置机枪重新装填"
+
+msgid "DHHintManager.Hints[48].Text"
+msgstr "请注意，想要给这挺外部架设的机枪重新装弹，你需要打开舱盖（并且不能同时使用望"
+"远镜）。"
+
+msgid "DHHintManager.Hints[49].Title"
+msgstr "观瞄镜"
+
+msgid "DHHintManager.Hints[49].Text"
+msgstr "炮长注意！你操作的火炮已配备‘观瞄镜’。立即按 %NEXTWEAPON% "
+"键，切换至镜内视野，执行目标观测与弹着修正。完毕！"
+
+msgid "DHHintManager.Hints[50].Title"
+msgstr "炮兵"
+
+msgid "DHHintManager.Hints[50].Text"
+msgstr ""
+"注意，现在需要你执行火力协同指令：立即展开地图，完成坐标标定。操作如下：对友"
+"军火力请求上点击[鼠标右键]"
+"，将其设为首要打击目标；或使用标尺工具，在地图上直接测算至目标的精确距离。"
+
+msgid "DHHintManager.Hints[51].Title"
+msgstr "地图交互"
+
+msgid "DHHintManager.Hints[51].Text"
+msgstr "注意，地图交互：按 %JUMP% 键即可打开并操作战术地图。完毕。"
+
+msgid "DHHintManager.Hints[52].Title"
+msgstr "地图导航"
+
+msgid "DHHintManager.Hints[52].Text"
+msgstr ""
+"地图操作细则：光标悬停地图区域，使用[鼠标滚轮]执行缩放视野；点击并长按"
+"[鼠标左键]，拖动光标可使地图平移。以上为标准使用守则，请尽快熟悉此操作！"
+
+msgid "DHHintManager.Hints[53].Title"
+msgstr "地图标记"
+
+msgid "DHHintManager.Hints[53].Text"
+msgstr ""
+"注意，地图标记部署条令如下：以光标锁定目标区域或重点对象，长按[鼠标右键]"
+"激活战术标记菜单。依照战场纪律，迅速完成标注与信息交互。此为基础作战程序，务"
+"必熟练掌握！"
+
+msgid "DHHintManager.Hints[54].Title"
+msgstr "寻找无线电台"
+
+msgid "DHHintManager.Hints[54].Text"
+msgstr "目标已标定！请立即前出寻找电台，建立通讯链路，呼叫远程火力覆盖。完毕！"
+
+msgid "DHHintManager.Hints[55].Title"
+msgstr "冲击手榴弹"
+
+msgid "DHHintManager.Hints[55].Text"
+msgstr "注意！你握持的是触发引信手榴弹（冲击手榴弹），这玩意儿砸到任何东西就会炸！确"
+"保全力投掷，否则可能哑火！听清楚没有？！"
+
+msgid "DHHintManager.Hints[60].Title"
+msgstr "射击标尺"
+
+msgid "DHHintManager.Hints[60].Text"
+msgstr "注意！当前武器配备有可调式标尺，使用 %SWITCHFIREMODE% 键切换标尺射程。完毕。"
+
+msgid "DHHintManager.Hints[61].Title"
+msgstr "亡命之计"
+
+msgid "DHHintManager.Hints[61].Text"
+msgstr "注意！本武器使用特制弹药，后勤无法补给。 "
+"严格管控弹药消耗，务求一击必中。完毕！"
+
+msgid "DHHintManager.Hints[62].Title"
+msgstr "枪管过热"
+
+msgid "DHHintManager.Hints[62].Text"
+msgstr ""
+"注意，枪管已严重过热！立即停止射击！重复，立即停火！过热状态将严重降低射击精"
+"度并最终导致枪管炸膛损毁！执行冷却程序，待枪管恢复至战斗温度后再行射击。这是"
+"命令！"
+
+msgid "DHHintManager.Hints[63].Title"
+msgstr "更换枪管"
+
+msgid "DHHintManager.Hints[63].Text"
+msgstr "注意，此武器可更换枪管，现在更换枪管作业！部署状态下，立即按 %ROMGOPERATION% "
+"键切换备用枪管。保障火力持续，动作要快！"
+
+msgid "DHHintManager.Hints[64].Title"
+msgstr "枪管损毁"
+
+msgid "DHHintManager.Hints[64].Text"
+msgstr "注意！枪管已因过热完全损毁！该武器现被判定为战损状态，无法射击！立即执行武器"
+"转换或撤出战斗！"
+
+msgid "DHHintManager.Hints[65].Title"
+msgstr "90/53 自行火炮"
+
+msgid "DHHintManager.Hints[65].Text"
+msgstr "注意，‘塞莫凡特’90/"
+"53虽然火力凶猛，但载弹基数极少！全体炮手，每一发炮弹都给我当最后三发打，务必"
+"确保首发命中！"
+
+msgid "DHHintManager.Hints[66].Title"
+msgstr "炮击来袭！"
+
+msgid "DHHintManager.Hints[66].Text"
+msgstr "注意！你刚打了一发‘冲天炮’！炮弹随时会掉回你头上，立刻卧倒找掩护！快！"
+
+msgid "DHHud.NoTimeLimitText"
+msgstr "无限补给"
+
+msgid "DHHud.LegendCarriedArtilleryRadioText"
+msgstr "炮兵电台员"
+
+msgid "DHHud.JoinTeamText"
+msgstr "按 [ESC] 键选择阵营"
+
+msgid "DHHud.InvalidSpawnSettingsText"
+msgstr "按 [ESC] 键确认你的兵种、载具及出生点选择"
+
+msgid "DHHud.NotReadyToSpawnText"
+msgstr "部署将在 {s} 秒后启用。（请利用此时间组织小队并制定计划。）"
+
+msgid "DHHud.SelectSpawnPointText"
+msgstr "按 [ESC] 键选择重生点"
+
+msgid "DHHud.SpawnInfantryText"
+msgstr "你将作为 {0} 在 {2} 部署 | 按 [ESC] 键更改"
+
+msgid "DHHud.SpawnVehicleText"
+msgstr "你将作为 {0} 驾驶 {3} 从 {2} 部署 | 按 [ESC] 键更改"
+
+msgid "DHHud.SpawnAtVehicleText"
+msgstr "你将作为 {0} 在一处 {1} 从 {2} 部署 | 按 [ESC] 键更改"
+
+msgid "DHHud.SpawnRallyPointText"
+msgstr "你将作为 {0} 从你小队的集结点在 {2} 部署 | 按 [ESC] 键更改"
+
+msgid "DHHud.SpawnNoRoleText"
+msgstr "按 [ESC] 键选择兵种"
+
+msgid "DHHud.NeedReloadText"
+msgstr "需要重新装弹"
+
+msgid "DHHud.CanReloadText"
+msgstr "按 %THROWMGAMMO% 键协助装弹"
+
+msgid "DHHud.ConnectedObjectivesNotSecuredText"
+msgstr "连接的（战略）目标未确保安全"
+
+msgid "DHHud.BlackoutText"
+msgstr "中断"
+
+msgid "DHHud.PlaceRallyPointText"
+msgstr "按 [%PLACERALLYPOINT%] 键放置集结区"
+
+msgid "DHHud.TypingPromptText"
+msgstr "按 [{0}] 键切换聊天频道"
+
+msgid "DHHud.PrereleaseDisclaimerText"
+msgstr "这是预发布版本。所有内容均可能发生变动。"
+
+msgid "DHHud.ReinforcementText"
+msgstr "你将作为 {0} 在 {2} 部署 | 按 [ESC] 键更改"
+
+msgid "DHHud.SpectateInstructionText1"
+msgstr "按 [%FIRE%] 键切换视角/玩家"
+
+msgid "DHHud.SpectateInstructionText2"
+msgstr "按 [%ALTFIRE%] 键切换观战模式"
+
+msgid "DHHud.SpectateInstructionText3"
+msgstr "按 [%ROIRONSIGHTS%] 键切换第一/第三人称视角"
+
+msgid "DHHud.SpectateInstructionText4"
+msgstr "按 [%JUMP%] 键返回观察自身"
+
+msgid "DHHud.LegendAxisObjectiveText"
+msgstr "轴心国领土"
+
+msgid "DHHud.LegendAlliesObjectiveText"
+msgstr "同盟国领土"
+
+msgid "DHHud.LegendArtilleryRadioText"
+msgstr "炮兵电台"
+
+msgid "DHIQMessage.LeaderAWOLMessage"
+msgstr "注意！你正在玩忽职守，置你的小队与整条补给线于不顾！立即归队，履行你的战术职"
+"责。这是命令！"
+
+msgid "DHIQMessage.MemberAWOLMessage"
+msgstr "你这是临阵脱逃，正在抛弃你的小队！立即返回建制！"
+
+msgid "DHIQMessage.NotInSquadMessage"
+msgstr "你现在是散兵状态，未编入任何作战单位！立即向指挥部报到并接受整编，完毕！"
+
+msgid "DHIQMessage.Congratulations<0>"
+msgstr "可以啊兄弟，有两下子！脑袋瓜子够灵光！"
+
+msgid "DHIQMessage.Congratulations<1>"
+msgstr "干得漂亮！这操作堪称教科书级别！"
+
+msgid "DHIQMessage.Congratulations<2>"
+msgstr "好小子，真他娘的是个战术鬼才！"
+
+msgid "DHIQMessage.Congratulations<3>"
+msgstr "干得漂亮！"
+
+msgid "DHIQMessage.Congratulations<4>"
+msgstr "真是个疯子！"
+
+msgid "DHIQMessage.Congratulations<6>"
+msgstr "精彩！"
+
+msgid "DHIQMessage.Congratulations<7>"
+msgstr "好小子，就数你脑瓜子最灵光！"
+
+msgid "DHInventorySpawner.MenuNoun"
+msgstr "补给箱"
+
+msgid "DHLastObjectiveMessage.AxisAboutToWinMessage"
+msgstr "最后的目标——轴心国即将赢得这场战斗！"
+
+msgid "DHLastObjectiveMessage.AlliesAboutToWinMessage"
+msgstr "最后的目标——同盟国即将赢得这场战斗！"
+
+msgid "DHLib.ServerHealthStages[0].Text"
+msgstr "妙极了！"
+
+msgid "DHLib.ServerHealthStages[1].Text"
+msgstr "不错"
+
+msgid "DHLib.ServerHealthStages[2].Text"
+msgstr "还可以"
+
+msgid "DHLib.ServerHealthStages[3].Text"
+msgstr "糟糕"
+
+msgid "DHLib.ServerHealthStages[4].Text"
+msgstr "糟透了"
+
+msgid "DHLocalMessage.SquadLeaderID"
+msgstr "小队长"
+
+msgid "DHLocalMessage.SquadAssistantID"
+msgstr "副队长"
+
+msgid "DHMainMenuGame.GameName"
+msgstr "游戏"
+
+msgid "DHMapDatabase.SizeAnyText"
+msgstr "任何"
+
+msgid "DHMapDatabase.SizeExtraSmallText"
+msgstr "特小号"
+
+msgid "DHMapDatabase.SizeSmallText"
+msgstr "小"
+
+msgid "DHMapDatabase.SizeMediumText"
+msgstr "中等"
+
+msgid "DHMapDatabase.SizeLargeText"
+msgstr "大"
+
+msgid "DHMapMarker.CalculatingString"
+msgstr "正在计算…"
+
+msgid "DHMapMarker_AdminParadrop.MarkerName"
+msgstr "管理员指令：放置空降标记"
+
+msgid "DHMapMarker_Enemy_ATGun.MarkerName"
+msgstr "敌方反坦克炮"
+
+msgid "DHMapMarker_Enemy_Artillery.MarkerName"
+msgstr "敌方炮击"
+
+msgid "DHMapMarker_Enemy_CommandPost.MarkerName"
+msgstr "敌方指挥所"
+
+msgid "DHMapMarker_Enemy_Infantry.MarkerName"
+msgstr "敌方步兵"
+
+msgid "DHMapMarker_Enemy_Tank.MarkerName"
+msgstr "敌方坦克"
+
+msgid "DHMapMarker_Enemy_Vehicle.MarkerName"
+msgstr "敌方载具"
+
+msgid "DHMapMarker_FireSupport_HE.MarkerName"
+msgstr "高爆弹请求"
+
+msgid "DHMapMarker_FireSupport_OffMap.MarkerName"
+msgstr "远程火力支援"
+
+msgid "DHMapMarker_FireSupport_Smoke.MarkerName"
+msgstr "烟雾弹请求"
+
+msgid "DHMapMarker_Friendly_CommandPost.MarkerName"
+msgstr "请求建造指挥所"
+
+msgid "DHMapMarker_Friendly_Supplies.MarkerName"
+msgstr "请求补给"
+
+msgid "DHMapMarker_OngoingBarrage.MarkerName"
+msgstr "持续弹幕射击"
+
+msgid "DHMapMarker_Ruler.MarkerName"
+msgstr "测量"
+
+msgid "DHMapMarker_Squad_Attack.MarkerName"
+msgstr "小队进攻标记"
+
+msgid "DHMapMarker_Squad_Attention.MarkerName"
+msgstr "小队注意"
+
+msgid "DHMapMarker_Squad_Defend.MarkerName"
+msgstr "小队防御标记"
+
+msgid "DHMapMarker_Squad_Move.MarkerName"
+msgstr "小队移动标记"
+
+msgid "DHMortarMessage.MustCrouch"
+msgstr "你必须处于蹲姿状态才能部署迫击炮"
+
+msgid "DHMortarMessage.MustBeStill"
+msgstr "你无法在移动过程中部署迫击炮"
+
+msgid "DHMortarMessage.CannotLean"
+msgstr "你无法在身体倾斜状态下部署迫击炮"
+
+msgid "DHMortarMessage.BadSurface"
+msgstr "你无法在此表面部署迫击炮"
+
+msgid "DHMortarMessage.NotEnoughRoom"
+msgstr "你此处没有足够空间来部署迫击炮"
+
+msgid "DHMortarMessage.CannotDeploy"
+msgstr "你无法在此处部署迫击炮"
+
+msgid "DHMortarMessage.InWater"
+msgstr "你无法在水中部署迫击炮"
+
+msgid "DHMortarMessage.NotQualified"
+msgstr "你不具备操作此迫击炮的资格"
+
+msgid "DHMortarMessage.InUse"
+msgstr "你无法操作这架迫击炮，因为它当前正在被使用"
+
+msgid "DHMortarMessage.EnemyMortar"
+msgstr "你无法操作敌方的迫击炮"
+
+msgid "DHObjectiveMessage.TeamStrings[0]"
+msgstr "轴心国"
+
+msgid "DHObjectiveMessage.TeamStrings[1]"
+msgstr "同盟国"
+
+msgid "DHObjectiveMessage.NotificationTypes[0]"
+msgstr "已被压制"
+
+msgid "DHObjectiveMessage.NotificationTypes[1]"
+msgstr "已占领"
+
+msgid "DHObjectiveMessage.NotificationTypes[2]"
+msgstr "已巩固"
+
+msgid "DHObjectiveMessage.NotificationMessage"
+msgstr "{0} 方已经 {1} {2}"
+
+msgid "DHPawn.AdminSpawnedVehicleText"
+msgstr "管理员 {name} 生成了一辆 {vehicle}"
+
+msgid "DHPawnTouchMessage.Messages<0>"
+msgstr "按 [%THROWMGAMMO%] 键为 {0} 补充弹药"
+
+msgid "DHPawnTouchMessage.Messages<1>"
+msgstr "按 [%THROWMGAMMO%] 键为 {0} 重新装填"
+
+msgid "DHPawnTouchMessage.Messages<2>"
+msgstr "按 [%THROWMGAMMO%] 键为 {0} 补充弹药并重新装填"
+
+msgid "DHPawnTouchMessage.FallbackPlayerName"
+msgstr "友军士兵"
+
+msgid "DHPlayerReplicationInfo.SquadLeaderAbbreviation"
+msgstr "小队长"
+
+msgid "DHPlayerReplicationInfo.AssistantAbbreviation"
+msgstr "副队长"
+
+msgid "DHRadioTouchMessage.RequestMessage"
+msgstr "按住 [%SHOWORDERMENU | ONRELEASE HIDEORDERMENU%] 以请求炮兵火力"
+
+msgid "DHRadioTouchMessage.NotQualifiedMessage"
+msgstr "你不具备使用这部电台的资格"
+
+msgid "DHRadioTouchMessage.NoTargetMessage"
+msgstr "未标记炮兵目标"
+
+msgid "DHRadioTouchMessage.NotOwnedMessage"
+msgstr "你无法使用敌方的电台"
+
+msgid "DHRadioTouchMessage.BusyMessage"
+msgstr "电台当前正在使用中"
