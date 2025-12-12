@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-12 00:47+0000\n"
+"PO-Revision-Date: 2025-12-12 23:49+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_interface/zh_Hans/>\n"
@@ -112,3 +112,21 @@ msgstr "踢出 {0}"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<3>"
 msgstr "封禁 {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<4>"
+msgstr "将{0}升职为班长"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<5>"
+msgstr "将{0}设为副班长"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<6>"
+msgstr "将{0}的副班长职位撤下"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<7>"
+msgstr "申请成为副班长"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<8>"
+msgstr "请求合并小队"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<9>"
+msgstr "{1}将{0}空投至班长位置"
