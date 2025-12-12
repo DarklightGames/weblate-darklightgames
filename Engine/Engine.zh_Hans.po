@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-12 00:47+0000\n"
+"PO-Revision-Date: 2025-12-12 23:49+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/engine/zh_Hans/>\n"
@@ -106,3 +106,18 @@ msgstr "右"
 
 msgid "KeyNames.Left"
 msgstr "左"
+
+msgid "KeyNames.Down"
+msgstr "下"
+
+msgid "KeyNames.LeftMouse"
+msgstr "左键"
+
+msgid "KeyNames.RightMouse"
+msgstr "右键"
+
+msgid "KeyNames.MiddleMouse"
+msgstr "中键"
+
+msgid "KeyNames.MouseX"
+msgstr "鼠标侧键"
