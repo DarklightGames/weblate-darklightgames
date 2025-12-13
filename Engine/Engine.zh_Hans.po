@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-12 23:49+0000\n"
+"PO-Revision-Date: 2025-12-13 17:03+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/engine/zh_Hans/>\n"
@@ -120,4 +120,169 @@ msgid "KeyNames.MiddleMouse"
 msgstr "中键"
 
 msgid "KeyNames.MouseX"
-msgstr "鼠标侧键"
+msgstr "鼠标X键"
+
+msgid "KeyNames.MouseY"
+msgstr "鼠标Y键"
+
+msgid "KeyNames.MouseZ"
+msgstr "鼠标Z键"
+
+msgid "KeyNames.MouseW"
+msgstr "鼠标W键"
+
+msgid "KeyNames.JoyX"
+msgstr "手柄X键"
+
+msgid "KeyNames.JoyY"
+msgstr "手柄Y键"
+
+msgid "KeyNames.JoyZ"
+msgstr "手柄Z键"
+
+msgid "KeyNames.JoyU"
+msgstr "手柄U键"
+
+msgid "KeyNames.JoyV"
+msgstr "手柄V键"
+
+msgid "KeyNames.JoySlider1"
+msgstr "遥杆1"
+
+msgid "KeyNames.JoySlider2"
+msgstr "遥杆2"
+
+msgid "KeyNames.MouseWheelUp"
+msgstr "滚轮向上"
+
+msgid "KeyNames.MouseWheelDown"
+msgstr "滚轮向下"
+
+msgid "KeyNames.Joy1"
+msgstr "控制杆1"
+
+msgid "KeyNames.Joy2"
+msgstr "控制杆2"
+
+msgid "KeyNames.Joy3"
+msgstr "控制杆3"
+
+msgid "KeyNames.Joy4"
+msgstr "控制杆4"
+
+msgid "KeyNames.Joy5"
+msgstr "控制杆5"
+
+msgid "KeyNames.Joy6"
+msgstr "控制杆6"
+
+msgid "KeyNames.Joy7"
+msgstr "控制杆7"
+
+msgid "KeyNames.Joy8"
+msgstr "控制杆8"
+
+msgid "KeyNames.Joy9"
+msgstr "控制杆9"
+
+msgid "KeyNames.Joy10"
+msgstr "控制杆10"
+
+msgid "KeyNames.Joy11"
+msgstr "控制杆11"
+
+msgid "KeyNames.Joy12"
+msgstr "控制杆12"
+
+msgid "KeyNames.Joy13"
+msgstr "控制杆13"
+
+msgid "KeyNames.Joy14"
+msgstr "控制杆14"
+
+msgid "KeyNames.Joy15"
+msgstr "控制杆15"
+
+msgid "KeyNames.Joy16"
+msgstr "控制杆16"
+
+msgid "KeyNames.Space"
+msgstr "空格"
+
+msgid "KeyNames.PageUp"
+msgstr "PAGE UP键"
+
+msgid "KeyNames.PageDown"
+msgstr "PAGE DOWN键"
+
+msgid "KeyNames.End"
+msgstr "END键"
+
+msgid "KeyNames.Home"
+msgstr "HOME键"
+
+msgid "KeyNames.Select"
+msgstr "SELECT键"
+
+msgid "KeyNames.Print"
+msgstr "PRINT键"
+
+msgid "KeyNames.Execute"
+msgstr "EXECUTE键"
+
+msgid "KeyNames.PrintScrn"
+msgstr "PRINTSCRN键"
+
+msgid "KeyNames.Insert"
+msgstr "INSERT键"
+
+msgid "KeyNames.Delete"
+msgstr "DELETE键"
+
+msgid "KeyNames.Help"
+msgstr "HELP键"
+
+msgid "KeyNames.NumPad0"
+msgstr "小键盘数字0"
+
+msgid "KeyNames.NumPad1"
+msgstr "小键盘数字1"
+
+msgid "KeyNames.NumPad2"
+msgstr "小键盘数字2"
+
+msgid "KeyNames.NumPad3"
+msgstr "小键盘数字3"
+
+msgid "KeyNames.NumPad4"
+msgstr "小键盘数字4"
+
+msgid "KeyNames.NumPad5"
+msgstr "小键盘数字5"
+
+msgid "KeyNames.NumPad6"
+msgstr "小键盘数字6"
+
+msgid "KeyNames.NumPad7"
+msgstr "小键盘数字7"
+
+msgid "KeyNames.NumPad8"
+msgstr "小键盘数字8"
+
+msgid "KeyNames.NumPad9"
+msgstr "小键盘数字9"
+
+msgid "KeyNames.GreyStar"
+msgstr "小键盘星号键"
+
+msgid "KeyNames.GreyPlus"
+msgstr "小键盘加号"
+
+msgid "KeyNames.Separator"
+msgstr "分隔符键"
+
+msgid "KeyNames.GreyMinus"
+msgstr "小键盘减号"
+
+msgid "KeyNames.NumPadPeriod"
+msgstr "小键盘.键"
