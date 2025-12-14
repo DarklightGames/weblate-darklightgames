@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-13 22:09+0000\n"
+"PO-Revision-Date: 2025-12-15 21:09+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -441,7 +441,7 @@ msgid "DHEnemyInformationMsg.EnemyIsWeak"
 msgstr "Подкрепления противника почти закончились, победа уже близко!"
 
 msgid "DHEnemyInformationMsg.EnemyIsSurrendering"
-msgstr "Противник отступает, бой скоро закончится!"
+msgstr "Противник отступает, битва скоро закончится!"
 
 msgid "DHExitMovingVehicleDamageType.FemaleSuicide"
 msgstr "%o погибла, выпрыгнув из мчащейся машины."
@@ -1596,7 +1596,7 @@ msgid "DHTeamSurrenderVoteMessage.VoteSummaryText"
 msgstr "За: {0}, Необходимо: {1}"
 
 msgid "DHTeamSurrenderVoteMessage.VoteNominatedText"
-msgstr "{0} заявил об отступлении."
+msgstr "{0} предлагает отступить."
 
 msgid "DHTeamSurrenderVoteMessage.VoteNominationsRemainingText"
 msgstr "Нужно ещё {0} заявок что бы начать голосование."
