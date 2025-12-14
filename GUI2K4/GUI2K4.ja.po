@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 17:35+0000\n"
-"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
+"PO-Revision-Date: 2025-12-14 20:13+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/gui2k4/ja/>\n"
 "Language: ja\n"
@@ -78,7 +78,7 @@ msgid "UT2K4Browser_Page.UnspecifiedNetworkError"
 msgstr "ネットワーク接続中に未知のエラーが検出されました。"
 
 msgid "UT2K4Browser_ServerListPageMS.PanelCaption"
-msgstr "サーバブラウザ : Internet"
+msgstr "サーバブラウザ : インターネット"
 
 msgid "UT2K4QuitPage.cQuitDesc.Caption"
 msgstr "本当に終了しますか？"
