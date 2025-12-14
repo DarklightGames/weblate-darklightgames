@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-12 00:47+0000\n"
+"PO-Revision-Date: 2025-12-14 20:13+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/gui2k4/zh_Hans/>\n"
@@ -16,3 +16,101 @@ msgstr "延迟"
 
 msgid "ControlBinder.BindingLabel[15]"
 msgstr "切换\"第三人称视角\""
+
+msgid "UT2K4Browser_Page.ReadyString"
+msgstr "已准备"
+
+msgid "UT2K4Browser_ServerListPageMS.PanelCaption"
+msgstr "服务器列表: 互联网"
+
+msgid "UT2K4GamePageBase.PanelCaption<0>"
+msgstr "游戏模式"
+
+msgid "UT2K4GamePageBase.PanelCaption<1>"
+msgstr "选择地图"
+
+msgid "UT2K4GamePageBase.PanelCaption<2>"
+msgstr "游戏规则"
+
+msgid "UT2K4GamePageBase.PanelCaption<4>"
+msgstr "机器人设定"
+
+msgid "UT2K4GetPassword.GetPassLabel.Caption"
+msgstr "在此服务器游玩需要输入密码."
+
+msgid "UT2K4GetPassword.GetPassPW.Caption"
+msgstr "服务器密码"
+
+msgid "UT2K4PerformWarn.DialogText.Caption"
+msgstr "警告"
+
+msgid "UT2K4SettingsPage.PanelCaption<1>"
+msgstr "音频"
+
+msgid "UT2K4SettingsPage.PanelCaption<2>"
+msgstr "玩家"
+
+msgid "UT2K4SettingsPage.PanelCaption<3>"
+msgstr "游戏"
+
+#, fuzzy
+msgid "UT2K4SettingsPage.PanelCaption<4>"
+msgstr "输入"
+
+msgid "UT2K4SettingsPage.PanelCaption<5>"
+msgstr "武器"
+
+msgid "UT2K4SettingsPage.PanelCaption<6>"
+msgstr "抬头显示(HUD)"
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[0]"
+msgstr "16-bit"
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[1]"
+msgstr "32-bit"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[0]"
+msgstr "最低"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[1]"
+msgstr "很低"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[2]"
+msgstr "比较低"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[3]"
+msgstr "低"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[4]"
+msgstr "普通"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[5]"
+msgstr "高"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[6]"
+msgstr "比较高"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[7]"
+msgstr "很高"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[8]"
+msgstr "最高"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[0]"
+msgstr "无"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[1]"
+msgstr "轻微显示"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[2]"
+msgstr "完全显示"
+
+msgid "UT2K4Tab_HudSettings.PanelCaption"
+msgstr "抬头显示(HUD)"
+
+msgid "UT2K4Tab_IForceSettings.PanelCaption"
+msgstr "输入"
+
+#, fuzzy
+msgid "UT2K4Tab_MainBase.MessageNoInfo"
+msgstr "无信息支持!"
