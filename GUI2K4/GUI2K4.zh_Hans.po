@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-14 20:13+0000\n"
+"PO-Revision-Date: 2025-12-15 21:09+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/gui2k4/zh_Hans/>\n"
@@ -53,7 +53,6 @@ msgstr "玩家"
 msgid "UT2K4SettingsPage.PanelCaption<3>"
 msgstr "游戏"
 
-#, fuzzy
 msgid "UT2K4SettingsPage.PanelCaption<4>"
 msgstr "输入"
 
@@ -111,6 +110,131 @@ msgstr "抬头显示(HUD)"
 msgid "UT2K4Tab_IForceSettings.PanelCaption"
 msgstr "输入"
 
-#, fuzzy
 msgid "UT2K4Tab_MainBase.MessageNoInfo"
-msgstr "无信息支持!"
+msgstr "暂无可用信息!"
+
+msgid "ControlBinder.BindingLabel[41]"
+msgstr "发言菜单"
+
+msgid "Settings_Tabs.PerformanceWarningText"
+msgstr "你所做的更改可能会对性能表现产生不利影响."
+
+msgid "UT2K4Browser_Page.QueryCompleteString"
+msgstr "查询已完成!"
+
+msgid "UT2K4Browser_Page.StartQueryString"
+msgstr "查询主服务器"
+
+msgid "UT2K4GetPassword.IncorrectPassword"
+msgstr "密码错误.· ·请重新输入."
+
+msgid "UT2K4PerformWarn.DialogText2.Caption"
+msgstr "您所做的更改可能会对您的性能表现产生不利影响."
+
+msgid "UT2K4PerformWarn.HideCheckbox.Caption"
+msgstr "  · ·不再显示此警告"
+
+msgid "UT2K4PerformWarn.HideCheckbox.Hint"
+msgstr "勾选此项可在设置菜单中调整属性时禁用警告消息的显示"
+
+msgid "UT2K4SettingsPage.PanelCaption<0>"
+msgstr "显示"
+
+msgid "UT2K4Tab_DetailSettings.PanelCaption"
+msgstr "显示"
+
+msgid "UT2K4Tab_MidGameVoiceChat.NOSPEECH.Hint"
+msgstr "不接受此玩家的任何语音消息,例如\"有敌人!\""
+
+msgid "UT2K4VideoChangeOK.RestoreText"
+msgstr "(原设置将在 %count% %seconds% 后恢复)"
+
+msgid "UT2K4VideoChangeOK.SecondText"
+msgstr "秒"
+
+msgid "UT2K4VideoChangeOK.SecondsText"
+msgstr "秒"
+
+msgid "UT2K4VideoChangeOK.lbText.Caption"
+msgstr "保存这些设置?"
+
+msgid "UT2K4VideoChangeOK.lbText2.Caption"
+msgstr "(原设置将在15秒后恢复)"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<0>"
+msgstr "名称"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<1>"
+msgstr "分数"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<2>"
+msgstr "排名"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<3>"
+msgstr "延迟"
+
+msgid "UT2k4Browser_RulesList.TrueString"
+msgstr "已启用"
+
+msgid "UT2k4Browser_RulesList.FalseString"
+msgstr "已禁用"
+
+msgid "UT2k4Browser_RulesList.AdminNameString"
+msgstr "服务器管理员"
+
+msgid "UT2k4Browser_RulesList.AdminEmailString"
+msgstr "管理员电子邮箱"
+
+msgid "UT2k4Browser_RulesList.TimeLimitString"
+msgstr "时间限制"
+
+msgid "UT2k4Browser_RulesList.MinPlayersString"
+msgstr "最低玩家数(机器人)"
+
+msgid "UT2k4Browser_RulesList.MapVotingString"
+msgstr "地图投票"
+
+msgid "UT2k4Browser_RulesList.KickVotingString"
+msgstr "踢除投票"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<0>"
+msgstr "设置"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<1>"
+msgstr "值"
+
+msgid "UT2k4Browser_ServerListPageBase.PingingText"
+msgstr "正在连接服务器 ( %NumRec% / %TotalNum% )"
+
+msgid "UT2k4Browser_ServerListPageBase.PingCompleteText"
+msgstr "连接完成! 共 %NumServers% 个服务器, %NumPlayers% 名玩家"
+
+msgid "UT2k4Browser_ServerListPageBase.QueryCompleteString"
+msgstr "查询完成! 接收到: %NumServers% 个服务器"
+
+msgid "UT2k4Browser_ServerListPageFavorites.RemoveFavoriteText"
+msgstr "从收藏移除"
+
+msgid "UT2k4Browser_ServerListPageFavorites.EditFavoriteText"
+msgstr "编辑IP地址"
+
+msgid "UT2k4Browser_ServerListPageFavorites.PanelCaption"
+msgstr "服务器浏览器:收藏夹"
+
+msgid "UT2k4Browser_ServerListPageLAN.PanelCaption"
+msgstr "服务器浏览器:本地"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<1>"
+msgstr "服务器名称"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<2>"
+msgstr "地图"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<3>"
+msgstr "玩家数"
+
+msgid "UT2K4GamePageBase.PanelCaption<3>"
+msgstr "异变者"
+
+msgid "UT2k4Browser_RulesList.MutatorString"
+msgstr "异变者"
