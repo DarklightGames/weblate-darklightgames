@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-12 23:49+0000\n"
+"PO-Revision-Date: 2025-12-15 21:09+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_vehicles/zh_Hans/>\n"
@@ -18,10 +18,10 @@ msgid "DH_AchillesCannon.ProjectileDescriptions<1>"
 msgstr "脱壳穿甲弹"
 
 msgid "DH_AchillesCannon.nProjectileDescriptions<0>"
-msgstr "Mk.4型穿甲弹"
+msgstr "Mk.IV APC"
 
 msgid "DH_AchillesCannon.nProjectileDescriptions<1>"
-msgstr "MK.1型脱壳穿甲弹"
+msgstr "MK.I APDS"
 
 msgid "DH_AchillesCannon.ProjectileDescriptions<2>"
 msgstr "高爆弹"
@@ -162,16 +162,16 @@ msgid "DH_WolverineCannon.ProjectileDescriptions<2>"
 msgstr "高爆弹"
 
 msgid "DH_AchillesCannon.nProjectileDescriptions<2>"
-msgstr "Mk.1型荧光高爆弹"
+msgstr "Mk.I HE-T"
 
 msgid "DH_AchillesTank.VehicleNameString"
-msgstr "阿喀琉斯 Mk.1C型坦克歼击车"
+msgstr "阿喀琉斯坦克歼击车"
 
 msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<0>"
-msgstr "20毫米高爆穿甲弹(布雷达用)"
+msgstr "Granata Perforante da 20(穿甲高爆)"
 
 msgid "DH_Autoblinda41Cannon.nProjectileDescriptions<1>"
-msgstr "20毫米高爆弹(布雷达用)"
+msgstr "Granata da 20(高爆)"
 
 msgid "DH_Autoblinda43ArmoredCar.VehicleNameString"
 msgstr "AB 43轮式装甲车"
@@ -180,7 +180,7 @@ msgid "DH_Autoblinda43Cannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39(被帽风帽穿甲弹)"
 
 msgid "DH_Autoblinda43Cannon.nProjectileDescriptions<1>"
-msgstr "Sorgr.Patr.38(荧光高爆弹)"
+msgstr "Sprgr.Patr.38(荧光高爆弹)"
 
 msgid "DH_AutoblindaArmoredCar.VehicleNameString"
 msgstr "AB 41轮式战车"
@@ -198,7 +198,7 @@ msgid "DH_BT7Cannon.ProjectileDescriptions<0>"
 msgstr "荧光穿甲高爆弹"
 
 msgid "DH_BT7Cannon.nProjectileDescriptions<0>"
-msgstr "BR-240被帽穿甲高爆弹"
+msgstr "BR-240(被帽穿甲高爆弹)"
 
 msgid "DH_BT7Cannon.nProjectileDescriptions<1>"
 msgstr "O-240(高爆弹)"
@@ -219,7 +219,7 @@ msgid "DH_ChurchillMkVIICannon.ProjectileDescriptions<2>"
 msgstr "白磷烟幕弹"
 
 msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<0>"
-msgstr "M61穿甲弹"
+msgstr "M61 APC"
 
 msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<1>"
 msgstr "M48 HE-T"
@@ -228,7 +228,7 @@ msgid "DH_ChurchillMkVIICannon.nProjectileDescriptions<2>"
 msgstr "M89 WP"
 
 msgid "DH_ChurchillMkVIITank.VehicleNameString"
-msgstr "丘吉尔 Mk.7型重型步兵坦克"
+msgstr "丘吉尔 Mk.7型重型坦克"
 
 msgid "DH_Cromwell6PdrCannon.ProjectileDescriptions<0>"
 msgstr "风帽被帽穿甲弹"
@@ -258,7 +258,268 @@ msgid "DH_Cromwell95mmCannon.nProjectileDescriptions<2>"
 msgstr "Mk.I HEAT"
 
 msgid "DH_Cromwell95mmTank.VehicleNameString"
-msgstr "克伦威尔 Mk.6型"
+msgstr "克伦威尔 Mk.6型(95毫米)"
 
 msgid "DH_CromwellCannon.ProjectileDescriptions<0>"
 msgstr "风帽被帽穿甲弹"
+
+msgid "DH_CromwellCannon.ProjectileDescriptions<2>"
+msgstr "白磷烟雾弹"
+
+msgid "DH_CromwellCannon.nProjectileDescriptions<0>"
+msgstr "M61 APC"
+
+msgid "DH_CromwellCannon.nProjectileDescriptions<1>"
+msgstr "M48 HE-T"
+
+msgid "DH_CromwellCannon.nProjectileDescriptions<2>"
+msgstr "M64 WP"
+
+msgid "DH_CromwellTank.VehicleNameString"
+msgstr "克伦威尔 MK.4型(75毫米)"
+
+msgid "DH_DUKW.VehicleNameString"
+msgstr "\"DUKW\"两栖作战车"
+
+msgid "DH_DUKWSupport.VehicleNameString"
+msgstr "\"DUKW\"两栖作战车(物资输送)"
+
+msgid "DH_DieGlocke.VehicleNameString"
+msgstr "UFO \"钟\""
+
+msgid "DH_EyeE.VehicleNameString"
+msgstr "邪恶之眼"
+
+msgid "DH_EyeN.VehicleNameString"
+msgstr "恶毒之眼"
+
+msgid "DH_EyeW.VehicleNameString"
+msgstr "邪恶之眼"
+
+msgid "DH_Fiat508CMTransport.VehicleNameString"
+msgstr "菲亚特 508CM"
+
+msgid "DH_Fiat626Truck.VehicleNameString"
+msgstr "菲亚特 626"
+
+msgid "DH_Fiat626TruckSupport.VehicleNameString"
+msgstr "菲亚特626 (物资运输)"
+
+msgid "DH_Fiat626TruckTransport.VehicleNameString"
+msgstr "菲亚特626 (人员运输)"
+
+msgid "DH_FiatL640Tank.VehicleNameString"
+msgstr "L6/40 轻型坦克"
+
+msgid "DH_Flak38Cannon.ProjectileDescriptions<0>"
+msgstr "混合弹链"
+
+msgid "DH_Flak38Cannon.ProjectileDescriptions<1>"
+msgstr "穿甲弹链"
+
+msgid "DH_Flak38Cannon.ProjectileDescriptions<2>"
+msgstr "荧光高爆弹链"
+
+msgid "DH_Flak38Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.(穿甲)+Sprgr.39(高爆)"
+
+msgid "DH_Flak38Cannon.nProjectileDescriptions<1>"
+msgstr "PzGr.(穿甲)"
+
+msgid "DH_Flak38Cannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.39(高爆)"
+
+msgid "DH_GAZ67Vehicle.VehicleNameString"
+msgstr "GAZ-67吉普车"
+
+msgid "DH_GMCTruck.VehicleNameString"
+msgstr "GMC CCKW"
+
+msgid "DH_GMCTruckSupport.VehicleNameString"
+msgstr "GMC CCKW(物资运输)"
+
+msgid "DH_GMCTruckTransport.VehicleNameString"
+msgstr "GMC CCKW(人员运输)"
+
+msgid "DH_GermanCarrierTransport.VehicleNameString"
+msgstr "布伦机枪运载车731(缴获)"
+
+msgid "DH_GreyhoundArmoredCar.VehicleNameString"
+msgstr "M8 灰狗装甲侦查车"
+
+msgid "DH_GreyhoundArmoredCar_British.VehicleNameString"
+msgstr "\"灰狗\"装甲侦查车"
+
+msgid "DH_GreyhoundCannon.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_GreyhoundCannon.ProjectileDescriptions<2>"
+msgstr "霰弹"
+
+msgid "DH_GreyhoundCannon.nProjectileDescriptions<0>"
+msgstr "M51B1 APC"
+
+msgid "DH_GreyhoundCannon.nProjectileDescriptions<1>"
+msgstr "M63 HE-T"
+
+msgid "DH_GreyhoundCannon.nProjectileDescriptions<2>"
+msgstr "M2 霰弹"
+
+msgid "DH_HellcatCannon.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_HellcatCannon.ProjectileDescriptions<1>"
+msgstr "硬芯穿甲弹"
+
+msgid "DH_HellcatCannon.nProjectileDescriptions<0>"
+msgstr "M62 APC"
+
+msgid "DH_HellcatCannon.nProjectileDescriptions<1>"
+msgstr "M93 HVAP"
+
+msgid "DH_HellcatCannon.nProjectileDescriptions<2>"
+msgstr "M42A1 HE-T"
+
+msgid "DH_HellcatTank.VehicleNameString"
+msgstr "M18 地狱猫"
+
+msgid "DH_HetzerCannon.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_HetzerCannon.ProjectileDescriptions<2>"
+msgstr "烟幕弹"
+
+msgid "DH_HetzerCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39(被帽风帽穿甲高爆弹)"
+
+msgid "DH_HetzerCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34(高爆)"
+
+msgid "DH_HetzerCannon.nProjectileDescriptions<2>"
+msgstr "Bbgr.Kw.K(烟幕弹)"
+
+msgid "DH_HetzerDestroyer.VehicleNameString"
+msgstr "追猎者坦克歼击车"
+
+msgid "DH_HetzerVehicleMessage.MGBlockingHatch"
+msgstr "舱门被挡住!将机枪转至8点钟方向来打开舱门."
+
+msgid "DH_HigginsBoat.VehicleNameString"
+msgstr "希金斯艇(LCVP)"
+
+msgid "DH_IS2Cannon.ProjectileDescriptions<1>"
+msgstr "穿甲弹"
+
+msgid "DH_IS2Cannon.nProjectileDescriptions<0>"
+msgstr "OF-471(高爆)"
+
+msgid "DH_IS2Cannon.nProjectileDescriptions<1>"
+msgstr "BR-471(穿甲高爆)"
+
+msgid "DH_IS2Cannon_Late.ProjectileDescriptions<1>"
+msgstr "风帽穿甲弹"
+
+msgid "DH_IS2Cannon_Late.nProjectileDescriptions<0>"
+msgstr "OF-471(高爆)"
+
+msgid "DH_IS2Cannon_Late.nProjectileDescriptions<1>"
+msgstr "BR-471B(风帽穿甲高爆)"
+
+msgid "DH_IS2Tank.VehicleNameString"
+msgstr "IS2重型坦克"
+
+msgid "DH_ISU152Cannon.ProjectileDescriptions<1>"
+msgstr "穿甲弹"
+
+msgid "DH_ISU152Cannon.nProjectileDescriptions<0>"
+msgstr "OF-540(高爆)"
+
+msgid "DH_ISU152Cannon.nProjectileDescriptions<1>"
+msgstr "BR-540(穿甲高爆)"
+
+msgid "DH_ISU152Cannon_Late.ProjectileDescriptions<1>"
+msgstr "风帽穿甲弹"
+
+msgid "DH_ISU152Cannon_Late.nProjectileDescriptions<0>"
+msgstr "OF-540(高爆)"
+
+msgid "DH_ISU152Cannon_Late.nProjectileDescriptions<1>"
+msgstr "BR-540B(风帽穿甲高爆弹)"
+
+msgid "DH_ISU152Destroyer.VehicleNameString"
+msgstr "ISU-152坦克歼击车"
+
+msgid "DH_JacksonCannon.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_JacksonCannon.ProjectileDescriptions<1>"
+msgstr "硬芯穿甲弹"
+
+msgid "DH_JacksonCannon.nProjectileDescriptions<0>"
+msgstr "M82 APC"
+
+msgid "DH_JacksonCannon.nProjectileDescriptions<1>"
+msgstr "M304 HVAP"
+
+msgid "DH_JacksonCannon.nProjectileDescriptions<2>"
+msgstr "M71 HE-T"
+
+msgid "DH_JacksonCannon_Early.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_JacksonCannon_Early.ProjectileDescriptions<1>"
+msgstr "穿甲弹"
+
+msgid "DH_JacksonCannon_Early.nProjectileDescriptions<0>"
+msgstr "M82 APC"
+
+msgid "DH_JacksonCannon_Early.nProjectileDescriptions<1>"
+msgstr "M77 AP-T"
+
+msgid "DH_JacksonCannon_Early.nProjectileDescriptions<2>"
+msgstr "M71 HE-T"
+
+msgid "DH_JacksonTank.VehicleNameString"
+msgstr "M36 \"杰克逊\"坦克歼击车"
+
+msgid "DH_JagdpantherCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39/43(风帽被帽穿甲高爆弹)"
+
+msgid "DH_JagdpantherCannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.(高爆)"
+
+msgid "DH_JagdpantherTank.VehicleNameString"
+msgstr "\"猎豹\"坦克歼击车"
+
+msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_JagdpanzerIVL48Cannon.ProjectileDescriptions<2>"
+msgstr "烟幕弹"
+
+msgid "DH_JagdpanzerIVL48Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39(风帽被帽穿甲高爆弹)"
+
+msgid "DH_JagdpanzerIVL48Cannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34(高爆)"
+
+msgid "DH_JagdpanzerIVL48Cannon.nProjectileDescriptions<2>"
+msgstr "Nbgr.Kw.K(烟幕弹)"
+
+msgid "DH_JagdpanzerIVL48Destroyer.VehicleNameString"
+msgstr "4号坦克歼击车"
+
+msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_JagdpanzerIVL70Cannon.ProjectileDescriptions<1>"
+msgstr "硬芯穿甲弹"
+
+msgid "DH_JagdpanzerIVL70Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39/42(风帽被帽穿甲高爆弹)"
+
+msgid "DH_JagdpanzerIVL70Cannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40/42(硬芯穿甲)"
+
+msgid "DH_JagdpanzerIVL70Cannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Patr.42(高爆)"
