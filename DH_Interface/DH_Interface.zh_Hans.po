@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-12 23:49+0000\n"
+"PO-Revision-Date: 2025-12-15 21:09+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_interface/zh_Hans/>\n"
@@ -130,3 +130,9 @@ msgstr "请求合并小队"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<9>"
 msgstr "{1}将{0}空投至班长位置"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<10>"
+msgstr "将{0}空降至标点{1}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<11>"
+msgstr "将班组空投至小队长所在位置{1}"
