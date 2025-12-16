@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 09:43+0000\n"
+"PO-Revision-Date: 2025-12-16 23:11+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
@@ -579,13 +579,13 @@ msgid "DHATCannonMessage.GunIsRotating"
 msgstr "El arma está siendo rotada"
 
 msgid "DHATCannonMessage.CannotEnter"
-msgstr "El cañón esta siendo operado"
+msgstr "El cañón ya está siendo operado"
 
 msgid "DHATLoadFailMessage.CantLoad"
-msgstr "{0} debe estar en posición para ser recargado"
+msgstr "{0} debe estar en posición para recargarlo"
 
 msgid "DHAdminMessage.KickedFromSquadMessage"
-msgstr "El administrador '{0}' expulso '{1}' de la escuadra '{2}'."
+msgstr "El administrador \"{0}\" expulso \"{1}\" de la escuadra '{2}'."
 
 msgid "DHCommandMenu_FireSupport.AvailableParadropsText"
 msgstr "Paracaidistas: {0}"
