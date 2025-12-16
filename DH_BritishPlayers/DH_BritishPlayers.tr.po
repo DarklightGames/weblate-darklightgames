@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-12-16 23:11+0000\n"
-"Last-Translator: baba hayatta <ardkbr54@gmail.com>\n"
+"Last-Translator: Bernard Flag <35berat51@gmail.com>\n"
 "Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_britishplayers/tr/>\n"
 "Language: tr\n"
@@ -12,4 +12,28 @@ msgstr ""
 "X-Generator: Weblate 5.13.3\n"
 
 msgid "DHBritishVoice.SupportString[5]"
-msgstr "PIAT'a ihtiyacımız var"
+msgstr "Tanksavara ihtiyacımız var !"
+
+msgid "DHCWAntiTankRoles.MyName"
+msgstr "Tank Avcısı"
+
+msgid "DHCWCorporalRoles.MyName"
+msgstr "Aday Onbaşı"
+
+msgid "DHCWSergeantRoles.MyName"
+msgstr "Onbaşı"
+
+msgid "DHNation_Britain.NationName"
+msgstr "Büyük Britanya"
+
+msgid "DHNation_Canada.NationName"
+msgstr "Kanada"
+
+msgid "DHBritishVoice.SupportAbbrev[5]"
+msgstr "Tanksavar lazım"
+
+msgid "DHCanadianVoice.SupportString[5]"
+msgstr "Tanksavara ihtiyacımız var !"
+
+msgid "DHCanadianVoice.SupportAbbrev[5]"
+msgstr "Tanksavar lazım"
