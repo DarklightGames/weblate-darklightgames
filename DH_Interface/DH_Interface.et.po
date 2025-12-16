@@ -1,2 +1,264 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-12-16 23:11+0000\n"
+"Last-Translator: Ahto Jõesalu <ahto.joesalu.a@gmail.com>\n"
+"Language-Team: Estonian <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_interface/et/>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "DHBrowser_Footer.BrowserBack.Caption"
+msgstr "Tagasi"
+
+msgid "DHBrowser_Footer.BrowserFilter.Caption"
+msgstr "Filtrid"
+
+msgid "DHBrowser_Footer.BrowserJoin.Caption"
+msgstr "Liitu"
+
+msgid "DHBrowser_Footer.BrowserMain.Caption"
+msgstr "Menüü"
+
+msgid "DHBrowser_Footer.BrowserRefresh.Caption"
+msgstr "Värskenda"
+
+#, fuzzy
+msgid "DHBrowser_Footer.BrowserSpec.Caption"
+msgstr "Vaatle"
+
+#, fuzzy
+msgid "DHBrowser_Footer.OnlyStandardCheckBox.Caption"
+msgstr "Standardsed Serverid Ainult"
+
+msgid "DHBrowser_OpenIP.CancelButton.Caption"
+msgstr "TÜHISTA"
+
+msgid "DHBrowser_OpenIP.IPDesc.Caption"
+msgstr "Sisesta Uus IP Aadress"
+
+msgid "DHBrowser_OpenIP.IpEntryBox.Caption"
+msgstr "IP Aadress "
+
+#, fuzzy
+msgid "DHBrowser_OpenIP.OkButton.Caption"
+msgstr "Olgu"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<0>"
+msgstr "Liitu Serveriga"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<1>"
+msgstr "Liitu Vaatlejana"
+
+#, fuzzy
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<3>"
+msgstr "Värskenda Serveri Infot"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<4>"
+msgstr "Värskenda Nimekirja"
+
+#, fuzzy
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<6>"
+msgstr "Muuda Filtreid"
+
+#, fuzzy
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<7>"
+msgstr "Loo Tempel"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<10>"
+msgstr "Lisa Lemmikutesse"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<11>"
+msgstr "Kopeeri serveri aadress"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<12>"
+msgstr "Ava IP"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<1>"
+msgstr "Serveri Nimi"
+
+#, fuzzy
+msgid "DHBrowser_ServersList.ColumnHeadings<2>"
+msgstr "Serveri Stabiilsus"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<3>"
+msgstr "Asukoht"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<4>"
+msgstr "Versioon"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<5>"
+msgstr "Kaart"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<6>"
+msgstr "Mängijad"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<7>"
+msgstr "Ping"
+
+msgid "DHCommunicationPage.Panels<0>.Caption"
+msgstr "Suhtlus"
+
+msgid "DHCommunicationPage.Panels<0>.Hint"
+msgstr "Halda teiste mängijatega suhtlust"
+
+msgid "DHContextMenu_SquadMembers.AdminPrefixText"
+msgstr "ADMINISTRAATOR:"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<1>"
+msgstr "Kutsu {0}"
+
+#, fuzzy
+msgid "DHContextMenu_SquadMembers.EntryTexts<2>"
+msgstr "Eemalda {0}"
+
+#, fuzzy
+msgid "DHContextMenu_SquadMembers.EntryTexts<3>"
+msgstr "Keela {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<4>"
+msgstr "Ülenda {0} Rühmajuhiks"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<5>"
+msgstr "Määra {0} Assistendiks"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<6>"
+msgstr "Alanda {0} Assistendilt"
+
+#, fuzzy
+msgid "DHContextMenu_SquadMembers.EntryTexts<7>"
+msgstr "Avalda soovi assistendiks"
+
+#, fuzzy
+msgid "DHContextMenu_SquadMembers.EntryTexts<8>"
+msgstr "Avalda soovi liita rühmad"
+
+msgid "DHCreditsPage.ProjectLeadsText"
+msgstr "Projekti Juht"
+
+msgid "DHCreditsPage.ProgrammersText"
+msgstr "Programmeerijad"
+
+msgid "DHCreditsPage.AnimatorsText"
+msgstr "Animaatorid"
+
+msgid "DHCreditsPage.ModelersText"
+msgstr "Modelleerijad"
+
+msgid "DHCreditsPage.TextureArtistsText"
+msgstr "Tekstuurikunstnikud"
+
+msgid "DHCreditsPage.ArtistsText"
+msgstr "Kunstnikud"
+
+msgid "DHCreditsPage.LevelDesignersText"
+msgstr "Taseme Disainerid"
+
+msgid "DHCreditsPage.SoundArtistsText"
+msgstr "Helikunstnikud"
+
+msgid "DHCreditsPage.VoiceActorsText"
+msgstr "Häälnäitlejad"
+
+msgid "DHCreditsPage.LocalizationTeamText"
+msgstr "Lokaliseerimismeeskond"
+
+msgid "DHCreditsPage.CommunityAdminsText"
+msgstr "Kogukonna Administraatorid"
+
+msgid "DHCreditsPage.PastPatreonSupportersText"
+msgstr "Patreoni Endised Toetajad"
+
+msgid "DHCreditsPage.OtherContributorsText"
+msgstr "Muud Panustajad"
+
+msgid "DHCreditsPage.SpecialThanksText"
+msgstr "Suured Tänud"
+
+msgid "DHCreditsPage.WindowName"
+msgstr "Autorid"
+
+msgid "DHCreditsPage.CloseButton.Caption"
+msgstr "Sulge"
+
+msgid "DHDeployMenu.NoneText"
+msgstr "Puuduv"
+
+msgid "DHDeployMenu.SelectRoleText"
+msgstr "Valige roll"
+
+msgid "DHDeployMenu.LockText"
+msgstr "Ava"
+
+msgid "DHDeployMenu.UnlockText"
+msgstr "Sulge"
+
+msgid "DHDeployMenu.LockedText"
+msgstr "Suletud"
+
+msgid "DHDeployMenu.VehicleUnavailableString"
+msgstr "Teie valitud sõiduk ei ole enam saadaval."
+
+msgid "DHDeployMenu.SurrenderButtonText[0]"
+msgstr "Taganeda"
+
+msgid "DHDeployMenu.SurrenderButtonText[1]"
+msgstr "Jätktata võitlust"
+
+msgid "DHDeployMenu.AlliesButtonObject.Hint"
+msgstr "Liitu Liitlastega"
+
+msgid "DHDeployMenu.AxisButtonObject.Hint"
+msgstr "Liitu Teljeriikidega"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<1>"
+msgstr "Sa ei ole meeskonda valinud."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<2>"
+msgstr "Mäng pole veel alanud."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<3>"
+msgstr "Taganemise hääletus on väljas."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<4>"
+msgstr "Hääletamine on juba alanud."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<5>"
+msgstr "Me oleme juba taganenud."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<6>"
+msgstr ""
+"Teie meeskond on juba taganemise üle hääletanud. Proovige hiljem uuesti."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<7>"
+msgstr "Te ei saa taganeda pärast mängu lõppu."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<9>"
+msgstr "Te ei saa taganeda nii vara."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<10>"
+msgstr "Te ei saa taganeda lahingu ettevalmistuste ajal."
+
+msgid "DHDeployMenu.ArtilleryVehicleImageObject.Hint"
+msgstr "Liikursuurtükk"
+
+msgid "DHDeployMenu.ContinueButtonObject.Caption"
+msgstr "Jätka"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<0>"
+msgstr "Saatuslik Error!"
+
+msgid "DHDeployMenu.UnassignedPlayersCaptionText"
+msgstr "Määramata"
+
+msgid "DHDeployMenu.SurrenderConfirmBaseText"
+msgstr "Kas te olete allaandmises kindel?"
+
+msgid "DHDeployMenu.FreeChangeTeamConfirmText"
+msgstr "Kas te olete kindel, et soovite meeskonda vahetada?"
+
+msgid "DHDeployMenu.ReservedString"
+msgstr "Reserveeritud"
