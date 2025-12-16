@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-12-16 23:11+0000\n"
-"Last-Translator: Çağan Berk <cagandem@gmail.com>\n"
+"Last-Translator: Bernard Flag <35berat51@gmail.com>\n"
 "Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/tr/>\n"
 "Language: tr\n"
@@ -27,7 +27,7 @@ msgid "DHShovelItem_Italian.NativeItemName"
 msgstr "Kürek"
 
 msgid "DHShovelItem_Russian.NativeItemName"
-msgstr "Kürek"
+msgstr "MPL-50 Kürek"
 
 msgid "DHShovelWarningMessage.CannotBeCrawling"
 msgstr "Sürünürken kazamazsın."
@@ -40,3 +40,18 @@ msgstr "Kemik Sopa"
 
 msgid "DHTrenchMaceItem_Grenade.ItemName"
 msgstr "Siper Gürzü"
+
+msgid "DHBinocularsItem.ItemName"
+msgstr "Dürbün"
+
+msgid "DHBinocularsItemAllied.ItemName"
+msgstr "M13 Dürbün 6x30"
+
+msgid "DHBinocularsItemGerman.ItemName"
+msgstr "Zeiss Dürbün 6x30"
+
+msgid "DHRadioItem.ItemName"
+msgstr "Telsiz"
+
+msgid "DHShovelItem.ItemName"
+msgstr "Kürek"
