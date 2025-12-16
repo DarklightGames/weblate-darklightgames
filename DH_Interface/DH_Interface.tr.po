@@ -1,2 +1,923 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-12-16 23:11+0000\n"
+"Last-Translator: baba hayatta <ardkbr54@gmail.com>\n"
+"Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_interface/tr/>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "DHBrowser_Footer.BrowserBack.Caption"
+msgstr "Geri"
+
+msgid "DHBrowser_Footer.BrowserFilter.Caption"
+msgstr "Filtreler"
+
+msgid "DHBrowser_Footer.BrowserJoin.Caption"
+msgstr "Katıl"
+
+msgid "DHBrowser_Footer.BrowserRefresh.Caption"
+msgstr "Yenile"
+
+msgid "DHBrowser_Footer.BrowserSpec.Caption"
+msgstr "İzle"
+
+msgid "DHBrowser_Footer.OnlyStandardCheckBox.Caption"
+msgstr "Sadece Standart Sunucular"
+
+msgid "DHBrowser_OpenIP.CancelButton.Caption"
+msgstr "İptal"
+
+msgid "DHBrowser_OpenIP.IPDesc.Caption"
+msgstr "Yeni IP Adres'ini Gir"
+
+msgid "DHBrowser_OpenIP.IpEntryBox.Caption"
+msgstr "IP Address: "
+
+msgid "DHBrowser_OpenIP.OkButton.Caption"
+msgstr "Tamam"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<0>"
+msgstr "Sunucuya Katıl"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<1>"
+msgstr "İzleyici Olarak Katıl"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<3>"
+msgstr "Sunucu Bilgisini Yenile"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<4>"
+msgstr "Yenileme Listesi"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<6>"
+msgstr "Filtreleri Yapılandır"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<7>"
+msgstr "Şablon Yarat"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<8>"
+msgstr "Tüm Filtreleri Devre Dışı Bırak"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<10>"
+msgstr "Favorilere Ekle"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<11>"
+msgstr "Sunucu Adresini Kopyala"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<12>"
+msgstr "IP'yi Aç"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<1>"
+msgstr "Sunucu İsmi"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<2>"
+msgstr "Durum"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<3>"
+msgstr "Lokasyon"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<4>"
+msgstr "Versiyon"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<5>"
+msgstr "Harita"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<6>"
+msgstr "Oyuncular"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<7>"
+msgstr "Ping"
+
+msgid "DHCommunicationPage.Panels<0>.Caption"
+msgstr "Kominikasyon"
+
+msgid "DHCommunicationPage.Panels<0>.Hint"
+msgstr "Diğer Oyuncularla Kominikasyonu Düzenle"
+
+msgid "DHContextMenu_SquadMembers.AdminPrefixText"
+msgstr "ADMIN:"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<1>"
+msgstr "Davet Et{0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<2>"
+msgstr "Sunucudan At{0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<3>"
+msgstr "Yasakla{0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<4>"
+msgstr "{0}'ı Manga Liderine Terfi Et"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<5>"
+msgstr "{0}ı Asistan Olarak Ata"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<6>"
+msgstr "{0}ı Asistanlıktan Çıkar"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<7>"
+msgstr "Asistan Olarak Gönüllü Ol"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<8>"
+msgstr "Mangaları Birleştirme İsteği Yolla"
+
+msgid "DHCreditsPage.ProjectLeadsText"
+msgstr "Proje Liderleri"
+
+msgid "DHCreditsPage.ProgrammersText"
+msgstr "Programcılar"
+
+msgid "DHCreditsPage.AnimatorsText"
+msgstr "Animasyoncular"
+
+msgid "DHCreditsPage.ModelersText"
+msgstr "Modelciler"
+
+msgid "DHCreditsPage.TextureArtistsText"
+msgstr "Doku Sanatçıları"
+
+msgid "DHCreditsPage.ArtistsText"
+msgstr "Sanatçılar"
+
+msgid "DHCreditsPage.LevelDesignersText"
+msgstr "Seviye Tasarımcılar"
+
+msgid "DHCreditsPage.SoundArtistsText"
+msgstr "Ses Sanatçıları"
+
+msgid "DHCreditsPage.VoiceActorsText"
+msgstr "Ses Sanatçıları"
+
+msgid "DHCreditsPage.LocalizationTeamText"
+msgstr "Lokalizasyon Takımı"
+
+msgid "DHCreditsPage.CommunityAdminsText"
+msgstr "Topluluk Adminleri"
+
+msgid "DHCreditsPage.PastPatreonSupportersText"
+msgstr "Geçmiş Patreon Destekçileri"
+
+msgid "DHCreditsPage.OtherContributorsText"
+msgstr "Diğer Katkıda Bulunanlar"
+
+msgid "DHCreditsPage.SpecialThanksText"
+msgstr "Özel Teşekkürler"
+
+msgid "DHCreditsPage.WindowName"
+msgstr "Emeği Geçenler"
+
+msgid "DHCreditsPage.CloseButton.Caption"
+msgstr "Yakın"
+
+msgid "DHDeployMenu.NoneText"
+msgstr "Hiçbiri"
+
+msgid "DHDeployMenu.SelectRoleText"
+msgstr "Bir Rol Seç"
+
+msgid "DHDeployMenu.SelectSpawnPointText"
+msgstr "Bir Doğum Noktası Seç"
+
+msgid "DHDeployMenu.DeployInTimeText"
+msgstr "Konuçlanmak İçin Devam'a{0} Bas"
+
+msgid "DHDeployMenu.DeployNowText"
+msgstr "Şimdi Konuçlanmak İçin Devama Bas!"
+
+msgid "DHDeployMenu.ReservedString"
+msgstr "Rezerve Edilmiş"
+
+msgid "DHDeployMenu.ChangeTeamConfirmText"
+msgstr ""
+"Takımı Değiştirmek İstediğinizden Emin Misiniz? ({s} Saniye Boyunca Eski "
+"Takımınıza Geri Dönemeyeceksiniz)"
+
+msgid "DHDeployMenu.FreeChangeTeamConfirmText"
+msgstr "Takım Değiştirmek İstediğinizden Emin Misiniz?"
+
+msgid "DHDeployMenu.CantChangeTeamYetText"
+msgstr "Takım Değiştirebilmeniz İçin {s} Beklemeniz Gerekiyor."
+
+msgid "DHDeployMenu.LockText"
+msgstr "Kilidi Kapa"
+
+msgid "DHDeployMenu.UnlockText"
+msgstr "Kilidi Aç"
+
+msgid "DHDeployMenu.VehicleUnavailableString"
+msgstr "Seçtiğiniz Araç Artık Mevcut Değil"
+
+msgid "DHDeployMenu.LockedText"
+msgstr "Kilitlenmiş"
+
+msgid "DHDeployMenu.BotsText"
+msgstr "Robotlar"
+
+msgid "DHDeployMenu.SquadOnlyText"
+msgstr "Sadece Takımlar İçin"
+
+msgid "DHDeployMenu.SquadLeadershipOnlyText"
+msgstr "Sadece Takım Liderleri için"
+
+msgid "DHDeployMenu.RecommendJoiningSquadText"
+msgstr ""
+"It İs HIGHLY RECOMMENDED That You JOIN A SQUAD Before Deploying! Joining a "
+"Squad Grants You Additional Role Options And Closer Deployment To The "
+"Frontlines.||Do You Want To Automatically Join a Squad Now?"
+
+msgid "DHDeployMenu.UnassignedPlayersCaptionText"
+msgstr "Atanmamış"
+
+msgid "DHDeployMenu.NonSquadLeaderOnlyText"
+msgstr "SADECE LİDER OLMAYANLAR İÇİN"
+
+msgid "DHDeployMenu.RoleLockedText"
+msgstr "KİLİTLİ"
+
+msgid "DHDeployMenu.SurrenderConfirmBaseText"
+msgstr "Teslim Olmak İstediğinizden Emin Misiniz?"
+
+msgid "DHDeployMenu.SurrenderConfirmNominationText"
+msgstr ""
+"Bu İşlem, Takım Genelinde Yapılacak Oylamayı Belirleyecektir. Oylama, "
+"Takımın {0}'ı Geri Çekilmeyi Tercih Ettikten Sonra Başlayacaktır."
+
+msgid "DHDeployMenu.SurrenderConfirmEndRoundText"
+msgstr "Bu, Karşı Takımın Lehine Turu Anında Sonlandıracaktır."
+
+msgid "DHDeployMenu.SurrenderButtonText[0]"
+msgstr "Geri Çekil"
+
+msgid "DHDeployMenu.SurrenderButtonText[1]"
+msgstr "Savaşmaya Devam Et"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<0>"
+msgstr "Ölümcül Hata!"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<1>"
+msgstr "Henüz Bir Takım Seçmediniz."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<2>"
+msgstr "Tur Henüz Başlamadı."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<3>"
+msgstr "Geri çekilme Oylaması Devre Dışı Bırakıldı."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<4>"
+msgstr "Oylama Zaten Başladı."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<5>"
+msgstr "Zaten Geri Çekildiniz."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<6>"
+msgstr ""
+"Ekibiniz Daha Önce Geri Çekilme Yönünde Oy Kullanmıştı. Lütfen Daha Sonra "
+"Tekrar Deneyin."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<7>"
+msgstr "Tur Bittikten Sonra Geri Çekilemezsiniz."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<9>"
+msgstr "Bu Kadar Erken Geri Çekilemezsiniz."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<10>"
+msgstr "Kurulum Aşamasında Geri Çekilemezsiniz."
+
+msgid "DHDeployMenu.AlliesButtonObject.Hint"
+msgstr "Müttefiklere Katılın"
+
+msgid "DHDeployMenu.ArtilleryVehicleImageObject.Hint"
+msgstr "Topçu Aracı"
+
+msgid "DHDeployMenu.AxisButtonObject.Hint"
+msgstr "Axis'e katılın"
+
+msgid "DHDeployMenu.ContinueButtonObject.Caption"
+msgstr "Devam Et"
+
+msgid "DHDeployMenu.DisconnectButtonObject.Caption"
+msgstr "Bağlantıyı Kes"
+
+msgid "DHDeployMenu.EquipmentButtonObject.Hint"
+msgstr "Ekipman"
+
+msgid "DHDeployMenu.MapButtonObject.Hint"
+msgstr "Harita [F1]"
+
+msgid "DHDeployMenu.MapVoteButtonObject.Caption"
+msgstr "Harita Oylaması"
+
+msgid "DHDeployMenu.MaxVehiclesImageObject.Hint"
+msgstr "Tanklar Mevcut"
+
+msgid "DHDeployMenu.RetreatButtonObject.Caption"
+msgstr "Geri Çekil"
+
+msgid "DHDeployMenu.RoundTimeLabelObject.Hint"
+msgstr "Kalan Süre"
+
+msgid "DHDeployMenu.ServersButtonObject.Caption"
+msgstr "Sunucular"
+
+msgid "DHDeployMenu.SettingsButtonObject.Caption"
+msgstr "Ayarlar"
+
+msgid "DHDeployMenu.SpawnVehicleImageObject.Hint"
+msgstr "Doğma Aracı"
+
+msgid "DHDeployMenu.SpectateButtonObject.Hint"
+msgstr "Seyret"
+
+msgid "DHDeployMenu.SquadsButtonObject.Hint"
+msgstr "Takımlar [F1]"
+
+msgid "DHDeployMenu.SuicideButtonObject.Caption"
+msgstr "İntihar Et"
+
+msgid "DHDeployMenu.SupplyVehicleImageObject.Hint"
+msgstr "İnşaat Tedarik Aracı"
+
+msgid "DHDeployMenu.VehicleButtonObject.Hint"
+msgstr "Araçlar"
+
+msgid "DHEditFavoritePage.UnknownText"
+msgstr "Bilinmeyen Sunucu"
+
+msgid "DHEditFavoritePage.IpEntryBox.Caption"
+msgstr "IP Adresi: "
+
+msgid "DHFilterEdit.ComboOpts[0]"
+msgstr "Önemli Değil"
+
+msgid "DHFilterEdit.ComboOpts[1]"
+msgstr "Açık Olmalı"
+
+msgid "DHFilterEdit.ComboOpts[2]"
+msgstr "Kapalı Olmalı"
+
+msgid "DHFilterEdit.MutOpts[0]"
+msgstr "Mutatör Yok"
+
+msgid "DHFilterEdit.MutOpts[1]"
+msgstr "Herhangi Bir Mutatör"
+
+msgid "DHFilterEdit.MutOpts[2]"
+msgstr "Özel"
+
+msgid "DHFilterEdit.WindowName"
+msgstr "Filtre Ayarlarını Düzenle"
+
+msgid "DHFilterEdit.bCancel.Caption"
+msgstr "İptal Et"
+
+msgid "DHFilterEdit.bOk.Caption"
+msgstr "Tamam"
+
+msgid "DHFilterEdit.cbMutators.Caption"
+msgstr "Mutatörler:"
+
+msgid "DHFilterEdit.cbStats.Caption"
+msgstr "Sunucu İstatistikleri:"
+
+msgid "DHFilterEdit.ckBots.Caption"
+msgstr "Robot Yok"
+
+msgid "DHFilterEdit.ckEmpty.Caption"
+msgstr "Boş Sunucu Yok"
+
+msgid "DHFilterEdit.ckFull.Caption"
+msgstr "Full Sunucu Yok"
+
+msgid "DHFilterEdit.ckPassworded.Caption"
+msgstr "Şifreli Sunucu Yok"
+
+msgid "DHFilterEdit.ckVACOnly.Caption"
+msgstr "Sadece Valve Anti-Hilesi ile"
+
+msgid "DHFilterEdit.ebName.Caption"
+msgstr "Filtre İsmi:"
+
+msgid "DHFilterEdit.sbMutators.Caption"
+msgstr "Özel Mütatör yapılandırma"
+
+msgid "DHFilterEdit.sbOptions.Caption"
+msgstr "Ayarlar..."
+
+msgid "DHFilterListPage.bCancel.Caption"
+msgstr "İptal"
+
+msgid "DHFilterListPage.bCreate.Caption"
+msgstr "Yarat"
+
+msgid "DHFilterListPage.bEdit.Caption"
+msgstr "Denetle"
+
+msgid "DHFilterListPage.bOk.Caption"
+msgstr "Tamam"
+
+msgid "DHFilterListPage.bRemove.Caption"
+msgstr "Kaldır"
+
+msgid "DHFilterListPage.sbBackground.Caption"
+msgstr "Filtreler..."
+
+msgid "DHGUIDynArrayPage.LockedCancelButton.Caption"
+msgstr "İptal"
+
+msgid "DHGUIDynArrayPage.LockedOKButton.Caption"
+msgstr "Tamam"
+
+msgid "DHGUIMapComponent.SquadRallyPointDestroyText"
+msgstr "Rally'İ Yok Et"
+
+msgid "DHGUIMapComponent.SquadRallyPointSetAsSecondaryText"
+msgstr "İkincil Olarak Ayarla"
+
+msgid "DHGUIMapComponent.RemoveText"
+msgstr "Kaldır{0}"
+
+msgid "DHGUIMapComponent.ActiveTargetSelectText"
+msgstr "Aktif Hedef Olarak Seç"
+
+msgid "DHGUIMapComponent.ActiveTargetDeselectText"
+msgstr "Etkin Hedefin Seçimini Kaldır"
+
+msgid "DHGUIMapComponent.AdminPlaceAlliedSpawnText"
+msgstr "ADMİN: MÜTTEFİK'lerin doğma noktasını yerleştir"
+
+msgid "DHGUIMapComponent.AdminPlaceAxisSpawnText"
+msgstr "ADMİN: Axis'in Doğma Noktasını Yerleştir"
+
+msgid "DHGUIMapComponent.AdminDestroyAlliedSpawnsText"
+msgstr "ADMİN: Müttefik yönetim birimlerini yok et"
+
+msgid "DHGUIMapComponent.AdminDestroyAxisSpawnsText"
+msgstr "ADMİN: Axis yönetim birimlerini yok et"
+
+msgid "DHGUIMapComponent.AdminDestroySpawnText"
+msgstr "ADMİN: Doğum Noktasını Yok Et"
+
+msgid "DHGUIMapComponent.AdminTeleportText"
+msgstr "ADMİN: Buraya Işınlan"
+
+msgid "DHGUISquadComponent.CreateSquadButton.Caption"
+msgstr "Takım Yarat"
+
+msgid "DHGUISquadComponent.JoinSquadButton.Caption"
+msgstr "Takıma Katıl"
+
+msgid "DHGUISquadComponent.LeaveSquadButton.Caption"
+msgstr "Takımdan Ayrıl"
+
+msgid "DHGUISquadComponent.NoRallyPointsImage.Hint"
+msgstr ""
+"Bu Birliğin Uzun Zamandır Toplanma Noktası Yok. Konuşlanma Seçenekleri "
+"Sınırlı Olabilir!"
+
+msgid "DHGUITeamSelection.SizeBonusText"
+msgstr "Ordu Boyutu"
+
+msgid "DHGUITeamSelection.UnitsText"
+msgstr " Oyuncular"
+
+msgid "DHGUITeamSelection.AutoSelect.Caption"
+msgstr "Otomatik Seç"
+
+msgid "DHGUITeamSelection.Disconnect.Caption"
+msgstr "Bağlantıyı Kes"
+
+msgid "DHGUITeamSelection.SettingsButtonObject.Caption"
+msgstr "Ayarlar"
+
+msgid "DHGUITeamSelection.Spectate.Caption"
+msgstr "Seyret"
+
+msgid "DHGUITeamSelection.TeamsCount.Caption"
+msgstr "? Oyuncular"
+
+msgid "DHGUITeamSelection.TeamsCount2.Caption"
+msgstr "? Oyuncular"
+
+msgid "DHGameFooterMP.GameBackButton.Caption"
+msgstr "Geri"
+
+msgid "DHGameFooterSP.GameBackButton.Caption"
+msgstr "Geri"
+
+msgid "DHGamePageMP.MPFooter.SecondaryCaption"
+msgstr "Özel"
+
+msgid "DHGamePageSP.NoBotsWarningText"
+msgstr ""
+"Darkest Hour: Europe '44-'45 Tamamen Çok Oyunculu Moda Odaklanmıştır Ve Bu "
+"Nedenle Pratik Modunda Bot Desteği İçermez."
+
+msgid "DHGamePageSP.PageCaption"
+msgstr "Pratik"
+
+msgid "DHGamePageSP.SPFooter.PrimaryCaption"
+msgstr "Prratik Oyununu Başla"
+
+msgid "DHGetDataMenu.CancelButton.Caption"
+msgstr "İPTAL"
+
+msgid "DHGetDataMenu.CancelButton.Hint"
+msgstr "Bu Menüyü Kapatarak Değişiklikleri İptal Et."
+
+msgid "DHGetDataMenu.OkButton.Caption"
+msgstr "TAMAM"
+
+msgid "DHIAMultiColumnRulesPanel.AdvancedButton.Caption"
+msgstr "Gelişmiş Seçenekleri Görüntüle"
+
+msgid "DHLearnToPlayFooter.GameBackButton.Caption"
+msgstr "Geri"
+
+msgid "DHLearnToPlayPage.PanelCaption<0>"
+msgstr "Video Kılavuzları"
+
+msgid "DHLearnToPlayPage.PanelHint<0>"
+msgstr "Oyunu Bir Video İzleyerek Öğrenin"
+
+msgid "DHLearnToPlayPage.LearnToPlayHeader.Caption"
+msgstr "Oynamayı Öğren"
+
+msgid "DHMOTDConfigPage.LockedCancelButton.Caption"
+msgstr "İptal"
+
+msgid "DHMOTDConfigPage.LockedOKButton.Caption"
+msgstr "TAMAM"
+
+msgid "DHMainMenu.SteamMustBeRunningText"
+msgstr ""
+"Çok oyunculu modda oynamak için Steam'in çalışıyor olması ve aktif bir "
+"internet bağlantınızın olması gerekir."
+
+msgid "DHMainMenu.MOTDErrorString"
+msgstr "Hata: Haber akışı indirilemedi ({0})"
+
+msgid "DHMainMenu.ControlsChangedMessage"
+msgstr ""
+"Oyuna yeni kontroller eklendi. Sonuç olarak, önceki kontrol atamalarınız "
+"değişmiş olabilir. || Kontrol ayarlarınızı gözden geçirmek ister misiniz?"
+
+msgid "DHMainMenu.BadConfigMessage"
+msgstr ""
+"Yapılandırma dosyanızda bir sorun var, oyundan çıkmak ve yapılandırma "
+"dosyanızı nasıl düzelteceğinize dair bir kılavuzu açmak için Devam'a "
+"tıklayın."
+
+msgid "DHMainMenu.CreditsButton.Caption"
+msgstr "Emeği Geçenler"
+
+msgid "DHMainMenu.DiscordButton.Hint"
+msgstr "Discord'da bize katılın!"
+
+msgid "DHMainMenu.FacebookButton.Hint"
+msgstr "Bizi Facebook'ta takip edin!"
+
+msgid "DHMainMenu.GitHubButton.Hint"
+msgstr "GitHub'da bize katılın!"
+
+msgid "DHMainMenu.InstantActionButton.Caption"
+msgstr "Pratik"
+
+msgid "DHMainMenu.QuitButton.Caption"
+msgstr "Çıkış"
+
+msgid "DHMainMenu.ServerButton.Caption"
+msgstr "Sunucu Tarayıcı"
+
+msgid "DHMainMenu.SettingsButton.Caption"
+msgstr "Ayarlar"
+
+msgid "DHMainMenu.SteamCommunityButton.Hint"
+msgstr "Steam Topluluğuna Katılın!"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<0>"
+msgstr "Aday Haritalar"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<1>"
+msgstr "Oy Ağırlığı"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<2>"
+msgstr "Harita Boyutu"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<0>"
+msgstr "Haritanın İsmi"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<1>"
+msgstr "Oyuncuların harita için sahip oldukları toplam oy gücü."
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<2>"
+msgstr "Harita için önerilen oyuncular."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<0>"
+msgstr "Harita İsmi"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<1>"
+msgstr "Müttefik Ulusu"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<2>"
+msgstr "Axis Ulusu"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<3>"
+msgstr "Oyun Boyutu"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<4>"
+msgstr "Harita Boyutu"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<0>"
+msgstr "Haritanın İsmi"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<1>"
+msgstr "Haritada yer alan müttefik ülke."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<2>"
+msgstr "Haritada gösterilen Axis devletleri."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<3>"
+msgstr "Harita için oynanan oyun veya savaş türü nedir?"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<4>"
+msgstr "Harita için önerilen oyuncular."
+
+msgid "DHMapVoteMultiColumnListBox.AdminMapContextMenu.ContextItems<0>"
+msgstr "ADMIN: Haritayı buna zorla"
+
+msgid "DHMapVotingPage.lmsgMapOutOfBounds"
+msgstr ""
+"Lütfen mevcut oyuncu sayısına uygun bir harita için oy verin. Tam listeden "
+"de bu harita için oy verebilirsiniz."
+
+msgid "DHMapVotingPage.NoRestartMapPrivilegeText"
+msgstr "Haritayı yeniden başlatmak için yeterli yönetici ayrıcalığınız yok!"
+
+msgid "DHMapVotingPage.NoChangeMapPrivilegeText"
+msgstr "Haritayı yeniden başlatmak için yeterli yönetici ayrıcalığınız yok!"
+
+msgid "DHMapVotingPage.lmsgMode[0]"
+msgstr "Çoğunluk Kazandı"
+
+msgid "DHMapVotingPage.FilterClearButton.Caption"
+msgstr "Temizle"
+
+msgid "DHMapVotingPage.FilterEditbox.Caption"
+msgstr "Ara"
+
+msgid "DHMapVotingPage.GameTypeCombo.Caption"
+msgstr "Oyun Türünü Filtrele:"
+
+msgid "DHMaplistEditor.ActiveBackground.Caption"
+msgstr "Seçilen Haritalar"
+
+msgid "DHMaplistEditor.AddAllButton.Caption"
+msgstr "Tümünü Ekle"
+
+msgid "DHMaplistEditor.AddButton.Caption"
+msgstr "Ekle"
+
+msgid "DHMaplistEditor.AvailBackground.Caption"
+msgstr "Mevcut Haritalar"
+
+msgid "DHMaplistEditor.DeleteMaplistButton.Caption"
+msgstr "Sil"
+
+msgid "DHMaplistEditor.MapListSectionBackground.Caption"
+msgstr "Kaydedilen Harita Listeleri"
+
+msgid "DHMaplistEditor.MoveDownButton.Caption"
+msgstr "Aşağı Taşı"
+
+msgid "DHMaplistEditor.MoveUpButton.Caption"
+msgstr "Yukarı Taşı"
+
+msgid "DHMaplistEditor.NewMaplistButton.Caption"
+msgstr "Yeni"
+
+msgid "DHMaplistEditor.RemoveAllButton.Caption"
+msgstr "Tümünü Kaldır"
+
+msgid "DHMaplistEditor.RemoveButton.Caption"
+msgstr "Kaldır"
+
+msgid "DHMaplistEditor.RenameMaplistButton.Caption"
+msgstr "Yeniden İsimlendir"
+
+msgid "DHMidGameVoiceChat.NOSPEECH.Caption"
+msgstr "Sesli komutları görmezden gel"
+
+msgid "DHMidGameVoiceChat.NOSPEECH.Hint"
+msgstr "Bu oynatıcıdan \"Siper al!\" gibi sesli komutlar almayın."
+
+msgid "DHMutatorConfigMenu.AdvancedButton.Caption"
+msgstr "Gelişmiş Seçenekleri Görüntüle"
+
+msgid "DHMutatorConfigMenu.LockedCancelButton.Caption"
+msgstr "İptal"
+
+msgid "DHMutatorConfigMenu.LockedOKButton.Caption"
+msgstr "TAMAM"
+
+msgid "DHNetworkStatusMessage.NetStatOk.Caption"
+msgstr "TAMAM"
+
+msgid "DHNetworkStatusMsg.StatusMessages[12]"
+msgstr ""
+"Mevcut seviyenin geri kalanında oyundan atıldınız. || Eğer bir yönetici sizi "
+"cezalandırmadıysa, bu takım arkadaşınızı öldürmenin varsayılan cezasıdır, bu "
+"yüzden bunu yapmayın."
+
+msgid "DHPerformanceWarning.OkButton.Caption"
+msgstr "TAMAM"
+
+msgid "DHPlayerSetupPage.psTitleBar.Caption"
+msgstr "Oynatıcı Kurulumu"
+
+msgid "DHQuitPage.NoButton.Caption"
+msgstr "HAYIR"
+
+msgid "DHQuitPage.QuitDesc.Caption"
+msgstr "Çıkmak istediğinizden emin misiniz?"
+
+msgid "DHQuitPage.YesButton.Caption"
+msgstr "EVET"
+
+msgid "DHScoreBoard.MunitionPercentageText"
+msgstr "Cephane"
+
+msgid "DHScoreBoard.PlayersText"
+msgstr "Oyuncular"
+
+msgid "DHScoreBoard.TickHealthText"
+msgstr "Tick: "
+
+msgid "DHScoreBoard.NetHealthText"
+msgstr "Loss: "
+
+msgid "DHScoreBoard.NoPlayersText"
+msgstr "Oyuncu Yok"
+
+msgid "DHScoreBoard.SquadMemberIndexColumnTitle"
+msgstr "#"
+
+msgid "DHScoreBoard.RoleColumnTitle"
+msgstr "Rol"
+
+msgid "DHScoreBoard.KillsColumnTitle"
+msgstr "K"
+
+msgid "DHScoreBoard.DeathsColumnTitle"
+msgstr "D"
+
+msgid "DHScoreBoard.ScoreColumnTitle"
+msgstr "Skor"
+
+msgid "DHScoreBoard.PingColumnTitle"
+msgstr "Ping"
+
+msgid "DHServerBrowser.WelcomeMessageText"
+msgstr ""
+"Darkest Hour: Europe '44-'45'e hoş geldiniz! Oyun hakkında konuşmak, "
+"önerilerde bulunmak veya hataları bildirmek için 5000'den fazla üyeden "
+"oluşan Discord topluluğumuza katılmayı unutmayın! Savaş alanında görüşmek "
+"üzere!"
+
+msgid "DHServerBrowser.WelcomeMessageDiscordButtonText"
+msgstr "Discord'a Katılın"
+
+msgid "DHServerBrowser.WelcomeMessagePlayButtonText"
+msgstr "Sadece oyna!"
+
+msgid "DHServerBrowser.PanelCaption<0>"
+msgstr "Favoriler"
+
+msgid "DHServerBrowser.PanelCaption<1>"
+msgstr "LAN"
+
+msgid "DHServerBrowser.PanelCaption<2>"
+msgstr "İnternet"
+
+msgid "DHServerBrowser.PanelCaption<3>"
+msgstr "LAN"
+
+msgid "DHServerBrowser.PanelCaption<4>"
+msgstr "İnternet"
+
+msgid "DHServerBrowser.PanelCaption<5>"
+msgstr "İnternet"
+
+msgid "DHServerBrowser.PanelHint<0>"
+msgstr "Favorileriniz arasından katılmak istediğiniz bir sunucu seçin."
+
+msgid "DHServerBrowser.PanelHint<1>"
+msgstr "Yerel ağınızda çalışan tüm DH sunucularını görüntüleyin."
+
+msgid "DHServerBrowser.PanelHint<2>"
+msgstr "Dünyanın dört bir yanındaki DH sunucuları arasından seçim yapın."
+
+msgid "DHServerBrowser.PanelHint<3>"
+msgstr "Yerel ağınızda çalışan tüm RO sunucularını görüntüleyin."
+
+msgid "DHServerBrowser.PanelHint<4>"
+msgstr "Dünya genelindeki yüzlerce RO sunucusu arasından seçim yapın."
+
+msgid "DHServerBrowser.PanelHint<5>"
+msgstr "Dünya genelindeki yüzlerce RO sunucusu arasından seçim yapın."
+
+msgid "DHServerBrowser.GameTypeCombo.Caption"
+msgstr "Oyun Türü"
+
+msgid "DHServerBrowser.ServerBrowserHeader.Caption"
+msgstr "Sunucu Tarayıcısı"
+
+msgid "DHServerLoading.DeployingText"
+msgstr "{0} a Konuçlanıyor"
+
+msgid "DHServerLoading.AuthorText"
+msgstr "Yazar:{0}"
+
+msgid "DHSettingsPage.PanelCaption<0>"
+msgstr "Oyun"
+
+msgid "DHSettingsPage.PanelCaption<1>"
+msgstr "Görüntülemek"
+
+msgid "DHSettingsPage.PanelCaption<2>"
+msgstr "Ses"
+
+msgid "DHSettingsPage.PanelCaption<3>"
+msgstr "Kontroller"
+
+msgid "DHSettingsPage.PanelCaption<4>"
+msgstr "Giriş"
+
+msgid "DHSettingsPage.PanelCaption<5>"
+msgstr "Oyun arayüzü"
+
+msgid "DHSettingsPage.PanelHint<0>"
+msgstr "Oyun ve ağ ile ilgili ayarları yapılandırın..."
+
+msgid "DHSettingsPage.PanelHint<1>"
+msgstr "Çözünürlüğünüzü seçin veya ekran ve detay ayarlarınızı değiştirin..."
+
+msgid "DHSettingsPage.PanelHint<2>"
+msgstr "Ses deneyiminizi ayarlayın..."
+
+msgid "DHSettingsPage.PanelHint<3>"
+msgstr "Klavye ve fare kontrollerinizi yapılandırın..."
+
+msgid "DHSettingsPage.PanelHint<4>"
+msgstr "Çeşitli giriş seçeneklerini yapılandırın..."
+
+msgid "DHSettingsPage.PanelHint<5>"
+msgstr "Oyun arayüzünüzü özelleştirin..."
+
+msgid "DHSettingsPage.SettingHeader.Caption"
+msgstr "Ayarlar"
+
+msgid "DHSettings_Footer.BackB.Caption"
+msgstr "Geri"
+
+msgid "DHSettings_Footer.DefaultB.Caption"
+msgstr "Varsayılanlar"
+
+msgid "DHSituationMapGUIPage.EnableMouseControlPrompt"
+msgstr "Fareyi etkinleştirmek için [%JUMP%] tuşuna basın."
+
+msgid "DHTab_AudioSettings.AudioBK1.Caption"
+msgstr "Ses Sistemi"
+
+msgid "DHTab_AudioSettings.AudioBK3.Caption"
+msgstr "Sesli Sohbet"
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Caption"
+msgstr "Maksimum Ses Kanalları"
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Hint"
+msgstr "Oyunun aynı anda kullanabileceği ses kanalı sayısı"
+
+msgid "DHTab_AudioSettings.AudioDefaultDriver.Caption"
+msgstr "Sistem Sürücüsü"
+
+msgid "DHTab_AudioSettings.AudioEffectsVolumeSlider.Caption"
+msgstr "Efekt Sesi"
+
+msgid "DHTab_AudioSettings.AudioLowDetail.Caption"
+msgstr "Düşük Ses Detayı"
+
+msgid "DHTab_AudioSettings.AudioMessageBeep.Caption"
+msgstr "Mesaj Bip Sesi"
+
+msgid "DHTab_AudioSettings.AudioMode.Caption"
+msgstr "Ses Modu"
+
+msgid "DHTab_AudioSettings.AudioMusicVolume.Caption"
+msgstr "Müzik Sesi"
+
+msgid "DHTab_AudioSettings.AudioPlayVoices.Caption"
+msgstr "Sesli Mesajları Çal"
