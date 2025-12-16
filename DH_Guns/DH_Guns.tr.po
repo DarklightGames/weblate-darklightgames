@@ -1,2 +1,453 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-12-16 23:11+0000\n"
+"Last-Translator: Çağan Berk <cagandem@gmail.com>\n"
+"Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_guns/tr/>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "DH_17PounderGun.VehicleNameString"
+msgstr "17 Pounder Tanksavar"
+
+msgid "DH_17PounderGunCannon.nProjectileDescriptions<0>"
+msgstr "Mk.IV APC"
+
+msgid "DH_17PounderGunCannon.nProjectileDescriptions<1>"
+msgstr "Mk.I HE-T"
+
+msgid "DH_45mmM1937Gun.VehicleNameString"
+msgstr "45mm 53-K (1937) Tanksavar"
+
+msgid "DH_45mmM1937GunCannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_45mmM1937GunCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<0>"
+msgstr "BR-240"
+
+msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<1>"
+msgstr "O-240"
+
+msgid "DH_45mmM1942Gun.VehicleNameString"
+msgstr "45mm M-42 Tanksavar"
+
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<2>"
+msgstr "APCR"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions<0>"
+msgstr "BR-240"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions<1>"
+msgstr "O-240"
+
+msgid "DH_45mmM1942GunCannon.nProjectileDescriptions<2>"
+msgstr "BR-240P"
+
+msgid "DH_6PounderGun.VehicleNameString"
+msgstr "6 Pounder Mk.IV Tanksavar"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions<1>"
+msgstr "APDS"
+
+msgid "DH_6PounderGunCannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_6PounderGunCannon.nProjectileDescriptions<0>"
+msgstr "Mk.XT APC"
+
+msgid "DH_6PounderGunCannon.nProjectileDescriptions<1>"
+msgstr "Mk.I APDS"
+
+msgid "DH_6PounderGunCannon.nProjectileDescriptions<2>"
+msgstr "Mk.X HE-T"
+
+msgid "DH_AT57Cannon.nProjectileDescriptions<0>"
+msgstr "M86 APC"
+
+msgid "DH_AT57Cannon.nProjectileDescriptions<1>"
+msgstr "M303 HE-T"
+
+msgid "DH_AT57Gun.VehicleNameString"
+msgstr "57mm M1 Tanksavar"
+
+msgid "DH_BM36Mortar.VehicleNameString"
+msgstr "82-BM-36 Havan Topu"
+
+msgid "DH_BM36MortarCannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_BM36MortarCannon.ProjectileDescriptions<1>"
+msgstr "Sis Mermisi"
+
+msgid "DH_BM36MortarCannon.nProjectileDescriptions<0>"
+msgstr "O-832"
+
+msgid "DH_BM36MortarCannon.nProjectileDescriptions<1>"
+msgstr "D-832"
+
+msgid "DH_Bofors40mmCannon.ProjectileDescriptions<0>"
+msgstr "HE-T"
+
+msgid "DH_Bofors40mmCannon.ProjectileDescriptions<1>"
+msgstr "AP"
+
+msgid "DH_Bofors40mmCannon.nProjectileDescriptions<0>"
+msgstr "Mk.II HE-T"
+
+msgid "DH_Bofors40mmCannon.nProjectileDescriptions<1>"
+msgstr "M81A1 AP"
+
+msgid "DH_Bofors40mmGun.VehicleNameString"
+msgstr "Bofors 40mm Top"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<0>"
+msgstr "AP"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_Cannone4732Cannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<0>"
+msgstr "Granata Perforante da 47"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<1>"
+msgstr "Granata da 47"
+
+msgid "DH_Cannone4732Cannon.nProjectileDescriptions<2>"
+msgstr "Effetto Pronto da 47"
+
+msgid "DH_Cannone4732Gun.VehicleNameString"
+msgstr "Cannone da 47/32"
+
+msgid "DH_Fiat1435Gun.VehicleNameString"
+msgstr "Fiat-Revelli 14/35 Makineli Tüfek"
+
+msgid "DH_Fiat1435Gun_AC.VehicleNameString"
+msgstr "Fiat mod. 35 Makineli Tüfek"
+
+msgid "DH_Fiat1435Gun_WC.VehicleNameString"
+msgstr "Fiat mod. 14 Makineli Tüfek"
+
+msgid "DH_Flak38Gun.VehicleNameString"
+msgstr "2,0cm Flak 38"
+
+msgid "DH_Flak88Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Flak88Cannon.nProjectileDescriptions<1>"
+msgstr "Schw.Sprgr.Patr."
+
+msgid "DH_Flak88Gun.VehicleNameString"
+msgstr "8,8cm Flak 36"
+
+msgid "DH_Flakvierling38Gun.VehicleNameString"
+msgstr "2,0cm Flakvierling 38"
+
+msgid "DH_Granatwerfer34Cannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_Granatwerfer34Cannon.ProjectileDescriptions<1>"
+msgstr "Sis Mermisi"
+
+msgid "DH_Granatwerfer34Cannon.nProjectileDescriptions<0>"
+msgstr "Wgr. 38"
+
+msgid "DH_Granatwerfer34Cannon.nProjectileDescriptions<1>"
+msgstr "Wgr. 38 Nb."
+
+msgid "DH_Granatwerfer34Mortar.VehicleNameString"
+msgstr "Granatwerfer 34"
+
+msgid "DH_LeIG18Cannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_LeIG18Cannon.ProjectileDescriptions<1>"
+msgstr "HEAT"
+
+msgid "DH_LeIG18Cannon.nProjectileDescriptions<0>"
+msgstr "Igr.38 Sprgr"
+
+msgid "DH_LeIG18Cannon.nProjectileDescriptions<1>"
+msgstr "Igr.38 HL/A"
+
+msgid "DH_LeIG18Gun.VehicleNameString"
+msgstr "7,5cm le.IG 18"
+
+msgid "DH_M116Cannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_M116Cannon.ProjectileDescriptions<1>"
+msgstr "HEAT"
+
+msgid "DH_M116Cannon.nProjectileDescriptions<0>"
+msgstr "HE M48"
+
+msgid "DH_M116Cannon.nProjectileDescriptions<1>"
+msgstr "HEAT M66"
+
+msgid "DH_M116Gun.VehicleNameString"
+msgstr "75mm Obüs Topu M1"
+
+msgid "DH_M1919A4Gun.VehicleNameString"
+msgstr "M1919A4 Browning Makineli Tüfek"
+
+msgid "DH_M1927Cannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_M1927Cannon.ProjectileDescriptions<1>"
+msgstr "HEAT"
+
+msgid "DH_M1927Cannon.nProjectileDescriptions<0>"
+msgstr "OF-350"
+
+msgid "DH_M1927Cannon.nProjectileDescriptions<1>"
+msgstr "BP-350M"
+
+msgid "DH_M1927Gun.VehicleNameString"
+msgstr "76 mm Destek Topu M1927"
+
+msgid "DH_M1Mortar.VehicleNameString"
+msgstr "M1 Havan Topu"
+
+msgid "DH_M1MortarCannon.nProjectileDescriptions<0>"
+msgstr "M34A1 HE"
+
+msgid "DH_M1MortarCannon.nProjectileDescriptions<1>"
+msgstr "M56 WP"
+
+msgid "DH_M1MortarCannon.nProjectileDescriptions<2>"
+msgstr "M56 HE"
+
+msgid "DH_M45QuadmountGun.VehicleNameString"
+msgstr "M45 Dört-Namlu"
+
+msgid "DH_M5Gun.VehicleNameString"
+msgstr "3-inç M5 Top"
+
+msgid "DH_M5GunCannon.nProjectileDescriptions<0>"
+msgstr "M62 APC"
+
+msgid "DH_M5GunCannon.nProjectileDescriptions<1>"
+msgstr "M42A1 HE-T"
+
+msgid "DH_ML3InchCannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_ML3InchCannon.ProjectileDescriptions<1>"
+msgstr "Sis Mermisi"
+
+msgid "DH_ML3InchCannon.nProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_ML3InchCannon.nProjectileDescriptions<1>"
+msgstr "Fosfor"
+
+msgid "DH_ML3InchMortar.VehicleNameString"
+msgstr "Ordnance ML 3-inç Havan Topu"
+
+msgid "DH_Model35Mortar.VehicleNameString"
+msgstr "81/14 mod. 35 Havan Topu"
+
+msgid "DH_Model35MortarCannon.ProjectileDescriptions<0>"
+msgstr "HE"
+
+msgid "DH_Model35MortarCannon.ProjectileDescriptions<1>"
+msgstr "Sis Mermisi"
+
+msgid "DH_Model35MortarCannon.ProjectileDescriptions<2>"
+msgstr "HE-L"
+
+msgid "DH_Model35MortarCannon.nProjectileDescriptions<0>"
+msgstr "Bomba g. a. da 81"
+
+msgid "DH_Model35MortarCannon.nProjectileDescriptions<1>"
+msgstr "Bomba Fumogena"
+
+msgid "DH_Model35MortarCannon.nProjectileDescriptions<2>"
+msgstr "Bomba gr. c. da 81"
+
+msgid "DH_Pak36ATGun.VehicleNameString"
+msgstr "3,7cm Pak 36"
+
+msgid "DH_Pak36Cannon.ProjectileDescriptions<0>"
+msgstr "AP-HE-T"
+
+msgid "DH_Pak36Cannon.ProjectileDescriptions<1>"
+msgstr "APCR-T"
+
+msgid "DH_Pak36Cannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_Pak36Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.36"
+
+msgid "DH_Pak36Cannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40"
+
+msgid "DH_Pak36Cannon.nProjectileDescriptions<2>"
+msgstr "StGr.41"
+
+msgid "DH_Pak38ATGun.VehicleNameString"
+msgstr "5,0cm Pak 38"
+
+msgid "DH_Pak38Cannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_Pak38Cannon.ProjectileDescriptions<1>"
+msgstr "APCR"
+
+msgid "DH_Pak38Cannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_Pak38Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Pak38Cannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40"
+
+msgid "DH_Pak38Cannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Patr.38"
+
+msgid "DH_Pak39Cannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_Pak39Cannon.ProjectileDescriptions<1>"
+msgstr "APCR"
+
+msgid "DH_Pak39Cannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_Pak39Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Pak39Cannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40"
+
+msgid "DH_Pak39Cannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Patr.38"
+
+msgid "DH_Pak39Gun.VehicleNameString"
+msgstr "5,0cm KwK 39"
+
+msgid "DH_Pak40ATGun.VehicleNameString"
+msgstr "7,5cm Pak 40"
+
+msgid "DH_Pak40Cannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_Pak40Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_Pak40Cannon.ProjectileDescriptions<2>"
+msgstr "HEAT"
+
+msgid "DH_Pak40Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39"
+
+msgid "DH_Pak40Cannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr.34"
+
+msgid "DH_Pak40Cannon.nProjectileDescriptions<2>"
+msgstr "Gr.38 Hl/B"
+
+msgid "DH_Pak43ATGun.VehicleNameString"
+msgstr "8,8cm Pak 43/41"
+
+msgid "DH_Pak43Cannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39/43"
+
+msgid "DH_Pak43Cannon.nProjectileDescriptions<1>"
+msgstr "Sprgr.Patr."
+
+msgid "DH_PantherturmCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DH_PantherturmCannon.ProjectileDescriptions<1>"
+msgstr "APCR"
+
+msgid "DH_PantherturmCannon.ProjectileDescriptions<2>"
+msgstr "HE"
+
+msgid "DH_PantherturmCannon.nProjectileDescriptions<0>"
+msgstr "PzGr.39/42"
+
+msgid "DH_PantherturmCannon.nProjectileDescriptions<1>"
+msgstr "PzGr.40/42"
+
+msgid "DH_PantherturmCannon.nProjectileDescriptions<2>"
+msgstr "Sprgr.Patr.42"
+
+msgid "DH_PantherturmGun.VehicleNameString"
+msgstr "Pantherturm"
+
+msgid "DH_ZiS2Cannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_ZiS2Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_ZiS2Cannon.ProjectileDescriptions<2>"
+msgstr "APCR"
+
+msgid "DH_ZiS2Cannon.nProjectileDescriptions<0>"
+msgstr "BR-271"
+
+msgid "DH_ZiS2Cannon.nProjectileDescriptions<1>"
+msgstr "O-271"
+
+msgid "DH_ZiS2Cannon.nProjectileDescriptions<2>"
+msgstr "BR-271P"
+
+msgid "DH_ZiS2Gun.VehicleNameString"
+msgstr "ZiS-2 57mm"
+
+msgid "DH_ZiS3Cannon.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_ZiS3Cannon.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_ZiS3Cannon.nProjectileDescriptions<0>"
+msgstr "BR-350B"
+
+msgid "DH_ZiS3Cannon.nProjectileDescriptions<1>"
+msgstr "OF-350"
+
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions<0>"
+msgstr "APBC"
+
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions<1>"
+msgstr "HE"
+
+msgid "DH_ZiS3CannonLate.ProjectileDescriptions<2>"
+msgstr "APCR"
+
+msgid "DH_ZiS3CannonLate.nProjectileDescriptions<0>"
+msgstr "BR-350B"
+
+msgid "DH_ZiS3CannonLate.nProjectileDescriptions<1>"
+msgstr "OF-350"
+
+msgid "DH_ZiS3CannonLate.nProjectileDescriptions<2>"
+msgstr "BR-350P"
+
+msgid "DH_ZiS3Gun.VehicleNameString"
+msgstr "ZiS-3 76mm"
