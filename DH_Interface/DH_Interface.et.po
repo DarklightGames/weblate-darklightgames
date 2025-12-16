@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-16 23:11+0000\n"
+"PO-Revision-Date: 2025-12-18 00:09+0000\n"
 "Last-Translator: Ahto Jõesalu <ahto.joesalu.a@gmail.com>\n"
 "Language-Team: Estonian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/et/>\n"
@@ -41,7 +41,7 @@ msgid "DHBrowser_OpenIP.IPDesc.Caption"
 msgstr "Sisesta Uus IP Aadress"
 
 msgid "DHBrowser_OpenIP.IpEntryBox.Caption"
-msgstr "IP Aadress "
+msgstr "IP Aadress: "
 
 #, fuzzy
 msgid "DHBrowser_OpenIP.OkButton.Caption"
@@ -262,3 +262,144 @@ msgstr "Kas te olete kindel, et soovite meeskonda vahetada?"
 
 msgid "DHDeployMenu.ReservedString"
 msgstr "Reserveeritud"
+
+msgid "DHBrowser_ServerListBox.RCMenu.ContextItems<8>"
+msgstr "Deaktiveeri Kõik Filtrid"
+
+msgid "DHDeployMenu.CantChangeTeamYetText"
+msgstr "Te peate ootama {s} enne kui saate meeskondi vahetada"
+
+msgid "DHDeployMenu.SurrenderConfirmNominationText"
+msgstr ""
+"See toiming alustab meeskonda valdava hääletuse. Hääletus algab kui {0}% on "
+"otsustanud taganeda."
+
+msgid "DHDeployMenu.SurrenderConfirmEndRoundText"
+msgstr "See lõpetab mängu koheselt vastas meeskonna kasuks."
+
+msgid "DHDeployMenu.MapButtonObject.Hint"
+msgstr "Kaart [F1]"
+
+msgid "DHDeployMenu.EquipmentButtonObject.Hint"
+msgstr "Varustus"
+
+msgid "DHDeployMenu.RetreatButtonObject.Caption"
+msgstr "Taganemine"
+
+msgid "DHDeployMenu.RoundTimeLabelObject.Hint"
+msgstr "Järeljäänud Aeg"
+
+msgid "DHDeployMenu.ServersButtonObject.Caption"
+msgstr "Serverid"
+
+msgid "DHDeployMenu.SettingsButtonObject.Caption"
+msgstr "Seaded"
+
+msgid "DHDeployMenu.SpectateButtonObject.Hint"
+msgstr "Vaatle"
+
+msgid "DHDeployMenu.SquadsButtonObject.Hint"
+msgstr "Rühmad [F1]"
+
+msgid "DHDeployMenu.SuicideButtonObject.Caption"
+msgstr "Enesetapp"
+
+msgid "DHDeployMenu.SupplyVehicleImageObject.Hint"
+msgstr "Ehitustarvete Sõiduk"
+
+msgid "DHDeployMenu.VehicleButtonObject.Hint"
+msgstr "Sõidukid"
+
+msgid "DHEditFavoritePage.UnknownText"
+msgstr "Tundmatu Server"
+
+msgid "DHEditFavoritePage.IpEntryBox.Caption"
+msgstr "IP Aadress: "
+
+msgid "DHFilterEdit.ComboOpts[0]"
+msgstr "Ei Loe"
+
+msgid "DHFilterEdit.ComboOpts[1]"
+msgstr "Peab Sees Olema"
+
+msgid "DHFilterEdit.ComboOpts[2]"
+msgstr "Peab Maas Olema"
+
+msgid "DHFilterEdit.MutOpts[0]"
+msgstr "Puuduvad Mutaatorid"
+
+msgid "DHFilterEdit.MutOpts[1]"
+msgstr "Mistahes Mutaator"
+
+msgid "DHFilterEdit.MutOpts[2]"
+msgstr "Kohandatud"
+
+msgid "DHFilterEdit.WindowName"
+msgstr "Muuda Filtrite Suvandeid..."
+
+msgid "DHFilterEdit.bCancel.Caption"
+msgstr "Tühista"
+
+msgid "DHFilterEdit.bOk.Caption"
+msgstr "Olgu"
+
+msgid "DHFilterEdit.cbMutators.Caption"
+msgstr "Mutaatorid:"
+
+msgid "DHFilterEdit.cbStats.Caption"
+msgstr "Statistika Serverid:"
+
+msgid "DHGUIDynArrayPage.LockedCancelButton.Caption"
+msgstr "Tühista"
+
+msgid "DHGUIDynArrayPage.LockedOKButton.Caption"
+msgstr "Olgu"
+
+msgid "DHFilterListPage.bOk.Caption"
+msgstr "Olgu"
+
+msgid "DHFilterListPage.bRemove.Caption"
+msgstr "Eemalda"
+
+msgid "DHFilterListPage.sbBackground.Caption"
+msgstr "Filtrid..."
+
+msgid "DHFilterListPage.bEdit.Caption"
+msgstr "Muuda"
+
+msgid "DHFilterEdit.sbOptions.Caption"
+msgstr "Suvandid..."
+
+msgid "DHFilterListPage.bCancel.Caption"
+msgstr "Tühista"
+
+msgid "DHFilterListPage.bCreate.Caption"
+msgstr "Loo"
+
+msgid "DHFilterEdit.ebName.Caption"
+msgstr "Filtri Nimi:"
+
+msgid "DHFilterEdit.sbMutators.Caption"
+msgstr "Kohandatud Mutaatori Konfiguratsioon"
+
+msgid "DHGUIMapComponent.SquadRallyPointDestroyText"
+msgstr "Eemalda Kogunemispunkt"
+
+#, fuzzy
+msgid "DHGUIMapComponent.SquadRallyPointSetAsSecondaryText"
+msgstr "Määra Tagavaraks"
+
+msgid "DHGUIMapComponent.RemoveText"
+msgstr "Eemalda {0}"
+
+msgid "DHFilterEdit.ckVACOnly.Caption"
+msgstr "Valve Anti-Cheat Protected Ainult"
+
+msgid "DHFilterEdit.ckEmpty.Caption"
+msgstr "Eemalda Tühjad Serverid"
+
+msgid "DHFilterEdit.ckFull.Caption"
+msgstr "Eemalda Täis Serverid"
+
+msgid "DHFilterEdit.ckPassworded.Caption"
+msgstr "Eemalda Salasõnaga Serverid"
