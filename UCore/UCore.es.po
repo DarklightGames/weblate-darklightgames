@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-13 18:52+0000\n"
+"PO-Revision-Date: 2025-12-16 23:11+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/ucore/es/>\n"
@@ -9,28 +9,28 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DateTime.DayOfWeekNames[0]"
-msgstr "Sunday"
+msgstr "Domingo"
 
 msgid "DateTime.DayOfWeekNames[1]"
-msgstr "Monday"
+msgstr "Lunes"
 
 msgid "DateTime.DayOfWeekNames[2]"
-msgstr "Tuesday"
+msgstr "Martes"
 
 msgid "DateTime.DayOfWeekNames[3]"
-msgstr "Wednesday"
+msgstr "Miercoles"
 
 msgid "DateTime.DayOfWeekNames[4]"
-msgstr "Thursday"
+msgstr "Jueves"
 
 msgid "DateTime.DayOfWeekNames[5]"
-msgstr "Friday"
+msgstr "Viernes"
 
 msgid "DateTime.DayOfWeekNames[6]"
-msgstr "Saturday"
+msgstr "Sabado"
 
 msgid "UUnits.UnrealAngleSymbol"
 msgstr "u"
