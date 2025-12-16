@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-13 17:03+0000\n"
+"PO-Revision-Date: 2025-12-16 19:00+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/engine/zh_Hans/>\n"
@@ -286,3 +286,72 @@ msgstr "小键盘减号"
 
 msgid "KeyNames.NumPadPeriod"
 msgstr "小键盘.键"
+
+msgid "KeyNames.GreySlash"
+msgstr "斜杠键"
+
+msgid "KeyNames.Pause"
+msgstr "暂停键"
+
+msgid "KeyNames.CapsLock"
+msgstr "大写键"
+
+msgid "KeyNames.Tab"
+msgstr "TAB键"
+
+msgid "KeyNames.Enter"
+msgstr "回车键"
+
+msgid "KeyNames.Shift"
+msgstr "SHIFT键"
+
+msgid "KeyNames.NumLock"
+msgstr "小键盘锁定键"
+
+msgid "KeyNames.Escape"
+msgstr "ESC键"
+
+msgid "Progress.CancelledConnect"
+msgstr "尝试连接已取消"
+
+msgid "Progress.RunningNet"
+msgstr "%s: %s (%i 玩家)"
+
+msgid "Progress.NetReceiving"
+msgstr "接收中 '%s': %i/%i"
+
+msgid "Progress.NetReceiveOk"
+msgstr "成功接收 '%s'"
+
+msgid "Progress.NetSend"
+msgstr "发送中 '%s'"
+
+msgid "Progress.NetSending"
+msgstr "发送中 '%s': %i/%i"
+
+msgid "Progress.Connecting"
+msgstr "连接中 (按下F10来取消)..."
+
+msgid "Progress.Listening"
+msgstr "正在监听客户端..."
+
+msgid "Progress.Loading"
+msgstr "加载中"
+
+msgid "Progress.Paused"
+msgstr "由 %s 暂停"
+
+msgid "Progress.ReceiveFile"
+msgstr "接收中 '%s' (按下F10 取消)"
+
+msgid "Progress.ReceiveOptionalFile"
+msgstr "正在接收可选文件'%s' (按下F10来跳过)"
+
+msgid "Progress.ReceiveSize"
+msgstr "大小 %iK, %3.1f%%已完成"
+
+msgid "Progress.ConnectingText"
+msgstr "连接中 (按下F10取消):"
+
+msgid "Progress.CorruptConnect"
+msgstr "游戏文件不兼容!"
