@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-12-16 23:11+0000\n"
-"Last-Translator: Bernard Flag <35berat51@gmail.com>\n"
+"Last-Translator: Çağan Berk <cagandem@gmail.com>\n"
 "Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_equipment/tr/>\n"
 "Language: tr\n"
@@ -55,3 +55,36 @@ msgstr "Telsiz"
 
 msgid "DHShovelItem.ItemName"
 msgstr "Kürek"
+
+msgid "DHWireCuttersItem.ItemName"
+msgstr "Demir Makası"
+
+msgid "DH_NebelGranate39Weapon.NativeItemName"
+msgstr "Nebelhandgranate 39"
+
+msgid "DH_NebelGranate39Weapon.ItemName"
+msgstr "NB 39 Sis Bombası"
+
+msgid "DH_OrangeSmokeWeapon.NativeItemName"
+msgstr "Turuncu İşaretleme Dumanı 160"
+
+msgid "DH_OrangeSmokeWeapon.ItemName"
+msgstr "Turuncu Sinyal Bombası 160"
+
+msgid "DH_ParachuteItem.ItemName"
+msgstr "Paraşüt"
+
+msgid "DH_ParachuteStaticLine.ItemName"
+msgstr "Kendinden-açılır Paraşüt"
+
+msgid "DH_RDG1SmokeGrenadeWeapon.NativeItemName"
+msgstr "RDG-1"
+
+msgid "DH_RDG1SmokeGrenadeWeapon.ItemName"
+msgstr "RDG-1 Sis Bombası"
+
+msgid "DH_RedSmokeWeapon.ItemName"
+msgstr "M16 Sinyal Bombası"
+
+msgid "DH_USSmokeGrenadeWeapon.ItemName"
+msgstr "M8 Sis Bombası"
