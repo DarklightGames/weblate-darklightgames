@@ -1,2 +1,42 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-12-16 23:11+0000\n"
+"Last-Translator: Çağan Berk <cagandem@gmail.com>\n"
+"Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_equipment/tr/>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "DHBinocularsItemItalian.ItemName"
+msgstr "7x50 Dürbün"
+
+msgid "DHBinocularsItemSoviet.ItemName"
+msgstr "BPP 6x30 Dürbün"
+
+msgid "DHBrokenBottleItem.ItemName"
+msgstr "Vino Rosso 'Bass-net' 2009 Vintage"
+
+msgid "DHShovelItem_German.NativeItemName"
+msgstr "Kürek"
+
+msgid "DHShovelItem_Italian.NativeItemName"
+msgstr "Kürek"
+
+msgid "DHShovelItem_Russian.NativeItemName"
+msgstr "Kürek"
+
+msgid "DHShovelWarningMessage.CannotBeCrawling"
+msgstr "Sürünürken kazamazsın."
+
+msgid "DHTrenchMaceItem.ItemName"
+msgstr "Siper Sopası"
+
+msgid "DHTrenchMaceItem_Bone.ItemName"
+msgstr "Kemik Sopa"
+
+msgid "DHTrenchMaceItem_Grenade.ItemName"
+msgstr "Siper Gürzü"
