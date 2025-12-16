@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-15 21:09+0000\n"
+"PO-Revision-Date: 2025-12-16 19:00+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_interface/zh_Hans/>\n"
@@ -136,3 +136,521 @@ msgstr "将{0}空降至标点{1}"
 
 msgid "DHContextMenu_SquadMembers.EntryTexts<11>"
 msgstr "将班组空投至小队长所在位置{1}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<12>"
+msgstr "{1} 将班组空降至标记位置"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<13>"
+msgstr "{1} 将未分配玩家空降至标记位置"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<14>"
+msgstr "{1} 将 {0} 升职为班长"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<15>"
+msgstr "{1} 将 {0} 踢出小队"
+
+msgid "DHCreditsPage.ProjectLeadsText"
+msgstr "项目负责人"
+
+msgid "DHCreditsPage.ProgrammersText"
+msgstr "程序员"
+
+msgid "DHCreditsPage.AnimatorsText"
+msgstr "动画师"
+
+msgid "DHCreditsPage.ModelersText"
+msgstr "建模师"
+
+msgid "DHCreditsPage.TextureArtistsText"
+msgstr "贴图师"
+
+msgid "DHCreditsPage.ArtistsText"
+msgstr "美术师"
+
+msgid "DHCreditsPage.LevelDesignersText"
+msgstr "关卡设计师"
+
+msgid "DHCreditsPage.SoundArtistsText"
+msgstr "音效师"
+
+msgid "DHCreditsPage.VoiceActorsText"
+msgstr "配音演员"
+
+msgid "DHCreditsPage.LocalizationTeamText"
+msgstr "本地化团队"
+
+msgid "DHCreditsPage.CommunityAdminsText"
+msgstr "社区管理员"
+
+msgid "DHCreditsPage.PastPatreonSupportersText"
+msgstr "往期赞助者"
+
+msgid "DHCreditsPage.OtherContributorsText"
+msgstr "其他贡献者"
+
+msgid "DHCreditsPage.SpecialThanksText"
+msgstr "特别感谢"
+
+msgid "DHCreditsPage.WindowName"
+msgstr "制作人员名单"
+
+msgid "DHCreditsPage.CloseButton.Caption"
+msgstr "关闭"
+
+msgid "DHDeployMenu.NoneText"
+msgstr "无"
+
+msgid "DHDeployMenu.SelectRoleText"
+msgstr "选择一个兵种"
+
+msgid "DHDeployMenu.SelectSpawnPointText"
+msgstr "选择一个重生点"
+
+msgid "DHDeployMenu.DeployInTimeText"
+msgstr "按继续键以部署({0})"
+
+msgid "DHDeployMenu.DeployNowText"
+msgstr "按继续键立即部署!"
+
+msgid "DHDeployMenu.ReservedString"
+msgstr "已预留"
+
+msgid "DHDeployMenu.ChangeTeamConfirmText"
+msgstr "确认要切换阵营吗? ({s} 秒内将无法再次切换)"
+
+msgid "DHDeployMenu.FreeChangeTeamConfirmText"
+msgstr "确定要切换阵营吗?"
+
+msgid "DHDeployMenu.CantChangeTeamYetText"
+msgstr "您需要等待 {s} 后才能切换阵营"
+
+msgid "DHDeployMenu.LockText"
+msgstr "锁定"
+
+msgid "DHDeployMenu.UnlockText"
+msgstr "解锁"
+
+msgid "DHDeployMenu.VehicleUnavailableString"
+msgstr "您选择的载具已不再可用."
+
+msgid "DHDeployMenu.LockedText"
+msgstr "锁定中"
+
+msgid "DHDeployMenu.BotsText"
+msgstr "机器人"
+
+msgid "DHDeployMenu.SquadOnlyText"
+msgstr "仅限班组"
+
+msgid "DHDeployMenu.SquadLeadershipOnlyText"
+msgstr "仅限班长"
+
+msgid "DHDeployMenu.RecommendJoiningSquadText"
+msgstr "强烈建议您在部署前加入班组!加入班组后您可选择更多兵种,并使您能更靠近前线部署."
+"||您希望现在自动加入一个班组吗?"
+
+msgid "DHDeployMenu.UnassignedPlayersCaptionText"
+msgstr "未分配"
+
+msgid "DHDeployMenu.NonSquadLeaderOnlyText"
+msgstr "仅限非班长"
+
+msgid "DHDeployMenu.RoleLockedText"
+msgstr "锁定中"
+
+msgid "DHDeployMenu.SurrenderConfirmBaseText"
+msgstr "您确定要投降吗?"
+
+msgid "DHDeployMenu.SurrenderConfirmNominationText"
+msgstr "此操作将发起全队投票.当{0}% 的队友选择撤退后,投票将正式开始."
+
+msgid "DHDeployMenu.SurrenderConfirmEndRoundText"
+msgstr "这将立即结束本场战局,并使对方阵营获胜."
+
+msgid "DHDeployMenu.SurrenderButtonText[0]"
+msgstr "撤退"
+
+msgid "DHDeployMenu.SurrenderButtonText[1]"
+msgstr "继续战斗"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<0>"
+msgstr "致命错误!"
+
+msgid "DHDeployMenu.SurrenderResponseMessages<1>"
+msgstr "你还没有选择一个阵营."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<2>"
+msgstr "本局还没开始."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<3>"
+msgstr "撤退投票已禁用."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<4>"
+msgstr "投票正在进行中."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<5>"
+msgstr "你已经撤退了."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<6>"
+msgstr "你的阵营此前已进行过撤退投票,请稍后再试."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<7>"
+msgstr "本局结束后您无法撤退."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<9>"
+msgstr "您目前无法撤退."
+
+msgid "DHDeployMenu.SurrenderResponseMessages<10>"
+msgstr "您无法在准备阶段撤退."
+
+msgid "DHDeployMenu.AlliesButtonObject.Hint"
+msgstr "加入盟军"
+
+msgid "DHDeployMenu.ArtilleryVehicleImageObject.Hint"
+msgstr "火炮载具"
+
+msgid "DHDeployMenu.AxisButtonObject.Hint"
+msgstr "加入轴心国"
+
+msgid "DHDeployMenu.ContinueButtonObject.Caption"
+msgstr "继续"
+
+msgid "DHDeployMenu.DisconnectButtonObject.Caption"
+msgstr "断开连接"
+
+msgid "DHDeployMenu.EquipmentButtonObject.Hint"
+msgstr "装备"
+
+msgid "DHDeployMenu.MapButtonObject.Hint"
+msgstr "地图 [F1]"
+
+msgid "DHDeployMenu.MapVoteButtonObject.Caption"
+msgstr "地图投票"
+
+msgid "DHDeployMenu.MaxVehiclesImageObject.Hint"
+msgstr "可用坦克"
+
+msgid "DHDeployMenu.RetreatButtonObject.Caption"
+msgstr "撤退"
+
+msgid "DHDeployMenu.RoundTimeLabelObject.Hint"
+msgstr "剩余时间"
+
+msgid "DHDeployMenu.ServersButtonObject.Caption"
+msgstr "服务器"
+
+msgid "DHDeployMenu.SettingsButtonObject.Caption"
+msgstr "设置"
+
+msgid "DHDeployMenu.SpawnVehicleImageObject.Hint"
+msgstr "载具重生点"
+
+msgid "DHDeployMenu.SpectateButtonObject.Hint"
+msgstr "观察"
+
+msgid "DHDeployMenu.SquadsButtonObject.Hint"
+msgstr "班组 [F1]"
+
+msgid "DHDeployMenu.SuicideButtonObject.Caption"
+msgstr "自杀"
+
+msgid "DHDeployMenu.SupplyVehicleImageObject.Hint"
+msgstr "物资运输车"
+
+msgid "DHDeployMenu.VehicleButtonObject.Hint"
+msgstr "载具"
+
+msgid "DHEditFavoritePage.UnknownText"
+msgstr "未知服务器"
+
+msgid "DHEditFavoritePage.IpEntryBox.Caption"
+msgstr "IP地址:· "
+
+msgid "DHFilterEdit.ComboOpts[0]"
+msgstr "无关紧要"
+
+msgid "DHFilterEdit.ComboOpts[1]"
+msgstr "必须开启"
+
+msgid "DHFilterEdit.ComboOpts[2]"
+msgstr "必须关闭"
+
+msgid "DHFilterEdit.MutOpts[0]"
+msgstr "无修改器"
+
+msgid "DHFilterEdit.MutOpts[1]"
+msgstr "所有修改器"
+
+msgid "DHFilterEdit.MutOpts[2]"
+msgstr "自定义"
+
+msgid "DHFilterEdit.WindowName"
+msgstr "编辑过滤规则..."
+
+msgid "DHFilterEdit.bCancel.Caption"
+msgstr "取消"
+
+msgid "DHFilterEdit.bOk.Caption"
+msgstr "完成"
+
+msgid "DHFilterEdit.cbMutators.Caption"
+msgstr "游戏修改器:"
+
+msgid "DHFilterEdit.cbStats.Caption"
+msgstr "服务器数据统计:"
+
+msgid "DHFilterEdit.ckBots.Caption"
+msgstr "无机器人"
+
+msgid "DHFilterEdit.ckEmpty.Caption"
+msgstr "无空服务器"
+
+msgid "DHFilterEdit.ckFull.Caption"
+msgstr "无满人服务器"
+
+msgid "DHFilterEdit.ckPassworded.Caption"
+msgstr "无密码服务器"
+
+msgid "DHFilterEdit.ckVACOnly.Caption"
+msgstr "仅限受VAC保护的服务器"
+
+msgid "DHFilterEdit.ebName.Caption"
+msgstr "过滤器名称:"
+
+msgid "DHFilterEdit.sbMutators.Caption"
+msgstr "自定义修改器配置"
+
+msgid "DHFilterEdit.sbOptions.Caption"
+msgstr "选项..."
+
+msgid "DHFilterListPage.bCancel.Caption"
+msgstr "取消"
+
+msgid "DHFilterListPage.bCreate.Caption"
+msgstr "创建"
+
+msgid "DHFilterListPage.bEdit.Caption"
+msgstr "编辑"
+
+msgid "DHFilterListPage.bOk.Caption"
+msgstr "完成"
+
+msgid "DHFilterListPage.bRemove.Caption"
+msgstr "移除"
+
+msgid "DHFilterListPage.sbBackground.Caption"
+msgstr "过滤器..."
+
+msgid "DHGUIDynArrayPage.LockedCancelButton.Caption"
+msgstr "取消"
+
+msgid "DHGUIDynArrayPage.LockedOKButton.Caption"
+msgstr "完成"
+
+msgid "DHGUIMapComponent.SquadRallyPointDestroyText"
+msgstr "摧毁集结点"
+
+msgid "DHGUIMapComponent.SquadRallyPointSetAsSecondaryText"
+msgstr "设为次要集结点"
+
+msgid "DHGUIMapComponent.RemoveText"
+msgstr "移除 {0}"
+
+msgid "DHGUIMapComponent.ActiveTargetSelectText"
+msgstr "设为主要目标"
+
+msgid "DHGUIMapComponent.ActiveTargetDeselectText"
+msgstr "取消选择主要目标"
+
+msgid "DHGUIMapComponent.AdminPlaceAlliedSpawnText"
+msgstr "管理员: 放置盟军重生点"
+
+msgid "DHGUIMapComponent.AdminPlaceAxisSpawnText"
+msgstr "管理员: 放置轴心国重生点"
+
+msgid "DHGUIMapComponent.AdminDestroyAlliedSpawnsText"
+msgstr "管理员: 摧毁盟军管理员放置重生点"
+
+msgid "DHGUIMapComponent.AdminDestroyAxisSpawnsText"
+msgstr "管理员: 摧毁轴心国管理员放置重生点"
+
+msgid "DHGUIMapComponent.AdminDestroySpawnText"
+msgstr "管理员: 摧毁重生点"
+
+msgid "DHGUIMapComponent.AdminTeleportText"
+msgstr "管理员: 传送至此"
+
+msgid "DHGUISquadComponent.CreateSquadButton.Caption"
+msgstr "创建班组"
+
+msgid "DHGUISquadComponent.JoinSquadButton.Caption"
+msgstr "加入班组"
+
+msgid "DHGUISquadComponent.LeaveSquadButton.Caption"
+msgstr "离开班组"
+
+msgid "DHGUISquadComponent.NoRallyPointsImage.Hint"
+msgstr "此班组近期未放置集结点,部署选择可能受限!"
+
+msgid "DHGUITeamSelection.SizeBonusText"
+msgstr "班组人数上限"
+
+msgid "DHGUITeamSelection.UnitsText"
+msgstr " · 名玩家"
+
+msgid "DHGUITeamSelection.AutoSelect.Caption"
+msgstr "自动选择"
+
+msgid "DHGUITeamSelection.Disconnect.Caption"
+msgstr "断开连接"
+
+msgid "DHGUITeamSelection.SettingsButtonObject.Caption"
+msgstr "设置"
+
+msgid "DHGUITeamSelection.Spectate.Caption"
+msgstr "观察"
+
+msgid "DHGUITeamSelection.TeamsCount.Caption"
+msgstr "? 名玩家"
+
+msgid "DHGUITeamSelection.TeamsCount2.Caption"
+msgstr "? 名玩家"
+
+msgid "DHGameFooterMP.GameBackButton.Caption"
+msgstr "返回"
+
+msgid "DHGameFooterSP.GameBackButton.Caption"
+msgstr "返回"
+
+msgid "DHGamePageMP.MPFooter.PrimaryCaption"
+msgstr "P2P连接"
+
+msgid "DHGamePageMP.MPFooter.SecondaryCaption"
+msgstr "专用"
+
+msgid "DHGamePageSP.NoBotsWarningText"
+msgstr "至暗时刻: 欧洲'44-'45 是一款纯多人对战游戏,因此练习模式不支持机器人."
+
+msgid "DHGamePageSP.PageCaption"
+msgstr "练习"
+
+msgid "DHGamePageSP.SPFooter.PrimaryCaption"
+msgstr "开始练习模式"
+
+msgid "DHGetDataMenu.CancelButton.Caption"
+msgstr "取消"
+
+msgid "DHGetDataMenu.CancelButton.Hint"
+msgstr "关闭此菜单,放弃更改."
+
+msgid "DHGetDataMenu.OkButton.Caption"
+msgstr "确认"
+
+msgid "DHIAMultiColumnRulesPanel.AdvancedButton.Caption"
+msgstr "查看高级选项"
+
+msgid "DHLearnToPlayFooter.GameBackButton.Caption"
+msgstr "返回"
+
+msgid "DHLearnToPlayPage.PanelCaption<0>"
+msgstr "视频指南"
+
+msgid "DHLearnToPlayPage.PanelHint<0>"
+msgstr "通过视频来了解游戏"
+
+msgid "DHLearnToPlayPage.LearnToPlayHeader.Caption"
+msgstr "学习游戏玩法"
+
+msgid "DHMOTDConfigPage.LockedCancelButton.Caption"
+msgstr "取消"
+
+msgid "DHMOTDConfigPage.LockedOKButton.Caption"
+msgstr "确认"
+
+msgid "DHMainMenu.SteamMustBeRunningText"
+msgstr "必须运行steam客户端并保持互联网连接才能进行多人游戏"
+
+msgid "DHMainMenu.MOTDErrorString"
+msgstr "错误:新闻源下载失败 ({0})"
+
+msgid "DHMainMenu.ControlsChangedMessage"
+msgstr "游戏已新增控制选项.因此,您之前设置的按键绑定可能已被更改.||您是否要重新检查控"
+"制设置?"
+
+msgid "DHMainMenu.BadConfigMessage"
+msgstr "您的配置文件存在问题,点击\"继续\"退出游戏并打开修复配置文件的指南."
+
+msgid "DHMainMenu.CreditsButton.Caption"
+msgstr "制作人员名单"
+
+msgid "DHMainMenu.DiscordButton.Hint"
+msgstr "加入我们的Discord社区!"
+
+msgid "DHMainMenu.FacebookButton.Hint"
+msgstr "在Facebook上关注我们!"
+
+msgid "DHMainMenu.GitHubButton.Hint"
+msgstr "加入我们的GitHub项目!"
+
+msgid "DHMainMenu.InstantActionButton.Caption"
+msgstr "练习"
+
+msgid "DHMainMenu.QuitButton.Caption"
+msgstr "退出"
+
+msgid "DHMainMenu.ServerButton.Caption"
+msgstr "服务器浏览器"
+
+msgid "DHMainMenu.SettingsButton.Caption"
+msgstr "设置"
+
+msgid "DHMainMenu.SteamCommunityButton.Hint"
+msgstr "加入我们的steam社区!"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<0>"
+msgstr "预定地图"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<1>"
+msgstr "投票数"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<2>"
+msgstr "地图规模"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<0>"
+msgstr "地图名称."
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<1>"
+msgstr "玩家对该地图的投票权重总和."
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<2>"
+msgstr "地图推荐玩家数量."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<0>"
+msgstr "地图名称"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<1>"
+msgstr "盟军国家"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<2>"
+msgstr "轴心国家"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<3>"
+msgstr "游戏类型"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<4>"
+msgstr "地图规模"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<0>"
+msgstr "地图名称."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<1>"
+msgstr "地图的盟军国家."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<2>"
+msgstr "地图的轴心国家."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<3>"
+msgstr "地图对应的模式或战斗类型."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<4>"
+msgstr "地图推荐玩家数量."
