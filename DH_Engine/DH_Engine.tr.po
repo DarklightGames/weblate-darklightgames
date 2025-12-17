@@ -1,2 +1,369 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-12-18 00:09+0000\n"
+"Last-Translator: Çağan Berk <cagandem@gmail.com>\n"
+"Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
+"darkesthour/dh_engine/tr/>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "DHATCannonMessage.GunIsRotating"
+msgstr "Top şuan hareket halinde"
+
+msgid "DHATCannonMessage.NotQualified"
+msgstr "Topu hareket ettirmek için kalifiye değilsin"
+
+msgid "DHATCannonMessage.VehicleIsEnemy"
+msgstr "Düşman topunu kullanamazsın"
+
+msgid "DHATCannonMessage.CannotEnter"
+msgstr "Halihazırda dolu"
+
+msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
+msgstr "Bitir"
+
+msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
+msgstr "Döndür"
+
+msgid "DHATGunTouchMessage.Controls<0>.Text"
+msgstr "Kullan"
+
+msgid "DHATGunTouchMessage.Controls<1>.Text"
+msgstr "Döndür"
+
+msgid "DHATLoadFailMessage.CantLoad"
+msgstr "{0} Mermi yüklenebilmesi için kurulu pozisyonda olmalı"
+
+msgid "DHATLoadMessage.LoadedGunner"
+msgstr "{0} Yükledin"
+
+msgid "DHATLoadMessage.BeenLoaded"
+msgstr "{0} Tarafından yüklendi"
+
+msgid "DHATLoadMessage.UnLoaded"
+msgstr "Roket mermisi çıkarıldı"
+
+msgid "DHAccessControl.IPBanned"
+msgstr "Bu sunucuya katılamazsın, yasaklandın."
+
+msgid "DHAccessControl.SessionBanned"
+msgstr "Bu sunucuya harita değiştirene kadar katılamazsın."
+
+msgid "DHAdminMessage.AlliedTeamNameGenitive"
+msgstr "Müttefik Kuvvetleri"
+
+msgid "DHAdminMessage.AxisTeamNameGenitive"
+msgstr "Mihver Kuvvetleri"
+
+msgid "DHAdminMessage.AdminLoggedInMessage"
+msgstr "{0} Sunucuya yönetici olarak giriş yaptı."
+
+msgid "DHAdminMessage.AdminLoggedOutMessage"
+msgstr "{0} Yönetici yetkilerinden feragat etti."
+
+msgid "DHAlliedAntiTankRoles.MyName"
+msgstr "Tanksavar Piyade"
+
+msgid "DHAlliedAssaultRoles.MyName"
+msgstr "Taarruz Piyadesi"
+
+msgid "DHAlliedAutoRifleRoles.MyName"
+msgstr "Hafif Makineli Tüfekçi"
+
+msgid "DHAlliedCorporalRoles.MyName"
+msgstr "Onbaşı"
+
+msgid "DHAlliedEngineerRoles.MyName"
+msgstr "Saha Mühendisi"
+
+msgid "DHAlliedMachineGunnerRoles.MyName"
+msgstr "Makineli Tüfekçi"
+
+msgid "DHAlliedMortarmanRoles.MyName"
+msgstr "Havan Operatörü"
+
+msgid "DHAlliedRadioOperatorRoles.MyName"
+msgstr "Telsiz Operatörü"
+
+msgid "DHAlliedRiflemanRoles.MyName"
+msgstr "Piyade"
+
+msgid "DHAlliedSergeantRoles.MyName"
+msgstr "Astsubay"
+
+msgid "DHAlliedSniperRoles.MyName"
+msgstr "Keskin Nişancı"
+
+msgid "DHAlliedTankCrewmanRoles.MyName"
+msgstr "Tank Mürettebatı"
+
+msgid "DHArtillery.MenuName"
+msgstr "Uzun Menzil Obüs"
+
+msgid "DHArtilleryMessage.RequestText"
+msgstr "{name} Talep ediliyor."
+
+msgid "DHArtilleryMessage.ConfirmText"
+msgstr "{name} Onaylandı."
+
+msgid "DHArtilleryMessage.DenyText"
+msgstr "{name} Reddedildi."
+
+msgid "DHArtilleryMessage.TooSoonText"
+msgstr "{name} Halihazırda kullanımda. Birazdan tekrar dene."
+
+msgid "DHArtilleryMessage.ExhaustedText"
+msgstr "{name} Tükendi."
+
+msgid "DHArtilleryMessage.UnavailableText"
+msgstr "{name} şu anda mevcut değil."
+
+msgid "DHArtilleryMessage.BadLocationText"
+msgstr "{name} İçin geçersiz hedef bölgesi."
+
+msgid "DHArtilleryMessage.NoTargetText"
+msgstr "Hedef bölgesi yok."
+
+msgid "DHArtilleryMessage.NotQualifiedText"
+msgstr "{name} Talep etmek için yetersiz yetki."
+
+msgid "DHArtilleryMessage.CancelledText"
+msgstr "{name} İptal edildi."
+
+msgid "DHArtilleryMessage.ActiveTargetChosen"
+msgstr "Atış hedefi seçildi."
+
+msgid "DHArtillerySpottingScope.LeftString"
+msgstr "Sol"
+
+msgid "DHArtillerySpottingScope.RightString"
+msgstr "Sağ"
+
+msgid "DHArtillerySpottingScope.CorrectionString"
+msgstr "Doğrulama"
+
+msgid "DHArtillerySpottingScope.DistanceString"
+msgstr "Mesafe"
+
+msgid "DHArtillerySpottingScope.RangeHeaderString"
+msgstr "Menzil"
+
+msgid "DHArtillerySpottingScope.PitchHeaderString"
+msgstr "Eğim"
+
+msgid "DHArtillerySpottingScope.SquadText"
+msgstr "Manga"
+
+msgid "DHArtillerySpottingScope.SelectedTargetText"
+msgstr "Seçili Hedef"
+
+msgid "DHArtillerySpottingScope.MeasurementToolText"
+msgstr "Ölçüm Aygıtı"
+
+msgid "DHArtillerySpottingScope.TargetToggleHint"
+msgstr "Topçu hedeflerini değiştirmek için {0} bas"
+
+msgid "DHArtillerySpottingScope.SelectTargetHint"
+msgstr "Topçu hedefi seçmek için {0} bas"
+
+msgid "DHArtillerySpottingScope.NoTargetsHint"
+msgstr "Hedef mevcut değil"
+
+msgid "DHArtilleryTargetMessage.TargetInvalid"
+msgstr "Geçersiz topçu işareti"
+
+msgid "DHArtilleryTargetMessage.TargetMarkedHE"
+msgstr "{0} Topçu atışı talep ediyor"
+
+msgid "DHArtilleryTargetMessage.TargetMarkedSmoke"
+msgstr "{0} Sis atışı talep ediyor"
+
+msgid "DHArtilleryTargetMessage.CannotMarkTargetYet"
+msgstr "Henüz başka bir topçu işareti atamazsın"
+
+msgid "DHArtilleryTargetMessage.TooManyArtilleryTargets"
+msgstr "Halihazırda bir sürü topçu işareti mevcut"
+
+msgid "DHAxisAntiTankRoles.MyName"
+msgstr "Tanksavar Piyadesi"
+
+msgid "DHAxisAssaultRoles.MyName"
+msgstr "Taarruz Piyadesi"
+
+msgid "DHAxisCorporalRoles.MyName"
+msgstr "Onbaşı"
+
+msgid "DHAxisEngineerRoles.MyName"
+msgstr "Saha Mühendisi"
+
+msgid "DHAxisMachineGunnerRoles.MyName"
+msgstr "Makineli Tüfekçi"
+
+msgid "DHAxisMarksmanRoles.MyName"
+msgstr "Nişancı"
+
+msgid "DHAxisMortarmanRoles.MyName"
+msgstr "Havan Operatörü"
+
+msgid "DHAxisRadioOperatorRoles.MyName"
+msgstr "Telsiz Operatörü"
+
+msgid "DHAxisRiflemanRoles.MyName"
+msgstr "Piyade"
+
+msgid "DHAxisSergeantRoles.MyName"
+msgstr "Astsubay"
+
+msgid "DHAxisSniperRoles.MyName"
+msgstr "Keskin Nişancı"
+
+msgid "DHAxisTankCrewmanRoles.MyName"
+msgstr "Tank Mürettebatı"
+
+msgid "DHCommandMenu_ATGun.EnemyGunText"
+msgstr "Düşman topunu hareket ettiremezsin"
+
+msgid "DHCommandMenu_ATGun.CannotBeRotatedText"
+msgstr "Döndürülemez"
+
+msgid "DHCommandMenu_ATGun.OccupiedText"
+msgstr "Top halihazırda kullanımda"
+
+msgid "DHCommandMenu_ATGun.FatalText"
+msgstr "Döndürmek mümkün değil"
+
+msgid "DHCommandMenu_ATGun.CooldownText"
+msgstr "Bekle"
+
+msgid "DHCommandMenu_ATGun.BusyText"
+msgstr "Meşgul"
+
+msgid "DHCommandMenu_ATGun.Options<0>.ActionText"
+msgstr "Döndür"
+
+msgid "DHCommandMenu_FireSupport.UnavailableText"
+msgstr "Mevcut değil"
+
+msgid "DHCommandMenu_FireSupport.InvalidTargetText"
+msgstr "Geçersiz Hedef"
+
+msgid "DHCommandMenu_FireSupport.OffMapSupportExhaustedText"
+msgstr "Tükendi"
+
+msgid "DHCommandMenu_FireSupport.AvailableArtilleryText"
+msgstr "Topçu Desteği: {0}"
+
+msgid "DHCommandMenu_FireSupport.AvailableParadropsText"
+msgstr "Paraşütle atlayışlar: {0}"
+
+msgid "DHCommandMenu_FireSupport.AvailableAirstrikesText"
+msgstr "Hava saldırıları: {0}"
+
+msgid "DHCommandMenu_LoneWolf.AutoJoinSquadDisabledText"
+msgstr "Uygun manga yok"
+
+msgid "DHCommandMenu_LoneWolf.Options<0>.ActionText"
+msgstr "Hızlıca bir mangaya katıl"
+
+msgid "DHCommandMenu_LoneWolf.Options<1>.ActionText"
+msgstr "Manga Oluştur"
+
+msgid "DHCommandMenu_Patron.Options<0>.ActionText"
+msgstr "İstihkam"
+
+msgid "DHCommandMenu_Patron.Options<1>.ActionText"
+msgstr "İşaretleme"
+
+msgid "DHCommandMenu_Radio.UnavailableText"
+msgstr "Mevcut değil"
+
+msgid "DHCommandMenu_Radio.ExhaustedText"
+msgstr "Tükendi"
+
+msgid "DHCommandMenu_Radio.UnqualifiedText"
+msgstr "Yetersiz yetki"
+
+msgid "DHCommandMenu_Radio.OngoingText"
+msgstr "Devam ediyor"
+
+msgid "DHCommandMenu_Radio.AvailableText"
+msgstr "Mevcut"
+
+msgid "DHCommandMenu_Radio.CancelText"
+msgstr "Devam ediyor (iptal et)"
+
+msgid "DHCommandMenu_SquadAssistant.Options<0>.ActionText"
+msgstr "İstihkam"
+
+msgid "DHCommandMenu_SquadAssistant.Options<1>.ActionText"
+msgstr "İşaretleme"
+
+msgid "DHCommandMenu_SquadLeader.InEnemyTerritory"
+msgstr "Düşman bölgesinde"
+
+msgid "DHCommandMenu_SquadLeader.Options<0>.ActionText"
+msgstr "Rally Noktası Oluştur"
+
+msgid "DHCommandMenu_SquadLeader.Options<1>.ActionText"
+msgstr "Atış"
+
+msgid "DHCommandMenu_SquadLeader.Options<2>.ActionText"
+msgstr "İstihkam"
+
+msgid "DHCommandMenu_SquadLeader.Options<4>.ActionText"
+msgstr "İşaretleme"
+
+msgid "DHCommandMenu_SquadLeader.Options<5>.ActionText"
+msgstr "Hareket Et"
+
+msgid "DHCommandMenu_SquadManageMember.Options<0>.SubjectText"
+msgstr "Mangadan At"
+
+msgid "DHCommandMenu_SquadManageMember.Options<1>.SubjectText"
+msgstr "Manga Liderliğine Yükselt"
+
+msgid "DHCommandMenu_SquadManageMember.Options<2>.SubjectText"
+msgstr "Mangadan yasakla"
+
+msgid "DHCommandMenu_SquadManageMember.Options<3>.SubjectText"
+msgstr "Yardımcı Seç"
+
+msgid "DHCommandMenu_SquadManageMember.Options<4>.SubjectText"
+msgstr "Yardımcıyı Feshet"
+
+msgid "DHCommandMenu_SquadManageNonMember.AlreadyInASquadText"
+msgstr "Halihazırda bir mangaya dahil"
+
+msgid "DHCommandMenu_SquadManageNonMember.SquadIsFullText"
+msgstr "Manga Dolu"
+
+msgid "DHCommandMenu_SquadManageNonMember.Options<0>.ActionText"
+msgstr "Mangaya Davet Et"
+
+msgid "DHCommandMenu_SquadMenu.Options<0>.ActionText"
+msgstr "Mangadan Ayrıl"
+
+msgid "DHCommandPostMessage.ActivatedMessage"
+msgstr "{name} Kuruldu."
+
+msgid "DHCommandPostMessage.OverrunMessage"
+msgstr "{name} Düşman tarafından dağıtıldı."
+
+msgid "DHCommandPostMessage.DestroyedMessage"
+msgstr "{name} Yok edildi."
+
+msgid "DHCommandPostMessage.ConstructedMessage"
+msgstr "{name} inşaa edildi ve {seconds} saniye içerisinde aktif hale gelecek."
+
+msgid "DHCommandSayMessage.MessagePrefix"
+msgstr "[KOMUT]"
+
+msgid "DHCommunicationMessage.AllChatDisabledMessage"
+msgstr "Genel sohbet devre dışı bırakıldı."
+
+msgid "DHConstruction.ConstructionVerb"
+msgstr "İnşaa Et"
