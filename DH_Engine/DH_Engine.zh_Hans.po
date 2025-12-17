@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-16 19:00+0000\n"
+"PO-Revision-Date: 2025-12-18 00:09+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_engine/zh_Hans/>\n"
@@ -1120,3 +1120,18 @@ msgstr "电台当前正在使用中"
 
 msgid "DHArtillerySpottingScope.PitchHeaderString"
 msgstr "俯仰度"
+
+msgid "DHConstructionErrorMessage.ErrorMessages<27>"
+msgstr "此端口已被占用."
+
+msgid "DHConstructionGroup_Guns.GroupName"
+msgstr "火炮"
+
+msgid "DHConstructionSupplyAttachment.HumanReadableName"
+msgstr "补给储备"
+
+msgid "DHConstructionSupplyAttachment_Static_Main.HumanReadableName"
+msgstr "主物资储备"
+
+msgid "DHConstruction_Vehicle.ConstructionVerb"
+msgstr "放置"
