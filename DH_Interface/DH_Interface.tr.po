@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-16 23:11+0000\n"
+"PO-Revision-Date: 2025-12-18 00:09+0000\n"
 "Last-Translator: baba hayatta <ardkbr54@gmail.com>\n"
 "Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/tr/>\n"
@@ -921,3 +921,117 @@ msgstr "Müzik Sesi"
 
 msgid "DHTab_AudioSettings.AudioPlayVoices.Caption"
 msgstr "Sesli Mesajları Çal"
+
+msgid "DHTab_AudioSettings.AudioReverseStereo.Caption"
+msgstr "Stereo'yu Tersine Çevir"
+
+msgid "DHTab_AudioSettings.AutoJoinPublic.Caption"
+msgstr "Genel Kanala Otomatik Katıl"
+
+msgid "DHTab_AudioSettings.AutoSpeakCheckbox.Caption"
+msgstr "Aktif Kanalı Otomatik Seç"
+
+msgid "DHTab_AudioSettings.ChatPasswordEdit.Caption"
+msgstr "Sohbet Şifresi"
+
+msgid "DHTab_AudioSettings.Dampen.Caption"
+msgstr "VoIP kullanırken oyun sesini kısın"
+
+msgid "DHTab_AudioSettings.DefaultActiveChannelEditBox.Caption"
+msgstr "Varsayılan Kanal Adı"
+
+msgid "DHTab_AudioSettings.DisableGameMusic.Caption"
+msgstr "Oyun sırasında müziği devre dışı bırak"
+
+msgid "DHTab_AudioSettings.EnableVoiceChat.Caption"
+msgstr "Sesli Sohbeti etkinleştir"
+
+msgid "DHTab_AudioSettings.VoiceQuality.Caption"
+msgstr "İnternetin Kalitesi"
+
+msgid "DHTab_AudioSettings.VoiceQualityLAN.Caption"
+msgstr "LAN Kalitesi"
+
+msgid "DHTab_AudioSettings.VoiceVolume.Caption"
+msgstr "Ses Alma Sesi"
+
+msgid "DHTab_Controls.Section_Inventory"
+msgstr "Envanter"
+
+msgid "DHTab_Controls.Captions_Inventory[0]"
+msgstr "1. Envanter Yuvası"
+
+msgid "DHTab_Controls.Captions_Inventory[1]"
+msgstr "2. Envanter Yuvası"
+
+msgid "DHTab_Controls.Captions_Inventory[2]"
+msgstr "3. Envanter Yuvası"
+
+msgid "DHTab_Controls.Captions_Inventory[3]"
+msgstr "4. Envanter Yuvası"
+
+msgid "DHTab_Controls.Captions_Inventory[4]"
+msgstr "5. Envanter Yuvası"
+
+msgid "DHTab_Controls.Captions_Inventory[5]"
+msgstr "6. Envanter Yuvası"
+
+msgid "DHTab_Controls.Captions_Inventory[6]"
+msgstr "7. Envanter Yuvası"
+
+msgid "DHTab_Controls.Captions_Inventory[7]"
+msgstr "8. Envanter Yuvası"
+
+msgid "DHTab_Controls.Captions_Inventory[8]"
+msgstr "9. Envanter Yuvası"
+
+msgid "DHTab_Controls.Captions_Inventory[9]"
+msgstr "0. Envanter Yuvası"
+
+msgid "DHTab_Controls.ControlProfiles[0]"
+msgstr "Şimdiki"
+
+msgid "DHTab_Controls.ControlProfiles[1]"
+msgstr "Varsayılanlar (Sıfırla)"
+
+msgid "DHTab_Controls.ControlProfiles[2]"
+msgstr "RO Klasik"
+
+msgid "DHTab_Controls.ControlProfiles[3]"
+msgstr "Pro 104"
+
+msgid "DHTab_Controls.ControlProfiles[4]"
+msgstr "Pro 105"
+
+msgid "DHTab_Controls.ControlProfiles[5]"
+msgstr "XBox 360 Controller"
+
+#, fuzzy
+msgid "DHTab_Controls.captions_movement[12]"
+msgstr "Koşuyu Sabitle"
+
+msgid "DHTab_Controls.captions_weapons[9]"
+msgstr "MG Namlusunu Değiştirin"
+
+msgid "DHTab_Controls.captions_weapons[10]"
+msgstr "Ateşleme Modunu Değiştir"
+
+msgid "DHTab_Controls.captions_weapons[11]"
+msgstr ""
+"Makineli Tüfeği Konuşlandır / Süngüyü Tak / Araç Sis Bombası Fırlatıcısını "
+"Ateşle"
+
+msgid "DHTab_Controls.captions_weapons[12]"
+msgstr "Araç Sis Bombası Fırlatıcısının Menzilini/Dönme Ayarını Artırma"
+
+msgid "DHTab_Controls.captions_weapons[13]"
+msgstr "Araç Sis Bombası Fırlatıcısının Menzilini/Dönme Açısını Azaltma Ayarı"
+
+msgid "DHTab_Controls.captions_weapons[14]"
+msgstr "Seçili Topçu Hedefini Aç/Kapat"
+
+msgid "DHTab_Controls.captions_comm[3]"
+msgstr "Manga'ya Söyle"
+
+msgid "DHTab_Controls.captions_comm[4]"
+msgstr "Sesli Komut Menüsü"
