@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-16 23:11+0000\n"
-"Last-Translator: Bernard Flag <35berat51@gmail.com>\n"
+"PO-Revision-Date: 2025-12-18 00:09+0000\n"
+"Last-Translator: Çağan Berk <cagandem@gmail.com>\n"
 "Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/tr/>\n"
 "Language: tr\n"
@@ -27,7 +27,7 @@ msgid "DHCommandMenu_ConstructionGroup.MaxActiveText"
 msgstr "{0}/{1}Aktif"
 
 msgid "DHCommandMenu_ConstructionGroup.NoSquadMembersNearbyText"
-msgstr "Yakında tim üyesi yok"
+msgstr "Yakında manga üyesi yok"
 
 msgid "DHConstructionGroup_Ammunition.GroupName"
 msgstr "Mühimmat"
@@ -37,3 +37,114 @@ msgstr "Lojistik"
 
 msgid "DHConstructionGroup_Obstacles.GroupName"
 msgstr "İstihkam"
+
+msgid "DHCommandMenu_ConstructionGroup.NotAvailableText"
+msgstr "Tükendi"
+
+msgid "DHCommandMenu_ConstructionGroup.ExhaustedText"
+msgstr "Bitti"
+
+msgid "DHCommandMenu_ConstructionGroup.MoreText"
+msgstr "Daha fazla"
+
+msgid "DHConstructionControlsMessage.Controls<0>.Text"
+msgstr "Onayla"
+
+msgid "DHConstructionControlsMessage.Controls<1>.Text"
+msgstr "İptal"
+
+msgid "DHConstructionControlsMessage.Controls<2>.Text"
+msgstr "Döndür"
+
+msgid "DHConstructionControlsMessage.Controls<3>.Text"
+msgstr "Sıfırla"
+
+msgid "DHConstructionControlsMessage.Controls<4>.Text"
+msgstr "Varyant Değiştir"
+
+msgid "DHConstructionControlsMessage.Controls<5>.Text"
+msgstr "Kaplama Değiştir"
+
+msgid "DHConstructionGroup_Debug.GroupName"
+msgstr "Hata Ayıkla"
+
+msgid "DHConstructionGroup_Defenses.GroupName"
+msgstr "Savunma İstihkamı"
+
+msgid "DHConstructionResupplyPlayers.MenuName"
+msgstr "Mermi Kutusu (Piyade)"
+
+msgid "DHConstructionResupplyPlayers.MenuDescription"
+msgstr "Piyadeler için ikmal noktası sağlar."
+
+msgid "DHConstructionResupplyVehicles.MenuName"
+msgstr "Mermi Kutusu (Araçlar)"
+
+msgid "DHConstructionResupplyVehicles.MenuDescription"
+msgstr "Araçlar ve Kurulabilir Silahlara ikmal noktası sağlar."
+
+msgid "DHConstruction_ConcertinaWire.MenuName"
+msgstr "Dikenli Tel"
+
+msgid "DHConstruction_ConcertinaWire.MenuDescription"
+msgstr "Piyade ve hafif zırhlı araçlara karşı etkili."
+
+msgid "DHConstruction_DragonsTooth.MenuName"
+msgstr "Betonarme Duba"
+
+msgid "DHConstruction_DragonsTooth.MenuDescription"
+msgstr "Bütün araçlara karşı etkili."
+
+msgid "DHConstruction_Foxhole.MenuName"
+msgstr "Siper"
+
+msgid "DHConstruction_Foxhole.ConstructionVerb"
+msgstr "Kaz"
+
+msgid "DHConstruction_Hedgehog.MenuName"
+msgstr "Çek Kirpisi"
+
+msgid "DHConstruction_Hedgehog.MenuDescription"
+msgstr "Hafif ve orta sınıf zırhlılara karşı etkili."
+
+msgid "DHConstruction_InventorySpawner.ConstructionVerb"
+msgstr "Yerleştir"
+
+msgid "DHConstruction_PlatoonHQ.MenuName"
+msgstr "Karargah"
+
+msgid "DHConstruction_PlatoonHQ.MenuDescription"
+msgstr "Dost birliklere konuşlanma noktası sağlar."
+
+msgid "DHConstruction_Resupply.ConstructionVerb"
+msgstr "Yerleştir"
+
+msgid "DHConstruction_Sandbags_Bunker.MenuName"
+msgstr "Kum Torbaları (Sığınak)"
+
+msgid "DHConstruction_Sandbags_Crescent.MenuName"
+msgstr "Kum Torbaları (Hilal)"
+
+msgid "DHConstruction_Sandbags_Line.MenuName"
+msgstr "Kum Torbaları (Tek Hat)"
+
+msgid "DHConstruction_Sandbags_MortarPit.MenuName"
+msgstr "Kum Torbaları (Havan Pozisyonu)"
+
+msgid "DHConstruction_SupplyCache.MenuName"
+msgstr "İkmal Kaynağı"
+
+msgid "DHConstruction_SupplyCache.MenuDescription"
+msgstr "Zaman içerisinde ikmal üretir ve muhafaza eder."
+
+msgid "DHConstruction_SupplyCache.ConstructionVerb"
+msgstr "Yerleştir"
+
+msgid "DHConstruction_VehiclePool.MenuName"
+msgstr "Araç Çadırı"
+
+msgid "DHConstruction_VehiclePool.MenuDescription"
+msgstr "Dost araçlara konuşlanma noktası sağlar."
+
+msgid "DHConstruction_Watchtower.MenuName"
+msgstr "Gözlem kulesi"
