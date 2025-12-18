@@ -1,2 +1,576 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-12-18 23:08+0000\n"
+"Last-Translator: Çağan Berk <cagandem@gmail.com>\n"
+"Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
+"darkesthour/roengine/tr/>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "ROAmmoWeightMessage.HeavyMessage"
+msgstr "Yeni şarjör ağır"
+
+msgid "ROAmmoWeightMessage.LightMessage"
+msgstr "Yeni şarjör hafif"
+
+msgid "ROAmmoWeightMessage.VeryLightMessage"
+msgstr "Yeni şarjör çok hafif"
+
+msgid "ROBipodWarningMsg.DeployToFire"
+msgstr "Ateş edebilmek için silahını kurmalısın!"
+
+msgid "ROBipodWarningMsg.DeployToReload"
+msgstr "Şarjör değiştirebilmek için silahını kurmalısın!"
+
+msgid "ROGameMessage.YouHaveLoggedInAsAdminMsg"
+msgstr "Yönetici olarak giriş sağladın."
+
+msgid "ROGameMessage.NewPlayerMessage"
+msgstr "Yeni bir asker savaş alanına giriş sağladı."
+
+msgid "ROHud.ReinforcementText"
+msgstr "Takviye Kuvvet: "
+
+msgid "ROHud.TimeRemainingText"
+msgstr "Zaman Kaldı: "
+
+msgid "ROHud.ViewingText"
+msgstr "İzleniyor: "
+
+msgid "ROPlayer.SpectatingModeName[0]"
+msgstr "Kendini İzliyorsun"
+
+msgid "ROPlayer.SpectatingModeName[1]"
+msgstr "Serbest Mod"
+
+msgid "ROPlayer.SpectatingModeName[2]"
+msgstr "Oyuncular İzleniyor"
+
+msgid "ROPlayer.SpectatingModeName[3]"
+msgstr "Bakış açıları İzleniyor"
+
+msgid "RORoundOverMsg.AxisWins"
+msgstr "Mihver Kuvvetleri Muharebeyi Kazandı!"
+
+msgid "RORoundOverMsg.AlliesWins"
+msgstr "Müttefik Kuvvetleri Muharebeyi Kazandı!"
+
+msgid "RORoundOverMsg.NoDecisiveOutcome"
+msgstr "Kesin Zafer Yok"
+
+msgid "ROTeamGame.PropsDisplayText[0]"
+msgstr "Bot Becerisi"
+
+msgid "ROTeamGame.PropsDisplayText[1]"
+msgstr "Harita Döndürmeyi Kullan"
+
+msgid "ROTeamGame.PropsDisplayText[2]"
+msgstr "Oyun Hızı"
+
+msgid "ROTeamGame.PropsDisplayText[3]"
+msgstr "Azami İzleyiciler"
+
+msgid "ROTeamGame.PropsDisplayText[4]"
+msgstr "Azami Oyuncular"
+
+msgid "ROTeamGame.PropsDisplayText[5]"
+msgstr "Zaman Sınırı"
+
+msgid "ROTeamGame.PropsDisplayText[6]"
+msgstr "Arkadan Görünüme İzin Ver"
+
+msgid "ROTeamGame.PropsDisplayText[7]"
+msgstr "Sadece 1. Derece Bakış İzleyiş"
+
+msgid "ROTeamGame.PropsDisplayText[8]"
+msgstr "3. Şahıs İzlemeyi Kitle"
+
+msgid "ROTeamGame.PropsDisplayText[9]"
+msgstr "Bakış Açısı Görünüme İzin Ver"
+
+msgid "ROTeamGame.PropsDisplayText[10]"
+msgstr "Serbest Mod İzlemeye İzin Ver"
+
+msgid "ROTeamGame.PropsDisplayText[11]"
+msgstr "Ölü İzlemesine İzin Ver"
+
+msgid "ROTeamGame.PropsDisplayText[12]"
+msgstr "Yönetici Durdurmasına İzin Ver"
+
+msgid "ROTeamGame.PropsDisplayText[13]"
+msgstr "Asgari Oyuncular"
+
+msgid "ROTeamGame.PropsDisplayText[14]"
+msgstr "Bot Modu"
+
+msgid "ROTeamGame.PropsDisplayText[15]"
+msgstr "Oyun Sonunda Gecikme"
+
+msgid "ROTeamGame.PropsDisplayText[16]"
+msgstr "Beceriyi Ayarla"
+
+msgid "ROTeamGame.PropsDisplayText[17]"
+msgstr "Kazanma Sınırı"
+
+msgid "ROTeamGame.PropsDisplayText[18]"
+msgstr "Tur Sınırı"
+
+msgid "ROTeamGame.PropsDisplayText[19]"
+msgstr "Hazırlık Süresi"
+
+msgid "ROTeamGame.PropsDisplayText[20]"
+msgstr "Net Bekleme"
+
+msgid "ROTeamGame.PropsDisplayText[21]"
+msgstr "Asgari Net Oyuncu"
+
+msgid "ROTeamGame.PropsDisplayText[22]"
+msgstr "Oyuncular Hazır Olmalıdır"
+
+msgid "ROTeamGame.PropsDisplayText[23]"
+msgstr "Dost Ateşi Ölçüsü"
+
+msgid "ROTeamGame.PropsDisplayText[24]"
+msgstr "Topçu Dost Ateşi Ölçüsü"
+
+msgid "ROTeamGame.PropsDisplayText[25]"
+msgstr "Dost Ateşi Patlama Ölçüsü"
+
+msgid "ROTeamGame.PropsDisplayText[26]"
+msgstr "Botlar Takımları Dengeler"
+
+msgid "ROTeamGame.PropsDisplayText[27]"
+msgstr "Oyuncular Takımları Dengeler"
+
+msgid "ROTeamGame.PropsDisplayText[28]"
+msgstr "Karşı-Takım Özel Sohbeti"
+
+msgid "ROTeamGame.PropsDisplayText[29]"
+msgstr "Boşta Oyuncuları Atma Süresi"
+
+msgid "ROTeamGame.PropsDisplayText[30]"
+msgstr "Dost Ateşi Cezası"
+
+msgid "ROTeamGame.PropsDisplayText[31]"
+msgstr "Ölüm Mesajı Mod"
+
+msgid "ROTeamGame.PropsDisplayText[32]"
+msgstr "Ölünce Siyah Ekran"
+
+msgid "ROTeamGame.PropsDisplayText[33]"
+msgstr "Oyuncu Olmayanlarda Siyah Ekran"
+
+msgid "ROTeamGame.PropsDisplayText[34]"
+msgstr "Ölümde Takımları Dengele"
+
+msgid "ROTeamGame.PropsDisplayText[35]"
+msgstr "Azami Takım Farkı"
+
+msgid "ROTeamGame.PropsDisplayText[36]"
+msgstr "Maksimum Oyuncu Sayısını Geçersiz Kıl"
+
+msgid "ROTeamGame.PropsDisplayText[37]"
+msgstr "Takım Arkadaşını Affetmeyi Etkinleştir"
+
+msgid "ROTeamGame.PropsDisplayText[38]"
+msgstr "Dost Asker Öldürme Limiti"
+
+msgid "ROTeamGame.PropsDisplayText[39]"
+msgstr "Dost Ateşi Hasar Sınırı"
+
+msgid "ROTeamGame.PropsDisplayText[40]"
+msgstr "Skor Tablosunda Sunucu IP Adresini Göster"
+
+msgid "ROTeamGame.PropsDisplayText[41]"
+msgstr "Puan Tablosunda Süreyi Göster"
+
+msgid "ROVoicePack.SupportString[0]"
+msgstr "Yardıma ihtiyacımız var!"
+
+msgid "ROVoicePack.SupportString[2]"
+msgstr "Mühimmata ihtiyacım var!"
+
+msgid "ROVoicePack.SupportString[3]"
+msgstr "Buraya keskin nişancı gönderin!"
+
+msgid "ROVoicePack.SupportString[4]"
+msgstr "Makineli Tüfek atışına ihtiyacımız var!"
+
+msgid "ROVoicePack.SupportString[5]"
+msgstr "Tanksavar Tüfeğine ihtiyacımız var!"
+
+msgid "ROVoicePack.SupportString[6]"
+msgstr "Birisi şunu patlatsın!"
+
+msgid "ROVoicePack.SupportString[7]"
+msgstr "Tank'a ihtiyacımız var!"
+
+msgid "ROVoicePack.SupportString[8]"
+msgstr "Topçu atışı gönderin!"
+
+msgid "ROVoicePack.SupportString[9]"
+msgstr "Taşıta ihtiyacım var!"
+
+msgid "ROVoicePack.SupportAbbrev[0]"
+msgstr "Yardıma ihtiyaç var"
+
+msgid "ROVoicePack.SupportAbbrev[1]"
+msgstr "Burada yardıma ihtiyaç var..."
+
+msgid "ROVoicePack.SupportAbbrev[2]"
+msgstr "Mühimmat lazım"
+
+msgid "ROVoicePack.SupportAbbrev[3]"
+msgstr "Keskin nişancı talep et"
+
+msgid "ROVoicePack.SupportAbbrev[4]"
+msgstr "MT desteği gerek"
+
+msgid "ROVoicePack.SupportAbbrev[5]"
+msgstr "Tanksavar tüfeğine ihtiyaç var"
+
+msgid "ROVoicePack.SupportAbbrev[6]"
+msgstr "İmha talep et"
+
+msgid "ROVoicePack.SupportAbbrev[7]"
+msgstr "Tank talep et"
+
+msgid "ROVoicePack.SupportAbbrev[8]"
+msgstr "Topçu atışı talep et"
+
+msgid "ROVoicePack.SupportAbbrev[9]"
+msgstr "Taşıma talep et"
+
+msgid "ROVoicePack.SupportStringAxis[5]"
+msgstr "Tanksavar'a ihtiyacımız var!"
+
+msgid "ROVoicePack.SupportAbbrevAxis[5]"
+msgstr "Tanksavar lazım"
+
+msgid "ROVoicePack.EnemyString[0]"
+msgstr "Düşman Piyadesi!"
+
+msgid "ROVoicePack.EnemyString[1]"
+msgstr "MT Pozisyonu!"
+
+msgid "ROVoicePack.EnemyString[2]"
+msgstr "Keskin Nişancı!"
+
+msgid "ROVoicePack.EnemyString[3]"
+msgstr "Tahripçi!"
+
+msgid "ROVoicePack.EnemyString[4]"
+msgstr "Tanksavar piyadeleri!"
+
+msgid "ROVoicePack.EnemyString[5]"
+msgstr "Küçük Araç!"
+
+msgid "ROVoicePack.EnemyString[6]"
+msgstr "Tank! Tank!"
+
+msgid "ROVoicePack.EnemyString[7]"
+msgstr "Ağır Tank!"
+
+msgid "ROVoicePack.EnemyString[8]"
+msgstr "Top Atışı!"
+
+msgid "ROVoicePack.EnemyAbbrev[0]"
+msgstr "Piyade tespit edildi"
+
+msgid "ROVoicePack.EnemyAbbrev[1]"
+msgstr "MT Mevziisi"
+
+msgid "ROVoicePack.EnemyAbbrev[2]"
+msgstr "Keskin Nişancı"
+
+msgid "ROVoicePack.EnemyAbbrev[3]"
+msgstr "Tahripçi"
+
+msgid "ROVoicePack.EnemyAbbrev[4]"
+msgstr "Tanksavar piyadeleri"
+
+msgid "ROVoicePack.EnemyAbbrev[5]"
+msgstr "Küçük Araç"
+
+msgid "ROVoicePack.EnemyAbbrev[6]"
+msgstr "Tank"
+
+msgid "ROVoicePack.EnemyAbbrev[7]"
+msgstr "Ağır Tank"
+
+msgid "ROVoicePack.EnemyAbbrev[8]"
+msgstr "Topçu Atışı"
+
+msgid "ROVoicePack.EnemyStringAxis[3]"
+msgstr "Tahripçi!"
+
+msgid "ROVoicePack.EnemyStringAxis[6]"
+msgstr "Dikkat, Tank!"
+
+msgid "ROVoicePack.EnemyAbbrevAxis[3]"
+msgstr "Tahripçi"
+
+msgid "ROVoicePack.EnemyAbbrevAxis[6]"
+msgstr "Tank"
+
+msgid "ROVoicePack.AlertString[0]"
+msgstr "Bomba!"
+
+msgid "ROVoicePack.AlertString[1]"
+msgstr "Koş koş ilerle!"
+
+msgid "ROVoicePack.AlertString[2]"
+msgstr "Siper al!"
+
+msgid "ROVoicePack.AlertString[3]"
+msgstr "Dur!"
+
+msgid "ROVoicePack.AlertString[4]"
+msgstr "Beni takip et!"
+
+msgid "ROVoicePack.AlertString[5]"
+msgstr "Bomba çantası kuruldu!"
+
+msgid "ROVoicePack.AlertString[6]"
+msgstr "Koruma atışı!"
+
+msgid "ROVoicePack.AlertString[7]"
+msgstr "Dost ateşi!"
+
+msgid "ROVoicePack.AlertString[9]"
+msgstr "Geri çekil!"
+
+msgid "ROVoicePack.AlertAbbrev[0]"
+msgstr "Bomba"
+
+msgid "ROVoicePack.AlertAbbrev[1]"
+msgstr "Koş koş koş"
+
+msgid "ROVoicePack.AlertAbbrev[2]"
+msgstr "Siper al"
+
+msgid "ROVoicePack.AlertAbbrev[3]"
+msgstr "Dur"
+
+msgid "ROVoicePack.AlertAbbrev[4]"
+msgstr "Beni takip et"
+
+msgid "ROVoicePack.AlertAbbrev[5]"
+msgstr "Bomba çantası kuruldu"
+
+msgid "ROVoicePack.AlertAbbrev[6]"
+msgstr "Koruma atışı"
+
+msgid "ROVoicePack.AlertAbbrev[7]"
+msgstr "Dost ateşi"
+
+msgid "ROVoicePack.AlertAbbrev[8]"
+msgstr "Hedefte saldırı altındayız"
+
+msgid "ROVoicePack.AlertAbbrev[9]"
+msgstr "Geri çekil"
+
+msgid "ROVoicePack.VehicleDirectionString[1]"
+msgstr "İlerle"
+
+msgid "ROVoicePack.VehicleDirectionString[2]"
+msgstr "Dur"
+
+msgid "ROVoicePack.VehicleDirectionString[3]"
+msgstr "Geri git"
+
+msgid "ROVoicePack.VehicleDirectionString[4]"
+msgstr "Sola git"
+
+msgid "ROVoicePack.VehicleDirectionString[5]"
+msgstr "Sağ git"
+
+msgid "ROVoicePack.VehicleDirectionString[6]"
+msgstr "5 Metre ilerle!"
+
+msgid "ROVoicePack.VehicleDirectionString[7]"
+msgstr "5 Metre geri gel!"
+
+msgid "ROVoicePack.VehicleDirectionString[8]"
+msgstr "Azıcık sola dön!"
+
+msgid "ROVoicePack.VehicleDirectionString[9]"
+msgstr "Azıcık sağ dön!"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[0]"
+msgstr "Şuraya ilerle..."
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[1]"
+msgstr "İlerle"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[2]"
+msgstr "Dur"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[3]"
+msgstr "Geri gel"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[4]"
+msgstr "Sola git"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[5]"
+msgstr "Sağ git"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[6]"
+msgstr "5 Metre ilerle"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[7]"
+msgstr "5 Metre geri gel"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[8]"
+msgstr "Azıcık sola dön"
+
+msgid "ROVoicePack.VehicleDirectionAbbrev[9]"
+msgstr "Azıcık sağ dön"
+
+msgid "ROVoicePack.VehicleAlertString[0]"
+msgstr "Ön tarafta düşman!"
+
+msgid "ROVoicePack.VehicleAlertString[1]"
+msgstr "Düşman sol kanatta!"
+
+msgid "ROVoicePack.VehicleAlertString[2]"
+msgstr "Düşman sağ kanatta!"
+
+msgid "ROVoicePack.VehicleAlertString[3]"
+msgstr "Düşman arkamızda!"
+
+msgid "ROVoicePack.VehicleAlertString[4]"
+msgstr "Düşman piyadesi yakında!"
+
+msgid "ROVoicePack.VehicleAlertString[5]"
+msgstr "Emredersiniz!"
+
+msgid "ROVoicePack.VehicleAlertString[6]"
+msgstr "Hayır!"
+
+msgid "ROVoicePack.VehicleAlertString[7]"
+msgstr "YANIYORUZ!"
+
+msgid "ROVoicePack.VehicleAlertString[8]"
+msgstr "Dışarı atla!"
+
+msgid "ROVoicePack.VehicleAlertString[9]"
+msgstr "Kundak Hazır."
+
+msgid "ROVoicePack.VehicleAlertAbbrev[0]"
+msgstr "Düşman önde"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[1]"
+msgstr "Düşman sol kanatta"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[2]"
+msgstr "Düşman sağ kanatta"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[3]"
+msgstr "Düşman arkamızda"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[4]"
+msgstr "Düşman piyadesi yakında"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[5]"
+msgstr "Anlaşıldı"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[6]"
+msgstr "Olumsuz"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[7]"
+msgstr "YANIYORUZ"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[8]"
+msgstr "Dışarı atla"
+
+msgid "ROVoicePack.VehicleAlertAbbrev[9]"
+msgstr "Kundak Hazır"
+
+msgid "ROVoicePack.ExtraString[0]"
+msgstr "Seni öldüreceğim!"
+
+msgid "ROVoicePack.ExtraString[1]"
+msgstr "Geri çekilmek yok!"
+
+msgid "ROVoicePack.ExtraString[2]"
+msgstr "*Küfür*"
+
+msgid "ROVoicePack.ExtraAbbrev[0]"
+msgstr "Seni öldüreceğim"
+
+msgid "ROVoicePack.ExtraAbbrev[1]"
+msgstr "Geri çekilmek yok"
+
+msgid "ROVoicePack.ExtraAbbrev[2]"
+msgstr "Küfür"
+
+msgid "ROVoicePack.AckString[0]"
+msgstr "Emredersiniz"
+
+msgid "ROVoicePack.AckString[1]"
+msgstr "Hayır!"
+
+msgid "ROVoicePack.AckString[2]"
+msgstr "Teşekkürler"
+
+msgid "ROVoicePack.AckString[3]"
+msgstr "Affedersiniz"
+
+msgid "ROVoicePack.AckAbbrev[0]"
+msgstr "Emredersiniz"
+
+msgid "ROVoicePack.AckAbbrev[1]"
+msgstr "Olumsuz"
+
+msgid "ROVoicePack.AckAbbrev[2]"
+msgstr "Teşekkürler"
+
+msgid "ROVoicePack.AckAbbrev[3]"
+msgstr "Özür dilerim"
+
+msgid "ROVoicePack.OrderString[2]"
+msgstr "Bu mevziiyi savunun!"
+
+msgid "ROVoicePack.OrderString[3]"
+msgstr "Beni takip et!"
+
+msgid "ROVoicePack.OrderString[4]"
+msgstr "Hazır olduğunda saldır!"
+
+msgid "ROVoicePack.OrderString[5]"
+msgstr "Geri çekil!"
+
+msgid "ROVoicePack.OrderString[6]"
+msgstr "Hazır olduğunda Ateş et!"
+
+msgid "ROVoicePack.OrderString[7]"
+msgstr "Ateşi Kes!"
+
+msgid "ROVoicePack.OrderAbbrev[0]"
+msgstr "Saldır..."
+
+msgid "ROVoicePack.OrderAbbrev[1]"
+msgstr "Savunun..."
+
+msgid "ROVoicePack.OrderAbbrev[2]"
+msgstr "Konumunu Koru"
+
+msgid "ROVoicePack.OrderAbbrev[3]"
+msgstr "Beni takip et"
+
+msgid "ROVoicePack.OrderAbbrev[4]"
+msgstr "Hareket et"
+
+msgid "ROVoicePack.OrderAbbrev[5]"
+msgstr "Geri Çekil"
+
+msgid "ROVoicePack.OrderAbbrev[6]"
+msgstr "Çatış"
+
+msgid "ROVoicePack.OrderAbbrev[7]"
+msgstr "Ateşi Kes"
