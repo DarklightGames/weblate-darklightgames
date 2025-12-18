@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-18 00:09+0000\n"
+"PO-Revision-Date: 2025-12-18 23:08+0000\n"
 "Last-Translator: Çağan Berk <cagandem@gmail.com>\n"
 "Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/tr/>\n"
@@ -367,3 +367,36 @@ msgstr "Genel sohbet devre dışı bırakıldı."
 
 msgid "DHConstruction.ConstructionVerb"
 msgstr "İnşaa Et"
+
+msgid "DHAdminMessage.KickedFromSquadMessage"
+msgstr "Yönetici '{0}' '{2}' mangasından '{1}' attı."
+
+msgid "DHAdminMessage.PromotedToSquadLeaderMessage"
+msgstr "Yönetici '{0}' '{1}' '{2}' mangasına lider yaptı."
+
+msgid "DHAdminMessage.PlacedSpawnMessage"
+msgstr "Yönetici '{0}' {1} takımına doğma noktası yerleştirdi."
+
+msgid "DHAdminMessage.DestroyedSpawnMessage"
+msgstr ""
+"Yönetici'{0}' {1} takımına yönetici tarafından yerleştirilmiş doğma "
+"noktasını kaldırdı."
+
+msgid "DHAdminMessage.DestroyedAllSpawnsMessage"
+msgstr ""
+"Yönetici '{0}' {1} takımına yönetici tarafından yerleştirilmiş bütün doğma "
+"noktalarını kaldırdı."
+
+msgid "DHAdminMessage.AdminTeleportedMessage"
+msgstr "Yönetici '{0}' ışınlandı."
+
+msgid "DHChatRoomMessage.CannotJoinSquadChannelText"
+msgstr "`%title%` kanalına katılınmadı. Mangada olmalısın."
+
+msgid "DHChatRoomMessage.CannotJoinCommandChannelText"
+msgstr ""
+"`%title%` kanalına katılınmadı. Manga lideri ya da yardımcısı olmalısın, ve "
+"mangada en az 2 kişi bulunmalı."
+
+msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
+msgstr "Oyuncu yok "
