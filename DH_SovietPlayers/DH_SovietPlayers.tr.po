@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-16 23:11+0000\n"
-"Last-Translator: Bernard Flag <35berat51@gmail.com>\n"
+"PO-Revision-Date: 2025-12-18 23:08+0000\n"
+"Last-Translator: Çağan Berk <cagandem@gmail.com>\n"
 "Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_sovietplayers/tr/>\n"
 "Language: tr\n"
@@ -37,3 +37,9 @@ msgstr "Zombi"
 
 msgid "DHSOVCorporalRoles.MyName"
 msgstr "Tim Lideri"
+
+msgid "DH_SovietMadManRoles.AltName"
+msgstr "Çılgın"
+
+msgid "DH_SovietMadManRoles.PluralName"
+msgstr "Çılgın"
