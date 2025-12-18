@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-16 23:11+0000\n"
-"Last-Translator: Çağan Berk <cagandem@gmail.com>\n"
+"PO-Revision-Date: 2025-12-18 23:08+0000\n"
+"Last-Translator: Bernard Flag <35berat51@gmail.com>\n"
 "Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_weapons/tr/>\n"
 "Language: tr\n"
@@ -145,3 +145,333 @@ msgstr "Karabiner 98k (Kalkansız Arpacık)"
 
 msgid "DH_Kar98NoCoverWeapon.ItemName"
 msgstr "Kar 98k (Kalkansız Arpacık)"
+
+msgid "DH_Kar98ScopedWeapon.NativeItemName"
+msgstr "Karabiner 98k (ZF39)"
+
+msgid "DH_Kar98ScopedWeapon.ItemName"
+msgstr "Kar 98k (ZF39)"
+
+msgid "DH_Kar98ScopedZF41Weapon.ItemName"
+msgstr "Karabiner 98k (ZF41)"
+
+msgid "DH_Kar98Weapon.NativeItemName"
+msgstr "Karabiner 98k"
+
+msgid "DH_Kar98Weapon.ItemName"
+msgstr "Kar 98k"
+
+msgid "DH_KorovinWeapon.ItemName"
+msgstr "Korovin 1941"
+
+msgid "DH_Kz8cmGrW42Vehicle.VehicleNameString"
+msgstr "Kurz 8cm Granatwerfer 42"
+
+msgid "DH_Kz8cmGrW42Weapon.NativeItemName"
+msgstr "Kurz 8cm Granatwerfer 42"
+
+msgid "DH_Kz8cmGrW42Weapon.Description"
+msgstr "Kurz 8cm Granatwerfer 42"
+
+msgid "DH_Kz8cmGrW42Weapon.ItemName"
+msgstr "Kz 8cm GrW 42 Havan Topu"
+
+msgid "DH_LtypeGrenadeWeapon.ItemName"
+msgstr "O.T.O Tipo L Anti-Tank Bombası"
+
+msgid "DH_M1924Weapon.NativeItemName"
+msgstr "M1924 Puska"
+
+msgid "DH_M1924Weapon.ItemName"
+msgstr "M1924 Rifle"
+
+msgid "DH_M1928_20rndWeapon.ItemName"
+msgstr "M1928A1 Thompson (20'lik)"
+
+msgid "DH_M1928_30rndWeapon.ItemName"
+msgstr "M1928A1 Thompson (30'luk)"
+
+msgid "DH_M1928_50rndWeapon.ItemName"
+msgstr "M1928A1 Thompson (50'lik)"
+
+msgid "DH_M1A1CarbineWeapon.ItemName"
+msgstr "M1A1 Carbine"
+
+msgid "DH_M1CarbineWeapon.ItemName"
+msgstr "M1 Carbine"
+
+msgid "DH_M1GarandWeapon.ItemName"
+msgstr "M1 Garand"
+
+msgid "DH_M1GrenadeWeapon.ItemName"
+msgstr "Mk II El Bombası"
+
+msgid "DH_M1T17CarbineWeapon.ItemName"
+msgstr "M1/T17 Automatic Carbine"
+
+msgid "DH_M2MortarVehicle.VehicleNameString"
+msgstr "60mm Havan Topu M2"
+
+msgid "DH_M2MortarWeapon.ItemName"
+msgstr "60mm Havan Topu M2"
+
+msgid "DH_M34GrenadeWeapon.NativeItemName"
+msgstr "OUG vz.34 Darbe Tesirli El Bombası"
+
+msgid "DH_M34GrenadeWeapon.ItemName"
+msgstr "RG-34 El Bombası"
+
+msgid "DH_M38Weapon.ItemName"
+msgstr "Mosin M38"
+
+msgid "DH_M44Weapon.ItemName"
+msgstr "Mosin M44"
+
+msgid "DH_M712Weapon.ItemName"
+msgstr "Mauser M712 'Seri Atış'"
+
+msgid "DH_M9530Weapon.NativeItemName"
+msgstr "Gewehr M95/30"
+
+msgid "DH_M9530Weapon.ItemName"
+msgstr "Mannlicher M95/30"
+
+msgid "DH_M9531Weapon.NativeItemName"
+msgstr "31.M Puska"
+
+msgid "DH_M9531Weapon.ItemName"
+msgstr "31.M Rifle"
+
+msgid "DH_MAB38Weapon.NativeItemName"
+msgstr "Moschetto Automatico Beretta M1938A"
+
+msgid "DH_MAB38Weapon.ItemName"
+msgstr "MAB mod. 38-A"
+
+msgid "DH_MAB42Weapon.NativeItemName"
+msgstr "Moschetto Automatico Beretta M1938A/42"
+
+msgid "DH_MAB42Weapon.ItemName"
+msgstr "MAB mod. 38-A/42"
+
+msgid "DH_MG34Weapon.NativeItemName"
+msgstr "Maschinengewehr 34"
+
+msgid "DH_MG34Weapon.ItemName"
+msgstr "MG 34"
+
+msgid "DH_MG42Weapon.NativeItemName"
+msgstr "Maschinengewehr 42"
+
+msgid "DH_MG42Weapon.ItemName"
+msgstr "MG 42"
+
+msgid "DH_MKB42HWeapon.NativeItemName"
+msgstr "Maschinenkarabiner 42(H)"
+
+msgid "DH_MKB42HWeapon.ItemName"
+msgstr "Mkb 42(H)"
+
+msgid "DH_MN9130ScopedPEWeapon.ItemName"
+msgstr "Mosin M91/30 (PE)"
+
+msgid "DH_MN9130ScopedWeapon.ItemName"
+msgstr "Mosin M91/30 (PU)"
+
+msgid "DH_MN9130Weapon.ItemName"
+msgstr "Mosin M91/30"
+
+msgid "DH_MP3008Weapon.NativeItemName"
+msgstr "Maschinenpistole 3008"
+
+msgid "DH_MP3008Weapon.ItemName"
+msgstr "MP 3008"
+
+msgid "DH_MP38Weapon.NativeItemName"
+msgstr "Maschinenpistole 38"
+
+msgid "DH_MP38Weapon.ItemName"
+msgstr "MP 38"
+
+msgid "DH_MP40Ammo.ItemName"
+msgstr "32rd 9mm Şarjör"
+
+msgid "DH_MP40Weapon.NativeItemName"
+msgstr "Maschinenpistole 40"
+
+msgid "DH_MP40Weapon.ItemName"
+msgstr "MP 40"
+
+msgid "DH_MP41RWeapon.NativeItemName"
+msgstr "Maschinenpistole 41(r)"
+
+msgid "DH_MP41RWeapon.ItemName"
+msgstr "MP 41(r)"
+
+msgid "DH_MP41Weapon.NativeItemName"
+msgstr "Maschinenpistole 41"
+
+msgid "DH_MP41Weapon.ItemName"
+msgstr "MP 41"
+
+msgid "DH_MillsBombWeapon.ItemName"
+msgstr "Mills El Bombası"
+
+msgid "DH_Nagant1895BramitWeapon.ItemName"
+msgstr "Nagant M1895 (Susturuculu)"
+
+msgid "DH_Nagant1895Weapon.ItemName"
+msgstr "Nagant M1895"
+
+msgid "DH_P08LugerWeapon.ItemName"
+msgstr "Luger P08"
+
+msgid "DH_P38Weapon.ItemName"
+msgstr "Walther P38"
+
+msgid "DH_PIATWeapon.ItemName"
+msgstr "PIAT"
+
+msgid "DH_PPD40Weapon.ItemName"
+msgstr "PPD-40"
+
+msgid "DH_PPS43Ammo.ItemName"
+msgstr "PPS43 Şarjörlü"
+
+msgid "DH_PPS43Weapon.ItemName"
+msgstr "PPS-43"
+
+msgid "DH_PPSH41_StickWeapon.ItemName"
+msgstr "PPSh-41 (35'lik)"
+
+msgid "DH_PPSh41Ammo.ItemName"
+msgstr "71'lik 7.62mm Şarjör"
+
+msgid "DH_PPSh41Weapon.ItemName"
+msgstr "PPSh-41"
+
+msgid "DH_PTRDWeapon.NativeItemName"
+msgstr "PTRD-41"
+
+msgid "DH_PTRDWeapon.ItemName"
+msgstr "PTRD-41 Tanksavar Tüfeği"
+
+msgid "DH_PanzerFaustWeapon.NativeItemName"
+msgstr "Panzerfaust 60"
+
+msgid "DH_PanzerFaustWeapon.ItemName"
+msgstr "Panzerfaust 60"
+
+msgid "DH_PanzerschreckWeapon.NativeItemName"
+msgstr "Raketenpanzerbüchse 54 'Panzerschreck'"
+
+msgid "DH_PanzerschreckWeapon.ItemName"
+msgstr "RPzB 54 'Tanksavar'"
+
+msgid "DH_RPG43GrenadeWeapon.NativeItemName"
+msgstr "RPG-43"
+
+msgid "DH_RPG43GrenadeWeapon.ItemName"
+msgstr "RPG-43 Tanksavar Bombası"
+
+msgid "DH_SRCMMod35GrenadeWeapon.ItemName"
+msgstr "SRCM mod. 35 El Bombası"
+
+msgid "DH_SRCMMod35SmokeGrenadeWeapon.ItemName"
+msgstr "SRCM mod. 35 Sis Bombası"
+
+msgid "DH_STG44ScopedWeapon.NativeItemName"
+msgstr "Sturmgewehr 44 (ZF4)"
+
+msgid "DH_STG44ScopedWeapon.ItemName"
+msgstr "StG 44 (ZF4)"
+
+msgid "DH_STG44Weapon.NativeItemName"
+msgstr "Sturmgewehr 44"
+
+msgid "DH_STG44Weapon.ItemName"
+msgstr "StG 44"
+
+msgid "DH_SVT38Weapon.ItemName"
+msgstr "SVT-38"
+
+msgid "DH_SVT40ScopedWeapon.ItemName"
+msgstr "SVT-40 (PU)"
+
+msgid "DH_SVT40Weapon.ItemName"
+msgstr "SVT-40"
+
+msgid "DH_SatchelCharge10lb10sWeapon.ItemName"
+msgstr "3KG Patlayıcı Çanta"
+
+msgid "DH_SpringfieldA1Weapon.ItemName"
+msgstr "Springfield M1903A1"
+
+msgid "DH_SpringfieldScopedWeapon.ItemName"
+msgstr "M1903A4 Springfield (M73 Optik)"
+
+msgid "DH_StenMkIICWeapon.ItemName"
+msgstr "STEN Mk.II"
+
+msgid "DH_StenMkIIIWeapon.ItemName"
+msgstr "STEN Mk.III"
+
+msgid "DH_StenMkIIWeapon.ItemName"
+msgstr "STEN Mk.II"
+
+msgid "DH_StenMkVWeapon.ItemName"
+msgstr "STEN Mk.V"
+
+msgid "DH_StielGranateWeapon.NativeItemName"
+msgstr "Stielhandgranate 24"
+
+msgid "DH_StielGranateWeapon.ItemName"
+msgstr "StG 24 El Bombası"
+
+msgid "DH_TT33Weapon.ItemName"
+msgstr "TT-33"
+
+msgid "DH_ThompsonWeapon.ItemName"
+msgstr "M1A1 Thompson"
+
+msgid "DH_VG15Weapon.NativeItemName"
+msgstr "Volkssturmgewehr 1-5"
+
+msgid "DH_VG15Weapon.ItemName"
+msgstr "VG 1-5"
+
+msgid "DH_VK98Weapon.NativeItemName"
+msgstr "Volkssturmkarabiner 98"
+
+msgid "DH_VK98Weapon.ItemName"
+msgstr "VK 98"
+
+msgid "DH_ViSWeapon.ItemName"
+msgstr "ViS wz.35"
+
+msgid "DH_Vz24ScopedWeapon.NativeItemName"
+msgstr "ZB vz.24 Puska (IOR)"
+
+msgid "DH_Vz24ScopedWeapon.ItemName"
+msgstr "Vz.24 Rifle (IOR)"
+
+msgid "DH_Vz24Weapon.NativeItemName"
+msgstr "ZB vz.24 Puska"
+
+msgid "DH_Vz24Weapon.ItemName"
+msgstr "Vz.24 Tüfeği"
+
+msgid "DH_Winchester1897Weapon.ItemName"
+msgstr "Winchester Model 1897"
+
+msgid "DH_WitchEnder666Weapon.ItemName"
+msgstr "WitchEnder 666 'Satan's Bane'"
+
+msgid "DH_Wz35Weapon.ItemName"
+msgstr "Fucile Controcarro 35(P)"
+
+msgid "DH_ZB30Weapon.NativeItemName"
+msgstr "ZB vz.30 Kulomet"
+
+msgid "DH_ZB30Weapon.ItemName"
+msgstr "ZB-30 Makineli Tüfek"
