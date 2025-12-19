@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-18 23:08+0000\n"
-"Last-Translator: Çağan Berk <cagandem@gmail.com>\n"
+"PO-Revision-Date: 2025-12-20 18:23+0000\n"
+"Last-Translator: Bernard Flag <35berat51@gmail.com>\n"
 "Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/tr/>\n"
 "Language: tr\n"
@@ -400,3 +400,133 @@ msgstr ""
 
 msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
 msgstr "Oyuncu yok "
+
+msgid "DHConstructionErrorMessage.ErrorMessages<28>"
+msgstr "Yakinda tim arkadasi yok"
+
+msgid "DHGameMessage.VehicleDestroyedMessage"
+msgstr "{0} imha edildi."
+
+msgid "DHGameMessage.VehicleTeamKilledMessage"
+msgstr "{0} bir dostu öldürdü {1}."
+
+msgid "DHGameMessage.RoleLockedMessage"
+msgstr "{role} kilitlendi."
+
+msgid "DHGameMessage.RoleUnlockedMessage"
+msgstr "{role} kilidi açıldı."
+
+msgid "DHGameMessage.NeedMoreFriendliesToDeconstructHQMessage"
+msgstr "Komuta merkezini yıkmak için yakında takım arkadaşının olması lazım!"
+
+msgid "DHGameMessage.NewTeamMessageRussian"
+msgstr "{name} Müttefik kuvvetlere katıldı."
+
+msgid "DHGameMessage.NewTeamMessageGerman"
+msgstr "{name} Mihver kuvvetlerine katıldı."
+
+msgid "DHGameMessage.FFKillMessage"
+msgstr "{name} dost bir askeri öldürdü."
+
+msgid "DHGameMessage.RoleChangeMsg"
+msgstr "{role} olarak yeniden doğacaksın."
+
+msgid "DHGameMessage.HasForgivenMessage"
+msgstr "{victim} {killer}'i affetti."
+
+msgid "DHGameMessage.LeftMessage"
+msgstr "{name} muharebeyi terk etti."
+
+msgid "DHGameMessage.EnteredMessage"
+msgstr "{name} savaşa katıldı."
+
+msgid "DHGameMessage.GlobalNameChange"
+msgstr "{old_name} adını {new_name} olarak değiştirdi."
+
+msgid "DHGameMessage.VoteStarted"
+msgstr "{name} oylama başlattı."
+
+msgid "DHGameReplicationInfo.ForceScaleText"
+msgstr "Boyut"
+
+msgid "DHGameType_Armored_Advance.GameTypeName"
+msgstr "Zırhlı Savaşı"
+
+msgid "DHGameType_Advance.GameTypeName"
+msgstr "Muharebe"
+
+msgid "DHGameType_Defence.GameTypeName"
+msgstr "Savunma"
+
+msgid "DHHintManager.Hints[0].Title"
+msgstr "Darkest Hour'a Hoş Geldin !"
+
+msgid "DHHintManager.Hints[0].Text"
+msgstr ""
+"Bu bilgilendirici mesajlar zamanla karşına çıkacak. Bu mesajlara dikkat "
+"et,hayatta kalman bunlara bağlı olabilir! Mesajlar ayarlarda HUD menüsünden "
+"kapatılabilir."
+
+msgid "DHHintManager.Hints[1].Text"
+msgstr ""
+"Küçük engellerin üstünden atlayabilirsin! Atlamak için, herhangi ufak bir "
+"engelin önünde dur atlama sembolü çıkınca zıplama tuşuna bas."
+
+msgid "DHHintManager.Hints[2].Title"
+msgstr "Paraşütler"
+
+msgid "DHHintManager.Hints[2].Text"
+msgstr "Hareket tuşlarıyla paraşütün yönünü değiştirebilirsin!"
+
+msgid "DHHintManager.Hints[3].Title"
+msgstr "Renkli Sis Bombaları"
+
+msgid "DHHintManager.Hints[3].Text"
+msgstr ""
+"Renkli sis bombaları cephede dostlarınla iletişim kurmak için kullanılır. "
+"Takım arkadaşlarına hangi sis bombasının ne işe yaradağını söylediğinden "
+"emin ol."
+
+msgid "DHHintManager.Hints[6].Title"
+msgstr "Havan Topları"
+
+msgid "DHHintManager.Hints[6].Text"
+msgstr ""
+"Havan topu taşırken silah değiştiremezsin, depar atamazsın, yere yatamazsın "
+"ve atlayamazsın. Havan topunu kurmak için, yere doğru eğil ve %DEPLOY% "
+"tuşuna bas."
+
+msgid "DHHintManager.Hints[7].Text"
+msgstr ""
+"Havan topunun yatay yönünü değiştirmek için A ve D tuşlarını kullan. "
+"Yüksekliği arttırmak için S tuşunu kullan. Yüksekliği düşürmek için W tuşunu "
+"kullan. Sonraki mermi türünü seçmek için %SwitchFireMode% tuşuna bas. "
+"Ateşlemek için %Fire% tuşuna bas."
+
+msgid "DHHintManager.Hints[8].Text"
+msgstr ""
+"Manga liderleri haritada hedefler işaretleyebilir. Bir mermi işaretlenmiş "
+"bir hedefin yakınına düşerse merminin düştüğü yer haritanda işaretlenir. "
+"Nokta atışı yapmak için bu işaretleri kullan."
+
+msgid "DHHintManager.Hints[9].Text"
+msgstr ""
+"%Use% tuşuna basarak istedigin zaman havan topu kullanmayi birakabilirsin. "
+"Havan topunu biraktiginda ikmal bölgesinden veya takim arkadaslarindan "
+"muhimmat yenileyebilirsin."
+
+msgid "DHHintManager.Hints[10].Title"
+msgstr "Havan Topu Kaldırma"
+
+msgid "DHHintManager.Hints[10].Text"
+msgstr ""
+"Havan topunu kaldirmak icin %Deploy% tusuna bas. Havan topunu kaldirman "
+"nisangah ayarlarını sıfırlar."
+
+msgid "DHHintManager.Hints[12].Title"
+msgstr "Dürbün"
+
+msgid "DHHintManager.Hints[12].Text"
+msgstr ""
+"Dürbünle atış desteği için hedefler işaretleyebilirsin. Dürbününü "
+"%ROIRONSIGHTS% ile eline alırsın eline aldıktan sonra"
