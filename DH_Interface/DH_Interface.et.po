@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-18 00:09+0000\n"
+"PO-Revision-Date: 2025-12-20 18:23+0000\n"
 "Last-Translator: Ahto Jõesalu <ahto.joesalu.a@gmail.com>\n"
 "Language-Team: Estonian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/et/>\n"
@@ -26,7 +26,6 @@ msgstr "Menüü"
 msgid "DHBrowser_Footer.BrowserRefresh.Caption"
 msgstr "Värskenda"
 
-#, fuzzy
 msgid "DHBrowser_Footer.BrowserSpec.Caption"
 msgstr "Vaatle"
 
@@ -137,7 +136,7 @@ msgid "DHContextMenu_SquadMembers.EntryTexts<8>"
 msgstr "Avalda soovi liita rühmad"
 
 msgid "DHCreditsPage.ProjectLeadsText"
-msgstr "Projekti Juht"
+msgstr "Projektijuht"
 
 msgid "DHCreditsPage.ProgrammersText"
 msgstr "Programmeerijad"
@@ -206,7 +205,7 @@ msgid "DHDeployMenu.SurrenderButtonText[0]"
 msgstr "Taganeda"
 
 msgid "DHDeployMenu.SurrenderButtonText[1]"
-msgstr "Jätktata võitlust"
+msgstr "Jätkame võitlust"
 
 msgid "DHDeployMenu.AlliesButtonObject.Hint"
 msgstr "Liitu Liitlastega"
@@ -403,3 +402,148 @@ msgstr "Eemalda Täis Serverid"
 
 msgid "DHFilterEdit.ckPassworded.Caption"
 msgstr "Eemalda Salasõnaga Serverid"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<9>"
+msgstr "{1} Maandu langevarjuga {0} rühmajuhi juurde"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<10>"
+msgstr "{1} Maandu langevarjuga {0} markeri juurde"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<11>"
+msgstr "{1} Maanda langevarjuga rühm rühmajuhi juurde"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<12>"
+msgstr "{1} Maanda langevarjuga rühm markeri juurde"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<13>"
+msgstr "{1} Maanda langevarjuga tähistamata mängijad markeri juurde"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<14>"
+msgstr "{1} Ülenda {0} Rühumajuhiks"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<15>"
+msgstr "{1} Eemalda {0} rühmast"
+
+#, fuzzy
+msgid "DHDeployMenu.ChangeTeamConfirmText"
+msgstr ""
+"Kas te olete kindel, et soovite meeskondi vahetada? (Te ei saa uuesti "
+"meeskondi vahetada enne {s} sekundi möödumist)"
+
+msgid "DHDeployMenu.RoleLockedText"
+msgstr "LUKUSTATUD"
+
+msgid "DHDeployMenu.SquadOnlyText"
+msgstr "AINULT RÜHMAD"
+
+msgid "DHDeployMenu.SquadLeadershipOnlyText"
+msgstr "AINULT JUHID"
+
+msgid "DHDeployMenu.BotsText"
+msgstr "BOTID"
+
+msgid "DHDeployMenu.NonSquadLeaderOnlyText"
+msgstr "AINULT MITTEJUHID"
+
+#, fuzzy
+msgid "DHDeployMenu.RecommendJoiningSquadText"
+msgstr ""
+"ÜLIMAT SOOVITUSLIK on liituda RÜHMAGA enne lahinguga liitumist. Rühmaga "
+"ühinemine avab rohkem rolle ning lähedamaid elluärkamis positsioone.||Kas te "
+"soovite automaatselt rühmaga liituda?"
+
+msgid "DHDeployMenu.SelectSpawnPointText"
+msgstr "Valige elluärkamis punkt"
+
+msgid "DHDeployMenu.DeployInTimeText"
+msgstr "Vajutage Jätka, et ellu ärgata ({0})"
+
+msgid "DHDeployMenu.DeployNowText"
+msgstr "Vajutage Jätka, et nüüd ellu ärgata!"
+
+#, fuzzy
+msgid "DHDeployMenu.DisconnectButtonObject.Caption"
+msgstr "Lahku"
+
+msgid "DHDeployMenu.SpawnVehicleImageObject.Hint"
+msgstr "Elluärkamis Sõiduk"
+
+msgid "DHDeployMenu.MapVoteButtonObject.Caption"
+msgstr "Kaardi Hääletus"
+
+msgid "DHDeployMenu.MaxVehiclesImageObject.Hint"
+msgstr "Tankid on saadaval"
+
+msgid "DHFilterEdit.ckBots.Caption"
+msgstr "Eemalda Botid"
+
+msgid "DHGUIMapComponent.ActiveTargetSelectText"
+msgstr "Vali kui Aktiivse Sihtmärgina"
+
+msgid "DHGUIMapComponent.ActiveTargetDeselectText"
+msgstr "Eemalda kui Aktiivse Sihtmärgina"
+
+msgid "DHGUIMapComponent.AdminPlaceAlliedSpawnText"
+msgstr "ADMIN: Määra LIITLASTE ärkamispunkt"
+
+msgid "DHGUIMapComponent.AdminPlaceAxisSpawnText"
+msgstr "ADMIN: Määra TELJERIIKIDE ärkamispunkt"
+
+msgid "DHGUIMapComponent.AdminDestroyAlliedSpawnsText"
+msgstr "ADMIN: Eemalda LIITLASTE administraatori ärkamispunktid"
+
+msgid "DHGUIMapComponent.AdminDestroyAxisSpawnsText"
+msgstr "ADMIN: Eemalda TELJERIIKIDE administraatori ärkamispunktid"
+
+msgid "DHGUIMapComponent.AdminDestroySpawnText"
+msgstr "ADMIN: Eemalda ärkamispunkt"
+
+msgid "DHGUIMapComponent.AdminTeleportText"
+msgstr "ADMIN: Teleporteeri siia"
+
+msgid "DHGUISquadComponent.CreateSquadButton.Caption"
+msgstr "Loo Rühm"
+
+msgid "DHGUISquadComponent.JoinSquadButton.Caption"
+msgstr "Liitu Rühmaga"
+
+msgid "DHGUISquadComponent.LeaveSquadButton.Caption"
+msgstr "Lahku Rühmast"
+
+msgid "DHGUISquadComponent.NoRallyPointsImage.Hint"
+msgstr ""
+"Sel rühmal pole pikalt olnud kogunemispunkte. Elluärkamis valikud võivad "
+"olla piiratud!"
+
+msgid "DHGUITeamSelection.SizeBonusText"
+msgstr "armee suurus"
+
+msgid "DHGUITeamSelection.UnitsText"
+msgstr " mängijad"
+
+msgid "DHGUITeamSelection.AutoSelect.Caption"
+msgstr "Vali Automaatselt"
+
+msgid "DHGUITeamSelection.Disconnect.Caption"
+msgstr "Lahku"
+
+msgid "DHGUITeamSelection.SettingsButtonObject.Caption"
+msgstr "Seadmed"
+
+msgid "DHGUITeamSelection.Spectate.Caption"
+msgstr "Vaatle"
+
+msgid "DHGUITeamSelection.TeamsCount.Caption"
+msgstr "? mängijad"
+
+msgid "DHGUITeamSelection.TeamsCount2.Caption"
+msgstr "? mängijad"
+
+msgid "DHGameFooterMP.GameBackButton.Caption"
+msgstr "Tagasi"
+
+msgid "DHGameFooterSP.GameBackButton.Caption"
+msgstr "Tagasi"
+
+msgid "DHGamePageMP.MPFooter.SecondaryCaption"
+msgstr "Pühendatud"
