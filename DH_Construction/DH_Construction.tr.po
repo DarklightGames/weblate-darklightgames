@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-18 23:08+0000\n"
+"PO-Revision-Date: 2025-12-21 00:02+0000\n"
 "Last-Translator: Çağan Berk <cagandem@gmail.com>\n"
 "Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_construction/tr/>\n"
@@ -148,3 +148,8 @@ msgstr "Dost araçlara konuşlanma noktası sağlar."
 
 msgid "DHConstruction_Watchtower.MenuName"
 msgstr "Gözlem kulesi"
+
+#, fuzzy
+msgid "DHConstruction_PlatoonHQ.CustomErrorString"
+msgstr ""
+"Ele geçirilmiş bir hedefe {integer}m mesafede olmadıkça, bir {name} {verb}."
