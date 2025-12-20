@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-18 23:08+0000\n"
+"PO-Revision-Date: 2025-12-21 00:02+0000\n"
 "Last-Translator: Çağan Berk <cagandem@gmail.com>\n"
 "Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/tr/>\n"
@@ -892,7 +892,7 @@ msgid "DH_StuH42Cannon.ProjectileDescriptions<0>"
 msgstr "HE"
 
 msgid "DH_StuH42Cannon.ProjectileDescriptions<1>"
-msgstr "Sis"
+msgstr "Smoke"
 
 msgid "DH_StuH42Cannon.ProjectileDescriptions<2>"
 msgstr "HEAT"
@@ -916,7 +916,7 @@ msgid "DH_StuartCannon.ProjectileDescriptions<1>"
 msgstr "HE"
 
 msgid "DH_StuartCannon.ProjectileDescriptions<2>"
-msgstr "Parça Tesirli"
+msgstr "Canister"
 
 msgid "DH_StuartCannon.nProjectileDescriptions<0>"
 msgstr "M51B1 APC"
@@ -925,7 +925,7 @@ msgid "DH_StuartCannon.nProjectileDescriptions<1>"
 msgstr "M63 HE-T"
 
 msgid "DH_StuartCannon.nProjectileDescriptions<2>"
-msgstr "M2 Parça Tesirli"
+msgstr "M2 Canister"
 
 msgid "DH_StuartTank.VehicleNameString"
 msgstr "M5 Stuart"
@@ -940,7 +940,7 @@ msgid "DH_Stug3GCannon.ProjectileDescriptions<1>"
 msgstr "HE"
 
 msgid "DH_Stug3GCannon.ProjectileDescriptions<2>"
-msgstr "Sis"
+msgstr "Smoke"
 
 msgid "DH_Stug3GCannon.nProjectileDescriptions<0>"
 msgstr "PzGr.39"
