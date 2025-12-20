@@ -1,2 +1,242 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-12-21 00:02+0000\n"
+"Last-Translator: Çağan Berk <cagandem@gmail.com>\n"
+"Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
+"darkesthour/gui2k4/tr/>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13.3\n"
+
+msgid "ControlBinder.BindingLabel[15]"
+msgstr "\"Arka Görünüşü\" Aç"
+
+msgid "ControlBinder.BindingLabel[41]"
+msgstr "Konuşma Menüsü"
+
+msgid "Settings_Tabs.PerformanceWarningText"
+msgstr "Yapacağınız değişiklik performansınızı olumsuz etkileyebilir."
+
+msgid "UT2K4Browser_Page.QueryCompleteString"
+msgstr "Sorgu Tamamlandı!"
+
+msgid "UT2K4Browser_Page.StartQueryString"
+msgstr "Ana Sunucu Sorgulanıyor"
+
+msgid "UT2K4Browser_Page.ReadyString"
+msgstr "Hazır"
+
+msgid "UT2K4Browser_ServerListPageMS.PanelCaption"
+msgstr "Sunucu Tarayıcısı: Internet"
+
+msgid "UT2K4GamePageBase.PanelCaption<0>"
+msgstr "Oyun Türü"
+
+msgid "UT2K4GamePageBase.PanelCaption<1>"
+msgstr "Harita Seç"
+
+msgid "UT2K4GamePageBase.PanelCaption<2>"
+msgstr "Oyun Kuralları"
+
+msgid "UT2K4GamePageBase.PanelCaption<3>"
+msgstr "Mutatörler"
+
+msgid "UT2K4GamePageBase.PanelCaption<4>"
+msgstr "Bot Ayarları"
+
+msgid "UT2K4GetPassword.IncorrectPassword"
+msgstr "Yanlış şifre girildi.  Lütfen daha sonra dene."
+
+msgid "UT2K4GetPassword.GetPassLabel.Caption"
+msgstr "Bu sunucu da oynayabilmek için şifre gereklidir."
+
+msgid "UT2K4GetPassword.GetPassPW.Caption"
+msgstr "Sunucu Şifresi"
+
+msgid "UT2K4PerformWarn.DialogText.Caption"
+msgstr "UYARI"
+
+msgid "UT2K4PerformWarn.DialogText2.Caption"
+msgstr "Yapacağınız değişiklik performansınızı olumsuz etkileyebilir."
+
+msgid "UT2K4PerformWarn.HideCheckbox.Caption"
+msgstr "  Bu uyarıyı bir daha gösterme"
+
+msgid "UT2K4PerformWarn.HideCheckbox.Hint"
+msgstr ""
+"Ayarlar menüsünde özellikleri ayarlarken uyarı mesajlarının gösterilmesini "
+"devre dışı bırakmak için bunu işaretleyin"
+
+msgid "UT2K4SettingsPage.PanelCaption<0>"
+msgstr "Görüntü"
+
+msgid "UT2K4SettingsPage.PanelCaption<1>"
+msgstr "Ses"
+
+msgid "UT2K4SettingsPage.PanelCaption<2>"
+msgstr "Oyuncu"
+
+msgid "UT2K4SettingsPage.PanelCaption<3>"
+msgstr "Oyun"
+
+msgid "UT2K4SettingsPage.PanelCaption<4>"
+msgstr "Giriş"
+
+msgid "UT2K4SettingsPage.PanelCaption<5>"
+msgstr "Silahlar"
+
+msgid "UT2K4SettingsPage.PanelCaption<6>"
+msgstr "HUD"
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[0]"
+msgstr "16-bit"
+
+msgid "UT2K4Tab_DetailSettings.BitDepthText[1]"
+msgstr "32-bit"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[0]"
+msgstr "En düşük"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[1]"
+msgstr "Çok Düşük"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[2]"
+msgstr "Daha düşük"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[3]"
+msgstr "Düşük"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[4]"
+msgstr "Normal"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[5]"
+msgstr "Yüksek"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[6]"
+msgstr "Daha Yüksek"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[7]"
+msgstr "Çok Yüksek"
+
+msgid "UT2K4Tab_DetailSettings.DetailLevels[8]"
+msgstr "En Yüksek"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[0]"
+msgstr "Hiçbiri"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[1]"
+msgstr "Blob"
+
+msgid "UT2K4Tab_DetailSettings.ShadowOptions[2]"
+msgstr "Full"
+
+msgid "UT2K4Tab_DetailSettings.PanelCaption"
+msgstr "Görüntü"
+
+msgid "UT2K4Tab_HudSettings.PanelCaption"
+msgstr "HUD"
+
+msgid "UT2K4Tab_IForceSettings.PanelCaption"
+msgstr "Giriş"
+
+msgid "UT2K4Tab_MainBase.MessageNoInfo"
+msgstr "Bilgi mevcut değil!"
+
+msgid "UT2K4Tab_MidGameVoiceChat.NOSPEECH.Hint"
+msgstr "Bu oyuncudan herhangi bir sesli mesaj almayın"
+
+msgid "UT2K4VideoChangeOK.RestoreText"
+msgstr "(Orijinal ayarlar %count% %seconds içinde geri yüklenecektir)"
+
+msgid "UT2K4VideoChangeOK.SecondText"
+msgstr "saniye"
+
+msgid "UT2K4VideoChangeOK.SecondsText"
+msgstr "saniyeler"
+
+msgid "UT2K4VideoChangeOK.lbText.Caption"
+msgstr "Ayarlar kalsın mı?"
+
+msgid "UT2K4VideoChangeOK.lbText2.Caption"
+msgstr "(Orijinal ayarlar 15 saniye içinde geri yüklenecektir)"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<0>"
+msgstr "İsim"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<1>"
+msgstr "Skor"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<2>"
+msgstr "Rütbe"
+
+msgid "UT2k4Browser_PlayersList.ColumnHeadings<3>"
+msgstr "Ping"
+
+msgid "UT2k4Browser_RulesList.TrueString"
+msgstr "Aktif"
+
+msgid "UT2k4Browser_RulesList.FalseString"
+msgstr "Pasif"
+
+msgid "UT2k4Browser_RulesList.AdminNameString"
+msgstr "Sunucu Yetkilisi"
+
+msgid "UT2k4Browser_RulesList.AdminEmailString"
+msgstr "Yetkili Emaili"
+
+msgid "UT2k4Browser_RulesList.MutatorString"
+msgstr "Mutatör"
+
+msgid "UT2k4Browser_RulesList.TimeLimitString"
+msgstr "Süre Sınırı"
+
+msgid "UT2k4Browser_RulesList.MinPlayersString"
+msgstr "Minimum Oyuncular (botlar)"
+
+msgid "UT2k4Browser_RulesList.MapVotingString"
+msgstr "Harita Oylaması"
+
+msgid "UT2k4Browser_RulesList.KickVotingString"
+msgstr "Sunucudan Atma Oylaması"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<0>"
+msgstr "Ayar"
+
+msgid "UT2k4Browser_RulesList.ColumnHeadings<1>"
+msgstr "Değer"
+
+msgid "UT2k4Browser_ServerListPageBase.PingingText"
+msgstr "Sunucuları Pingleme ( %NumRec% / %TotalNum% )"
+
+msgid "UT2k4Browser_ServerListPageBase.PingCompleteText"
+msgstr "Pingleme Tamamlandı! %NumServers% Sunucu, %NumPlayers% Oyuncu"
+
+msgid "UT2k4Browser_ServerListPageBase.QueryCompleteString"
+msgstr "Sorgu Tamamlandı! Alındı: %NumServers% Sunucu"
+
+msgid "UT2k4Browser_ServerListPageFavorites.RemoveFavoriteText"
+msgstr "Favoriyi Kaldır"
+
+msgid "UT2k4Browser_ServerListPageFavorites.EditFavoriteText"
+msgstr "IP Adresi Düzenle"
+
+msgid "UT2k4Browser_ServerListPageFavorites.PanelCaption"
+msgstr "Sunucu Tarayıcısı: Favoriler"
+
+msgid "UT2k4Browser_ServerListPageLAN.PanelCaption"
+msgstr "Sunucu Tarayıcısı: LAN"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<1>"
+msgstr "Sunucu İsmi"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<2>"
+msgstr "Harita"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<3>"
+msgstr "Oyuncular"
+
+msgid "UT2k4Browser_ServersList.ColumnHeadings<4>"
+msgstr "Ping"
