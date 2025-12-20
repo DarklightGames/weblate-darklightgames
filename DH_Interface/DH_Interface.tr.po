@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-18 00:09+0000\n"
+"PO-Revision-Date: 2025-12-21 00:02+0000\n"
 "Last-Translator: baba hayatta <ardkbr54@gmail.com>\n"
 "Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/tr/>\n"
@@ -1035,3 +1035,102 @@ msgstr "Manga'ya Söyle"
 
 msgid "DHTab_Controls.captions_comm[4]"
 msgstr "Sesli Komut Menüsü"
+
+msgid "DHTab_Controls.captions_comm[5]"
+msgstr "Oyun İçi Sohbeti Görüntüle"
+
+msgid "DHTab_Controls.captions_comm[6]"
+msgstr "Mikrofonu Etkinleştir"
+
+msgid "DHTab_Controls.captions_comm[7]"
+msgstr "Komut Ses Kanalına Geç"
+
+msgid "DHTab_Controls.captions_comm[8]"
+msgstr "Yerel Ses Kanalına Geç"
+
+msgid "DHTab_Controls.captions_comm[9]"
+msgstr "Atanmamış Ses Kanalına Geç"
+
+msgid "DHTab_Controls.captions_comm[10]"
+msgstr "Takım Ses Kanalına Geçin"
+
+msgid "DHTab_Controls.captions_comm[11]"
+msgstr "Sohbet mesajı yazmaya başlayın."
+
+msgid "DHTab_Controls.captions_comm[12]"
+msgstr "Sessiz Menüsü"
+
+msgid "DHTab_Controls.captions_game[4]"
+msgstr "Zırhlı Aracı Kilitle/Kilidi Aç"
+
+msgid "DHTab_Controls.captions_game[5]"
+msgstr "Takım Siparişleri Menüsü"
+
+msgid "DHTab_Controls.captions_game[6]"
+msgstr "Kadro Menüsü"
+
+msgid "DHTab_Controls.captions_game[7]"
+msgstr "Otomatik Takıma Katıl"
+
+msgid "DHTab_Controls.captions_game[8]"
+msgstr "Toplanma Noktasını Yerleştirin"
+
+msgid "DHTab_Controls.PanelCaption"
+msgstr "Kontroller"
+
+msgid "DHTab_Controls.ControlProfilesComboBox.Caption"
+msgstr "Kontrol Profilleri"
+
+msgid "DHTab_Controls.InputBK1.Caption"
+msgstr "bağlamalar"
+
+msgid "DHTab_DetailSettings.NoneText"
+msgstr "Hiçbiri"
+
+msgid "DHTab_DetailSettings.RenderModeText[0]"
+msgstr "Direct3D 9.0 (Önerilen)"
+
+msgid "DHTab_DetailSettings.RenderModeText[1]"
+msgstr "Direct3D 8.0 (Görüntüleme Sorunları)"
+
+msgid "DHTab_DetailSettings.RenderModeText[2]"
+msgstr "OpenGL(Dengesiz)"
+
+msgid "DHTab_DetailSettings.RelaunchQuestion"
+msgstr ""
+"Grafik modu başarıyla değiştirildi. Ancak, değişiklik oyun bir sonraki "
+"başlatılışında geçerli olacaktır. Oyunu şimdi yeniden başlatmak ister "
+"misiniz?"
+
+msgid "DHTab_DetailSettings.BrightnessSlider.Caption"
+msgstr "Parlaklık"
+
+msgid "DHTab_DetailSettings.ContrastSlider.Caption"
+msgstr "Zıtlık"
+
+msgid "DHTab_DetailSettings.CorpseStayTime.Caption"
+msgstr "Cesedin Kalma Süresi (Saniye)"
+
+msgid "DHTab_DetailSettings.DetailAnisotropy.Caption"
+msgstr "Anizotropik Filtreleme"
+
+msgid "DHTab_DetailSettings.DetailAntialiasing.Caption"
+msgstr "Kenar yumuşatma"
+
+msgid "DHTab_DetailSettings.DetailCharacterDetail.Caption"
+msgstr "Karakter Detayı"
+
+msgid "DHTab_DetailSettings.DetailCharacterShadows.Caption"
+msgstr "Karakter Gölgeleri"
+
+msgid "DHTab_DetailSettings.DetailCoronas.Caption"
+msgstr "Koronalar"
+
+msgid "DHTab_DetailSettings.DetailDecalStay.Caption"
+msgstr "Çıkartma Kalışı"
+
+msgid "DHTab_DetailSettings.DetailDecals.Caption"
+msgstr "Çıkartmalar"
+
+msgid "DHTab_DetailSettings.DetailDecoLayers.Caption"
+msgstr "Zemin Detayları"
