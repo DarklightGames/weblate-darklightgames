@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-20 18:23+0000\n"
+"PO-Revision-Date: 2025-12-21 00:02+0000\n"
 "Last-Translator: Bernard Flag <35berat51@gmail.com>\n"
 "Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/tr/>\n"
@@ -402,7 +402,7 @@ msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
 msgstr "Oyuncu yok "
 
 msgid "DHConstructionErrorMessage.ErrorMessages<28>"
-msgstr "Yakinda tim arkadasi yok"
+msgstr "Yakinda tim arkadaşı yok."
 
 msgid "DHGameMessage.VehicleDestroyedMessage"
 msgstr "{0} imha edildi."
@@ -493,8 +493,8 @@ msgstr "Havan Topları"
 msgid "DHHintManager.Hints[6].Text"
 msgstr ""
 "Havan topu taşırken silah değiştiremezsin, depar atamazsın, yere yatamazsın "
-"ve atlayamazsın. Havan topunu kurmak için, yere doğru eğil ve %DEPLOY% "
-"tuşuna bas."
+"ve atlayamazsın. Havan topunu kurmak için yere doğru eğil ve %DEPLOY% tuşuna "
+"bas."
 
 msgid "DHHintManager.Hints[7].Text"
 msgstr ""
@@ -530,3 +530,49 @@ msgid "DHHintManager.Hints[12].Text"
 msgstr ""
 "Dürbünle atış desteği için hedefler işaretleyebilirsin. Dürbününü "
 "%ROIRONSIGHTS% ile eline alırsın eline aldıktan sonra"
+
+msgid "DHHintManager.Hints[9].Title"
+msgstr "Havan Topunu Bırakma"
+
+msgid "DHHintManager.Hints[13].Title"
+msgstr "Telsiz Operatörü"
+
+msgid "DHHintManager.Hints[13].Text"
+msgstr ""
+"Telsiz operatörüsün! Manga liderlerinin yakınında dur ki uzun mesafede atış "
+"desteği çağırabilsinler!"
+
+msgid "DHHintManager.Hints[40].Title"
+msgstr "Araç Motorları"
+
+msgid "DHHintManager.Hints[40].Text"
+msgstr ""
+"Bir araca bindin. Motoru çalıştırmak veya durdurmak için %FIRE% tuşuna bas."
+
+msgid "DHHintManager.Hints[42].Title"
+msgstr "Çıkarma Botu"
+
+msgid "DHHintManager.Hints[42].Text"
+msgstr ""
+"Bir çıkarma botu sürüyorsun. Yolcu rampasını %PREVWEAPON% tuşuna basarak "
+"indirebilirsin bu sayede kendin ve yolcular araçtan inebilir. Yolcu "
+"rampasını kaldırmak için %NEXTWEAPON% tuşuna bas."
+
+msgid "DHHintManager.Hints[43].Title"
+msgstr "İkmal Kamyonları"
+
+msgid "DHHintManager.Hints[43].Text"
+msgstr ""
+"Bir ikmal kamyonunun yakınındasın. Mühimmatını yenilemek için kamyonun "
+"arkasında dur."
+
+msgid "DHHintManager.Hints[44].Title"
+msgstr "İkmal Kamyonları"
+
+msgid "DHHintManager.Hints[44].Text"
+msgstr ""
+"Bir ikmal kamyonu sürüyorsun. Bu araç başka araçlara, havan toplarına ve "
+"piyadelere ikmal sağlayabilir. Güvenli bir yere park ettiğinden emin ol."
+
+msgid "DHHintManager.Hints[47].Text"
+msgstr "Bu makineli tüfek yalnızca araç içindeyken ateşlenebilir"
