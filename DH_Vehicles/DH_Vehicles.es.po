@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 18:43+0000\n"
+"PO-Revision-Date: 2025-12-22 18:23+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/es/>\n"
@@ -82,7 +82,7 @@ msgid "DH_HigginsBoat.VehicleNameString"
 msgstr "Bote Higgins"
 
 msgid "DH_IS2Tank.VehicleNameString"
-msgstr "Tanque pesado IS-2"
+msgstr "IS-2"
 
 msgid "DH_ISU152Destroyer.VehicleNameString"
 msgstr "ISU-152"
@@ -100,7 +100,7 @@ msgid "DH_JagdtigerTank.VehicleNameString"
 msgstr "Jagdpanzer VI 'Jagdtiger' Ausf.B"
 
 msgid "DH_KV1ETank.VehicleNameString"
-msgstr "Tanque pesado KV-1E"
+msgstr "KV-1E"
 
 msgid "DH_KV1sTank.VehicleNameString"
 msgstr "KV-1S"
@@ -223,22 +223,22 @@ msgid "DH_T3476Tank.VehicleNameString"
 msgstr "T34/76"
 
 msgid "DH_T3476Tank_German.VehicleNameString"
-msgstr "Panzer 747(r)"
+msgstr "Panzer T-34"
 
 msgid "DH_T3476Tank_GermanB.VehicleNameString"
-msgstr "Panzer 747(r)"
+msgstr "Panzer T-34"
 
 msgid "DH_T3476_42Tank.VehicleNameString"
-msgstr "T34/76 m42"
+msgstr "T34/76 modelo '42"
 
 msgid "DH_T3476_43Tank.VehicleNameString"
-msgstr "T34/76 m43"
+msgstr "T34/76 modelo '43"
 
 msgid "DH_T3485Tank.VehicleNameString"
 msgstr "T34/85"
 
 msgid "DH_T3485Tank_German.VehicleNameString"
-msgstr "Panzer 747(r)"
+msgstr "Panzer T34"
 
 msgid "DH_T60Tank.VehicleNameString"
 msgstr "Tanque Ligero T-60"
@@ -292,7 +292,7 @@ msgid "DH_PanzerIVGEarlyTank.VehicleNameString"
 msgstr "Panzer IV Ausf.G"
 
 msgid "DH_Sdkfz2342ArmoredCar.VehicleNameString"
-msgstr "Automóvil Blindado Sd.Kfz.234/2"
+msgstr "Sd.Kfz.234/2 \"Puma\""
 
 msgid "DH_ShermanTankA_M4A176W.VehicleNameString"
 msgstr "M4A1(76) Sherman"
@@ -310,7 +310,7 @@ msgid "DH_JagdpanzerIVL70Destroyer.VehicleNameString"
 msgstr "Jagdpanzer IV/70(V)"
 
 msgid "DH_Sdkfz2341ArmoredCar.VehicleNameString"
-msgstr "Carro Blindado Sd.Kfz.234/1"
+msgstr "Sd.Kfz.234/1"
 
 msgid "DH_T_4F1Tank.VehicleNameString"
 msgstr "T-IV mod.F"
@@ -660,7 +660,7 @@ msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions<2>"
 msgstr "APCR-T"
 
 msgid "DH_Semovente4732Destroyer.VehicleNameString"
-msgstr "Caza tanques Semovente L40 da 47/32"
+msgstr "Semovente L40 da 47/32"
 
 msgid "DH_ShermanCannon.ProjectileDescriptions<0>"
 msgstr "APC"
