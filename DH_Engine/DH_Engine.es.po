@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-16 23:11+0000\n"
+"PO-Revision-Date: 2025-12-22 18:23+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
@@ -576,7 +576,7 @@ msgstr ""
 "sea necesario."
 
 msgid "DHATCannonMessage.GunIsRotating"
-msgstr "El arma está siendo rotada"
+msgstr "El cañón está siendo rotado"
 
 msgid "DHATCannonMessage.CannotEnter"
 msgstr "El cañón ya está siendo operado"
@@ -1352,7 +1352,7 @@ msgid "DHCommandMenu_SquadAssistant.Options<1>.ActionText"
 msgstr "Avistar"
 
 msgid "DHCommandMenu_SquadLeader.Options<0>.ActionText"
-msgstr "Crear punto de reunión"
+msgstr "Crear punto de aparición"
 
 msgid "DHCommandMenu_SquadLeader.Options<1>.ActionText"
 msgstr "Disparar"
@@ -1654,15 +1654,15 @@ msgid "DHServerSayMessage.MessagePrefix"
 msgstr "[SERVIDOR]"
 
 msgid "DHSquadMessage.RallyPointTooCloseToConstruction"
-msgstr "No puedes crear un punto de reunión tan cerca de un {0}."
+msgstr "No puedes crear un punto de aparición tan cerca de un {0}."
 
 msgid "DHSquadMessage.RallyPointInUncontrolledObjective"
 msgstr ""
-"No puedes crear un punto de reunión dentro de un objetivo no controlado."
+"No puedes crear un punto de aparición dentro de un objetivo no controlado."
 
 msgid "DHSquadMessage.RallyPointBehindEnemyLines"
 msgstr ""
-"No se puede crear un punto de reunión en territorio controlado por el "
+"No se puede crear un punto de aparición en territorio controlado por el "
 "enemigo."
 
 msgid "DHTeamSurrenderVoteMessage.VoteSucceededText"
@@ -1674,7 +1674,7 @@ msgstr ""
 "juego, %PLAYERMENU% para cambiar tu equipo."
 
 msgid "DHScoreEvent_SquadRallyPointEstablished.HumanReadableName"
-msgstr "Punto de Reunión Establecido"
+msgstr "Punto de Aparición Establecido"
 
 msgid "DHScoreEvent_SquadRallyPointEstablishedAssist.HumanReadableName"
 msgstr "Punto de reunión establecido (asistido)"
@@ -1700,11 +1700,11 @@ msgstr "La escuadra ha sido desbloqueada."
 msgid "DHSquadMessage.RallyPointNeedSquadmateNearby"
 msgstr ""
 "Debes tener al menos otro compañero de escuadrón cerca para crear un punto "
-"de reunión de escuadrón."
+"de aparición de escuadrón."
 
 msgid "DHSquadMessage.RallyPointCreatedMessage"
 msgstr ""
-"Has creado un punto de reunión para tu escuadrón. ¡Asegura la zona con tu "
+"Has creado un punto de aparición para tu escuadrón. ¡Asegura la zona con tu "
 "escuadrón para establecerlo correctamente!"
 
 msgid "DHSquadMessage.NoVolunteers"
@@ -1759,23 +1759,23 @@ msgid "DHSquadMessage.CreatedMessage"
 msgstr "Has creado una escuadra."
 
 msgid "DHSquadMessage.RallyPointActiveMessage"
-msgstr "Tu escuadra ha establecido un nuevo punto de reunión."
+msgstr "Tu escuadra ha establecido un nuevo punto de aparición."
 
 msgid "DHSquadMessage.RallyPointGroundTooSteep"
 msgstr ""
-"El terreno es demasiado empinado para establecer un punto de reunión aquí."
+"El terreno es demasiado empinado para establecer un punto de aparición aquí."
 
 msgid "DHSquadMessage.RallyPointInMinefield"
-msgstr "No puedes crear un punto de reunión en un campo minado."
+msgstr "No puedes crear un punto de aparición en un campo minado."
 
 msgid "DHSquadInviteInteraction.PromptText"
 msgstr "{0} te ha invitado a unirse al escuadrón{1}."
 
 msgid "DHSquadMessage.RallyPointRemoved"
-msgstr "El líder del escuadrón ha removido forzosamente un punto de reunión."
+msgstr "El líder del escuadrón ha removido forzosamente un punto de aparición."
 
 msgid "DHSquadMessage.RallyPointAbandonmentWarning"
-msgstr "¡Un punto de reunión recién creado está siendo abandonado!"
+msgstr "¡Un punto de aparición recién creado está siendo abandonado!"
 
 msgid "DHSquadInviteInteraction.Options<0>.Text"
 msgstr "Aceptar"
@@ -1819,15 +1819,15 @@ msgid "DHSquadMessage.InvitePendingMessage"
 msgstr "{0} ya ha sido invitado a tu escuadrón. Intenta mas tarde."
 
 msgid "DHSquadMessage.RallyPointExhaustedMessage"
-msgstr "Un punto de reunión ha sido gastado."
+msgstr "Un punto de aparición ha sido gastado."
 
 msgid "DHSquadMessage.RallyPointOverrunMessage"
-msgstr "¡Un punto de reunión ha sido arrasado por el enemigo!"
+msgstr "¡Un punto de aparición ha sido arrasado por el enemigo!"
 
 msgid "DHSquadMessage.RallyPointTooCloseMessage"
 msgstr ""
-"No puedes crear un punto de reunión tan cerca de uno existente, debes estar "
-"a {0} metros más lejos."
+"No puedes crear un punto de aparición tan cerca de uno existente, debes "
+"estar a {0} metros más lejos."
 
 msgid "DHSquadMessage.AlreadyInSquad"
 msgstr "Ya estas dentro de una escuadra."
@@ -2041,31 +2041,31 @@ msgstr ""
 "sobrecalentarlo!"
 
 msgid "DHSquadMessage.RallyPointInWater"
-msgstr "No puedes crear un punto de reunión en el agua."
+msgstr "No puedes crear un punto de aparición en el agua."
 
 msgid "DHSquadMessage.RallyPointNotOnFoot"
-msgstr "Debes estar a pie para crear un punto de reunión."
+msgstr "Debes estar a pie para crear un punto de aparición."
 
 msgid "DHSquadMessage.RallyPointTooSoon"
 msgstr ""
 "Debes esperar {0} segundos hasta que tu escuadrón pueda crear un punto de "
-"reunión."
+"aparición."
 
 msgid "DHSquadMessage.RallyPointAbandoned"
-msgstr "No se pudo establecer un punto de reunión porque estaba abandonado."
+msgstr "No se pudo establecer un punto de aparición porque estaba abandonado."
 
 msgid "DHSquadMessage.RallyPointBadLocation"
-msgstr "No se puede crear un punto de reunión en esta ubicación."
+msgstr "No se puede crear un punto de aparición en esta ubicación."
 
 msgid "DHSquadMessage.RallyPointSwapped"
 msgstr ""
-"El líder del escuadrón ha cambiado el punto de reunión actualmente activo."
+"El líder del escuadrón ha cambiado el punto de aparición actualmente activo."
 
 msgid "DHSquadMessage.RallyPointDestroyed"
-msgstr "¡Un punto de reunión ha sido destruido!"
+msgstr "¡Un punto de aparición ha sido destruido!"
 
 msgid "DHSquadMessage.RallyPointExposed"
-msgstr "¡El enemigo ha detectado un punto de reunión!"
+msgstr "¡El enemigo ha detectado un punto de aparición!"
 
 msgid "DHSquadMessage.YouVolunteeredToBeSquadLeader"
 msgstr ""
