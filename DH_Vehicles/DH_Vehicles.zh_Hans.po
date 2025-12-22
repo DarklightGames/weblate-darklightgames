@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-22 18:23+0000\n"
+"PO-Revision-Date: 2025-12-22 21:10+0000\n"
 "Last-Translator: Sanae <929719345@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_vehicles/zh_Hans/>\n"
@@ -832,3 +832,138 @@ msgstr "BR-350A型尖头穿甲弹"
 
 msgid "DH_T3476_42Cannon.nProjectileDescriptions<0>"
 msgstr "BR-350BSP型实心穿甲弹"
+
+msgid "DH_T3476_43Cannon.nProjectileDescriptions<0>"
+msgstr "BR-350B型穿甲弹"
+
+msgid "DH_T3476_43Cannon.nProjectileDescriptions<2>"
+msgstr "BR-350P型硬芯穿甲弹"
+
+msgid "DH_T3485Cannon.nProjectileDescriptions<0>"
+msgstr "BR-365型穿甲弹"
+
+msgid "DH_T3485Cannon.nProjectileDescriptions<1>"
+msgstr "BR-365P型次口径硬芯穿甲弹"
+
+msgid "DH_T3485Cannon_Berlin.nProjectileDescriptions<0>"
+msgstr "BR-365B型穿甲弹"
+
+msgid "DH_T3485Cannon_Berlin.nProjectileDescriptions<1>"
+msgstr "BR-365P次口径硬芯穿甲弹"
+
+msgid "DH_SU76Cannon.ProjectileDescriptions<0>"
+msgstr "风帽穿甲弹"
+
+msgid "DH_SU76Cannon.ProjectileDescriptions<2>"
+msgstr "复合硬芯穿甲弹"
+
+msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions<0>"
+msgstr "穿甲曳光弹"
+
+msgid "DH_Sdkfz2341Cannon.ProjectileDescriptions<2>"
+msgstr "硬芯穿甲曳光弹"
+
+msgid "DH_Semovente4732Cannon.ProjectileDescriptions<0>"
+msgstr "穿甲弹"
+
+msgid "DH_ShermanCannon.ProjectileDescriptions<0>"
+msgstr "被帽穿甲弹"
+
+msgid "DH_ShermanCannon.nProjectileDescriptions<0>"
+msgstr "M61型被帽穿甲弹"
+
+msgid "DH_ShermanCannonA_76mm.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_ShermanCannonA_76mm.ProjectileDescriptions<1>"
+msgstr "高速穿甲弹"
+
+msgid "DH_ShermanCannonA_76mm.nProjectileDescriptions<0>"
+msgstr "M62型被帽穿甲弹"
+
+msgid "DH_ShermanCannonA_76mm.nProjectileDescriptions<1>"
+msgstr "M93型高速穿甲曳光弹"
+
+msgid "DH_ShermanCannonA_76mm_Early.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_ShermanCannon_M4A3E2_Jumbo.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_StuartCannon.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_Stug3GCannon.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_WolverineCannon.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_WolverineCannon_Early.ProjectileDescriptions<0>"
+msgstr "风帽被帽穿甲弹"
+
+msgid "DH_ShermanCannonA_76mm_Early.nProjectileDescriptions<0>"
+msgstr "M62型被帽穿甲弹"
+
+msgid "DH_ShermanCannon_M4A3E2_Jumbo.nProjectileDescriptions<0>"
+msgstr "M61型被帽穿甲弹"
+
+msgid "DH_ShermanCannon_M4A3E8.ProjectileDescriptions<2>"
+msgstr "高速穿甲弹"
+
+msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<0>"
+msgstr "M62型被帽穿甲弹"
+
+msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<2>"
+msgstr "M93型高速穿甲弹"
+
+msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions<1>"
+msgstr "次口径脱壳穿甲弹"
+
+msgid "DH_ShermanFireFlyCannon.nProjectileDescriptions<0>"
+msgstr "IV型被帽穿甲弹"
+
+msgid "DH_ShermanFireFlyCannon.nProjectileDescriptions<1>"
+msgstr "I型脱壳穿甲弹"
+
+msgid "DH_StuartCannon.nProjectileDescriptions<0>"
+msgstr "M51B1型被帽穿甲弹"
+
+msgid "DH_T3476Cannon.ProjectileDescriptions<0>"
+msgstr "风帽穿甲弹"
+
+msgid "DH_T3476_42Cannon.ProjectileDescriptions<0>"
+msgstr "风帽穿甲弹"
+
+msgid "DH_T3476_43Cannon.ProjectileDescriptions<0>"
+msgstr "风帽穿甲弹"
+
+msgid "DH_T3476_43Cannon.ProjectileDescriptions<2>"
+msgstr "硬芯穿甲弹"
+
+msgid "DH_T3485Cannon.ProjectileDescriptions<0>"
+msgstr "风帽穿甲弹"
+
+msgid "DH_T3485Cannon.ProjectileDescriptions<1>"
+msgstr "硬芯穿甲弹"
+
+msgid "DH_T60Cannon.ProjectileDescriptions<0>"
+msgstr "穿甲曳光弹"
+
+msgid "DH_WolverineCannon.ProjectileDescriptions<1>"
+msgstr "高速穿甲弹"
+
+msgid "DH_WolverineCannon.nProjectileDescriptions<0>"
+msgstr "M62型被帽穿甲弹"
+
+msgid "DH_WolverineCannon.nProjectileDescriptions<1>"
+msgstr "M93型高速穿甲弹"
+
+msgid "DH_WolverineCannon_Early.nProjectileDescriptions<0>"
+msgstr "M62型被帽穿甲弹"
