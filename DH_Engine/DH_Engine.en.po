@@ -414,7 +414,7 @@ msgid "DHCommandMenu_SquadLeader.Options<2>.ActionText"
 msgstr "Construction"
 
 msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
-msgstr "No Player "
+msgstr "No Player"
 
 msgid "DHCommandMenu_SquadLeader.Options<4>.ActionText"
 msgstr "Spotting"

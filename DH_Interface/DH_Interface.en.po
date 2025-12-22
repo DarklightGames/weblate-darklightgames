@@ -617,6 +617,9 @@ msgstr "Settings"
 msgid "DHMainMenu.SteamCommunityButton.Hint"
 msgstr "Join the Steam Community!"
 
+msgid "DHMainMenu.WeblateButton.Hint"
+msgstr "Localize the game with Weblate!"
+
 msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<0>"
 msgstr "Nominated Maps"
 
