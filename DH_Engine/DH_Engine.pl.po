@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-13 22:09+0000\n"
-"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
+"PO-Revision-Date: 2025-12-23 21:23+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pl/>\n"
 "Language: pl\n"
@@ -438,7 +438,7 @@ msgid "DHCommandMenu_SquadLeader.Options<2>.ActionText"
 msgstr "Budowa"
 
 msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
-msgstr "Brak Gracza "
+msgstr "Brak Gracza"
 
 msgid "DHCommandMenu_SquadLeader.Options<4>.ActionText"
 msgstr "Oznaczanie"
