@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-12-23 21:23+0000\n"
-"Last-Translator: Çağan Berk <cagandem@gmail.com>\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/tr/>\n"
 "Language: tr\n"
@@ -399,7 +399,7 @@ msgstr ""
 "mangada en az 2 kişi bulunmalı."
 
 msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
-msgstr "Oyuncu yok "
+msgstr "Oyuncu yok"
 
 msgid "DHConstructionErrorMessage.ErrorMessages<28>"
 msgstr "Yakinda tim arkadaşı yok."
