@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-15 21:09+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"PO-Revision-Date: 2025-12-23 21:23+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
 "Language: ru\n"
@@ -2642,7 +2642,7 @@ msgid "DHCommandMenu_SquadLeader.Options<2>.ActionText"
 msgstr "Строительство"
 
 msgid "DHCommandMenu_SquadLeader.Options<3>.ActionText"
-msgstr "Нет игрока "
+msgstr "Нет игрока"
 
 msgid "DHCommandMenu_SquadLeader.Options<4>.ActionText"
 msgstr "Наблюдение"
