@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-16 19:00+0000\n"
-"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"PO-Revision-Date: 2025-12-25 10:23+0000\n"
+"Last-Translator: Sanae <929719345@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_interface/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -654,3 +654,61 @@ msgstr "地图对应的模式或战斗类型."
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<4>"
 msgstr "地图推荐玩家数量."
+
+msgid "DHMainMenu.WeblateButton.Hint"
+msgstr "使用 Weblate 本地化这款游戏！"
+
+msgid "DHMapVoteMultiColumnListBox.AdminMapContextMenu.ContextItems<0>"
+msgstr "管理员指令：强制切换至此地图"
+
+msgid "DHMapVotingPage.lmsgMapOutOfBounds"
+msgstr "请根据当前玩家数量，投票选择一张合适的地图。您仍然可以在完整列表中为此地图投"
+"票。"
+
+msgid "DHMapVotingPage.NoRestartMapPrivilegeText"
+msgstr "你的管理员权限不足，无法重启地图！"
+
+msgid "DHMapVotingPage.NoChangeMapPrivilegeText"
+msgstr "你的管理员权限不足，无法更换地图！"
+
+msgid "DHMapVotingPage.lmsgMode[0]"
+msgstr "多数胜出"
+
+msgid "DHMapVotingPage.FilterClearButton.Caption"
+msgstr "清除"
+
+msgid "DHMapVotingPage.FilterEditbox.Caption"
+msgstr "搜索"
+
+msgid "DHMapVotingPage.GameTypeCombo.Caption"
+msgstr "筛选游戏类型："
+
+msgid "DHMaplistEditor.ActiveBackground.Caption"
+msgstr "已选地图"
+
+msgid "DHMaplistEditor.AddAllButton.Caption"
+msgstr "添加全部"
+
+msgid "DHMaplistEditor.AddButton.Caption"
+msgstr "添加"
+
+msgid "DHMaplistEditor.AvailBackground.Caption"
+msgstr "可用地图"
+
+msgid "DHMaplistEditor.DeleteMaplistButton.Caption"
+msgstr "删除"
+
+msgid "DHMaplistEditor.MapListSectionBackground.Caption"
+msgstr "已保存的地图列表"
+
+msgid "DHMaplistEditor.MoveDownButton.Caption"
+msgstr "下移"
+
+msgid "DHMaplistEditor.MoveUpButton.Caption"
+msgstr "上移"
+
+msgid "DHMaplistEditor.NewMaplistButton.Caption"
+msgstr "新建"
+
+msgid "DHMaplistEditor.RemoveAllButton.Caption"
+msgstr "移除全部"
