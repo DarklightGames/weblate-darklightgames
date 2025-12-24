@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-22 21:10+0000\n"
+"PO-Revision-Date: 2025-12-25 10:23+0000\n"
 "Last-Translator: Sanae <929719345@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_vehicles/zh_Hans/>\n"
@@ -180,7 +180,7 @@ msgid "DH_Autoblinda43Cannon.nProjectileDescriptions<0>"
 msgstr "39型被帽穿甲弹"
 
 msgid "DH_Autoblinda43Cannon.nProjectileDescriptions<1>"
-msgstr "Sprgr.Patr.38(荧光高爆弹)"
+msgstr "38型高爆榴弹"
 
 msgid "DH_AutoblindaArmoredCar.VehicleNameString"
 msgstr "AB 41轮式战车"
@@ -327,7 +327,7 @@ msgid "DH_Flak38Cannon.nProjectileDescriptions<1>"
 msgstr "穿甲弹"
 
 msgid "DH_Flak38Cannon.nProjectileDescriptions<2>"
-msgstr "39型高爆弹"
+msgstr "39型高爆榴弹"
 
 msgid "DH_GAZ67Vehicle.VehicleNameString"
 msgstr "GAZ-67越野车"
@@ -555,7 +555,7 @@ msgid "DH_KV1sCannon_Late.nProjectileDescriptions<0>"
 msgstr "BR-350B型穿甲弹"
 
 msgid "DH_KV1sCannon_Late.nProjectileDescriptions<1>"
-msgstr "OF-350(高爆)"
+msgstr "OF-350型高爆榴弹"
 
 msgid "DH_KV1sCannon_Late.nProjectileDescriptions<2>"
 msgstr "BR-350P型硬芯穿甲弹"
@@ -612,7 +612,7 @@ msgid "DH_Marder3MCannon.nProjectileDescriptions<0>"
 msgstr "39型被帽穿甲弹"
 
 msgid "DH_Marder3MCannon.nProjectileDescriptions<1>"
-msgstr "Sprgr.Patr.34(高爆)"
+msgstr "34型爆破榴弹"
 
 msgid "DH_Marder3MDestroyer.VehicleNameString"
 msgstr "黄鼠狼III M型"
@@ -639,7 +639,7 @@ msgid "DH_PantherDCannon.nProjectileDescriptions<1>"
 msgstr "PzGr.40/42(硬芯穿甲)"
 
 msgid "DH_PantherDCannon.nProjectileDescriptions<2>"
-msgstr "Sprgr.Patr.42(高爆)"
+msgstr "42型爆破榴弹"
 
 msgid "DH_PantherDTank.VehicleNameString"
 msgstr "五号坦克\"黑豹\"D型"
@@ -651,7 +651,7 @@ msgid "DH_PanzerIIIJCannon.nProjectileDescriptions<0>"
 msgstr "39型被帽穿甲弹"
 
 msgid "DH_PanzerIIIJCannon.nProjectileDescriptions<1>"
-msgstr "Sprgr.Patr.38(高爆)"
+msgstr "38型爆破榴弹"
 
 msgid "DH_PanzerIIIJTank.VehicleNameString"
 msgstr "三号坦克J型"
@@ -669,7 +669,7 @@ msgid "DH_PanzerIIILCannon.nProjectileDescriptions<1>"
 msgstr "PzGr.40(硬芯穿甲)"
 
 msgid "DH_PanzerIIILCannon.nProjectileDescriptions<2>"
-msgstr "Sprgr.Patr.38(高爆)"
+msgstr "38型爆破榴弹"
 
 msgid "DH_PanzerIIILTank.VehicleNameString"
 msgstr "三号L型坦克"
@@ -967,3 +967,48 @@ msgstr "M93型高速穿甲弹"
 
 msgid "DH_WolverineCannon_Early.nProjectileDescriptions<0>"
 msgstr "M62型被帽穿甲弹"
+
+msgid "DH_PanzerIVHCannon.nProjectileDescriptions<1>"
+msgstr "34型爆破榴弹"
+
+msgid "DH_Stug3GCannon.nProjectileDescriptions<1>"
+msgstr "34型爆破榴弹"
+
+msgid "DH_SdKfz2519DCannon.nProjectileDescriptions<0>"
+msgstr "坦克炮用爆破榴弹"
+
+msgid "DH_Sdkfz2341Cannon.nProjectileDescriptions<1>"
+msgstr "曳光高爆榴弹"
+
+msgid "DH_Sdkfz2342Cannon.nProjectileDescriptions<1>"
+msgstr "38型爆破榴弹"
+
+msgid "DH_Tiger2BCannon.nProjectileDescriptions<1>"
+msgstr "爆破榴弹"
+
+msgid "DH_TigerCannon.nProjectileDescriptions<1>"
+msgstr "重型爆破榴弹"
+
+msgid "DH_PanzerIVGLateTank.VehicleNameString"
+msgstr "四号G型坦克"
+
+msgid "DH_PanzerIVHCannon.nProjectileDescriptions<2>"
+msgstr "38型C式空心装药破甲弹"
+
+msgid "DH_PanzerIVHTank.VehicleNameString"
+msgstr "四号H型坦克"
+
+msgid "DH_PanzerIVJTank.VehicleNameString"
+msgstr "四号J型坦克"
+
+msgid "DH_SU76Cannon.nProjectileDescriptions<1>"
+msgstr "OF-350型高爆榴弹"
+
+msgid "DH_T3476Cannon.nProjectileDescriptions<1>"
+msgstr "OF-350型高爆榴弹"
+
+msgid "DH_T3476_42Cannon.nProjectileDescriptions<1>"
+msgstr "OF-350型高爆榴弹"
+
+msgid "DH_T3476_43Cannon.nProjectileDescriptions<1>"
+msgstr "OF-350型高爆榴弹"
