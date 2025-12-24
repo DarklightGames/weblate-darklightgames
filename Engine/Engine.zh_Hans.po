@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-16 19:00+0000\n"
-"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"PO-Revision-Date: 2025-12-25 10:23+0000\n"
+"Last-Translator: Sanae <929719345@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/engine/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -355,3 +355,39 @@ msgstr "连接中 (按下F10取消):"
 
 msgid "Progress.CorruptConnect"
 msgstr "游戏文件不兼容!"
+
+msgid "ChatRoomMessage.AnonText"
+msgstr "某人"
+
+msgid "ChatRoomMessage.ChatRoomString[0]"
+msgstr "频道无效或无法找到：'%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[1]"
+msgstr "你已经是频道 '%title%' 的成员"
+
+msgid "ChatRoomMessage.ChatRoomString[2]"
+msgstr "频道 '%title%' 需要密码！"
+
+msgid "ChatRoomMessage.ChatRoomString[3]"
+msgstr "为频道 '%title%' 指定的密码不正确"
+
+msgid "ChatRoomMessage.ChatRoomString[4]"
+msgstr "你已被禁止进入频道 '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[5]"
+msgstr "无法加入频道 '%title%'。频道已满！"
+
+msgid "ChatRoomMessage.ChatRoomString[6]"
+msgstr "你不被允许加入频道 '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[7]"
+msgstr "成功加入频道 '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[8]"
+msgstr "你已离开频道 '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[9]"
+msgstr "当前在频道 '%title%' 中发言"
+
+msgid "ChatRoomMessage.ChatRoomString[10]"
+msgstr "当前已不在频道 '%title%' 中发言"
