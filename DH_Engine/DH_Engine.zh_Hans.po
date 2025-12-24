@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-23 21:23+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2025-12-25 10:23+0000\n"
+"Last-Translator: Sanae <929719345@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_engine/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -1135,3 +1135,12 @@ msgstr "主物资储备"
 
 msgid "DHConstruction_Vehicle.ConstructionVerb"
 msgstr "放置"
+
+msgid "DHGameReplicationInfo.ForceScaleText"
+msgstr "尺寸"
+
+msgid "DHGameReplicationInfo.ReinforcementsInfiniteText"
+msgstr "无限"
+
+msgid "DHGetPassword.GetPassRetry.Caption"
+msgstr "提交"
