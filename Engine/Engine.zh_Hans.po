@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-25 10:23+0000\n"
-"Last-Translator: Sanae <929719345@qq.com>\n"
+"PO-Revision-Date: 2025-12-27 04:23+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/engine/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -391,3 +391,18 @@ msgstr "当前在频道 '%title%' 中发言"
 
 msgid "ChatRoomMessage.ChatRoomString[10]"
 msgstr "当前已不在频道 '%title%' 中发言"
+
+msgid "ChatRoomMessage.ChatRoomString[11]"
+msgstr "%pri%' 加入了频道 '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[12]"
+msgstr "'%pri%' 离开了频道 '%title%'"
+
+msgid "ChatRoomMessage.ChatRoomString[13]"
+msgstr "已成功禁止 '%pri%' 进入您的个人聊天频道"
+
+msgid "ChatRoomMessage.ChatRoomString[14]"
+msgstr "语音聊天封禁操作未成功.· ·未找到指定ID的玩家"
+
+msgid "ChatRoomMessage.ChatRoomString[15]"
+msgstr "该服务器未启用语音聊天功能"
