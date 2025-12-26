@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-25 10:23+0000\n"
-"Last-Translator: Sanae <929719345@qq.com>\n"
+"PO-Revision-Date: 2025-12-27 04:23+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_engine/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -1144,3 +1144,30 @@ msgstr "无限"
 
 msgid "DHGetPassword.GetPassRetry.Caption"
 msgstr "提交"
+
+msgid "DHHud.ServerNameText"
+msgstr "服务器名称: · "
+
+msgid "DHHud.MapNameText"
+msgstr "地图名称: · "
+
+msgid "DHHud.MapGameTypeText"
+msgstr "游戏模式: · "
+
+msgid "DHHud.AndMoreText"
+msgstr "还有更多..."
+
+msgid "DHHud.TimeElapsedText"
+msgstr "已用时间: · "
+
+msgid "DHHud.NeedsClearedText"
+msgstr " · (未占领)"
+
+msgid "DHHud.SayTypeConsoleText"
+msgstr "[控制台]"
+
+msgid "DHHud.SayTypeAllText"
+msgstr "[全体]"
+
+msgid "DHHud.TeamMessagePrefix"
+msgstr "[团队] · "
