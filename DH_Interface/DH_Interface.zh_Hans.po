@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-25 10:23+0000\n"
-"Last-Translator: Sanae <929719345@qq.com>\n"
+"PO-Revision-Date: 2025-12-27 04:23+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_interface/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -712,3 +712,251 @@ msgstr "新建"
 
 msgid "DHMaplistEditor.RemoveAllButton.Caption"
 msgstr "移除全部"
+
+msgid "DHMaplistEditor.RemoveButton.Caption"
+msgstr "移除"
+
+msgid "DHMaplistEditor.RenameMaplistButton.Caption"
+msgstr "重命名"
+
+msgid "DHMidGameVoiceChat.NOSPEECH.Caption"
+msgstr "忽略语音指令"
+
+msgid "DHMidGameVoiceChat.NOSPEECH.Hint"
+msgstr "不接收此玩家的任何语音指令，例如'找掩护!'"
+
+msgid "DHMutatorConfigMenu.AdvancedButton.Caption"
+msgstr "查看高级选项"
+
+msgid "DHMutatorConfigMenu.LockedCancelButton.Caption"
+msgstr "取消"
+
+msgid "DHMutatorConfigMenu.LockedOKButton.Caption"
+msgstr "好的"
+
+msgid "DHNetworkStatusMessage.NetStatOk.Caption"
+msgstr "好的"
+
+msgid "DHNetworkStatusMsg.StatusMessages[12]"
+msgstr "你已被踢出当前关卡剩余阶段的游戏.||如果管理员未对你进行处罚,这是对击杀队友行"
+"为的默认处罚,所以请不要再这样做."
+
+msgid "DHNetworkStatusMsg.StatusTitle[12]"
+msgstr "已被服务器踢出"
+
+msgid "DHPerformanceWarning.OkButton.Caption"
+msgstr "好的"
+
+msgid "DHPlayerSetupPage.psTitleBar.Caption"
+msgstr "玩家设定"
+
+msgid "DHQuitPage.NoButton.Caption"
+msgstr "不"
+
+msgid "DHQuitPage.QuitDesc.Caption"
+msgstr "你真的确定要退出吗?"
+
+msgid "DHQuitPage.YesButton.Caption"
+msgstr "是"
+
+msgid "DHScoreBoard.MunitionPercentageText"
+msgstr "军需品"
+
+msgid "DHScoreBoard.PlayersText"
+msgstr "玩家数"
+
+msgid "DHScoreBoard.TickHealthText"
+msgstr "Tick率: · "
+
+msgid "DHScoreBoard.NetHealthText"
+msgstr "丢包率: · "
+
+msgid "DHScoreBoard.NoPlayersText"
+msgstr "无玩家"
+
+msgid "DHScoreBoard.SquadMemberIndexColumnTitle"
+msgstr "#"
+
+msgid "DHScoreBoard.RoleColumnTitle"
+msgstr "兵种"
+
+msgid "DHScoreBoard.KillsColumnTitle"
+msgstr "击杀数"
+
+msgid "DHScoreBoard.DeathsColumnTitle"
+msgstr "死亡数"
+
+msgid "DHScoreBoard.ScoreColumnTitle"
+msgstr "分数"
+
+msgid "DHScoreBoard.PingColumnTitle"
+msgstr "延迟"
+
+msgid "DHServerBrowser.WelcomeMessageText"
+msgstr "欢迎来到至暗时刻:欧洲'44-'45!别忘了加入我们超过5000名成员的Discord社区,一起讨"
+"论游戏、提出建议或反馈漏洞!战场上见!"
+
+msgid "DHServerBrowser.WelcomeMessageDiscordButtonText"
+msgstr "加入Discord"
+
+msgid "DHServerBrowser.WelcomeMessagePlayButtonText"
+msgstr "只管玩吧!"
+
+msgid "DHServerBrowser.PanelCaption<0>"
+msgstr "收藏夹"
+
+msgid "DHServerBrowser.PanelCaption<1>"
+msgstr "局域网"
+
+msgid "DHServerBrowser.PanelCaption<2>"
+msgstr "互联网"
+
+msgid "DHServerBrowser.PanelCaption<3>"
+msgstr "局域网"
+
+msgid "DHServerBrowser.PanelCaption<4>"
+msgstr "互联网"
+
+msgid "DHServerBrowser.PanelCaption<5>"
+msgstr "互联网"
+
+msgid "DHServerBrowser.PanelHint<0>"
+msgstr "请从您的收藏夹中选择一个服务器加入"
+
+msgid "DHServerBrowser.PanelHint<1>"
+msgstr "查看您局域网内所有正在运行的DH服务器"
+
+msgid "DHServerBrowser.PanelHint<2>"
+msgstr "请从全球的DH服务器中选择"
+
+msgid "DHServerBrowser.PanelHint<3>"
+msgstr "查看您局域网内所有正在运行的RO服务器"
+
+msgid "DHServerBrowser.PanelHint<4>"
+msgstr "从全球数百个RO服务器中选择"
+
+msgid "DHServerBrowser.PanelHint<5>"
+msgstr "从全球数百个RO服务器中选择"
+
+msgid "DHServerBrowser.GameTypeCombo.Caption"
+msgstr "游戏模式"
+
+msgid "DHServerBrowser.ServerBrowserHeader.Caption"
+msgstr "服务器浏览器"
+
+msgid "DHServerLoading.DeployingText"
+msgstr "正在部署至战场 {0}"
+
+msgid "DHServerLoading.AuthorText"
+msgstr "制作者: {0}"
+
+msgid "DHSettingsPage.PanelCaption<0>"
+msgstr "游戏"
+
+msgid "DHSettingsPage.PanelCaption<1>"
+msgstr "显示设定"
+
+msgid "DHSettingsPage.PanelCaption<2>"
+msgstr "音频设定"
+
+msgid "DHSettingsPage.PanelCaption<3>"
+msgstr "操作设定"
+
+msgid "DHSettingsPage.PanelCaption<4>"
+msgstr "输入设定"
+
+msgid "DHSettingsPage.PanelCaption<5>"
+msgstr "抬头显示设定(HUD)"
+
+msgid "DHSettingsPage.PanelHint<0>"
+msgstr "配置游戏和网络相关设置..."
+
+msgid "DHSettingsPage.PanelHint<1>"
+msgstr "选择分辨率或更改显示和细节设置..."
+
+msgid "DHSettingsPage.PanelHint<2>"
+msgstr "调整音频体验..."
+
+msgid "DHSettingsPage.PanelHint<3>"
+msgstr "配置键盘和鼠标控制..."
+
+msgid "DHSettingsPage.PanelHint<4>"
+msgstr "配置杂项输入选项..."
+
+msgid "DHSettingsPage.PanelHint<5>"
+msgstr "自定义您的HUD..."
+
+msgid "DHSettingsPage.SettingHeader.Caption"
+msgstr "设置"
+
+msgid "DHSettings_Footer.BackB.Caption"
+msgstr "返回"
+
+msgid "DHSettings_Footer.DefaultB.Caption"
+msgstr "默认"
+
+msgid "DHSituationMapGUIPage.EnableMouseControlPrompt"
+msgstr "请按 [%JUMP%] 激活鼠标控制"
+
+msgid "DHTab_AudioSettings.AudioBK1.Caption"
+msgstr "音效系统"
+
+msgid "DHTab_AudioSettings.AudioBK3.Caption"
+msgstr "语音聊天"
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Caption"
+msgstr "最大音频通道数"
+
+msgid "DHTab_AudioSettings.AudioChannelsNum.Hint"
+msgstr "同时使用的音频通道数量"
+
+msgid "DHTab_AudioSettings.AudioDefaultDriver.Caption"
+msgstr "系统驱动程序"
+
+msgid "DHTab_AudioSettings.AudioEffectsVolumeSlider.Caption"
+msgstr "音效音量"
+
+msgid "DHTab_AudioSettings.AudioLowDetail.Caption"
+msgstr "低音效细节"
+
+msgid "DHTab_AudioSettings.AudioMessageBeep.Caption"
+msgstr "消息提示音"
+
+msgid "DHTab_AudioSettings.AudioMode.Caption"
+msgstr "音频模式"
+
+msgid "DHTab_AudioSettings.AudioMusicVolume.Caption"
+msgstr "音乐音量"
+
+msgid "DHTab_AudioSettings.AudioPlayVoices.Caption"
+msgstr "播放语音消息"
+
+msgid "DHTab_AudioSettings.AudioReverseStereo.Caption"
+msgstr "反向立体声"
+
+msgid "DHTab_AudioSettings.AutoJoinPublic.Caption"
+msgstr "自动加入公共频道"
+
+msgid "DHTab_AudioSettings.AutoSpeakCheckbox.Caption"
+msgstr "自动选择有效语音频道"
+
+msgid "DHTab_AudioSettings.ChatPasswordEdit.Caption"
+msgstr "聊天密码"
+
+msgid "DHTab_AudioSettings.Dampen.Caption"
+msgstr "使用语音聊天时降低游戏音量"
+
+msgid "DHTab_AudioSettings.DefaultActiveChannelEditBox.Caption"
+msgstr "默认频道名称"
+
+msgid "DHTab_AudioSettings.DisableGameMusic.Caption"
+msgstr "游戏过程中禁用音乐"
+
+msgid "DHTab_AudioSettings.EnableVoiceChat.Caption"
+msgstr "启用语音聊天"
+
+msgid "DHTab_AudioSettings.VoiceQuality.Caption"
+msgstr "网络质量"
+
+msgid "DHTab_AudioSettings.VoiceQualityLAN.Caption"
+msgstr "本地网络质量"
