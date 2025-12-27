@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-27 04:23+0000\n"
+"PO-Revision-Date: 2025-12-28 13:23+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_vehicles/zh_Hans/>\n"
@@ -1117,3 +1117,153 @@ msgstr "M4A3(76)W 谢尔曼"
 
 msgid "DH_ShermanTank_M4A3E2_Jumbo.VehicleNameString"
 msgstr "M4A3E2(75)W 谢尔曼"
+
+msgid "DH_ShermanTank_M4A3E8.VehicleNameString"
+msgstr "谢尔曼 M4A3E8"
+
+msgid "DH_ShermanTank_M4A3E8_Fury.VehicleNameString"
+msgstr "谢尔曼 M4A3E8'狂怒'"
+
+msgid "DH_ShermanTank_M4A3E8_ZombieSlayer.VehicleNameString"
+msgstr "谢尔曼 M4A3E8 '僵尸杀手'"
+
+msgid "DH_StuH42Cannon.ProjectileDescriptions<1>"
+msgstr "烟幕弹"
+
+msgid "DH_StuH42Cannon.nProjectileDescriptions<0>"
+msgstr "高爆"
+
+msgid "DH_StuH42Cannon.nProjectileDescriptions<1>"
+msgstr "烟幕弹"
+
+msgid "DH_StuH42Cannon.nProjectileDescriptions<2>"
+msgstr "破甲"
+
+msgid "DH_StuH42Destroyer.VehicleNameString"
+msgstr "3号突击炮G型"
+
+msgid "DH_StuartCannon.ProjectileDescriptions<2>"
+msgstr "霰弹"
+
+msgid "DH_StuartTank.VehicleNameString"
+msgstr "M5 斯图亚特"
+
+msgid "DH_StuartTank_British.VehicleNameString"
+msgstr "斯图亚特 6型"
+
+msgid "DH_Stug3GCannon.ProjectileDescriptions<2>"
+msgstr "烟幕弹"
+
+msgid "DH_Stug3GCannon.nProjectileDescriptions<2>"
+msgstr "烟幕弹"
+
+msgid "DH_Stug3GDestroyer.VehicleNameString"
+msgstr "3号突击炮G型"
+
+msgid "DH_T3476Tank.VehicleNameString"
+msgstr "T34/76(1940型)"
+
+msgid "DH_T3476Tank_German.VehicleNameString"
+msgstr "T-34 747 德缴(r)"
+
+msgid "DH_T3476Tank_GermanB.VehicleNameString"
+msgstr "T-34 747 德缴(r)"
+
+msgid "DH_T3476_42Tank.VehicleNameString"
+msgstr "T34/76 (1942型)"
+
+msgid "DH_T3476_43Tank.VehicleNameString"
+msgstr "T34/76 (1943型)"
+
+msgid "DH_T3485Cannon.nProjectileDescriptions<2>"
+msgstr "高爆"
+
+msgid "DH_T3485Cannon_Berlin.nProjectileDescriptions<2>"
+msgstr "高爆"
+
+msgid "DH_T3485Tank.VehicleNameString"
+msgstr "T34/85"
+
+msgid "DH_T3485Tank_German.VehicleNameString"
+msgstr "T-34/85 747 德缴(r)"
+
+msgid "DH_T60Cannon.nProjectileDescriptions<0>"
+msgstr "穿甲+高爆"
+
+msgid "DH_T60Tank.VehicleNameString"
+msgstr "T-60 轻型坦克"
+
+msgid "DH_T_4F1Tank.VehicleNameString"
+msgstr "4号F型 (苏缴)"
+
+msgid "DH_T_4GEarlyTank.VehicleNameString"
+msgstr "4号G型 (苏缴)"
+
+msgid "DH_T_5GTank.VehicleNameString"
+msgstr "T-V '黑豹'G型(苏缴)"
+
+msgid "DH_Tiger2BTank.VehicleNameString"
+msgstr "6号'虎王'坦克 B型"
+
+msgid "DH_TigerTank.VehicleNameString"
+msgstr "6号 '虎式' E型"
+
+msgid "DH_TigerTank_Butcher.VehicleNameString"
+msgstr "6号'屠夫'坦克 E型"
+
+msgid "DH_UFO.VehicleNameString"
+msgstr "未界定之不可思议物体(UFO)"
+
+msgid "DH_UFOBlue.VehicleNameString"
+msgstr "悲叹之蓝UFO"
+
+msgid "DH_UFOGreen.VehicleNameString"
+msgstr "忠诚之绿UFO"
+
+msgid "DH_UFORed.VehicleNameString"
+msgstr "愤怒之红UFO"
+
+msgid "DH_UniversalCarrierTransport.VehicleNameString"
+msgstr "通用运载车"
+
+msgid "DH_WespeCannon.ProjectileDescriptions<1>"
+msgstr "烟幕弹"
+
+msgid "DH_WespeCannon.nProjectileDescriptions<0>"
+msgstr "高爆"
+
+msgid "DH_WespeCannon.nProjectileDescriptions<1>"
+msgstr "烟幕弹"
+
+msgid "DH_WespeCannon.nProjectileDescriptions<2>"
+msgstr "破甲弹"
+
+msgid "DH_WespeTank.VehicleNameString"
+msgstr "'胡蜂'自行火炮"
+
+msgid "DH_WillysJeep.VehicleNameString"
+msgstr "威利斯吉普MB型"
+
+msgid "DH_WirbelwindTank.VehicleNameString"
+msgstr "4号'旋风'防空坦克"
+
+msgid "DH_WolverineCannon_Early.ProjectileDescriptions<2>"
+msgstr "烟幕弹"
+
+msgid "DH_WolverineCannon_Early.nProjectileDescriptions<2>"
+msgstr "M88型烟幕弹"
+
+msgid "DH_WolverineTank.VehicleNameString"
+msgstr "M10 '狼獾'坦克歼击车"
+
+msgid "DH_WolverineTank_British.VehicleNameString"
+msgstr "狼獾 SP 坦克歼击车"
+
+msgid "DH_ZiS5vTruck.VehicleNameString"
+msgstr "吉斯-5V型卡车"
+
+msgid "DH_ZiS5vTruckSupport.VehicleNameString"
+msgstr "吉斯-5V型卡车 (物资运输)"
+
+msgid "DH_ZiS5vTruckTransport.VehicleNameString"
+msgstr "吉斯-5V型卡车 (人员运输)"
