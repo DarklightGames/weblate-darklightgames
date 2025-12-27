@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-27 04:23+0000\n"
+"PO-Revision-Date: 2025-12-28 13:23+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/engine/zh_Hans/>\n"
@@ -406,3 +406,9 @@ msgstr "语音聊天封禁操作未成功.· ·未找到指定ID的玩家"
 
 msgid "ChatRoomMessage.ChatRoomString[15]"
 msgstr "该服务器未启用语音聊天功能"
+
+msgid "PlayerController.ViewingFrom"
+msgstr "当前视角来源"
+
+msgid "PlayerController.OwnCamera"
+msgstr "己方画面"
