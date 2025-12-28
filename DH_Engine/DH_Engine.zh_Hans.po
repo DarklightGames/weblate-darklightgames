@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-27 04:23+0000\n"
+"PO-Revision-Date: 2025-12-28 13:23+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_engine/zh_Hans/>\n"
@@ -1171,3 +1171,219 @@ msgstr "[全体]"
 
 msgid "DHHud.TeamMessagePrefix"
 msgstr "[团队] · "
+
+msgid "DHInventorySpawner.MenuNameFormat"
+msgstr "{name} {noun}"
+
+msgid "DHRadioTouchMessage.CalibratingMessage"
+msgstr "无线电正在校准"
+
+msgid "DHReinforcementAwardMsg.ObjectiveString"
+msgstr "目标"
+
+msgid "DHReinforcementAwardMsg.ReinforcementAward"
+msgstr "你方部队因占领 {1} 而获得 {0} 支增援部队!"
+
+msgid "DHReinforcementAwardMsg.ReinforcementLoss"
+msgstr "你方部队因丢失 {1} 而损失 {0} 支增援部队!"
+
+msgid "DHReinforcementAwardMsg.ReinforcementAttrition"
+msgstr "你方部队因持续损耗正在大量损失增援兵力!"
+
+msgid "DHReinforcementMsg.ReinforcementsRemaining"
+msgstr "你方部队目前仅剩余 {0}% 的增援兵力!"
+
+msgid "DHReinforcementMsg.ReinforcementsDepleted"
+msgstr "你方部队的增援兵力已耗尽!"
+
+msgid "DHResetGameMsg.CountdownText"
+msgstr "游戏将在 {seconds} 秒后重新开始"
+
+msgid "DHResetGameMsg.GameRestartingText"
+msgstr "游戏正在重新开始"
+
+msgid "DHResupplyMessage.HaveResupplied"
+msgstr "你已为 {0} 给予补给"
+
+msgid "DHResupplyMessage.BeenResupplied"
+msgstr "你已收到来自 {0} 的补给"
+
+msgid "DHResupplyMessage.HaveResuppliedFriendlyMortar"
+msgstr "你已为友方迫击炮完成补给"
+
+msgid "DHRocketWarningMessage.NoHipFire"
+msgstr "你无法以腰射方式使用 {0} 进行开火"
+
+msgid "DHRocketWarningMessage.CrouchOrRestToFire"
+msgstr "你必须处于蹲伏状态或将武器架设后,才能用 {0} 开火"
+
+msgid "DHRocketWarningMessage.ProneOrRestToFire"
+msgstr "你需要处于卧倒状态或将武器架设后,才能用 {0} 开火"
+
+msgid "DHRocketWarningMessage.NoProneReload"
+msgstr "你无法再卧倒状态下为 {0} 重新装填"
+
+msgid "DHRocketWarningMessage.RestToReload"
+msgstr "你必须处于卧倒状态才能为 {0} 重新装填"
+
+msgid "DHRocketWarningMessage.ShoulderForAssistedReload"
+msgstr "你必须将 {0} 抵肩才能进行辅助装填"
+
+msgid "DHRocketWarningMessage.CantBeMoving"
+msgstr "你必须保持静止才能用 {0} 开火"
+
+msgid "DHScoreCategory_Combat.HumanReadableName"
+msgstr "战斗"
+
+msgid "DHScoreCategory_Support.HumanReadableName"
+msgstr "支援"
+
+msgid "DHScoreEvent_ConstructionCompleted.HumanReadableName"
+msgstr "建筑"
+
+msgid "DHScoreEvent_FireSupportSpottingAssist.HumanReadableName"
+msgstr "火力支援侦查协助"
+
+msgid "DHScoreEvent_FriendlyReload.HumanReadableName"
+msgstr "友军装填"
+
+msgid "DHScoreEvent_FriendlyResupply.HumanReadableName"
+msgstr "友军补给"
+
+msgid "DHScoreEvent_Kill.HumanReadableName"
+msgstr "击杀"
+
+msgid "DHScoreEvent_ObjectiveCapture.HumanReadableName"
+msgstr "占点数"
+
+msgid "DHScoreEvent_ObjectiveNeutralize.HumanReadableName"
+msgstr "据点中立化"
+
+msgid "DHScoreEvent_SquadRallyPointEstablished.HumanReadableName"
+msgstr "班组集合点已建立"
+
+msgid "DHScoreEvent_SquadRallyPointEstablishedAssist.HumanReadableName"
+msgstr "班组集合点建立 (协助)"
+
+msgid "DHScoreEvent_SquadRallyPointSpawn.HumanReadableName"
+msgstr "班组集合点重生"
+
+msgid "DHScoreEvent_Suicide.HumanReadableName"
+msgstr "自杀"
+
+msgid "DHScoreEvent_TeamKill.HumanReadableName"
+msgstr "友军击杀"
+
+msgid "DHScoreEvent_TeamKillPunish.HumanReadableName"
+msgstr "友军击杀惩罚"
+
+msgid "DHScoreEvent_VehicleKill.HumanReadableName"
+msgstr "载具摧毁"
+
+msgid "DHServerSayMessage.MessagePrefix"
+msgstr "[服务器]"
+
+msgid "DHSetupPhaseMessage.PhaseMessage"
+msgstr "战斗将在 {0} 后开始"
+
+msgid "DHSetupPhaseMessage.PhaseEndMessage"
+msgstr "战斗已开始!"
+
+msgid "DHSignal_Fire.SignalName"
+msgstr "开火"
+
+msgid "DHSignal_Move.SignalName"
+msgstr "移动"
+
+msgid "DHSpawnProtectMineVolume.SafePeriodWarningMessage"
+msgstr "此地现为地方控制区! 你尚有 %remaining% 秒时间返回我方防线!"
+
+msgid "DHSpawnProtectMineVolume.SpawnMFActivatedMessage"
+msgstr "此地现为敌方控制区,立即撤退！"
+
+msgid "DHSpawnProtectMineVolume.ExitedMinefieldMessage"
+msgstr "你已离开敌方领土.再次进入将被视为逃兵行为!"
+
+msgid "DHSpawnProtectMineVolume.UnprotectedVehicleWarning"
+msgstr "此载具已被敌方发现!"
+
+msgid "DHSpawnProtectMineVolume.WarningMessage"
+msgstr "你已进入敌方控制区,立即撤退!"
+
+msgid "DHSquadInviteInteraction.PromptText"
+msgstr "{0} 邀请您加入 {1} 班组."
+
+msgid "DHSquadInviteInteraction.Options<0>.Text"
+msgstr "接受"
+
+msgid "DHSquadInviteInteraction.Options<1>.Text"
+msgstr "拒绝"
+
+msgid "DHSquadInviteInteraction.Options<2>.Text"
+msgstr "无视所有"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.PromptText"
+msgstr "{volunteer} 已自愿担任班组副班长/助手."
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<0>.Text"
+msgstr "接受"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<1>.Text"
+msgstr "拒绝"
+
+msgid "DHSquadLeaderAssistantVolunteerInteraction.Options<2>.Text"
+msgstr "无视所有"
+
+msgid "DHSquadLeaderSayDeadMessage.MessagePrefix"
+msgstr "(死亡) [班长]"
+
+msgid "DHSquadLeaderSayMessage.MessagePrefix"
+msgstr "[班长]"
+
+msgid "DHSquadLeaderVolunteerInteraction.PromptText"
+msgstr "你的班组需要班长! 主动申请担任班长? ({time})"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<0>.Text"
+msgstr "志愿者"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<1>.Text"
+msgstr "拒绝"
+
+msgid "DHSquadLeaderVolunteerInteraction.Options<2>.Text"
+msgstr "无视所有"
+
+msgid "DHSquadMergeRequestInteraction.PromptText"
+msgstr "{0} 提出将您的班组并入 {1} 小队的提议"
+
+msgid "DHSquadMergeRequestInteraction.Options<0>.Text"
+msgstr "接受"
+
+msgid "DHSquadMergeRequestInteraction.Options<1>.Text"
+msgstr "拒绝"
+
+msgid "DHSquadMergeRequestInteraction.Options<2>.Text"
+msgstr "无视所有"
+
+msgid "DHSquadMessage.JoinedMessage"
+msgstr "{0} 已加入班组."
+
+msgid "DHSquadMessage.LeftMessage"
+msgstr "{0} 已离开班组."
+
+msgid "DHSquadMessage.KickedMessage"
+msgstr "你已被班组中踢出."
+
+msgid "DHSquadMessage.NoLongerLeaderMessage"
+msgstr "你不再是班长了."
+
+msgid "DHSquadMessage.YouAreNowLeaderMessage"
+msgstr "你现在是班长了."
+
+msgid "DHSquadMessage.NewLeaderMessage"
+msgstr "{0} 已成为班长."
+
+msgid "DHSquadMessage.InviteAlreadyInSquadMessage"
+msgstr "{0} 已经在一个班组了."
+
+msgid "DHSquadMessage.InvitePendingMessage"
+msgstr "{0}已经被邀请加入一个班组,请稍后再试."
