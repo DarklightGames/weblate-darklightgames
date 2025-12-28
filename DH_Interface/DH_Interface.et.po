@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-20 18:23+0000\n"
+"PO-Revision-Date: 2025-12-29 21:23+0000\n"
 "Last-Translator: Ahto Jõesalu <ahto.joesalu.a@gmail.com>\n"
 "Language-Team: Estonian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/et/>\n"
@@ -547,3 +547,275 @@ msgstr "Tagasi"
 
 msgid "DHGamePageMP.MPFooter.SecondaryCaption"
 msgstr "Pühendatud"
+
+#, fuzzy
+msgid "DHGamePageSP.NoBotsWarningText"
+msgstr ""
+"Darkest Hour: Europe '44-'45 keskendub ainult mitmikmägule ning seetõttu "
+"puudub toetus üksikmänguks arvuti vastu."
+
+msgid "DHGamePageSP.PageCaption"
+msgstr "Harjutus"
+
+msgid "DHGamePageSP.SPFooter.PrimaryCaption"
+msgstr "Alusta Harjutus Mängu"
+
+msgid "DHGetDataMenu.CancelButton.Caption"
+msgstr "TÜHISTA"
+
+msgid "DHGetDataMenu.CancelButton.Hint"
+msgstr "Sulge menüü, hüljates muudatused."
+
+msgid "DHGetDataMenu.OkButton.Caption"
+msgstr "Olgu"
+
+msgid "DHIAMultiColumnRulesPanel.AdvancedButton.Caption"
+msgstr "Vaata Täiustatud Valikuid"
+
+msgid "DHLearnToPlayFooter.GameBackButton.Caption"
+msgstr "Tagasi"
+
+msgid "DHLearnToPlayPage.PanelCaption<0>"
+msgstr "Video Juhised"
+
+msgid "DHLearnToPlayPage.PanelHint<0>"
+msgstr "Vaata videoid, et õppida mängu kohta"
+
+msgid "DHLearnToPlayPage.LearnToPlayHeader.Caption"
+msgstr "Õpi Mängima"
+
+msgid "DHMOTDConfigPage.LockedCancelButton.Caption"
+msgstr "Tühista"
+
+msgid "DHMOTDConfigPage.LockedOKButton.Caption"
+msgstr "Olgu"
+
+#, fuzzy
+msgid "DHMainMenu.SteamMustBeRunningText"
+msgstr ""
+"Steam peab taustal töötama ning te vajate töötavat interneti ühendust, et "
+"mängida"
+
+msgid "DHMainMenu.CreditsButton.Caption"
+msgstr "Autorid"
+
+msgid "DHMainMenu.DiscordButton.Hint"
+msgstr "Ühinege meiega Discordis!"
+
+msgid "DHMainMenu.FacebookButton.Hint"
+msgstr "Jälgige meid Facebookis!"
+
+msgid "DHMainMenu.GitHubButton.Hint"
+msgstr "Ühinege meiega GitHubis!"
+
+msgid "DHMainMenu.InstantActionButton.Caption"
+msgstr "Harjuta"
+
+msgid "DHMainMenu.QuitButton.Caption"
+msgstr "Välju"
+
+msgid "DHMainMenu.ServerButton.Caption"
+msgstr "Serveri Brauser"
+
+msgid "DHMainMenu.SettingsButton.Caption"
+msgstr "Seadmed"
+
+msgid "DHMainMenu.SteamCommunityButton.Hint"
+msgstr "Ühinege Steami Kommuuniga!"
+
+#, fuzzy
+msgid "DHMainMenu.WeblateButton.Hint"
+msgstr "Lokaliseeri mängu koos Weblateiga!"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<0>"
+msgstr "Nomineeritud Kaardid"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<2>"
+msgstr "Kaardi Suurus"
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<0>"
+msgstr "Kaardi nimi."
+
+msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<2>"
+msgstr "Soovitatav mängjatearv."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<0>"
+msgstr "Kaardi Nimi."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<1>"
+msgstr "Liitlasteriik"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<2>"
+msgstr "Teljekiik"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<3>"
+msgstr "Mängutüüp"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<4>"
+msgstr "Kaardi Suurus"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<0>"
+msgstr "Kaardi nimi."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<1>"
+msgstr "Liitlasteriik kaardil."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<2>"
+msgstr "Teljeriik kaardil."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<3>"
+msgstr "Mis mängu- või lahingutüüp on kaardil."
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadingHints<4>"
+msgstr "Soovitatav mängjatearv."
+
+msgid "DHMapVotingPage.lmsgMode[0]"
+msgstr "Enamuse Võit"
+
+#, fuzzy
+msgid "DHMapVotingPage.FilterClearButton.Caption"
+msgstr "Puhasta"
+
+msgid "DHMapVotingPage.FilterEditbox.Caption"
+msgstr "Otsi"
+
+msgid "DHMaplistEditor.ActiveBackground.Caption"
+msgstr "Valitud Kaardid"
+
+msgid "DHMaplistEditor.AddAllButton.Caption"
+msgstr "Lisa Kõik"
+
+msgid "DHMaplistEditor.AddButton.Caption"
+msgstr "Lisa"
+
+msgid "DHMaplistEditor.AvailBackground.Caption"
+msgstr "Saadaval Kaardid"
+
+msgid "DHMaplistEditor.DeleteMaplistButton.Caption"
+msgstr "Kustuta"
+
+msgid "DHMaplistEditor.MapListSectionBackground.Caption"
+msgstr "Salvesta Kaartide Nimekiri"
+
+msgid "DHMaplistEditor.MoveDownButton.Caption"
+msgstr "Liigu Alla"
+
+msgid "DHMaplistEditor.MoveUpButton.Caption"
+msgstr "Liigu Üles"
+
+msgid "DHMaplistEditor.NewMaplistButton.Caption"
+msgstr "Uus"
+
+msgid "DHMaplistEditor.RemoveAllButton.Caption"
+msgstr "Eemalda Kõik"
+
+msgid "DHMaplistEditor.RemoveButton.Caption"
+msgstr "Eemalda"
+
+msgid "DHMaplistEditor.RenameMaplistButton.Caption"
+msgstr "Nimeta ümber"
+
+msgid "DHMutatorConfigMenu.AdvancedButton.Caption"
+msgstr "Vaata Täiustatud Seadmeid"
+
+msgid "DHMutatorConfigMenu.LockedCancelButton.Caption"
+msgstr "Tühista"
+
+msgid "DHMutatorConfigMenu.LockedOKButton.Caption"
+msgstr "Olgu"
+
+msgid "DHNetworkStatusMessage.NetStatOk.Caption"
+msgstr "Olgu"
+
+msgid "DHPerformanceWarning.OkButton.Caption"
+msgstr "Olgu"
+
+msgid "DHQuitPage.NoButton.Caption"
+msgstr "EI"
+
+msgid "DHQuitPage.QuitDesc.Caption"
+msgstr "Kas olete kindel, et soovite lahkuda?"
+
+msgid "DHQuitPage.YesButton.Caption"
+msgstr "JAH"
+
+msgid "DHScoreBoard.MunitionPercentageText"
+msgstr "Laskemoon"
+
+msgid "DHScoreBoard.PlayersText"
+msgstr "Mängijad"
+
+msgid "DHScoreBoard.NoPlayersText"
+msgstr "Puuduvad Mängijad"
+
+msgid "DHScoreBoard.SquadMemberIndexColumnTitle"
+msgstr "#"
+
+msgid "DHScoreBoard.RoleColumnTitle"
+msgstr "Roll"
+
+msgid "DHScoreBoard.KillsColumnTitle"
+msgstr "K"
+
+msgid "DHScoreBoard.DeathsColumnTitle"
+msgstr "D"
+
+msgid "DHScoreBoard.ScoreColumnTitle"
+msgstr "Skoor"
+
+msgid "DHScoreBoard.PingColumnTitle"
+msgstr "Ping"
+
+msgid "DHServerBrowser.WelcomeMessageDiscordButtonText"
+msgstr "Ühinege Discordiga"
+
+msgid "DHServerBrowser.WelcomeMessagePlayButtonText"
+msgstr "Lihtsalt Mängige!"
+
+msgid "DHServerBrowser.PanelCaption<0>"
+msgstr "Lemmikud"
+
+msgid "DHServerBrowser.PanelCaption<1>"
+msgstr "LAN"
+
+msgid "DHServerBrowser.PanelCaption<2>"
+msgstr "Internet"
+
+msgid "DHServerBrowser.PanelCaption<3>"
+msgstr "LAN"
+
+msgid "DHServerBrowser.PanelCaption<4>"
+msgstr "Internet"
+
+msgid "DHServerBrowser.PanelCaption<5>"
+msgstr "Internet"
+
+msgid "DHServerBrowser.GameTypeCombo.Caption"
+msgstr "Mängutüüp"
+
+msgid "DHServerBrowser.ServerBrowserHeader.Caption"
+msgstr "Serveri Brauser"
+
+msgid "DHSettingsPage.PanelCaption<0>"
+msgstr "Mäng"
+
+msgid "DHSettingsPage.PanelCaption<1>"
+msgstr "Kuva"
+
+msgid "DHSettingsPage.PanelCaption<2>"
+msgstr "Heli"
+
+msgid "DHSettingsPage.PanelCaption<3>"
+msgstr "Juhtnupud"
+
+msgid "DHSettingsPage.PanelCaption<4>"
+msgstr "Sisend"
+
+msgid "DHSettingsPage.PanelCaption<5>"
+msgstr "HUD"
+
+msgid "DHSettingsPage.SettingHeader.Caption"
+msgstr "Seadmed"
+
+msgid "DHSettings_Footer.BackB.Caption"
+msgstr "Tagasi"
