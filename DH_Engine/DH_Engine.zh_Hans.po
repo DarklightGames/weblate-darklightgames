@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-12-28 13:23+0000\n"
-"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"Last-Translator: Sanae <929719345@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_engine/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -1387,3 +1387,9 @@ msgstr "{0} 已经在一个班组了."
 
 msgid "DHSquadMessage.InvitePendingMessage"
 msgstr "{0}已经被邀请加入一个班组,请稍后再试."
+
+msgid "DHSquadMessage.FullMessage"
+msgstr "你无法发送邀请，因为小队已满。"
+
+msgid "DHSquadMessage.InviteSentMessage"
+msgstr "{0} 已被邀请加入小队。"
