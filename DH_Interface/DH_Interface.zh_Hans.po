@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-27 04:23+0000\n"
+"PO-Revision-Date: 2025-12-28 13:23+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_interface/zh_Hans/>\n"
@@ -960,3 +960,443 @@ msgstr "网络质量"
 
 msgid "DHTab_AudioSettings.VoiceQualityLAN.Caption"
 msgstr "本地网络质量"
+
+msgid "DHTab_AudioSettings.VoiceVolume.Caption"
+msgstr "语音接受音量"
+
+msgid "DHTab_Controls.Section_Inventory"
+msgstr "物品栏"
+
+msgid "DHTab_Controls.Captions_Inventory[0]"
+msgstr "物品栏1号位"
+
+msgid "DHTab_Controls.Captions_Inventory[1]"
+msgstr "物品栏2号位"
+
+msgid "DHTab_Controls.Captions_Inventory[2]"
+msgstr "物品栏3号位"
+
+msgid "DHTab_Controls.Captions_Inventory[3]"
+msgstr "物品栏4号位"
+
+msgid "DHTab_Controls.Captions_Inventory[4]"
+msgstr "物品栏5号位"
+
+msgid "DHTab_Controls.Captions_Inventory[5]"
+msgstr "物品栏6号位"
+
+msgid "DHTab_Controls.Captions_Inventory[6]"
+msgstr "物品栏7号位"
+
+msgid "DHTab_Controls.Captions_Inventory[7]"
+msgstr "物品栏8号位"
+
+msgid "DHTab_Controls.Captions_Inventory[8]"
+msgstr "物品栏9号位"
+
+msgid "DHTab_Controls.Captions_Inventory[9]"
+msgstr "物品栏10号位"
+
+msgid "DHTab_Controls.ControlProfiles[0]"
+msgstr "当前"
+
+msgid "DHTab_Controls.ControlProfiles[1]"
+msgstr "默认 (重置)"
+
+msgid "DHTab_Controls.ControlProfiles[2]"
+msgstr "RO (经典)"
+
+msgid "DHTab_Controls.ControlProfiles[3]"
+msgstr "Pro 104"
+
+msgid "DHTab_Controls.ControlProfiles[4]"
+msgstr "Pro 105"
+
+msgid "DHTab_Controls.ControlProfiles[5]"
+msgstr "XBox 360 手柄"
+
+msgid "DHTab_Controls.captions_movement[12]"
+msgstr "切换至奔跑"
+
+msgid "DHTab_Controls.captions_weapons[9]"
+msgstr "更换机枪枪管"
+
+msgid "DHTab_Controls.captions_weapons[10]"
+msgstr "切换开火模式"
+
+msgid "DHTab_Controls.captions_weapons[11]"
+msgstr "部署机枪 / 安装刺刀 / 发射载具烟幕发射器"
+
+msgid "DHTab_Controls.captions_weapons[12]"
+msgstr "增加载具烟幕发射器射程/旋转设置"
+
+msgid "DHTab_Controls.captions_weapons[13]"
+msgstr "减小载具烟幕发射器射程/旋转设置"
+
+msgid "DHTab_Controls.captions_weapons[14]"
+msgstr "切换已选定的火炮目标"
+
+msgid "DHTab_Controls.captions_comm[3]"
+msgstr "班组文字频道"
+
+msgid "DHTab_Controls.captions_comm[4]"
+msgstr "语音指令菜单"
+
+msgid "DHTab_Controls.captions_comm[5]"
+msgstr "查看游戏内聊天"
+
+msgid "DHTab_Controls.captions_comm[6]"
+msgstr "激活麦克风"
+
+msgid "DHTab_Controls.captions_comm[7]"
+msgstr "切换至指挥语音频道"
+
+msgid "DHTab_Controls.captions_comm[8]"
+msgstr "切换至附近语音频道"
+
+msgid "DHTab_Controls.captions_comm[9]"
+msgstr "切换至未分配语音频道"
+
+msgid "DHTab_Controls.captions_comm[10]"
+msgstr "切换至班组语音频道"
+
+msgid "DHTab_Controls.captions_comm[11]"
+msgstr "输入聊天信息"
+
+msgid "DHTab_Controls.captions_comm[12]"
+msgstr "屏蔽菜单"
+
+msgid "DHTab_Controls.captions_game[4]"
+msgstr "锁定/解锁 装甲载具座位"
+
+msgid "DHTab_Controls.captions_game[5]"
+msgstr "班组命令菜单"
+
+msgid "DHTab_Controls.captions_game[6]"
+msgstr "班组菜单"
+
+msgid "DHTab_Controls.captions_game[7]"
+msgstr "自动加入班组"
+
+msgid "DHTab_Controls.captions_game[8]"
+msgstr "放置班组集合点"
+
+msgid "DHTab_Controls.PanelCaption"
+msgstr "操作"
+
+msgid "DHTab_Controls.ControlProfilesComboBox.Caption"
+msgstr "控制配置"
+
+msgid "DHTab_Controls.InputBK1.Caption"
+msgstr "绑定"
+
+msgid "DHTab_DetailSettings.NoneText"
+msgstr "无"
+
+msgid "DHTab_DetailSettings.RenderModeText[0]"
+msgstr "Direct3D 9.0 (推荐)"
+
+msgid "DHTab_DetailSettings.RenderModeText[1]"
+msgstr "Direct3D 8.0 (渲染问题)"
+
+msgid "DHTab_DetailSettings.RenderModeText[2]"
+msgstr "OpenGL (不稳定)"
+
+msgid "DHTab_DetailSettings.RelaunchQuestion"
+msgstr "图形模式已成功更改. · ·但此更改需重启游戏方可生效. · ·是否立即重启游戏?"
+
+msgid "DHTab_DetailSettings.BrightnessSlider.Caption"
+msgstr "明亮度"
+
+msgid "DHTab_DetailSettings.ContrastSlider.Caption"
+msgstr "对比度"
+
+msgid "DHTab_DetailSettings.CorpseStayTime.Caption"
+msgstr "尸体存在时间 (秒)"
+
+msgid "DHTab_DetailSettings.DetailAnisotropy.Caption"
+msgstr "各向异性过滤"
+
+msgid "DHTab_DetailSettings.DetailAntialiasing.Caption"
+msgstr "抗锯齿"
+
+msgid "DHTab_DetailSettings.DetailCharacterDetail.Caption"
+msgstr "角色细节"
+
+msgid "DHTab_DetailSettings.DetailCharacterShadows.Caption"
+msgstr "角色阴影"
+
+msgid "DHTab_DetailSettings.DetailCoronas.Caption"
+msgstr "光晕"
+
+msgid "DHTab_DetailSettings.DetailDecalStay.Caption"
+msgstr "弹痕停留时间"
+
+msgid "DHTab_DetailSettings.DetailDecals.Caption"
+msgstr "弹痕"
+
+msgid "DHTab_DetailSettings.DetailDecoLayers.Caption"
+msgstr "地面细节"
+
+msgid "DHTab_DetailSettings.DetailDetailTextures.Caption"
+msgstr "细节纹理"
+
+msgid "DHTab_DetailSettings.DetailDynamicLighting.Caption"
+msgstr "动态光照"
+
+msgid "DHTab_DetailSettings.DetailForceFSAASS.Caption"
+msgstr "强制全屏抗锯齿截图"
+
+msgid "DHTab_DetailSettings.DynamicFogRatioCH.Caption"
+msgstr "动态视距"
+
+msgid "DHTab_DetailSettings.DynamicFogRatioCH.Hint"
+msgstr "根据性能自动调整视距,尽可能保持帧率最大化"
+
+msgid "DHTab_DetailSettings.GammaSlider.Caption"
+msgstr "伽马值"
+
+msgid "DHTab_DetailSettings.GlobalDetails.Caption"
+msgstr "画质"
+
+msgid "DHTab_DetailSettings.HDRCheckbox.Caption"
+msgstr "高动态范围泛光"
+
+msgid "DHTab_DetailSettings.MeshLOD.Caption"
+msgstr "动态网格细节层次"
+
+msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Caption"
+msgstr "动态视距帧率阈值"
+
+msgid "DHTab_DetailSettings.MinDesiredFPS_NU.Hint"
+msgstr "在游戏图形优化中,动态视距帧率阈值是一个关键参数,他决定了动态视距系统何时开始"
+"自动降低渲染距离并提升帧率"
+
+msgid "DHTab_DetailSettings.MotionBlur.Caption"
+msgstr "模糊效果"
+
+msgid "DHTab_DetailSettings.RenderDeviceCombo.Caption"
+msgstr "渲染设备"
+
+msgid "DHTab_DetailSettings.ScopeDetail.Caption"
+msgstr "瞄准镜细节"
+
+msgid "DHTab_DetailSettings.UseVSyncCheckBox.Caption"
+msgstr "垂直同步 (不推荐)"
+
+msgid "DHTab_DetailSettings.UseVSyncCheckBox.Hint"
+msgstr "垂直同步用于减少画面撕裂,但代价是会显著增加输入延迟 "
+"(GPU控制面板中的设置可能会覆盖此类图形选项,包括VSync)"
+
+msgid "DHTab_DetailSettings.VideoColorDepth.Caption"
+msgstr "色深"
+
+msgid "DHTab_DetailSettings.VideoFullScreen.Caption"
+msgstr "全屏"
+
+msgid "DHTab_DetailSettings.VideoResolution.Caption"
+msgstr "分辨率"
+
+msgid "DHTab_DetailSettings.WeatherEffects.Caption"
+msgstr "天气效果"
+
+msgid "DHTab_DetailSettings.sbSection1.Caption"
+msgstr "基础渲染"
+
+msgid "DHTab_DetailSettings.sbSection2.Caption"
+msgstr "游戏细节设置"
+
+msgid "DHTab_DetailSettings.sbSection3.Caption"
+msgstr "伽马值测试"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[0]"
+msgstr "无"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[1]"
+msgstr "每月"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[2]"
+msgstr "每年"
+
+msgid "DHTab_GameSettings.PurgeCacheDaysText[3]"
+msgstr "自定义 (来自ini配置文件) - 每 %NumDays% 天"
+
+msgid "DHTab_GameSettings.IDText"
+msgstr "ID:"
+
+msgid "DHTab_GameSettings.NoROIDText"
+msgstr "必须首先加入多人游戏"
+
+msgid "DHTab_GameSettings.DegreesText"
+msgstr "度"
+
+msgid "DHTab_GameSettings.NetSpeedText[0]"
+msgstr "最低速 ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[1]"
+msgstr "低速 ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[2]"
+msgstr "中速 ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[3]"
+msgstr "建议 ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[4]"
+msgstr "高速 ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[5]"
+msgstr "超高速 ({0})"
+
+msgid "DHTab_GameSettings.NetSpeedText[6]"
+msgstr "用户自定网速 (%NetSpeed%)"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[0]"
+msgstr "从不"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[1]"
+msgstr "只和车组成员"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlertsText[2]"
+msgstr "总是"
+
+msgid "DHTab_GameSettings.PanelCaption"
+msgstr "游戏"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Caption"
+msgstr "自动载具语音警告"
+
+msgid "DHTab_GameSettings.AutomaticVehicleAlerts.Hint"
+msgstr "自动载具语音警告的触发时机"
+
+msgid "DHTab_GameSettings.BayonetSpawn.Caption"
+msgstr "装备刺刀重生"
+
+msgid "DHTab_GameSettings.BayonetSpawn.Hint"
+msgstr "适合希望始终装配刺刀、不喜欢每次重生手动安装的玩家"
+
+msgid "DHTab_GameSettings.CopyROIDButton.Caption"
+msgstr "复制ID到剪贴板"
+
+msgid "DHTab_GameSettings.CopyROIDButton.Hint"
+msgstr "此功能允许您将ROID以文本形式粘贴"
+
+msgid "DHTab_GameSettings.DynamicNetspeed.Caption"
+msgstr "动态网速"
+
+msgid "DHTab_GameSettings.DynamicNetspeed.Hint"
+msgstr "此操作会将网速降低至6000或直至延迟达到40以下,适用于那些愿意牺牲稳定网速来获取"
+"更低延迟的玩家"
+
+msgid "DHTab_GameSettings.GameBK1.Caption"
+msgstr "游玩设定"
+
+msgid "DHTab_GameSettings.GameBK2.Caption"
+msgstr "载具设定"
+
+msgid "DHTab_GameSettings.GameBK3.Caption"
+msgstr "网络设定"
+
+msgid "DHTab_GameSettings.Incognito.Caption"
+msgstr "无痕浏览模式"
+
+msgid "DHTab_GameSettings.Incognito.Hint"
+msgstr "不要在积分榜上显示我的赞助者或开发者身份"
+
+msgid "DHTab_GameSettings.LockTankOnEntry.Caption"
+msgstr "进入坦克时锁定座位"
+
+msgid "DHTab_GameSettings.LockTankOnEntry.Hint"
+msgstr "当你重生进入载具或进入空载具时,此功能会自动锁定载具,防止其他玩家使用该载具的"
+"乘员味."
+
+msgid "DHTab_GameSettings.ManualReloading.Caption"
+msgstr "手动装填坦克炮弹"
+
+msgid "DHTab_GameSettings.ManualReloading.Hint"
+msgstr "炮弹在发射后需手动点击才会重新装填,便于您在发射后决定是否更换弹种"
+
+msgid "DHTab_GameSettings.Netspeed.Caption"
+msgstr "网速 (字节每秒)"
+
+msgid "DHTab_GameSettings.Netspeed.Hint"
+msgstr "此设置用于限制游戏使用的最大网络带宽,单位为字节每秒(B/"
+"s).服务器可以设置客户端最大速度限制,该限制会覆盖客户端的本地设置."
+
+msgid "DHTab_GameSettings.NoGore.Caption"
+msgstr "无血腥效果"
+
+msgid "DHTab_GameSettings.NoGore.Hint"
+msgstr "无断肢、断头或血液效果"
+
+msgid "DHTab_GameSettings.PlayerName.Caption"
+msgstr "玩家名称"
+
+msgid "DHTab_GameSettings.PlayersROID.Caption"
+msgstr "请先加入多人游戏,之后您的ID才会显示"
+
+msgid "DHTab_GameSettings.PurgeCacheDays.Caption"
+msgstr "清除缓存"
+
+msgid "DHTab_GameSettings.PurgeCacheDays.Hint"
+msgstr "服务器自定义下载文件的清理频率"
+
+msgid "DHTab_GameSettings.ThrottleOtherVehicles.Caption"
+msgstr "渐增式油门 - 其他载具"
+
+msgid "DHTab_GameSettings.ThrottleOtherVehicles.Hint"
+msgstr "使用渐增式油门来控制非坦克车辆,不推荐"
+
+msgid "DHTab_GameSettings.ThrottleTanks.Caption"
+msgstr "渐增式油门 - 坦克"
+
+msgid "DHTab_GameSettings.ThrottleTanks.Hint"
+msgstr "使用渐增式油门,适用于长途驾驶"
+
+msgid "DHTab_GameSettings.ViewFOV.Caption"
+msgstr "标准视野(FOV)"
+
+msgid "DHTab_GameSettings.ViewFOV.Hint"
+msgstr ""
+"视野宽度决定了屏幕上可看到多少东西.较低的FOV会使视角略微拉近,而较高的FOV则会"
+"拉远视角,同时增加外围视野.请注意,使用宽屏显示器并不会拓宽实际视野范围--"
+"同一视野内容会被拉伸至更款的屏幕,而画面上下部分会被裁切."
+
+msgid "DHTab_Hud.GameBK.Caption"
+msgstr "设置"
+
+msgid "DHTab_Hud.GameBK1.Caption"
+msgstr "风格"
+
+msgid "DHTab_Hud.GameHudMessageCount.Caption"
+msgstr "画面内最大聊天信息数量"
+
+msgid "DHTab_Hud.GameHudMessageOffset.Caption"
+msgstr "消息字体偏移量"
+
+msgid "DHTab_Hud.GameHudMessageScale.Caption"
+msgstr "聊天字体大小"
+
+msgid "DHTab_Hud.GameHudShowDeathMessages.Caption"
+msgstr "展示死亡信息"
+
+msgid "DHTab_Hud.GameHudShowPersonalInfo.Caption"
+msgstr "显示个人信息"
+
+msgid "DHTab_Hud.GameHudShowWeaponInfo.Caption"
+msgstr "显示武器信息"
+
+msgid "DHTab_Hud.GameHudSimpleColours.Caption"
+msgstr "简易HUD颜色"
+
+msgid "DHTab_Hud.GameHudSimpleColours.Hint"
+msgstr "红蓝队HUD颜色,色盲模式."
+
+msgid "DHTab_Hud.GameHudVisible.Caption"
+msgstr "隐藏HUD"
+
+msgid "DHTab_Hud.HintsCombo.Caption"
+msgstr "小提示等级"
+
+msgid "DHTab_Hud.ShowChatMessages.Caption"
+msgstr "显示聊天信息"
