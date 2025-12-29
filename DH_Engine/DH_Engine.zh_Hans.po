@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-28 13:23+0000\n"
-"Last-Translator: Sanae <929719345@qq.com>\n"
+"PO-Revision-Date: 2025-12-29 21:23+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_engine/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -1393,3 +1393,196 @@ msgstr "你无法发送邀请，因为小队已满。"
 
 msgid "DHSquadMessage.InviteSentMessage"
 msgstr "{0} 已被邀请加入小队。"
+
+msgid "DHSquadMessage.NoLeaderMessage"
+msgstr "班长已离开班组."
+
+msgid "DHSquadMessage.LockedMessage"
+msgstr "班组已被锁止."
+
+msgid "DHSquadMessage.UnlockedMessage"
+msgstr "班组已被解锁."
+
+msgid "DHSquadMessage.CreatedMessage"
+msgstr "您已创建一个班组."
+
+msgid "DHSquadMessage.RallyPointActiveMessage"
+msgstr "你的班组已建立新的集结点."
+
+msgid "DHSquadMessage.RallyPointTooCloseMessage"
+msgstr "你无法在距离现有集结点如此近的位置建立新的,必须至少远离 {0} 米."
+
+msgid "DHSquadMessage.RallyPointExhaustedMessage"
+msgstr "小队集结点已用尽."
+
+msgid "DHSquadMessage.RallyPointNeedSquadmateNearby"
+msgstr "你必须在附近至少有一名其他班组成员才能创建班组集合点."
+
+msgid "DHSquadMessage.RallyPointCreatedMessage"
+msgstr "你已创建了一个班组集合点.请与你的班组一起确保该区域安全,以建立此集合点."
+
+msgid "DHSquadMessage.RallyPointOverrunMessage"
+msgstr "一个班组集合点已被敌人占领."
+
+msgid "DHSquadMessage.RallyPointGroundTooSteep"
+msgstr "此处地面过于陡峭,无法建立集合点."
+
+msgid "DHSquadMessage.RallyPointInMinefield"
+msgstr "你不能再雷区中创建班组集合点."
+
+msgid "DHSquadMessage.RallyPointInWater"
+msgstr "你无法再水中创建班组集合点."
+
+msgid "DHSquadMessage.RallyPointNotOnFoot"
+msgstr "你必须处于步行状态才能创建集合点."
+
+msgid "DHSquadMessage.RallyPointTooSoon"
+msgstr "你的班组必须等待 {0} 秒后才能创建集合点."
+
+msgid "DHSquadMessage.RallyPointAbandoned"
+msgstr "一个班组集合点因被放弃而未能建立."
+
+msgid "DHSquadMessage.RallyPointBadLocation"
+msgstr "无法在此位置创建班组集合点."
+
+msgid "DHSquadMessage.RallyPointRemoved"
+msgstr "班长已强制移除了一个集合点."
+
+msgid "DHSquadMessage.RallyPointAbandonmentWarning"
+msgstr "一个新创建的班组集合点正在被放弃!"
+
+msgid "DHSquadMessage.RallyPointSwapped"
+msgstr "班长已强制更换当前活跃的集合点."
+
+msgid "DHSquadMessage.RallyPointTooCloseToConstruction"
+msgstr "你无法在距离 {0} 如此近的位置创建班组集合点."
+
+msgid "DHSquadMessage.RallyPointDestroyed"
+msgstr "一个班组集合点已被摧毁."
+
+msgid "DHSquadMessage.RallyPointInUncontrolledObjective"
+msgstr "你无法在非我方控制的据点内创建班组集合点."
+
+msgid "DHSquadMessage.RallyPointExposed"
+msgstr "一个班组集合点已被敌人发现!"
+
+msgid "DHSquadMessage.RallyPointBehindEnemyLines"
+msgstr "无法在地方控制的领土内创建班组集合点."
+
+msgid "DHSquadMessage.BannedPlayer"
+msgstr "{0} 已被从班组中踢出."
+
+msgid "DHSquadMessage.BannedCannotJoin"
+msgstr "你已被踢出此小队,因此无法加入."
+
+msgid "DHSquadMessage.AutoJoinFailed"
+msgstr "没有符合你条件加入的班组."
+
+msgid "DHSquadMessage.YouLeft"
+msgstr "你已离开班组."
+
+msgid "DHSquadMessage.YouVolunteeredToBeSquadLeader"
+msgstr "你已自愿担任班长.新的班长将在稍后选出."
+
+msgid "DHSquadMessage.NoVolunteers"
+msgstr "没有成员自愿担任班长."
+
+msgid "DHSquadMessage.NoVolunteersDisbanded"
+msgstr "你的班组因规模过小且无成员自愿担任班长已被解散."
+
+msgid "DHSquadMessage.AlreadyInSquad"
+msgstr "你已经在一个班组了."
+
+msgid "DHSquadMessage.YouAreNowAssistantMessage"
+msgstr "你现在担任班长的助理."
+
+msgid "DHSquadMessage.YouAreNoLongerAssistantMessage"
+msgstr "你不再担任班长的助理."
+
+msgid "DHSquadMessage.NewAssistantMessage"
+msgstr "{0} 已被升职为班长的助理."
+
+msgid "DHSquadMessage.NotInSquadMessage"
+msgstr "你当前未加入任何班组.按 [%SQUADMENU%] 进入小队菜单,或按 [%SQUADJOINAUTO%] "
+"自动加入一个班组."
+
+msgid "DHSquadMessage.SquadMergedSourceMessage"
+msgstr "你的班组已并入 {0} 的班组.你的新班长是 {1}."
+
+msgid "DHSquadMessage.SquadMergedSourceGenericMessage"
+msgstr "你的班组已被并入另一个班组."
+
+msgid "DHSquadMessage.SquadMergedDestinationMessage"
+msgstr "另一个班组已被并入你的班组."
+
+msgid "DHSquadMessage.SquadMergeRequestDeniedMessage"
+msgstr "你的班组合并请求已被 {0} 班组拒绝."
+
+msgid "DHSquadMessage.SquadMergeRequestDeniedGenericMessage"
+msgstr "你的班组合并请求已被拒绝."
+
+msgid "DHSquadMessage.SquadMergeFailedMessage"
+msgstr "班组合并失败,"
+
+msgid "DHSquadMessage.SquadTargetSelectionRefused"
+msgstr "你是一名炮兵观察员.无法将当前火炮打击目标切换至你自己的标记点."
+
+msgid "DHSquadMessage.SquadPromotionRequestDeniedMessage"
+msgstr "你的班长升职请求已被 {0} 拒绝."
+
+msgid "DHSquadMessage.SquadPromotionRequestAcceptedMessage"
+msgstr "你的班长升职请求已被 {0} 批准."
+
+msgid "DHSquadMessage.SquadPromotionRequestSentMessage"
+msgstr "已向{0} 发送班长升职请求."
+
+msgid "DHSquadMessage.SquadPromotionRequestDuplicateMessage"
+msgstr "你已经向 {0} 发送过班长升职请求."
+
+msgid "DHSquadOrderMessage.WaitText"
+msgstr "请稍后再下达新的指令"
+
+msgid "DHSquadOrderMessage.AttackText"
+msgstr "班长已下达新的进攻指令"
+
+msgid "DHSquadOrderMessage.DefendText"
+msgstr "班长已下达新的防守指令"
+
+msgid "DHSquadOrderMessage.MoveText"
+msgstr "班长已下达新的移动指令"
+
+msgid "DHSquadOrderMessage.AttentionText"
+msgstr "班长已下达新的注意指令"
+
+msgid "DHSquadPromotionRequestInteraction.PromptText"
+msgstr "{0} 希望升职你为 {1} 班组的队长."
+
+msgid "DHSquadPromotionRequestInteraction.Options<0>.Text"
+msgstr "接受"
+
+msgid "DHSquadPromotionRequestInteraction.Options<1>.Text"
+msgstr "拒绝"
+
+msgid "DHSquadPromotionRequestInteraction.Options<2>.Text"
+msgstr "无视所有"
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<0>"
+msgstr "请稍等片刻再发送班组合并请求."
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<1>"
+msgstr "发送班组合并请求时发生错误."
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<2>"
+msgstr "无法向此班组发送合并请求."
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<3>"
+msgstr "此班组已存在一个合并请求."
+
+msgid "DHSquadReplicationInfo.SquadMergeRequestResultStrings<4>"
+msgstr "班组合并请求已发送."
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<0>"
+msgstr "发送班组晋升请求时发生错误."
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<1>"
+msgstr "此玩家已存在一个班组晋升请求"
