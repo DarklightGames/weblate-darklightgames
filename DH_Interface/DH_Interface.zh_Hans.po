@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-28 13:23+0000\n"
-"Last-Translator: Sanae <929719345@qq.com>\n"
+"PO-Revision-Date: 2025-12-29 21:23+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_interface/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -1418,3 +1418,157 @@ msgstr "世界细节"
 
 msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
 msgstr "可视距离"
+
+msgid "DHTab_Hud.ShowChatMessages.Hint"
+msgstr "显示来自玩家和服务器的聊天信息.消息仍可在控制台中查看."
+
+msgid "DHTab_Hud.ShowCompass.Caption"
+msgstr "显示指南针"
+
+msgid "DHTab_Hud.ShowMapFirstSpawn.Caption"
+msgstr "显示初始重生时的地图"
+
+msgid "DHTab_Hud.UseNativeItemNames.Caption"
+msgstr "使用原生物品名称"
+
+msgid "DHTab_Hud.UseNativeRoleNames.Caption"
+msgstr "使用原生兵种名称"
+
+msgid "DHTab_Hud.UseTechnicalAmmoNames.Caption"
+msgstr "使用技术性弹药名称 (坦克/反坦克炮)"
+
+msgid "DHTab_Hud.myGameHudOpacity.Caption"
+msgstr "HUD 透明度"
+
+msgid "DHTab_Hud.myHudScale.Caption"
+msgstr "HUD 缩放比例"
+
+#, fuzzy
+msgid "DHTab_Input.InputAutoSlope.Caption"
+msgstr "自动水平调整视线方向"
+
+msgid "DHTab_Input.InputBK1.Caption"
+msgstr "设置"
+
+msgid "DHTab_Input.InputBK3.Caption"
+msgstr "微调"
+
+msgid "DHTab_Input.InputInvertMouse.Caption"
+msgstr "反转鼠标"
+
+msgid "DHTab_Input.InputIronSightBipodFactor.Caption"
+msgstr "两脚架灵敏度系数"
+
+msgid "DHTab_Input.InputIronSightFactor.Caption"
+msgstr "机械瞄具灵敏度系数"
+
+msgid "DHTab_Input.InputMenuSensitivity.Caption"
+msgstr "鼠标灵敏度 (菜单)"
+
+msgid "DHTab_Input.InputMouseAccel.Caption"
+msgstr "鼠标加速阈值"
+
+msgid "DHTab_Input.InputMouseLag.Caption"
+msgstr "降低鼠标延迟"
+
+msgid "DHTab_Input.InputMouseLag.Hint"
+msgstr "开启此选项将减少鼠标延迟."
+
+msgid "DHTab_Input.InputMousePollRate.Caption"
+msgstr "鼠标轮询率"
+
+msgid "DHTab_Input.InputMouseSensitivity.Caption"
+msgstr "鼠标灵敏度 (游戏)"
+
+msgid "DHTab_Input.InputMouseSmoothStr.Caption"
+msgstr "鼠标平滑强度"
+
+msgid "DHTab_Input.InputMouseSmoothing.Caption"
+msgstr "鼠标平滑"
+
+msgid "DHTab_Input.InputScopedFactor.Caption"
+msgstr "瞄准镜和望远镜灵敏度系数"
+
+msgid "DHTab_Input.InputUseJoystick.Caption"
+msgstr "启用遥杆"
+
+msgid "DHTab_MainSP.MapCaptionText"
+msgstr "{game} 地图"
+
+msgid "DHTab_MainSP.MapAuthorText"
+msgstr "作者: {author}"
+
+msgid "DHTab_MainSP.MapPlayersText"
+msgstr "{min} 名玩家"
+
+msgid "DHTab_MainSP.MapPlayersRangeText"
+msgstr "{min}-{max} 名玩家"
+
+msgid "DHTab_MainSP.DifficultyCombo.Caption"
+msgstr "难度"
+
+msgid "DHTab_MainSP.MapAuthorLabel.Caption"
+msgstr "测试"
+
+msgid "DHTab_MainSP.MaplistButton.ButtonCaption"
+msgstr "地图列表配置"
+
+msgid "DHTab_MainSP.NoPreview.Caption"
+msgstr "无预览可用"
+
+msgid "DHTab_MainSP.OptionsContainer.Caption"
+msgstr "设置"
+
+msgid "DHTab_MainSP.PreviewGroup.Caption"
+msgstr "预览"
+
+msgid "DHTab_MainSP.RecommendedPlayers.Caption"
+msgstr "最佳 4-8名玩家"
+
+msgid "DHTab_MainSP.ScrollSection.Caption"
+msgstr "地图描述"
+
+msgid "DHTab_MainSP.SelectionGroup.Caption"
+msgstr "地图选择"
+
+msgid "DHTab_MutatorSP.ActiveBackground.Caption"
+msgstr "使用修改器"
+
+msgid "DHTab_MutatorSP.AvailBackground.Caption"
+msgstr "可用修改器"
+
+msgid "DHTab_MutatorSP.DescriptionBackground.Caption"
+msgstr "修改器详情"
+
+msgid "DHTab_MutatorSP.IAMutatorAdd.Caption"
+msgstr "添加"
+
+msgid "DHTab_MutatorSP.IAMutatorAll.Caption"
+msgstr "添加所有"
+
+msgid "DHTab_MutatorSP.IAMutatorClear.Caption"
+msgstr "移除所有"
+
+msgid "DHTab_MutatorSP.IAMutatorConfig.Caption"
+msgstr "修改器设定"
+
+msgid "DHTab_MutatorSP.IAMutatorRemove.Caption"
+msgstr "移除"
+
+msgid "DHTab_ServerRulesPanel.AdvancedButton.Caption"
+msgstr "查看高级选项"
+
+msgid "DHTab_ServerRulesPanel.EnableWebadmin.Caption"
+msgstr "启用WebAdmin"
+
+msgid "DHTab_ServerRulesPanel.LANServer.Caption"
+msgstr "局域网服务器"
+
+msgid "DHTab_ServerRulesPanel.WebadminPort.Caption"
+msgstr "WebAdmin端口"
+
+msgid "DHVideoChangePrompt.bCancel.Caption"
+msgstr "恢复设置"
+
+msgid "DHVideoChangePrompt.bOk.Caption"
+msgstr "保存设置"
