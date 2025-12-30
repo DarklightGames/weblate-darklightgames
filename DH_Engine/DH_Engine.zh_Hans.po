@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-29 21:23+0000\n"
-"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"PO-Revision-Date: 2025-12-30 23:56+0000\n"
+"Last-Translator: Sanae <929719345@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_engine/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -821,7 +821,7 @@ msgid "DHHintManager.Hints[66].Text"
 msgstr "注意！你刚打了一发‘冲天炮’！炮弹随时会掉回你头上，立刻卧倒找掩护！快！"
 
 msgid "DHHud.NoTimeLimitText"
-msgstr "无限补给"
+msgstr "无限"
 
 msgid "DHHud.LegendCarriedArtilleryRadioText"
 msgstr "炮兵电台员"
@@ -1586,3 +1586,403 @@ msgstr "发送班组晋升请求时发生错误."
 
 msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<1>"
 msgstr "此玩家已存在一个班组晋升请求"
+
+msgid "DHSquadSayMessage.MessagePrefix"
+msgstr "[小队]"
+
+msgid "DHSupplyMessage.SuppliesUnloaded"
+msgstr "{0} 份补给已从载具卸载到附近的 {1}"
+
+msgid "DHSupplyMessage.SuppliesLoaded"
+msgstr "{0} 份补给已从附近的 {1} 装载到载具中"
+
+msgid "DHSupplyMessage.VehicleFull"
+msgstr "该载具的补给缓存已满。"
+
+msgid "DHSupplyMessage.VehicleEmpty"
+msgstr "该载具的补给缓存已空。"
+
+msgid "DHSupplyMessage.NoSupplyCaches"
+msgstr "附近没有补给缓存。"
+
+msgid "DHSupplyMessage.SupplyCacheEmpty"
+msgstr "附近的补给物资已耗空。"
+
+msgid "DHSupplyMessage.SupplyCacheFull"
+msgstr "附近的补给物资已满。"
+
+msgid "DHSupplyMessage.SupplyCacheFallbackName"
+msgstr "补给箱"
+
+msgid "DHSupplyMessage.SuppliesRefunded"
+msgstr "{0} 份补给已退还至附近的缓存点。"
+
+msgid "DHSupplyVehicleMessage.Controls<0>.Text"
+msgstr "装载补给"
+
+msgid "DHSupplyVehicleMessage.Controls<1>.Text"
+msgstr "卸载补给"
+
+msgid "DHTeamKillInteraction.PromptText"
+msgstr "{0} 对你造成了友军误杀！"
+
+msgid "DHTeamKillInteraction.Options<0>.Text"
+msgstr "原谅"
+
+msgid "DHTeamKillInteraction.Options<1>.Text"
+msgstr "惩罚"
+
+msgid "DHTeamSayMessage.MessagePrefix"
+msgstr "[团队]"
+
+msgid "DHTeamSurrenderVoteMessage.VoteSucceededText"
+msgstr "撤退投票已通过 ({0})。"
+
+msgid "DHTeamSurrenderVoteMessage.VoteFailedText"
+msgstr "撤退投票未通过 ({0})。"
+
+msgid "DHTeamSurrenderVoteMessage.VoteSummaryText"
+msgstr "赞成票：{0}， 所需票数：{1}"
+
+msgid "DHTeamSurrenderVoteMessage.VoteNominatedText"
+msgstr "{0} 已发起撤退提名。"
+
+msgid "DHTeamSurrenderVoteMessage.VoteNominationsRemainingText"
+msgstr "还需要 {0} 次提名以启动投票。"
+
+msgid "DHUnits.DistanceUnits<0>.Name"
+msgstr "虚幻™单位"
+
+msgid "DHSquadReplicationInfo.SquadPromotionRequestResultStrings<2>"
+msgstr "小队队长晋升请求已发送。"
+
+msgid "DHUnits.DistanceUnits<0>.Symbol"
+msgstr "uu"
+
+msgid "DHUnits.DistanceUnits<1>.Name"
+msgstr "米"
+
+msgid "DHUnits.DistanceUnits<1>.Symbol"
+msgstr "m"
+
+msgid "DHUnits.DistanceUnits<2>.Name"
+msgstr "码"
+
+msgid "DHUnits.DistanceUnits<2>.Symbol"
+msgstr "yd"
+
+msgid "DHVehicleCannon.ProjectileDescriptions<0>"
+msgstr "APCBC"
+
+msgid "DHVehicleCannon.ProjectileDescriptions<1>"
+msgstr "高爆弹"
+
+msgid "DHVehicleMessage.AllRiderPositionsFull"
+msgstr "所有乘客座位均已占用"
+
+msgid "DHVehicleMessage.NoRiderPositions"
+msgstr "无法搭乘此载具"
+
+msgid "DHVehicleMessage.VehicleBurning"
+msgstr "载具起火！"
+
+msgid "DHVehicleMessage.OpenHatchToExit"
+msgstr "你必须打开舱盖 {0} 才能离开"
+
+msgid "DHVehicleMessage.ExitCommandersHatch"
+msgstr "你必须从车长舱口离开"
+
+msgid "DHVehicleMessage.ExitDriverOrComHatch"
+msgstr "从驾驶员或车长舱口离开"
+
+msgid "DHVehicleMessage.ExitCommandersOrMGHatch"
+msgstr "从车长舱口或机枪手舱口离开"
+
+msgid "DHVehicleMessage.CantFindExitPosition"
+msgstr "未找到出口位置"
+
+msgid "DHVehicleMessage.VehicleNowLocked"
+msgstr "本车辆的坦克乘员位置现已被锁定"
+
+msgid "DHVehicleMessage.VehicleNowUnlocked"
+msgstr "本车辆的坦克乘员位置现已被解锁"
+
+msgid "DHVehicleMessage.AbandonedVehicleUnlocked"
+msgstr "本车辆的坦克乘员位置现已被解锁"
+
+msgid "DHVehicleMessage.CantEnterLockedVehicle"
+msgstr "该载具已被其车组锁定"
+
+msgid "DHVehicleMessage.MapDisabledVehicleLocking"
+msgstr "本地图不允许载具被锁定"
+
+msgid "DHVehicleMessage.CantLockNonCrewVehicle"
+msgstr "无法锁定载具，因为它可以由非坦克乘员角色驾驶"
+
+msgid "DHVehicleMessage.OnlyTankCrewCanLockVehicle"
+msgstr "只有坦克乘员角色可以锁定或解锁载具"
+
+msgid "DHVehicleMessage.CanOnlyLockFromCrewPosition"
+msgstr "只有当你身处坦克乘员位置时，才能锁定或解锁载具"
+
+msgid "DHVehicleMessage.OtherCrewmanCanLockVehicle"
+msgstr "只有最高资历的乘员位置可以锁定或解锁载具"
+
+msgid "DHVehicleMessage.UnbuttonToReload"
+msgstr "你必须打开舱盖 {0} 才能重新装弹"
+
+msgid "DHVehicleMessage.VehicleScuttleInitiated"
+msgstr "目前已弃用"
+
+msgid "DHVehicleMessage.UnbuttonHatchToChangePosition"
+msgstr "你必须打开舱盖 {0} 才能切换位置"
+
+msgid "DHVehicleMessage.GunObstructed"
+msgstr "火炮因被遮挡而无法开火"
+
+msgid "DHVehicleMessage.NotQualified"
+msgstr "不具备操作此载具的资格"
+
+msgid "DHVehicleMessage.VehicleIsEnemy"
+msgstr "无法使用敌方载具"
+
+msgid "DHVehicleMessage.CannotEnter"
+msgstr "载具已满"
+
+msgid "DHVehiclePoolMessage.ActivatedMessage"
+msgstr "载具储备池已激活。"
+
+msgid "DHVehiclePoolMessage.DestroyedMessage"
+msgstr "载具储备池已激活。"
+
+msgid "DHVehicleSayMessage.MessagePrefix"
+msgstr "[载具]"
+
+msgid "DHVehicleTouchControlsMessage.Controls<0>.Text"
+msgstr "进入"
+
+msgid "DHVehicleVoiceSayMessage.MessagePrefix"
+msgstr "[语音]"
+
+msgid "DHVoicePack.SupportString[1]"
+msgstr "{objective} 需要支援"
+
+msgid "DHVoicePack.EnemyAbbrevAxis[3]"
+msgstr "工兵"
+
+msgid "DHVoicePack.AlertString[8]"
+msgstr "{objective} 正在遭受攻击"
+
+msgid "DHVoicePack.VehicleDirectionString[0]"
+msgstr "前往 {objective}"
+
+msgid "DHVoicePack.OrderString[0]"
+msgstr "进攻 {objective}"
+
+msgid "DHVoicePack.OrderString[1]"
+msgstr "防守 {objective}"
+
+msgid "DHVoiceReplicationInfo.LocalChannelText"
+msgstr "附近"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<0>"
+msgstr "指挥"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<1>"
+msgstr "指挥"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<2>"
+msgstr "未分配"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<3>"
+msgstr "未分配"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<4>"
+msgstr "小队"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<5>"
+msgstr "小队"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<6>"
+msgstr "小队"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<7>"
+msgstr "小队"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<8>"
+msgstr "小队"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<9>"
+msgstr "小队"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<10>"
+msgstr "小队"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<11>"
+msgstr "小队"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<12>"
+msgstr "小队"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<13>"
+msgstr "小队"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<14>"
+msgstr "小队"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<15>"
+msgstr "小队"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<16>"
+msgstr "小队"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<17>"
+msgstr "小队"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<18>"
+msgstr "小队"
+
+msgid "DHVoiceReplicationInfo.PublicChannelNames<19>"
+msgstr "小队"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecName"
+msgstr "更高品质"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<0>.CodecDescription"
+msgstr "(9.6kbps) - 占用更多带宽，但声音清晰得多。"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecName"
+msgstr "更高品质"
+
+msgid "DHVoiceReplicationInfo.InstalledCodec<1>.CodecDescription"
+msgstr "(9.6kbps) - 占用更多带宽，但声音清晰得多。"
+
+msgid "DHVoiceSayMessage.MessagePrefix"
+msgstr "[语音]"
+
+msgid "DHVoteInfo.Options<0>.Text"
+msgstr "赞成"
+
+msgid "DHVoteInfo.Options<1>.Text"
+msgstr "反对"
+
+msgid "DHVoteInfo_TeamSurrender.QuestionText"
+msgstr "你是否想撤退，以图来日再战？"
+
+msgid "DHVoteMessage.VoteReceievedText"
+msgstr "你的投票已收到。"
+
+msgid "DHVoteMessage.VoteConcludedText"
+msgstr "投票已结束。"
+
+msgid "DHVotingHandler.lmsgMapVotedTooRecently"
+msgstr "请等待 %seconds% 秒后再为其他地图投票！"
+
+msgid "DHVotingHandler.SwapAndRestartText"
+msgstr "DH-[交换队伍并重启]"
+
+msgid "DHWeaponPickup.PickupMessage"
+msgstr "你获得了 {0}"
+
+msgid "DHWeaponPickupTouchMessage.Controls<0>.Text"
+msgstr "拾取"
+
+msgid "DHWeaponsLockedMessage.LockedFFMessage"
+msgstr "你的武器因友军伤害已被锁定！"
+
+msgid "DHWeaponsLockedMessage.LockedSKMessage"
+msgstr "你的武器因过度重生点屠杀已被锁定！"
+
+msgid "DHWeaponsLockedMessage.LockedWithTimerMessage"
+msgstr "你的武器已被锁定 {0} 秒"
+
+msgid "DHWeaponsLockedMessage.LockedSetupPhaseMessage"
+msgstr "你的武器在准备阶段已被锁定"
+
+msgid "DHWeaponsLockedMessage.UnlockedMessage"
+msgstr "你的武器现已解锁"
+
+msgid "DHWeaponsLockedMessage.LockedFFSKMessage"
+msgstr "你的武器因屠杀友军重生点已被锁定！"
+
+msgid "DH_ModifyRoundTimeMessage.IncreasedText"
+msgstr "增加"
+
+msgid "DH_ModifyRoundTimeMessage.DecreasedText"
+msgstr "减少"
+
+msgid "DH_ModifyRoundTimeMessage.ChangedText"
+msgstr "变化"
+
+msgid "DH_ModifyRoundTimeMessage.RoundTimeModifiedText"
+msgstr "剩余时间已经{0}。"
+
+msgid "DarkestHourGame.ROHints<0>"
+msgstr "按下 %SHOWOBJECTIVES% 可以查看需要占领或防守的目标地图。"
+
+msgid "DarkestHourGame.ROHints<1>"
+msgstr "你可以按下 %FIRE3% 延迟投掷以“捏雷”。（握持时引信不启动）"
+
+msgid "DarkestHourGame.ROHints<2>"
+msgstr "要占领目标点，你必须先进入目标区域。通常需要至少一名以上的队友协同行动才能启"
+"动并完成占领。"
+
+msgid "DarkestHourGame.ROHints<3>"
+msgstr "游戏中按 %PLAYERMENU 2% 切换兵种，按 %PLAYERMENU% 切换阵营。"
+
+msgid "DarkestHourGame.ROHints<4>"
+msgstr "按下 %ROIRONSIGHTS% 键可以进入瞄准状态，以提高武器射击的精度和准度。"
+
+msgid "DarkestHourGame.ROHints<5>"
+msgstr "协助占领目标点可获得10点积分。"
+
+msgid "DarkestHourGame.ROHints<6>"
+msgstr "下蹲或卧倒射击可提升武器稳定性并降低后坐力。"
+
+msgid "DarkestHourGame.ROHints<7>"
+msgstr "停止行动稍作休息，体力即可恢复。"
+
+msgid "DarkestHourGame.ROHints<8>"
+msgstr "你可以在几乎所有物体上架设机枪——当部署图标出现时，按下 %DEPLOY% "
+"键即可完成架设。"
+
+msgid "DarkestHourGame.ROHints<9>"
+msgstr "装弹时，“弹匣余量充足”表示你装入武器的弹匣弹药存量超过一半。"
+
+msgid "DarkestHourGame.ROHints<10>"
+msgstr "你只能在机枪架设状态下进行重装填。"
+
+msgid "DarkestHourGame.ROHints<11>"
+msgstr "为需要弹药的机枪手提供补给，可获得1点积分。"
+
+msgid "DarkestHourGame.ROHints<12>"
+msgstr "机枪采用短点射方式射击时，可控性和杀伤效果更佳。"
+
+msgid "DarkestHourGame.ROHints<13>"
+msgstr "30口径枪管不可更换，注意防止过热！"
+
+msgid "DarkestHourGame.ROHints<14>"
+msgstr "占领目标点时，若有军官在场可提升士气并降低任务难度！"
+
+msgid "DarkestHourGame.ROHints<15>"
+msgstr "机枪手切勿单独架设阵地，务必寻找战友掩护侧后。"
+
+msgid "DarkestHourGame.ROHints<16>"
+msgstr "机枪手在架设状态下视野受限，建议尝试从侧翼发起攻击。"
+
+msgid "DarkestHourGame.ROHints<17>"
+msgstr "发射巴祖卡或铁拳后立即转移至新掩体，尾焰烟雾会暴露你的位置，敌方反击将接踵而"
+"至！"
+
+msgid "DarkestHourGame.ROHints<18>"
+msgstr "火箭武器射击时严禁正后方站人，尾喷冲击可能造成严重伤害！"
+
+msgid "DarkestHourGame.ROHints<19>"
+msgstr "反坦克士兵应始终与一名同伴协同行动，以确保弹药补给、加快装填速度并获得掩护。"
+
+msgid "DarkestHourGame.ROHints<20>"
+msgstr "切换至其他武器时，反坦克武器将自动卸弹。建议与队友协同行动，以便在需要时加快"
+"重装填速度。"
+
+msgid "DarkestHourGame.GameName"
+msgstr "至暗时刻游戏"
