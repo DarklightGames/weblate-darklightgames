@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-16 19:00+0000\n"
+"PO-Revision-Date: 2025-12-31 15:08+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
@@ -698,7 +698,7 @@ msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<0>"
 msgstr "Предложенные карты"
 
 msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<1>"
-msgstr "Вес голоса"
+msgstr "Количество голосов"
 
 msgid "DHMapVoteCountMultiColumnList.ColumnHeadings<2>"
 msgstr "Размер карты"
@@ -1071,7 +1071,7 @@ msgstr ""
 "регулиуя дальность прорисовки, в зависимости от производительности игры"
 
 msgid "DHTab_DetailSettings.ScopeDetail.Caption"
-msgstr "Детализация оптического прицела"
+msgstr "Прорисовка оптического прицела"
 
 msgid "DHTab_GameSettings.NoROIDText"
 msgstr "Сначала необходимо присоединиться к мультиплееру"
@@ -1236,7 +1236,7 @@ msgid "DHTab_DetailSettings.DetailTrilinear.Caption"
 msgstr "Трилинейная фильтрация"
 
 msgid "DHTab_DetailSettings.DetailWorldDetail.Caption"
-msgstr "Детали мира"
+msgstr "Детализация мира"
 
 msgid "DHTab_DetailSettings.DistanceLODSlider.Caption"
 msgstr "Дальность прорисовки"
@@ -1245,7 +1245,7 @@ msgid "DHTab_DetailSettings.GammaSlider.Caption"
 msgstr "Гамма"
 
 msgid "DHTab_DetailSettings.GlobalDetails.Caption"
-msgstr "Детали игры"
+msgstr "Настройки графики"
 
 msgid "DHTab_DetailSettings.HDRCheckbox.Caption"
 msgstr "HDR Освещение"
@@ -1290,7 +1290,7 @@ msgid "DHTab_DetailSettings.sbSection2.Caption"
 msgstr "Детали игры"
 
 msgid "DHTab_DetailSettings.sbSection3.Caption"
-msgstr "Тест гаммы"
+msgstr "Гамма тест"
 
 msgid "DHTab_GameSettings.PurgeCacheDaysText[0]"
 msgstr "Никогда"
