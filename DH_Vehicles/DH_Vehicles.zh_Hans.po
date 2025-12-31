@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-28 13:23+0000\n"
+"PO-Revision-Date: 2025-12-31 15:08+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_vehicles/zh_Hans/>\n"
@@ -264,7 +264,7 @@ msgid "DH_CromwellCannon.ProjectileDescriptions<0>"
 msgstr "风帽被帽穿甲弹"
 
 msgid "DH_CromwellCannon.ProjectileDescriptions<2>"
-msgstr "白磷烟雾弹"
+msgstr "白磷烟幕弹"
 
 msgid "DH_CromwellCannon.nProjectileDescriptions<0>"
 msgstr "M61型被帽穿甲弹"
@@ -603,7 +603,7 @@ msgid "DH_M7PriestCannon.nProjectileDescriptions<0>"
 msgstr "M1型高爆曳光弹"
 
 msgid "DH_M7PriestCannon.nProjectileDescriptions<1>"
-msgstr "M60 WP"
+msgstr "M60型白磷烟幕弹"
 
 msgid "DH_M7PriestCannon.nProjectileDescriptions<2>"
 msgstr "M67式破甲弹"
@@ -714,7 +714,7 @@ msgid "DH_PanzerIIINCannon.nProjectileDescriptions<1>"
 msgstr "38型B式空心装药榴弹"
 
 msgid "DH_PanzerIIINCannon.nProjectileDescriptions<2>"
-msgstr "半履带车用火炮"
+msgstr "炮射霰弹"
 
 msgid "DH_PanzerIIINTank.VehicleNameString"
 msgstr "三号N型坦克"
@@ -723,7 +723,7 @@ msgid "DH_PanzerIVF1Cannon.ProjectileDescriptions<0>"
 msgstr "风帽被帽穿甲弹"
 
 msgid "DH_PanzerIVF1Cannon.nProjectileDescriptions<0>"
-msgstr "红色被帽穿甲弹"
+msgstr "红色风帽被帽穿甲弹"
 
 msgid "DH_PanzerIVF1Cannon.nProjectileDescriptions<1>"
 msgstr "38型B式空心装药榴弹"
@@ -1140,7 +1140,7 @@ msgid "DH_StuH42Cannon.nProjectileDescriptions<2>"
 msgstr "破甲"
 
 msgid "DH_StuH42Destroyer.VehicleNameString"
-msgstr "3号突击炮G型"
+msgstr "3号突击榴弹炮 105毫米"
 
 msgid "DH_StuartCannon.ProjectileDescriptions<2>"
 msgstr "霰弹"
