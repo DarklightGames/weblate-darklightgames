@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-12 19:09+0000\n"
+"PO-Revision-Date: 2026-01-02 04:23+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/ru/>\n"
@@ -818,7 +818,7 @@ msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<1>"
 msgstr "M42 HE"
 
 msgid "DH_ShermanCannon_M4A3E8.nProjectileDescriptions<2>"
-msgstr "М93 БПС"
+msgstr "M93 HVAP"
 
 msgid "DH_ShermanFireFlyCannon.ProjectileDescriptions<0>"
 msgstr "ББ"
@@ -980,7 +980,7 @@ msgid "DH_T3485Cannon_Berlin.nProjectileDescriptions<2>"
 msgstr "О-365"
 
 msgid "DH_T3485Tank.VehicleNameString"
-msgstr "T-34-85 (Обр. 1944г.)"
+msgstr "T-34-85"
 
 msgid "DH_T3485Tank_German.VehicleNameString"
 msgstr "Pz.Kpfw.747 T-34(r)/85"
@@ -1199,7 +1199,7 @@ msgid "DH_ShermanCannon.nProjectileDescriptions<2>"
 msgstr "M64 WP"
 
 msgid "DH_ShermanTank_DDay.VehicleNameString"
-msgstr "Шерман M4A1(75) DD"
+msgstr "Шерман M4A1(75) ДД"
 
 msgid "DH_StuartCannon.nProjectileDescriptions<2>"
 msgstr "М2 Картечь"
