@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-11 18:43+0000\n"
+"PO-Revision-Date: 2026-01-05 04:23+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ru/>\n"
@@ -26,7 +26,7 @@ msgid "DH_6PounderGunCannonPawn.RangeText"
 msgstr "Ярды"
 
 msgid "DH_ZiS2Cannon.nProjectileDescriptions<2>"
-msgstr "БР-271П"
+msgstr "УБР-271П"
 
 msgid "DH_45mmM1942GunCannon.ProjectileDescriptions<2>"
 msgstr "БПС"
@@ -107,7 +107,7 @@ msgid "DH_ZiS3CannonLate.nProjectileDescriptions<0>"
 msgstr "БР-350Б"
 
 msgid "DH_ZiS2Cannon.nProjectileDescriptions<0>"
-msgstr "БР-271"
+msgstr "УБР-271"
 
 msgid "DH_45mmM1937GunCannon.nProjectileDescriptions<1>"
 msgstr "О-240"
@@ -239,7 +239,7 @@ msgid "DH_M116Cannon.nProjectileDescriptions<0>"
 msgstr "HE M48"
 
 msgid "DH_ZiS2Cannon.nProjectileDescriptions<1>"
-msgstr "O-271"
+msgstr "УO-271"
 
 msgid "DH_6PounderGun.VehicleNameString"
 msgstr "6 фунтовое ПТ орудие Mk.IV"
