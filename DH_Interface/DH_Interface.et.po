@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-29 21:23+0000\n"
+"PO-Revision-Date: 2026-01-10 16:23+0000\n"
 "Last-Translator: Ahto Jõesalu <ahto.joesalu.a@gmail.com>\n"
 "Language-Team: Estonian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/et/>\n"
@@ -640,7 +640,7 @@ msgid "DHMapVoteCountMultiColumnList.ColumnHeadingHints<2>"
 msgstr "Soovitatav mängjatearv."
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadings<0>"
-msgstr "Kaardi Nimi."
+msgstr "Taseme Nimi"
 
 msgid "DHMapVoteMultiColumnList.ColumnHeadings<1>"
 msgstr "Liitlasteriik"
@@ -819,3 +819,90 @@ msgstr "Seadmed"
 
 msgid "DHSettings_Footer.BackB.Caption"
 msgstr "Tagasi"
+
+msgid "DHTab_MainSP.DifficultyCombo.Caption"
+msgstr "Raskusaste"
+
+msgid "DHTab_MainSP.MapAuthorLabel.Caption"
+msgstr "Testimine"
+
+msgid "DHTab_MainSP.OptionsContainer.Caption"
+msgstr "Suvandid"
+
+msgid "DHTab_MainSP.PreviewGroup.Caption"
+msgstr "Eelvaade"
+
+msgid "DHTab_MainSP.RecommendedPlayers.Caption"
+msgstr "Sobib 4 kuni 8 mängja jaoks"
+
+msgid "DHTab_MainSP.ScrollSection.Caption"
+msgstr "Taseme Kirjeldus"
+
+msgid "DHTab_MainSP.SelectionGroup.Caption"
+msgstr "Teseme Valik"
+
+msgid "DHTab_MutatorSP.IAMutatorAdd.Caption"
+msgstr "Lisa"
+
+msgid "DHTab_MutatorSP.IAMutatorAll.Caption"
+msgstr "Lisa Kõik"
+
+msgid "DHTab_MutatorSP.IAMutatorClear.Caption"
+msgstr "Eemalda Kõik"
+
+msgid "DHTab_MutatorSP.IAMutatorRemove.Caption"
+msgstr "Eemalda"
+
+msgid "DHVideoChangePrompt.bCancel.Caption"
+msgstr "Taasta Sätmed"
+
+msgid "DHVideoChangePrompt.bOk.Caption"
+msgstr "Säilita Sätmed"
+
+msgid "DHTab_MainSP.MapCaptionText"
+msgstr "{game} Tasemed"
+
+msgid "DHTab_MainSP.MapAuthorText"
+msgstr "Autor: {author}"
+
+msgid "DHTab_MainSP.MapPlayersText"
+msgstr "{min} mängijad"
+
+msgid "DHTab_MainSP.MapPlayersRangeText"
+msgstr "{min}-{max} mängijad"
+
+msgid "DHTab_Input.InputBK1.Caption"
+msgstr "Seadmed"
+
+msgid "DHTab_Hud.GameBK.Caption"
+msgstr "Seadmed"
+
+msgid "DHServerBrowser.PanelHint<0>"
+msgstr "Vali lemmikute seast server millega ühineda"
+
+msgid "DHServerBrowser.PanelHint<1>"
+msgstr "Näita kõiki DH servereid mis on LAN võrgus"
+
+msgid "DHServerBrowser.PanelHint<2>"
+msgstr "Vali ülemaailmsetest DH serveritest millega ühineda"
+
+msgid "DHServerBrowser.PanelHint<3>"
+msgstr "Näita kõiki RO servereid mis on LAN võrgus"
+
+msgid "DHServerBrowser.PanelHint<4>"
+msgstr "Vali sajadest ülemaailmsetest RO serveritest millega ühineda"
+
+msgid "DHServerBrowser.PanelHint<5>"
+msgstr "Vali sajadest ülemaailmsetest RO serveritest millega ühineda"
+
+msgid "DHServerLoading.AuthorText"
+msgstr "Autor: {0}"
+
+msgid "DHServerLoading.DeployingText"
+msgstr "Lahinguväljaga liitumine {0}"
+
+msgid "DHPlayerSetupPage.psTitleBar.Caption"
+msgstr "Mängijate Ettevalmistus"
+
+msgid "DHNetworkStatusMsg.StatusTitle[12]"
+msgstr "Eemaldatud Sessioonist"
