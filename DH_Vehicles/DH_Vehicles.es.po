@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-22 18:23+0000\n"
+"PO-Revision-Date: 2026-01-17 02:23+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/es/>\n"
@@ -241,7 +241,7 @@ msgid "DH_T3485Tank_German.VehicleNameString"
 msgstr "Panzer T34"
 
 msgid "DH_T60Tank.VehicleNameString"
-msgstr "Tanque Ligero T-60"
+msgstr "Tanque ligero T-60"
 
 msgid "DH_T_4GEarlyTank.VehicleNameString"
 msgstr "T-IV mod.G"
@@ -828,7 +828,7 @@ msgid "DH_BT7Cannon.ProjectileDescriptions<1>"
 msgstr "HE"
 
 msgid "DH_Flak38Cannon.ProjectileDescriptions<0>"
-msgstr "Mun. Combinada"
+msgstr "Munición Combinada"
 
 msgid "DH_Flak38Cannon.ProjectileDescriptions<1>"
 msgstr "AP"
