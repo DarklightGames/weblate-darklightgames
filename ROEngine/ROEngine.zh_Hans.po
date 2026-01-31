@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-12 23:49+0000\n"
-"Last-Translator: KuvikSv <3415812725@qq.com>\n"
+"PO-Revision-Date: 2026-02-01 17:23+0000\n"
+"Last-Translator: Sanae <929719345@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/roengine/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -204,7 +204,7 @@ msgid "ROVoicePack.SupportAbbrevAxis[5]"
 msgstr "需要一把铁拳"
 
 msgid "ROVoicePack.EnemyString[0]"
-msgstr "发现地方步兵!"
+msgstr "发现敌方步兵!"
 
 msgid "ROVoicePack.EnemyString[1]"
 msgstr "发现敌方机枪!"
