@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-30 23:56+0000\n"
+"PO-Revision-Date: 2026-02-01 17:23+0000\n"
 "Last-Translator: Sanae <929719345@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_engine/zh_Hans/>\n"
@@ -1296,7 +1296,7 @@ msgid "DHSignal_Move.SignalName"
 msgstr "移动"
 
 msgid "DHSpawnProtectMineVolume.SafePeriodWarningMessage"
-msgstr "此地现为地方控制区! 你尚有 %remaining% 秒时间返回我方防线!"
+msgstr "此地现为敌方控制区! 你尚有 %remaining% 秒时间返回我方防线!"
 
 msgid "DHSpawnProtectMineVolume.SpawnMFActivatedMessage"
 msgstr "此地现为敌方控制区,立即撤退！"
@@ -1467,7 +1467,7 @@ msgid "DHSquadMessage.RallyPointExposed"
 msgstr "一个班组集合点已被敌人发现!"
 
 msgid "DHSquadMessage.RallyPointBehindEnemyLines"
-msgstr "无法在地方控制的领土内创建班组集合点."
+msgstr "无法在敌方控制的领土内创建班组集合点."
 
 msgid "DHSquadMessage.BannedPlayer"
 msgstr "{0} 已被从班组中踢出."
