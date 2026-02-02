@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-01 17:23+0000\n"
-"Last-Translator: Sanae <929719345@qq.com>\n"
+"PO-Revision-Date: 2026-02-02 01:16+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_engine/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -1986,3 +1986,9 @@ msgstr "切换至其他武器时，反坦克武器将自动卸弹。建议与队
 
 msgid "DarkestHourGame.GameName"
 msgstr "至暗时刻游戏"
+
+msgid "DHLocalization.LanguageCode"
+msgstr "zho"
+
+msgid "DHLocalization.LanguageName"
+msgstr "中文"
