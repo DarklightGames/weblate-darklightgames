@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-11 01:04+0000\n"
-"Last-Translator: flatboy <wannabekilla157@gmail.com>\n"
+"PO-Revision-Date: 2026-02-02 01:16+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Portuguese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pt/>\n"
 "Language: pt\n"
@@ -73,3 +73,9 @@ msgstr ""
 
 msgid "DHAdminMessage.AdminTeleportedMessage"
 msgstr "O administrador '{0}' se teletransportou-se."
+
+msgid "DHLocalization.LanguageCode"
+msgstr "por"
+
+msgid "DHLocalization.LanguageName"
+msgstr "Português"
