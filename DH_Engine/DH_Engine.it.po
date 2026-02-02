@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
-"Last-Translator: Dragoconte <dragoconte16@gmail.com>\n"
+"PO-Revision-Date: 2026-02-02 01:16+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Italian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/it/>\n"
 "Language: it\n"
@@ -34,3 +34,9 @@ msgstr "Entra"
 
 msgid "DHATGunTouchMessage.Controls<1>.Text"
 msgstr "Ruota"
+
+msgid "DHLocalization.LanguageCode"
+msgstr "ita"
+
+msgid "DHLocalization.LanguageName"
+msgstr "Italiano"
