@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-07 02:23+0000\n"
-"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
+"PO-Revision-Date: 2026-02-02 01:16+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
 "Language: es\n"
@@ -2241,3 +2241,9 @@ msgstr "No hay miembros del escuadrón cerca"
 
 msgid "DHMapMarker_Enemy_Artillery.MarkerName"
 msgstr "Artillería Enemiga"
+
+msgid "DHLocalization.LanguageCode"
+msgstr "spa"
+
+msgid "DHLocalization.LanguageName"
+msgstr "Español"
