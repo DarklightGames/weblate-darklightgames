@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-23 21:23+0000\n"
+"PO-Revision-Date: 2026-02-02 01:16+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ja/>\n"
@@ -2004,3 +2004,9 @@ msgstr "近くに分隊員がいません。"
 
 msgid "DHMapMarker_Enemy_Artillery.MarkerName"
 msgstr "敵砲兵"
+
+msgid "DHLocalization.LanguageCode"
+msgstr "jpn"
+
+msgid "DHLocalization.LanguageName"
+msgstr "日本語"
