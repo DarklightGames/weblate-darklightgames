@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-23 21:23+0000\n"
+"PO-Revision-Date: 2026-02-02 01:16+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
@@ -2675,3 +2675,9 @@ msgstr "Поруч немає товаришів з загону."
 
 msgid "DHMapMarker_Enemy_Artillery.MarkerName"
 msgstr "Ворожа артилерія"
+
+msgid "DHLocalization.LanguageCode"
+msgstr "ukr"
+
+msgid "DHLocalization.LanguageName"
+msgstr "Українська"
