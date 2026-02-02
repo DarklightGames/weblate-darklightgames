@@ -1046,6 +1046,12 @@ msgstr "SL"
 msgid "DHLocalMessage.SquadAssistantID"
 msgstr "A"
 
+msgid "DHLocalization.LanguageCode"
+msgstr "eng"
+
+msgid "DHLocalization.LanguageName"
+msgstr "English"
+
 msgid "DHMainMenuGame.GameName"
 msgstr "Game"
 
