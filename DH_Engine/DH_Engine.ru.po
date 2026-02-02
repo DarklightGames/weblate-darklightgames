@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-23 21:23+0000\n"
+"PO-Revision-Date: 2026-02-02 01:16+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
@@ -2964,3 +2964,9 @@ msgstr "Поблизости нету товарищей по отряду."
 
 msgid "DHMapMarker_Enemy_Artillery.MarkerName"
 msgstr "Артиллерия противника"
+
+msgid "DHLocalization.LanguageCode"
+msgstr "rus"
+
+msgid "DHLocalization.LanguageName"
+msgstr "Русский язык"
