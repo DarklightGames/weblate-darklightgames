@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-02 01:16+0000\n"
+"PO-Revision-Date: 2026-02-18 22:23+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_engine/zh_Hans/>\n"
@@ -372,7 +372,7 @@ msgid "DHCommandPostMessage.DestroyedMessage"
 msgstr "{name} 已被销毁。"
 
 msgid "DHCommandPostMessage.ConstructedMessage"
-msgstr "已创建｛name｝，并将在｛秒｝秒内建立。，并将 {seconds} 秒内建造完成。"
+msgstr "已创建{name}，并将在{seconds}秒内建立。"
 
 msgid "DHCommandSayMessage.MessagePrefix"
 msgstr "[命令]"
