@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 10:48+0000\n"
+"PO-Revision-Date: 2026-02-18 22:23+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/xvoting/ru/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "MapVotingPage.lmsgMapVotingDisabled"
 msgstr "Извините, администратор отключил возможность выбора карт голосованием."
@@ -23,3 +23,33 @@ msgstr "Выбранная карта отключена."
 
 msgid "MapVotingPage.WindowName"
 msgstr "Голосование: карта"
+
+msgid "xVotingHandler.lmsgKickVote"
+msgstr ""
+"%playername1% запустил голосование об исключении из игры против %playername2%"
+
+msgid "xVotingHandler.lmsgAnonymousKickVote"
+msgstr "Против %playername% было запущено голосование об исключении из игры"
+
+msgid "xVotingHandler.lmsgKickVoteAdmin"
+msgstr ""
+"%playername% попытался запустить голосование об исключении из игры против "
+"администратора сервера!"
+
+msgid "xVotingHandler.lmsgMapWon"
+msgstr "Победила карта %mapname%!"
+
+msgid "xVotingHandler.lmsgMidGameVote"
+msgstr "Было запущено голосование о смене карты посередине игры !!!!"
+
+msgid "xVotingHandler.lmsgSpectatorsCantVote"
+msgstr "Извините, зрители не могут голосовать."
+
+msgid "xVotingHandler.lmsgMapVotedFor"
+msgstr "%playername% голосует за карту %mapname%"
+
+msgid "xVotingHandler.lmsgMapVotedForWithCount"
+msgstr "%playername% разместил %votecount% голосов за карту %mapname%"
+
+msgid "xVotingHandler.lmsgAdminMapChange"
+msgstr "Администратор принудительно сменил карту на %mapname%"
