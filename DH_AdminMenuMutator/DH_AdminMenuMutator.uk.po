@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 11:54+0000\n"
+"PO-Revision-Date: 2026-02-18 22:23+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/uk/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "DHAdminMenuMutator.FriendlyName"
 msgstr "Меню адміністратора"
@@ -109,7 +109,7 @@ msgid "DHAdminMenu_PlayerActionsMenu.MenuText<10>"
 msgstr "Десантувати гравця з парашутом у поточному місці"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<4>"
-msgstr "Десантувати з парашутом всі війська Союзників на контрольну точку"
+msgstr "Десантувати з парашутом всі війська Союзників на ціль"
 
 msgid "DHAdminMenu_RealismMenu.MenuText<16>"
 msgstr "Встановити залишок часу цього раунду (у хвилинах)"
