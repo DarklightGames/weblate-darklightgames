@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-02 01:16+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2026-02-18 22:23+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/uk/>\n"
 "Language: uk\n"
@@ -281,9 +281,7 @@ msgid "DHEnemyInformationMsg.EnemyIsSurrendering"
 msgstr "Ворог відступає, битва скоро закінчиться!"
 
 msgid "DHConstructionErrorMessage.ErrorMessages<22>"
-msgstr ""
-"Занадто близько до контрольної точки ({string}), відійдіть на {integer}м "
-"далі."
+msgstr "Занадто близько до цілі ({string}), відійдіть на {integer}м далі."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<25>"
 msgstr "{name} не можливо {verb} на ворожій території."
@@ -316,8 +314,8 @@ msgstr ""
 
 msgid "DHConstructionErrorMessage.ErrorMessages<23>"
 msgstr ""
-"Занадто близько до неконтрольованої точки ({string}), відійдіть на {integer}"
-"м далі."
+"Занадто близько до неконтрольованої цілі ({string}), відійдіть на {integer}м "
+"далі."
 
 msgid "DHConstructionGroup_Guns.GroupName"
 msgstr "Гармати"
@@ -1251,7 +1249,7 @@ msgid "DHHud.CanReloadText"
 msgstr "Натисніть %THROWMGAMMO%, щоб допомогти з перезаряджанням"
 
 msgid "DHHud.ConnectedObjectivesNotSecuredText"
-msgstr "Пов'язані точки захоплення не під контролем"
+msgstr "Пов'язані цілі не під контролем"
 
 msgid "DHHud.NeedsClearedText"
 msgstr " (Не захоплено)"
@@ -1657,8 +1655,7 @@ msgid "DHConstructionErrorMessage.ErrorMessages<12>"
 msgstr "Ви не можете {verb} тут '{name}', оскільки ви знаходитесь в приміщенні."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<13>"
-msgstr ""
-"Ви не можете {verb} тут '{name}' оскільки ви всередині контрольної точки."
+msgstr "Ви не можете {verb} тут '{name}' оскільки ви в зоні цілі."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<15>"
 msgstr "У радіусі {integer}м немає схованок з запасами."
