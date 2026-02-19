@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-18 22:23+0000\n"
+"PO-Revision-Date: 2026-02-20 20:23+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/xvoting/es/>\n"
@@ -37,7 +37,7 @@ msgstr ""
 "servidor!"
 
 msgid "xVotingHandler.lmsgMapWon"
-msgstr "¡%mapname% ha sido seleccionado por votación!"
+msgstr "¡%mapname% ha ganado la votación!"
 
 msgid "xVotingHandler.lmsgMidGameVote"
 msgstr "¡Se ha iniciado la votación de mapas a mitad del juego!"
