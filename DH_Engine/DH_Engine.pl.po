@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-02 01:16+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2026-02-26 18:23+0000\n"
+"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pl/>\n"
 "Language: pl\n"
@@ -399,7 +399,7 @@ msgid "DHCommandMenu_SquadLeader.Options<5>.ActionText"
 msgstr "Ruchy"
 
 msgid "DHConstructionErrorMessage.ErrorMessages<2>"
-msgstr "Musisz {verb} {name} na solidnym gruncie."
+msgstr "Musisz {verb} {name} na twardym podłożu."
 
 msgid "DHConstructionErrorMessage.ErrorMessages<3>"
 msgstr "Podłoże jest tu zbyt strome, by {verb} {name}."
@@ -672,7 +672,7 @@ msgstr ""
 "zmienić"
 
 msgid "DHHud.NeedsClearedText"
-msgstr " (Nie zabezpieczone)"
+msgstr " (Niezabezpieczone)"
 
 msgid "DHHud.BlackoutText"
 msgstr "Zaciemnienie"
@@ -1098,7 +1098,7 @@ msgid "DHGameMessage.RoleInvalidatedMessage"
 msgstr "Nie masz już kwalifikacji do bycia {name}."
 
 msgid "DHGameMessage.VehicleArrivedMessage"
-msgstr "{0} posiłków zostało uzupełnione."
+msgstr "Posiłki {0} zostały uzupełnione."
 
 msgid "DHGameMessage.VehicleCutOffMessage"
 msgstr "{0} posiłki zostały odcięte."
@@ -1202,7 +1202,7 @@ msgid "DHConstructionSupplyAttachment_Static_Main.HumanReadableName"
 msgstr "Główny skład zapasów"
 
 msgid "DHGameMessage.VehicleDepletedMessage"
-msgstr "{0} posiłków zostało wyczerpane."
+msgstr "Posiłki {0} zostały wyczerpane."
 
 msgid "DHCommandMenu_SquadManageNonMember.AlreadyInASquadText"
 msgstr "Już w oddziale"
@@ -1846,7 +1846,7 @@ msgid "DHSquadMessage.RallyPointDestroyed"
 msgstr "Punkt zbiórki oddziału został zniszczony."
 
 msgid "DHMapMarker_Friendly_CommandPost.MarkerName"
-msgstr "Prośba o Centrum Dowodzenia"
+msgstr "Prośba o Sztab"
 
 msgid "DHMapMarker_Enemy_CommandPost.MarkerName"
 msgstr "Wrogi Sztab"
@@ -2111,7 +2111,7 @@ msgid "DHHud.ConnectedObjectivesNotSecuredText"
 msgstr "Połaczony cel (cele) nie są zabezpieczone"
 
 msgid "DHConstruction_Vehicle.ConstructionVerb"
-msgstr "rozmieść"
+msgstr "rozmieścić"
 
 msgid "DHHintManager.Hints[47].Title"
 msgstr "Zdalnie Sterowany KM"
