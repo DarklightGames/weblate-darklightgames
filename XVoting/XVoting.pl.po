@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-26 17:43+0000\n"
+"PO-Revision-Date: 2026-02-26 18:23+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/xvoting/pl/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgid "MapVotingPage.lmsgReplicationNotFinished"
 msgstr "Trwa pobieranie danych mapy. Spróbuj ponownie później."
@@ -25,3 +25,32 @@ msgstr ""
 
 msgid "MapVotingPage.WindowName"
 msgstr "Głosowanie na mapę"
+
+msgid "xVotingHandler.lmsgKickVote"
+msgstr "%playername1% oddał głos za wyrzuceniem gracza %playername2%"
+
+msgid "xVotingHandler.lmsgAnonymousKickVote"
+msgstr "Złożono głos za wyrzuceniem gracza %playername%"
+
+msgid "xVotingHandler.lmsgKickVoteAdmin"
+msgstr ""
+"%playername% próbował rozpocząć głosowanie za wyrzuceniem administratora "
+"serwera!"
+
+msgid "xVotingHandler.lmsgMapWon"
+msgstr "Wygrała mapa %mapname%!"
+
+msgid "xVotingHandler.lmsgMidGameVote"
+msgstr "Zainicjowano głosowanie za zmianą mapy w trakcie gry !!!!"
+
+msgid "xVotingHandler.lmsgSpectatorsCantVote"
+msgstr "Przepraszamy, widzowie nie mogą głosować."
+
+msgid "xVotingHandler.lmsgMapVotedFor"
+msgstr "%playername% zagłosował na mapę %mapname%"
+
+msgid "xVotingHandler.lmsgMapVotedForWithCount"
+msgstr "%playername% oddał %votecount% głosy na mapę %mapname%"
+
+msgid "xVotingHandler.lmsgAdminMapChange"
+msgstr "Administrator wymusił zmianę mapy na %mapname%"
