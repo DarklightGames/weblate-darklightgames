@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-08 21:58+0000\n"
+"PO-Revision-Date: 2026-02-26 18:23+0000\n"
 "Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/xvoting/fr/>\n"
@@ -25,3 +25,32 @@ msgstr "La carte sélectionnée est désactivée."
 
 msgid "MapVotingPage.WindowName"
 msgstr "Vote de Carte"
+
+msgid "xVotingHandler.lmsgKickVote"
+msgstr "%playername1% a commencé un vote de kick contre %playername2%"
+
+msgid "xVotingHandler.lmsgAnonymousKickVote"
+msgstr "Un vote de kick envers %playername% a été commencé"
+
+msgid "xVotingHandler.lmsgKickVoteAdmin"
+msgstr ""
+"%playername% a tenté de soumettre un vote de kick contre l'administrateur du "
+"serveur !"
+
+msgid "xVotingHandler.lmsgMapWon"
+msgstr "%mapname% l'a remporté !"
+
+msgid "xVotingHandler.lmsgMidGameVote"
+msgstr "Le vote de map pendant une partie a été initié !!!!"
+
+msgid "xVotingHandler.lmsgSpectatorsCantVote"
+msgstr "Désolé, les Spectateurs ne peuvent pas voter."
+
+msgid "xVotingHandler.lmsgMapVotedFor"
+msgstr "%playername% a voté pour %mapname%"
+
+msgid "xVotingHandler.lmsgMapVotedForWithCount"
+msgstr "%playername% a voté %votecount% fois pour %mapname%"
+
+msgid "xVotingHandler.lmsgAdminMapChange"
+msgstr "L'administrateur a forcé le changement de carte à %mapname%"
