@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-13 22:09+0000\n"
+"PO-Revision-Date: 2026-02-26 18:23+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/pl/>\n"
@@ -308,7 +308,7 @@ msgid "DH_KV1sCannon_Late.ProjectileDescriptions<0>"
 msgstr "APBC"
 
 msgid "DH_M16Halftrack.VehicleNameString"
-msgstr "HalftrackM16"
+msgstr "Halftrack M16"
 
 msgid "DH_M3A1HalftrackTransport.VehicleNameString"
 msgstr "Halftrack M3A1"
