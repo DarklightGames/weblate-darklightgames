@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-25 16:23+0000\n"
+"PO-Revision-Date: 2026-03-05 18:23+0000\n"
 "Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/xvoting/de/>\n"
@@ -37,6 +37,19 @@ msgstr "Zuschauer können nicht abstimmen."
 msgid "xVotingHandler.lmsgMapVotedFor"
 msgstr "%playername% hat für %mapname% gestimmt"
 
-#, fuzzy
 msgid "xVotingHandler.lmsgAdminMapChange"
-msgstr "Administrator hat die Karte gewaltsam zu %mapname% gewechselt"
+msgstr "Erzwungener Kartenwechsel zu %mapname% durch Administrator"
+
+msgid "xVotingHandler.lmsgKickVote"
+msgstr "%playername1% stimmte für den Rauswurf von %playername2%"
+
+msgid "xVotingHandler.lmsgKickVoteAdmin"
+msgstr ""
+"%playername% versuchte für den Rauswurf des Server Administrators zu stimmen!"
+
+#, fuzzy
+msgid "xVotingHandler.lmsgMidGameVote"
+msgstr "Kartenabstimmung während des Gefechts gestartet !!!!"
+
+msgid "xVotingHandler.lmsgMapVotedForWithCount"
+msgstr "%playername% hat %votecount% Stimmen für %mapname% platziert"
