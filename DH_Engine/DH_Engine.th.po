@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-15 12:23+0000\n"
+"PO-Revision-Date: 2026-03-21 10:23+0000\n"
 "Last-Translator: nexgardbound <nexgardbound@gmail.com>\n"
 "Language-Team: Thai <https://weblate.darklightgames.com/projects/darkesthour/"
 "dh_engine/th/>\n"
@@ -31,3 +31,6 @@ msgstr "สัมพันธมิตร"
 
 msgid "DHAlliedMachineGunnerRoles.MyName"
 msgstr "พลปืนกล"
+
+msgid "DHAccessControl.IPBanned"
+msgstr "คุณไม่สามารถเข้าร่วมเซิร์ฟเวอร์นี้ได้ คุณถูกแบนแล้ว"
