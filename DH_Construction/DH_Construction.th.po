@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-15 12:23+0000\n"
+"PO-Revision-Date: 2026-03-21 10:23+0000\n"
 "Last-Translator: nexgardbound <nexgardbound@gmail.com>\n"
 "Language-Team: Thai <https://weblate.darklightgames.com/projects/darkesthour/"
 "dh_construction/th/>\n"
@@ -16,3 +16,12 @@ msgstr "ยกเลิก"
 
 msgid "DHConstructionControlsMessage.Controls<0>.Text"
 msgstr "ยืนยัน"
+
+msgid "DHCommandMenu_ConstructionGroup.NoSquadMembersNearbyText"
+msgstr "ไม่มีเพื่อนร่วมหมู่อยู่ใกล้ๆ"
+
+msgid "DHConstructionResupplyPlayers.MenuName"
+msgstr "ลังกระสุน (สำหรับทหารราบ)"
+
+msgid "DHConstructionResupplyVehicles.MenuName"
+msgstr "ลังกระสุน (สำหรับยานพาหนะ)"
