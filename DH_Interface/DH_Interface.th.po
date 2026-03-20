@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-15 12:23+0000\n"
+"PO-Revision-Date: 2026-03-21 10:23+0000\n"
 "Last-Translator: nexgardbound <nexgardbound@gmail.com>\n"
 "Language-Team: Thai <https://weblate.darklightgames.com/projects/darkesthour/"
 "dh_interface/th/>\n"
@@ -37,3 +37,106 @@ msgstr "ยกเลิก"
 
 msgid "DHBrowser_OpenIP.OkButton.Caption"
 msgstr "โอเค"
+
+msgid "DHBrowser_OpenIP.IPDesc.Caption"
+msgstr "ป้อนที่อยู่ IP ใหม่"
+
+msgid "DHBrowser_ServersList.ColumnHeadings<5>"
+msgstr "แผนที่"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<1>"
+msgstr "เชิญ {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<2>"
+msgstr "เตะ {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<3>"
+msgstr "แบน {0}"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<4>"
+msgstr "เลื่อนตำแหน่ง {0} เป็นหัวหมู่"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<5>"
+msgstr "มอบหมายให้ {0} เป็นผู้ช่วยหัวหมู่"
+
+msgid "DHContextMenu_SquadMembers.EntryTexts<6>"
+msgstr "เลิกมอบหมายให้ {0} เป็นผู้ช่วยหัวหมู่"
+
+msgid "DHCreditsPage.AnimatorsText"
+msgstr "คนทำแอนิเมชั่น"
+
+msgid "DHCreditsPage.ArtistsText"
+msgstr "ศิลปิน"
+
+msgid "DHCreditsPage.ModelersText"
+msgstr "คนทำโมเดล"
+
+msgid "DHDeployMenu.AlliesButtonObject.Hint"
+msgstr "เข้าร่วมกับสัมพันธมิตร"
+
+msgid "DHDeployMenu.AxisButtonObject.Hint"
+msgstr "เข้าร่วมกับอักษะ"
+
+msgid "DHDeployMenu.ChangeTeamConfirmText"
+msgstr ""
+"คุณแน่ใจนะว่าต้องการเปลี่ยนฝ่าย? (คุณจะไม่สามารถเปลี่ยนกลับได้เป็นเวลา {s} วินาที)"
+
+msgid "DHDeployMenu.CantChangeTeamYetText"
+msgstr "คุณต้องรอ {s} ก่อน ถึงจะสามารถเปลี่ยนฝ่ายได้"
+
+msgid "DHDeployMenu.MapButtonObject.Hint"
+msgstr "แผนที่ [F1]"
+
+msgid "DHDeployMenu.MapVoteButtonObject.Caption"
+msgstr "โหวตเลือกแผนที่"
+
+msgid "DHDeployMenu.SquadLeadershipOnlyText"
+msgstr "หัวหมู่เท่านั้น"
+
+msgid "DHDeployMenu.SurrenderConfirmBaseText"
+msgstr "คุณแน่ใจนะว่าต้องการยอมจำนน?"
+
+msgid "DHDeployMenu.SurrenderButtonText[0]"
+msgstr "ถอยทัพ"
+
+msgid "DHDeployMenu.SettingsButtonObject.Caption"
+msgstr "การตั้งค่า"
+
+msgid "DHGUISquadComponent.CreateSquadButton.Caption"
+msgstr "สร้างหมู่"
+
+msgid "DHGUISquadComponent.JoinSquadButton.Caption"
+msgstr "เข้าหมู่"
+
+msgid "DHGUISquadComponent.LeaveSquadButton.Caption"
+msgstr "ออกหมู่"
+
+msgid "DHGUITeamSelection.SettingsButtonObject.Caption"
+msgstr "การตั้งค่า"
+
+msgid "DHGetDataMenu.CancelButton.Caption"
+msgstr "ยกเลิก"
+
+msgid "DHMainMenu.DiscordButton.Hint"
+msgstr "เข้าร่วมกับเราใน Discord!"
+
+msgid "DHMainMenu.FacebookButton.Hint"
+msgstr "ติดตามเราได้บน Facebook!"
+
+msgid "DHMainMenu.GitHubButton.Hint"
+msgstr "มาร่วมกับเราบน GitHub!"
+
+msgid "DHMainMenu.QuitButton.Caption"
+msgstr "ออก"
+
+msgid "DHMainMenu.SettingsButton.Caption"
+msgstr "การตั้งค่า"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<1>"
+msgstr "ชาติพันธมิตร"
+
+msgid "DHMapVoteMultiColumnList.ColumnHeadings<2>"
+msgstr "ชาติอักษะ"
+
+msgid "DHMapVotingPage.FilterEditbox.Caption"
+msgstr "ค้นหา"
