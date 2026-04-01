@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-02 01:16+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2026-04-01 03:57+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
 "Language: es\n"
@@ -334,7 +334,7 @@ msgid "DHLib.ServerHealthStages[4].Text"
 msgstr "Pésimo"
 
 msgid "DHMapMarker_Enemy_ATGun.MarkerName"
-msgstr "Cañón AT enemigo"
+msgstr "Cañón enemigo"
 
 msgid "DHMapMarker_Enemy_Infantry.MarkerName"
 msgstr "Infantería enemiga"
@@ -594,10 +594,10 @@ msgid "DHCommandMenu_FireSupport.AvailableAirstrikesText"
 msgstr "Ataques aéreos: {0}"
 
 msgid "DHGameMessage.VehicleCutOffMessage"
-msgstr "Los refuerzos de {0} han sido cortados."
+msgstr "Los refuerzos del {0} han sido cortados."
 
 msgid "DHGameMessage.VehicleArrivedMessage"
-msgstr "Los refuerzos de {0} han llegado al combate."
+msgstr "Los refuerzos del {0} han llegado al combate."
 
 msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
 msgstr "terminar de girar"
@@ -627,7 +627,7 @@ msgid "DHCommandMenu_ATGun.BusyText"
 msgstr "Estas ocupado"
 
 msgid "DHConstructionGroup_Guns.GroupName"
-msgstr "Cañones"
+msgstr "Armamento emplazado"
 
 msgid "DHConstructionSupplyAttachment_Static_Main.HumanReadableName"
 msgstr "Base de Depósito de Suministros"
@@ -1435,7 +1435,7 @@ msgid "DHFireSupportMessage.ErrorText"
 msgstr "No se pudo colocar una marca de soporte de fuego."
 
 msgid "DHGameMessage.VehicleDepletedMessage"
-msgstr "Los refuerzos de {0} se han agotado."
+msgstr "Los refuerzos del {0} se han agotado."
 
 msgid "DHHintManager.Hints[63].Title"
 msgstr "Cambia el barril"
@@ -1714,7 +1714,7 @@ msgid "DHSquadPromotionRequestInteraction.Options<0>.Text"
 msgstr "Aceptar"
 
 msgid "DHSquadOrderMessage.AttackText"
-msgstr "El líder del escuadrón ha emitido una nueva orden de ataque."
+msgstr "El líder del escuadrón ha emitido una nueva orden de Ataque."
 
 msgid "DHVehicleTouchControlsMessage.Controls<0>.Text"
 msgstr "Entrar"
@@ -1954,7 +1954,7 @@ msgid "DHVehicleVoiceSayMessage.MessagePrefix"
 msgstr "[VOZ]"
 
 msgid "DHVoicePack.AlertString[8]"
-msgstr "Bajo ataque en {objective}"
+msgstr "Estamos bajo ataque en {objective}"
 
 msgid "DHVoicePack.VehicleDirectionString[0]"
 msgstr "Ir hacia {objective}"
