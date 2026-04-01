@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-17 02:23+0000\n"
+"PO-Revision-Date: 2026-04-01 03:57+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_vehicles/es/>\n"
@@ -19,19 +19,19 @@ msgid "DH_Autoblinda43ArmoredCar.VehicleNameString"
 msgstr "Autoblinda 43"
 
 msgid "DH_AutoblindaArmoredCar.VehicleNameString"
-msgstr "Autoblinda 41"
+msgstr "Carro Blindado Autoblinda 41"
 
 msgid "DH_BA64ArmoredCar.VehicleNameString"
-msgstr "Automóvil Blindado BA64"
+msgstr "Carro Blindado BA64"
 
 msgid "DH_BT7Tank.VehicleNameString"
-msgstr "Tanque ligero BT-7"
+msgstr "BT-7"
 
 msgid "DH_BrenCarrierTransport.VehicleNameString"
 msgstr "Bren Carrier Mk.I"
 
 msgid "DH_CV33Tank.VehicleNameString"
-msgstr "Carro Armato L3/33"
+msgstr "Carro Blindado L3/33"
 
 msgid "DH_Cromwell6PdrTank.VehicleNameString"
 msgstr "Cromwell Mk.I"
@@ -52,10 +52,10 @@ msgid "DH_Fiat626Truck.VehicleNameString"
 msgstr "Fiat 626"
 
 msgid "DH_Fiat626TruckSupport.VehicleNameString"
-msgstr "Fiat 626 (Logística)"
+msgstr "Camión Fiat 626 (Logística)"
 
 msgid "DH_Fiat626TruckTransport.VehicleNameString"
-msgstr "Fiat 626 (Transporte)"
+msgstr "Camión Fiat 626 (Transporte)"
 
 msgid "DH_GAZ67Vehicle.VehicleNameString"
 msgstr "GAZ-67"
@@ -70,7 +70,7 @@ msgid "DH_GermanCarrierTransport.VehicleNameString"
 msgstr "Bren 731(e)"
 
 msgid "DH_GreyhoundArmoredCar_British.VehicleNameString"
-msgstr "Automóvil Blindado Greyhound"
+msgstr "Carro Blindado Greyhound"
 
 msgid "DH_HellcatTank.VehicleNameString"
 msgstr "M18 Hellcat"
@@ -121,10 +121,10 @@ msgid "DH_OpelBlitz.VehicleNameString"
 msgstr "Opel Blitz"
 
 msgid "DH_OpelBlitzSupport.VehicleNameString"
-msgstr "Opel Blitz (Logística)"
+msgstr "Camión Opel Blitz (Logística)"
 
 msgid "DH_OpelBlitzTransport.VehicleNameString"
-msgstr "Opel Blitz (Transporte)"
+msgstr "Camión Opel Blitz (Transporte)"
 
 msgid "DH_PantherDTank.VehicleNameString"
 msgstr "Panzer V 'Panther' Ausf.D"
@@ -163,7 +163,7 @@ msgid "DH_SdKfz251_22Transport.VehicleNameString"
 msgstr "Semioruga Sd.Kfz.251/22"
 
 msgid "DH_Sdkfz105Transport.VehicleNameString"
-msgstr "Sd.Kfz. 10/5"
+msgstr "Carro Blindado Sd.Kfz. 10/5"
 
 msgid "DH_Sdkfz251Transport.VehicleNameString"
 msgstr "Semioruga Sd.Kfz.251"
@@ -241,13 +241,13 @@ msgid "DH_T3485Tank_German.VehicleNameString"
 msgstr "Panzer T34"
 
 msgid "DH_T60Tank.VehicleNameString"
-msgstr "Tanque ligero T-60"
+msgstr "T-60"
 
 msgid "DH_T_4GEarlyTank.VehicleNameString"
-msgstr "T-IV mod.G"
+msgstr "T-IV versión G"
 
 msgid "DH_T_5GTank.VehicleNameString"
-msgstr "T-V 'Pantera' mod.G"
+msgstr "T-V 'Pantera' versión G"
 
 msgid "DH_Tiger2BTank.VehicleNameString"
 msgstr "Panzer VI 'Königstiger' Ausf.B"
@@ -277,7 +277,7 @@ msgid "DH_ZiS5vTruckTransport.VehicleNameString"
 msgstr "Camión ZiS-5V (Transporte)"
 
 msgid "DH_GreyhoundArmoredCar.VehicleNameString"
-msgstr "Automóvil Blindado M8"
+msgstr "Carro Blindado M8"
 
 msgid "DH_LocustTank.VehicleNameString"
 msgstr "M22 Locust **WIP**"
@@ -292,7 +292,7 @@ msgid "DH_PanzerIVGEarlyTank.VehicleNameString"
 msgstr "Panzer IV Ausf.G"
 
 msgid "DH_Sdkfz2342ArmoredCar.VehicleNameString"
-msgstr "Sd.Kfz.234/2 \"Puma\""
+msgstr "Carro Blindado Sd.Kfz.234/2"
 
 msgid "DH_ShermanTankA_M4A176W.VehicleNameString"
 msgstr "M4A1(76) Sherman"
@@ -310,16 +310,16 @@ msgid "DH_JagdpanzerIVL70Destroyer.VehicleNameString"
 msgstr "Jagdpanzer IV/70(V)"
 
 msgid "DH_Sdkfz2341ArmoredCar.VehicleNameString"
-msgstr "Sd.Kfz.234/1"
+msgstr "Carro Blindado Sd.Kfz.234/1"
 
 msgid "DH_T_4F1Tank.VehicleNameString"
-msgstr "T-IV mod.F"
+msgstr "T-IV versión F"
 
 msgid "DH_ShermanTank_M4A3E8_ZombieSlayer.VehicleNameString"
 msgstr "Sherman M4A3E8 'Zombie Slayer'"
 
 msgid "DH_AutocarrettaOMSupport.VehicleNameString"
-msgstr "Autocarretta OM 36Mt (Logistica)"
+msgstr "Camión Autocarretta OM 36Mt (Logistica)"
 
 msgid "DH_AchillesCannon.nProjectileDescriptions<0>"
 msgstr "Mk.IV APC"
@@ -921,7 +921,7 @@ msgid "DH_WolverineCannon_Early.ProjectileDescriptions<0>"
 msgstr "APCBC"
 
 msgid "DH_AutocarrettaOM.VehicleNameString"
-msgstr "Autocarretta OM 36P"
+msgstr "Camión Autocarretta OM 36P"
 
 msgid "DH_SU76Cannon.ProjectileDescriptions<1>"
 msgstr "HE"
@@ -1266,10 +1266,10 @@ msgid "DH_UFO.VehicleNameString"
 msgstr "Objeto volador no identificado"
 
 msgid "DH_UFOBlue.VehicleNameString"
-msgstr "OVNI Azul del dolor"
+msgstr "OVNI Azul del Dolor"
 
 msgid "DH_UFOGreen.VehicleNameString"
 msgstr "OVNI Verde de la Lealtad"
 
 msgid "DH_UFORed.VehicleNameString"
-msgstr "OVNI Rojo de la furia"
+msgstr "OVNI Rojo de la Furia"
