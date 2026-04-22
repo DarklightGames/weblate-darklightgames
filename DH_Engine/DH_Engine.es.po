@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-01 03:57+0000\n"
+"PO-Revision-Date: 2026-04-23 20:22+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
@@ -430,7 +430,7 @@ msgid "DHSpawnProtectMineVolume.WarningMessage"
 msgstr "¡Has entrado en una zona controlada por el enemigo, retrocede!"
 
 msgid "DHSquadInviteInteraction.Options<1>.Text"
-msgstr "Declina"
+msgstr "Rechazar"
 
 msgid "DHSquadInviteInteraction.Options<2>.Text"
 msgstr "Haz caso omiso a todo"
@@ -600,7 +600,7 @@ msgid "DHGameMessage.VehicleArrivedMessage"
 msgstr "Los refuerzos del {0} han llegado al combate."
 
 msgid "DHATGunRotateControlsMessage.Controls<0>.Text"
-msgstr "terminar de girar"
+msgstr "Terminar de girar"
 
 msgid "DHArtillerySpottingScope.RightString"
 msgstr "Derecha"
@@ -636,7 +636,7 @@ msgid "DHConstructionErrorMessage.ErrorMessages<17>"
 msgstr "No puedes {verb} un {name} en esta superficie."
 
 msgid "DHConstruction_Vehicle.ConstructionVerb"
-msgstr "Emplazar"
+msgstr "emplazar"
 
 msgid "DHGameMessage.VehicleTeamKilledMessage"
 msgstr "{0} ha matado a un {1} aliado."
@@ -687,7 +687,7 @@ msgid "DHMainMenuGame.GameName"
 msgstr "Juego"
 
 msgid "DHATGunRotateControlsMessage.Controls<1>.Text"
-msgstr "Rotar"
+msgstr "Girar"
 
 msgid "DHCommandMenu_LoneWolf.AutoJoinSquadDisabledText"
 msgstr "No hay escuadras para elegir"
@@ -829,7 +829,7 @@ msgid "DHCommunicationMessage.AllChatDisabledMessage"
 msgstr "El chat publico esta deshabilitado en este momento."
 
 msgid "DHConstruction.ConstructionVerb"
-msgstr "Construir"
+msgstr "construir"
 
 msgid "DHConstructionErrorMessage.ErrorMessages<2>"
 msgstr "Debes {verb} un {name} en un terreno solido."
@@ -1039,7 +1039,7 @@ msgid "DHConstructionErrorMessage.ErrorMessages<24>"
 msgstr "Debes {verb} un {name} dentro {integer}m de un {string} aliado."
 
 msgid "DHCommandMenu_ATGun.CannotBeRotatedText"
-msgstr "No se puede rotar"
+msgstr "No se puede girar"
 
 msgid "DHCommandMenu_ATGun.OccupiedText"
 msgstr "El cañón esta siendo ocupado"
