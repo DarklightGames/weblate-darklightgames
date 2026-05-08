@@ -213,7 +213,7 @@ msgid "DH_M1927Cannon.nProjectileDescriptions<0>"
 msgstr "OF-350"
 
 msgid "DH_M1927Cannon.nProjectileDescriptions<1>"
-msgstr "BP-350M"
+msgstr "BP-353A"
 
 msgid "DH_M1927Gun.VehicleNameString"
 msgstr "76 mm regimental gun M1927"

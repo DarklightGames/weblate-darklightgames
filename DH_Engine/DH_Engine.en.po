@@ -878,6 +878,12 @@ msgstr "Incoming!"
 msgid "DHHintManager.Hints[66].Text"
 msgstr "You have just launched a mortar round straight up into the air. You may want to take cover!"
 
+msgid "DHHintManager.Hints[67].Title"
+msgstr "Sending Messages On The Move"
+
+msgid "DHHintManager.Hints[67].Text"
+msgstr "You will continue moving autonomously if you open the chat prompt while walking on foot or accelerating in a vehicle. You can disable this option in \"Input\" settings."
+
 msgid "DHHud.ServerNameText"
 msgstr "Server: "
 
@@ -952,6 +958,12 @@ msgstr "[ALL]"
 
 msgid "DHHud.TypingPromptText"
 msgstr "Press [{0}] to change chat channel"
+
+msgid "DHHud.TypingPromptStopWalkingText"
+msgstr ", [{0}] to stop moving"
+
+msgid "DHHud.TypingPromptStopDrivingText"
+msgstr ", [{0}] to stop accelerating"
 
 msgid "DHHud.PrereleaseDisclaimerText"
 msgstr "This is a pre-release build. All content is subject to change."
@@ -1267,6 +1279,9 @@ msgstr "You must shoulder the {0} for an assisted reload"
 
 msgid "DHRocketWarningMessage.CantBeMoving"
 msgstr "You must be stationary to fire the {0}"
+
+msgid "DHRoundEndReasonMessage.TeamSurrenderedMessage"
+msgstr "The round has ended because a team voted to retreat."
 
 msgid "DHScoreCategory_Combat.HumanReadableName"
 msgstr "Combat"

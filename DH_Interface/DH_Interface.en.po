@@ -617,6 +617,9 @@ msgstr "Settings"
 msgid "DHMainMenu.SteamCommunityButton.Hint"
 msgstr "Join the Steam Community!"
 
+msgid "DHMainMenu.VKButton.Hint"
+msgstr "Follow us on VK!"
+
 msgid "DHMainMenu.WeblateButton.Hint"
 msgstr "Localize the game with Weblate!"
 
@@ -1492,6 +1495,12 @@ msgstr "Scope and Binocular Sensitivity Factor"
 
 msgid "DHTab_Input.InputUseJoystick.Caption"
 msgstr "Enable Joystick"
+
+msgid "DHTab_Input.KeepMovingWhileTyping.Caption"
+msgstr "Keep Moving With Chat Open"
+
+msgid "DHTab_Input.KeepMovingWhileTyping.Hint"
+msgstr "Continue running or driving after opening the chat prompt."
 
 msgid "DHTab_MainSP.MapCaptionText"
 msgstr "{game} Maps"
