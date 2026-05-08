@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-23 20:22+0000\n"
+"PO-Revision-Date: 2026-05-09 07:51+0000\n"
 "Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/es/>\n"
@@ -2247,3 +2247,21 @@ msgstr "spa"
 
 msgid "DHLocalization.LanguageName"
 msgstr "Español"
+
+msgid "DHHintManager.Hints[67].Title"
+msgstr "Enviar mensajes en movimiento"
+
+msgid "DHHintManager.Hints[67].Text"
+msgstr ""
+"Continuarás moviéndote de forma autónoma si abres el cuadro de chat mientras "
+"caminas a pie o aceleras en un vehículo. Puedes desactivar esta opción en la "
+"configuración de \"Mouse\"."
+
+msgid "DHHud.TypingPromptStopWalkingText"
+msgstr ", [{0}] para parar el movimiento"
+
+msgid "DHHud.TypingPromptStopDrivingText"
+msgstr ", [{0}] para detener el aceleramiento"
+
+msgid "DHRoundEndReasonMessage.TeamSurrenderedMessage"
+msgstr "La partida ha terminado porque uno de los equipos decidió retirarse."
