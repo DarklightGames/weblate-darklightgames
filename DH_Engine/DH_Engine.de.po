@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-02 01:16+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2026-05-09 07:51+0000\n"
+"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/de/>\n"
 "Language: de\n"
@@ -2318,3 +2318,21 @@ msgstr "deu"
 
 msgid "DHLocalization.LanguageName"
 msgstr "Deutsch"
+
+msgid "DHHud.TypingPromptStopWalkingText"
+msgstr ", [{0}] um stehen zu bleiben"
+
+msgid "DHHud.TypingPromptStopDrivingText"
+msgstr ", [{0}] um aufzuhören zu beschleunigen"
+
+msgid "DHRoundEndReasonMessage.TeamSurrenderedMessage"
+msgstr "Das Gefecht ist vorbei, da eine Seite den Rückzug angetreten ist."
+
+msgid "DHHintManager.Hints[67].Title"
+msgstr "Nachrichten in der Bewegung senden"
+
+msgid "DHHintManager.Hints[67].Text"
+msgstr ""
+"Wenn der Chat geöffnet wird, bewegst dich weiterhin selbstständig fort "
+"während du zu Fuß unterwegs bist oder mit einem Fahrzeug beschleunigst. "
+"Diese Option kann in den Einstellungen unter „Eingabe“ deaktiviert werden."
