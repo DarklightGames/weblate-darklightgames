@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-02 01:16+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2026-05-09 07:51+0000\n"
+"Last-Translator: Ramitos <srgtalq@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/es/>\n"
 "Language: es\n"
@@ -1670,3 +1670,12 @@ msgstr "Ping"
 
 msgid "DHMainMenu.WeblateButton.Hint"
 msgstr "¡Localiza el juego con Weblate!"
+
+msgid "DHMainMenu.VKButton.Hint"
+msgstr "¡Siguenos en VK!"
+
+msgid "DHTab_Input.KeepMovingWhileTyping.Caption"
+msgstr "Seguir moviendose con el chat abierto"
+
+msgid "DHTab_Input.KeepMovingWhileTyping.Hint"
+msgstr "Continúa moviéndote o conduciendo después de haber abierto el chat."
