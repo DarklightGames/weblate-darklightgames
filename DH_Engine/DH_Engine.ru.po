@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-02 01:16+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2026-05-09 07:51+0000\n"
+"Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ru/>\n"
 "Language: ru\n"
@@ -2970,3 +2970,23 @@ msgstr "rus"
 
 msgid "DHLocalization.LanguageName"
 msgstr "Русский язык"
+
+msgid "DHHintManager.Hints[67].Title"
+msgstr "Отправка сообщений на ходу"
+
+msgid "DHHud.TypingPromptStopDrivingText"
+msgstr ", [{0}] что бы прекратить ускорение"
+
+msgid "DHHintManager.Hints[67].Text"
+msgstr ""
+"Если вы откроете окно чата на ходу или во время вождения, то ваш персонаж "
+"продолжит передвижение автономно. Эту функцию можно отключить в настройках, "
+"в разделе \"ввод\"."
+
+#, fuzzy
+msgid "DHHud.TypingPromptStopWalkingText"
+msgstr ", [{0}] что бы прекратить движение"
+
+#, fuzzy
+msgid "DHRoundEndReasonMessage.TeamSurrenderedMessage"
+msgstr "Раунд закончен потому что ваша команда предпочла отступить."
