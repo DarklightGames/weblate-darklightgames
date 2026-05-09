@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 07:51+0000\n"
+"PO-Revision-Date: 2026-05-09 09:11+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
@@ -1601,7 +1601,7 @@ msgstr ""
 "раніше, можна читати в консолі."
 
 msgid "DHTab_Hud.UseTechnicalAmmoNames.Caption"
-msgstr "Використовувати технічні назви боєприпасів (Танки/ПТ-гармати)"
+msgstr "Використовувати технічні назви снарядів"
 
 msgid "DHTab_MutatorSP.AvailBackground.Caption"
 msgstr "Доступні мутатори"
@@ -1698,7 +1698,7 @@ msgid "DHTab_GameSettings.ViewFOV.Caption"
 msgstr "Поле зору (FOV)"
 
 msgid "DHTab_Hud.GameBK.Caption"
-msgstr "Налаштування"
+msgstr "Опції"
 
 msgid "DHTab_Hud.GameBK1.Caption"
 msgstr "Стиль"
@@ -1764,7 +1764,7 @@ msgid "DHTab_Input.InputAutoSlope.Caption"
 msgstr "Автоматичний нахил"
 
 msgid "DHTab_Input.InputBK1.Caption"
-msgstr "Налаштування"
+msgstr "Опції"
 
 msgid "DHTab_Input.InputInvertMouse.Caption"
 msgstr "Інвертувати мишу"
