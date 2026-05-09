@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 07:51+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-05-09 08:15+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ru/>\n"
 "Language: ru\n"
@@ -227,7 +227,7 @@ msgid "DH_M116Gun.VehicleNameString"
 msgstr "75 мм вьючная гаубица М1"
 
 msgid "DH_M1927Cannon.nProjectileDescriptions<1>"
-msgstr "БП-350М"
+msgstr "БП-353А"
 
 msgid "DH_17PounderGunCannon.nProjectileDescriptions<1>"
 msgstr "Mk.I HE-T"
