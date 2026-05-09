@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-18 22:23+0000\n"
+"PO-Revision-Date: 2026-05-09 07:51+0000\n"
 "Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Ukrainian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/uk/>\n"
@@ -553,7 +553,7 @@ msgstr ""
 "не робіть цього."
 
 msgid "DHSettingsPage.PanelHint<4>"
-msgstr "Інші налаштування. Варіанти введення..."
+msgstr "Налаштуйте параметри миші, клавіатури, та інших засобів вводу..."
 
 msgid "DHTab_AudioSettings.AudioChannelsNum.Hint"
 msgstr "Кількість звукових каналів, які гра може використовувати одночасно"
@@ -992,26 +992,27 @@ msgid "DHSettingsPage.PanelCaption<3>"
 msgstr "Керування"
 
 msgid "DHSettingsPage.PanelCaption<4>"
-msgstr "Миша"
+msgstr "Засоби вводу"
 
 msgid "DHSettingsPage.PanelCaption<5>"
 msgstr "Інтерфейс (HUD)"
 
 msgid "DHSettingsPage.PanelHint<0>"
-msgstr "Параметри налаштувань гри та мережі..."
+msgstr "Налаштуйте параметри гри на мережі..."
 
 msgid "DHSettingsPage.PanelHint<1>"
 msgstr ""
-"Виберіть роздільну здатність або змініть налаштування екрану і деталізації..."
+"Виберіть роздільну здатність, або змініть налаштування екрану і "
+"деталізації..."
 
 msgid "DHSettingsPage.PanelHint<2>"
 msgstr "Налаштуйте якість звуку..."
 
 msgid "DHSettingsPage.PanelHint<3>"
-msgstr "Налаштуйте керування клавіатурою і мишею..."
+msgstr "Змініть призначення кнопок миші, клавіатури, та інших засобів вводу..."
 
 msgid "DHSettingsPage.PanelHint<5>"
-msgstr "Налаштуйте свій Ігровий інтерфейс (HUD)..."
+msgstr "Налаштуйте свій ігровий інтерфейс (HUD)..."
 
 msgid "DHSettingsPage.PanelHint<6>"
 msgstr "як ти це отримав?"
@@ -2000,3 +2001,9 @@ msgstr "Пінг"
 
 msgid "DHMainMenu.WeblateButton.Hint"
 msgstr "Локалізуйте гру за допомогою Weblate!"
+
+msgid "DHTab_Input.KeepMovingWhileTyping.Caption"
+msgstr "Продовжувати рух з відкритим чатом"
+
+msgid "DHTab_Input.KeepMovingWhileTyping.Hint"
+msgstr "Продовжувати рухатись або тримати педаль газу після відкриття чату."
