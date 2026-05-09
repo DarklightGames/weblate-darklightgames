@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-02 01:16+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2026-05-10 08:20+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/fr/>\n"
 "Language: fr\n"
@@ -2159,3 +2159,21 @@ msgstr "fra"
 
 msgid "DHLocalization.LanguageName"
 msgstr "Français"
+
+msgid "DHHud.TypingPromptStopWalkingText"
+msgstr ", [{0}] pour vous arrêter"
+
+msgid "DHHud.TypingPromptStopDrivingText"
+msgstr ", [{0}] pour arrêter d’accélérer"
+
+msgid "DHRoundEndReasonMessage.TeamSurrenderedMessage"
+msgstr "La partie a pris fin car une équipe a voté pour battre en retraite."
+
+msgid "DHHintManager.Hints[67].Title"
+msgstr "Envoi De Messages En Mouvement"
+
+msgid "DHHintManager.Hints[67].Text"
+msgstr ""
+"Vous continuerez à vous déplacer de manière autonome si vous ouvrez l'invite "
+"de discussion en marchant à pied ou en accélérant dans un véhicule. Vous "
+"pouvez désactiver cette option dans les paramètres \"Périphériques\"."
