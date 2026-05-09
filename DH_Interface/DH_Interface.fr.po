@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 07:51+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2026-05-10 08:20+0000\n"
+"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/fr/>\n"
 "Language: fr\n"
@@ -896,9 +896,8 @@ msgstr "Son"
 msgid "DHSettingsPage.PanelCaption<3>"
 msgstr "Contrôles"
 
-#, fuzzy
 msgid "DHSettingsPage.PanelCaption<4>"
-msgstr "Souris / Manette"
+msgstr "Périphériques"
 
 msgid "DHSettingsPage.PanelCaption<5>"
 msgstr "Interface"
@@ -1660,3 +1659,9 @@ msgstr "Ping"
 
 msgid "DHMainMenu.WeblateButton.Hint"
 msgstr "Localisez le jeu avec Weblate !"
+
+msgid "DHTab_Input.KeepMovingWhileTyping.Caption"
+msgstr "Se Déplacer Avec Chat Ouvert"
+
+msgid "DHTab_Input.KeepMovingWhileTyping.Hint"
+msgstr "Continuer à courir ou à conduire après l'ouverture de l'invite de chat."
