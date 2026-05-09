@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-05 18:23+0000\n"
-"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
+"PO-Revision-Date: 2026-05-09 07:51+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/xvoting/de/>\n"
 "Language: de\n"
@@ -47,7 +47,6 @@ msgid "xVotingHandler.lmsgKickVoteAdmin"
 msgstr ""
 "%playername% versuchte für den Rauswurf des Server Administrators zu stimmen!"
 
-#, fuzzy
 msgid "xVotingHandler.lmsgMidGameVote"
 msgstr "Kartenabstimmung während des Gefechts gestartet !!!!"
 
