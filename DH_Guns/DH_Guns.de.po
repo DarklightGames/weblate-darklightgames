@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 07:51+0000\n"
-"Last-Translator: Werner Wolff <gary375@gmail.com>\n"
+"PO-Revision-Date: 2026-05-09 08:15+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: German <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/de/>\n"
 "Language: de\n"
@@ -342,7 +342,7 @@ msgid "DH_M5GunCannon.nProjectileDescriptions<0>"
 msgstr "M62 APC"
 
 msgid "DH_M1927Cannon.nProjectileDescriptions<1>"
-msgstr "BP-350M"
+msgstr "BP-353A"
 
 msgid "DH_M116Gun.VehicleNameString"
 msgstr "75mm Pack Howitzer M1"
