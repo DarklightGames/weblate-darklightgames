@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-09 07:51+0000\n"
-"Last-Translator: -Red- <jarik261208@gmail.com>\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ru/>\n"
 "Language: ru\n"
@@ -891,6 +891,7 @@ msgstr "Видео"
 msgid "DHSettingsPage.PanelCaption<3>"
 msgstr "Управление"
 
+#, fuzzy
 msgid "DHSettingsPage.PanelCaption<4>"
 msgstr "Мышь"
 
@@ -903,6 +904,7 @@ msgstr "Выберите разрешение или измените настр
 msgid "DHSettingsPage.PanelHint<2>"
 msgstr "Настройте качество звука..."
 
+#, fuzzy
 msgid "DHSettingsPage.PanelHint<4>"
 msgstr "Другие настройки. Варианты ввода..."
 
