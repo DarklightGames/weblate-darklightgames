@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 07:51+0000\n"
-"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
+"PO-Revision-Date: 2026-05-09 08:15+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/ja/>\n"
 "Language: ja\n"
@@ -222,7 +222,7 @@ msgid "DH_M1927Cannon.nProjectileDescriptions<0>"
 msgstr "OF-350(HE)"
 
 msgid "DH_M1927Cannon.nProjectileDescriptions<1>"
-msgstr "BP-350M(HEAT)"
+msgstr "BP-353A(HEAT)"
 
 msgid "DH_M1MortarCannon.nProjectileDescriptions<0>"
 msgstr "M34A1 HE"
