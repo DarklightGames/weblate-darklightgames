@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-18 22:23+0000\n"
+"PO-Revision-Date: 2026-05-10 08:20+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_adminmenumutator/ru/>\n"
@@ -127,7 +127,7 @@ msgstr ""
 
 msgid "DHAdminMenu_ErrorMessages.ErrorMessage[1]"
 msgstr ""
-"Вы должны авторизоваться как администратор (через консоль) что-бы "
+"Вы должны авторизоваться как администратор (через консоль) чтобы "
 "использовать эту функцию"
 
 msgid "DHAdminMenu_AdminMessages.ToggleWeaponLockText"
