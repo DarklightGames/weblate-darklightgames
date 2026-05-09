@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-02 01:16+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2026-05-09 07:51+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/fr/>\n"
 "Language: fr\n"
@@ -896,6 +896,7 @@ msgstr "Son"
 msgid "DHSettingsPage.PanelCaption<3>"
 msgstr "Contrôles"
 
+#, fuzzy
 msgid "DHSettingsPage.PanelCaption<4>"
 msgstr "Souris / Manette"
 
