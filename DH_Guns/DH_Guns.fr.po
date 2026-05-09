@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 07:51+0000\n"
-"Last-Translator: Frenchy <frenchy4416@gmail.com>\n"
+"PO-Revision-Date: 2026-05-09 08:15+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: French <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/fr/>\n"
 "Language: fr\n"
@@ -199,7 +199,7 @@ msgid "DH_M1927Cannon.nProjectileDescriptions<0>"
 msgstr "OF-350"
 
 msgid "DH_M1927Cannon.nProjectileDescriptions<1>"
-msgstr "BP-350M"
+msgstr "BP-353A"
 
 msgid "DH_Pak38Cannon.ProjectileDescriptions<0>"
 msgstr "APCBC"
