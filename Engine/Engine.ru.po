@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-25 23:23+0000\n"
+"PO-Revision-Date: 2026-05-10 08:20+0000\n"
 "Last-Translator: -Red- <jarik261208@gmail.com>\n"
 "Language-Team: Russian <https://weblate.darklightgames.com/projects/"
 "darkesthour/engine/ru/>\n"
@@ -82,7 +82,7 @@ msgid "Progress.ReceiveFile"
 msgstr "Приём '%s' (F10 для отмены)"
 
 msgid "Progress.ReceiveOptionalFile"
-msgstr "Приём опционального файла '%s' (Нажмите F10 что-бы пропустить)"
+msgstr "Приём опционального файла '%s' (Нажмите F10 чтобы пропустить)"
 
 msgid "KeyNames.JoyV"
 msgstr "ДЖОЙ V"
