@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 07:51+0000\n"
-"Last-Translator: Çağan Berk <cagandem@gmail.com>\n"
+"PO-Revision-Date: 2026-05-09 08:15+0000\n"
+"Last-Translator: Birdy <mooncats@tutanota.com>\n"
 "Language-Team: Turkish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_guns/tr/>\n"
 "Language: tr\n"
@@ -219,7 +219,7 @@ msgid "DH_M1927Cannon.nProjectileDescriptions<0>"
 msgstr "OF-350"
 
 msgid "DH_M1927Cannon.nProjectileDescriptions<1>"
-msgstr "BP-350M"
+msgstr "BP-353A"
 
 msgid "DH_M1927Gun.VehicleNameString"
 msgstr "76 mm Destek Topu M1927"
