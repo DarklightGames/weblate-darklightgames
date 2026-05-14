@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-18 22:23+0000\n"
-"Last-Translator: mineshipjp <mineshipjp@gmail.com>\n"
+"PO-Revision-Date: 2026-05-15 02:06+0000\n"
+"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/ja/>\n"
 "Language: ja\n"
@@ -1862,3 +1862,9 @@ msgstr "設定を確定する"
 
 msgid "DHMainMenu.WeblateButton.Hint"
 msgstr "Weblateでゲームをローカライズしましょう!"
+
+msgid "DHTab_Input.KeepMovingWhileTyping.Caption"
+msgstr "チャットを開いてで走り続ける"
+
+msgid "DHTab_Input.KeepMovingWhileTyping.Hint"
+msgstr "チャットプロンプトを開いた後、走るか運転するかを続ける。"
