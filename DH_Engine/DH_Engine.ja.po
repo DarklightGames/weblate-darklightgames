@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-18 22:23+0000\n"
+"PO-Revision-Date: 2026-05-15 02:06+0000\n"
 "Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
 "Language-Team: Japanese <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/ja/>\n"
@@ -2010,3 +2010,19 @@ msgstr "jpn"
 
 msgid "DHLocalization.LanguageName"
 msgstr "日本語"
+
+msgid "DHHintManager.Hints[67].Title"
+msgstr "走りながらメセーギを送ること"
+
+msgid "DHHintManager.Hints[67].Text"
+msgstr "走りながらチャットプロンプトを開いたら、自動に走り続ける。インプットの設定で"
+"変えられる。"
+
+msgid "DHHud.TypingPromptStopWalkingText"
+msgstr "、 [{0}]を押して止まる"
+
+msgid "DHHud.TypingPromptStopDrivingText"
+msgstr "、[{0}]を押して加速するの止まる"
+
+msgid "DHRoundEndReasonMessage.TeamSurrenderedMessage"
+msgstr "一つのチームが撤退に投票したので、ラウンドが終わる。"
