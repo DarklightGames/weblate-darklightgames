@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-08 21:10+0000\n"
+"PO-Revision-Date: 2026-05-16 07:59+0000\n"
 "Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/xvoting/zh_Hans/>\n"
@@ -22,3 +22,30 @@ msgstr "所选地图已被禁用."
 
 msgid "MapVotingPage.WindowName"
 msgstr "地图投票"
+
+msgid "xVotingHandler.lmsgKickVote"
+msgstr "%playername1% 发起了一场针对 %playername2% 的踢出投票"
+
+msgid "xVotingHandler.lmsgAnonymousKickVote"
+msgstr "已发起一场针对 %playername% 的踢出投票"
+
+msgid "xVotingHandler.lmsgKickVoteAdmin"
+msgstr "%playername% 试图对服务器管理员发起踢出投票 !"
+
+msgid "xVotingHandler.lmsgMapWon"
+msgstr "地图 %mapname% 票数最高 !"
+
+msgid "xVotingHandler.lmsgMidGameVote"
+msgstr "已开启游戏中途换图投票 !!!!"
+
+msgid "xVotingHandler.lmsgSpectatorsCantVote"
+msgstr "抱歉,观察者无法投票."
+
+msgid "xVotingHandler.lmsgMapVotedFor"
+msgstr "%playername% 投票选择了 %mapname%"
+
+msgid "xVotingHandler.lmsgMapVotedForWithCount"
+msgstr "%playername% 为%mapname%投出了 %votecount% 票"
+
+msgid "xVotingHandler.lmsgAdminMapChange"
+msgstr "管理员已强制切换地图至 %mapname%"
