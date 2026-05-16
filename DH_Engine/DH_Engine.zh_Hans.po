@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-18 22:23+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2026-05-16 07:59+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_engine/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -1992,3 +1992,19 @@ msgstr "zho"
 
 msgid "DHLocalization.LanguageName"
 msgstr "中文"
+
+msgid "DHHintManager.Hints[67].Title"
+msgstr "移动中发送消息"
+
+msgid "DHHintManager.Hints[67].Text"
+msgstr "若在徒步行走或驾驶载具加速时打开聊天输入框,你将保持自动移动状态."
+"你可以在\"输入\"设置中关闭此选项."
+
+msgid "DHHud.TypingPromptStopWalkingText"
+msgstr ",按 [{0}]键停止自动移动"
+
+msgid "DHHud.TypingPromptStopDrivingText"
+msgstr ",按[{0}] 键停止自动加速"
+
+msgid "DHRoundEndReasonMessage.TeamSurrenderedMessage"
+msgstr "由于有队伍投票决定撤退,本回合已结束."
