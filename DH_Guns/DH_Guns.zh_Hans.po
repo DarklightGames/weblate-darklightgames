@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 07:51+0000\n"
-"Last-Translator: Birdy <mooncats@tutanota.com>\n"
+"PO-Revision-Date: 2026-05-16 07:59+0000\n"
+"Last-Translator: KuvikSv <3415812725@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.darklightgames.com/projects/darkesthour/dh_guns/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -215,9 +215,8 @@ msgstr "破甲弹"
 msgid "DH_M1927Cannon.nProjectileDescriptions<0>"
 msgstr "OF-350型高爆榴弹"
 
-#, fuzzy
 msgid "DH_M1927Cannon.nProjectileDescriptions<1>"
-msgstr "BP-350M现代化穿甲弹"
+msgstr "BP-350A穿甲高爆弹"
 
 msgid "DH_M1927Gun.VehicleNameString"
 msgstr "76毫米1927年式团属火炮"
