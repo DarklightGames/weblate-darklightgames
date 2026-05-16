@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-02 01:16+0000\n"
-"Last-Translator: Weblate Admin <cmbasnett@proton.me>\n"
+"PO-Revision-Date: 2026-05-16 21:45+0000\n"
+"Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_interface/pl/>\n"
 "Language: pl\n"
@@ -1670,3 +1670,9 @@ msgstr "Ś"
 
 msgid "DHMainMenu.WeblateButton.Hint"
 msgstr "Zlokalizuj grę za pomocą Weblate!"
+
+msgid "DHTab_Input.KeepMovingWhileTyping.Caption"
+msgstr "Poruszaj się z otwartym Czatem"
+
+msgid "DHTab_Input.KeepMovingWhileTyping.Hint"
+msgstr "Kontynuuj bieg lub jazdę po otwarciu okna czatu."
