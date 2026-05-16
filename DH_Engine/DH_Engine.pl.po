@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-26 18:23+0000\n"
+"PO-Revision-Date: 2026-05-16 21:45+0000\n"
 "Last-Translator: Maciej Babiszewski <maciekbabi101@gmail.com>\n"
 "Language-Team: Polish <https://weblate.darklightgames.com/projects/"
 "darkesthour/dh_engine/pl/>\n"
@@ -2175,3 +2175,21 @@ msgstr "pol"
 
 msgid "DHLocalization.LanguageName"
 msgstr "Polski"
+
+msgid "DHHintManager.Hints[67].Title"
+msgstr "Wysyłanie Wiadomości w Ruchu"
+
+msgid "DHHintManager.Hints[67].Text"
+msgstr ""
+"Będziesz poruszać się samodzielnie po otwarciu czatu podczas poruszania się "
+"pieszo lub pojazdem. Możesz wyłączyć tę opcję w menu ustawień „Dane "
+"Wejściowe”."
+
+msgid "DHHud.TypingPromptStopWalkingText"
+msgstr ", [{0}] aby przestać biec"
+
+msgid "DHHud.TypingPromptStopDrivingText"
+msgstr ", [{0}] aby przestać przyśpieszać"
+
+msgid "DHRoundEndReasonMessage.TeamSurrenderedMessage"
+msgstr "Runda zakończyła się, ponieważ jedna z drużyn zagłosowała za odwrotem."
